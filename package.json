@@ -1,0 +1,22 @@
+{
+  "name": "eichmann-archive-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Adolf Eichmann Trial Collection from CJH Archives",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scraper.js",
+    "ocr": "node ocr.js",
+    "ocr:google": "node ocr-google-rest.js",
+    "ocr:google:file": "node ocr-google-rest.js"
+  },
+  "dependencies": {
+    "@google-cloud/documentai": "^8.12.0",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "google-auth-library": "^10.5.0",
+    "pdf-poppler": "^0.2.1",
+    "puppeteer": "^21.6.1",
+    "tesseract.js": "^5.0.4"
+  }
+}

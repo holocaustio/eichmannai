@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Temp files
+temp_pdfs/
+temp_images/
+
+# Google credentials (sensitive!)
+google-credentials.json
+*.json.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
