@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eichmann Trial - Entity Graph</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Hebrew:wght@400;500;600&display=swap');
+    
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'IBM Plex Sans Hebrew', sans-serif;
+      background: #0a0a0f;
+      color: #e0e0e0;
+      height: 100vh;
+      overflow: hidden;
+    }
+    
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+    
+    /* Sidebar */
+    .sidebar {
+      width: 320px;
+      background: linear-gradient(180deg, #12121a 0%, #0d0d14 100%);
+      border-left: 1px solid #2a2a3a;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .sidebar h1 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    
+    .sidebar .subtitle {
+      font-size: 0.85rem;
+      color: #888;
+      margin-bottom: 24px;
+    }
+    
+    /* Stats */
+    .stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    
+    .stat-card {
+      background: #1a1a24;
+      border-radius: 8px;
+      padding: 12px;
+      text-align: center;
+    }
+    
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: #6366f1;
+    }
+    
+    .stat-label {
+      font-size: 0.75rem;
+      color: #888;
+      margin-top: 4px;
+    }
+    
+    /* Filters */
+    .filter-section {
+      margin-bottom: 20px;
+    }
+    
+    .filter-section h3 {
+      font-size: 0.9rem;
+      color: #aaa;
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    
+    .filter-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    
+    .chip {
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      border: 1px solid transparent;
+    }
+    
+    .chip.active {
+      border-color: currentColor;
+    }
+    
+    .chip.person { background: #3b82f620; color: #60a5fa; }
+    .chip.location { background: #ef444420; color: #f87171; }
+    .chip.organization { background: #22c55e20; color: #4ade80; }
+    .chip.event { background: #f59e0b20; color: #fbbf24; }
+    .chip.document { background: #8b5cf620; color: #a78bfa; }
+    .chip.date { background: #06b6d420; color: #22d3ee; }
+    
+    /* Search */
+    .search-box {
+      margin-bottom: 20px;
+    }
+    
+    .search-box input {
+      width: 100%;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: 1px solid #2a2a3a;
+      background: #1a1a24;
+      color: #fff;
+      font-size: 0.9rem;
+    }
+    
+    .search-box input::placeholder {
+      color: #666;
+    }
+    
+    .search-box input:focus {
+      outline: none;
+      border-color: #6366f1;
+    }
+    
+    /* Entity list */
+    .entity-list {
+      flex: 1;
+      overflow-y: auto;
+    }
+    
+    .entity-item {
+      padding: 10px 12px;
+      border-radius: 6px;
+      margin-bottom: 4px;
+      cursor: pointer;
+      transition: background 0.2s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .entity-item:hover {
+      background: #1a1a24;
+    }
+    
+    .entity-name {
+      font-size: 0.9rem;
+    }
+    
+    .entity-meta {
+      font-size: 0.75rem;
+      color: #666;
+    }
+    
+    /* Graph container */
+    .graph-container {
+      flex: 1;
+      position: relative;
+    }
+    
+    #graph {
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle at center, #12121a 0%, #0a0a0f 100%);
+    }
+    
+    /* Node detail panel */
+    .detail-panel {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      background: #12121aee;
+      border: 1px solid #2a2a3a;
+      border-radius: 12px;
+      padding: 20px;
+      min-width: 280px;
+      max-width: 350px;
+      display: none;
+      backdrop-filter: blur(10px);
+    }
+    
+    .detail-panel.show {
+      display: block;
+    }
+    
+    .detail-panel h2 {
+      font-size: 1.2rem;
+      margin-bottom: 4px;
+    }
+    
+    .detail-panel .type-badge {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      margin-bottom: 16px;
+    }
+    
+    .detail-panel .connections {
+      margin-top: 16px;
+    }
+    
+    .detail-panel .connections h4 {
+      font-size: 0.8rem;
+      color: #888;
+      margin-bottom: 8px;
+    }
+    
+    .detail-panel .connection-item {
+      font-size: 0.85rem;
+      padding: 4px 0;
+      border-bottom: 1px solid #2a2a3a;
+    }
+    
+    /* Loading */
+    .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #2a2a3a;
+      border-top-color: #6366f1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 16px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="graph-container">
+      <div id="graph"></div>
+      <div class="loading" id="loading">
+        <div class="loading-spinner"></div>
+        <div>טוען גרף ישויות...</div>
+      </div>
+      <div class="detail-panel" id="detailPanel">
+        <h2 id="detailName"></h2>
+        <span class="type-badge" id="detailType"></span>
+        <div>
+          <strong>אזכורים:</strong> <span id="detailMentions"></span>
+        </div>
+        <div>
+          <strong>ישיבות:</strong> <span id="detailSessions"></span>
+        </div>
+        <div class="connections">
+          <h4>קשרים:</h4>
+          <div id="detailConnections"></div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="sidebar">
+      <h1>משפט אייכמן</h1>
+      <div class="subtitle">גרף ישויות וקשרים</div>
+      
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-value" id="totalNodes">0</div>
+          <div class="stat-label">ישויות</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="totalEdges">0</div>
+          <div class="stat-label">קשרים</div>
+        </div>
+      </div>
+      
+      <div class="filter-section">
+        <h3>סוגי ישויות</h3>
+        <div class="filter-chips" id="typeFilters">
+          <span class="chip person active" data-type="PERSON">אנשים</span>
+          <span class="chip location active" data-type="LOCATION">מקומות</span>
+          <span class="chip organization active" data-type="ORGANIZATION">ארגונים</span>
+          <span class="chip event active" data-type="EVENT">אירועים</span>
+          <span class="chip document active" data-type="DOCUMENT">מסמכים</span>
+          <span class="chip date active" data-type="DATE">תאריכים</span>
+        </div>
+      </div>
+      
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="חיפוש ישויות...">
+      </div>
+      
+      <div class="entity-list" id="entityList"></div>
+    </div>
+  </div>
+
+  <script>
+    // Color mapping
+    const typeColors = {
+      PERSON: { bg: '#3b82f6', border: '#60a5fa' },
+      LOCATION: { bg: '#ef4444', border: '#f87171' },
+      ORGANIZATION: { bg: '#22c55e', border: '#4ade80' },
+      EVENT: { bg: '#f59e0b', border: '#fbbf24' },
+      DOCUMENT: { bg: '#8b5cf6', border: '#a78bfa' },
+      DATE: { bg: '#06b6d4', border: '#22d3ee' }
+    };
+    
+    const typeLabels = {
+      PERSON: 'אדם',
+      LOCATION: 'מקום',
+      ORGANIZATION: 'ארגון',
+      EVENT: 'אירוע',
+      DOCUMENT: 'מסמך',
+      DATE: 'תאריך'
+    };
+    
+    let graphData = null;
+    let network = null;
+    let activeFilters = new Set(['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DOCUMENT', 'DATE']);
+    
+    // Load data
+    async function loadData() {
+      try {
+        const response = await fetch('entity-graph.json');
+        graphData = await response.json();
+        document.getElementById('loading').style.display = 'none';
+        calculateDegrees();
+        initGraph();
+        updateStats();
+        renderEntityList();
+      } catch (error) {
+        document.getElementById('loading').innerHTML = `
+          <div style="color: #f87171;">שגיאה בטעינת הנתונים</div>
+          <div style="font-size: 0.8rem; color: #888; margin-top: 8px;">${error.message}</div>
+        `;
+      }
+    }
+    
+    function initGraph() {
+      const container = document.getElementById('graph');
+      
+      // Find max degree for normalization (using global nodeDegrees)
+      const maxDegree = Math.max(...Object.values(nodeDegrees), 1);
+      
+      // Debug: log top nodes by degree
+      const sortedByDegree = Object.entries(nodeDegrees).sort((a, b) => b[1] - a[1]).slice(0, 10);
+      console.log('Top 10 nodes by degree:', sortedByDegree);
+      console.log('Max degree:', maxDegree);
+      
+      // Create nodes with size based on connections
+      const nodes = new vis.DataSet(
+        graphData.nodes
+          .filter(n => activeFilters.has(n.type))
+          .map(node => {
+            const degree = nodeDegrees[node.id] || 0;
+            const displayName = node.name || node.canonical || node.id;
+            
+            // Calculate size: logarithmic scale for better distribution
+            // min size 15, max size 80
+            const minSize = 15;
+            const maxSize = 80;
+            const logDegree = Math.log(degree + 1);
+            const logMax = Math.log(maxDegree + 1);
+            const normalizedSize = logDegree / logMax;
+            const size = minSize + normalizedSize * (maxSize - minSize);
+            
+            // Font size scales with node size
+            const fontSize = Math.max(12, Math.min(24, 12 + normalizedSize * 12));
+            
+            return {
+              id: node.id,
+              label: displayName,
+              title: `${displayName}\n${typeLabels[node.type] || node.type}\nקשרים: ${degree}\nאזכורים: ${node.mentions}`,
+              size: size,
+              color: {
+                background: typeColors[node.type]?.bg || '#666',
+                border: typeColors[node.type]?.border || '#888',
+                highlight: {
+                  background: typeColors[node.type]?.border || '#888',
+                  border: '#fff'
+                }
+              },
+              font: {
+                color: '#fff',
+                size: fontSize
+              }
+            };
+          })
+      );
+      
+      // Create edges
+      const nodeIds = new Set(nodes.getIds());
+      const edges = new vis.DataSet(
+        graphData.edges
+          .filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
+          .map((edge, i) => ({
+            id: i,
+            from: edge.source,
+            to: edge.target,
+            width: Math.min(1 + edge.weight * 0.5, 5),
+            color: { color: '#3a3a4a', highlight: '#6366f1' },
+            smooth: { type: 'continuous' }
+          }))
+      );
+      
+      const data = { nodes, edges };
+      
+      const options = {
+        nodes: {
+          shape: 'dot',
+          font: {
+            color: '#fff',
+            face: 'Arial, sans-serif',
+            strokeWidth: 0
+          },
+          borderWidth: 2
+        },
+        physics: {
+          stabilization: { iterations: 150 },
+          barnesHut: {
+            gravitationalConstant: -8000,
+            springLength: 250,
+            springConstant: 0.015,
+            damping: 0.3
+          }
+        },
+        interaction: {
+          hover: true,
+          tooltipDelay: 200,
+          zoomView: true
+        }
+      };
+      
+      network = new vis.Network(container, data, options);
+      
+      // Click handler
+      network.on('click', function(params) {
+        if (params.nodes.length > 0) {
+          showNodeDetail(params.nodes[0]);
+        } else {
+          document.getElementById('detailPanel').classList.remove('show');
+        }
+      });
+    }
+    
+    function showNodeDetail(nodeId) {
+      const node = graphData.nodes.find(n => n.id === nodeId);
+      if (!node) return;
+      
+      const displayName = node.name || node.canonical || node.id;
+      const degree = nodeDegrees[nodeId] || 0;
+      
+      const panel = document.getElementById('detailPanel');
+      document.getElementById('detailName').textContent = displayName;
+      
+      const typeBadge = document.getElementById('detailType');
+      typeBadge.textContent = typeLabels[node.type] || node.type;
+      typeBadge.className = 'type-badge';
+      typeBadge.style.background = typeColors[node.type]?.bg + '40';
+      typeBadge.style.color = typeColors[node.type]?.border;
+      
+      document.getElementById('detailMentions').textContent = `${node.mentions} (${degree} קשרים)`;
+      document.getElementById('detailSessions').textContent = node.sessions?.join(', ') || '-';
+      
+      // Find connections
+      const connections = graphData.edges
+        .filter(e => e.source === nodeId || e.target === nodeId)
+        .map(e => ({
+          name: e.source === nodeId ? e.target : e.source,
+          weight: e.weight
+        }))
+        .sort((a, b) => b.weight - a.weight)
+        .slice(0, 10);
+      
+      document.getElementById('detailConnections').innerHTML = connections
+        .map(c => `<div class="connection-item">${c.name} (${c.weight})</div>`)
+        .join('');
+      
+      panel.classList.add('show');
+    }
+    
+    function updateStats() {
+      document.getElementById('totalNodes').textContent = graphData.nodes.length;
+      document.getElementById('totalEdges').textContent = graphData.edges.length;
+    }
+    
+    // Store degrees globally for entity list
+    let nodeDegrees = {};
+    
+    function calculateDegrees() {
+      nodeDegrees = {};
+      for (const edge of graphData.edges) {
+        nodeDegrees[edge.source] = (nodeDegrees[edge.source] || 0) + edge.weight;
+        nodeDegrees[edge.target] = (nodeDegrees[edge.target] || 0) + edge.weight;
+      }
+    }
+    
+    function renderEntityList(filter = '') {
+      const list = document.getElementById('entityList');
+      const displayName = n => n.name || n.canonical || n.id;
+      
+      const filtered = graphData.nodes
+        .filter(n => activeFilters.has(n.type))
+        .filter(n => !filter || displayName(n).includes(filter))
+        .map(n => ({ ...n, degree: nodeDegrees[n.id] || 0 }))
+        .sort((a, b) => b.degree - a.degree)
+        .slice(0, 50);
+      
+      list.innerHTML = filtered.map(node => `
+        <div class="entity-item" onclick="focusNode('${node.id}')">
+          <span class="entity-name" style="color: ${typeColors[node.type]?.border}">${displayName(node)}</span>
+          <span class="entity-meta">${node.degree} קשרים</span>
+        </div>
+      `).join('');
+    }
+    
+    function focusNode(nodeId) {
+      network.focus(nodeId, { scale: 1.5, animation: true });
+      network.selectNodes([nodeId]);
+      showNodeDetail(nodeId);
+    }
+    
+    // Filter handlers
+    document.getElementById('typeFilters').addEventListener('click', (e) => {
+      if (e.target.classList.contains('chip')) {
+        const type = e.target.dataset.type;
+        if (activeFilters.has(type)) {
+          activeFilters.delete(type);
+          e.target.classList.remove('active');
+        } else {
+          activeFilters.add(type);
+          e.target.classList.add('active');
+        }
+        initGraph();
+        renderEntityList(document.getElementById('searchInput').value);
+      }
+    });
+    
+    // Search handler
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      renderEntityList(e.target.value);
+    });
+    
+    // Load on page load
+    loadData();
+  </script>
+</body>
+</html>
+

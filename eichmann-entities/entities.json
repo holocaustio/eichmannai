@@ -1,0 +1,4711 @@
+{
+  "metadata": {
+    "file": "test-file.txt",
+    "generatedAt": "2025-12-27T12:37:29.847Z",
+    "chunksProcessed": 20,
+    "totalEntities": 218
+  },
+  "entities": [
+    {
+      "name": "Moshe Bahir",
+      "englishName": "Moshe Bahir",
+      "hebrewVariants": [
+        "Moshe Bahir"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Michael Padchlabanik",
+      "englishName": "Michael Padchlabanik",
+      "hebrewVariants": [
+        "מיכאל פאדחלבניק"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Mordechai Zurawski",
+      "englishName": "Mordechai Zurawski",
+      "hebrewVariants": [
+        "מרדכי ז'ורבסקי",
+        "ז'ורבסקי",
+        "העד ז'ורבסקי"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Zurawski",
+      "englishName": "Zurawski",
+      "hebrewVariants": [
+        "Zurawski"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Padchlabanik",
+      "englishName": "Padchlabanik",
+      "hebrewVariants": [
+        "Padchlabanik"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Shimon Serbernik",
+      "englishName": "Shimon Serbernik",
+      "hebrewVariants": [
+        "שמעון סרברניק",
+        "סרברניק"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Yakov Biskowicz",
+      "englishName": "Yakov Biskowicz",
+      "hebrewVariants": [
+        "יעקב ביסקוביץ",
+        "ביסקוביץ",
+        "עד ביסקוביץ",
+        "מר ביסקוביץ"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Biskowicz",
+      "englishName": "Biskowicz",
+      "hebrewVariants": [
+        "Biskowicz"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "ד\"ר סרבציוס",
+      "englishName": "ד\"ר סרבציוס",
+      "hebrewVariants": [
+        "ד\"ר סרבציוס"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Dr. Walz",
+      "englishName": "Dr. Walz",
+      "hebrewVariants": [
+        "Dr. Walz"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Dr. Serbatzios",
+      "englishName": "Dr. Serbatzios",
+      "hebrewVariants": [
+        "Dr. Serbatzios"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Unknown",
+      "englishName": "Unknown",
+      "hebrewVariants": [
+        "Unknown"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Yakov Vernik",
+      "englishName": "Yakov Vernik",
+      "hebrewVariants": [
+        "יעקב ורניק",
+        "ורניק"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": "יעקב ורניק",
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Podchlewnik",
+      "englishName": "Podchlewnik",
+      "hebrewVariants": [
+        "Podchlewnik"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": "Podchlewnik",
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Kalman Taigman",
+      "englishName": "Kalman Taigman",
+      "hebrewVariants": [
+        "קלמן טייגמן",
+        "העד טייגמן"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Taigman",
+      "englishName": "Taigman",
+      "hebrewVariants": [
+        "Taigman"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": "העד טייגמן",
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "חורורז\\u2019יסקי",
+      "englishName": "חורורז\\u2019יסקי",
+      "hebrewVariants": [
+        "חורורז\\u2019יסקי"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Kurt Franz",
+      "englishName": "Kurt Franz",
+      "hebrewVariants": [
+        "קורט פרנץ"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "ד\\u05e8\\u05d9\\u05e8 \r",
+      "englishName": "ד\\u05e8\\u05d9\\u05e8 \r",
+      "hebrewVariants": [
+        "ד\\u05e8\\u05d9\\u05e8 \r"
+      ],
+      "type": "WITNESS",
+      "role": "witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Moshe Bahir",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Moshe Bahir",
+      "topic": "March 1942 transport to Sobibór: arrival, selection, and realization of a death camp; separation of women/children and men; hunger and fear",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ],
+      "englishName": "Moshe Bahir",
+      "hebrewVariants": [
+        "Moshe Bahir"
+      ]
+    },
+    {
+      "name": "Sobibór transport details",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Moshe Bahir",
+      "topic": "Description of train cars, opening of doors, SS and Ukrainian guards, and order to move to Camp 1",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ],
+      "englishName": "Sobibór transport details",
+      "hebrewVariants": [
+        "Sobibór transport details"
+      ]
+    },
+    {
+      "name": "העד פאדחלבניק",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "מיכאל פאדחלבניק",
+      "topic": "תיאור החיים והמעבר בחלמנו/חלמנו; כתובות במרתף; עדות על המשטרה וס",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ],
+      "englishName": "העד פאדחלבניק",
+      "hebrewVariants": [
+        "העד פאדחלבניק"
+      ]
+    },
+    {
+      "name": "מרדכי ז'ורבסקי",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "מרדכי ז'ורבסקי",
+      "topic": "תיאור רציחות, קברות בתים, והפעלת מכוניות עם גז על האנשים (היער)",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ],
+      "englishName": "מרדכי ז'ורבסקי",
+      "hebrewVariants": [
+        "מרדכי ז'ורבסקי"
+      ]
+    },
+    {
+      "name": "צלם/עד לנושא הגירסה",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "יחזקאל יעקובוביץ",
+      "topic": "התייחסות לפרטי המעורבות והופעתו",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ],
+      "englishName": "צלם/עד לנושא הגירסה",
+      "hebrewVariants": [
+        "צלם/עד לנושא הגירסה"
+      ]
+    },
+    {
+      "name": "Wir werden nie vergessen",
+      "type": "TESTIMONY",
+      "role": "null",
+      "witnessName": "יעקב ביסקוביץ",
+      "topic": "התייחסות לתמונות מזהה אייכמן והימלר בתצלומים ובאלבומים, ביקור השני בפברואר 1943",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ],
+      "englishName": "Wir werden nie vergessen",
+      "hebrewVariants": [
+        "Wir werden nie vergessen"
+      ]
+    },
+    {
+      "name": "Biskowicz",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Biskowicz",
+      "topic": "Description of Sobibor camp layout and events leading to gas chambers",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ],
+      "englishName": "Biskowicz",
+      "hebrewVariants": [
+        "Biskowicz"
+      ]
+    },
+    {
+      "name": "המרד בסוביבור",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "עד ביסקוביץ",
+      "topic": "המרד בסוביבור, תכנון והתרחשויות, תפקידו של סשה, בריחה והפעלה",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        }
+      ],
+      "englishName": "המרד בסוביבור",
+      "hebrewVariants": [
+        "המרד בסוביבור"
+      ]
+    },
+    {
+      "name": "הצגת עדויות על עיקורים",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "מר ביסקוביץ",
+      "topic": "עדות על הימלר והנסיון להראות דפוסי עיקור ואורח התנהגותם של נאצים",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ],
+      "englishName": "הצגת עדויות על עיקורים",
+      "hebrewVariants": [
+        "הצגת עדויות על עיקורים"
+      ]
+    },
+    {
+      "name": "Camera/film excerpts",
+      "type": "TESTIMONY",
+      "role": "witness",
+      "witnessName": "Dr. Walz",
+      "topic": "authenticity and context of film footage shown in court",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ],
+      "englishName": "Camera/film excerpts",
+      "hebrewVariants": [
+        "Camera/film excerpts"
+      ]
+    },
+    {
+      "name": "שוב ושוב",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "שמעון סרברניק",
+      "topic": "תיאור החיים במחנה חלמנו, השרשרות, האוסקומנדו, הקרמטוריום, משלוחים, תלונות על תנאים",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ],
+      "englishName": "שוב ושוב",
+      "hebrewVariants": [
+        "שוב ושוב"
+      ]
+    },
+    {
+      "name": "סובייקטציות על השפלה ואלימות",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "שמעון סרברניק",
+      "topic": "אירועים בזמן שהיית במחנה—הולכת הזמן, קללות, בכי, זיהוי משתתפים",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ],
+      "englishName": "סובייקטציות על השפלה ואלימות",
+      "hebrewVariants": [
+        "סובייקטציות על השפלה ואלימות"
+      ]
+    },
+    {
+      "name": "Testimony about Halamno (Chełmno) camp killings",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Unknown",
+      "topic": "Description of killings, forced labor, and cremation in the camp",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ],
+      "englishName": "Testimony about Halamno (Chełmno) camp killings",
+      "hebrewVariants": [
+        "Testimony about Halamno (Chełmno) camp killings"
+      ]
+    },
+    {
+      "name": "דוד סרברניק",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "סרברניק",
+      "topic": "העדות על ההשמדה, הפצועים והשהות באורווה",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ],
+      "englishName": "דוד סרברניק",
+      "hebrewVariants": [
+        "דוד סרברניק"
+      ]
+    },
+    {
+      "name": "יעקב ורניק",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "יעקב ורניק",
+      "topic": "המסמכים והמידע על מחנות ההשמדה וחלמנו",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ],
+      "englishName": "יעקב ורניק",
+      "hebrewVariants": [
+        "יעקב ורניק"
+      ]
+    },
+    {
+      "name": "Podchlewnik",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Podchlewnik",
+      "topic": "מידע על מחנות ההשמדה והציוד",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ],
+      "englishName": "Podchlewnik",
+      "hebrewVariants": [
+        "Podchlewnik"
+      ]
+    },
+    {
+      "name": "Zurawski",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Zurawski",
+      "topic": "עדות על המחנות Treblinka וחלמנו",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ],
+      "englishName": "Zurawski",
+      "hebrewVariants": [
+        "Zurawski"
+      ]
+    },
+    {
+      "name": "Treblinka",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "וורניק",
+      "topic": "ההיסטוריה והניצולים",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ],
+      "englishName": "Treblinka",
+      "hebrewVariants": [
+        "Treblinka"
+      ]
+    },
+    {
+      "name": "התרשים",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "ורניק",
+      "topic": "תיאור הצריפים, gate, והמבנים במחנה טרבלינקה 1 ו-2",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ],
+      "englishName": "התרשים",
+      "hebrewVariants": [
+        "התרשים"
+      ]
+    },
+    {
+      "name": "המרד בטרבלינקה",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "ורניק",
+      "topic": "פרטי המרד, בריחה ב-2 באוגוסט 1943, מנהיגות Galewski",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ],
+      "englishName": "המרד בטרבלינקה",
+      "hebrewVariants": [
+        "המרד בטרבלינקה"
+      ]
+    },
+    {
+      "name": "הגזים והמתים",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "ורניק",
+      "topic": "תיאור איך האירועים התבצעו לפני והכנת התאים לגז",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ],
+      "englishName": "הגזים והמתים",
+      "hebrewVariants": [
+        "הגזים והמתים"
+      ]
+    },
+    {
+      "name": "הקשר בין מחנה 1 למחנה 2",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "ורניק",
+      "topic": "העברתם והתקבלו ידיעות בין המחתרת במחנה 1 למחנה 2",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ],
+      "englishName": "הקשר בין מחנה 1 למחנה 2",
+      "hebrewVariants": [
+        "הקשר בין מחנה 1 למחנה 2"
+      ]
+    },
+    {
+      "name": "הציוד והצביעות סביב התמונה",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "ורניק",
+      "topic": "הצילום המדויק של הדגם וההעתקה המוזיאון",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ],
+      "englishName": "הציוד והצביעות סביב התמונה",
+      "hebrewVariants": [
+        "הציוד והצביעות סביב התמונה"
+      ]
+    },
+    {
+      "name": "Treblinka Revolt Plans",
+      "type": "TESTIMONY",
+      "role": null,
+      "witnessName": "Taigman",
+      "topic": "Details about escape attempts and revolt planning in Treblinka",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ],
+      "englishName": "Treblinka Revolt Plans",
+      "hebrewVariants": [
+        "Treblinka Revolt Plans"
+      ]
+    },
+    {
+      "name": "Heinrich Himmler",
+      "englishName": "Heinrich Himmler",
+      "hebrewVariants": [
+        "Himmler",
+        "הימלר"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Dr. Robert Servatius",
+      "englishName": "Dr. Robert Servatius",
+      "hebrewVariants": [
+        "Dr. Serbatsiou",
+        "סרבציוס",
+        "סרברציוס"
+      ],
+      "type": "PERSON",
+      "role": "null",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Klara",
+      "englishName": "Klara",
+      "hebrewVariants": [
+        "Klara"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Row",
+      "englishName": "Row",
+      "hebrewVariants": [
+        "Row"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Franz Schwartz",
+      "englishName": "Franz Schwartz",
+      "hebrewVariants": [
+        "Franz Schwartz"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Franz Stangl",
+      "englishName": "Franz Stangl",
+      "hebrewVariants": [
+        "Stangl",
+        "Der kleine Tischler"
+      ],
+      "type": "PERSON",
+      "role": "alias of the witness",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Franz Reichsleitner",
+      "englishName": "Franz Reichsleitner",
+      "hebrewVariants": [
+        "Reichsleitner",
+        "פרנץ רייכסלטנר"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Wirth",
+      "englishName": "Wirth",
+      "hebrewVariants": [
+        "Wirth"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Podchlewnik",
+      "englishName": "Podchlewnik",
+      "hebrewVariants": [
+        "Podchlewnik"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "יחזקאל יעקובוביץ",
+      "englishName": "יחזקאל יעקובוביץ",
+      "hebrewVariants": [
+        "יחזקאל יעקובוביץ"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Hermann Gilow",
+      "englishName": "Hermann Gilow",
+      "hebrewVariants": [
+        "Hermann Gilow"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Bothmann",
+      "englishName": "Bothmann",
+      "hebrewVariants": [
+        "Bothmann"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Alois Höfle",
+      "englishName": "Alois Höfle",
+      "hebrewVariants": [
+        "Alois Höfle",
+        "Meister Höfle"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Gustav Wagner",
+      "englishName": "Gustav Wagner",
+      "hebrewVariants": [
+        "Gustav Wagner",
+        "Wagner"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Paul Grott",
+      "englishName": "Paul Grott",
+      "hebrewVariants": [
+        "PAUL GROT",
+        "Paul Grott"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Lents",
+      "englishName": "Lents",
+      "hebrewVariants": [
+        "Lents"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Adolf Eichmann",
+      "englishName": "Adolf Eichmann",
+      "hebrewVariants": [
+        "אייכמן"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "היידריך",
+      "englishName": "היידריך",
+      "hebrewVariants": [
+        "היידריך"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "פאול בריידורף",
+      "englishName": "פאול בריידורף",
+      "hebrewVariants": [
+        "פאול בריידורף"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Kaltenbrunner",
+      "englishName": "Kaltenbrunner",
+      "hebrewVariants": [
+        "קלטנברונר"
+      ],
+      "type": "PERSON",
+      "role": "null",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hermann Michel",
+      "englishName": "Hermann Michel",
+      "hebrewVariants": [
+        "Hermann Michel"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Tomella",
+      "englishName": "Tomella",
+      "hebrewVariants": [
+        "Tomella"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Fränzel",
+      "englishName": "Fränzel",
+      "hebrewVariants": [
+        "Fränzel"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Gerchow",
+      "englishName": "Gerchow",
+      "hebrewVariants": [
+        "Gerchow"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Hermann Müller",
+      "englishName": "Hermann Müller",
+      "hebrewVariants": [
+        "Hermann Müller"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "סשה",
+      "englishName": "סשה",
+      "hebrewVariants": [
+        "סשה"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "היועץ המשפטי",
+      "englishName": "היועץ המשפטי",
+      "hebrewVariants": [
+        "היועץ המשפטי"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "בנאי",
+      "englishName": "בנאי",
+      "hebrewVariants": [
+        "בנאי"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "פרנצל",
+      "englishName": "פרנצל",
+      "hebrewVariants": [
+        "פרנצל"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "באואר",
+      "englishName": "באואר",
+      "hebrewVariants": [
+        "באואר"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "נחמיה",
+      "englishName": "נחמיה",
+      "hebrewVariants": [
+        "נחמיה"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "יהודים ראשונים בשם \"חיאל'ס גרופה\"",
+      "englishName": "יהודים ראשונים בשם \"חיאל'ס גרופה\"",
+      "hebrewVariants": [
+        "יהודים ראשונים בשם \"חיאל'ס גרופה\""
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Herschel Grynszpan",
+      "englishName": "Herschel Grynszpan",
+      "hebrewVariants": [
+        "יחיאל גרינשפן (Grynszpan)",
+        "גרינשפן"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Pavlosha",
+      "englishName": "Pavlosha",
+      "hebrewVariants": [
+        "Pavlosha"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Holosna",
+      "englishName": "Holosna",
+      "hebrewVariants": [
+        "Holosna"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Pechersky",
+      "englishName": "Pechersky",
+      "hebrewVariants": [
+        "Pechersky"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Hermann Göring",
+      "englishName": "Hermann Göring",
+      "hebrewVariants": [
+        "גרינג",
+        "Göring"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Adolf Hitler",
+      "englishName": "Adolf Hitler",
+      "hebrewVariants": [
+        "היטלר"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Sir David Maxwell Fyfe",
+      "englishName": "Sir David Maxwell Fyfe",
+      "hebrewVariants": [
+        "Sir David Maxwell",
+        "Sir David Maxwell-Šlex?",
+        "The Prosecutor (the legal adviser)",
+        "Ab Beit Din"
+      ],
+      "type": "PERSON",
+      "role": "witness",
+      "witnessName": null,
+      "topic": "authentication and presentation of films",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hans Botmann",
+      "englishName": "Hans Botmann",
+      "hebrewVariants": [
+        "Botman (Hans Botmann)",
+        "אוברשטורמבנפירר בוטמן",
+        "אופטשטורמפירר בוטמן"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Valter",
+      "englishName": "Valter",
+      "hebrewVariants": [
+        "Valter"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Meister Lenz",
+      "englishName": "Meister Lenz",
+      "hebrewVariants": [
+        "Meister Lenz"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hermann (Wolfgang)",
+      "englishName": "Hermann (Wolfgang)",
+      "hebrewVariants": [
+        "Hermann (Wolfgang)"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Fedler",
+      "englishName": "Fedler",
+      "hebrewVariants": [
+        "Fedler"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "הקומנדנט של הרוסים",
+      "englishName": "הקומנדנט של הרוסים",
+      "hebrewVariants": [
+        "הקומנדנט של הרוסים"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "JG Galewski",
+      "englishName": "JG Galewski",
+      "hebrewVariants": [
+        "JG Galewski"
+      ],
+      "type": "PERSON",
+      "role": "military-leader",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "ד״ר חורורז׳יסקי",
+      "englishName": "ד״ר חורורז׳יסקי",
+      "hebrewVariants": [
+        "ד״ר חורורז׳יסקי"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Djielo",
+      "englishName": "Djielo",
+      "hebrewVariants": [
+        "Djielo"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "יעקב",
+      "englishName": "יעקב",
+      "hebrewVariants": [
+        "יעקב"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "סהרבציוס",
+      "englishName": "סהרבציוס",
+      "hebrewVariants": [
+        "סהרבציוס"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Stefan Przibishevski",
+      "englishName": "Stefan Przibishevski",
+      "hebrewVariants": [
+        "Stefan Przibishevski"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "גרקה",
+      "englishName": "גרקה",
+      "hebrewVariants": [
+        "גרקה"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "אדוני",
+      "englishName": "אדוני",
+      "hebrewVariants": [
+        "אדוני"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Mentz",
+      "englishName": "Mentz",
+      "hebrewVariants": [
+        "Mentz"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "מינץ",
+      "englishName": "מינץ",
+      "hebrewVariants": [
+        "מינץ"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Blitz",
+      "englishName": "Blitz",
+      "hebrewVariants": [
+        "Blitz"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "שרפירר מנץ",
+      "englishName": "שרפירר מנץ",
+      "hebrewVariants": [
+        "שרפירר מנץ"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "שרפירר בליץ",
+      "englishName": "שרפירר בליץ",
+      "hebrewVariants": [
+        "שרפירר בליץ"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Suchomil",
+      "englishName": "Suchomil",
+      "hebrewVariants": [
+        "Suchomil"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "שארפירר סוכומיל",
+      "englishName": "שארפירר סוכומיל",
+      "hebrewVariants": [
+        "שארפירר סוכומיל"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Franz",
+      "englishName": "Franz",
+      "hebrewVariants": [
+        "Franz"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Moniek",
+      "englishName": "Moniek",
+      "hebrewVariants": [
+        "Moniek"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Masaryk",
+      "englishName": "Masaryk",
+      "hebrewVariants": [
+        "Masaryk"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Rudek",
+      "englishName": "Rudek",
+      "hebrewVariants": [
+        "Rudek"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Kurt Franz",
+      "englishName": "Kurt Franz",
+      "hebrewVariants": [
+        "Kurt Franz"
+      ],
+      "type": "PERSON",
+      "role": "Kurt Franz",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Glabski",
+      "englishName": "Glabski",
+      "hebrewVariants": [
+        "Glabski"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Zehetreter",
+      "englishName": "Zehetreter",
+      "hebrewVariants": [
+        "Zehetreter"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Lagerälteste",
+      "englishName": "Lagerälteste",
+      "hebrewVariants": [
+        "Lagerälteste"
+      ],
+      "type": "PERSON",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Schutzstaffel (SS)",
+      "englishName": "Schutzstaffel (SS)",
+      "hebrewVariants": [
+        "SS",
+        "S.S.",
+        "האיש הס\\\"ס",
+        "הס"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Reich Security Main Office (RSHA)",
+      "englishName": "Reich Security Main Office (RSHA)",
+      "hebrewVariants": [
+        "Reichssicherheitshauptamt (RSHA)",
+        "RSHA",
+        "Reich Security Main Office"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Main Security Office (MOSS)",
+      "englishName": "Main Security Office (MOSS)",
+      "hebrewVariants": [
+        "Main Security Office (MOSS)"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Gestapo",
+      "englishName": "Gestapo",
+      "hebrewVariants": [
+        "הגסטאפו",
+        "גסטאפו",
+        "Gestapo"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Unterstellung",
+      "englishName": "Unterstellung",
+      "hebrewVariants": [
+        "Unterstellung"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Kriminalrat",
+      "englishName": "Kriminalrat",
+      "hebrewVariants": [
+        "Kriminalrat"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "האיש הס\"ס",
+      "englishName": "האיש הס\"ס",
+      "hebrewVariants": [
+        "האיש הס\"ס"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Waldkommando (Forest Kommando)",
+      "englishName": "Waldkommando (Forest Kommando)",
+      "hebrewVariants": [
+        "Waldkommando"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Obersturmbannführer Gustav Wagner",
+      "englishName": "Obersturmbannführer Gustav Wagner",
+      "hebrewVariants": [
+        "אוברשארפירר גוסטב וגנר",
+        "Gustav Wagner",
+        "Obersturmbannführer Gustav Wagner"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Arbeitskommando (Labor Detachment)",
+      "englishName": "Arbeitskommando (Labor Detachment)",
+      "hebrewVariants": [
+        "Arbeitskommando"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Bahnhofkommando (Railway Station Detachment)",
+      "englishName": "Bahnhofkommando (Railway Station Detachment)",
+      "hebrewVariants": [
+        "Bahnhofkommando"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "German Casino",
+      "englishName": "German Casino",
+      "hebrewVariants": [
+        "הקזינו הגרמני"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Untersturmführer Beckmann",
+      "englishName": "Untersturmführer Beckmann",
+      "hebrewVariants": [
+        "אונטרשארפירר בקמן (Beckmann)",
+        "Beckmann",
+        "אונטרשארפירר בקמן"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Jacob Biskowicz",
+      "englishName": "Jacob Biskowicz",
+      "hebrewVariants": [
+        "BSKOWICZ (Jacob Biskowitz)",
+        "Jacob Biskowitz",
+        "Jacob Biskowicz",
+        "ביסקוביץ"
+      ],
+      "type": "ORGANIZATION",
+      "role": "null",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Israeli Revolutionary Police / Israel Police",
+      "englishName": "Israeli Revolutionary Police / Israel Police",
+      "hebrewVariants": [
+        "ישראל המשטרה המהפכנית/משטרת ישראל",
+        "ישראל המשטרה המהפכנית",
+        "משטרת ישראל"
+      ],
+      "type": "ORGANIZATION",
+      "role": "null",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Wehrmacht",
+      "englishName": "Wehrmacht",
+      "hebrewVariants": [
+        "Wehrmacht"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Germans",
+      "englishName": "Germans",
+      "hebrewVariants": [
+        "גרמנים"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Einsatzgruppen",
+      "englishName": "Einsatzgruppen",
+      "hebrewVariants": [
+        "Einsatzgruppen"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "execution footage context",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "War Crimes Trials",
+      "englishName": "War Crimes Trials",
+      "hebrewVariants": [
+        "War Crimes Trials"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "source of film material",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "The Blue Series",
+      "englishName": "The Blue Series",
+      "hebrewVariants": [
+        "The Blue Series"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "publication series of wartime films",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hauskommando (Hus Kommando)",
+      "englishName": "Hauskommando (Hus Kommando)",
+      "hebrewVariants": [
+        "Hauskommando",
+        "Hus Kommando"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "The Jewish World in the Camp",
+      "englishName": "The Jewish World in the Camp",
+      "hebrewVariants": [
+        "העולם היהודי במחנה"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hus Kommando (Hauskommando)",
+      "englishName": "Hus Kommando (Hauskommando)",
+      "hebrewVariants": [
+        "Hus Kommando (Hauskommando)"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "נהירה / הגנה",
+      "englishName": "נהירה / הגנה",
+      "hebrewVariants": [
+        "נהירה / הגנה"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Polish Administration",
+      "englishName": "Polish Administration",
+      "hebrewVariants": [
+        "האדמיניסטרציה פולנית"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Prinz Eugen",
+      "englishName": "Prinz Eugen",
+      "hebrewVariants": [
+        "Prinz Eugen"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Routine",
+      "englishName": "Routine",
+      "hebrewVariants": [
+        "שגרה"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Armia Ludowa (People's Army)",
+      "englishName": "Armia Ludowa (People's Army)",
+      "hebrewVariants": [
+        "Armia Ludowa",
+        "אשרם לודובה"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Goldjuden (Guldoidan)",
+      "englishName": "Goldjuden (Guldoidan)",
+      "hebrewVariants": [
+        "Guldoidan (Goldjuden)",
+        "Goldjuden",
+        "Guldoidan"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Court Jews",
+      "englishName": "Court Jews",
+      "hebrewVariants": [
+        "Hofjuden"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hophudden",
+      "englishName": "Hophudden",
+      "hebrewVariants": [
+        "Hophudden"
+      ],
+      "type": "ORGANIZATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Sobibór",
+      "englishName": "Sobibór",
+      "hebrewVariants": [
+        "Sobibór"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Komarów",
+      "englishName": "Komarów",
+      "hebrewVariants": [
+        "Komarów"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Zamosc",
+      "englishName": "Zamosc",
+      "hebrewVariants": [
+        "Zamosc"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Plock, Poland",
+      "englishName": "Plock, Poland",
+      "hebrewVariants": [
+        "Plock, Poland"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Czestochowa",
+      "englishName": "Czestochowa",
+      "hebrewVariants": [
+        "Częstochowa",
+        "Częstochowa (Silesia)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Zhodova",
+      "englishName": "Zhodova",
+      "hebrewVariants": [
+        "Zhodova"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Gimnasyja",
+      "englishName": "Gimnasyja",
+      "hebrewVariants": [
+        "Gimnasyja"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1,
+          "lineEnd": 138,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Sobibor",
+      "englishName": "Sobibor",
+      "hebrewVariants": [
+        "Sobibor"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Chelmno",
+      "englishName": "Chelmno",
+      "hebrewVariants": [
+        "Chelmno"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Kolo",
+      "englishName": "Kolo",
+      "hebrewVariants": [
+        "Koło",
+        "Kolo"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 139,
+          "lineEnd": 287,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Lodz",
+      "englishName": "Lodz",
+      "hebrewVariants": [
+        "לודז'",
+        "מלודז׳",
+        "גטו לודז'"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Leipzig",
+      "englishName": "Leipzig",
+      "hebrewVariants": [
+        "לייפציג"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Lodz Ghetto",
+      "englishName": "Lodz Ghetto",
+      "hebrewVariants": [
+        "גטו לודז'",
+        "LODZ (Ghetto)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "מכוניות",
+      "englishName": "מכוניות",
+      "hebrewVariants": [
+        "מכוניות"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "הובלת אסירים, ירי, אחסון באוטובוסים ומאחור חלון אשנב",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "האסירים",
+      "englishName": "האסירים",
+      "hebrewVariants": [
+        "האסירים"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "הובלה למכוניות, תהליכי הריגה והקברים",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "היער",
+      "englishName": "היער",
+      "hebrewVariants": [
+        "היער"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "מקום העבודה והקבורה של הגוויות",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "ראש השנה האזרחית",
+      "englishName": "ראש השנה האזרחית",
+      "hebrewVariants": [
+        "ראש השנה האזרחית"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "הזמן וההקשר של הבריחה והעבודה",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 288,
+          "lineEnd": 406,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Grabow",
+      "englishName": "Grabow",
+      "hebrewVariants": [
+        "Grabów"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Chełmno (Kulmhof)",
+      "englishName": "Chełmno (Kulmhof)",
+      "hebrewVariants": [
+        "Chełmno (Kulmhof)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Kolkow",
+      "englishName": "Kolkow",
+      "hebrewVariants": [
+        "Kolków (Poznań/Warthegau/Kulm)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 407,
+          "lineEnd": 573,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Chełmno",
+      "englishName": "Chełmno",
+      "hebrewVariants": [
+        "Chlemno (Chelmno)",
+        "חלמנו"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": " Sobibor",
+      "englishName": " Sobibor",
+      "hebrewVariants": [
+        " Sobibor"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "משרפות",
+      "englishName": "משרפות",
+      "hebrewVariants": [
+        "משרפות"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "שדה 3",
+      "englishName": "שדה 3",
+      "hebrewVariants": [
+        "שדה 3"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 574,
+          "lineEnd": 681,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "רכבת לוקסוס",
+      "englishName": "רכבת לוקסוס",
+      "hebrewVariants": [
+        "רכבת לוקסוס"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "לובלין (Lublin)",
+      "englishName": "לובלין (Lublin)",
+      "hebrewVariants": [
+        "לובלין (Lublin)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "להם 1942-1943",
+      "englishName": "להם 1942-1943",
+      "hebrewVariants": [
+        "להם 1942-1943"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 682,
+          "lineEnd": 772,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Sobibor (סוביבור)",
+      "englishName": "Sobibor (סוביבור)",
+      "hebrewVariants": [
+        "Sobibor (סוביבור)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Lubin/Lublin (לובלין)",
+      "englishName": "Lubin/Lublin (לובלין)",
+      "hebrewVariants": [
+        "Lubin/Lublin (לובלין)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "מחנה 3",
+      "englishName": "מחנה 3",
+      "hebrewVariants": [
+        "מחנה 3"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Hrubieszów (הרוביושוב/R Hrubieszów)",
+      "englishName": "Hrubieszów (הרוביושוב/R Hrubieszów)",
+      "hebrewVariants": [
+        "Hrubieszów (הרוביושוב/R Hrubieszów)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "לובלין 1945",
+      "englishName": "לובלין 1945",
+      "hebrewVariants": [
+        "לובלין 1945"
+      ],
+      "type": "LOCATION",
+      "role": "null",
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 773,
+          "lineEnd": 913,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Schweinestall",
+      "englishName": "Schweinestall",
+      "hebrewVariants": [
+        "Schweinestall"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 914,
+          "lineEnd": 1028,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "רוסיה",
+      "englishName": "רוסיה",
+      "hebrewVariants": [
+        "רוסיה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "צור",
+      "englishName": "צור",
+      "hebrewVariants": [
+        "צור"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "צריף",
+      "englishName": "צריף",
+      "hebrewVariants": [
+        "צריף"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "לאזרט",
+      "englishName": "לאזרט",
+      "hebrewVariants": [
+        "לאזרט"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1029,
+          "lineEnd": 1137,
+          "session": 65
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "איווניצה (Ivanichi)",
+      "englishName": "איווניצה (Ivanichi)",
+      "hebrewVariants": [
+        "איווניצה (Ivanichi)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "מחנה נורד",
+      "englishName": "מחנה נורד",
+      "hebrewVariants": [
+        "מחנה נורד"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Skrodnitze",
+      "englishName": "Skrodnitze",
+      "hebrewVariants": [
+        "Skrodnitze"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "נשק",
+      "englishName": "נשק",
+      "hebrewVariants": [
+        "נשק"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1138,
+          "lineEnd": 1242,
+          "session": 65
+        }
+      ]
+    },
+    {
+      "name": "Auschwitz",
+      "englishName": "Auschwitz",
+      "hebrewVariants": [
+        "אושוויץ"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Nuremberg",
+      "englishName": "Nuremberg",
+      "hebrewVariants": [
+        "נירנברג"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Lubin/Lublin",
+      "englishName": "Lubin/Lublin",
+      "hebrewVariants": [
+        "לובלין"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Modlin",
+      "englishName": "Modlin",
+      "hebrewVariants": [
+        "מודלין"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Warsaw",
+      "englishName": "Warsaw",
+      "hebrewVariants": [
+        "ורשה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "מלוריטה",
+      "englishName": "מלוריטה",
+      "hebrewVariants": [
+        "מלוריטה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "מווסטוק",
+      "englishName": "מווסטוק",
+      "hebrewVariants": [
+        "מווסטוק"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1243,
+          "lineEnd": 1335,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Bergen-Belsen",
+      "englishName": "Bergen-Belsen",
+      "hebrewVariants": [
+        "Bergen-Belsen"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Westerbork",
+      "englishName": "Westerbork",
+      "hebrewVariants": [
+        "Westerbork"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "The Circle of the Court (Kary? court wall)",
+      "englishName": "The Circle of the Court (Kary? court wall)",
+      "hebrewVariants": [
+        "The Circle of the Court (Kary? court wall)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1336,
+          "lineEnd": 1413,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Ghetto Lodz",
+      "englishName": "Ghetto Lodz",
+      "hebrewVariants": [
+        "Ghetto Lodz"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "מכוניות הגז",
+      "englishName": "מכוניות הגז",
+      "hebrewVariants": [
+        "מכוניות הגז"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": "הובלת אנשים והפעלת הגז במכוניות",
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "קרמטוריום",
+      "englishName": "קרמטוריום",
+      "hebrewVariants": [
+        "קרמטוריום"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1414,
+          "lineEnd": 1572,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Litzmannstadt",
+      "englishName": "Litzmannstadt",
+      "hebrewVariants": [
+        "Litzmannstadt (Łódź)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Halmanstät (Blitzmannstadt)",
+      "englishName": "Halmanstät (Blitzmannstadt)",
+      "hebrewVariants": [
+        "Halmanstät (Blitzmannstadt)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Treasure: gold, teeth, and other items",
+      "englishName": "Treasure: gold, teeth, and other items",
+      "hebrewVariants": [
+        "Treasure: gold, teeth, and other items"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Ner (river Ner)",
+      "englishName": "Ner (river Ner)",
+      "hebrewVariants": [
+        "Ner (river Ner)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1573,
+          "lineEnd": 1703,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Treblinka",
+      "englishName": "Treblinka",
+      "hebrewVariants": [
+        "Treblinka"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Kuhlmhof / Kulmhof",
+      "englishName": "Kuhlmhof / Kulmhof",
+      "hebrewVariants": [
+        "Kuhlmhof / Kulmhof"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "חלמנו (Chalmno)",
+      "englishName": "חלמנו (Chalmno)",
+      "hebrewVariants": [
+        "חלמנו (Chalmno)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1704,
+          "lineEnd": 1824,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Treblinka 1",
+      "englishName": "Treblinka 1",
+      "hebrewVariants": [
+        "טרבלינקה 1"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Treblinka 2",
+      "englishName": "Treblinka 2",
+      "hebrewVariants": [
+        "טרבלינקה 2"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "ארמון טאשיצה",
+      "englishName": "ארמון טאשיצה",
+      "hebrewVariants": [
+        "ארמון טאשיצה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        },
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Treblinka Camp",
+      "englishName": "Treblinka Camp",
+      "hebrewVariants": [
+        "מחנה טרבלינקה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1825,
+          "lineEnd": 1945,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Umschlagplatz",
+      "englishName": "Umschlagplatz",
+      "hebrewVariants": [
+        "אורם Umschlagplatz"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Varsaw (וורשה)",
+      "englishName": "Varsaw (וורשה)",
+      "hebrewVariants": [
+        "Varsaw (וורשה)"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 1946,
+          "lineEnd": 2070,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Malkinia",
+      "englishName": "Malkinia",
+      "hebrewVariants": [
+        "Malkinia"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "englishName": "Germany",
+      "hebrewVariants": [
+        "גרמניה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "englishName": "Poland",
+      "hebrewVariants": [
+        "פולין"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2071,
+          "lineEnd": 2195,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Wolkowysk",
+      "englishName": "Wolkowysk",
+      "hebrewVariants": [
+        "Wolkowysk"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Hrodna",
+      "englishName": "Hrodna",
+      "hebrewVariants": [
+        "מגרודנו"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "הימלשטרסה",
+      "englishName": "הימלשטרסה",
+      "hebrewVariants": [
+        "הימלשטרסה"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "השלויך",
+      "englishName": "השלויך",
+      "hebrewVariants": [
+        "השלויך"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2196,
+          "lineEnd": 2311,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Frankfurt am Main",
+      "englishName": "Frankfurt am Main",
+      "hebrewVariants": [
+        "Frankfurt on the Main"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    },
+    {
+      "name": "Bialystok",
+      "englishName": "Bialystok",
+      "hebrewVariants": [
+        "Bialystok"
+      ],
+      "type": "LOCATION",
+      "role": null,
+      "witnessName": null,
+      "topic": null,
+      "sources": [
+        {
+          "file": "test-file.txt",
+          "lineStart": 2312,
+          "lineEnd": 2411,
+          "session": 66
+        }
+      ]
+    }
+  ]
+}

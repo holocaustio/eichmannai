@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eichmann Trial - Entity Explorer</title>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #0a0a0f 100%);
+      color: #e0e0e0;
+      min-height: 100vh;
+    }
+    
+    .container {
+      display: grid;
+      grid-template-columns: 280px 1fr 400px;
+      height: 100vh;
+      gap: 0;
+    }
+    
+    /* Sidebar */
+    .sidebar {
+      background: rgba(20, 20, 30, 0.95);
+      padding: 20px;
+      overflow-y: auto;
+      border-left: 1px solid #2a2a3a;
+    }
+    
+    .sidebar h1 {
+      font-size: 1.4rem;
+      margin-bottom: 4px;
+      background: linear-gradient(90deg, #6366f1, #a855f7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    
+    .subtitle {
+      font-size: 0.8rem;
+      color: #888;
+      margin-bottom: 20px;
+    }
+    
+    .stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .stat-card {
+      background: rgba(99, 102, 241, 0.1);
+      border: 1px solid rgba(99, 102, 241, 0.3);
+      border-radius: 8px;
+      padding: 12px;
+      text-align: center;
+    }
+    
+    .stat-value {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #6366f1;
+    }
+    
+    .stat-label {
+      font-size: 0.7rem;
+      color: #888;
+    }
+    
+    .filter-section {
+      margin-bottom: 20px;
+    }
+    
+    .filter-section h3 {
+      font-size: 0.85rem;
+      color: #888;
+      margin-bottom: 10px;
+    }
+    
+    .filter-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    
+    .filter-chip {
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      border: 1px solid;
+      transition: all 0.2s;
+    }
+    
+    .filter-chip.active {
+      opacity: 1;
+    }
+    
+    .filter-chip:not(.active) {
+      opacity: 0.4;
+    }
+    
+    .search-box {
+      width: 100%;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid #2a2a3a;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 0.9rem;
+      margin-bottom: 15px;
+    }
+    
+    .search-box::placeholder {
+      color: #666;
+    }
+    
+    .entity-list {
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    
+    .entity-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 10px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.2s;
+      margin-bottom: 2px;
+    }
+    
+    .entity-item:hover {
+      background: rgba(255, 255, 255, 0.05);
+    }
+    
+    .entity-item.selected {
+      background: rgba(99, 102, 241, 0.2);
+      border: 1px solid rgba(99, 102, 241, 0.5);
+    }
+    
+    .entity-name {
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+    
+    .entity-meta {
+      font-size: 0.7rem;
+      color: #666;
+    }
+    
+    /* Graph */
+    .graph-container {
+      position: relative;
+      background: #0a0a0f;
+    }
+    
+    #graph {
+      width: 100%;
+      height: 100%;
+    }
+    
+    /* Source Panel */
+    .source-panel {
+      background: rgba(20, 20, 30, 0.98);
+      border-right: 1px solid #2a2a3a;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    
+    .source-header {
+      padding: 20px;
+      border-bottom: 1px solid #2a2a3a;
+      flex-shrink: 0;
+    }
+    
+    .source-header h2 {
+      font-size: 1.2rem;
+      margin-bottom: 8px;
+      color: #fff;
+    }
+    
+    .entity-info {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    
+    .info-badge {
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.75rem;
+      background: rgba(99, 102, 241, 0.2);
+      color: #a5b4fc;
+    }
+    
+    .role-badge {
+      background: rgba(16, 185, 129, 0.2);
+      color: #6ee7b7;
+    }
+    
+    .contexts-list {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 8px;
+    }
+    
+    .contexts-list li {
+      margin-bottom: 4px;
+      padding-right: 12px;
+    }
+    
+    .source-tabs {
+      display: flex;
+      gap: 4px;
+      padding: 10px 20px;
+      background: rgba(0, 0, 0, 0.3);
+      overflow-x: auto;
+      flex-shrink: 0;
+    }
+    
+    .source-tab {
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      cursor: pointer;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid transparent;
+      color: #888;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+    
+    .source-tab:hover {
+      background: rgba(255, 255, 255, 0.1);
+    }
+    
+    .source-tab.active {
+      background: rgba(99, 102, 241, 0.2);
+      border-color: rgba(99, 102, 241, 0.5);
+      color: #a5b4fc;
+    }
+    
+    .source-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+    }
+    
+    .source-text {
+      background: rgba(0, 0, 0, 0.4);
+      border: 1px solid #2a2a3a;
+      border-radius: 8px;
+      padding: 16px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      color: #d4d4d4;
+      direction: rtl;
+    }
+    
+    .source-meta {
+      font-size: 0.75rem;
+      color: #666;
+      margin-bottom: 12px;
+      padding: 8px 12px;
+      background: rgba(99, 102, 241, 0.1);
+      border-radius: 6px;
+    }
+    
+    .no-selection {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: #666;
+      text-align: center;
+      padding: 40px;
+    }
+    
+    .no-selection-icon {
+      font-size: 3rem;
+      margin-bottom: 16px;
+      opacity: 0.3;
+    }
+    
+    /* Loading */
+    .loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #2a2a3a;
+      border-top-color: #6366f1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 16px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    /* Scrollbar */
+    ::-webkit-scrollbar {
+      width: 6px;
+      height: 6px;
+    }
+    
+    ::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.2);
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      background: #3a3a4a;
+      border-radius: 3px;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+      background: #4a4a5a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <h1>משפט אייכמן</h1>
+      <div class="subtitle">סייר ישויות וקשרים</div>
+      
+      <div class="stats">
+        <div class="stat-card">
+          <div class="stat-value" id="totalNodes">0</div>
+          <div class="stat-label">ישויות</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="totalSources">0</div>
+          <div class="stat-label">מקורות</div>
+        </div>
+      </div>
+      
+      <div class="filter-section">
+        <h3>סוגי ישויות</h3>
+        <div class="filter-chips" id="typeFilters"></div>
+      </div>
+      
+      <input type="text" class="search-box" id="searchInput" placeholder="חיפוש ישויות...">
+      
+      <div class="entity-list" id="entityList"></div>
+    </div>
+    
+    <div class="graph-container">
+      <div id="graph"></div>
+      <div class="loading" id="loading">
+        <div class="loading-spinner"></div>
+        <div>טוען גרף ישויות...</div>
+      </div>
+    </div>
+    
+    <div class="source-panel">
+      <div class="no-selection" id="noSelection">
+        <div class="no-selection-icon">📄</div>
+        <div>בחר ישות כדי לראות את המקורות</div>
+        <div style="font-size: 0.8rem; margin-top: 8px;">לחץ על עיגול בגרף או על פריט ברשימה</div>
+      </div>
+      
+      <div id="entityDetail" style="display: none; height: 100%; display: none; flex-direction: column;">
+        <div class="source-header">
+          <h2 id="detailName"></h2>
+          <div class="entity-info" id="entityInfo"></div>
+          <ul class="contexts-list" id="contextsList"></ul>
+        </div>
+        
+        <div class="source-tabs" id="sourceTabs"></div>
+        
+        <div class="source-content">
+          <div class="source-meta" id="sourceMeta"></div>
+          <div class="source-text" id="sourceText"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let graphData = null;
+    let network = null;
+    let selectedEntity = null;
+    let selectedSourceIndex = 0;
+    
+    const typeColors = {
+      PERSON: { bg: '#3b82f6', border: '#60a5fa' },
+      LOCATION: { bg: '#ef4444', border: '#f87171' },
+      ORGANIZATION: { bg: '#22c55e', border: '#4ade80' },
+      EVENT: { bg: '#a855f7', border: '#c084fc' },
+      DATE: { bg: '#f59e0b', border: '#fbbf24' }
+    };
+    
+    const typeLabels = {
+      PERSON: 'אדם',
+      LOCATION: 'מקום',
+      ORGANIZATION: 'ארגון',
+      EVENT: 'אירוע',
+      DATE: 'תאריך'
+    };
+    
+    const activeFilters = new Set(['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE']);
+    
+    // Calculate degrees globally
+    let nodeDegrees = {};
+    
+    function calculateDegrees() {
+      nodeDegrees = {};
+      for (const edge of graphData.edges) {
+        nodeDegrees[edge.source] = (nodeDegrees[edge.source] || 0) + edge.weight;
+        nodeDegrees[edge.target] = (nodeDegrees[edge.target] || 0) + edge.weight;
+      }
+    }
+    
+    // Load data
+    async function loadData() {
+      try {
+        const response = await fetch('entity-graph-v2.json');
+        graphData = await response.json();
+        document.getElementById('loading').style.display = 'none';
+        calculateDegrees();
+        initFilters();
+        initGraph();
+        updateStats();
+        renderEntityList();
+      } catch (error) {
+        document.getElementById('loading').innerHTML = `
+          <div style="color: #f87171;">שגיאה בטעינת הנתונים</div>
+          <div style="font-size: 0.8rem; color: #888; margin-top: 8px;">${error.message}</div>
+        `;
+      }
+    }
+    
+    function initFilters() {
+      const container = document.getElementById('typeFilters');
+      const types = ['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE'];
+      
+      container.innerHTML = types.map(type => `
+        <div class="filter-chip active" 
+             data-type="${type}"
+             style="background: ${typeColors[type].bg}40; border-color: ${typeColors[type].border}; color: ${typeColors[type].border}">
+          ${typeLabels[type]}
+        </div>
+      `).join('');
+      
+      container.querySelectorAll('.filter-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const type = chip.dataset.type;
+          if (activeFilters.has(type)) {
+            activeFilters.delete(type);
+            chip.classList.remove('active');
+          } else {
+            activeFilters.add(type);
+            chip.classList.add('active');
+          }
+          initGraph();
+          renderEntityList();
+        });
+      });
+    }
+    
+    function initGraph() {
+      const container = document.getElementById('graph');
+      const maxDegree = Math.max(...Object.values(nodeDegrees), 1);
+      
+      const nodes = new vis.DataSet(
+        graphData.nodes
+          .filter(n => activeFilters.has(n.type))
+          .map(node => {
+            const degree = nodeDegrees[node.id] || 0;
+            const minSize = 15;
+            const maxSize = 70;
+            const logDegree = Math.log(degree + 1);
+            const logMax = Math.log(maxDegree + 1);
+            const normalizedSize = logDegree / logMax;
+            const size = minSize + normalizedSize * (maxSize - minSize);
+            
+            return {
+              id: node.id,
+              label: node.name,
+              title: `${node.name}\n${typeLabels[node.type]}\nמקורות: ${node.sources?.length || 0}`,
+              size: size,
+              color: {
+                background: typeColors[node.type]?.bg || '#666',
+                border: typeColors[node.type]?.border || '#888',
+                highlight: {
+                  background: typeColors[node.type]?.border || '#888',
+                  border: '#fff'
+                }
+              },
+              font: { color: '#fff' }
+            };
+          })
+      );
+      
+      const nodeIds = new Set(nodes.getIds());
+      const edges = new vis.DataSet(
+        graphData.edges
+          .filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
+          .map((edge, i) => ({
+            id: i,
+            from: edge.source,
+            to: edge.target,
+            width: Math.min(1 + edge.weight * 0.5, 5),
+            color: { color: '#3a3a4a', highlight: '#6366f1' },
+            smooth: { type: 'continuous' }
+          }))
+      );
+      
+      const data = { nodes, edges };
+      
+      const options = {
+        nodes: {
+          shape: 'dot',
+          font: {
+            color: '#fff',
+            face: 'Arial, sans-serif'
+          },
+          borderWidth: 2
+        },
+        physics: {
+          stabilization: { iterations: 150 },
+          barnesHut: {
+            gravitationalConstant: -8000,
+            springLength: 250,
+            springConstant: 0.015
+          }
+        },
+        interaction: {
+          hover: true,
+          tooltipDelay: 200
+        }
+      };
+      
+      network = new vis.Network(container, data, options);
+      
+      network.on('click', function(params) {
+        if (params.nodes.length > 0) {
+          selectEntity(params.nodes[0]);
+        }
+      });
+    }
+    
+    function selectEntity(entityId) {
+      selectedEntity = graphData.nodes.find(n => n.id === entityId);
+      if (!selectedEntity) return;
+      
+      selectedSourceIndex = 0;
+      
+      // Update entity list selection
+      document.querySelectorAll('.entity-item').forEach(item => {
+        item.classList.toggle('selected', item.dataset.id === entityId);
+      });
+      
+      // Show detail panel
+      document.getElementById('noSelection').style.display = 'none';
+      const detailPanel = document.getElementById('entityDetail');
+      detailPanel.style.display = 'flex';
+      
+      // Populate header
+      document.getElementById('detailName').textContent = selectedEntity.name;
+      
+      // Info badges
+      const infoHtml = `
+        <span class="info-badge">${typeLabels[selectedEntity.type]}</span>
+        <span class="info-badge">${selectedEntity.englishName || ''}</span>
+        ${(selectedEntity.roles || []).map(role => 
+          `<span class="info-badge role-badge">${role}</span>`
+        ).join('')}
+        <span class="info-badge">${selectedEntity.sources?.length || 0} מקורות</span>
+      `;
+      document.getElementById('entityInfo').innerHTML = infoHtml;
+      
+      // Contexts
+      const contexts = selectedEntity.contexts || [];
+      document.getElementById('contextsList').innerHTML = contexts.length > 0 
+        ? contexts.map(c => `<li>${c}</li>`).join('')
+        : '<li style="color: #666;">אין הקשר זמין</li>';
+      
+      // Source tabs
+      renderSourceTabs();
+      
+      // Show first source
+      showSource(0);
+    }
+    
+    function renderSourceTabs() {
+      const sources = selectedEntity.sources || [];
+      const tabsHtml = sources.map((source, idx) => `
+        <div class="source-tab ${idx === 0 ? 'active' : ''}" 
+             data-index="${idx}"
+             onclick="showSource(${idx})">
+          שורות ${source.lineStart}-${source.lineEnd}
+          ${source.session ? `(ישיבה ${source.session})` : ''}
+        </div>
+      `).join('');
+      
+      document.getElementById('sourceTabs').innerHTML = tabsHtml || '<div class="source-tab">אין מקורות</div>';
+    }
+    
+    function showSource(index) {
+      selectedSourceIndex = index;
+      const sources = selectedEntity.sources || [];
+      const source = sources[index];
+      
+      if (!source) {
+        document.getElementById('sourceMeta').textContent = 'אין מקור זמין';
+        document.getElementById('sourceText').textContent = '';
+        return;
+      }
+      
+      // Update active tab
+      document.querySelectorAll('.source-tab').forEach((tab, idx) => {
+        tab.classList.toggle('active', idx === index);
+      });
+      
+      // Show metadata
+      document.getElementById('sourceMeta').innerHTML = `
+        <strong>קובץ:</strong> ${source.file} &nbsp;|&nbsp;
+        <strong>שורות:</strong> ${source.lineStart}-${source.lineEnd}
+        ${source.session ? `&nbsp;|&nbsp; <strong>ישיבה:</strong> ${source.session}` : ''}
+      `;
+      
+      // Show text
+      document.getElementById('sourceText').textContent = source.text || 'אין טקסט זמין';
+    }
+    
+    function renderEntityList(filter = '') {
+      const list = document.getElementById('entityList');
+      
+      const filtered = graphData.nodes
+        .filter(n => activeFilters.has(n.type))
+        .filter(n => !filter || n.name.includes(filter) || (n.englishName && n.englishName.toLowerCase().includes(filter.toLowerCase())))
+        .map(n => ({ ...n, degree: nodeDegrees[n.id] || 0 }))
+        .sort((a, b) => (b.sources?.length || 0) - (a.sources?.length || 0))
+        .slice(0, 50);
+      
+      list.innerHTML = filtered.map(node => `
+        <div class="entity-item ${selectedEntity?.id === node.id ? 'selected' : ''}" 
+             data-id="${node.id}"
+             onclick="selectEntity('${node.id.replace(/'/g, "\\'")}')">
+          <span class="entity-name" style="color: ${typeColors[node.type]?.border}">${node.name}</span>
+          <span class="entity-meta">${node.sources?.length || 0} מקורות</span>
+        </div>
+      `).join('');
+    }
+    
+    function updateStats() {
+      document.getElementById('totalNodes').textContent = graphData.nodes.length;
+      const totalSources = graphData.nodes.reduce((sum, n) => sum + (n.sources?.length || 0), 0);
+      document.getElementById('totalSources').textContent = totalSources;
+    }
+    
+    // Search handler
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      renderEntityList(e.target.value);
+    });
+    
+    // Load on page load
+    loadData();
+  </script>
+</body>
+</html>
+

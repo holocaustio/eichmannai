@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eichmann Trial - Entity Browser</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0f0f14;
+      color: #e0e0e0;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    header {
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #2a2a3a;
+    }
+    
+    header h1 {
+      font-size: 2rem;
+      background: linear-gradient(90deg, #6366f1, #a855f7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+    
+    .stats {
+      display: flex;
+      gap: 20px;
+      color: #888;
+      font-size: 0.9rem;
+    }
+    
+    .stats span {
+      color: #6366f1;
+      font-weight: bold;
+    }
+    
+    .search-box {
+      width: 100%;
+      max-width: 400px;
+      padding: 12px 16px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid #2a2a3a;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 1rem;
+      margin-bottom: 30px;
+    }
+    
+    .search-box::placeholder {
+      color: #666;
+    }
+    
+    .type-section {
+      margin-bottom: 40px;
+    }
+    
+    .type-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      cursor: pointer;
+    }
+    
+    .type-header h2 {
+      font-size: 1.3rem;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .type-badge {
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 0.8rem;
+    }
+    
+    .type-count {
+      color: #666;
+      font-size: 0.9rem;
+    }
+    
+    .entity-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 12px;
+    }
+    
+    .entity-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid #2a2a3a;
+      border-radius: 10px;
+      padding: 16px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .entity-card:hover {
+      background: rgba(255, 255, 255, 0.06);
+      border-color: #3a3a4a;
+    }
+    
+    .entity-card.expanded {
+      grid-column: 1 / -1;
+      background: rgba(99, 102, 241, 0.05);
+      border-color: rgba(99, 102, 241, 0.3);
+    }
+    
+    .entity-name {
+      font-size: 1.1rem;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    .entity-english {
+      font-size: 0.85rem;
+      color: #888;
+      margin-bottom: 8px;
+    }
+    
+    .entity-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 8px;
+    }
+    
+    .meta-badge {
+      padding: 2px 8px;
+      border-radius: 10px;
+      font-size: 0.7rem;
+      background: rgba(255, 255, 255, 0.1);
+      color: #aaa;
+    }
+    
+    .role-badge {
+      background: rgba(16, 185, 129, 0.2);
+      color: #6ee7b7;
+    }
+    
+    .source-count {
+      font-size: 0.8rem;
+      color: #6366f1;
+    }
+    
+    .entity-sources {
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid #2a2a3a;
+    }
+    
+    .sources-header {
+      font-size: 0.9rem;
+      color: #888;
+      margin-bottom: 12px;
+    }
+    
+    .source-item {
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid #2a2a3a;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      overflow: hidden;
+    }
+    
+    .source-header {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.03);
+      font-size: 0.8rem;
+      color: #888;
+    }
+    
+    .source-text {
+      padding: 14px;
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      color: #d4d4d4;
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 60px;
+      color: #666;
+    }
+    
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #2a2a3a;
+      border-top-color: #6366f1;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 16px;
+    }
+    
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    
+    .contexts {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 8px;
+      font-style: italic;
+    }
+    
+    /* Type colors */
+    .type-PERSON { background: rgba(59, 130, 246, 0.2); color: #60a5fa; }
+    .type-LOCATION { background: rgba(239, 68, 68, 0.2); color: #f87171; }
+    .type-ORGANIZATION { background: rgba(34, 197, 94, 0.2); color: #4ade80; }
+    .type-EVENT { background: rgba(168, 85, 247, 0.2); color: #c084fc; }
+    .type-DATE { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+    
+    .border-PERSON { border-color: rgba(59, 130, 246, 0.4); }
+    .border-LOCATION { border-color: rgba(239, 68, 68, 0.4); }
+    .border-ORGANIZATION { border-color: rgba(34, 197, 94, 0.4); }
+    .border-EVENT { border-color: rgba(168, 85, 247, 0.4); }
+    .border-DATE { border-color: rgba(245, 158, 11, 0.4); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>משפט אייכמן - דפדפן ישויות</h1>
+      <div class="stats">
+        <div>סה"כ ישויות: <span id="totalEntities">0</span></div>
+        <div>מקורות: <span id="totalSources">0</span></div>
+        <div>קובץ: <span id="fileName">-</span></div>
+      </div>
+    </header>
+    
+    <input type="text" class="search-box" id="searchInput" placeholder="חיפוש ישויות...">
+    
+    <div id="content">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <div>טוען ישויות...</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let data = null;
+    let expandedEntity = null;
+    
+    const typeLabels = {
+      PERSON: '👤 אנשים',
+      LOCATION: '📍 מקומות',
+      ORGANIZATION: '🏛️ ארגונים',
+      EVENT: '📅 אירועים',
+      DATE: '🗓️ תאריכים'
+    };
+    
+    const typeOrder = ['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE'];
+    
+    async function loadData() {
+      try {
+        const response = await fetch('entity-graph-v2.json');
+        data = await response.json();
+        
+        document.getElementById('totalEntities').textContent = data.nodes.length;
+        document.getElementById('totalSources').textContent = 
+          data.nodes.reduce((sum, n) => sum + (n.sources?.length || 0), 0);
+        document.getElementById('fileName').textContent = data.metadata?.file || '-';
+        
+        render();
+      } catch (error) {
+        document.getElementById('content').innerHTML = `
+          <div class="loading" style="color: #f87171;">
+            שגיאה בטעינת הנתונים: ${error.message}
+          </div>
+        `;
+      }
+    }
+    
+    function render(filter = '') {
+      const content = document.getElementById('content');
+      
+      // Group by type
+      const byType = {};
+      for (const type of typeOrder) {
+        byType[type] = [];
+      }
+      
+      for (const node of data.nodes) {
+        if (!byType[node.type]) byType[node.type] = [];
+        
+        // Filter
+        if (filter) {
+          const searchLower = filter.toLowerCase();
+          const matches = 
+            node.name?.includes(filter) ||
+            node.englishName?.toLowerCase().includes(searchLower) ||
+            node.variants?.some(v => v.includes(filter));
+          if (!matches) continue;
+        }
+        
+        byType[node.type].push(node);
+      }
+      
+      let html = '';
+      
+      for (const type of typeOrder) {
+        const entities = byType[type];
+        if (entities.length === 0) continue;
+        
+        // Sort by source count
+        entities.sort((a, b) => (b.sources?.length || 0) - (a.sources?.length || 0));
+        
+        html += `
+          <div class="type-section">
+            <div class="type-header">
+              <h2>
+                <span class="type-badge type-${type}">${typeLabels[type]}</span>
+                <span class="type-count">(${entities.length})</span>
+              </h2>
+            </div>
+            <div class="entity-grid">
+              ${entities.map(entity => renderEntity(entity)).join('')}
+            </div>
+          </div>
+        `;
+      }
+      
+      if (!html) {
+        html = '<div class="loading">לא נמצאו ישויות</div>';
+      }
+      
+      content.innerHTML = html;
+      
+      // Add click handlers
+      document.querySelectorAll('.entity-card').forEach(card => {
+        card.addEventListener('click', () => toggleEntity(card.dataset.id));
+      });
+    }
+    
+    function renderEntity(entity) {
+      const isExpanded = expandedEntity === entity.id;
+      const sourcesHtml = isExpanded ? renderSources(entity) : '';
+      
+      return `
+        <div class="entity-card ${isExpanded ? 'expanded' : ''} border-${entity.type}" data-id="${entity.id}">
+          <div class="entity-name">${entity.name}</div>
+          ${entity.englishName && entity.englishName !== entity.name ? 
+            `<div class="entity-english">${entity.englishName}</div>` : ''}
+          
+          <div class="entity-meta">
+            ${(entity.roles || []).slice(0, 3).map(role => 
+              `<span class="meta-badge role-badge">${role}</span>`
+            ).join('')}
+          </div>
+          
+          <div class="source-count">${entity.sources?.length || 0} מקורות</div>
+          
+          ${entity.contexts?.length > 0 ? 
+            `<div class="contexts">${entity.contexts[0]}</div>` : ''}
+          
+          ${sourcesHtml}
+        </div>
+      `;
+    }
+    
+    function renderSources(entity) {
+      const sources = entity.sources || [];
+      if (sources.length === 0) return '<div class="entity-sources">אין מקורות</div>';
+      
+      return `
+        <div class="entity-sources">
+          <div class="sources-header">מקורות (${sources.length}):</div>
+          ${sources.map(source => `
+            <div class="source-item">
+              <div class="source-header">
+                <span>שורות ${source.lineStart}-${source.lineEnd}</span>
+                ${source.session ? `<span>ישיבה ${source.session}</span>` : ''}
+              </div>
+              <div class="source-text">${escapeHtml(source.text || 'אין טקסט')}</div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+    
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+    
+    function toggleEntity(id) {
+      if (expandedEntity === id) {
+        expandedEntity = null;
+      } else {
+        expandedEntity = id;
+      }
+      render(document.getElementById('searchInput').value);
+    }
+    
+    // Search
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      render(e.target.value);
+    });
+    
+    // Load
+    loadData();
+  </script>
+</body>
+</html>
+

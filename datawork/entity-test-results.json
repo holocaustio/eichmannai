@@ -1,0 +1,4594 @@
+{
+  "nodes": [
+    {
+      "id": "אדולף אייכמן",
+      "name": "אדולף אייכמן",
+      "type": "PERSON",
+      "totalSalience": 1.4,
+      "mentions": 2,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "בית המשפט",
+      "name": "בית המשפט",
+      "type": "ORGANIZATION",
+      "totalSalience": 1,
+      "mentions": 2,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "גרמניה",
+      "name": "גרמניה",
+      "type": "LOCATION",
+      "totalSalience": 0.8,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.8
+    },
+    {
+      "id": "אושוויץ",
+      "name": "אושוויץ",
+      "type": "LOCATION",
+      "totalSalience": 0.8,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.8
+    },
+    {
+      "id": "חלמנו",
+      "name": "חלמנו",
+      "type": "LOCATION",
+      "totalSalience": 0.7,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "בלז'ץ",
+      "name": "בלז'ץ",
+      "type": "LOCATION",
+      "totalSalience": 0.7,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "סוביבור",
+      "name": "סוביבור",
+      "type": "LOCATION",
+      "totalSalience": 0.7,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "טרבלינקה",
+      "name": "טרבלינקה",
+      "type": "LOCATION",
+      "totalSalience": 0.7,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "מיידנק",
+      "name": "מיידנק",
+      "type": "LOCATION",
+      "totalSalience": 0.7,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.7
+    },
+    {
+      "id": "גסטאפו",
+      "name": "גסטאפו",
+      "type": "ORGANIZATION",
+      "totalSalience": 0.6,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.6
+    },
+    {
+      "id": "הפתרון הסופי",
+      "name": "הפתרון הסופי",
+      "type": "EVENT",
+      "totalSalience": 0.6,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.6
+    },
+    {
+      "id": "עוצבות מבצע",
+      "name": "עוצבות מבצע",
+      "type": "ORGANIZATION",
+      "totalSalience": 0.6,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.6
+    },
+    {
+      "id": "תכנית",
+      "name": "תכנית",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "11 באפריל 1961",
+      "name": "11 באפריל 1961",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "יולי 1944",
+      "name": "יולי 1944",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "ספטמבר 1939",
+      "name": "ספטמבר 1939",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "1941",
+      "name": "1941",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "1945",
+      "name": "1945",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "דצמבר",
+      "name": "דצמבר",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "מאי 1960",
+      "name": "מאי 1960",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "ד\"ר סרבציוס",
+      "name": "ד\"ר סרבציוס",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "השופט הלוי",
+      "name": "השופט הלוי",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "מסמך ת/2",
+      "name": "מסמך ת/2",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "מסמך מס' 3",
+      "name": "מסמך מס' 3",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "הנאשם",
+      "name": "הנאשם",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "הסמכות",
+      "name": "הסמכות",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "ישראל",
+      "name": "ישראל",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "הלוי",
+      "name": "הלוי",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "סוזנה סקוט",
+      "name": "סוזנה סקוט",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "בריסל",
+      "name": "בריסל",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "אוסטנד",
+      "name": "אוסטנד",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "אנגליה",
+      "name": "אנגליה",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Lord Tenterden",
+      "name": "Lord Tenterden",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "C. Ruthven",
+      "name": "C. Ruthven",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "11 בפברואר",
+      "name": "11 בפברואר",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "9 באפריל",
+      "name": "9 באפריל",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "K.B. Prison",
+      "name": "K.B. Prison",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Ex parte Scott",
+      "name": "Ex parte Scott",
+      "type": "EVENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "חקירת שתי וערב",
+      "name": "חקירת שתי וערב",
+      "type": "EVENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "הצהרות בשבועה",
+      "name": "הצהרות בשבועה",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "כתב אישום",
+      "name": "כתב אישום",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "עדי הגנה",
+      "name": "עדי הגנה",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "עברות",
+      "name": "עברות",
+      "type": "EVENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "חוק",
+      "name": "חוק",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "אייכמן",
+      "name": "אייכמן",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "בריטיים",
+      "name": "בריטיים",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "אנטוורפן",
+      "name": "אנטוורפן",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "בלגיה",
+      "name": "בלגיה",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Lord Colchester",
+      "name": "Lord Colchester",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Lord Goddard",
+      "name": "Lord Goddard",
+      "type": "PERSON",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "P.A.S.C. Colchester",
+      "name": "P.A.S.C. Colchester",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "R. v. O/C Depot Battalion",
+      "name": "R. v. O/C Depot Battalion",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "1949",
+      "name": "1949",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "המשפט המנדטורי",
+      "name": "המשפט המנדטורי",
+      "type": "EVENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "החוק הבינלאומי",
+      "name": "החוק הבינלאומי",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "s.154 of the Army Act",
+      "name": "s.154 of the Army Act",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "ארץ ישראל",
+      "name": "ארץ ישראל",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "סוריה",
+      "name": "סוריה",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "דמשק",
+      "name": "דמשק",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "בית המשפט העליון של ארץ ישראל",
+      "name": "בית המשפט העליון של ארץ ישראל",
+      "type": "ORGANIZATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "אפונה נגד היועץ המשפטי",
+      "name": "אפונה נגד היועץ המשפטי",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "14/42",
+      "name": "14/42",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "9/1942",
+      "name": "9/1942",
+      "type": "DATE",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Scotland",
+      "name": "Scotland",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Belgium",
+      "name": "Belgium",
+      "type": "LOCATION",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "American Jurisprudence",
+      "name": "American Jurisprudence",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    },
+    {
+      "id": "Corpus Juris Secundum",
+      "name": "Corpus Juris Secundum",
+      "type": "DOCUMENT",
+      "totalSalience": 0.5,
+      "mentions": 1,
+      "sessions": [
+        1
+      ],
+      "wikipediaUrl": null,
+      "avgSalience": 0.5
+    }
+  ],
+  "edges": [
+    {
+      "source": "אדולף אייכמן",
+      "target": "גרמניה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "אושוויץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "חלמנו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "בלז'ץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "סוביבור",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "אושוויץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "חלמנו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "בלז'ץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "סוביבור",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גרמניה",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "חלמנו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "בלז'ץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "סוביבור",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אושוויץ",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "בלז'ץ",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "סוביבור",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חלמנו",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "סוביבור",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלז'ץ",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "טרבלינקה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוביבור",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "מיידנק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "טרבלינקה",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "גסטאפו",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מיידנק",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "הפתרון הסופי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "גסטאפו",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "עוצבות מבצע",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הפתרון הסופי",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "תכנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עוצבות מבצע",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "תכנית",
+      "target": "11 באפריל 1961",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "תכנית",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "תכנית",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "תכנית",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "תכנית",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 באפריל 1961",
+      "target": "יולי 1944",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 באפריל 1961",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 באפריל 1961",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 באפריל 1961",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "יולי 1944",
+      "target": "ספטמבר 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "יולי 1944",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "יולי 1944",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ספטמבר 1939",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ספטמבר 1939",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1941",
+      "target": "1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "דצמבר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "מאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "ד\"ר סרבציוס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "השופט הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אדולף אייכמן",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "מאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "ד\"ר סרבציוס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "השופט הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דצמבר",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "ד\"ר סרבציוס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "השופט הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מאי 1960",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "השופט הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ד\"ר סרבציוס",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "השופט הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "השופט הלוי",
+      "target": "מסמך ת/2",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "השופט הלוי",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "השופט הלוי",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "השופט הלוי",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מסמך ת/2",
+      "target": "מסמך מס' 3",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מסמך ת/2",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מסמך ת/2",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מסמך מס' 3",
+      "target": "הנאשם",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מסמך מס' 3",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הנאשם",
+      "target": "הסמכות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "הלוי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "סוזנה סקוט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "בריסל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "אוסטנד",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "אנגליה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ישראל",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "סוזנה סקוט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "בריסל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "אוסטנד",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "אנגליה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הלוי",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "בריסל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "אוסטנד",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "אנגליה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוזנה סקוט",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "אוסטנד",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "אנגליה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריסל",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "אנגליה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אוסטנד",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "Lord Tenterden",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנגליה",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "11 בפברואר",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "9 באפריל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 בפברואר",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9 באפריל",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "חקירת שתי וערב",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "הצהרות בשבועה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חקירת שתי וערב",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הצהרות בשבועה",
+      "target": "כתב אישום",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הצהרות בשבועה",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הצהרות בשבועה",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הצהרות בשבועה",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הצהרות בשבועה",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "כתב אישום",
+      "target": "עדי הגנה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "כתב אישום",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "כתב אישום",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "כתב אישום",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עדי הגנה",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עדי הגנה",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עדי הגנה",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "עברות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "עברות",
+      "target": "חוק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "בריטיים",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "אנטוורפן",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "בלגיה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "Lord Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "Lord Goddard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אייכמן",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "אנטוורפן",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "בלגיה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "Lord Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "Lord Goddard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בריטיים",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "בלגיה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "Lord Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "Lord Goddard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אנטוורפן",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "Lord Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "Lord Goddard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בלגיה",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "Lord Goddard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Colchester",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "P.A.S.C. Colchester",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Goddard",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "P.A.S.C. Colchester",
+      "target": "R. v. O/C Depot Battalion",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "P.A.S.C. Colchester",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "P.A.S.C. Colchester",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "P.A.S.C. Colchester",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "P.A.S.C. Colchester",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "R. v. O/C Depot Battalion",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "R. v. O/C Depot Battalion",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "R. v. O/C Depot Battalion",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "R. v. O/C Depot Battalion",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1949",
+      "target": "המשפט המנדטורי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1949",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1949",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "המשפט המנדטורי",
+      "target": "החוק הבינלאומי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "המשפט המנדטורי",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "החוק הבינלאומי",
+      "target": "s.154 of the Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "סוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "דמשק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "אפונה נגד היועץ המשפטי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארץ ישראל",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "דמשק",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "אפונה נגד היועץ המשפטי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "סוריה",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "אפונה נגד היועץ המשפטי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "דמשק",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "אפונה נגד היועץ המשפטי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "אפונה נגד היועץ המשפטי",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "American Jurisprudence",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    }
+  ]
+}
