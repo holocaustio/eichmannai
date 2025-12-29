@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalNodes": 203,
+    "totalNodes": 202,
     "totalEdges": 2076,
     "witnesses": 108,
     "entities": 95,
@@ -2274,36 +2274,6 @@
       ]
     },
     {
-      "id": "Gustav Wagner",
-      "name": "Gustav Wagner",
-      "englishName": "Gustav Wagner",
-      "type": "PERSON",
-      "variants": [
-        "Gustav Wagner",
-        "גרמני?",
-        "גרוג?"
-      ],
-      "roles": [
-        "mentioned (SS officer)"
-      ],
-      "contexts": [
-        "ווגנר הוא אוברשארפירר שנזכר כחלק מהמעורבים בעפעולות ההשמדה; עצר את העד וצעק שאלו 'בהשמדה יהודים'."
-      ],
-      "mentions": 1,
-      "sessions": [
-        65
-      ],
-      "sources": [
-        {
-          "file": "Vol2_p6575.txt",
-          "lineStart": 574,
-          "lineEnd": 655,
-          "session": 65,
-          "text": "העד ז'ורבסקי בשנת 1944, בערך בחודש השביעי.\nש. עד אז היית בלודז'?\nהיה איש ס\"ס, אך איני זוכר את שמו.\nש. מן האנשים שלכם בארבייטסקומנדו (Arbeitskom-mando), ת. כן.\nמאנשי הצוות, היו גם כן ממיתים מפעם לפעם ?\nש. ראית את מכוניות הגז בפעולתן?\nת. כן, בוודאי. נשארנו 41, את היתר הרגו. בימי ראשון לא עבדו.\nאז העמידו אותנו ושמו בקבוקים על ראשינו, והשתעשעו ביריות ת. כן.\nבבקבוקים. מי שפגעו בבקבוק שעל ראשו, נותר בחיים, ומי שנפגע ש. הן פעלו בעמידה או בנסיעה ?\nבראשו – נהרג, והאחרים נשארו לעבוד.\nת.\nכאשר נסעו מהמקום ששם היה כתוב \"מרחץ\" ו\"לרופא\" נסעו\nש. בינואר 1945 הוציאו את כולכם, את כל מי שנשאר שם, בערך 300 מטרים עד למשרפות ואז כבר היו שם מתים, כלומר\nגוויות, אולם היו מקרים שאנשים עוד היו בחיים.\nלהורג?\nת. כן. ב־17 בינואר בלילה שמעו כניסת מכוניות. פתחו את השער. אב בית הדין האם עשו בחלמנו איזו עבודה שלא היתה קשורה\nובאו שני אנשי ס\"ס. זיהיתי את לנץ. הוא נכנס עם פנס כיס וצעק: בהשמדת יהודים ?\n\"חמישה אנשים החוצה !\" הוציאו את חמשת האנשים. שמענו חמש\nיריות. לאחר מכן נכנסו וחזרו וקראו לחמישה אנשים לצאת. כך העד ז'ורבסקי"
-        }
-      ]
-    },
-    {
       "id": "Paul Grott",
       "name": "Paul Grott",
       "englishName": "Paul Grott",
@@ -4249,7 +4219,7 @@
         53,
         54
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_eliyahu.jpg",
+      "image": "/images/witnesses/rosenberg.jpg",
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyChars": 13728,
       "hasTestimony": true
@@ -4926,7 +4896,7 @@
         53,
         54
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_moshe.jpg",
+      "image": "/images/witnesses/rosenberg.jpg",
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyChars": 13728,
       "hasTestimony": true
@@ -5490,7 +5460,7 @@
         28,
         29
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg",
+      "image": "/images/witnesses/zukermann.jpg",
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyChars": 44579,
       "hasTestimony": true
@@ -5518,7 +5488,7 @@
         63,
         64
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/brand_yoel.jpg",
+      "image": "/images/witnesses/brand.jpg",
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyChars": 30131,
       "hasTestimony": true
@@ -5649,7 +5619,7 @@
         28,
         29
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg",
+      "image": "/images/witnesses/zukermann.jpg",
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyChars": 43310,
       "hasTestimony": true
@@ -5714,7 +5684,7 @@
         53,
         54
       ],
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/gordon_avraham.jpg",
+      "image": "/images/witnesses/gordon.jpg",
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyChars": 23839,
       "hasTestimony": true

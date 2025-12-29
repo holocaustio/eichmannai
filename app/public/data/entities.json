@@ -3451,7 +3451,7 @@
       "testimonyLines": "16763-17148",
       "testimonyChars": 13728,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_eliyahu.jpg"
+      "image": "/images/witnesses/rosenberg.jpg"
     },
     {
       "id": "witness_25",
@@ -6524,7 +6524,7 @@
       "testimonyLines": "16763-17148",
       "testimonyChars": 13728,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_moshe.jpg"
+      "image": "/images/witnesses/rosenberg.jpg"
     },
     {
       "id": "witness_47",
@@ -8916,7 +8916,7 @@
       "testimonyLines": "15320-16331",
       "testimonyChars": 44579,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg"
+      "image": "/images/witnesses/zukermann.jpg"
     },
     {
       "id": "witness_65",
@@ -9051,7 +9051,7 @@
       "testimonyLines": "1386-2149",
       "testimonyChars": 30131,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/brand_yoel.jpg"
+      "image": "/images/witnesses/brand.jpg"
     },
     {
       "id": "witness_66",
@@ -9582,7 +9582,7 @@
       "testimonyLines": "15320-16292",
       "testimonyChars": 43310,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg"
+      "image": "/images/witnesses/zukermann.jpg"
     },
     {
       "id": "witness_70",
@@ -9819,7 +9819,7 @@
       "testimonyLines": "21541-22269",
       "testimonyChars": 23839,
       "hasTestimony": true,
-      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/gordon_avraham.jpg"
+      "image": "/images/witnesses/gordon.jpg"
     },
     {
       "id": "witness_72",

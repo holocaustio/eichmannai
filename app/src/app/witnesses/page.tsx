@@ -36,7 +36,7 @@ export default function WitnessesPage() {
   useEffect(() => {
     async function loadData() {
       try {
-        const res = await fetch('/data/entities.json');
+        const res = await fetch('/data/entities-consolidated.json');
         const json: EntitiesData = await res.json();
         setData(json);
       } catch (error) {

@@ -43,17 +43,13 @@ export default function Home() {
   useEffect(() => {
     async function loadStats() {
       try {
-        const [entitiesRes, graphRes] = await Promise.all([
-          fetch('/data/entities.json'),
-          fetch('/data/entity-graph.json')
-        ]);
-        const data: EntitiesData = await entitiesRes.json();
-        const graphData: GraphData = await graphRes.json();
+        const consolidatedRes = await fetch('/data/entities-consolidated.json');
+        const data: EntitiesData & { metadata: { totalNodes: number; totalEdges: number; witnesses: number } } = await consolidatedRes.json();
         
         setStats(data.metadata);
         setGraphStats({
-          entities: graphData.nodes.length,
-          connections: graphData.edges.length
+          entities: data.metadata.totalNodes,
+          connections: data.metadata.totalEdges
         });
       } catch (error) {
         console.error('Failed to load stats:', error);
@@ -372,7 +368,7 @@ function WitnessPreviewGrid() {
   useEffect(() => {
     async function loadWitnesses() {
       try {
-        const res = await fetch('/data/entities.json');
+        const res = await fetch('/data/entities-consolidated.json');
         const data = await res.json();
         // Get 6 random witnesses that have images
         const allWitnesses = data.nodes.filter((n: Witness) => n.isWitness && n.image);

@@ -41,38 +41,24 @@ export default function EntityDetailPage() {
   useEffect(() => {
     async function loadData() {
       try {
-        // Load both entity files - use entity-graph.json for entities and connections
-        const [graphRes, entitiesRes] = await Promise.all([
-          fetch('/data/entity-graph.json'),
-          fetch('/data/entities.json')
-        ]);
-        
-        const graphData: EntitiesData = await graphRes.json();
-        const witnessData: EntitiesData = await entitiesRes.json();
+        // Load consolidated entities file
+        const consolidatedRes = await fetch('/data/entities-consolidated.json');
+        const data: EntitiesData = await consolidatedRes.json();
 
-        // Find the entity in entity-graph.json
-        let found = graphData.nodes.find(n => 
+        // Find the entity
+        let found = data.nodes.find(n => 
           n.id === entityId || 
           n.name === entityId ||
           n.name.toLowerCase() === entityId.toLowerCase()
         );
 
-        // If not found in graph, check if it's a witness in entities.json
+        // If it's a witness, redirect to witness page
+        if (found && found.isWitness) {
+          window.location.href = `/witnesses/${encodeURIComponent(found.name)}`;
+          return;
+        }
+
         if (!found) {
-          const witness = witnessData.nodes.find(n => 
-            n.isWitness && (
-              n.id === entityId ||
-              n.name === entityId ||
-              n.name.toLowerCase() === entityId.toLowerCase()
-            )
-          );
-          
-          if (witness) {
-            // Redirect to witness page
-            window.location.href = `/witnesses/${encodeURIComponent(witness.name)}`;
-            return;
-          }
-          
           setError('Entity not found');
           setLoading(false);
           return;
@@ -80,49 +66,33 @@ export default function EntityDetailPage() {
 
         setEntity(found);
 
-        // Find linked entities from graph edges
+        // Find linked entities and witnesses from edges
+        const linkedEntityIds = new Set<string>();
+        
+        data.edges?.forEach((edge: Edge) => {
+          if (edge.source === found.id || edge.source === found.name) {
+            linkedEntityIds.add(edge.target);
+          } else if (edge.target === found.id || edge.target === found.name) {
+            linkedEntityIds.add(edge.source);
+          }
+        });
+
+        // Separate into entities and witnesses
         const linked: Entity[] = [];
         const witnesses: Entity[] = [];
-
-        graphData.edges?.forEach((edge: Edge) => {
-          if (edge.source === found.id || edge.source === found.name) {
-            const target = graphData.nodes.find(n => n.id === edge.target || n.name === edge.target);
-            if (target) {
-              linked.push(target);
-            }
-          } else if (edge.target === found.id || edge.target === found.name) {
-            const source = graphData.nodes.find(n => n.id === edge.source || n.name === edge.source);
-            if (source) {
-              linked.push(source);
+        
+        data.nodes.forEach(n => {
+          if (linkedEntityIds.has(n.id)) {
+            if (n.isWitness) {
+              witnesses.push(n);
+            } else {
+              linked.push(n);
             }
           }
         });
 
-        // Also check witnesses from entities.json
-        witnessData.edges?.forEach((edge: Edge) => {
-          if (edge.source === found.id || edge.source === found.name) {
-            const target = witnessData.nodes.find(n => n.id === edge.target || n.name === edge.target);
-            if (target && target.isWitness) {
-              witnesses.push(target);
-            }
-          } else if (edge.target === found.id || edge.target === found.name) {
-            const source = witnessData.nodes.find(n => n.id === edge.source || n.name === edge.source);
-            if (source && source.isWitness) {
-              witnesses.push(source);
-            }
-          }
-        });
-
-        // Remove duplicates
-        const uniqueLinked = linked.filter((e, i, self) => 
-          i === self.findIndex(x => x.id === e.id)
-        );
-        const uniqueWitnesses = witnesses.filter((e, i, self) => 
-          i === self.findIndex(x => x.id === e.id)
-        );
-
-        setLinkedEntities(uniqueLinked);
-        setLinkedWitnesses(uniqueWitnesses);
+        setLinkedEntities(linked);
+        setLinkedWitnesses(witnesses);
       } catch (err) {
         setError('Failed to load data');
         console.error(err);

@@ -47,6 +47,7 @@ interface LinkedEntity {
   englishName?: string;
   sessions?: number[];
   mentions?: number;
+  isWitness?: boolean;
 }
 
 interface EntityGraphData {
@@ -73,17 +74,15 @@ export default function WitnessDetailPage() {
   useEffect(() => {
     async function loadData() {
       try {
-        // Load entities file, session videos, and entity graph for linked entities
-        const [entitiesRes, videosRes, entityGraphRes] = await Promise.all([
-          fetch('/data/entities.json'),
-          fetch('/data/session-videos.json'),
-          fetch('/data/entity-graph-v2.json')
+        // Load consolidated entities and session videos
+        const [consolidatedRes, videosRes] = await Promise.all([
+          fetch('/data/entities-consolidated.json'),
+          fetch('/data/session-videos.json')
         ]);
-        const entities: EntitiesData = await entitiesRes.json();
+        const consolidated: EntityGraphData & { nodes: Witness[] } = await consolidatedRes.json();
         const videosData: SessionVideosData = await videosRes.json();
-        const entityGraph: EntityGraphData = await entityGraphRes.json();
         
-        const found = entities.nodes.find((n: Witness) => 
+        const found = consolidated.nodes.find((n: Witness) => 
           n.isWitness && (
             n.name === witnessName ||
             n.name.toLowerCase() === witnessName.toLowerCase() ||
@@ -116,25 +115,26 @@ export default function WitnessDetailPage() {
           setSessionVideos(Array.from(uniqueVideos.values()));
         }
         
-        // Find linked entities through shared sessions
-        if (found.sessions && found.sessions.length > 0) {
-          const witnessSessions = new Set(found.sessions);
-          const linked = entityGraph.nodes
-            .filter(entity => {
-              // Find entities that share sessions with this witness
-              if (!entity.sessions || entity.sessions.length === 0) return false;
-              return entity.sessions.some(s => witnessSessions.has(s));
-            })
-            .map(entity => ({
-              ...entity,
-              // Calculate how many sessions are shared (for sorting)
-              sharedCount: entity.sessions?.filter(s => witnessSessions.has(s)).length || 0
-            }))
-            .sort((a, b) => b.sharedCount - a.sharedCount)
-            .slice(0, 30); // Limit to top 30 most relevant
-          
-          setLinkedEntities(linked);
-        }
+        // Find linked entities from consolidated edges
+        const witnessId = found.id;
+        const linkedEntityIds = new Set<string>();
+        
+        // Find all edges connected to this witness
+        (consolidated as { edges?: Array<{ source: string; target: string }> }).edges?.forEach(edge => {
+          if (edge.source === witnessId) {
+            linkedEntityIds.add(edge.target);
+          } else if (edge.target === witnessId) {
+            linkedEntityIds.add(edge.source);
+          }
+        });
+        
+        // Get the actual entity objects (excluding other witnesses)
+        const linked = consolidated.nodes
+          .filter(n => linkedEntityIds.has(n.id) && !n.isWitness)
+          .sort((a, b) => (b.mentions || 0) - (a.mentions || 0))
+          .slice(0, 30);
+        
+        setLinkedEntities(linked as LinkedEntity[]);
         
         // Load testimony index to find the markdown file
         const indexRes = await fetch('/data/testimonies/_index.json');

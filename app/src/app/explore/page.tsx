@@ -237,7 +237,7 @@ export default function ExplorePage() {
           <section className="py-12 px-6">
             <div className="max-w-7xl mx-auto">
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                {searchedEntities.map((entity) => {
+                {searchedEntities.map((entity, idx) => {
                   const typeInfo = typeLabels[entity.type] || { label: entity.type, icon: '•', color: 'text-stone-400' };
                   // Witnesses should link to their witness page, not entity page
                   const href = entity.type === 'WITNESS' || entity.isWitness
@@ -245,7 +245,7 @@ export default function ExplorePage() {
                     : `/explore/${encodeURIComponent(entity.id)}`;
                   return (
                     <Link
-                      key={entity.id}
+                      key={`${entity.id}-${idx}`}
                       href={href}
                       className="group block border border-stone-800 hover:border-stone-700 bg-stone-900/30 hover:bg-stone-900/50 transition-all duration-300 p-6"
                     >
@@ -419,8 +419,14 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
 
       const maxDegree = Math.max(...Object.values(nodeDegrees), 1);
 
-      // Filter nodes based on active filters
-      const filteredNodes = nodes.filter(n => activeFilters.has(n.type));
+      // Filter nodes based on active filters and deduplicate by ID
+      const seenIds = new Set<string>();
+      const filteredNodes = nodes.filter(n => {
+        if (!activeFilters.has(n.type)) return false;
+        if (seenIds.has(n.id)) return false;
+        seenIds.add(n.id);
+        return true;
+      });
       
       // Create vis DataSet for nodes
       const visNodes = new DataSet(
