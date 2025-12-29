@@ -1,8 +1,9 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface Witness {
   id: string;
@@ -17,12 +18,7 @@ interface Witness {
   testimonyLines?: string;
   testimonyChars?: number;
   hasTestimony?: boolean;
-  sources?: Array<{
-    file: string;
-    lineStart: number;
-    lineEnd: number;
-    session: number;
-  }>;
+  image?: string;
 }
 
 interface TestimonyIndex {
@@ -33,22 +29,59 @@ interface TestimonyIndex {
   chars: number;
 }
 
+interface SessionVideo {
+  videoId: string;
+  title: string;
+}
+
+interface SessionVideosData {
+  playlistId: string;
+  playlistUrl: string;
+  sessions: Record<string, SessionVideo[]>;
+}
+
+interface LinkedEntity {
+  id: string;
+  name: string;
+  type: string;
+  englishName?: string;
+  sessions?: number[];
+  mentions?: number;
+}
+
+interface EntityGraphData {
+  nodes: LinkedEntity[];
+}
+
+interface EntitiesData {
+  nodes: Witness[];
+}
+
 export default function WitnessDetailPage() {
   const params = useParams();
   const witnessName = decodeURIComponent(params.name as string);
 
   const [witness, setWitness] = useState<Witness | null>(null);
   const [testimony, setTestimony] = useState<string | null>(null);
+  const [sessionVideos, setSessionVideos] = useState<SessionVideo[]>([]);
+  const [linkedEntities, setLinkedEntities] = useState<LinkedEntity[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [imageError, setImageError] = useState(false);
 
   // Load witness data and testimony
   useEffect(() => {
     async function loadData() {
       try {
-        // Load entities
-        const entitiesRes = await fetch('/data/entities.json');
-        const entities = await entitiesRes.json();
+        // Load entities file, session videos, and entity graph for linked entities
+        const [entitiesRes, videosRes, entityGraphRes] = await Promise.all([
+          fetch('/data/entities.json'),
+          fetch('/data/session-videos.json'),
+          fetch('/data/entity-graph-v2.json')
+        ]);
+        const entities: EntitiesData = await entitiesRes.json();
+        const videosData: SessionVideosData = await videosRes.json();
+        const entityGraph: EntityGraphData = await entityGraphRes.json();
         
         const found = entities.nodes.find((n: Witness) => 
           n.isWitness && (
@@ -66,6 +99,42 @@ export default function WitnessDetailPage() {
         }
         
         setWitness(found);
+        
+        // Find videos for this witness's sessions
+        if (found.sessions && found.sessions.length > 0) {
+          const uniqueVideos = new Map<string, SessionVideo>();
+          for (const session of found.sessions) {
+            const sessionVids = videosData.sessions[session.toString()];
+            if (sessionVids && sessionVids.length > 0) {
+              // Take first video for each session (avoid duplicates)
+              const vid = sessionVids[0];
+              if (!uniqueVideos.has(vid.videoId)) {
+                uniqueVideos.set(vid.videoId, vid);
+              }
+            }
+          }
+          setSessionVideos(Array.from(uniqueVideos.values()));
+        }
+        
+        // Find linked entities through shared sessions
+        if (found.sessions && found.sessions.length > 0) {
+          const witnessSessions = new Set(found.sessions);
+          const linked = entityGraph.nodes
+            .filter(entity => {
+              // Find entities that share sessions with this witness
+              if (!entity.sessions || entity.sessions.length === 0) return false;
+              return entity.sessions.some(s => witnessSessions.has(s));
+            })
+            .map(entity => ({
+              ...entity,
+              // Calculate how many sessions are shared (for sorting)
+              sharedCount: entity.sessions?.filter(s => witnessSessions.has(s)).length || 0
+            }))
+            .sort((a, b) => b.sharedCount - a.sharedCount)
+            .slice(0, 30); // Limit to top 30 most relevant
+          
+          setLinkedEntities(linked);
+        }
         
         // Load testimony index to find the markdown file
         const indexRes = await fetch('/data/testimonies/_index.json');
@@ -111,7 +180,7 @@ export default function WitnessDetailPage() {
   // Parse and render markdown
   const renderMarkdown = (content: string) => {
     const lines = content.split('\n');
-    const elements: JSX.Element[] = [];
+    const elements: React.ReactElement[] = [];
     
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
@@ -122,32 +191,15 @@ export default function WitnessDetailPage() {
         continue;
       }
       
-      // Skip the footer
+      // Skip the footer and title (we show it in sidebar)
       if (trimmed.startsWith('---') && i > lines.length - 5) continue;
       if (trimmed.startsWith('*Extracted from')) continue;
-      
-      // H1 - Main title
-      if (trimmed.startsWith('# ')) {
-        elements.push(
-          <h1 key={i} className="font-serif text-3xl md:text-4xl font-light mb-2 text-stone-100" dir="rtl">
-            {trimmed.slice(2)}
-          </h1>
-        );
-        continue;
-      }
-      
-      // H2 - Subtitle
-      if (trimmed.startsWith('## ')) {
-        elements.push(
-          <h2 key={i} className="text-xl text-stone-400 mb-6">
-            {trimmed.slice(3)}
-          </h2>
-        );
-        continue;
-      }
+      if (trimmed.startsWith('# ') && i < 3) continue;
+      if (trimmed.startsWith('## ') && i < 5) continue;
       
       // Horizontal rule (after header)
       if (trimmed === '---') {
+        if (i < 10) continue; // Skip header separator
         elements.push(<hr key={i} className="border-stone-800 my-6" />);
         continue;
       }
@@ -225,9 +277,11 @@ export default function WitnessDetailPage() {
     return elements;
   };
 
+  const hebrewInitial = witness?.hebrewName?.charAt(0) || witness?.name?.charAt(0) || '';
+
   if (loading) {
     return (
-      <main className="bg-stone-950 text-stone-100 min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <div className="inline-block w-8 h-8 border-2 border-stone-600 border-t-stone-300 rounded-full animate-spin mb-4" />
           <p className="text-stone-500">Loading testimony...</p>
@@ -238,7 +292,7 @@ export default function WitnessDetailPage() {
 
   if (!witness) {
     return (
-      <main className="bg-stone-950 text-stone-100 min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl mb-4">Witness Not Found</h1>
           <p className="text-stone-500 mb-6">Could not find witness: {witnessName}</p>
@@ -251,120 +305,197 @@ export default function WitnessDetailPage() {
   }
 
   return (
-    <main className="bg-stone-950 text-stone-100 min-h-screen">
-      {/* Header */}
-      <header className="border-b border-stone-900 sticky top-0 bg-stone-950/95 backdrop-blur-sm z-50">
-        <div className="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between">
-          <Link href="/witnesses" className="text-stone-400 hover:text-stone-200 transition-colors text-sm">
-            ← Back to Witnesses
-          </Link>
-          <span className="text-stone-500 text-sm">Witness Testimony</span>
-        </div>
-      </header>
-
-      {/* Witness Info */}
-      <section className="py-12 px-6 border-b border-stone-900">
-        <div className="max-w-4xl mx-auto">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">Witness</p>
+    <main className="min-h-screen">
+      {/* Two Column Layout */}
+      <div className="max-w-7xl mx-auto px-6 py-8">
+        <div className="flex flex-col lg:flex-row gap-8">
           
-          <h1 className="font-serif text-4xl md:text-5xl font-light mb-2">
-            {witness.name}
-          </h1>
-          
-          <p className="text-stone-400 text-2xl mb-6" dir="rtl">
-            {witness.hebrewName}
-          </p>
-
-          <div className="flex flex-wrap gap-3 text-sm">
-            {witness.sessions && witness.sessions.length > 0 && (
-              <span className="border border-stone-800 px-3 py-1 text-stone-400">
-                Sessions: {witness.sessions.slice(0, 5).join(', ')}{witness.sessions.length > 5 ? '...' : ''}
-              </span>
-            )}
-            {witness.testimonyFile && (
-              <span className="border border-stone-800 px-3 py-1 text-stone-400">
-                Source: {witness.testimonyFile}
-              </span>
-            )}
-            {witness.testimonyLines && (
-              <span className="border border-stone-800 px-3 py-1 text-stone-400">
-                Lines: {witness.testimonyLines}
-              </span>
-            )}
-            {witness.testimonyChars && (
-              <span className="border border-stone-800 px-3 py-1 text-stone-400">
-                {witness.testimonyChars.toLocaleString()} characters
-              </span>
-            )}
-          </div>
-        </div>
-      </section>
-
-      {/* Testimony Section */}
-      <section className="py-12 px-6">
-        <div className="max-w-4xl mx-auto">
-          {error && (
-            <div className="text-center py-16">
-              <p className="text-stone-500 mb-4">{error}</p>
-              <Link href="/witnesses" className="text-stone-400 hover:text-stone-200">
-                ← Back to witnesses
-              </Link>
-            </div>
-          )}
-
-          {testimony && (
-            <div>
-              <div className="bg-stone-900/50 border border-stone-800 p-8 md:p-12">
-                <div className="font-serif text-lg leading-loose">
-                  {renderMarkdown(testimony)}
-                </div>
+          {/* Left Column - Sidebar */}
+          <div className="lg:w-80 flex-shrink-0">
+            <div className="space-y-6">
+              
+            
+              
+              {/* Witness Photo or Initial */}
+              <div className="relative w-full aspect-[3/4] bg-stone-900 border border-stone-800 overflow-hidden">
+                {witness.image && !imageError ? (
+                  <Image
+                    src={witness.image}
+                    alt={witness.name}
+                    fill
+                    className="object-cover"
+                    sizes="320px"
+                    onError={() => setImageError(true)}
+                    priority
+                  />
+                ) : (
+                  <div className="absolute inset-0 flex items-center justify-center bg-stone-900">
+                    <span className="text-stone-600 text-8xl font-serif">
+                      {hebrewInitial}
+                    </span>
+                  </div>
+                )}
               </div>
-
-              <div className="mt-8 text-stone-600 text-sm text-center">
-                <p>
-                  {witness.testimonyChars && (
-                    <span>{witness.testimonyChars.toLocaleString()} characters</span>
-                  )}
+              
+              {/* Witness Name & Details */}
+              <div>
+                <p className="text-stone-600 text-xs tracking-[0.2em] uppercase mb-2">Witness</p>
+                <h1 className="font-serif text-2xl font-light mb-1">
+                  {witness.name}
+                </h1>
+                <p className="text-stone-400 text-xl" dir="rtl">
+                  {witness.hebrewName}
                 </p>
               </div>
-            </div>
-          )}
-        </div>
-      </section>
-
-      {/* Related Sessions */}
-      {witness.sessions && witness.sessions.length > 0 && (
-        <section className="py-12 px-6 border-t border-stone-900 bg-stone-900/20">
-          <div className="max-w-4xl mx-auto">
-            <h3 className="font-serif text-xl mb-6">Sessions</h3>
-            <div className="flex flex-wrap gap-3">
-              {witness.sessions.slice(0, 10).map(session => (
-                <div 
-                  key={session}
-                  className="border border-stone-800 px-4 py-3"
-                >
-                  <span className="text-stone-300">Session {session}</span>
-                  <span className="text-stone-600 text-sm mr-2" dir="rtl"> • ישיבה {session}</span>
+              
+              {/* Meta Info */}
+              <div className="space-y-2 text-sm">
+                {witness.sessions && witness.sessions.length > 0 && (
+                  <div className="flex items-start gap-2">
+                    <span className="text-stone-600 shrink-0">Sessions:</span>
+                    <span className="text-stone-400">
+                      {witness.sessions.slice(0, 5).join(', ')}{witness.sessions.length > 5 ? '...' : ''}
+                    </span>
+                  </div>
+                )}
+                {witness.testimonyChars && (
+                  <div className="flex items-start gap-2">
+                    <span className="text-stone-600 shrink-0">Length:</span>
+                    <span className="text-stone-400">{witness.testimonyChars.toLocaleString()} characters</span>
+                  </div>
+                )}
+                {witness.testimonyFile && (
+                  <div className="flex items-start gap-2">
+                    <span className="text-stone-600 shrink-0">Source:</span>
+                    <span className="text-stone-400 text-xs">{witness.testimonyFile}</span>
+                  </div>
+                )}
+              </div>
+              
+              {/* Video Testimony */}
+              {sessionVideos.length > 0 && (
+                <div className="pt-4 border-t border-stone-800">
+                  <h3 className="text-xs text-stone-500 uppercase tracking-wider mb-3">
+                    Video Testimony
+                  </h3>
+                  <div className="space-y-3">
+                    {sessionVideos.slice(0, 2).map((video, idx) => (
+                      <div key={video.videoId + idx} className="relative aspect-video bg-stone-900 border border-stone-800 overflow-hidden">
+                        <iframe
+                          src={`https://www.youtube.com/embed/${video.videoId}`}
+                          title={video.title}
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                          className="absolute inset-0 w-full h-full"
+                        />
+                      </div>
+                    ))}
+                    {sessionVideos.length > 2 && (
+                      <a
+                        href="https://www.youtube.com/playlist?list=PL8DE7D8BC03983637"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="block text-center py-2 text-stone-500 hover:text-stone-300 text-xs transition-colors"
+                      >
+                        +{sessionVideos.length - 2} more videos on YouTube →
+                      </a>
+                    )}
+                  </div>
                 </div>
-              ))}
-              {witness.sessions.length > 10 && (
-                <div className="border border-stone-800 px-4 py-3 text-stone-500">
-                  +{witness.sessions.length - 10} more
+              )}
+              
+              {/* Linked Entities */}
+              {linkedEntities.length > 0 && (
+                <div className="pt-4 border-t border-stone-800">
+                  <h3 className="text-xs text-stone-500 uppercase tracking-wider mb-3">
+                    Related Entities ({linkedEntities.length})
+                  </h3>
+                  <div className="space-y-3 max-h-80 overflow-y-auto pr-1">
+                    {/* Group by type */}
+                    {(['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE'] as const).map(type => {
+                      const ofType = linkedEntities.filter(e => e.type === type);
+                      if (ofType.length === 0) return null;
+                      
+                      const typeConfig: Record<string, { icon: string; color: string }> = {
+                        'PERSON': { icon: '👤', color: 'text-amber-400' },
+                        'LOCATION': { icon: '📍', color: 'text-blue-400' },
+                        'ORGANIZATION': { icon: '🏛️', color: 'text-purple-400' },
+                        'EVENT': { icon: '📅', color: 'text-emerald-400' },
+                        'DATE': { icon: '📆', color: 'text-rose-400' },
+                      };
+                      const config = typeConfig[type];
+                      
+                      return (
+                        <div key={type}>
+                          <p className={`text-xs ${config.color} mb-1.5 flex items-center gap-1`}>
+                            <span>{config.icon}</span>
+                            {type} ({ofType.length})
+                          </p>
+                          <div className="flex flex-wrap gap-1.5">
+                            {ofType.slice(0, 8).map(entity => (
+                              <Link
+                                key={entity.id}
+                                href={`/explore/${encodeURIComponent(entity.id)}`}
+                                className="px-2 py-1 bg-stone-800/50 border border-stone-700 text-stone-400 text-xs hover:bg-stone-700 hover:text-stone-200 hover:border-stone-600 transition-colors rounded"
+                              >
+                                {entity.name.length > 20 ? entity.name.slice(0, 20) + '...' : entity.name}
+                              </Link>
+                            ))}
+                            {ofType.length > 8 && (
+                              <span className="px-2 py-1 text-stone-600 text-xs">
+                                +{ofType.length - 8} more
+                              </span>
+                            )}
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                  <Link 
+                    href="/explore"
+                    className="block text-center py-2 mt-3 text-stone-500 hover:text-stone-300 text-xs transition-colors"
+                  >
+                    Explore All Entities →
+                  </Link>
+                </div>
+              )}
+              
+              {/* Explore Link (only if no linked entities) */}
+              {linkedEntities.length === 0 && (
+                <div className="pt-4 border-t border-stone-800">
+                  <Link 
+                    href="/explore"
+                    className="block text-center py-3 border border-stone-700 text-stone-400 text-sm hover:bg-stone-800 hover:text-stone-200 transition-colors"
+                  >
+                    Explore All Entities →
+                  </Link>
                 </div>
               )}
             </div>
           </div>
-        </section>
-      )}
+          
+          {/* Right Column - Testimony */}
+          <div className="flex-1 min-w-0">
+            {error && !testimony && (
+              <div className="text-center py-16">
+                <p className="text-stone-500 mb-4">{error}</p>
+                <Link href="/witnesses" className="text-stone-400 hover:text-stone-200">
+                  ← Back to witnesses
+                </Link>
+              </div>
+            )}
 
-      {/* Footer */}
-      <footer className="py-8 px-6 border-t border-stone-900">
-        <div className="max-w-4xl mx-auto text-center">
-          <Link href="/witnesses" className="text-stone-500 hover:text-stone-300 text-sm">
-            ← View all witnesses
-          </Link>
+            {testimony && (
+              <div className="bg-stone-900/50 border border-stone-800 p-6 md:p-10">
+                <div className="font-serif text-base md:text-lg leading-loose">
+                  {renderMarkdown(testimony)}
+                </div>
+              </div>
+            )}
+          </div>
         </div>
-      </footer>
-    </main>
+      </div>
+
+      </main>
   );
 }

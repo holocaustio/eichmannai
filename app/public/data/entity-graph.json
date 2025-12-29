@@ -1,0 +1,8976 @@
+{
+  "nodes": [
+    {
+      "id": "Germany",
+      "name": "Germany",
+      "englishName": "Germany",
+      "type": "LOCATION",
+      "variants": [
+        "גרמניה",
+        "הגרמניה",
+        "המדינה הפדרלית הגרמנית"
+      ],
+      "mentions": 8,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Dr. Robert Serbatzios",
+      "name": "Dr. Robert Serbatzios",
+      "englishName": "Dr. Robert Serbatzios",
+      "type": "PERSON",
+      "variants": [
+        "ד\"р רוברט סרבציוס",
+        "ד\"ר רוברט סרבציוס",
+        "ד\"ר סרבציוס"
+      ],
+      "mentions": 5,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Israel",
+      "name": "Israel",
+      "englishName": "Israel",
+      "type": "LOCATION",
+      "variants": [
+        "ישראל",
+        "מדינת ישראל"
+      ],
+      "mentions": 5,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Adolf Eichmann",
+      "name": "Adolf Eichmann",
+      "englishName": "Adolf Eichmann",
+      "type": "PERSON",
+      "variants": [
+        "אדולף אייכמן",
+        "אייכמן"
+      ],
+      "mentions": 4,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Geheime Staatspolizei",
+      "name": "Geheime Staatspolizei",
+      "englishName": "Geheime Staatspolizei (Gestapo)",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Geheime Staatspolizei",
+        "Secret State Police",
+        "Gestapo",
+        "Section IVB4 of the Gestapo"
+      ],
+      "mentions": 4,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Auschwitz",
+      "name": "Auschwitz",
+      "englishName": "Auschwitz",
+      "type": "LOCATION",
+      "variants": [
+        "אושוויץ"
+      ],
+      "mentions": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "United States",
+      "name": "United States",
+      "englishName": "United States",
+      "type": "LOCATION",
+      "variants": [
+        "ארצות הברית"
+      ],
+      "mentions": 3,
+      "sessions": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "Idaho",
+      "name": "Idaho",
+      "englishName": "Idaho",
+      "type": "LOCATION",
+      "variants": [
+        "Idaho"
+      ],
+      "mentions": 3,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "הס",
+      "name": "הס",
+      "englishName": "Gestapo/Secret State Police",
+      "type": "ORGANIZATION",
+      "variants": [
+        "הס",
+        "הס\"ס",
+        "הס'ס",
+        "Geheime Staatspolizei",
+        "Secret State Police",
+        "Gestapo",
+        "Section IVB4 of the Gestapo"
+      ],
+      "mentions": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Abduction of Adolf Eichmann from Argentina",
+      "name": "Abduction of Adolf Eichmann from Argentina",
+      "englishName": "Abduction of Adolf Eichmann from Argentina",
+      "type": "EVENT",
+      "variants": [
+        "חטיפת הנאשם אדולף אייכמן מארגנטינה",
+        "אייכמן"
+      ],
+      "mentions": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Brussels",
+      "name": "Brussels",
+      "englishName": "Brussels",
+      "type": "LOCATION",
+      "variants": [
+        "Brussels"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "England",
+      "name": "England",
+      "englishName": "England",
+      "type": "LOCATION",
+      "variants": [
+        "England"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Belgium",
+      "name": "Belgium",
+      "englishName": "Belgium",
+      "type": "LOCATION",
+      "variants": [],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Pettibone",
+      "name": "Pettibone",
+      "englishName": "Pettibone",
+      "type": "PERSON",
+      "variants": [
+        "Pettibone"
+      ],
+      "mentions": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Ker v. Illinois",
+      "name": "Ker v. Illinois",
+      "englishName": "Ker v. Illinois",
+      "type": "EVENT",
+      "variants": [
+        "Ker versus Illinois"
+      ],
+      "mentions": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Colorado",
+      "name": "Colorado",
+      "englishName": "Colorado",
+      "type": "LOCATION",
+      "variants": [
+        "Colorado"
+      ],
+      "mentions": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Transfer affair",
+      "name": "Transfer affair",
+      "englishName": "Transfer affair",
+      "type": "EVENT",
+      "variants": [
+        "פרשת העברה"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Berlin",
+      "name": "Berlin",
+      "englishName": "Berlin",
+      "type": "LOCATION",
+      "variants": [
+        "ברלין"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "1.10.1946",
+      "name": "1.10.1946",
+      "englishName": "October 1, 1946",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "International Military Tribunal",
+      "name": "International Military Tribunal",
+      "englishName": "International Military Tribunal",
+      "type": "ORGANIZATION",
+      "variants": [
+        "International Military Tribunal",
+        "בית הדין הצבאי הבינלאומי"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ההסטאטוס הלונדוני",
+      "name": "ההסטאטוס הלונדוני",
+      "englishName": "The London Statute/Statute of London",
+      "type": "ORGANIZATION",
+      "variants": [
+        "ההסטאטוס הלונדוני",
+        "ההתקנון הלונדוני",
+        "London Statute"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "מועצת הביטחון",
+      "name": "מועצת הביטחון",
+      "englishName": "Security Council",
+      "type": "ORGANIZATION",
+      "variants": [
+        "מועצת הביטחון",
+        "מועצת הביטחון של האומות המאוחדות"
+      ],
+      "mentions": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "היועץ המשפטי לממשלה",
+      "name": "היועץ המשפטי לממשלה",
+      "englishName": "Attorney General of Israel",
+      "type": "ORGANIZATION",
+      "variants": [
+        "היועץ המשפטי לממשלה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Chelmno",
+      "name": "Chelmno",
+      "englishName": "Chelmno",
+      "type": "LOCATION",
+      "variants": [
+        "חלמנו (Chelmno)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Belzec",
+      "name": "Belzec",
+      "englishName": "Belzec",
+      "type": "LOCATION",
+      "variants": [
+        "בלז'ץ (Belzec)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Sobibor",
+      "name": "Sobibor",
+      "englishName": "Sobibor",
+      "type": "LOCATION",
+      "variants": [
+        "סוביבור (Sobibor)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Treblinka",
+      "name": "Treblinka",
+      "englishName": "Treblinka",
+      "type": "LOCATION",
+      "variants": [
+        "טרבלינקה (Treblinka)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Majdanek",
+      "name": "Majdanek",
+      "englishName": "Majdanek",
+      "type": "LOCATION",
+      "variants": [
+        "מיידנק (Majdanek)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Einsatzgruppen",
+      "name": "Einsatzgruppen",
+      "englishName": "Einsatzgruppen",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Einsatzgruppen"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "בית המשפט",
+      "name": "בית המשפט",
+      "englishName": "The Court",
+      "type": "ORGANIZATION",
+      "variants": [
+        "בית המשפט"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "mai 1960",
+      "name": "mai 1960",
+      "englishName": "May 1960",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Lord Tenterden",
+      "name": "Lord Tenterden",
+      "englishName": "Lord Tenterden",
+      "type": "PERSON",
+      "variants": [
+        "Lord Tenterden C. J.",
+        "Lords Tenterden"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "C. Ruthven",
+      "name": "C. Ruthven",
+      "englishName": "C. Ruthven",
+      "type": "PERSON",
+      "variants": [
+        "C. Ruthven"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Schott",
+      "name": "Schott",
+      "englishName": "Scott",
+      "type": "PERSON",
+      "variants": [
+        "Scott"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Ex parte Scott",
+      "name": "Ex parte Scott",
+      "englishName": "Ex parte Scott",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Ostend",
+      "name": "Ostend",
+      "englishName": "Ostend",
+      "type": "LOCATION",
+      "variants": [
+        "Ostend"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "K.B. Prison",
+      "name": "K.B. Prison",
+      "englishName": "K.B. Prison",
+      "type": "LOCATION",
+      "variants": [
+        "K.B. Prison"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "11 February",
+      "name": "11 February",
+      "englishName": "February 11",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "9th of April",
+      "name": "9th of April",
+      "englishName": "April 9",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Adoni",
+      "name": "Adoni",
+      "englishName": "Adoni",
+      "type": "PERSON",
+      "variants": [
+        "אדוני"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Ex parte Elliott",
+      "name": "Ex parte Elliott",
+      "englishName": "Ex parte Elliott",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Antwerp",
+      "name": "Antwerp",
+      "englishName": "Antwerp",
+      "type": "LOCATION",
+      "variants": [
+        "Antwerp"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Moore’s Digest of International Law",
+      "name": "Moore’s Digest of International Law",
+      "englishName": "Moore’s Digest of International Law",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Moore’s Digest of International Law"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "All England Reports",
+      "name": "All England Reports",
+      "englishName": "All England Reports",
+      "type": "ORGANIZATION",
+      "variants": [
+        "All England Reports"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Army Act",
+      "name": "Army Act",
+      "englishName": "Army Act",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Army Act"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "British authorities",
+      "name": "British authorities",
+      "englishName": "British authorities",
+      "type": "ORGANIZATION",
+      "variants": [
+        "British authorities"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "1949",
+      "name": "1949",
+      "englishName": "1949",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "American Jurisprudence",
+      "name": "American Jurisprudence",
+      "englishName": "American Jurisprudence",
+      "type": "ORGANIZATION",
+      "variants": [
+        "American Jurisprudence"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Scotland",
+      "name": "Scotland",
+      "englishName": "Scotland",
+      "type": "LOCATION",
+      "variants": [
+        "Scotland"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "The Law Reports of Palestine",
+      "name": "The Law Reports of Palestine",
+      "englishName": "The Law Reports of Palestine",
+      "type": "ORGANIZATION",
+      "variants": [
+        "The Law Reports of Palestine"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Damascus",
+      "name": "Damascus",
+      "englishName": "Damascus",
+      "type": "LOCATION",
+      "variants": [
+        "Damascus"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Syria",
+      "name": "Syria",
+      "englishName": "Syria",
+      "type": "LOCATION",
+      "variants": [
+        "Syria"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Corpus Juris Secundum",
+      "name": "Corpus Juris Secundum",
+      "englishName": "Corpus Juris Secundum",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Corpus Juris Secundum"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Criminal Law",
+      "name": "Criminal Law",
+      "englishName": "Criminal Law",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Criminal Law"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "בית המשפט העליון של ארץ ישראל",
+      "name": "בית המשפט העליון של ארץ ישראל",
+      "englishName": "Supreme Court of Israel",
+      "type": "ORGANIZATION",
+      "variants": [
+        "בית המשפט העליון של ארץ ישראל"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "14/42",
+      "name": "14/42",
+      "englishName": "14/42",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "9/1942",
+      "name": "9/1942",
+      "englishName": "September 1942 or 9/1942",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "1942",
+      "name": "1942",
+      "englishName": "1942",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Sergeant British",
+      "name": "Sergeant British",
+      "englishName": "Sergeant British",
+      "type": "PERSON",
+      "variants": [
+        "סרג'נט בריטי"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Nicholls",
+      "name": "Nicholls",
+      "englishName": "Nicholls",
+      "type": "PERSON",
+      "variants": [
+        "Nicholls"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Cook v. Hart",
+      "name": "Cook v. Hart",
+      "englishName": "Cook v. Hart",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Mahon v. Justice",
+      "name": "Mahon v. Justice",
+      "englishName": "Mahon v. Justice",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Adams v. New York",
+      "name": "Adams v. New York",
+      "englishName": "Adams v. New York",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Lascelles v. Georgia",
+      "name": "Lascelles v. Georgia",
+      "englishName": "Lascelles v. Georgia",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Supreme Court of Idaho",
+      "name": "Supreme Court of Idaho",
+      "englishName": "Supreme Court of Idaho",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Supreme Court of Idaho"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Circuit Court of the United States",
+      "name": "Circuit Court of the United States",
+      "englishName": "Circuit Court of the United States",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Circuit Court of the United States"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Pettibone v. Nicholls 1906",
+      "name": "Pettibone v. Nicholls 1906",
+      "englishName": "Pettibone v. Nicholls 1906",
+      "type": "EVENT",
+      "variants": [
+        "Pettibone versus Nicholls 1906"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Canyon County",
+      "name": "Canyon County",
+      "englishName": "Canyon County",
+      "type": "LOCATION",
+      "variants": [
+        "Canyon county"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "15th of March, 1906",
+      "name": "15th of March, 1906",
+      "englishName": "March 15, 1906",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Hatfield v. Warden of State Prison Michigan",
+      "name": "Hatfield v. Warden of State Prison Michigan",
+      "englishName": "Hatfield v. Warden of State Prison Michigan",
+      "type": "EVENT",
+      "variants": [
+        "Hatfield versus Warden of State Prison Michigan"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Charles D. Hatfield",
+      "name": "Charles D. Hatfield",
+      "englishName": "Charles D. Hatfield",
+      "type": "PERSON",
+      "variants": [
+        "Charles D. Hatfield"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Texas",
+      "name": "Texas",
+      "englishName": "Texas",
+      "type": "LOCATION",
+      "variants": [
+        "Texas"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Michigan",
+      "name": "Michigan",
+      "englishName": "Michigan",
+      "type": "LOCATION",
+      "variants": [
+        "Michigan"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "State Prison of Southern Michigan",
+      "name": "State Prison of Southern Michigan",
+      "englishName": "State Prison of Southern Michigan",
+      "type": "LOCATION",
+      "variants": [
+        "State Prison of Southern Michigan"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "St. Joseph",
+      "name": "St. Joseph",
+      "englishName": "St. Joseph",
+      "type": "LOCATION",
+      "variants": [
+        "St. Joseph"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "United States District Court",
+      "name": "United States District Court",
+      "englishName": "United States District Court",
+      "type": "ORGANIZATION",
+      "variants": [
+        "United States District Court"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Michigan State Police",
+      "name": "Michigan State Police",
+      "englishName": "Michigan State Police",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Michigan State Police"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Circuit Court for the County of St. Joseph",
+      "name": "Circuit Court for the County of St. Joseph",
+      "englishName": "Circuit Court for the County of St. Joseph",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Circuit Court for the County of St. Joseph"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "February 10, 1950",
+      "name": "February 10, 1950",
+      "englishName": "February 10, 1950",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Mahon",
+      "name": "Mahon",
+      "englishName": "Mahon",
+      "type": "PERSON",
+      "variants": [
+        "Mahon"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Ker",
+      "name": "Ker",
+      "englishName": "Ker",
+      "type": "PERSON",
+      "variants": [
+        "Ker"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Congress",
+      "name": "Congress",
+      "englishName": "Congress",
+      "type": "ORGANIZATION",
+      "variants": [
+        "Congress"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Ukraine",
+      "name": "Ukraine",
+      "englishName": "Ukraine",
+      "type": "LOCATION",
+      "variants": [
+        "אוקראינה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Kyiv",
+      "name": "Kyiv",
+      "englishName": "Kyiv",
+      "type": "LOCATION",
+      "variants": [
+        "קייב"
+      ],
+      "mentions": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "id": "Riga",
+      "name": "Riga",
+      "englishName": "Riga",
+      "type": "LOCATION",
+      "variants": [
+        "ריגה (Riga)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Kaunas",
+      "name": "Kaunas",
+      "englishName": "Kaunas",
+      "type": "LOCATION",
+      "variants": [
+        "קובנה (Kovno)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Minsk",
+      "name": "Minsk",
+      "englishName": "Minsk",
+      "type": "LOCATION",
+      "variants": [
+        "מינסק (Minsk)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Dachau",
+      "name": "Dachau",
+      "englishName": "Dachau",
+      "type": "LOCATION",
+      "variants": [
+        "דכאו (Dachau)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Buchenwald",
+      "name": "Buchenwald",
+      "englishName": "Buchenwald",
+      "type": "LOCATION",
+      "variants": [
+        "בוכנוולד (Buchenwald)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "NSDAP",
+      "name": "NSDAP",
+      "englishName": "NSDAP (Nazi Party)",
+      "type": "ORGANIZATION",
+      "variants": [
+        "NSDAP"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "30.11.1941",
+      "name": "30.11.1941",
+      "englishName": "November 30, 1941",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "9 וה-10 בנובמבר 1938",
+      "name": "9 וה-10 בנובמבר 1938",
+      "englishName": "9-10 November 1938",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Vienna",
+      "name": "Vienna",
+      "englishName": "Vienna",
+      "type": "LOCATION",
+      "variants": [
+        "וינה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Prague",
+      "name": "Prague",
+      "englishName": "Prague",
+      "type": "LOCATION",
+      "variants": [
+        "פראג"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Czechoslovakia",
+      "name": "Czechoslovakia",
+      "englishName": "Czechoslovakia",
+      "type": "LOCATION",
+      "variants": [
+        "צ'כוסלובקיה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Poland",
+      "name": "Poland",
+      "englishName": "Poland",
+      "type": "LOCATION",
+      "variants": [
+        "פולין"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "27.10.1942",
+      "name": "27.10.1942",
+      "englishName": "October 27, 1942",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "מארס 1938",
+      "name": "מארס 1938",
+      "englishName": "March 1938",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "מארס 1939",
+      "name": "מארס 1939",
+      "englishName": "March 1939",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Aktion Reinhard",
+      "name": "Aktion Reinhard",
+      "englishName": "Aktion Reinhard",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Marburg-Untersteiermark",
+      "name": "Marburg-Untersteiermark",
+      "englishName": "Marburg-Untersteiermark",
+      "type": "LOCATION",
+      "variants": [
+        "מרבורג (Marburg-Untersteiermark)"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Yugoslavia",
+      "name": "Yugoslavia",
+      "englishName": "Yugoslavia",
+      "type": "LOCATION",
+      "variants": [
+        "יוגוסלביה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "1936",
+      "name": "1936",
+      "englishName": "1936",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "6.5.1941",
+      "name": "6.5.1941",
+      "englishName": "May 6, 1941",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "1941",
+      "name": "1941",
+      "englishName": "1941",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ינואר 1945",
+      "name": "ינואר 1945",
+      "englishName": "January 1945",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "8 באוגוסט 1945",
+      "name": "8 באוגוסט 1945",
+      "englishName": "August 8, 1945",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Oulshan",
+      "name": "Oulshan",
+      "englishName": "Oulshan",
+      "type": "PERSON",
+      "variants": [
+        "אולשן",
+        "Oulshan"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Obersturmbannführer",
+      "name": "Obersturmbannführer",
+      "englishName": "Obersturmbannführer",
+      "type": "PERSON",
+      "variants": [
+        "ObersturmbannFührer"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ReichsFührers SS",
+      "name": "ReichsFührers SS",
+      "englishName": "Reichsführer-SS (SS)",
+      "type": "ORGANIZATION",
+      "variants": [
+        "ReichsFührers SS",
+        "SS",
+        "Schutzstaffel"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Golda Meir",
+      "name": "Golda Meir",
+      "englishName": "Golda Meir",
+      "type": "PERSON",
+      "variants": [
+        "מרת גולדה מאיר"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ארבע המעצמות",
+      "name": "ארבע המעצמות",
+      "englishName": "The Big Four (Allied Powers)",
+      "type": "ORGANIZATION",
+      "variants": [
+        "ארבע המעצמות",
+        "The Four Powers",
+        "The Big Four"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "22 ביוני 1960",
+      "name": "22 ביוני 1960",
+      "englishName": "June 22, 1960",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Hessen",
+      "name": "Hessen",
+      "englishName": "Hessen",
+      "type": "LOCATION",
+      "variants": [
+        "Hessen"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Nuremberg",
+      "name": "Nuremberg",
+      "englishName": "Nuremberg",
+      "type": "LOCATION",
+      "variants": [
+        "נירנברג"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ס\"ס",
+      "name": "ס\"ס",
+      "englishName": "SS (Schutzstaffel)",
+      "type": "ORGANIZATION",
+      "variants": [
+        "ס\"ס",
+        "SS"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Ohznar",
+      "name": "Ohznar",
+      "englishName": "Mr. Ohznar",
+      "type": "PERSON",
+      "variants": [
+        "אב בית הדין מר האוזנר",
+        "Ohznar"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "10 באוגוסט 1950",
+      "name": "10 באוגוסט 1950",
+      "englishName": "August 10, 1950",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "החוק החריג",
+      "name": "החוק החריג",
+      "englishName": "Exceptional Law",
+      "type": "ORGANIZATION",
+      "variants": [
+        "החוק החריג"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "הסניגוריה",
+      "name": "הסניגוריה",
+      "englishName": "Defense Counsel/Prosecutor's Office",
+      "type": "ORGANIZATION",
+      "variants": [
+        "הסניגוריה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Jacques Shimoni",
+      "name": "Jacques Shimoni",
+      "englishName": "Jacques Shimoni",
+      "type": "PERSON",
+      "variants": [
+        "מר ז'ק שמעוני"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Jacques van Koperdan",
+      "name": "Jacques van Koperdan",
+      "englishName": "Jacques van Koperdan",
+      "type": "PERSON",
+      "variants": [
+        "ז'ק ואן קופרדן"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Buenos Aires",
+      "name": "Buenos Aires",
+      "englishName": "Buenos Aires",
+      "type": "LOCATION",
+      "variants": [
+        "בואנוס איירס",
+        "בואנוס איירס"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Argentina",
+      "name": "Argentina",
+      "englishName": "Argentina",
+      "type": "LOCATION",
+      "variants": [
+        "ארגנטינה"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "חברת \"אל על\"",
+      "name": "חברת \"אל על\"",
+      "englishName": "El Al Airlines",
+      "type": "ORGANIZATION",
+      "variants": [
+        "חברת \"אל על\"",
+        "El Al"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "22 במאי 1960",
+      "name": "22 במאי 1960",
+      "englishName": "May 22, 1960",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "11 במאי",
+      "name": "11 במאי",
+      "englishName": "May 11",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "23 ביוני 1960",
+      "name": "23 ביוני 1960",
+      "englishName": "June 23, 1960",
+      "type": "DATE",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "UN Security Council resolution",
+      "name": "UN Security Council resolution",
+      "englishName": "UN Security Council resolution",
+      "type": "EVENT",
+      "variants": [
+        "החלטת מועצת הביטחון של האומות המאוחדות"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Reichstag trials in 1933",
+      "name": "Reichstag trials in 1933",
+      "englishName": "Reichstag trials in 1933",
+      "type": "EVENT",
+      "variants": [],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Dimitroff",
+      "name": "Dimitroff",
+      "englishName": "Dimitroff",
+      "type": "PERSON",
+      "variants": [
+        "Dimitroff"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Hitler",
+      "name": "Hitler",
+      "englishName": "Hitler",
+      "type": "PERSON",
+      "variants": [
+        "Hitler"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "Lord Wright",
+      "name": "Lord Wright",
+      "englishName": "Lord Wright",
+      "type": "PERSON",
+      "variants": [
+        "Lord Wright"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "id": "ממשלה הפדרלית הגרמנית",
+      "name": "ממשלה הפדרלית הגרמנית",
+      "englishName": "German Federal Government",
+      "type": "ORGANIZATION",
+      "variants": [
+        "ממשלה הפדרלית הגרמנית",
+        "German Federal Government"
+      ],
+      "mentions": 1,
+      "sessions": [
+        1
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "Germany",
+      "target": "Israel",
+      "weight": 4,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Israel",
+      "weight": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Israel",
+      "weight": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 3,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Auschwitz",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "United States",
+      "weight": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Idaho",
+      "weight": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Idaho",
+      "weight": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Idaho",
+      "weight": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Colorado",
+      "weight": 2,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Auschwitz",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "הס",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Transfer affair",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "הס",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Transfer affair",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "Transfer affair",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "הס",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "1.10.1946",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "1.10.1946",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "International Military Tribunal",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Germany",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Israel",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Germany",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Israel",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Germany",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Israel",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Germany",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "מועצת הביטחון",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "מועצת הביטחון",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "מועצת הביטחון",
+      "weight": 2,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "היועץ המשפטי לממשלה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Auschwitz",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Chelmno",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Belzec",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Auschwitz",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Chelmno",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Belzec",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "היועץ המשפטי לממשלה",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Chelmno",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Belzec",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Chelmno",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Belzec",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Chelmno",
+      "target": "Belzec",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Chelmno",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Chelmno",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Chelmno",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Chelmno",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belzec",
+      "target": "Sobibor",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belzec",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belzec",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belzec",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Sobibor",
+      "target": "Treblinka",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Sobibor",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Sobibor",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Treblinka",
+      "target": "Majdanek",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Treblinka",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Majdanek",
+      "target": "Einsatzgruppen",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "mai 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "בית המשפט",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "mai 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט",
+      "target": "mai 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "mai 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "C. Ruthven",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Schott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Brussels",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Ostend",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Tenterden",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Schott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Brussels",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Ostend",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "C. Ruthven",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "Ex parte Scott",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "Brussels",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "Ostend",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Schott",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "Brussels",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "Ostend",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Scott",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "Ostend",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Brussels",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ostend",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "K.B. Prison",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "11 February",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "K.B. Prison",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 February",
+      "target": "9th of April",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 February",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 February",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9th of April",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9th of April",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Adoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "Antwerp",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "Moore’s Digest of International Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "All England Reports",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ex parte Elliott",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "Moore’s Digest of International Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "All England Reports",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Antwerp",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Moore’s Digest of International Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "All England Reports",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Moore’s Digest of International Law",
+      "target": "All England Reports",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Moore’s Digest of International Law",
+      "target": "Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Moore’s Digest of International Law",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Moore’s Digest of International Law",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Moore’s Digest of International Law",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "All England Reports",
+      "target": "Army Act",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "All England Reports",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "All England Reports",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "All England Reports",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Army Act",
+      "target": "England",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Army Act",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Army Act",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "British authorities",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "England",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "British authorities",
+      "target": "1949",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "The Law Reports of Palestine",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Damascus",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "American Jurisprudence",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Scotland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "The Law Reports of Palestine",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Damascus",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "The Law Reports of Palestine",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Damascus",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Scotland",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Belgium",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Damascus",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "The Law Reports of Palestine",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Damascus",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Belgium",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "Syria",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Damascus",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "Corpus Juris Secundum",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Syria",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "Criminal Law",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Corpus Juris Secundum",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Criminal Law",
+      "target": "בית המשפט העליון של ארץ ישראל",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Criminal Law",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Criminal Law",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Criminal Law",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Criminal Law",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "14/42",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "בית המשפט העליון של ארץ ישראל",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "9/1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "14/42",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "9/1942",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1942",
+      "target": "Sergeant British",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Nicholls",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Cook v. Hart",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Ker v. Illinois",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Mahon v. Justice",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Adams v. New York",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Cook v. Hart",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Ker v. Illinois",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Mahon v. Justice",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Adams v. New York",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Nicholls",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Ker v. Illinois",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Mahon v. Justice",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Adams v. New York",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Cook v. Hart",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Mahon v. Justice",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Adams v. New York",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Adams v. New York",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon v. Justice",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Lascelles v. Georgia",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Adams v. New York",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Lascelles v. Georgia",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Supreme Court of Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Supreme Court of Idaho",
+      "target": "Circuit Court of the United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Supreme Court of Idaho",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Supreme Court of Idaho",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Supreme Court of Idaho",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Circuit Court of the United States",
+      "target": "Pettibone v. Nicholls 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Circuit Court of the United States",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Circuit Court of the United States",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone v. Nicholls 1906",
+      "target": "Canyon County",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone v. Nicholls 1906",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Canyon County",
+      "target": "15th of March, 1906",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Hatfield v. Warden of State Prison Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Charles D. Hatfield",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Colorado",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Texas",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker v. Illinois",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Charles D. Hatfield",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Colorado",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Texas",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Hatfield v. Warden of State Prison Michigan",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Idaho",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Colorado",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Texas",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Charles D. Hatfield",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Texas",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Texas",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Texas",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "State Prison of Southern Michigan",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "State Prison of Southern Michigan",
+      "target": "St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "State Prison of Southern Michigan",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "State Prison of Southern Michigan",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "State Prison of Southern Michigan",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "State Prison of Southern Michigan",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "St. Joseph",
+      "target": "United States District Court",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "St. Joseph",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "St. Joseph",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "St. Joseph",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States District Court",
+      "target": "Michigan State Police",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States District Court",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States District Court",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan State Police",
+      "target": "Circuit Court for the County of St. Joseph",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Michigan State Police",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Circuit Court for the County of St. Joseph",
+      "target": "February 10, 1950",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Colorado",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Mahon",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Ker",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Pettibone",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Mahon",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Ker",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Idaho",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Mahon",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Ker",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Colorado",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon",
+      "target": "Ker",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Mahon",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker",
+      "target": "United States",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ker",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Congress",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "United States",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Congress",
+      "target": "Ukraine",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Congress",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Ukraine",
+      "target": "Kyiv",
+      "weight": 1,
+      "sessions": [
+        2
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Riga",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Kaunas",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Minsk",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Dachau",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Kaunas",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Minsk",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Auschwitz",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Dachau",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Riga",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "Minsk",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "Auschwitz",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "Dachau",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Kaunas",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "Auschwitz",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "Dachau",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Minsk",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Dachau",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "Buchenwald",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dachau",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buchenwald",
+      "target": "NSDAP",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buchenwald",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buchenwald",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buchenwald",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buchenwald",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "NSDAP",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "NSDAP",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "NSDAP",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "NSDAP",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "30.11.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "30.11.1941",
+      "target": "9 וה-10 בנובמבר 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Vienna",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Prague",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Czechoslovakia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Poland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "Prague",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "Czechoslovakia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "Poland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Vienna",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "Czechoslovakia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "Poland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Prague",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Czechoslovakia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Poland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "Poland",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Czechoslovakia",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Poland",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Poland",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Poland",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Poland",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Poland",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "27.10.1942",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "27.10.1942",
+      "target": "מארס 1938",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "27.10.1942",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "27.10.1942",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מארס 1938",
+      "target": "מארס 1939",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מארס 1938",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מארס 1939",
+      "target": "Aktion Reinhard",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Marburg-Untersteiermark",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Yugoslavia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Auschwitz",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "Yugoslavia",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Marburg-Untersteiermark",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "הס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Yugoslavia",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Berlin",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Berlin",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "הס",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Transfer affair",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "1936",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Transfer affair",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1936",
+      "target": "6.5.1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1936",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1936",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1936",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1936",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "6.5.1941",
+      "target": "1941",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "6.5.1941",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "6.5.1941",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "6.5.1941",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1941",
+      "target": "ינואר 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1941",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1941",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ינואר 1945",
+      "target": "8 באוגוסט 1945",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ינואר 1945",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "8 באוגוסט 1945",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Obersturmbannführer",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "ReichsFührers SS",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Golda Meir",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Oulshan",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "ReichsFührers SS",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Golda Meir",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Obersturmbannführer",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "ReichsFührers SS",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Golda Meir",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "Golda Meir",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ReichsFührers SS",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Golda Meir",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Golda Meir",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "ארבע המעצמות",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארבע המעצמות",
+      "target": "1.10.1946",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ארבע המעצמות",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "1.10.1946",
+      "target": "22 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "Nuremberg",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "ס\"ס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hessen",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Nuremberg",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ס\"ס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "ס\"ס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Nuremberg",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "ס\"ס",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "Dr. Robert Serbatzios",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ס\"ס",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "Ohznar",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dr. Robert Serbatzios",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ohznar",
+      "target": "10 באוגוסט 1950",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ohznar",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ohznar",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Ohznar",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "10 באוגוסט 1950",
+      "target": "ההסטאטוס הלונדוני",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "10 באוגוסט 1950",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "10 באוגוסט 1950",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ההסטאטוס הלונדוני",
+      "target": "החוק החריג",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "ההסטאטוס הלונדוני",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "החוק החריג",
+      "target": "הסניגוריה",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Jacques Shimoni",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Jacques van Koperdan",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Buenos Aires",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Jacques van Koperdan",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Buenos Aires",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques Shimoni",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "Buenos Aires",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Jacques van Koperdan",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Buenos Aires",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Argentina",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "חברת \"אל על\"",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חברת \"אל על\"",
+      "target": "Abduction of Adolf Eichmann from Argentina",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חברת \"אל על\"",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חברת \"אל על\"",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חברת \"אל על\"",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "חברת \"אל על\"",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "22 במאי 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Abduction of Adolf Eichmann from Argentina",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "22 במאי 1960",
+      "target": "11 במאי",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "22 במאי 1960",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "22 במאי 1960",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 במאי",
+      "target": "23 ביוני 1960",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "11 במאי",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "23 ביוני 1960",
+      "target": "UN Security Council resolution",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "International Military Tribunal",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Reichstag trials in 1933",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Dimitroff",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Hitler",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Adolf Eichmann",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Reichstag trials in 1933",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Dimitroff",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Hitler",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "International Military Tribunal",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Dimitroff",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Hitler",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Reichstag trials in 1933",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "Hitler",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Dimitroff",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "Geheime Staatspolizei",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Hitler",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "Lord Wright",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Geheime Staatspolizei",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Wright",
+      "target": "מועצת הביטחון",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Wright",
+      "target": "Israel",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Wright",
+      "target": "Germany",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Lord Wright",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "מועצת הביטחון",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Israel",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    },
+    {
+      "source": "Germany",
+      "target": "ממשלה הפדרלית הגרמנית",
+      "weight": 1,
+      "sessions": [
+        1
+      ]
+    }
+  ]
+}

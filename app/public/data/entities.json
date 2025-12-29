@@ -444,7 +444,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "20271-21132",
       "testimonyChars": 36384,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/kowner.jpg"
     },
     {
       "id": "witness_2",
@@ -604,7 +605,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "9191-9401",
       "testimonyChars": 7746,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/lichtman.jpg"
     },
     {
       "id": "witness_3",
@@ -763,7 +765,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "6909-7573",
       "testimonyChars": 23025,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/engelstein.jpg"
     },
     {
       "id": "witness_4",
@@ -922,7 +925,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "16763-17148",
       "testimonyChars": 13728,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/rosenberg_moshe.jpg"
     },
     {
       "id": "witness_5",
@@ -1124,7 +1128,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "1146-2896",
       "testimonyChars": 71509,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/yishai.jpg"
     },
     {
       "id": "witness_6",
@@ -1241,7 +1246,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "8398-8966",
       "testimonyChars": 21050,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/arnon.jpg"
     },
     {
       "id": "witness_7",
@@ -1372,7 +1378,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "19790-20267",
       "testimonyChars": 16283,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/brodie.jpg"
     },
     {
       "id": "witness_8",
@@ -1494,7 +1501,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "6921-7385",
       "testimonyChars": 20328,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/oppenheimer.jpg"
     },
     {
       "id": "witness_9",
@@ -1605,7 +1613,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "2897-3703",
       "testimonyChars": 33883,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/flieschman.jpg"
     },
     {
       "id": "witness_10",
@@ -1681,7 +1690,8 @@
       "testimonyFile": "Vol1_p114.txt",
       "testimonyLines": "11140-11271",
       "testimonyChars": 4263,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/less.jpg"
     },
     {
       "id": "witness_11",
@@ -1806,7 +1816,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "23639-24011",
       "testimonyChars": 14510,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/aviel.jpg"
     },
     {
       "id": "witness_12",
@@ -1919,7 +1930,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "12570-12754",
       "testimonyChars": 6276,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/buchmann.jpg"
     },
     {
       "id": "witness_13",
@@ -2034,7 +2046,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "16272-16445",
       "testimonyChars": 6381,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/hadjaj.jpg"
     },
     {
       "id": "witness_14",
@@ -2159,7 +2172,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "21221-21981",
       "testimonyChars": 22973,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/karassik.jpg"
     },
     {
       "id": "witness_15",
@@ -2272,7 +2286,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "12359-12554",
       "testimonyChars": 4506,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/levinsohn.jpg"
     },
     {
       "id": "witness_16",
@@ -2387,7 +2402,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "3508-3864",
       "testimonyChars": 10913,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/lindwasser.jpg"
     },
     {
       "id": "witness_17",
@@ -2533,7 +2549,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "18033-18208",
       "testimonyChars": 6520,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/duvdevani.jpg"
     },
     {
       "id": "witness_18",
@@ -2728,7 +2745,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "99-1132",
       "testimonyChars": 40685,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/cohen.jpg"
     },
     {
       "id": "witness_19",
@@ -2860,7 +2878,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "6279-6648",
       "testimonyChars": 14073,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/maerz.jpg"
     },
     {
       "id": "witness_20",
@@ -2992,7 +3011,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "17634-18031",
       "testimonyChars": 13572,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/bermann.jpg"
     },
     {
       "id": "witness_21",
@@ -3088,7 +3108,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "508-1897",
       "testimonyChars": 61929,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/grueber.jpg"
     },
     {
       "id": "witness_22",
@@ -3220,7 +3241,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "22057-22652",
       "testimonyChars": 27627,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/peretz.jpg"
     },
     {
       "id": "witness_23",
@@ -3289,7 +3311,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "23184-23519",
       "testimonyChars": 11755,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/karstadt.jpg"
     },
     {
       "id": "witness_24",
@@ -3427,7 +3450,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "16763-17148",
       "testimonyChars": 13728,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_eliyahu.jpg"
     },
     {
       "id": "witness_25",
@@ -3551,7 +3575,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "5694-6145",
       "testimonyChars": 18087,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/hecht.jpg"
     },
     {
       "id": "witness_26",
@@ -3645,7 +3670,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "10052-10279",
       "testimonyChars": 6043,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/goldstein.jpg"
     },
     {
       "id": "witness_27",
@@ -3819,7 +3845,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "9420-9787",
       "testimonyChars": 13958,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/ben-zvi.jpg"
     },
     {
       "id": "witness_28",
@@ -3855,7 +3882,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "3993-4858",
       "testimonyChars": 30754,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/brand_yoel.jpg"
     },
     {
       "id": "witness_29",
@@ -4029,7 +4057,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "13737-14127",
       "testimonyChars": 13625,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/ross.jpg"
     },
     {
       "id": "witness_30",
@@ -4164,7 +4193,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "10998-11599",
-      "testimonyChars": 19834
+      "testimonyChars": 19834,
+      "image": "/images/witnesses/henschel.jpg"
     },
     {
       "id": "witness_31",
@@ -4354,7 +4384,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "13187-13600",
       "testimonyChars": 16391,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/gutman.jpg"
     },
     {
       "id": "witness_32",
@@ -4481,7 +4512,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "13613-13905",
       "testimonyChars": 10006,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/reznik.jpg"
     },
     {
       "id": "witness_33",
@@ -4610,7 +4642,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "5450-5876",
       "testimonyChars": 17054,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/kleinman.jpg"
     },
     {
       "id": "witness_34",
@@ -4805,7 +4838,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "14886-15229",
       "testimonyChars": 14981,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/carmel.jpg"
     },
     {
       "id": "witness_35",
@@ -4940,7 +4974,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "14809-15497",
-      "testimonyChars": 24780
+      "testimonyChars": 24780,
+      "image": "/images/witnesses/musmanno.jpg"
     },
     {
       "id": "witness_36",
@@ -5076,7 +5111,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "2589-3192",
       "testimonyChars": 19674,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/teigmann.jpg"
     },
     {
       "id": "witness_37",
@@ -5179,7 +5215,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "21541-22269",
       "testimonyChars": 23839,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/gordon_avraham.jpg"
     },
     {
       "id": "witness_38",
@@ -5366,7 +5403,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "20524-20699",
       "testimonyChars": 5924,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/reich.jpg"
     },
     {
       "id": "witness_39",
@@ -5540,7 +5578,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "6838-7796",
       "testimonyChars": 38029,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/burger.jpg"
     },
     {
       "id": "witness_40",
@@ -5669,7 +5708,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "1095-1435",
       "testimonyChars": 9418,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/podchelnik.jpg"
     },
     {
       "id": "witness_41",
@@ -5783,7 +5823,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "11617-13239",
-      "testimonyChars": 58983
+      "testimonyChars": 58983,
+      "image": "/images/witnesses/ansbacher.jpg"
     },
     {
       "id": "witness_42",
@@ -5908,7 +5949,8 @@
       "testimonyFile": "Vol1_p114.txt",
       "testimonyLines": "17867-17992",
       "testimonyChars": 3733,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/greenspan.jpg"
     },
     {
       "id": "witness_43",
@@ -6009,7 +6051,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "1362-1435",
       "testimonyChars": 1527,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/zurawski.jpg"
     },
     {
       "id": "witness_44",
@@ -6134,7 +6177,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "2897-3703",
       "testimonyChars": 33883,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/fleischman.jpg"
     },
     {
       "id": "witness_45",
@@ -6305,7 +6349,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "14-459",
       "testimonyChars": 14891,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/bahir.jpg"
     },
     {
       "id": "witness_46",
@@ -6478,7 +6523,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "16763-17148",
       "testimonyChars": 13728,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/rosenberg_moshe.jpg"
     },
     {
       "id": "witness_47",
@@ -6680,7 +6726,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "6692-6837",
       "testimonyChars": 4517,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/zimmet.jpg"
     },
     {
       "id": "witness_48",
@@ -6854,7 +6901,8 @@
       "testimonyFile": "Vol1_p114.txt",
       "testimonyLines": "10169-11119",
       "testimonyChars": 39493,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/bar-shalom.jpg"
     },
     {
       "id": "witness_49",
@@ -6920,7 +6968,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "10954-11254",
       "testimonyChars": 10844,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/hoch.jpg"
     },
     {
       "id": "witness_50",
@@ -7094,7 +7143,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "19559-20270",
       "testimonyChars": 29700,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/mark.jpg"
     },
     {
       "id": "witness_51",
@@ -7211,7 +7261,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "17585-19783",
       "testimonyChars": 88113,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/freudiger.jpg"
     },
     {
       "id": "witness_52",
@@ -7331,7 +7382,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "13-1385",
       "testimonyChars": 54386,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/gilbert.jpg"
     },
     {
       "id": "witness_53",
@@ -7428,7 +7480,8 @@
       "testimonyFile": "Vol1_p114.txt",
       "testimonyLines": "14589-16457",
       "testimonyChars": 88862,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/baron.jpg"
     },
     {
       "id": "witness_54",
@@ -7532,7 +7585,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "18212-18536",
       "testimonyChars": 12887,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/kupper.jpg"
     },
     {
       "id": "witness_55",
@@ -7703,7 +7757,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "15669-15954",
       "testimonyChars": 10927,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/chulawski.jpg"
     },
     {
       "id": "witness_56",
@@ -7804,7 +7859,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "1863-2260",
       "testimonyChars": 12346,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/servernik.jpg"
     },
     {
       "id": "witness_57",
@@ -7897,7 +7953,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "317-549",
-      "testimonyChars": 9409
+      "testimonyChars": 9409,
+      "image": "/images/witnesses/horowitz.jpg"
     },
     {
       "id": "witness_58",
@@ -8077,7 +8134,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "8398-10407",
       "testimonyChars": 81392,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/alexander.jpg"
     },
     {
       "id": "witness_59",
@@ -8206,7 +8264,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "460-957",
       "testimonyChars": 17307,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/biskowitz.jpg"
     },
     {
       "id": "witness_60",
@@ -8345,7 +8404,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "17349-17658",
       "testimonyChars": 10566,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/friedman.jpg"
     },
     {
       "id": "witness_61",
@@ -8474,7 +8534,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "2325-2575",
       "testimonyChars": 7470,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/vernik.jpg"
     },
     {
       "id": "witness_62",
@@ -8582,7 +8643,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "5878-6840",
       "testimonyChars": 29609,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/bacon.jpg"
     },
     {
       "id": "witness_63",
@@ -8713,7 +8775,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "10408-10692",
       "testimonyChars": 8940,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/nehama.jpg"
     },
     {
       "id": "witness_64",
@@ -8852,7 +8915,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "15320-16331",
       "testimonyChars": 44579,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg"
     },
     {
       "id": "witness_65",
@@ -8986,7 +9050,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "1386-2149",
       "testimonyChars": 30131,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/brand_yoel.jpg"
     },
     {
       "id": "witness_66",
@@ -9124,7 +9189,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "21172-21503",
       "testimonyChars": 12191,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/sapir.jpg"
     },
     {
       "id": "witness_67",
@@ -9228,7 +9294,8 @@
       "testimonyFile": "Vol1_p114.txt",
       "testimonyLines": "17867-17992",
       "testimonyChars": 3733,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/grynszpan.jpg"
     },
     {
       "id": "witness_68",
@@ -9402,7 +9469,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "9420-9787",
       "testimonyChars": 13958,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/pachter.jpg"
     },
     {
       "id": "witness_69",
@@ -9513,7 +9581,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "15320-16292",
       "testimonyChars": 43310,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/lubetkin-zukermann.jpg"
     },
     {
       "id": "witness_70",
@@ -9617,7 +9686,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "14465-14575",
       "testimonyChars": 3365,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/shilo.jpg"
     },
     {
       "id": "witness_71",
@@ -9748,7 +9818,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "21541-22269",
       "testimonyChars": 23839,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "https://www.yadvashem.org/yv/en/exhibitions/eichmann/images/witnesses/gordon_avraham.jpg"
     },
     {
       "id": "witness_72",
@@ -9887,7 +9958,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "9788-10141",
       "testimonyChars": 12395,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/gurfein.jpg"
     },
     {
       "id": "witness_73",
@@ -9970,7 +10042,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "1146-1457",
       "testimonyChars": 11602,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/lindenstrauss.jpg"
     },
     {
       "id": "witness_74",
@@ -10018,7 +10091,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "18544-18646",
       "testimonyChars": 3772,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/rufeisen.jpg"
     },
     {
       "id": "witness_75",
@@ -10077,7 +10151,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "7803-8834",
       "testimonyChars": 43911,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/beilin.jpg"
     },
     {
       "id": "witness_76",
@@ -10145,7 +10220,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "15905-16186",
       "testimonyChars": 8642,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/steiner.jpg"
     },
     {
       "id": "witness_77",
@@ -10228,7 +10304,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "19559-20218",
       "testimonyChars": 27693,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/dworzecki.jpg"
     },
     {
       "id": "witness_78",
@@ -10311,7 +10388,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "7797-9190",
       "testimonyChars": 51392,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/kratky.jpg"
     },
     {
       "id": "witness_79",
@@ -10400,7 +10478,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "20295-20523",
       "testimonyChars": 8498,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/szenes.jpg"
     },
     {
       "id": "witness_80",
@@ -10511,7 +10590,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "3713-4342",
       "testimonyChars": 21059,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/meyer.jpg"
     },
     {
       "id": "witness_81",
@@ -10576,7 +10656,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "9081-9352",
-      "testimonyChars": 9348
+      "testimonyChars": 9348,
+      "image": "/images/witnesses/samuel.jpg"
     },
     {
       "id": "witness_82",
@@ -10668,7 +10749,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "10501-10902",
       "testimonyChars": 15894,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/zimerman.jpg"
     },
     {
       "id": "witness_83",
@@ -10730,7 +10812,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "17349-17658",
       "testimonyChars": 10566,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/auerbach.jpg"
     },
     {
       "id": "witness_84",
@@ -10813,7 +10896,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "19101-19557",
       "testimonyChars": 18780,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/mazia.jpg"
     },
     {
       "id": "witness_85",
@@ -10892,7 +10976,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "562-950",
-      "testimonyChars": 13998
+      "testimonyChars": 13998,
+      "image": "/images/witnesses/yoselevska.jpg"
     },
     {
       "id": "witness_86",
@@ -10944,7 +11029,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "5402-5877",
       "testimonyChars": 1528,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/de-nur.jpg"
     },
     {
       "id": "witness_87",
@@ -11027,7 +11113,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "10142-10726",
       "testimonyChars": 22093,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/sabludovsky.jpg"
     },
     {
       "id": "witness_88",
@@ -11110,7 +11197,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "10919-11520",
       "testimonyChars": 25976,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/beisky.jpg"
     },
     {
       "id": "witness_89",
@@ -11172,7 +11260,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "14578-14842",
       "testimonyChars": 10254,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/buzminsky.jpg"
     },
     {
       "id": "witness_90",
@@ -11240,7 +11329,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "1898-2831",
       "testimonyChars": 29282,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/salzberger.jpg"
     },
     {
       "id": "witness_91",
@@ -11308,7 +11398,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "13597-14675",
       "testimonyChars": 40874,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/abeles.jpg"
     },
     {
       "id": "witness_92",
@@ -11349,7 +11440,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "12221-13491",
       "testimonyChars": 49451,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/wells.jpg"
     },
     {
       "id": "witness_93",
@@ -11410,7 +11502,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "12146-12847",
       "testimonyChars": 25274,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/loewenstein.jpg"
     },
     {
       "id": "witness_94",
@@ -11457,7 +11550,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "8001-8396",
       "testimonyChars": 15407,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/zaltz.jpg"
     },
     {
       "id": "witness_95",
@@ -11501,7 +11595,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "52-312",
-      "testimonyChars": 8648
+      "testimonyChars": 8648,
+      "image": "/images/witnesses/neumann.jpg"
     },
     {
       "id": "witness_96",
@@ -11569,7 +11664,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "6588-6883",
       "testimonyChars": 10075,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/diamant.jpg"
     },
     {
       "id": "witness_97",
@@ -11640,7 +11736,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "14372-15232",
       "testimonyChars": 34578,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/freiberg.jpg"
     },
     {
       "id": "witness_98",
@@ -11718,7 +11815,8 @@
       "testimonyFile": "Vol2_p5564.txt",
       "testimonyLines": "8599-9272",
       "testimonyChars": 25102,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/breslauer.jpg"
     },
     {
       "id": "witness_99",
@@ -11770,7 +11868,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "4997-5401",
       "testimonyChars": 15573,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/wdowinsky.jpg"
     },
     {
       "id": "witness_100",
@@ -11842,7 +11941,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "5856-6801",
-      "testimonyChars": 37643
+      "testimonyChars": 37643,
+      "image": "/images/witnesses/melkmann-michman.jpg"
     },
     {
       "id": "witness_101",
@@ -11887,7 +11987,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "12103-15955",
       "testimonyChars": 5290,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/chen.jpg"
     },
     {
       "id": "witness_102",
@@ -11946,7 +12047,8 @@
       "testimonyFile": "Vol2_p6575.txt",
       "testimonyLines": "8981-10021",
       "testimonyChars": 35630,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/cagan.jpg"
     },
     {
       "id": "witness_103",
@@ -12011,7 +12113,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "3201-4272",
-      "testimonyChars": 44115
+      "testimonyChars": 44115,
+      "image": "/images/witnesses/wellers.jpg"
     },
     {
       "id": "witness_104",
@@ -12076,7 +12179,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "1588-1633",
-      "testimonyChars": 769
+      "testimonyChars": 769,
+      "image": "/images/witnesses/zilberman.jpg"
     },
     {
       "id": "witness_105",
@@ -12119,7 +12223,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "8188-8601",
-      "testimonyChars": 16773
+      "testimonyChars": 16773,
+      "image": "/images/witnesses/melchior.jpg"
     },
     {
       "id": "witness_106",
@@ -12170,7 +12275,8 @@
       "hasTestimony": true,
       "testimonyFile": "vol1_part3.txt",
       "testimonyLines": "9823-10212",
-      "testimonyChars": 16418
+      "testimonyChars": 16418,
+      "image": "/images/witnesses/campagnana.jpg"
     },
     {
       "id": "witness_107",
@@ -12202,7 +12308,8 @@
       "testimonyFile": "Vol2_p4155.txt",
       "testimonyLines": "20700-21152",
       "testimonyChars": 14976,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/poeldy.jpg"
     },
     {
       "id": "witness_108",
@@ -12235,7 +12342,8 @@
       "testimonyFile": "Vol1_p15291.txt",
       "testimonyLines": "3713-6278",
       "testimonyChars": 29548,
-      "hasTestimony": true
+      "hasTestimony": true,
+      "image": "/images/witnesses/ferencz.jpg"
     },
     {
       "id": "figure_109",
