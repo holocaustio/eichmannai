@@ -58,35 +58,17 @@ export default function ExplorePage() {
   useEffect(() => {
     async function loadData() {
       try {
-        const [entitiesRes, graphRes] = await Promise.all([
-          fetch('/data/entities.json'),
-          fetch('/data/entity-graph.json')
-        ]);
-        
-        const entities: EntitiesData = await entitiesRes.json();
-        const graph: GraphData = await graphRes.json();
-        
-        // Combine entities: graph entities + witnesses from entities.json
-        const witnesses = entities.nodes.filter(n => n.isWitness).map(w => ({
-          ...w,
-          type: 'WITNESS' as const,
-        }));
-        
-        // Combined entities for display
-        const combinedNodes = [...graph.nodes, ...witnesses];
+        // Load consolidated entities file
+        const consolidatedRes = await fetch('/data/entities-consolidated.json');
+        const consolidated: GraphData & { metadata: EntitiesData['metadata'] } = await consolidatedRes.json();
         
         setData({
-          ...entities,
-          metadata: {
-            ...entities.metadata,
-            totalNodes: combinedNodes.length,
-            totalEdges: graph.edges.length,
-          }
+          metadata: consolidated.metadata,
+          nodes: consolidated.nodes,
+          edges: consolidated.edges,
+          sessions: []
         });
-        setGraphData({
-          ...graph,
-          nodes: combinedNodes
-        });
+        setGraphData(consolidated);
       } catch (error) {
         console.error('Failed to load data:', error);
       } finally {
