@@ -1,0 +1,873 @@
+{
+  "extractedAt": "2025-12-29T12:01:18.456921",
+  "total": 108,
+  "extracted": 108,
+  "failed": 0,
+  "testimonies": [
+    {
+      "witness": "Abba Kowner",
+      "hebrew": "אבא קובנר",
+      "file": "Vol1_p15291.txt",
+      "lines": "20271-21132",
+      "chars": 36384,
+      "output": "Abba_Kowner.md"
+    },
+    {
+      "witness": "Ada Lichtman",
+      "hebrew": "עדה ליכטמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "9191-9401",
+      "chars": 7746,
+      "output": "Ada_Lichtman.md"
+    },
+    {
+      "witness": "Adolf Engelstein",
+      "hebrew": "אדולף אנגלשטיין",
+      "file": "Vol2_p4155.txt",
+      "lines": "6909-7573",
+      "chars": 23025,
+      "output": "Adolf_Engelstein.md"
+    },
+    {
+      "witness": "Adolf Rosenberg",
+      "hebrew": "אדולף רוזנברג",
+      "file": "Vol2_p4155.txt",
+      "lines": "16763-17148",
+      "chars": 13728,
+      "output": "Adolf_Rosenberg.md"
+    },
+    {
+      "witness": "Aharon Choter Yishai",
+      "hebrew": "אהרון חוטר ישי",
+      "file": "Vol1_p15291.txt",
+      "lines": "1146-2896",
+      "chars": 71509,
+      "output": "Aharon_Choter_Yishai.md"
+    },
+    {
+      "witness": "Aharon Walter Lindenstrauss",
+      "hebrew": "אהרון וולטר לינדנשטראוס",
+      "file": "Vol1_p15291.txt",
+      "lines": "1146-1457",
+      "chars": 11602,
+      "output": "Aharon_Walter_Lindenstrauss.md"
+    },
+    {
+      "witness": "Alexander Arnon",
+      "hebrew": "אלכסנדר ארנון",
+      "file": "Vol2_p4155.txt",
+      "lines": "8398-8966",
+      "chars": 21050,
+      "output": "Alexander_Arnon.md"
+    },
+    {
+      "witness": "Alexander Brodie",
+      "hebrew": "אלכסנדר ברודי",
+      "file": "Vol2_p4155.txt",
+      "lines": "19790-20267",
+      "chars": 16283,
+      "output": "Alexander_Brodie.md"
+    },
+    {
+      "witness": "Alfred Oppenheimer",
+      "hebrew": "אלפרד אופנהיימר",
+      "file": "Vol2_p6575.txt",
+      "lines": "6921-7385",
+      "chars": 20328,
+      "output": "Alfred_Oppenheimer.md"
+    },
+    {
+      "witness": "Aviva Flieschman",
+      "hebrew": "אביבה פליישמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "2897-3703",
+      "chars": 33883,
+      "output": "Aviva_Flieschman.md"
+    },
+    {
+      "witness": "Avner Less",
+      "hebrew": "אבנר לס",
+      "file": "Vol1_p114.txt",
+      "lines": "11140-11271",
+      "chars": 4263,
+      "output": "Avner_Less.md"
+    },
+    {
+      "witness": "Abraham Aviel",
+      "hebrew": "אברהם אביאל",
+      "file": "Vol1_p15291.txt",
+      "lines": "23639-24011",
+      "chars": 14510,
+      "output": "Abraham_Aviel.md"
+    },
+    {
+      "witness": "Abraham Buchmann",
+      "hebrew": "אברהם בוכמן",
+      "file": "Vol2_p5564.txt",
+      "lines": "12570-12754",
+      "chars": 6276,
+      "output": "Abraham_Buchmann.md"
+    },
+    {
+      "witness": "Abraham Hadjaj",
+      "hebrew": "אברהם חג'ג'",
+      "file": "Vol2_p6575.txt",
+      "lines": "16272-16445",
+      "chars": 6381,
+      "output": "Abraham_Hadjaj.md"
+    },
+    {
+      "witness": "Abraham Karassik",
+      "hebrew": "אברהם קרסיק",
+      "file": "Vol1_p15291.txt",
+      "lines": "21221-21981",
+      "chars": 22973,
+      "output": "Abraham_Karassik.md"
+    },
+    {
+      "witness": "Abraham Levinsohn",
+      "hebrew": "אברהם לוינסון",
+      "file": "Vol2_p5564.txt",
+      "lines": "12359-12554",
+      "chars": 4506,
+      "output": "Abraham_Levinsohn.md"
+    },
+    {
+      "witness": "Abraham Lindwasser",
+      "hebrew": "אברהם לינדווסר",
+      "file": "Vol2_p6575.txt",
+      "lines": "3508-3864",
+      "chars": 10913,
+      "output": "Abraham_Lindwasser.md"
+    },
+    {
+      "witness": "Baruch Duvdevani",
+      "hebrew": "ברוך דובדבני",
+      "file": "Vol1_p15291.txt",
+      "lines": "18033-18208",
+      "chars": 6520,
+      "output": "Baruch_Duvdevani.md"
+    },
+    {
+      "witness": "Batsheva Rufeisen",
+      "hebrew": "בת שבע רופאייזן",
+      "file": "Vol1_p15291.txt",
+      "lines": "18544-18646",
+      "chars": 3772,
+      "output": "Batsheva_Rufeisen.md"
+    },
+    {
+      "witness": "Benno Cohen",
+      "hebrew": "בנו כהן",
+      "file": "Vol1_p15291.txt",
+      "lines": "99-1132",
+      "chars": 40685,
+      "output": "Benno_Cohen.md"
+    },
+    {
+      "witness": "Dov Freiberg",
+      "hebrew": "דב פרייברג",
+      "file": "Vol2_p5564.txt",
+      "lines": "14372-15232",
+      "chars": 34578,
+      "output": "Dov_Freiberg.md"
+    },
+    {
+      "witness": "Charlotte Salzberger",
+      "hebrew": "שרלוטה זלצברגר",
+      "file": "Vol2_p4155.txt",
+      "lines": "1898-2831",
+      "chars": 29282,
+      "output": "Charlotte_Salzberger.md"
+    },
+    {
+      "witness": "Dr. Paul Maerz",
+      "hebrew": "דר' פאול מרץ",
+      "file": "Vol1_p15291.txt",
+      "lines": "6279-6648",
+      "chars": 14073,
+      "output": "Dr_Paul_Maerz.md"
+    },
+    {
+      "witness": "Dr. David Wdowinsky",
+      "hebrew": "דר' דוד ודובינסקי",
+      "file": "Vol2_p6575.txt",
+      "lines": "4997-5401",
+      "chars": 15573,
+      "output": "Dr_David_Wdowinsky.md"
+    },
+    {
+      "witness": "Dr. Adolf Berman",
+      "hebrew": "דר' אדולף ברמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "17634-18031",
+      "chars": 13572,
+      "output": "Dr_Adolf_Berman.md"
+    },
+    {
+      "witness": "Dr. Aharon Beilin",
+      "hebrew": "דר' אהרון ביילין",
+      "file": "Vol2_p6575.txt",
+      "lines": "7803-8834",
+      "chars": 43911,
+      "output": "Dr_Aharon_Beilin.md"
+    },
+    {
+      "witness": "Dr. Arieh Breslauer",
+      "hebrew": "דר' אריה ברסלאוור",
+      "file": "Vol2_p5564.txt",
+      "lines": "8599-9272",
+      "chars": 25102,
+      "output": "Dr_Arieh_Breslauer.md"
+    },
+    {
+      "witness": "Dr. Bedrich Steiner",
+      "hebrew": "דר' בדריך שטיינר",
+      "file": "Vol2_p4155.txt",
+      "lines": "15905-16186",
+      "chars": 8642,
+      "output": "Dr_Bedrich_Steiner.md"
+    },
+    {
+      "witness": "Dr. Mark Dworzecki",
+      "hebrew": "דר' מארק דבורז'צקי",
+      "file": "Vol1_p15291.txt",
+      "lines": "19559-20218",
+      "chars": 27693,
+      "output": "Dr_Mark_Dworzecki.md"
+    },
+    {
+      "witness": "Dr. Ernst Abeles",
+      "hebrew": "דר' ארנסט אבלס",
+      "file": "Vol2_p4155.txt",
+      "lines": "13597-14675",
+      "chars": 40874,
+      "output": "Dr_Ernst_Abeles.md"
+    },
+    {
+      "witness": "Dr. George Wellers",
+      "hebrew": "דר' ז'ורז' ולרס",
+      "file": "vol1_part3.txt",
+      "lines": "3201-4272",
+      "chars": 44115,
+      "output": "Dr_George_Wellers.md"
+    },
+    {
+      "witness": "Dr. Josef Melkmann-Michman",
+      "hebrew": "דר' יוסף מלקמן-מכמן",
+      "file": "vol1_part3.txt",
+      "lines": "5856-6801",
+      "chars": 37643,
+      "output": "Dr_Josef_Melkmann-Michman.md"
+    },
+    {
+      "witness": "Ernst Grueber",
+      "hebrew": "ארנסט גרובר",
+      "file": "Vol2_p4155.txt",
+      "lines": "508-1897",
+      "chars": 61929,
+      "output": "Ernst_Grueber.md"
+    },
+    {
+      "witness": "Dr. Jacob Kratky",
+      "hebrew": "דר' יעקב קרטקי",
+      "file": "Vol1_p15291.txt",
+      "lines": "7797-9190",
+      "chars": 51392,
+      "output": "Dr_Jacob_Kratky.md"
+    },
+    {
+      "witness": "Dr. Leon Wells",
+      "hebrew": "דר' לאון וולס",
+      "file": "Vol1_p15291.txt",
+      "lines": "12221-13491",
+      "chars": 49451,
+      "output": "Dr_Leon_Wells.md"
+    },
+    {
+      "witness": "Dr. Martin Poeldy",
+      "hebrew": "דר' מרטין פולדי",
+      "file": "Vol2_p4155.txt",
+      "lines": "20700-21152",
+      "chars": 14976,
+      "output": "Dr_Martin_Poeldy.md"
+    },
+    {
+      "witness": "Dr. Aharon Peretz",
+      "hebrew": "דר' אהרון פרץ",
+      "file": "Vol1_p15291.txt",
+      "lines": "22057-22652",
+      "chars": 27627,
+      "output": "Dr_Aharon_Peretz.md"
+    },
+    {
+      "witness": "Dr. Theodor Lowenstein",
+      "hebrew": "דר' תיאודור לוונשטיין",
+      "file": "Vol2_p4155.txt",
+      "lines": "12146-12847",
+      "chars": 25274,
+      "output": "Dr_Theodor_Lowenstein.md"
+    },
+    {
+      "witness": "Dr. Tibor Ferencz",
+      "hebrew": "דר' טיבור פרנץ'",
+      "file": "Vol1_p15291.txt",
+      "lines": "3713-6278",
+      "chars": 29548,
+      "output": "Dr_Tibor_Ferencz.md"
+    },
+    {
+      "witness": "Eliezer Karstadt",
+      "hebrew": "אליעזר קארשטאדט",
+      "file": "Vol1_p15291.txt",
+      "lines": "23184-23519",
+      "chars": 11755,
+      "output": "Eliezer_Karstadt.md"
+    },
+    {
+      "witness": "Elisheva Szenes",
+      "hebrew": "אלישבע סנש",
+      "file": "Vol2_p4155.txt",
+      "lines": "20295-20523",
+      "chars": 8498,
+      "output": "Elisheva_Szenes.md"
+    },
+    {
+      "witness": "Eliyahu Rosenberg",
+      "hebrew": "אליהו רוזנברג",
+      "file": "Vol2_p4155.txt",
+      "lines": "16763-17148",
+      "chars": 13728,
+      "output": "Eliyahu_Rosenberg.md"
+    },
+    {
+      "witness": "Ernst Recht",
+      "hebrew": "ארנסט רכט",
+      "file": "Vol2_p4155.txt",
+      "lines": "5694-6145",
+      "chars": 18087,
+      "output": "Ernst_Recht.md"
+    },
+    {
+      "witness": "Esther Goldstein",
+      "hebrew": "אסתר גולדשטיין",
+      "file": "Vol2_p6575.txt",
+      "lines": "10052-10279",
+      "chars": 6043,
+      "output": "Esther_Goldstein.md"
+    },
+    {
+      "witness": "Dr. Franz Meyer",
+      "hebrew": "דר' פראנץ מאייר",
+      "file": "Vol1_p15291.txt",
+      "lines": "3713-4342",
+      "chars": 21059,
+      "output": "Dr_Franz_Meyer.md"
+    },
+    {
+      "witness": "Gedalia Ben Zvi",
+      "hebrew": "גדליה בן צבי",
+      "file": "Vol1_p15291.txt",
+      "lines": "9420-9787",
+      "chars": 13958,
+      "output": "Gedalia_Ben_Zvi.md"
+    },
+    {
+      "witness": "Dr. Mordehai Chen",
+      "hebrew": "דר' מרדכי חן",
+      "file": "Vol2_p6575.txt",
+      "lines": "12103-15955",
+      "chars": 5290,
+      "output": "Dr_Mordehai_Chen.md"
+    },
+    {
+      "witness": "Hansie Brand",
+      "hebrew": "האנזי בראנד",
+      "file": "Vol2_p5564.txt",
+      "lines": "3993-4858",
+      "chars": 30754,
+      "output": "Hansie_Brand.md"
+    },
+    {
+      "witness": "Henriette Samuel",
+      "hebrew": "הנרייטה סמואל",
+      "file": "vol1_part3.txt",
+      "lines": "9081-9352",
+      "chars": 9348,
+      "output": "Henriette_Samuel.md"
+    },
+    {
+      "witness": "Henryk Ross",
+      "hebrew": "הנריק רוס",
+      "file": "Vol1_p15291.txt",
+      "lines": "13737-14127",
+      "chars": 13625,
+      "output": "Henryk_Ross.md"
+    },
+    {
+      "witness": "Henryk Zvi Zimerman",
+      "hebrew": "הנריק צבי צימרמן",
+      "file": "Vol2_p5564.txt",
+      "lines": "10501-10902",
+      "chars": 15894,
+      "output": "Henryk_Zvi_Zimerman.md"
+    },
+    {
+      "witness": "Hildegard Henschel",
+      "hebrew": "הילדגארד הנשל",
+      "file": "vol1_part3.txt",
+      "lines": "10998-11599",
+      "chars": 19834,
+      "output": "Hildegard_Henschel.md"
+    },
+    {
+      "witness": "Hinko Zaltz",
+      "hebrew": "הינקו זאלץ",
+      "file": "Vol2_p4155.txt",
+      "lines": "8001-8396",
+      "chars": 15407,
+      "output": "Hinko_Zaltz.md"
+    },
+    {
+      "witness": "Hulda Campagnana",
+      "hebrew": "חולדה קאמפאנינו",
+      "file": "vol1_part3.txt",
+      "lines": "9823-10212",
+      "chars": 16418,
+      "output": "Hulda_Campagnana.md"
+    },
+    {
+      "witness": "Israel Gutman",
+      "hebrew": "ישראל גוטמן",
+      "file": "Vol2_p5564.txt",
+      "lines": "13187-13600",
+      "chars": 16391,
+      "output": "Israel_Gutman.md"
+    },
+    {
+      "witness": "Joseph Reznik",
+      "hebrew": "יוסף רזניק",
+      "file": "Vol2_p5564.txt",
+      "lines": "13613-13905",
+      "chars": 10006,
+      "output": "Joseph_Reznik.md"
+    },
+    {
+      "witness": "Jospeh Zalman Kleinman",
+      "hebrew": "יוסף קליינמן",
+      "file": "Vol2_p6575.txt",
+      "lines": "5450-5876",
+      "chars": 17054,
+      "output": "Jospeh_Zalman_Kleinman.md"
+    },
+    {
+      "witness": "Israel Carmel",
+      "hebrew": "ישראל כרמל",
+      "file": "Vol1_p15291.txt",
+      "lines": "14886-15229",
+      "chars": 14981,
+      "output": "Israel_Carmel.md"
+    },
+    {
+      "witness": "Judge Michael Musmanno",
+      "hebrew": "מיכאל מוסמאנו",
+      "file": "vol1_part3.txt",
+      "lines": "14809-15497",
+      "chars": 24780,
+      "output": "Judge_Michael_Musmanno.md"
+    },
+    {
+      "witness": "Kalman Teigmann",
+      "hebrew": "קלמן טיגמן",
+      "file": "Vol2_p6575.txt",
+      "lines": "2589-3192",
+      "chars": 19674,
+      "output": "Kalman_Teigmann.md"
+    },
+    {
+      "witness": "Lesley Gordon",
+      "hebrew": "לזלי גורדון",
+      "file": "Vol2_p4155.txt",
+      "lines": "21541-22269",
+      "chars": 23839,
+      "output": "Lesley_Gordon.md"
+    },
+    {
+      "witness": "Margit Reich",
+      "hebrew": "מרגיט רייך",
+      "file": "Vol2_p4155.txt",
+      "lines": "20524-20699",
+      "chars": 5924,
+      "output": "Margit_Reich.md"
+    },
+    {
+      "witness": "Max Burger",
+      "hebrew": "מקס בורגר",
+      "file": "Vol1_p15291.txt",
+      "lines": "6838-7796",
+      "chars": 38029,
+      "output": "Max_Burger.md"
+    },
+    {
+      "witness": "Michael Podchlewnik",
+      "hebrew": "מיכאל פודחלבניק",
+      "file": "Vol2_p6575.txt",
+      "lines": "1095-1435",
+      "chars": 9418,
+      "output": "Michael_Podchlewnik.md"
+    },
+    {
+      "witness": "Mordechai Ansbacher",
+      "hebrew": "מרדכי אנסבכר",
+      "file": "vol1_part3.txt",
+      "lines": "11617-13239",
+      "chars": 58983,
+      "output": "Mordechai_Ansbacher.md"
+    },
+    {
+      "witness": "Mordeichai Eliezer Greenspan",
+      "hebrew": "מרדכי אליעזר גרינשפן",
+      "file": "Vol1_p114.txt",
+      "lines": "17867-17992",
+      "chars": 3733,
+      "output": "Mordeichai_Eliezer_Greenspan.md"
+    },
+    {
+      "witness": "Mordeichai Zurawski",
+      "hebrew": "מרדכי ז'ורבסקי",
+      "file": "Vol2_p6575.txt",
+      "lines": "1362-1435",
+      "chars": 1527,
+      "output": "Mordeichai_Zurawski.md"
+    },
+    {
+      "witness": "Moritz Fleischman",
+      "hebrew": "מוריץ פליישמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "2897-3703",
+      "chars": 33883,
+      "output": "Moritz_Fleischman.md"
+    },
+    {
+      "witness": "Moshe Bahir",
+      "hebrew": "משה בהיר",
+      "file": "Vol2_p6575.txt",
+      "lines": "14-459",
+      "chars": 14891,
+      "output": "Moshe_Bahir.md"
+    },
+    {
+      "witness": "Moshe Rosenberg",
+      "hebrew": "משה רוזנברג",
+      "file": "Vol2_p4155.txt",
+      "lines": "16763-17148",
+      "chars": 13728,
+      "output": "Moshe_Rosenberg.md"
+    },
+    {
+      "witness": "Rachel Auerbach",
+      "hebrew": "רחל אוורבך",
+      "file": "Vol1_p15291.txt",
+      "lines": "17349-17658",
+      "chars": 10566,
+      "output": "Rachel_Auerbach.md"
+    },
+    {
+      "witness": "Freida Mazia",
+      "hebrew": "פרידה מזיא",
+      "file": "Vol1_p15291.txt",
+      "lines": "19101-19557",
+      "chars": 18780,
+      "output": "Freida_Mazia.md"
+    },
+    {
+      "witness": "Leanna Neumann",
+      "hebrew": "ליאנה ניומן",
+      "file": "vol1_part3.txt",
+      "lines": "52-312",
+      "chars": 8648,
+      "output": "Leanna_Neumann.md"
+    },
+    {
+      "witness": "Vali Zimmet",
+      "hebrew": "ולי צימט",
+      "file": "Vol1_p15291.txt",
+      "lines": "6692-6837",
+      "chars": 4517,
+      "output": "Vali_Zimmet.md"
+    },
+    {
+      "witness": "Naftali Bar-Shalom",
+      "hebrew": "נפתלי בר שלום",
+      "file": "Vol1_p114.txt",
+      "lines": "10169-11119",
+      "chars": 39493,
+      "output": "Naftali_Bar-Shalom.md"
+    },
+    {
+      "witness": "Nahum Hoch",
+      "hebrew": "נחום הוך",
+      "file": "Vol2_p6575.txt",
+      "lines": "10954-11254",
+      "chars": 10844,
+      "output": "Nahum_Hoch.md"
+    },
+    {
+      "witness": "Perla Mark",
+      "hebrew": "פרלה מרק",
+      "file": "Vol1_p15291.txt",
+      "lines": "19559-20270",
+      "chars": 29700,
+      "output": "Perla_Mark.md"
+    },
+    {
+      "witness": "Philippe Freudiger",
+      "hebrew": "פיליפ פרוידיגר",
+      "file": "Vol2_p4155.txt",
+      "lines": "17585-19783",
+      "chars": 88113,
+      "output": "Philippe_Freudiger.md"
+    },
+    {
+      "witness": "Prof. Gustave Gilbert",
+      "hebrew": "פרופ' גוסטב גילברט",
+      "file": "Vol2_p5564.txt",
+      "lines": "13-1385",
+      "chars": 54386,
+      "output": "Prof_Gustave_Gilbert.md"
+    },
+    {
+      "witness": "Prof. Salo Baron",
+      "hebrew": "פרופ' סאלו בארון",
+      "file": "Vol1_p114.txt",
+      "lines": "14589-16457",
+      "chars": 88862,
+      "output": "Prof_Salo_Baron.md"
+    },
+    {
+      "witness": "Rivka Kupper",
+      "hebrew": "רבקה קופר",
+      "file": "Vol1_p15291.txt",
+      "lines": "18212-18536",
+      "chars": 12887,
+      "output": "Rivka_Kupper.md"
+    },
+    {
+      "witness": "Rivka Yoselevska",
+      "hebrew": "רבקה יוסלבסקה",
+      "file": "vol1_part3.txt",
+      "lines": "562-950",
+      "chars": 13998,
+      "output": "Rivka_Yoselevska.md"
+    },
+    {
+      "witness": "Shalom Chulawski",
+      "hebrew": "שלום חולבסקי",
+      "file": "Vol2_p6575.txt",
+      "lines": "15669-15954",
+      "chars": 10927,
+      "output": "Shalom_Chulawski.md"
+    },
+    {
+      "witness": "Shimon Servernik",
+      "hebrew": "שמעון סרברניק",
+      "file": "Vol2_p6575.txt",
+      "lines": "1863-2260",
+      "chars": 12346,
+      "output": "Shimon_Servernik.md"
+    },
+    {
+      "witness": "Shmuel Horowitz",
+      "hebrew": "שמואל הורביץ",
+      "file": "vol1_part3.txt",
+      "lines": "317-549",
+      "chars": 9409,
+      "output": "Shmuel_Horowitz.md"
+    },
+    {
+      "witness": "Vera Alexander",
+      "hebrew": "ורה אלכסנדר",
+      "file": "Vol2_p4155.txt",
+      "lines": "8398-10407",
+      "chars": 81392,
+      "output": "Vera_Alexander.md"
+    },
+    {
+      "witness": "Witzlaw Diamant",
+      "hebrew": "ויטסלב דיאמנט",
+      "file": "Vol2_p4155.txt",
+      "lines": "6588-6883",
+      "chars": 10075,
+      "output": "Witzlaw_Diamant.md"
+    },
+    {
+      "witness": "Werner David Melchior",
+      "hebrew": "וורנר דוד מלכיאור",
+      "file": "vol1_part3.txt",
+      "lines": "8188-8601",
+      "chars": 16773,
+      "output": "Werner_David_Melchior.md"
+    },
+    {
+      "witness": "Yacov Biskowitz",
+      "hebrew": "יעקב ביסקוביץ",
+      "file": "Vol2_p6575.txt",
+      "lines": "460-957",
+      "chars": 17307,
+      "output": "Yacov_Biskowitz.md"
+    },
+    {
+      "witness": "Yacov Friedman",
+      "hebrew": "יעקב פרידמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "17349-17658",
+      "chars": 10566,
+      "output": "Yacov_Friedman.md"
+    },
+    {
+      "witness": "Yacov Vernik",
+      "hebrew": "יעקב ויירניק",
+      "file": "Vol2_p6575.txt",
+      "lines": "2325-2575",
+      "chars": 7470,
+      "output": "Yacov_Vernik.md"
+    },
+    {
+      "witness": "Yhiel De-Nur (Ka-Tzetnik)",
+      "hebrew": "יחיאל די-נור",
+      "file": "Vol2_p6575.txt",
+      "lines": "5402-5877",
+      "chars": 1528,
+      "output": "Yhiel_De-Nur_Ka-Tzetnik.md"
+    },
+    {
+      "witness": "Yehuda Bacon",
+      "hebrew": "יהודה בקון",
+      "file": "Vol2_p6575.txt",
+      "lines": "5878-6840",
+      "chars": 29609,
+      "output": "Yehuda_Bacon.md"
+    },
+    {
+      "witness": "Yitzhak Nehama",
+      "hebrew": "יצחק נחמה",
+      "file": "Vol2_p4155.txt",
+      "lines": "10408-10692",
+      "chars": 8940,
+      "output": "Yitzhak_Nehama.md"
+    },
+    {
+      "witness": "Yitzhak Zukermann",
+      "hebrew": "יצחק צוקרמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "15320-16331",
+      "chars": 44579,
+      "output": "Yitzhak_Zukermann.md"
+    },
+    {
+      "witness": "Yoel Brand",
+      "hebrew": "יואל ברנד",
+      "file": "Vol2_p5564.txt",
+      "lines": "1386-2149",
+      "chars": 30131,
+      "output": "Yoel_Brand.md"
+    },
+    {
+      "witness": "Zeev Sapir",
+      "hebrew": "זאב ספיר",
+      "file": "Vol2_p4155.txt",
+      "lines": "21172-21503",
+      "chars": 12191,
+      "output": "Zeev_Sapir.md"
+    },
+    {
+      "witness": "Zyndel Shmuel Grynszpan",
+      "hebrew": "זינדל שמואל גרינשפן",
+      "file": "Vol1_p114.txt",
+      "lines": "17867-17992",
+      "chars": 3733,
+      "output": "Zyndel_Shmuel_Grynszpan.md"
+    },
+    {
+      "witness": "Zvi Pachter",
+      "hebrew": "צבי פכטר",
+      "file": "Vol1_p15291.txt",
+      "lines": "9420-9787",
+      "chars": 13958,
+      "output": "Zvi_Pachter.md"
+    },
+    {
+      "witness": "Zivia Lubetkin Zukermann",
+      "hebrew": "צביה לובטקין צוקרמן",
+      "file": "Vol1_p15291.txt",
+      "lines": "15320-16292",
+      "chars": 43310,
+      "output": "Zivia_Lubetkin_Zukermann.md"
+    },
+    {
+      "witness": "Noach Zabludowicz",
+      "hebrew": "נח זבלודוביץ",
+      "file": "Vol1_p15291.txt",
+      "lines": "10142-10726",
+      "chars": 22093,
+      "output": "Noach_Zabludowicz.md"
+    },
+    {
+      "witness": "Dr. Moshe Beisky",
+      "hebrew": "דר' משה בייסקי",
+      "file": "Vol1_p15291.txt",
+      "lines": "10919-11520",
+      "chars": 25976,
+      "output": "Dr_Moshe_Beisky.md"
+    },
+    {
+      "witness": "Dr. Joseph Buzminsky",
+      "hebrew": "דר' יוסף בוז'מינסקי",
+      "file": "Vol1_p15291.txt",
+      "lines": "14578-14842",
+      "chars": 10254,
+      "output": "Dr_Joseph_Buzminsky.md"
+    },
+    {
+      "witness": "Ester Shilo",
+      "hebrew": "אסתר שילה",
+      "file": "Vol1_p15291.txt",
+      "lines": "14465-14575",
+      "chars": 3365,
+      "output": "Ester_Shilo.md"
+    },
+    {
+      "witness": "Aharon Zilberman",
+      "hebrew": "אהרון זילברמן",
+      "file": "vol1_part3.txt",
+      "lines": "1588-1633",
+      "chars": 769,
+      "output": "Aharon_Zilberman.md"
+    },
+    {
+      "witness": "Avraham Gordon",
+      "hebrew": "אברהם גורדון",
+      "file": "Vol2_p4155.txt",
+      "lines": "21541-22269",
+      "chars": 23839,
+      "output": "Avraham_Gordon.md"
+    },
+    {
+      "witness": "Raya Cagan",
+      "hebrew": "רעיה קגן",
+      "file": "Vol2_p6575.txt",
+      "lines": "8981-10021",
+      "chars": 35630,
+      "output": "Raya_Cagan.md"
+    },
+    {
+      "witness": "Yacov Gurfein",
+      "hebrew": "יעקב גורפיין",
+      "file": "Vol1_p15291.txt",
+      "lines": "9788-10141",
+      "chars": 12395,
+      "output": "Yacov_Gurfein.md"
+    }
+  ],
+  "failures": []
+}

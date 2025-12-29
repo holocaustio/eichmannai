@@ -1,0 +1,209 @@
+{
+  "pdf_extraction": {
+    "pdfplumber": {
+      "chars": 1096658,
+      "time_seconds": 49.28
+    },
+    "pymupdf": {
+      "chars": 1192818,
+      "time_seconds": 1.53
+    },
+    "pymupdf_blocks": {
+      "chars": 1192542,
+      "blocks": 5770,
+      "time_seconds": 3.02
+    }
+  },
+  "ocr_text": {
+    "chars": 694487,
+    "lines": 14748
+  },
+  "entity_extraction": {
+    "regex": {
+      "time_seconds": 0.03,
+      "entities": {
+        "SESSION": 15,
+        "PERSON_CANDIDATE": 1158,
+        "LOCATION": 25,
+        "ORGANIZATION": 4,
+        "KEY_FIGURE": 7
+      },
+      "sample": {
+        "SESSION": [
+          "ישיבה 14",
+          "ישיבה 16",
+          "ישיבה 54",
+          "ישיבה 61",
+          "ישיבה 65"
+        ],
+        "PERSON_CANDIDATE": [
+          "\"אימרה\"",
+          "\"זהו\"",
+          "\"מדמיונך\"",
+          "\"מזכיר\nמעטות דרשו הוכחות לרכישת מקצוע כלשהו",
+          "\"מחנות אחרים\""
+        ],
+        "LOCATION": [
+          "אושוויץ",
+          "בודפשט",
+          "בירקנאו",
+          "ברלין",
+          "גרמניה"
+        ],
+        "ORGANIZATION": [
+          "הגסטאפו",
+          "המשטרה הגרמנית",
+          "הנאצים",
+          "הצלב האדום"
+        ],
+        "KEY_FIGURE": [
+          "אדולף אייכמן",
+          "אייכמן",
+          "גרינג",
+          "היטלר",
+          "היידריך"
+        ]
+      }
+    },
+    "spacy": {
+      "error": "Model not installed"
+    }
+  },
+  "comparison": {
+    "regex_vs_existing": {
+      "extracted_types": [
+        "SESSION",
+        "PERSON_CANDIDATE",
+        "LOCATION",
+        "ORGANIZATION",
+        "KEY_FIGURE"
+      ],
+      "existing_types": [
+        "PERSON",
+        "LOCATION",
+        "ORGANIZATION",
+        "DATE",
+        "EVENT"
+      ],
+      "overlap": {
+        "ORGANIZATION": 1,
+        "LOCATION": 12,
+        "PERSON": 20
+      },
+      "only_extracted": {
+        "ORGANIZATION": [
+          "הנאצים",
+          "המשטרה הגרמנית",
+          "הצלב האדום"
+        ],
+        "SESSION": [
+          "ישיבה 68",
+          "ישיבה 75",
+          "ישיבה 71",
+          "ישיבה 61",
+          "ישיבה 72",
+          "ישיבה 16",
+          "ישיבה 14",
+          "ישיבה 73",
+          "ישיבה 70",
+          "ישיבה 65"
+        ],
+        "LOCATION": [
+          "לודז",
+          "סלוניקי",
+          "ווילנה",
+          "מינסק",
+          "רומא",
+          "תל אביב",
+          "חיפה",
+          "בודפשט",
+          "וינה",
+          "ישראל"
+        ],
+        "PERSON": [
+          "הוך תפסו את כולם",
+          "זאת על החלק הזה",
+          "בקון זאת איני יודע",
+          "כגן הם היו מבוהלים ביותר",
+          "חיטוי",
+          "סרבציוס על\nהעניין הזה",
+          "סרבציוס לא אוכל לחוות דעתי על כך",
+          "אלכסנדר ממש זנב שור",
+          "על ידי\nבטרבלינקה",
+          "חן תמונה מס"
+        ]
+      },
+      "only_existing": {
+        "ORGANIZATION": [
+          "הגרמנים",
+          "ארמיה לאורך כל הקיר",
+          "המשרד האישי של הרייך",
+          "האנשים הזונדרקומנדו",
+          "הס\"ס",
+          "השגרירות השוודית",
+          "kommissia",
+          "arbeitskommando",
+          "וולדקומנדו",
+          "musikkapelle"
+        ],
+        "LOCATION": [
+          "b2",
+          "אנטקליידונגסקאמר",
+          "birkenau",
+          "קרנקנלאגר",
+          "komarów",
+          "הואטר",
+          "זיליץ (zeliezovce, zeliz)",
+          "למברג",
+          "bozdzin",
+          "lublin"
+        ],
+        "DATE": [
+          "כרך 7",
+          "16",
+          "18 בסיוון",
+          "30 בינואר 1943",
+          "3 או 4 בספטמבר",
+          "1945",
+          "מוצאי ראש השנה",
+          "יום כיפור",
+          "כרך 3",
+          "22 בפברואר 1959"
+        ],
+        "PERSON": [
+          "himmler",
+          "גנר",
+          "moniek",
+          "פבלושה",
+          "ד\"ר המקסימלי",
+          "לנס",
+          "ד״ר חורורז’יסקי",
+          "meister lenz",
+          "dr. robert servatius",
+          "weinmann"
+        ],
+        "EVENT": [
+          "בריחה",
+          "העמדתם",
+          "משפט בלזן",
+          "מרד הזונדרקומנדו",
+          "סלקציה",
+          "ישיבה מס' 67",
+          "ברוקשפרה",
+          "טרנספורטים",
+          "החלון",
+          "מכוניות הגז"
+        ]
+      }
+    }
+  },
+  "recommendations": [
+    "✅ Regex extraction found 1209 entities in 0.027s (FREE, instant)",
+    "🔄 Hybrid approach: Use regex + spaCy for initial extraction, AI only for:",
+    "   - Name consolidation (merging variants)",
+    "   - Role classification (witness vs lawyer)",
+    "   - Relationship inference",
+    "   - Complex context understanding",
+    "📊 Current OpenAI extraction: 677 entities (API cost per file)"
+  ]
+}

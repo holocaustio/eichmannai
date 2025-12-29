@@ -2,132 +2,1042 @@
   "source": "Yad Vashem - https://wwv.yadvashem.org/yv/he/exhibitions/eichmann/witnesses.asp",
   "totalWitnesses": 108,
   "witnesses": [
-    { "hebrew": "אבא קובנר", "english": "Abba Kowner" },
-    { "hebrew": "עדה ליכטמן", "english": "Ada Lichtman" },
-    { "hebrew": "אדולף אנגלשטיין", "english": "Adolf Engelstein" },
-    { "hebrew": "אדולף רוזנברג", "english": "Adolf Rosenberg" },
-    { "hebrew": "אהרון חוטר ישי", "english": "Aharon Choter Yishai" },
-    { "hebrew": "אהרון וולטר לינדנשטראוס", "english": "Aharon Walter Lindenstrauss" },
-    { "hebrew": "אלכסנדר ארנון", "english": "Alexander Arnon" },
-    { "hebrew": "אלכסנדר ברודי", "english": "Alexander Brodie" },
-    { "hebrew": "אלפרד אופנהיימר", "english": "Alfred Oppenheimer" },
-    { "hebrew": "אביבה פליישמן", "english": "Aviva Flieschman" },
-    { "hebrew": "אבנר לס", "english": "Avner Less" },
-    { "hebrew": "אברהם אביאל", "english": "Abraham Aviel" },
-    { "hebrew": "אברהם בוכמן", "english": "Abraham Buchmann" },
-    { "hebrew": "אברהם חג'ג'", "english": "Abraham Hadjaj" },
-    { "hebrew": "אברהם קרסיק", "english": "Abraham Karassik" },
-    { "hebrew": "אברהם לוינסון", "english": "Abraham Levinsohn" },
-    { "hebrew": "אברהם לינדווסר", "english": "Abraham Lindwasser" },
-    { "hebrew": "ברוך דובדבני", "english": "Baruch Duvdevani" },
-    { "hebrew": "בת שבע רופאייזן", "english": "Batsheva Rufeisen" },
-    { "hebrew": "בנו כהן", "english": "Benno Cohen" },
-    { "hebrew": "דב פרייברג", "english": "Dov Freiberg" },
-    { "hebrew": "שרלוטה זלצברגר", "english": "Charlotte Salzberger" },
-    { "hebrew": "דר' פאול מרץ", "english": "Dr. Paul Maerz" },
-    { "hebrew": "דר' דוד ודובינסקי", "english": "Dr. David Wdowinsky" },
-    { "hebrew": "דר' אדולף ברמן", "english": "Dr. Adolf Berman" },
-    { "hebrew": "דר' אהרון ביילין", "english": "Dr. Aharon Beilin" },
-    { "hebrew": "דר' אריה ברסלאוור", "english": "Dr. Arieh Breslauer" },
-    { "hebrew": "דר' בדריך שטיינר", "english": "Dr. Bedrich Steiner" },
-    { "hebrew": "דר' מארק דבורז'צקי", "english": "Dr. Mark Dworzecki" },
-    { "hebrew": "דר' ארנסט אבלס", "english": "Dr. Ernst Abeles" },
-    { "hebrew": "דר' ז'ורז' ולרס", "english": "Dr. George Wellers" },
-    { "hebrew": "דר' יוסף מלקמן-מכמן", "english": "Dr. Josef Melkmann-Michman" },
-    { "hebrew": "ארנסט גרובר", "english": "Ernst Grueber" },
-    { "hebrew": "דר' יעקב קרטקי", "english": "Dr. Jacob Kratky" },
-    { "hebrew": "דר' לאון וולס", "english": "Dr. Leon Wells" },
-    { "hebrew": "דר' מרטין פולדי", "english": "Dr. Martin Poeldy" },
-    { "hebrew": "דר' אהרון פרץ", "english": "Dr. Aharon Peretz" },
-    { "hebrew": "דר' תיאודור לוונשטיין", "english": "Dr. Theodor Lowenstein" },
-    { "hebrew": "דר' טיבור פרנץ'", "english": "Dr. Tibor Ferencz" },
-    { "hebrew": "אליעזר קארשטאדט", "english": "Eliezer Karstadt" },
-    { "hebrew": "אלישבע סנש", "english": "Elisheva Szenes" },
-    { "hebrew": "אליהו רוזנברג", "english": "Eliyahu Rosenberg" },
-    { "hebrew": "ארנסט רכט", "english": "Ernst Recht" },
-    { "hebrew": "אסתר גולדשטיין", "english": "Esther Goldstein" },
-    { "hebrew": "דר' פראנץ מאייר", "english": "Dr. Franz Meyer" },
-    { "hebrew": "גדליה בן צבי", "english": "Gedalia Ben Zvi" },
-    { "hebrew": "דר' מרדכי חן", "english": "Dr. Mordehai Chen" },
-    { "hebrew": "האנזי בראנד", "english": "Hansie Brand" },
-    { "hebrew": "הנרייטה סמואל", "english": "Henriette Samuel" },
-    { "hebrew": "הנריק רוס", "english": "Henryk Ross" },
-    { "hebrew": "הנריק צבי צימרמן", "english": "Henryk Zvi Zimerman" },
-    { "hebrew": "הילדגארד הנשל", "english": "Hildegard Henschel" },
-    { "hebrew": "הינקו זאלץ", "english": "Hinko Zaltz" },
-    { "hebrew": "חולדה קאמפאנינו", "english": "Hulda Campagnana" },
-    { "hebrew": "ישראל גוטמן", "english": "Israel Gutman" },
-    { "hebrew": "יוסף רזניק", "english": "Joseph Reznik" },
-    { "hebrew": "יוסף קליינמן", "english": "Jospeh Zalman Kleinman" },
-    { "hebrew": "ישראל כרמל", "english": "Israel Carmel" },
-    { "hebrew": "מיכאל מוסמאנו", "english": "Judge Michael Musmanno" },
-    { "hebrew": "קלמן טיגמן", "english": "Kalman Teigmann" },
-    { "hebrew": "לזלי גורדון", "english": "Lesley Gordon" },
-    { "hebrew": "מרגיט רייך", "english": "Margit Reich" },
-    { "hebrew": "מקס בורגר", "english": "Max Burger" },
-    { "hebrew": "מיכאל פודחלבניק", "english": "Michael Podchlewnik" },
-    { "hebrew": "מרדכי אנסבכר", "english": "Mordechai Ansbacher" },
-    { "hebrew": "מרדכי אליעזר גרינשפן", "english": "Mordeichai Eliezer Greenspan" },
-    { "hebrew": "מרדכי ז'ורבסקי", "english": "Mordeichai Zurawski" },
-    { "hebrew": "מוריץ פליישמן", "english": "Moritz Fleischman" },
-    { "hebrew": "משה בהיר", "english": "Moshe Bahir" },
-    { "hebrew": "משה רוזנברג", "english": "Moshe Rosenberg" },
-    { "hebrew": "רחל אוורבך", "english": "Rachel Auerbach" },
-    { "hebrew": "פרידה מזיא", "english": "Freida Mazia" },
-    { "hebrew": "ליאנה ניומן", "english": "Leanna Neumann" },
-    { "hebrew": "ולי צימט", "english": "Vali Zimmet" },
-    { "hebrew": "נפתלי בר שלום", "english": "Naftali Bar-Shalom" },
-    { "hebrew": "נחום הוך", "english": "Nahum Hoch" },
-    { "hebrew": "פרלה מרק", "english": "Perla Mark" },
-    { "hebrew": "פיליפ פרוידיגר", "english": "Philippe Freudiger" },
-    { "hebrew": "פרופ' גוסטב גילברט", "english": "Prof. Gustave Gilbert" },
-    { "hebrew": "פרופ' סאלו בארון", "english": "Prof. Salo Baron" },
-    { "hebrew": "רבקה קופר", "english": "Rivka Kupper" },
-    { "hebrew": "רבקה יוסלבסקה", "english": "Rivka Yoselevska" },
-    { "hebrew": "שלום חולבסקי", "english": "Shalom Chulawski" },
-    { "hebrew": "שמעון סרברניק", "english": "Shimon Servernik" },
-    { "hebrew": "שמואל הורביץ", "english": "Shmuel Horowitz" },
-    { "hebrew": "ורה אלכסנדר", "english": "Vera Alexander" },
-    { "hebrew": "ויטסלב דיאמנט", "english": "Witzlaw Diamant" },
-    { "hebrew": "וורנר דוד מלכיאור", "english": "Werner David Melchior" },
-    { "hebrew": "יעקב ביסקוביץ", "english": "Yacov Biskowitz" },
-    { "hebrew": "יעקב פרידמן", "english": "Yacov Friedman" },
-    { "hebrew": "יעקב ויירניק", "english": "Yacov Vernik" },
-    { "hebrew": "יחיאל די-נור", "english": "Yhiel De-Nur (Ka-Tzetnik)", "alias": "ק. צטניק" },
-    { "hebrew": "יהודה בקון", "english": "Yehuda Bacon" },
-    { "hebrew": "יצחק נחמה", "english": "Yitzhak Nehama" },
-    { "hebrew": "יצחק צוקרמן", "english": "Yitzhak Zukermann" },
-    { "hebrew": "יואל ברנד", "english": "Yoel Brand" },
-    { "hebrew": "זאב ספיר", "english": "Zeev Sapir" },
-    { "hebrew": "זינדל שמואל גרינשפן", "english": "Zyndel Shmuel Grynszpan" },
-    { "hebrew": "צבי פכטר", "english": "Zvi Pachter" },
-    { "hebrew": "צביה לובטקין צוקרמן", "english": "Zivia Lubetkin Zukermann" },
-    { "hebrew": "נח זבלודוביץ", "english": "Noach Zabludowicz" },
-    { "hebrew": "דר' משה בייסקי", "english": "Dr. Moshe Beisky" },
-    { "hebrew": "דר' יוסף בוז'מינסקי", "english": "Dr. Joseph Buzminsky" },
-    { "hebrew": "אסתר שילה", "english": "Ester Shilo" },
-    { "hebrew": "אהרון זילברמן", "english": "Aharon Zilberman" },
-    { "hebrew": "אברהם גורדון", "english": "Avraham Gordon" },
-    { "hebrew": "רעיה קגן", "english": "Raya Cagan" },
-    { "hebrew": "יעקב גורפיין", "english": "Yacov Gurfein" }
+    {
+      "hebrew": "אבא קובנר",
+      "english": "Abba Kowner",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "20271-21132",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "עדה ליכטמן",
+      "english": "Ada Lichtman",
+      "variants": [
+        "ליכטמן",
+        "הגברת ליכטמן",
+        "Lichtman"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "9191-9401",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אדולף אנגלשטיין",
+      "english": "Adolf Engelstein",
+      "variants": [
+        "אנגלשטין",
+        "ענגלשטיין"
+      ],
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "6909-7573",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אדולף רוזנברג",
+      "english": "Adolf Rosenberg",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "16763-17148",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "variants": [
+        "חוטר",
+        "חוטר ישי",
+        "חוטרֿישי"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "1146-2896",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אהרון וולטר לינדנשטראוס",
+      "english": "Aharon Walter Lindenstrauss",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "1146-1457",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אלכסנדר ארנון",
+      "english": "Alexander Arnon",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "8398-8966",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אלכסנדר ברודי",
+      "english": "Alexander Brodie",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "19790-20267",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אלפרד אופנהיימר",
+      "english": "Alfred Oppenheimer",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "6921-7385",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אביבה פליישמן",
+      "english": "Aviva Flieschman",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "2897-3703",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אבנר לס",
+      "english": "Avner Less",
+      "variants": [
+        "אבנר לס",
+        "פקד לס",
+        "מר לס",
+        "Less"
+      ],
+      "sourceFile": "Vol1_p114.txt",
+      "sourceLines": "11140-11271",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם אביאל",
+      "english": "Abraham Aviel",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "23639-24011",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם בוכמן",
+      "english": "Abraham Buchmann",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "12570-12754",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם חג'ג'",
+      "english": "Abraham Hadjaj",
+      "variants": [
+        "חגג",
+        "חג'ג'",
+        "חגאג"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "16272-16445",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם קרסיק",
+      "english": "Abraham Karassik",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "21221-21981",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם לוינסון",
+      "english": "Abraham Levinsohn",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "12359-12554",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אברהם לינדווסר",
+      "english": "Abraham Lindwasser",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "3508-3864",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "ברוך דובדבני",
+      "english": "Baruch Duvdevani",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "18033-18208",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "בת שבע רופאייזן",
+      "english": "Batsheva Rufeisen",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "18544-18646",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "99-1132",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דב פרייברג",
+      "english": "Dov Freiberg",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "14372-15232",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "שרלוטה זלצברגר",
+      "english": "Charlotte Salzberger",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "1898-2831",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' פאול מרץ",
+      "english": "Dr. Paul Maerz",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "6279-6648",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' דוד ודובינסקי",
+      "english": "Dr. David Wdowinsky",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "4997-5401",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' אדולף ברמן",
+      "english": "Dr. Adolf Berman",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "17634-18031",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' אהרון ביילין",
+      "english": "Dr. Aharon Beilin",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "7803-8834",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' אריה ברסלאוור",
+      "english": "Dr. Arieh Breslauer",
+      "variants": [
+        "ברסלואר",
+        "ברסלאור"
+      ],
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "8599-9272",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' בדריך שטיינר",
+      "english": "Dr. Bedrich Steiner",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "15905-16186",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' מארק דבורז'צקי",
+      "english": "Dr. Mark Dworzecki",
+      "variants": [
+        "דבורז'צקי",
+        "דבורזצקי",
+        "דבורז׳צקי"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "19559-20218",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' ארנסט אבלס",
+      "english": "Dr. Ernst Abeles",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "13597-14675",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' ז'ורז' ולרס",
+      "english": "Dr. George Wellers",
+      "variants": [
+        "ולרס",
+        "וולרס",
+        "ולר",
+        "Wellers",
+        "Georges",
+        "ג'ורג'"
+      ],
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "3201-4272"
+    },
+    {
+      "hebrew": "דר' יוסף מלקמן-מכמן",
+      "english": "Dr. Josef Melkmann-Michman",
+      "variants": [
+        "מלקמן",
+        "מכמן",
+        "מיכמן",
+        "Melkmann"
+      ],
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "5856-6801"
+    },
+    {
+      "hebrew": "ארנסט גרובר",
+      "english": "Ernst Grueber",
+      "variants": [
+        "גריבר",
+        "גרובר",
+        "Grueber"
+      ],
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "508-1897",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' יעקב קרטקי",
+      "english": "Dr. Jacob Kratky",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "7797-9190",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' לאון וולס",
+      "english": "Dr. Leon Wells",
+      "variants": [
+        "ולס",
+        "ליאון ולס",
+        "Wells"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "12221-13491",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' מרטין פולדי",
+      "english": "Dr. Martin Poeldy",
+      "variants": [
+        "פלדי",
+        "פולדי",
+        "Poeldy"
+      ],
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "20700-21152",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' אהרון פרץ",
+      "english": "Dr. Aharon Peretz",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "22057-22652",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' תיאודור לוונשטיין",
+      "english": "Dr. Theodor Lowenstein",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "12146-12847",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' טיבור פרנץ'",
+      "english": "Dr. Tibor Ferencz",
+      "variants": [
+        "פרנץ",
+        "פרנץ'",
+        "Ferencz"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "3713-6278",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אליעזר קארשטאדט",
+      "english": "Eliezer Karstadt",
+      "variants": [
+        "קרשטט",
+        "קארשטאדט",
+        "Karstadt"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "23184-23519",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אלישבע סנש",
+      "english": "Elisheva Szenes",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "20295-20523",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אליהו רוזנברג",
+      "english": "Eliyahu Rosenberg",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "16763-17148",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "ארנסט רכט",
+      "english": "Ernst Recht",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "5694-6145",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אסתר גולדשטיין",
+      "english": "Esther Goldstein",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "10052-10279",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' פראנץ מאייר",
+      "english": "Dr. Franz Meyer",
+      "variants": [
+        "מאיר",
+        "פרנץ מאיר",
+        "Meyer"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "3713-4342",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "גדליה בן צבי",
+      "english": "Gedalia Ben Zvi",
+      "variants": [
+        "בן צבי",
+        "בן-צבי",
+        "בןֿצבי"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "9420-9787",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' מרדכי חן",
+      "english": "Dr. Mordehai Chen",
+      "variants": [
+        "מרדכי חן",
+        "העד חן",
+        "Chen"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "12103-15955",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "האנזי בראנד",
+      "english": "Hansie Brand",
+      "variants": [
+        "הנזי ברנד",
+        "גברת ברנד",
+        "העדה ברנד",
+        "Hansi Brand"
+      ],
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "3993-4858",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "הנרייטה סמואל",
+      "english": "Henriette Samuel",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "9081-9352"
+    },
+    {
+      "hebrew": "הנריק רוס",
+      "english": "Henryk Ross",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "13737-14127",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "הנריק צבי צימרמן",
+      "english": "Henryk Zvi Zimerman",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "10501-10902",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "הילדגארד הנשל",
+      "english": "Hildegard Henschel",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "10998-11599"
+    },
+    {
+      "hebrew": "הינקו זאלץ",
+      "english": "Hinko Zaltz",
+      "variants": [
+        "סלץ",
+        "זאלץ",
+        "זלץ",
+        "Zaltz"
+      ],
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "8001-8396",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "חולדה קאמפאנינו",
+      "english": "Hulda Campagnana",
+      "testimonyExtracted": true,
+      "variants": [
+        "קאמפאנינו",
+        "קמפניאנו",
+        "חולדה",
+        "Campagnano",
+        "Campagnana"
+      ],
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "9823-10212"
+    },
+    {
+      "hebrew": "ישראל גוטמן",
+      "english": "Israel Gutman",
+      "variants": [
+        "גוטמן",
+        "Gutman"
+      ],
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "13187-13600",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יוסף רזניק",
+      "english": "Joseph Reznik",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "13613-13905",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יוסף קליינמן",
+      "english": "Jospeh Zalman Kleinman",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "5450-5876",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "ישראל כרמל",
+      "english": "Israel Carmel",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "14886-15229",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מיכאל מוסמאנו",
+      "english": "Judge Michael Musmanno",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "14809-15497"
+    },
+    {
+      "hebrew": "קלמן טיגמן",
+      "english": "Kalman Teigmann",
+      "variants": [
+        "טייגמן",
+        "טיגמן",
+        "Teigmann"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "2589-3192",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "לזלי גורדון",
+      "english": "Lesley Gordon",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "21541-22269",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "20524-20699",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מקס בורגר",
+      "english": "Max Burger",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "6838-7796",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מיכאל פודחלבניק",
+      "english": "Michael Podchlewnik",
+      "variants": [
+        "פאדחלבניק",
+        "פודחלבניק",
+        "Podchlewnik"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "1095-1435",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מרדכי אנסבכר",
+      "english": "Mordechai Ansbacher",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "11617-13239"
+    },
+    {
+      "hebrew": "מרדכי אליעזר גרינשפן",
+      "english": "Mordeichai Eliezer Greenspan",
+      "sourceFile": "Vol1_p114.txt",
+      "sourceLines": "17867-17992",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מרדכי ז'ורבסקי",
+      "english": "Mordeichai Zurawski",
+      "variants": [
+        "ז׳ורבסקי",
+        "זורבסקי",
+        "Zurawski"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "1362-1435",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "מוריץ פליישמן",
+      "english": "Moritz Fleischman",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "2897-3703",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "משה בהיר",
+      "english": "Moshe Bahir",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "14-459",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "משה רוזנברג",
+      "english": "Moshe Rosenberg",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "16763-17148",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "רחל אוורבך",
+      "english": "Rachel Auerbach",
+      "variants": [
+        "אוירבך",
+        "Auerbach"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "17349-17658",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "פרידה מזיא",
+      "english": "Freida Mazia",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "19101-19557",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "ליאנה ניומן",
+      "english": "Leanna Neumann",
+      "testimonyExtracted": true,
+      "variants": [
+        "ניומן",
+        "נוימן",
+        "ליאנה",
+        "ליאונה",
+        "Neumann"
+      ],
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "52-312"
+    },
+    {
+      "hebrew": "ולי צימט",
+      "english": "Vali Zimmet",
+      "variants": [
+        "צימט",
+        "ולי צימט",
+        "Zimmet"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "6692-6837",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "נפתלי בר שלום",
+      "english": "Naftali Bar-Shalom",
+      "variants": [
+        "בר שלום",
+        "בר-שלום",
+        "בּרֿשלום"
+      ],
+      "sourceFile": "Vol1_p114.txt",
+      "sourceLines": "10169-11119",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "נחום הוך",
+      "english": "Nahum Hoch",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "10954-11254",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "19559-20270",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "פיליפ פרוידיגר",
+      "english": "Philippe Freudiger",
+      "variants": [
+        "פנחס פרוידיגר",
+        "פרוידיגר",
+        "פון פרוידיגר"
+      ],
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "17585-19783",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "פרופ' גוסטב גילברט",
+      "english": "Prof. Gustave Gilbert",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "13-1385",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "פרופ' סאלו בארון",
+      "english": "Prof. Salo Baron",
+      "variants": [
+        "ברון",
+        "שלום ברון",
+        "Baron"
+      ],
+      "sourceFile": "Vol1_p114.txt",
+      "sourceLines": "14589-16457",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "רבקה קופר",
+      "english": "Rivka Kupper",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "18212-18536",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "רבקה יוסלבסקה",
+      "english": "Rivka Yoselevska",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "562-950"
+    },
+    {
+      "hebrew": "שלום חולבסקי",
+      "english": "Shalom Chulawski",
+      "variants": [
+        "חולבסקי",
+        "Chulawski"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "15669-15954",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "שמעון סרברניק",
+      "english": "Shimon Servernik",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "1863-2260",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "שמואל הורביץ",
+      "english": "Shmuel Horowitz",
+      "testimonyExtracted": true,
+      "variants": [
+        "הורביץ",
+        "הורוביץ",
+        "Horowitz"
+      ],
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "317-549"
+    },
+    {
+      "hebrew": "ורה אלכסנדר",
+      "english": "Vera Alexander",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "8398-10407",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "ויטסלב דיאמנט",
+      "english": "Witzlaw Diamant",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "6588-6883",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "וורנר דוד מלכיאור",
+      "english": "Werner David Melchior",
+      "testimonyExtracted": true,
+      "variants": [
+        "מלכיאור",
+        "מלכיור",
+        "Melchior"
+      ],
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "8188-8601"
+    },
+    {
+      "hebrew": "יעקב ביסקוביץ",
+      "english": "Yacov Biskowitz",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "460-957",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יעקב פרידמן",
+      "english": "Yacov Friedman",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "17349-17658",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יעקב ויירניק",
+      "english": "Yacov Vernik",
+      "variants": [
+        "ורניק",
+        "וירניק",
+        "Wiernik",
+        "ויירניק"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "2325-2575",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יחיאל די-נור",
+      "english": "Yhiel De-Nur (Ka-Tzetnik)",
+      "alias": "ק. צטניק",
+      "variants": [
+        "דינור",
+        "Dinur"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "5402-5877",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יהודה בקון",
+      "english": "Yehuda Bacon",
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "5878-6840",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יצחק נחמה",
+      "english": "Yitzhak Nehama",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "10408-10692",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יצחק צוקרמן",
+      "english": "Yitzhak Zukermann",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "15320-16331",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יואל ברנד",
+      "english": "Yoel Brand",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "1386-2149",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "זאב ספיר",
+      "english": "Zeev Sapir",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "21172-21503",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "זינדל שמואל גרינשפן",
+      "english": "Zyndel Shmuel Grynszpan",
+      "sourceFile": "Vol1_p114.txt",
+      "sourceLines": "17867-17992",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "צבי פכטר",
+      "english": "Zvi Pachter",
+      "variants": [
+        "פחטר",
+        "הרש פחטר",
+        "Pachter"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "9420-9787",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "צביה לובטקין צוקרמן",
+      "english": "Zivia Lubetkin Zukermann",
+      "variants": [
+        "לובטקין",
+        "גברת לובטקין"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "15320-16292",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "נח זבלודוביץ",
+      "english": "Noach Zabludowicz",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "10142-10726",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' משה בייסקי",
+      "english": "Dr. Moshe Beisky",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "10919-11520",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "דר' יוסף בוז'מינסקי",
+      "english": "Dr. Joseph Buzminsky",
+      "variants": [
+        "בוז׳מינסקי",
+        "בוזמינסקי",
+        "Buzminsky"
+      ],
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "14578-14842",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אסתר שילה",
+      "english": "Ester Shilo",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "14465-14575",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "אהרון זילברמן",
+      "english": "Aharon Zilberman",
+      "testimonyExtracted": true,
+      "sourceFile": "vol1_part3.txt",
+      "sourceLines": "1588-1633"
+    },
+    {
+      "hebrew": "אברהם גורדון",
+      "english": "Avraham Gordon",
+      "sourceFile": "Vol2_p4155.txt",
+      "sourceLines": "21541-22269",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "רעיה קגן",
+      "english": "Raya Cagan",
+      "variants": [
+        "כגן",
+        "קגן",
+        "Cagan"
+      ],
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "8981-10021",
+      "testimonyExtracted": true
+    },
+    {
+      "hebrew": "יעקב גורפיין",
+      "english": "Yacov Gurfein",
+      "sourceFile": "Vol1_p15291.txt",
+      "sourceLines": "9788-10141",
+      "testimonyExtracted": true
+    }
   ],
   "keyFigures": {
     "prosecution": [
-      { "hebrew": "גדעון האוזנר", "english": "Gideon Hausner", "role": "Attorney General / Chief Prosecutor" },
-      { "hebrew": "גבריאל באך", "english": "Gabriel Bach", "role": "Deputy Prosecutor" },
-      { "hebrew": "יעקב בר-אור", "english": "Yaakov Bar-Or", "role": "Prosecutor" }
+      {
+        "hebrew": "גדעון האוזנר",
+        "english": "Gideon Hausner",
+        "role": "Attorney General / Chief Prosecutor"
+      },
+      {
+        "hebrew": "גבריאל באך",
+        "english": "Gabriel Bach",
+        "role": "Deputy Prosecutor"
+      },
+      {
+        "hebrew": "יעקב בר-אור",
+        "english": "Yaakov Bar-Or",
+        "role": "Prosecutor"
+      }
     ],
     "defense": [
-      { "hebrew": "רוברט סרבציוס", "english": "Dr. Robert Servatius", "role": "Defense Attorney", "variants": ["סרבציוס", "ד\"ר סרבציוס", "דר' סרבציוס"] },
-      { "hebrew": "דיטר ולכמות", "english": "Dieter Wechtenbruch", "role": "Defense Assistant" }
+      {
+        "hebrew": "רוברט סרבציוס",
+        "english": "Dr. Robert Servatius",
+        "role": "Defense Attorney",
+        "variants": [
+          "סרבציוס",
+          "ד\"ר סרבציוס",
+          "דר' סרבציוס"
+        ]
+      },
+      {
+        "hebrew": "דיטר ולכמות",
+        "english": "Dieter Wechtenbruch",
+        "role": "Defense Assistant"
+      }
     ],
     "judges": [
-      { "hebrew": "משה לנדאו", "english": "Moshe Landau", "role": "Presiding Judge", "variants": ["אב בית הדין", "השופט לנדאו"] },
-      { "hebrew": "בנימין הלוי", "english": "Benjamin Halevi", "role": "Judge", "variants": ["השופט הלוי"] },
-      { "hebrew": "יצחק רווה", "english": "Yitzhak Raveh", "role": "Judge", "variants": ["השופט רווה"] }
+      {
+        "hebrew": "משה לנדאו",
+        "english": "Moshe Landau",
+        "role": "Presiding Judge",
+        "variants": [
+          "אב בית הדין",
+          "השופט לנדאו"
+        ]
+      },
+      {
+        "hebrew": "בנימין הלוי",
+        "english": "Benjamin Halevi",
+        "role": "Judge",
+        "variants": [
+          "השופט הלוי"
+        ]
+      },
+      {
+        "hebrew": "יצחק רווה",
+        "english": "Yitzhak Raveh",
+        "role": "Judge",
+        "variants": [
+          "השופט רווה"
+        ]
+      }
     ],
     "defendant": [
-      { "hebrew": "אדולף אייכמן", "english": "Adolf Eichmann", "role": "Defendant", "variants": ["אייכמן", "הנאשם"] }
+      {
+        "hebrew": "אדולף אייכמן",
+        "english": "Adolf Eichmann",
+        "role": "Defendant",
+        "variants": [
+          "אייכמן",
+          "הנאשם"
+        ]
+      }
     ]
+  },
+  "extractionSummary": {
+    "total": 108,
+    "extracted": 108,
+    "failed": 0,
+    "complete": true
   }
 }

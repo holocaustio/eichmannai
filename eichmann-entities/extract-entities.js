@@ -14,7 +14,7 @@ const CONFIG = {
   outputFile: path.join(__dirname, 'entities.json'),
   witnessIndexFile: path.join(__dirname, 'witness-index.json'),
   chunkSize: 5000,
-  maxChunks: 50,  // Process more for better coverage
+  maxChunks: 50,
   parallelBatchSize: 5,
 };
 
@@ -35,7 +35,14 @@ async function loadWitnessIndex() {
   KEY_FIGURES = index.keyFigures;
   
   console.log(`Loaded ${WITNESS_INDEX.length} official witnesses`);
-  console.log(`Loaded ${Object.keys(KEY_FIGURES).length} key figure categories`);
+}
+
+// ============================================================================
+// ID GENERATION
+// ============================================================================
+function generateId(name, type) {
+  // Create a URL-safe ID from name
+  return `${type.toLowerCase()}-${name.toLowerCase().replace(/[^a-z0-9א-ת]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '')}`;
 }
 
 // ============================================================================
@@ -43,7 +50,7 @@ async function loadWitnessIndex() {
 // ============================================================================
 function normalizeHebrew(str) {
   return str
-    .replace(/[\u0591-\u05C7]/g, '') // Remove Hebrew diacritics
+    .replace(/[\u0591-\u05C7]/g, '')
     .replace(/["'״׳]/g, '')
     .replace(/\s+/g, ' ')
     .trim();
@@ -51,30 +58,17 @@ function normalizeHebrew(str) {
 
 function matchWitness(name) {
   const normalized = normalizeHebrew(name);
-  
-  // Remove common prefixes
-  const cleanName = normalized
-    .replace(/^(העד|מר|גברת|ד"ר|דר'|פרופ')\s*/i, '')
-    .trim();
+  const cleanName = normalized.replace(/^(העד|מר|גברת|ד"ר|דר'|פרופ')\s*/i, '').trim();
   
   for (const witness of WITNESS_INDEX) {
     const witnessNorm = normalizeHebrew(witness.hebrew);
     
-    // Exact match
-    if (cleanName === witnessNorm) {
-      return witness;
-    }
+    if (cleanName === witnessNorm) return witness;
     
-    // Last name match (for partial references like "בהיר" -> "משה בהיר")
     const witnessLastName = witnessNorm.split(' ').pop();
-    if (cleanName === witnessLastName && witnessLastName.length > 2) {
-      return witness;
-    }
+    if (cleanName === witnessLastName && witnessLastName.length > 2) return witness;
     
-    // Contains full name
-    if (cleanName.includes(witnessNorm) || witnessNorm.includes(cleanName)) {
-      return witness;
-    }
+    if (cleanName.includes(witnessNorm) || witnessNorm.includes(cleanName)) return witness;
   }
   
   return null;
@@ -107,7 +101,7 @@ function matchKeyFigure(name) {
 function chunkText(text, chunkSize) {
   const lines = text.split('\n');
   const chunks = [];
-  const sessions = new Map(); // Track session info
+  const sessions = new Map();
   
   let currentChunk = '';
   let chunkStartLine = 1;
@@ -128,7 +122,6 @@ function chunkText(text, chunkSize) {
       currentSession = sessionNum;
     }
     
-    // Update session end line
     if (currentSession && sessions.has(currentSession)) {
       sessions.get(currentSession).lineEnd = currentLine;
     }
@@ -174,21 +167,15 @@ async function extractEntitiesFromChunk(chunk, fileName) {
           content: `Extract entities from this Eichmann trial transcript.
 
 Entity types:
-- PERSON: People mentioned (witnesses, officials, historical figures)
+- PERSON: People mentioned
 - LOCATION: Places (countries, cities, camps, ghettos)
-- ORGANIZATION: Groups (SS, Gestapo, agencies, institutions)
-- EVENT: Significant events mentioned
-- DATE: Specific dates mentioned
+- ORGANIZATION: Groups (SS, Gestapo, agencies)
+- EVENT: Significant events
+- DATE: Specific dates
 
-For each PERSON, identify their role if apparent:
-- witness (if testifying)
-- prosecutor (היועץ המשפטי, בר-אור, האוזנר)
-- defense (סרבציוס, the defense attorney)
-- judge (אב בית הדין, השופט)
-- defendant (אייכמן, הנאשם)
-- mentioned (someone talked about in testimony)
+For PERSON, identify role: witness, prosecutor, defense, judge, defendant, mentioned
 
-Extract 15-25 entities. Include Hebrew names as they appear.`
+Extract 15-25 entities with Hebrew names as they appear.`
         },
         {
           role: 'user',
@@ -227,7 +214,6 @@ Extract 15-25 entities. Include Hebrew names as they appear.`
     
     const result = JSON.parse(response.choices[0].message.content);
     
-    // Process each entity - validate witnesses and key figures
     const processedEntities = [];
     
     for (const entity of result.entities || []) {
@@ -241,19 +227,16 @@ Extract 15-25 entities. Include Hebrew names as they appear.`
         }
       };
       
-      // If it's a person, check against official witness list and key figures
       if (entity.type === 'PERSON') {
         const witnessMatch = matchWitness(entity.name);
         const keyFigureMatch = matchKeyFigure(entity.name);
         
         if (witnessMatch) {
-          // It's an official witness
           processedEntity.isWitness = true;
           processedEntity.officialName = witnessMatch.english;
           processedEntity.officialHebrew = witnessMatch.hebrew;
           processedEntity.role = 'witness';
         } else if (keyFigureMatch) {
-          // It's a key figure (judge, prosecutor, defense, defendant)
           processedEntity.isWitness = false;
           processedEntity.officialName = keyFigureMatch.english;
           processedEntity.officialHebrew = keyFigureMatch.hebrew;
@@ -273,92 +256,125 @@ Extract 15-25 entities. Include Hebrew names as they appear.`
 }
 
 // ============================================================================
-// CONSOLIDATION
+// BUILD GRAPH STRUCTURE
 // ============================================================================
-function consolidateEntities(rawEntities, sessions) {
-  const entityMap = new Map();
-  const sessionEntityMap = new Map(); // Track entities per session
+function buildGraph(rawEntities, sessions) {
+  const nodeMap = new Map();
+  const edgeMap = new Map();
+  const chunkEntities = new Map(); // Track entities per chunk for edge building
   
-  // Initialize session tracking
-  for (const session of sessions) {
-    sessionEntityMap.set(session.number, {
-      witnesses: new Set(),
-      persons: new Set(),
-      locations: new Set(),
-      organizations: new Set()
-    });
-  }
-  
+  // First pass: build nodes and track chunk co-occurrences
   for (const entity of rawEntities) {
-    // Determine canonical name
-    let canonicalName = entity.officialName || entity.name;
-    let canonicalHebrew = entity.officialHebrew || entity.name;
+    const canonicalName = entity.officialName || entity.name;
+    const canonicalHebrew = entity.officialHebrew || entity.name;
+    const id = generateId(canonicalName, entity.type);
     
-    const key = `${entity.type}:${canonicalName}`;
+    // Track entities per chunk for edge building
+    const chunkKey = `${entity.source.file}:${entity.source.lineStart}`;
+    if (!chunkEntities.has(chunkKey)) {
+      chunkEntities.set(chunkKey, { entities: new Set(), session: entity.source.session });
+    }
+    chunkEntities.get(chunkKey).entities.add(id);
     
-    if (!entityMap.has(key)) {
-      entityMap.set(key, {
+    // Build/update node
+    if (!nodeMap.has(id)) {
+      nodeMap.set(id, {
+        id: id,
         name: canonicalName,
         hebrewName: canonicalHebrew,
         type: entity.type,
-        role: entity.role,
+        role: entity.role || null,
         isWitness: entity.isWitness || false,
         category: entity.category || null,
         variants: new Set([entity.name]),
         contexts: [],
         sessions: new Set(),
+        mentions: 0,
         sources: []
       });
     }
     
-    const consolidated = entityMap.get(key);
-    consolidated.variants.add(entity.name);
-    if (entity.context) consolidated.contexts.push(entity.context);
-    if (entity.source.session) consolidated.sessions.add(entity.source.session);
-    consolidated.sources.push(entity.source);
+    const node = nodeMap.get(id);
+    node.variants.add(entity.name);
+    if (canonicalHebrew !== canonicalName) node.variants.add(canonicalHebrew);
+    if (entity.context) node.contexts.push(entity.context);
+    if (entity.source.session) node.sessions.add(entity.source.session);
+    node.mentions++;
+    node.sources.push(entity.source);
+  }
+  
+  // Second pass: build edges from co-occurrences
+  for (const [chunkKey, chunkData] of chunkEntities) {
+    const entityIds = Array.from(chunkData.entities);
+    const session = chunkData.session;
     
-    // Track in session map
-    if (entity.source.session && sessionEntityMap.has(entity.source.session)) {
-      const sessionData = sessionEntityMap.get(entity.source.session);
-      if (entity.isWitness) {
-        sessionData.witnesses.add(canonicalName);
-      } else if (entity.type === 'PERSON') {
-        sessionData.persons.add(canonicalName);
-      } else if (entity.type === 'LOCATION') {
-        sessionData.locations.add(canonicalName);
-      } else if (entity.type === 'ORGANIZATION') {
-        sessionData.organizations.add(canonicalName);
+    // Create edges between all pairs of entities in the same chunk
+    for (let i = 0; i < entityIds.length; i++) {
+      for (let j = i + 1; j < entityIds.length; j++) {
+        const [source, target] = [entityIds[i], entityIds[j]].sort();
+        const edgeKey = `${source}|${target}`;
+        
+        if (!edgeMap.has(edgeKey)) {
+          edgeMap.set(edgeKey, {
+            source: source,
+            target: target,
+            weight: 0,
+            sessions: new Set()
+          });
+        }
+        
+        const edge = edgeMap.get(edgeKey);
+        edge.weight++;
+        if (session) edge.sessions.add(session);
       }
     }
   }
   
-  // Convert Sets to Arrays and finalize
-  const entities = Array.from(entityMap.values()).map(e => ({
-    ...e,
-    variants: Array.from(e.variants),
-    sessions: Array.from(e.sessions).sort((a, b) => a - b),
-    contexts: [...new Set(e.contexts)].slice(0, 5),
-    mentions: e.sources.length
+  // Convert to arrays and finalize
+  const nodes = Array.from(nodeMap.values()).map(node => ({
+    ...node,
+    variants: Array.from(node.variants),
+    sessions: Array.from(node.sessions).sort((a, b) => a - b),
+    contexts: [...new Set(node.contexts)].slice(0, 5)
   }));
   
-  // Build session entities
-  const sessionEntities = sessions.map(session => {
-    const data = sessionEntityMap.get(session.number) || { witnesses: new Set(), persons: new Set(), locations: new Set(), organizations: new Set() };
+  const edges = Array.from(edgeMap.values()).map(edge => ({
+    ...edge,
+    sessions: Array.from(edge.sessions).sort((a, b) => a - b)
+  }));
+  
+  // Build session nodes
+  const sessionNodes = sessions.map(session => {
+    // Find all entity IDs in this session
+    const sessionEntityIds = new Set();
+    for (const node of nodes) {
+      if (node.sessions.includes(session.number)) {
+        sessionEntityIds.add(node.id);
+      }
+    }
+    
+    const witnesses = nodes.filter(n => n.isWitness && n.sessions.includes(session.number)).map(n => n.id);
+    const locations = nodes.filter(n => n.type === 'LOCATION' && n.sessions.includes(session.number)).map(n => n.id);
+    const organizations = nodes.filter(n => n.type === 'ORGANIZATION' && n.sessions.includes(session.number)).map(n => n.id);
+    const persons = nodes.filter(n => n.type === 'PERSON' && !n.isWitness && n.sessions.includes(session.number)).map(n => n.id);
+    
     return {
+      id: `session-${session.number}`,
       name: `Session ${session.number}`,
       hebrewName: `ישיבה ${session.number}`,
       type: 'SESSION',
       number: session.number,
       lineStart: session.lineStart,
       lineEnd: session.lineEnd,
-      witnesses: Array.from(data.witnesses),
-      persons: Array.from(data.persons),
-      locations: Array.from(data.locations),
-      organizations: Array.from(data.organizations)
+      entityCount: sessionEntityIds.size,
+      witnessIds: witnesses,
+      locationIds: locations,
+      organizationIds: organizations,
+      personIds: persons
     };
   });
   
-  return { entities, sessionEntities };
+  return { nodes, edges, sessions: sessionNodes };
 }
 
 // ============================================================================
@@ -397,68 +413,66 @@ async function main() {
   const startTime = Date.now();
   
   console.log('═'.repeat(50));
-  console.log('ENTITY EXTRACTOR v3 (With Witness Validation)');
+  console.log('ENTITY EXTRACTOR v4 (Graph Structure)');
   console.log('═'.repeat(50));
   
-  // Load witness index
   await loadWitnessIndex();
   
-  // Read file
   const fileName = path.basename(CONFIG.inputFile);
   console.log(`\nFile: ${fileName}`);
   const text = await fs.readFile(CONFIG.inputFile, 'utf-8');
   console.log(`Size: ${(text.length / 1024).toFixed(0)} KB`);
   
-  // Chunk with session tracking
   const { chunks: allChunks, sessions } = chunkText(text, CONFIG.chunkSize);
   const chunks = allChunks.slice(0, CONFIG.maxChunks);
   console.log(`Chunks: ${chunks.length} of ${allChunks.length}`);
-  console.log(`Sessions found: ${sessions.map(s => s.number).join(', ')}`);
+  console.log(`Sessions: ${sessions.map(s => s.number).join(', ')}`);
   
-  // Extract
   console.log('\n─ Extracting entities ─');
   const rawEntities = await processChunksInParallel(chunks, fileName, CONFIG.parallelBatchSize);
   console.log(`\nTotal raw: ${rawEntities.length}`);
   
-  // Consolidate
-  console.log('\n─ Consolidating ─');
-  const { entities, sessionEntities } = consolidateEntities(rawEntities, sessions);
+  console.log('\n─ Building graph ─');
+  const graph = buildGraph(rawEntities, sessions);
   
-  // Separate witnesses from other entities
-  const witnesses = entities.filter(e => e.isWitness);
-  const otherEntities = entities.filter(e => !e.isWitness);
+  // Separate witnesses for easy access
+  const witnessNodes = graph.nodes.filter(n => n.isWitness);
+  const otherNodes = graph.nodes.filter(n => !n.isWitness);
   
-  console.log(`\nWitnesses (validated): ${witnesses.length}`);
-  console.log(`Other entities: ${otherEntities.length}`);
-  console.log(`Sessions: ${sessionEntities.length}`);
+  console.log(`\nNodes: ${graph.nodes.length}`);
+  console.log(`  - Witnesses: ${witnessNodes.length}`);
+  console.log(`  - Other: ${otherNodes.length}`);
+  console.log(`Edges: ${graph.edges.length}`);
+  console.log(`Sessions: ${graph.sessions.length}`);
   
-  // Show validated witnesses
+  // Show witnesses
   console.log('\n─ Validated Witnesses ─');
-  witnesses.forEach(w => {
-    console.log(`  - ${w.name} (${w.hebrewName}) - Sessions: ${w.sessions.join(', ')}`);
+  witnessNodes.slice(0, 10).forEach(w => {
+    console.log(`  - ${w.name} (${w.hebrewName}) [${w.id}]`);
+  });
+  if (witnessNodes.length > 10) {
+    console.log(`  ... and ${witnessNodes.length - 10} more`);
+  }
+  
+  // Show top edges
+  console.log('\n─ Top Connections ─');
+  graph.edges.sort((a, b) => b.weight - a.weight).slice(0, 10).forEach(e => {
+    console.log(`  ${e.source} <-> ${e.target} (weight: ${e.weight})`);
   });
   
-  // Show sessions with their witnesses
-  console.log('\n─ Sessions ─');
-  sessionEntities.forEach(s => {
-    console.log(`  Session ${s.number}: ${s.witnesses.length} witnesses, ${s.locations.length} locations`);
-    if (s.witnesses.length > 0) {
-      console.log(`    Witnesses: ${s.witnesses.join(', ')}`);
-    }
-  });
-  
-  // Save
+  // Build final output
   const output = {
     metadata: {
       file: fileName,
       generatedAt: new Date().toISOString(),
       chunksProcessed: chunks.length,
-      totalEntities: entities.length,
-      validatedWitnesses: witnesses.length
+      totalNodes: graph.nodes.length,
+      totalEdges: graph.edges.length,
+      validatedWitnesses: witnessNodes.length
     },
-    witnesses: witnesses.sort((a, b) => a.name.localeCompare(b.name)),
-    sessions: sessionEntities.sort((a, b) => a.number - b.number),
-    entities: otherEntities.sort((a, b) => b.mentions - a.mentions)
+    nodes: graph.nodes.sort((a, b) => b.mentions - a.mentions),
+    edges: graph.edges.sort((a, b) => b.weight - a.weight),
+    sessions: graph.sessions.sort((a, b) => a.number - b.number)
   };
   
   await fs.writeFile(CONFIG.outputFile, JSON.stringify(output, null, 2), 'utf-8');
