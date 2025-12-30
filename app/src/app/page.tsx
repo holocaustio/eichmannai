@@ -24,14 +24,8 @@ interface EntitiesData {
   };
 }
 
-interface GraphData {
-  nodes: Array<{ id: string; type: string }>;
-  edges: Array<{ source: string; target: string }>;
-}
-
 export default function Home() {
   const [scrollY, setScrollY] = useState(0);
-  const [stats, setStats] = useState<EntitiesData['metadata'] | null>(null);
   const [graphStats, setGraphStats] = useState<{ entities: number; connections: number } | null>(null);
 
   useEffect(() => {
@@ -46,7 +40,6 @@ export default function Home() {
         const consolidatedRes = await fetch('/data/entities-consolidated.json');
         const data: EntitiesData & { metadata: { totalNodes: number; totalEdges: number; witnesses: number } } = await consolidatedRes.json();
         
-        setStats(data.metadata);
         setGraphStats({
           entities: data.metadata.totalNodes,
           connections: data.metadata.totalEdges
@@ -72,6 +65,13 @@ export default function Home() {
         />
         {/* Dark Overlay */}
         <div className="absolute inset-0 bg-stone-950/70" />
+        {/* Inner Shadow / Vignette */}
+        <div 
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background: 'radial-gradient(ellipse at center, rgba(12,10,8,0) 0%, rgba(12,10,8,0.3) 50%, rgba(12,10,8,1) 100%)'
+          }}
+        />
         
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <p className="text-stone-400 text-sm tracking-[0.3em] uppercase mb-8 font-light">
@@ -98,43 +98,6 @@ export default function Home() {
           
         </div>
         
-      </section>
-
-      {/* Project Stats Section */}
-      <section className="py-20 px-6 bg-stone-900/50 border-y border-stone-800">
-        <div className="max-w-7xl mx-auto">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4 text-center">The Archive</p>
-          <h2 className="font-serif text-3xl md:text-4xl font-light mb-12 text-center">
-            What We Built
-          </h2>
-          
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">108</p>
-              <p className="text-stone-500 text-sm">Testimonies</p>
-            </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">121</p>
-              <p className="text-stone-500 text-sm">Court Sessions</p>
-            </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">25K+</p>
-              <p className="text-stone-500 text-sm">Pages Processed</p>
-            </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">50M+</p>
-              <p className="text-stone-500 text-sm">Characters</p>
-            </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">{graphStats?.entities || '134'}</p>
-              <p className="text-stone-500 text-sm">Entities</p>
-            </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/30">
-              <p className="font-serif text-3xl md:text-4xl text-stone-200 mb-2">{graphStats?.connections || '908'}</p>
-              <p className="text-stone-500 text-sm">Connections</p>
-            </div>
-          </div>
-        </div>
       </section>
 
       {/* Before the Trial */}
@@ -181,14 +144,20 @@ export default function Home() {
             </p>
             
             <p>
-              Survivors were invited to speak at length. Testimony became central evidence. The world listened in real time.
+              More than one hundred witnesses testified before the court. Their testimonies addressed 
+              events across ghettos, deportations, camps, and daily life under Nazi rule.
+            </p>
+            
+            <p>
+              The trial placed survivor testimony at the center of a major criminal proceeding, 
+              presented publicly and recorded in full. The world listened in real time.
             </p>
           </div>
           
           {/* Statistics */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 border-t border-stone-800 pt-16">
             <div className="text-center">
-              <p className="font-serif text-4xl md:text-5xl text-stone-200 mb-2">110</p>
+              <p className="font-serif text-4xl md:text-5xl text-stone-200 mb-2">110+</p>
               <p className="text-stone-500 text-sm tracking-wide">Witnesses</p>
             </div>
             <div className="text-center">
@@ -200,8 +169,8 @@ export default function Home() {
               <p className="text-stone-500 text-sm tracking-wide">Hours</p>
             </div>
             <div className="text-center">
-              <p className="font-serif text-4xl md:text-5xl text-stone-200 mb-2">3,564</p>
-              <p className="text-stone-500 text-sm tracking-wide">Pages</p>
+              <p className="font-serif text-4xl md:text-5xl text-stone-200 mb-2">75</p>
+              <p className="text-stone-500 text-sm tracking-wide">Volumes</p>
             </div>
           </div>
         </div>
@@ -261,28 +230,31 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Technology Section */}
+      {/* The Digital Archive */}
       <section className="py-32 px-6 border-t border-stone-900">
         <div className="max-w-3xl mx-auto">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-6">Preservation</p>
+          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-6">The Digital Archive</p>
           
           <h2 className="font-serif text-3xl md:text-5xl font-light mb-16 leading-tight">
-            Why This Experience Exists Now
+            Preserving What Was Spoken
           </h2>
           
           <div className="space-y-8 text-stone-400 text-lg leading-relaxed font-light mb-12">
             <p>
-              Technology does not replace memory. It protects and connects it.
+              This archive brings together trial transcripts, witness testimony, and supporting materials 
+              from the 1961 proceedings—making them accessible through modern digital tools.
             </p>
             
             <p>
-              Testimonies were recorded using the technology of their time. Today&apos;s tools allow voices to remain accessible. AI here does not speak for witnesses—it helps understand them.
+              Technology does not replace memory. It protects and connects it. AI here does not speak 
+              for witnesses—it helps understand them.
             </p>
           </div>
           
           <div className="bg-stone-900/50 border border-stone-800 p-8">
             <p className="text-stone-300 text-base leading-relaxed">
-              This experience uses technology to preserve, connect, and contextualize testimony—not to reinterpret it.
+              Primary sources remain central. Digital tools support access, navigation, and comprehension—not 
+              interpretation or dramatization.
             </p>
           </div>
         </div>
@@ -346,7 +318,7 @@ export default function Home() {
       <footer className="py-16 px-6 border-t border-stone-900">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-center md:text-left">
-            <p className="text-stone-500 text-sm">The Eichmann Trial Archive</p>
+            <p className="text-stone-500 text-sm">The Eichmann Trial Digital Archive</p>
             <p className="text-stone-600 text-xs mt-1">Preserving testimony for future generations</p>
           </div>
           

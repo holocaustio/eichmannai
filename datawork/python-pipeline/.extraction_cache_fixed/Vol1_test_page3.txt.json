@@ -1,0 +1,146 @@
+{
+  "file": "Vol1_test_page3.txt",
+  "lines": 105,
+  "sessionBoundaries": [],
+  "sessionNumbers": [],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        27,
+        66
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "בנו כהן": {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "isWitness": true,
+      "mentions": [
+        31,
+        44,
+        89,
+        92,
+        94,
+        99,
+        103
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "הנריק רוס": {
+      "hebrew": "הנריק רוס",
+      "english": "Henryk Ross",
+      "isWitness": true,
+      "mentions": [
+        26
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        50
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page3.txt"
+    }
+  },
+  "key_figures": {
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        30,
+        88,
+        93,
+        98
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        3
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    }
+  },
+  "locations": {
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        9,
+        20,
+        23
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        16,
+        17,
+        43,
+        45,
+        46,
+        53,
+        54,
+        64,
+        84
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "Poland": {
+      "hebrew": "פולין",
+      "english": "Poland",
+      "category": "country",
+      "mentions": [
+        44,
+        45
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        17,
+        69,
+        77,
+        93
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page3.txt"
+    }
+  },
+  "organizations": {},
+  "events": {}
+}

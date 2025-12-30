@@ -59,7 +59,6 @@ section {
 /* Hebrew text support */
 [lang="he"] {
   direction: rtl;
-  font-family: 'David Libre', 'Frank Ruhl Libre', serif;
 }
 
 /* Blockquote styling */

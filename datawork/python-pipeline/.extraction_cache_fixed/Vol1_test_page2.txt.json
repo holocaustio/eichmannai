@@ -1,0 +1,141 @@
+{
+  "file": "Vol1_test_page2.txt",
+  "lines": 108,
+  "sessionBoundaries": [
+    {
+      "number": 15,
+      "lineStart": 0,
+      "lineEnd": 107
+    }
+  ],
+  "sessionNumbers": [
+    15
+  ],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        1,
+        12,
+        17
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    },
+    "בנו כהן": {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "isWitness": true,
+      "mentions": [
+        5,
+        34,
+        45,
+        78,
+        84,
+        88,
+        90,
+        100
+      ],
+      "testimonySessions": [
+        15
+      ],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    }
+  },
+  "key_figures": {
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        42,
+        67,
+        74,
+        75,
+        80
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    },
+    "בנימין הלוי": {
+      "hebrew": "בנימין הלוי",
+      "english": "Benjamin Halevi",
+      "role": "Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        81
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        22
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    }
+  },
+  "locations": {
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        84
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        60
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        52
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page2.txt"
+    }
+  },
+  "organizations": {},
+  "events": {}
+}

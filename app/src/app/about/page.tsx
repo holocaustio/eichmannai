@@ -1,294 +1,310 @@
+import Link from 'next/link';
+
 export default function AboutPage() {
   return (
     <main className="min-h-screen">
       {/* Hero */}
       <section className="py-20 px-6 border-b border-stone-900">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">About This Project</p>
+          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">About This Archive</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
-            Building a Digital Archive
+            When Survivors Became Witnesses
           </h1>
-          <p className="text-stone-400 text-lg max-w-2xl mx-auto">
-            The journey of creating a searchable archive of all 108 witness testimonies 
-            from the Adolf Eichmann trial (1961).
+          <p className="text-stone-400 text-lg max-w-3xl mx-auto leading-relaxed">
+            The Eichmann Trial placed Holocaust testimony at the center of a public proceeding 
+            for the first time. This archive preserves that moment.
           </p>
         </div>
       </section>
 
-      {/* Mission */}
+      {/* A Personal Note */}
+      <section className="py-20 px-6 border-b border-stone-900 bg-gradient-to-b from-stone-900/50 to-stone-950">
+        <div className="max-w-2xl mx-auto">
+          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-6 text-center">Why I Built This</p>
+          
+          <div className="space-y-6 text-stone-400 text-lg leading-relaxed font-light">
+            <p>
+              My name is Alon Carmel.
+            </p>
+            
+            <p>
+              My grandfather, <span className="text-stone-200">Israel Carmel</span>, was one of the witnesses 
+              who testified at the Eichmann Trial. He stood in that courtroom in Jerusalem in 1961 and 
+              spoke about what he saw, what he survived, what he carried with him.
+            </p>
+            
+            <p>
+              Growing up, I heard fragments of his story. Some at family gatherings. Some in the silences 
+              between words. But it wasn&apos;t until I began reading the trial transcripts that I truly heard 
+              his voice, and the voices of over a hundred others who testified alongside him.
+            </p>
+            
+            <p>
+              I built this project because I believe these voices deserve to be heard. Not summarized. 
+              Not simplified. But preserved, accessible, and honored for what they are: the testimony 
+              of those who witnessed history&apos;s darkest chapter and chose to speak.
+            </p>
+            
+            <p>
+              This archive is my way of ensuring that my grandfather&apos;s testimony, and the testimonies 
+              of all who stood in that courtroom, remain alive for future generations.
+            </p>
+            
+            <p className="text-stone-300 italic pt-4">
+              For my grandfather. For all the witnesses. And for everyone who will listen.
+            </p>
+            
+            <p className="text-stone-500 text-base pt-6">
+              Alon Carmel
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* The Significance */}
       <section className="py-16 px-6 border-b border-stone-900">
         <div className="max-w-3xl mx-auto">
-          <h2 className="font-serif text-3xl font-light mb-8">Our Mission</h2>
+          <h2 className="font-serif text-3xl font-light mb-8">A Turning Point</h2>
           <div className="space-y-6 text-stone-400 text-lg leading-relaxed">
             <p>
-              The Eichmann trial was groundbreaking—the first trial broadcast globally on television, 
-              where 108 Holocaust survivors testified publicly across 121 court sessions.
+              Before Jerusalem, the Holocaust was documented through Nazi records and official proceedings. 
+              Survivors carried their memories privately. Public testimony was rare.
             </p>
             <p>
-              The trial transcripts exist primarily as scanned PDFs in Hebrew, spread across multiple 
-              volumes totaling over 25,000 pages. No structured, searchable database of individual 
-              testimonies existed.
+              The Eichmann Trial changed this. More than one hundred witnesses testified before the court. 
+              Their testimonies addressed events across ghettos, deportations, camps, and daily life under 
+              Nazi rule—stories that had never been told in a public forum.
             </p>
             <p>
-              Our mission was to extract, structure, and present each of the 108 witness testimonies 
-              in a modern, accessible web interface—preserving the voices of survivors for future generations.
+              The trial placed survivor testimony at the center of a major criminal proceeding, presented 
+              publicly and broadcast to the world. It marked a shift in how the Holocaust would be remembered: 
+              not only through documents, but through voices.
             </p>
           </div>
         </div>
       </section>
 
-      {/* The Journey */}
+      {/* The Record */}
       <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="font-serif text-3xl font-light mb-12 text-center">The Journey</h2>
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-serif text-3xl font-light mb-8">The Historical Record</h2>
+          <div className="space-y-6 text-stone-400 text-lg leading-relaxed mb-12">
+            <p>
+              The proceedings extended over several months and generated one of the most comprehensive 
+              trial records related to the Holocaust.
+            </p>
+          </div>
           
-          <div className="space-y-12">
-            {/* Phase 1 */}
-            <div className="flex gap-6">
-              <div className="flex-shrink-0 w-12 h-12 border border-stone-700 flex items-center justify-center text-stone-400 font-serif text-xl">
-                1
-              </div>
-              <div>
-                <h3 className="text-xl text-stone-200 mb-3">Data Acquisition</h3>
-                <p className="text-stone-400 leading-relaxed">
-                  We began by identifying and downloading the trial materials from Yad Vashem&apos;s 
-                  digital archives and the Israel State Archives. This involved web scraping PDFs 
-                  hosted on government archive servers—multiple volumes (Vol 1-4) covering all 121 
-                  sessions, with files ranging from 50MB to 200MB each.
-                </p>
-              </div>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
+              <p className="font-serif text-4xl text-stone-200 mb-2">110+</p>
+              <p className="text-stone-500 text-sm">Witnesses</p>
             </div>
-
-            {/* Phase 2 */}
-            <div className="flex gap-6">
-              <div className="flex-shrink-0 w-12 h-12 border border-stone-700 flex items-center justify-center text-stone-400 font-serif text-xl">
-                2
-              </div>
-              <div>
-                <h3 className="text-xl text-stone-200 mb-3">The OCR Challenge</h3>
-                <p className="text-stone-400 leading-relaxed mb-4">
-                  The trial transcripts presented unique challenges: scanned documents (not native digital text), 
-                  Hebrew text (right-to-left with complex typography), multi-column layouts, mixed content 
-                  (Hebrew, English, German), and varying quality.
-                </p>
-                <p className="text-stone-400 leading-relaxed">
-                  We tried multiple OCR approaches—Tesseract OCR, Adobe Acrobat, Google Cloud Vision API, 
-                  and Google Document AI. Each had limitations: poor Hebrew recognition, column text merged 
-                  incorrectly, or prohibitive costs at scale.
-                </p>
-              </div>
+            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
+              <p className="font-serif text-4xl text-stone-200 mb-2">121</p>
+              <p className="text-stone-500 text-sm">Sessions</p>
             </div>
-
-            {/* Phase 3 */}
-            <div className="flex gap-6">
-              <div className="flex-shrink-0 w-12 h-12 border border-amber-700 flex items-center justify-center text-amber-400 font-serif text-xl">
-                3
-              </div>
-              <div>
-                <h3 className="text-xl text-stone-200 mb-3">The Breakthrough</h3>
-                <p className="text-stone-400 leading-relaxed">
-                  After multiple failed OCR attempts, we discovered something crucial: 
-                  <span className="text-amber-400"> the PDFs already contained embedded text!</span> The 
-                  scanned documents had been OCR&apos;d at some point and the text was embedded as a hidden 
-                  layer. A simple <code className="bg-stone-800 px-2 py-0.5 text-stone-300">pdftotext</code> command 
-                  extracted clean, properly ordered Hebrew text in seconds—what would have cost thousands 
-                  of dollars and taken weeks with commercial OCR.
-                </p>
-              </div>
+            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
+              <p className="font-serif text-4xl text-stone-200 mb-2">75</p>
+              <p className="text-stone-500 text-sm">Volumes</p>
             </div>
-
-            {/* Phase 4 */}
-            <div className="flex gap-6">
-              <div className="flex-shrink-0 w-12 h-12 border border-stone-700 flex items-center justify-center text-stone-400 font-serif text-xl">
-                4
-              </div>
-              <div>
-                <h3 className="text-xl text-stone-200 mb-3">Entity Extraction</h3>
-                <p className="text-stone-400 leading-relaxed">
-                  We built a hybrid AI pipeline to extract and classify all entities mentioned in the trial: 
-                  witnesses, persons (Nazi officials, victims, relatives), locations (camps, ghettos, cities), 
-                  organizations (SS, Gestapo, Jewish councils), and documents. We combined DictaBERT 
-                  (a Hebrew BERT NER model) for initial entity detection with OpenAI GPT-4 for consolidation 
-                  and relationship mapping.
-                </p>
-              </div>
-            </div>
-
-            {/* Phase 5 */}
-            <div className="flex gap-6">
-              <div className="flex-shrink-0 w-12 h-12 border border-stone-700 flex items-center justify-center text-stone-400 font-serif text-xl">
-                5
-              </div>
-              <div>
-                <h3 className="text-xl text-stone-200 mb-3">Testimony Extraction</h3>
-                <p className="text-stone-400 leading-relaxed">
-                  The core challenge: extract exactly one witness&apos;s testimony—starting when they are 
-                  sworn in and ending when dismissed by the judge—without including the next witness. 
-                  We built boundary detection algorithms using Hebrew text patterns, created a comprehensive 
-                  witness index from Yad Vashem&apos;s official list, and handled edge cases like multi-session 
-                  testimonies and overlapping content.
-                </p>
-              </div>
+            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
+              <p className="font-serif text-4xl text-stone-200 mb-2">1000s</p>
+              <p className="text-stone-500 text-sm">Pages</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Challenges */}
+      {/* This Archive */}
       <section className="py-16 px-6 border-b border-stone-900">
         <div className="max-w-3xl mx-auto">
-          <h2 className="font-serif text-3xl font-light mb-8">Technical Challenges</h2>
-          
-          <div className="grid gap-6">
-            <div className="border border-stone-800 p-6">
-              <h3 className="text-stone-200 font-medium mb-2">Hebrew Text Direction</h3>
-              <p className="text-stone-500 text-sm">
-                Mixed left-to-right and right-to-left content caused display issues. 
-                Required explicit directional attributes and Unicode normalization.
-              </p>
-            </div>
-            
-            <div className="border border-stone-800 p-6">
-              <h3 className="text-stone-200 font-medium mb-2">Name Variant Matching</h3>
-              <p className="text-stone-500 text-sm">
-                The same witness might appear with 5+ spelling variations (Hebrew, English, 
-                transliterations). Required comprehensive variant lists with fuzzy matching.
-              </p>
-            </div>
-            
-            <div className="border border-stone-800 p-6">
-              <h3 className="text-stone-200 font-medium mb-2">Large File Processing</h3>
-              <p className="text-stone-500 text-sm">
-                100,000+ lines of text caused memory issues. Solved with streaming 
-                processing and chunking.
-              </p>
-            </div>
-            
-            <div className="border border-stone-800 p-6">
-              <h3 className="text-stone-200 font-medium mb-2">Unicode Control Characters</h3>
-              <p className="text-stone-500 text-sm">
-                Invisible directional markers and bracket reversals required careful 
-                handling and cleanup.
-              </p>
-            </div>
+          <h2 className="font-serif text-3xl font-light mb-8">This Digital Archive</h2>
+          <div className="space-y-6 text-stone-400 text-lg leading-relaxed">
+            <p>
+              This archive brings together trial transcripts, witness testimony, legal proceedings, 
+              and supporting materials, and makes them accessible through a structured digital experience.
+            </p>
+            <p>
+              The goal is to allow visitors to observe, study, and understand the trial as it unfolded—and 
+              through it, to hear the voices of those who testified.
+            </p>
+            <p className="text-stone-300 border-l-2 border-stone-700 pl-6 py-2 italic">
+              Primary sources remain central. Digital tools support access, navigation, and comprehension.
+            </p>
           </div>
         </div>
       </section>
 
-      {/* Results */}
+      {/* What's Included */}
       <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="font-serif text-3xl font-light mb-12 text-center">Results</h2>
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-serif text-3xl font-light mb-8">What the Archive Includes</h2>
           
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
-              <p className="font-serif text-4xl text-emerald-400 mb-2">108</p>
-              <p className="text-stone-500 text-sm">Testimonies Extracted</p>
-              <p className="text-emerald-600 text-xs mt-1">100% success rate</p>
+          <div className="grid gap-4">
+            <div className="flex gap-4 items-start p-4 border border-stone-800 bg-stone-900/20">
+              <span className="text-amber-500 mt-1">•</span>
+              <p className="text-stone-400">Full trial transcripts across all 75 volumes</p>
             </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
-              <p className="font-serif text-4xl text-stone-200 mb-2">25K+</p>
-              <p className="text-stone-500 text-sm">Pages Processed</p>
+            <div className="flex gap-4 items-start p-4 border border-stone-800 bg-stone-900/20">
+              <span className="text-amber-500 mt-1">•</span>
+              <p className="text-stone-400">Testimony from over 110 witnesses</p>
             </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
-              <p className="font-serif text-4xl text-stone-200 mb-2">50M+</p>
-              <p className="text-stone-500 text-sm">Characters</p>
+            <div className="flex gap-4 items-start p-4 border border-stone-800 bg-stone-900/20">
+              <span className="text-amber-500 mt-1">•</span>
+              <p className="text-stone-400">Structured witness profiles with biographical and contextual information</p>
             </div>
-            <div className="text-center p-6 border border-stone-800 bg-stone-900/50">
-              <p className="font-serif text-4xl text-stone-200 mb-2">~$50</p>
-              <p className="text-stone-500 text-sm">Total Cost</p>
-              <p className="text-stone-600 text-xs mt-1">vs. $1,500+ with OCR</p>
+            <div className="flex gap-4 items-start p-4 border border-stone-800 bg-stone-900/20">
+              <span className="text-amber-500 mt-1">•</span>
+              <p className="text-stone-400">Linked entities: people, places, organizations, and events mentioned across testimonies</p>
+            </div>
+            <div className="flex gap-4 items-start p-4 border border-stone-800 bg-stone-900/20">
+              <span className="text-amber-500 mt-1">•</span>
+              <p className="text-stone-400">A navigable representation of the trial structure and proceedings</p>
             </div>
           </div>
-
-          <div className="border border-stone-800 p-8 text-center">
-            <h3 className="text-xl text-stone-200 mb-4">Time Invested</h3>
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm">
-              <div>
-                <p className="text-stone-400">Web scraping</p>
-                <p className="text-stone-600">2 days</p>
-              </div>
-              <div>
-                <p className="text-stone-400">OCR research</p>
-                <p className="text-stone-600">3 days</p>
-              </div>
-              <div>
-                <p className="text-stone-400">Text extraction</p>
-                <p className="text-stone-600">1 day</p>
-              </div>
-              <div>
-                <p className="text-stone-400">Entity extraction</p>
-                <p className="text-stone-600">2 days</p>
-              </div>
-              <div>
-                <p className="text-stone-400">Testimony extraction</p>
-                <p className="text-stone-600">2 days</p>
-              </div>
-              <div>
-                <p className="text-stone-400">Web interface</p>
-                <p className="text-stone-600">2 days</p>
-              </div>
-            </div>
-            <p className="mt-6 text-stone-500">Total: ~12 days</p>
-          </div>
+          
+          <p className="text-stone-500 text-sm mt-6 italic">
+            All content is grounded in the original historical record.
+          </p>
         </div>
       </section>
 
-      {/* Lessons Learned */}
+      {/* Exploring */}
       <section className="py-16 px-6 border-b border-stone-900">
         <div className="max-w-3xl mx-auto">
-          <h2 className="font-serif text-3xl font-light mb-8">Lessons Learned</h2>
+          <h2 className="font-serif text-3xl font-light mb-8">Exploring the Trial</h2>
+          <p className="text-stone-400 text-lg leading-relaxed mb-8">
+            Visitors can explore the archive in multiple ways:
+          </p>
           
-          <div className="space-y-6">
-            <div className="flex gap-4">
-              <span className="text-amber-500 text-xl">1.</span>
-              <div>
-                <h3 className="text-stone-200 font-medium mb-1">Check for Embedded Text First</h3>
-                <p className="text-stone-500 text-sm">
-                  Before investing in expensive OCR solutions, always check if PDFs already contain 
-                  embedded text. A simple test could save weeks of work.
-                </p>
-              </div>
+          <div className="grid md:grid-cols-2 gap-6">
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium mb-2">Through the Witnesses</h3>
+              <p className="text-stone-500 text-sm">
+                Browse individual testimonies and discover who testified and what they experienced
+              </p>
             </div>
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium mb-2">Through Connections</h3>
+              <p className="text-stone-500 text-sm">
+                Navigate links between witnesses, locations, events, and the people they mentioned
+              </p>
+            </div>
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium mb-2">Sequentially</h3>
+              <p className="text-stone-500 text-sm">
+                Follow the trial as it unfolded, from opening statement to verdict
+              </p>
+            </div>
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium mb-2">Across Testimonies</h3>
+              <p className="text-stone-500 text-sm">
+                View related testimony through linked entities and cross-references
+              </p>
+            </div>
+          </div>
+          
+          <p className="text-stone-500 text-sm mt-8">
+            The archive is designed for readers without prior legal training and does not require 
+            familiarity with the trial.
+          </p>
+        </div>
+      </section>
+
+      {/* AI Assisted Viewing */}
+      <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-serif text-3xl font-light mb-8">AI Assisted Viewing</h2>
+          <p className="text-stone-400 text-lg leading-relaxed mb-8">
+            The archive offers an optional AI assisted viewing mode designed to support understanding 
+            of complex and lengthy testimony.
+          </p>
+          
+          <div className="bg-stone-900/50 border border-stone-800 p-8 mb-8">
+            <p className="text-stone-300 mb-4">When enabled, the guide can:</p>
+            <ul className="space-y-3 text-stone-400">
+              <li className="flex gap-3">
+                <span className="text-amber-500">→</span>
+                Summarize sections of testimony
+              </li>
+              <li className="flex gap-3">
+                <span className="text-amber-500">→</span>
+                Clarify legal and procedural context
+              </li>
+              <li className="flex gap-3">
+                <span className="text-amber-500">→</span>
+                Highlight key themes and references
+              </li>
+              <li className="flex gap-3">
+                <span className="text-amber-500">→</span>
+                Connect testimony across witnesses and trial phases
+              </li>
+            </ul>
+          </div>
+          
+          <div className="border-l-2 border-amber-700 pl-6 py-2">
+            <p className="text-stone-400 leading-relaxed">
+              The AI does not replace primary sources, does not speak in the voices of witnesses, 
+              and does not interpret events beyond the historical record. Its function is to assist 
+              navigation and comprehension—not to author or judge the material.
+            </p>
+          </div>
+          
+          <p className="text-stone-500 text-sm mt-6">
+            AI assisted viewing can be enabled or disabled at any time.
+          </p>
+        </div>
+      </section>
+
+      {/* Approach */}
+      <section className="py-16 px-6 border-b border-stone-900">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-serif text-3xl font-light mb-8">Our Approach</h2>
+          <div className="space-y-6 text-stone-400 text-lg leading-relaxed">
+            <p>
+              This project presents the Eichmann Trial as a historical proceeding and preserves 
+              the testimonies as they were given.
+            </p>
+            <p>
+              It does not recreate events, dramatize testimony, or offer speculative interpretation. 
+              The emphasis remains on the witnesses and what they chose to share—supported by modern 
+              tools that make their words accessible.
+            </p>
+            <p className="text-stone-500">
+              Sources, methodology, and AI usage are documented transparently.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Begin Exploring */}
+      <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="font-serif text-3xl font-light mb-12">Begin Exploring</h2>
+          
+          <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
+            <Link 
+              href="/witnesses" 
+              className="p-6 border border-stone-700 hover:border-stone-500 hover:bg-stone-900/50 transition-all group"
+            >
+              <p className="text-stone-200 font-medium mb-2 group-hover:text-white">Meet the Witnesses</p>
+              <p className="text-stone-500 text-sm">Hear from those who testified</p>
+            </Link>
             
-            <div className="flex gap-4">
-              <span className="text-amber-500 text-xl">2.</span>
-              <div>
-                <h3 className="text-stone-200 font-medium mb-1">Simple Solutions Often Work Best</h3>
-                <p className="text-stone-500 text-sm">
-                  The complex multi-column OCR with AI parsing was unnecessary. The simplest approach 
-                  produced the cleanest results.
-                </p>
-              </div>
-            </div>
-            
-            <div className="flex gap-4">
-              <span className="text-amber-500 text-xl">3.</span>
-              <div>
-                <h3 className="text-stone-200 font-medium mb-1">Domain Knowledge is Essential</h3>
-                <p className="text-stone-500 text-sm">
-                  Understanding court transcript structure (sworn-in markers, Q&A format, dismissal 
-                  phrases) was essential for accurate extraction.
-                </p>
-              </div>
-            </div>
-            
-            <div className="flex gap-4">
-              <span className="text-amber-500 text-xl">4.</span>
-              <div>
-                <h3 className="text-stone-200 font-medium mb-1">Validate Against Ground Truth</h3>
-                <p className="text-stone-500 text-sm">
-                  Cross-referencing against Yad Vashem&apos;s official list of 108 witnesses ensured 
-                  completeness and accuracy.
-                </p>
-              </div>
-            </div>
+            <Link 
+              href="/explore" 
+              className="p-6 border border-stone-700 hover:border-stone-500 hover:bg-stone-900/50 transition-all group"
+            >
+              <p className="text-stone-200 font-medium mb-2 group-hover:text-white">Explore Connections</p>
+              <p className="text-stone-500 text-sm">Navigate people, places, and events</p>
+            </Link>
           </div>
         </div>
       </section>
 
       {/* Acknowledgments */}
-      <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
+      <section className="py-16 px-6 border-b border-stone-900">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-serif text-3xl font-light mb-8">Acknowledgments</h2>
           
@@ -302,8 +318,8 @@ export default function AboutPage() {
               hosting the trial transcripts
             </p>
             <p>
-              <strong className="text-stone-200">The 108 Witnesses</strong> — Whose courage in 
-              testifying preserved history
+              <strong className="text-stone-200">The Witnesses</strong> — Whose courage in 
+              testifying preserved history for future generations
             </p>
           </div>
         </div>
@@ -323,7 +339,7 @@ export default function AboutPage() {
       <footer className="py-12 px-6 border-t border-stone-900">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-stone-600 text-sm">
-            The Eichmann Trial Archive • December 2025
+            The Eichmann Trial Digital Archive • December 2025
           </p>
         </div>
       </footer>

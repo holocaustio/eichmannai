@@ -1,0 +1,952 @@
+{
+  "file": "vol3_summary.txt",
+  "lines": 596,
+  "sessionBoundaries": [
+    {
+      "number": 76,
+      "lineStart": 38,
+      "lineEnd": 61
+    },
+    {
+      "number": 78,
+      "lineStart": 62,
+      "lineEnd": 75
+    },
+    {
+      "number": 79,
+      "lineStart": 76,
+      "lineEnd": 99
+    },
+    {
+      "number": 77,
+      "lineStart": 100,
+      "lineEnd": 101
+    },
+    {
+      "number": 80,
+      "lineStart": 102,
+      "lineEnd": 103
+    },
+    {
+      "number": 81,
+      "lineStart": 104,
+      "lineEnd": 137
+    },
+    {
+      "number": 82,
+      "lineStart": 138,
+      "lineEnd": 145
+    },
+    {
+      "number": 83,
+      "lineStart": 146,
+      "lineEnd": 159
+    },
+    {
+      "number": 84,
+      "lineStart": 160,
+      "lineEnd": 169
+    },
+    {
+      "number": 85,
+      "lineStart": 170,
+      "lineEnd": 186
+    },
+    {
+      "number": 86,
+      "lineStart": 187,
+      "lineEnd": 193
+    },
+    {
+      "number": 87,
+      "lineStart": 194,
+      "lineEnd": 221
+    },
+    {
+      "number": 89,
+      "lineStart": 222,
+      "lineEnd": 228
+    },
+    {
+      "number": 90,
+      "lineStart": 229,
+      "lineEnd": 234
+    },
+    {
+      "number": 88,
+      "lineStart": 235,
+      "lineEnd": 263
+    },
+    {
+      "number": 91,
+      "lineStart": 264,
+      "lineEnd": 289
+    },
+    {
+      "number": 92,
+      "lineStart": 290,
+      "lineEnd": 299
+    },
+    {
+      "number": 93,
+      "lineStart": 300,
+      "lineEnd": 311
+    },
+    {
+      "number": 94,
+      "lineStart": 312,
+      "lineEnd": 319
+    },
+    {
+      "number": 95,
+      "lineStart": 320,
+      "lineEnd": 333
+    },
+    {
+      "number": 96,
+      "lineStart": 334,
+      "lineEnd": 345
+    },
+    {
+      "number": 97,
+      "lineStart": 346,
+      "lineEnd": 358
+    },
+    {
+      "number": 98,
+      "lineStart": 359,
+      "lineEnd": 370
+    },
+    {
+      "number": 99,
+      "lineStart": 371,
+      "lineEnd": 384
+    },
+    {
+      "number": 100,
+      "lineStart": 385,
+      "lineEnd": 406
+    },
+    {
+      "number": 101,
+      "lineStart": 407,
+      "lineEnd": 420
+    },
+    {
+      "number": 102,
+      "lineStart": 421,
+      "lineEnd": 440
+    },
+    {
+      "number": 104,
+      "lineStart": 441,
+      "lineEnd": 453
+    },
+    {
+      "number": 105,
+      "lineStart": 454,
+      "lineEnd": 467
+    },
+    {
+      "number": 107,
+      "lineStart": 468,
+      "lineEnd": 479
+    },
+    {
+      "number": 108,
+      "lineStart": 480,
+      "lineEnd": 488
+    },
+    {
+      "number": 109,
+      "lineStart": 489,
+      "lineEnd": 499
+    },
+    {
+      "number": 103,
+      "lineStart": 500,
+      "lineEnd": 501
+    },
+    {
+      "number": 106,
+      "lineStart": 502,
+      "lineEnd": 543
+    },
+    {
+      "number": 120,
+      "lineStart": 544,
+      "lineEnd": 553
+    },
+    {
+      "number": 121,
+      "lineStart": 554,
+      "lineEnd": 559
+    },
+    {
+      "number": 114,
+      "lineStart": 560,
+      "lineEnd": 560
+    },
+    {
+      "number": 119,
+      "lineStart": 561,
+      "lineEnd": 595
+    }
+  ],
+  "sessionNumbers": [
+    76,
+    78,
+    79,
+    77,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    89,
+    90,
+    88,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    104,
+    105,
+    107,
+    108,
+    109,
+    103,
+    106,
+    120,
+    121,
+    114,
+    119
+  ],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        39,
+        63,
+        77,
+        82,
+        101,
+        103,
+        105,
+        139,
+        147,
+        161,
+        171,
+        188,
+        195,
+        223,
+        225,
+        230,
+        236,
+        265,
+        274,
+        291,
+        301,
+        313,
+        321,
+        335,
+        347,
+        360,
+        372,
+        386,
+        408,
+        422,
+        442,
+        455,
+        469,
+        481,
+        490,
+        501,
+        503,
+        526,
+        534,
+        545,
+        555,
+        561,
+        562
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        114,
+        119,
+        120,
+        121
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "דב פרייברג": {
+      "hebrew": "דב פרייברג",
+      "english": "Dov Freiberg",
+      "isWitness": true,
+      "mentions": [
+        87
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        79
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "דר' פראנץ מאייר": {
+      "hebrew": "דר' פראנץ מאייר",
+      "english": "Dr. Franz Meyer",
+      "isWitness": true,
+      "mentions": [
+        272
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        91
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "גדליה בן צבי": {
+      "hebrew": "גדליה בן צבי",
+      "english": "Gedalia Ben Zvi",
+      "isWitness": true,
+      "mentions": [
+        584
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        42,
+        303,
+        389
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        100,
+        76,
+        93
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "פרלה מרק": {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "isWitness": true,
+      "mentions": [
+        151
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        83
+      ],
+      "file": "vol3_summary.txt"
+    }
+  },
+  "key_figures": {
+    "גדעון האוזנר": {
+      "hebrew": "גדעון האוזנר",
+      "english": "Gideon Hausner",
+      "role": "Attorney General / Chief Prosecutor",
+      "category": "prosecution",
+      "isWitness": false,
+      "mentions": [
+        581
+      ],
+      "sessions": [
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "רוברט סרבציוס": {
+      "hebrew": "רוברט סרבציוס",
+      "english": "Dr. Robert Servatius",
+      "role": "Defense Attorney",
+      "category": "defense",
+      "isWitness": false,
+      "mentions": [
+        589
+      ],
+      "sessions": [
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        471,
+        575
+      ],
+      "sessions": [
+        107,
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "בנימין הלוי": {
+      "hebrew": "בנימין הלוי",
+      "english": "Benjamin Halevi",
+      "role": "Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        462,
+        576
+      ],
+      "sessions": [
+        105,
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        2,
+        4,
+        16,
+        18,
+        30,
+        41,
+        45,
+        47,
+        48,
+        50,
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        65,
+        66,
+        67,
+        68,
+        69,
+        79,
+        80,
+        81,
+        82,
+        84,
+        85,
+        86,
+        89,
+        91,
+        93,
+        94,
+        95,
+        107,
+        108,
+        109,
+        110,
+        111,
+        141,
+        142,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        163,
+        164,
+        165,
+        166,
+        167,
+        169,
+        191,
+        197,
+        198,
+        199,
+        205,
+        206,
+        207,
+        208,
+        209,
+        213,
+        214,
+        215,
+        216,
+        226,
+        232,
+        267,
+        269,
+        273,
+        274,
+        276,
+        277,
+        278,
+        293,
+        294,
+        295,
+        296,
+        303,
+        304,
+        305,
+        306,
+        315,
+        316,
+        323,
+        324,
+        325,
+        326,
+        327,
+        337,
+        338,
+        339,
+        340,
+        349,
+        351,
+        352,
+        353,
+        362,
+        363,
+        365,
+        366,
+        374,
+        375,
+        376,
+        377,
+        378,
+        388,
+        389,
+        390,
+        398,
+        399,
+        400,
+        401,
+        410,
+        411,
+        412,
+        413,
+        414,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        444,
+        445,
+        446,
+        447,
+        458,
+        459,
+        460,
+        461,
+        462,
+        471,
+        472,
+        474,
+        475,
+        493,
+        539,
+        549,
+        571,
+        587
+      ],
+      "sessions": [
+        76,
+        78,
+        79,
+        81,
+        82,
+        83,
+        84,
+        86,
+        87,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        104,
+        105,
+        106,
+        107,
+        109,
+        119,
+        120
+      ],
+      "file": "vol3_summary.txt"
+    }
+  },
+  "locations": {
+    "Auschwitz": {
+      "hebrew": "אושוויץ",
+      "english": "Auschwitz",
+      "category": "camp",
+      "mentions": [
+        305,
+        499
+      ],
+      "sessions": [
+        109,
+        93
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Warsaw": {
+      "hebrew": "ורשה",
+      "english": "Warsaw",
+      "category": "ghetto",
+      "mentions": [
+        376
+      ],
+      "sessions": [
+        99
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Lodz": {
+      "hebrew": "לודז",
+      "english": "Lodz",
+      "category": "ghetto",
+      "mentions": [
+        107
+      ],
+      "sessions": [
+        81
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Budapest": {
+      "hebrew": "בודפשט",
+      "english": "Budapest",
+      "category": "city",
+      "mentions": [
+        431,
+        444,
+        446
+      ],
+      "sessions": [
+        104,
+        102
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Prague": {
+      "hebrew": "פראג",
+      "english": "Prague",
+      "category": "city",
+      "mentions": [
+        111
+      ],
+      "sessions": [
+        81
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Jerusalem": {
+      "hebrew": "ירושלים",
+      "english": "Jerusalem",
+      "category": "city",
+      "mentions": [
+        6,
+        20,
+        24,
+        35,
+        565
+      ],
+      "sessions": [
+        119
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        486
+      ],
+      "sessions": [
+        108
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        107
+      ],
+      "sessions": [
+        81
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Poland": {
+      "hebrew": "פולין",
+      "english": "Poland",
+      "category": "country",
+      "mentions": [
+        48,
+        50
+      ],
+      "sessions": [
+        76
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Hungary": {
+      "hebrew": "הונגריה",
+      "english": "Hungary",
+      "category": "country",
+      "mentions": [
+        169,
+        191,
+        197,
+        428,
+        429,
+        445
+      ],
+      "sessions": [
+        102,
+        104,
+        84,
+        86,
+        87
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        3,
+        10,
+        17,
+        26,
+        95,
+        267
+      ],
+      "sessions": [
+        91,
+        79
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Austria": {
+      "hebrew": "אוסטריה",
+      "english": "Austria",
+      "category": "country",
+      "mentions": [
+        109,
+        269,
+        446
+      ],
+      "sessions": [
+        104,
+        81,
+        91
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Netherlands": {
+      "hebrew": "הולנד",
+      "english": "Netherlands",
+      "category": "country",
+      "mentions": [
+        149,
+        401
+      ],
+      "sessions": [
+        83,
+        100
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Belgium": {
+      "hebrew": "בלגיה",
+      "english": "Belgium",
+      "category": "country",
+      "mentions": [
+        150
+      ],
+      "sessions": [
+        83
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "France": {
+      "hebrew": "צרפת",
+      "english": "France",
+      "category": "country",
+      "mentions": [
+        53,
+        142
+      ],
+      "sessions": [
+        82,
+        76
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Greece": {
+      "hebrew": "יוון",
+      "english": "Greece",
+      "category": "country",
+      "mentions": [
+        155,
+        163
+      ],
+      "sessions": [
+        83,
+        84
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Romania": {
+      "hebrew": "רומניה",
+      "english": "Romania",
+      "category": "country",
+      "mentions": [
+        165
+      ],
+      "sessions": [
+        84
+      ],
+      "file": "vol3_summary.txt"
+    }
+  },
+  "organizations": {
+    "Gestapo": {
+      "hebrew": "הגסטאפו",
+      "english": "Gestapo",
+      "orgType": "nazi",
+      "mentions": [
+        93
+      ],
+      "sessions": [
+        79
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Sonderkommando": {
+      "hebrew": "זונדרקומנדו",
+      "english": "Sonderkommando",
+      "orgType": "camp",
+      "mentions": [
+        445
+      ],
+      "sessions": [
+        104
+      ],
+      "file": "vol3_summary.txt"
+    }
+  },
+  "events": {
+    "Wannsee Conference": {
+      "hebrew": "ועידת ואנזה",
+      "english": "Wannsee Conference",
+      "eventType": "policy",
+      "mentions": [
+        69,
+        79,
+        388
+      ],
+      "sessions": [
+        100,
+        78,
+        79
+      ],
+      "file": "vol3_summary.txt"
+    },
+    "Final Solution": {
+      "hebrew": "הפתרון הסופי",
+      "english": "Final Solution",
+      "eventType": "genocide",
+      "mentions": [
+        58,
+        214,
+        274,
+        294,
+        297
+      ],
+      "sessions": [
+        91,
+        76,
+        92,
+        87
+      ],
+      "file": "vol3_summary.txt"
+    }
+  }
+}

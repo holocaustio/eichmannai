@@ -5,9 +5,11 @@ import { usePathname } from 'next/navigation';
 
 const navItems = [
   { href: '/', label: 'Home' },
+  { href: '/opening-statement', label: 'Opening Statement' },
   { href: '/witnesses', label: 'Witnesses' },
-  { href: '/explore', label: 'Explore' },
-  { href: '/about', label: 'About' },
+  { href: '/verdict', label: 'Verdict' },
+  { href: '/explore', label: 'Explore the Trial' },
+  { href: '/about', label: 'About' }
 ];
 
 export default function Header() {

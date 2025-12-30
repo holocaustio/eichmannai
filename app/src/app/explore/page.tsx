@@ -7,11 +7,17 @@ interface Entity {
   id: string;
   name: string;
   englishName?: string;
+  hebrewName?: string;
   type: string;
   variants?: string[];
   mentions: number;
   sessions?: number[];
   isWitness?: boolean;
+  // SESSION entity fields
+  number?: number;
+  date?: string;
+  day?: string;
+  phase?: string;
 }
 
 interface Edge {
@@ -32,28 +38,83 @@ interface Session {
   hebrewLabel?: string;
 }
 
+interface TimelineSession {
+  number: number;
+  date: string;
+  day: string;
+  hebrewDate: string;
+  topics: string[];
+  witnesses: string[];
+  milestone?: string;
+}
+
+interface TimelinePhase {
+  id: string;
+  name: string;
+  hebrewName: string;
+  startDate: string;
+  endDate: string;
+  sessions: number[];
+  description: string;
+}
+
+interface TimelineMilestone {
+  id: string;
+  type: string;
+  date: string;
+  hebrewDate: string;
+  title: string;
+  hebrewTitle: string;
+  description: string;
+  sessions: number[];
+}
+
+interface TimelineData {
+  metadata: {
+    totalSessions: number;
+    trialDuration: {
+      start: string;
+      testimoniesEnd: string;
+      verdictDate: string;
+      sentencingDate: string;
+    };
+  };
+  phases: TimelinePhase[];
+  sessions: TimelineSession[];
+  milestones: TimelineMilestone[];
+}
+
 interface EntitiesData {
   metadata: {
     totalNodes: number;
     totalEdges: number;
-    totalSessions: number;
-    locationsFound: number;
-    organizationsFound: number;
+    typeCounts?: {
+      SESSION?: number;
+      LOCATION?: number;
+      ORGANIZATION?: number;
+      PERSON?: number;
+      EVENT?: number;
+      DATE?: number;
+    };
+    locationsFound?: number;
+    organizationsFound?: number;
   };
   nodes: Entity[];
   edges: Edge[];
   sessions: Session[];
 }
 
-type ViewMode = 'entities' | 'graph' | 'files';
+type ViewMode = 'entities' | 'graph' | 'files' | 'timeline';
 
 export default function ExplorePage() {
   const [data, setData] = useState<EntitiesData | null>(null);
   const [graphData, setGraphData] = useState<GraphData | null>(null);
+  const [timelineData, setTimelineData] = useState<TimelineData | null>(null);
   const [loading, setLoading] = useState(true);
   const [viewMode, setViewMode] = useState<ViewMode>('entities');
   const [selectedType, setSelectedType] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
+  const [selectedPhase, setSelectedPhase] = useState<string | null>(null);
 
   useEffect(() => {
     async function loadData() {
@@ -62,13 +123,92 @@ export default function ExplorePage() {
         const consolidatedRes = await fetch('/data/entities-consolidated.json');
         const consolidated: GraphData & { metadata: EntitiesData['metadata'] } = await consolidatedRes.json();
         
+        // Transform witnesses to have type 'WITNESS' for proper filtering
+        const transformedNodes = consolidated.nodes.map(node => ({
+          ...node,
+          type: node.isWitness ? 'WITNESS' : node.type
+        }));
+        
+        // Filter edges for graph - exclude CO_OCCURRENCE (too many, 35k+)
+        // Keep only meaningful relationship edges
+        const graphEdges = consolidated.edges.filter(e => 
+          e.type !== 'CO_OCCURRENCE'
+        );
+        
         setData({
           metadata: consolidated.metadata,
-          nodes: consolidated.nodes,
-          edges: consolidated.edges,
+          nodes: transformedNodes,
+          edges: consolidated.edges, // Keep all edges for data
           sessions: []
         });
-        setGraphData(consolidated);
+        
+        setGraphData({
+          nodes: transformedNodes,
+          edges: graphEdges // Use filtered edges for graph
+        });
+        
+        // Build timeline data from SESSION entities
+        const sessionEntities = consolidated.nodes.filter(n => n.type === 'SESSION' && n.date);
+        const witnesses = consolidated.nodes.filter(n => n.isWitness);
+        
+        // Build session data with witnesses linked from entity data
+        const timelineSessions: TimelineSession[] = sessionEntities
+          .sort((a, b) => (a.number || 0) - (b.number || 0))
+          .map(session => {
+            // Find witnesses who testified in this session
+            const sessionWitnesses = witnesses
+              .filter(w => w.sessions?.includes(session.number || 0))
+              .map(w => w.name);
+            
+            return {
+              number: session.number || 0,
+              date: session.date || '',
+              day: session.day || '',
+              hebrewDate: '', // Could be computed if needed
+              topics: [],
+              witnesses: sessionWitnesses,
+              milestone: session.number === 1 ? 'Trial Opens' : 
+                         session.number === 6 ? 'Opening Statement begins' :
+                         session.number === 100 ? 'Defense case begins' :
+                         session.number === 112 ? 'Closing arguments begin' :
+                         session.number === 121 ? 'Testimony phase ends' : undefined
+            };
+          });
+        
+        // Build phases
+        const phases: TimelinePhase[] = [
+          { id: 'trial-opening', name: 'Trial Opening', hebrewName: 'פתיחת המשפט', startDate: '1961-04-11', endDate: '1961-04-16', sessions: [1,2,3,4,5], description: '' },
+          { id: 'opening-statement', name: 'Opening Statement', hebrewName: 'נאום הפתיחה', startDate: '1961-04-17', endDate: '1961-04-18', sessions: [6,7,8], description: '' },
+          { id: 'prosecution', name: 'Prosecution Witnesses', hebrewName: 'עדי התביעה', startDate: '1961-04-19', endDate: '1961-08-03', sessions: Array.from({length: 91}, (_, i) => i + 9), description: '' },
+          { id: 'defense', name: 'Defense Case', hebrewName: 'פרשת ההגנה', startDate: '1961-08-04', endDate: '1961-08-17', sessions: [100,101,102,103,104,105,106,107,108,109,110,111], description: '' },
+          { id: 'closing', name: 'Closing Arguments', hebrewName: 'סיכומים', startDate: '1961-08-18', endDate: '1961-08-30', sessions: [112,113,114,115,116,117,118,119,120,121], description: '' },
+          { id: 'verdict', name: 'Verdict', hebrewName: 'הכרעת הדין', startDate: '1961-12-11', endDate: '1961-12-12', sessions: [], description: '' },
+          { id: 'sentencing', name: 'Sentencing', hebrewName: 'גזר הדין', startDate: '1961-12-15', endDate: '1961-12-15', sessions: [], description: '' },
+        ];
+        
+        // Build milestones
+        const milestones: TimelineMilestone[] = [
+          { id: 'trial-begins', type: 'opening', date: '1961-04-11', hebrewDate: '', title: 'Trial Opens', hebrewTitle: '', description: '', sessions: [1] },
+          { id: 'opening-statement', type: 'opening-statement', date: '1961-04-17', hebrewDate: '', title: 'Opening Statement', hebrewTitle: '', description: '', sessions: [6,7,8] },
+          { id: 'defense-begins', type: 'defense', date: '1961-08-04', hebrewDate: '', title: 'Defense Case Opens', hebrewTitle: '', description: '', sessions: [100] },
+          { id: 'verdict', type: 'verdict', date: '1961-12-11', hebrewDate: '', title: 'Verdict Delivered', hebrewTitle: '', description: '', sessions: [] },
+          { id: 'sentencing', type: 'sentencing', date: '1961-12-15', hebrewDate: '', title: 'Death Sentence', hebrewTitle: '', description: '', sessions: [] },
+        ];
+        
+        setTimelineData({
+          metadata: {
+            totalSessions: sessionEntities.length,
+            trialDuration: {
+              start: '1961-04-11',
+              testimoniesEnd: '1961-08-30',
+              verdictDate: '1961-12-11',
+              sentencingDate: '1961-12-15'
+            }
+          },
+          phases,
+          sessions: timelineSessions,
+          milestones
+        });
       } catch (error) {
         console.error('Failed to load data:', error);
       } finally {
@@ -117,6 +257,7 @@ export default function ExplorePage() {
   });
 
   const typeLabels: Record<string, { label: string; icon: string; color: string }> = {
+    'SESSION': { label: 'Sessions', icon: '⚖️', color: 'text-yellow-400' },
     'LOCATION': { label: 'Locations', icon: '📍', color: 'text-blue-400' },
     'ORGANIZATION': { label: 'Organizations', icon: '🏛️', color: 'text-purple-400' },
     'PERSON': { label: 'People', icon: '👤', color: 'text-amber-400' },
@@ -140,11 +281,11 @@ export default function ExplorePage() {
         <div className="max-w-7xl mx-auto text-center">
           <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">Explore</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
-            Explore the Archive
+            Explore the Trial
           </h1>
           <p className="text-stone-400 text-lg max-w-2xl mx-auto">
             {graphData?.nodes.length || 0} entities, {graphData?.edges.length || 0} connections, 
-            {' '}{data?.metadata.totalSessions || 0} court sessions.
+            {' '}{data?.metadata.typeCounts?.SESSION || 0} court sessions.
           </p>
         </div>
       </section>
@@ -182,6 +323,16 @@ export default function ExplorePage() {
               }`}
             >
               Source Files
+            </button>
+            <button
+              onClick={() => setViewMode('timeline')}
+              className={`px-6 py-4 text-sm tracking-wide border-b-2 transition-colors ${
+                viewMode === 'timeline' 
+                  ? 'border-stone-300 text-stone-200' 
+                  : 'border-transparent text-stone-500 hover:text-stone-300'
+              }`}
+            >
+              📅 Timeline
             </button>
           </div>
         </div>
@@ -343,6 +494,7 @@ export default function ExplorePage() {
                 { name: 'vol3_p7689.txt', sessions: '76-89', desc: 'Volume 3, Part 1' },
                 { name: 'vol3_p90100.txt', sessions: '90-100', desc: 'Volume 3, Part 2' },
                 { name: 'vol3_p101111.txt', sessions: '101-111', desc: 'Volume 3, Part 3' },
+                { name: 'vol3_p112121.txt', sessions: '112-121', desc: 'Volume 3, Part 4' },
               ].map((vol) => (
                 <Link
                   key={vol.name}
@@ -369,6 +521,15 @@ export default function ExplorePage() {
         </section>
       )}
 
+      {/* Timeline View */}
+      {viewMode === 'timeline' && timelineData && (
+        <TimelineView 
+          timelineData={timelineData} 
+          selectedPhase={selectedPhase}
+          setSelectedPhase={setSelectedPhase}
+        />
+      )}
+
       {/* Footer */}
       <footer className="py-12 px-6 border-t border-stone-900">
         <div className="max-w-7xl mx-auto text-center">
@@ -387,9 +548,10 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
   const networkRef = useRef<InstanceType<typeof import('vis-network').Network> | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [selectedNode, setSelectedNode] = useState<Entity | null>(null);
-  const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set(['LOCATION', 'ORGANIZATION', 'PERSON', 'EVENT', 'DATE', 'WITNESS']));
+  const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set(['SESSION', 'LOCATION', 'ORGANIZATION', 'PERSON', 'EVENT', 'DATE', 'WITNESS']));
   
   const typeColors: Record<string, { bg: string; border: string }> = {
+    'SESSION': { bg: '#eab308', border: '#facc15' },
     'LOCATION': { bg: '#3b82f6', border: '#60a5fa' },
     'ORGANIZATION': { bg: '#a855f7', border: '#c084fc' },
     'PERSON': { bg: '#f59e0b', border: '#fbbf24' },
@@ -682,5 +844,371 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
         </div>
       )}
     </div>
+  );
+}
+
+// Timeline View Component
+function TimelineView({ 
+  timelineData, 
+  selectedPhase, 
+  setSelectedPhase 
+}: { 
+  timelineData: TimelineData;
+  selectedPhase: string | null;
+  setSelectedPhase: (phase: string | null) => void;
+}) {
+  const [expandedSession, setExpandedSession] = useState<number | null>(null);
+  
+  // Format date for display
+  const formatDate = (dateStr: string) => {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', { 
+      month: 'long', 
+      day: 'numeric', 
+      year: 'numeric' 
+    });
+  };
+
+  // Format date short
+  const formatDateShort = (dateStr: string) => {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', { 
+      month: 'short', 
+      day: 'numeric'
+    });
+  };
+
+  // Get phase color
+  const getPhaseColor = (phaseId: string) => {
+    const colors: Record<string, { bg: string; border: string; text: string }> = {
+      'opening': { bg: 'bg-blue-900/30', border: 'border-blue-600', text: 'text-blue-400' },
+      'opening-statement': { bg: 'bg-amber-900/30', border: 'border-amber-600', text: 'text-amber-400' },
+      'prosecution-witnesses': { bg: 'bg-emerald-900/30', border: 'border-emerald-600', text: 'text-emerald-400' },
+      'defense': { bg: 'bg-purple-900/30', border: 'border-purple-600', text: 'text-purple-400' },
+      'closing': { bg: 'bg-orange-900/30', border: 'border-orange-600', text: 'text-orange-400' },
+      'verdict': { bg: 'bg-red-900/30', border: 'border-red-600', text: 'text-red-400' },
+      'sentencing': { bg: 'bg-red-900/30', border: 'border-red-700', text: 'text-red-500' },
+    };
+    return colors[phaseId] || { bg: 'bg-stone-900/30', border: 'border-stone-600', text: 'text-stone-400' };
+  };
+
+  // Get milestone icon
+  const getMilestoneIcon = (type: string) => {
+    const icons: Record<string, string> = {
+      'opening': '⚖️',
+      'opening-statement': '📜',
+      'testimony': '🎤',
+      'dramatic': '💔',
+      'defense': '🛡️',
+      'closing': '📝',
+      'verdict': '⚖️',
+      'sentencing': '🔨',
+    };
+    return icons[type] || '📌';
+  };
+
+  // Filter sessions by phase
+  const filteredSessions = selectedPhase
+    ? timelineData.sessions.filter(s => {
+        const phase = timelineData.phases.find(p => p.id === selectedPhase);
+        return phase?.sessions.includes(s.number);
+      })
+    : timelineData.sessions;
+
+  // Group sessions by month
+  const sessionsByMonth = filteredSessions.reduce((acc, session) => {
+    const date = new Date(session.date);
+    const monthKey = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+    const monthName = date.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+    if (!acc[monthKey]) {
+      acc[monthKey] = { name: monthName, sessions: [] };
+    }
+    acc[monthKey].sessions.push(session);
+    return acc;
+  }, {} as Record<string, { name: string; sessions: TimelineSession[] }>);
+
+  // Calculate trial duration
+  const trialStart = new Date(timelineData.metadata.trialDuration.start);
+  const verdictDate = new Date(timelineData.metadata.trialDuration.verdictDate);
+  const totalDays = Math.ceil((verdictDate.getTime() - trialStart.getTime()) / (1000 * 60 * 60 * 24));
+
+  return (
+    <section className="py-12 px-6">
+      <div className="max-w-5xl mx-auto">
+        {/* Timeline Header */}
+        <div className="text-center mb-12">
+          <h2 className="font-serif text-3xl mb-4">The Eichmann Trial Timeline</h2>
+          <p className="text-stone-400 mb-6">
+            {formatDate(timelineData.metadata.trialDuration.start)} — {formatDate(timelineData.metadata.trialDuration.sentencingDate)}
+          </p>
+          <div className="flex justify-center gap-8 text-sm">
+            <div className="text-center">
+              <div className="text-2xl font-serif text-stone-200">{totalDays}</div>
+              <div className="text-stone-500">Days</div>
+            </div>
+            <div className="text-center">
+              <div className="text-2xl font-serif text-stone-200">{timelineData.metadata.totalSessions}</div>
+              <div className="text-stone-500">Sessions</div>
+            </div>
+            <div className="text-center">
+              <div className="text-2xl font-serif text-stone-200">112</div>
+              <div className="text-stone-500">Witnesses</div>
+            </div>
+          </div>
+        </div>
+
+        {/* Phase Filter */}
+        <div className="mb-8">
+          <div className="flex flex-wrap gap-2 justify-center">
+            <button
+              onClick={() => setSelectedPhase(null)}
+              className={`px-4 py-2 text-sm border transition-colors ${
+                !selectedPhase 
+                  ? 'border-stone-500 text-stone-200 bg-stone-800' 
+                  : 'border-stone-800 text-stone-500 hover:border-stone-700'
+              }`}
+            >
+              All Phases
+            </button>
+            {timelineData.phases.map(phase => {
+              const colors = getPhaseColor(phase.id);
+              return (
+                <button
+                  key={phase.id}
+                  onClick={() => setSelectedPhase(phase.id === selectedPhase ? null : phase.id)}
+                  className={`px-4 py-2 text-sm border transition-colors ${
+                    selectedPhase === phase.id 
+                      ? `${colors.border} ${colors.text} ${colors.bg}` 
+                      : 'border-stone-800 text-stone-500 hover:border-stone-700'
+                  }`}
+                >
+                  {phase.name} ({phase.sessions.length || (phase.id === 'verdict' || phase.id === 'sentencing' ? '—' : 0)})
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Milestones Overview */}
+        <div className="mb-12 p-6 bg-stone-900/50 border border-stone-800">
+          <h3 className="font-serif text-lg mb-4 text-center">Key Milestones</h3>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {timelineData.milestones.map(milestone => (
+              <div 
+                key={milestone.id}
+                className="text-center p-3 border border-stone-800 hover:border-stone-700 transition-colors cursor-pointer"
+                onClick={() => {
+                  if (milestone.sessions.length > 0) {
+                    setExpandedSession(milestone.sessions[0]);
+                    // Scroll to session
+                    document.getElementById(`session-${milestone.sessions[0]}`)?.scrollIntoView({ behavior: 'smooth' });
+                  }
+                }}
+              >
+                <div className="text-2xl mb-2">{getMilestoneIcon(milestone.type)}</div>
+                <div className="text-stone-200 text-sm font-medium">{milestone.title}</div>
+                <div className="text-stone-500 text-xs mt-1">{formatDateShort(milestone.date)}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Timeline */}
+        <div className="relative">
+          {/* Timeline line */}
+          <div className="absolute left-8 md:left-1/2 top-0 bottom-0 w-px bg-stone-800 transform md:-translate-x-px" />
+
+          {/* Sessions grouped by month */}
+          {Object.entries(sessionsByMonth).map(([monthKey, { name, sessions }]) => (
+            <div key={monthKey} className="mb-8">
+              {/* Month label */}
+              <div className="sticky top-0 z-10 py-2 mb-4">
+                <div className="flex items-center justify-center">
+                  <div className="bg-stone-950 border border-stone-800 px-4 py-2">
+                    <span className="text-stone-300 font-serif">{name}</span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Sessions */}
+              {sessions.map((session, idx) => {
+                const phase = timelineData.phases.find(p => p.sessions.includes(session.number));
+                const colors = phase ? getPhaseColor(phase.id) : getPhaseColor('');
+                const isMilestone = session.milestone || timelineData.milestones.some(m => m.sessions.includes(session.number));
+                const isExpanded = expandedSession === session.number;
+
+                return (
+                  <div 
+                    key={session.number}
+                    id={`session-${session.number}`}
+                    className={`relative flex items-start mb-4 ${idx % 2 === 0 ? 'md:flex-row-reverse' : ''}`}
+                  >
+                    {/* Timeline dot */}
+                    <div className={`absolute left-8 md:left-1/2 w-4 h-4 rounded-full border-2 transform -translate-x-1/2 z-10 ${
+                      isMilestone 
+                        ? 'bg-amber-500 border-amber-400' 
+                        : `bg-stone-900 ${colors.border}`
+                    }`} />
+
+                    {/* Session card */}
+                    <div 
+                      className={`ml-16 md:ml-0 md:w-[calc(50%-2rem)] ${idx % 2 === 0 ? 'md:mr-8' : 'md:ml-8'}`}
+                    >
+                      <button
+                        onClick={() => setExpandedSession(isExpanded ? null : session.number)}
+                        className={`w-full text-left p-4 border transition-all hover:bg-stone-900/70 ${colors.bg} ${colors.border} ${
+                          isExpanded ? 'ring-1 ring-stone-600' : ''
+                        }`}
+                      >
+                        <div className="flex items-start justify-between gap-4">
+                          <div className="flex-1">
+                            <div className="flex items-center gap-2 mb-1">
+                              <span className={`text-lg font-serif ${colors.text}`}>
+                                Session {session.number}
+                              </span>
+                              {isMilestone && <span className="text-amber-400">★</span>}
+                            </div>
+                            <div className="text-stone-500 text-sm">
+                              {session.day}, {formatDateShort(session.date)}
+                            </div>
+                            {session.topics.length > 0 && (
+                              <div className="mt-2 text-stone-400 text-sm">
+                                {session.topics[0]}
+                              </div>
+                            )}
+                          </div>
+                          <div className="text-right">
+                            <div className="text-stone-600 text-xs" dir="rtl">
+                              {session.hebrewDate}
+                            </div>
+                            {session.witnesses.length > 0 && (
+                              <div className="text-stone-500 text-xs mt-1">
+                                {session.witnesses.length} witness{session.witnesses.length > 1 ? 'es' : ''}
+                              </div>
+                            )}
+                          </div>
+                        </div>
+
+                        {/* Expanded content */}
+                        {isExpanded && (
+                          <div className="mt-4 pt-4 border-t border-stone-800">
+                            {session.topics.length > 1 && (
+                              <div className="mb-3">
+                                <div className="text-stone-500 text-xs uppercase tracking-wide mb-1">Topics</div>
+                                <ul className="text-stone-300 text-sm space-y-1">
+                                  {session.topics.map((topic, i) => (
+                                    <li key={i}>• {topic}</li>
+                                  ))}
+                                </ul>
+                              </div>
+                            )}
+                            {session.witnesses.length > 0 && (
+                              <div className="mb-3">
+                                <div className="text-stone-500 text-xs uppercase tracking-wide mb-1">Witnesses</div>
+                                <div className="flex flex-wrap gap-2">
+                                  {session.witnesses.map((witness, i) => (
+                                    <Link
+                                      key={i}
+                                      href={`/witnesses/${encodeURIComponent(witness)}`}
+                                      className="text-cyan-400 text-sm hover:text-cyan-300 underline underline-offset-2"
+                                      onClick={(e) => e.stopPropagation()}
+                                    >
+                                      {witness}
+                                    </Link>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
+                            {session.milestone && (
+                              <div className="text-amber-400 text-sm">
+                                ★ {session.milestone}
+                              </div>
+                            )}
+                            {phase && (
+                              <div className="mt-2 text-stone-500 text-xs">
+                                Phase: {phase.name}
+                              </div>
+                            )}
+                          </div>
+                        )}
+                      </button>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ))}
+
+          {/* Verdict and Sentencing (if not filtered out) */}
+          {!selectedPhase || selectedPhase === 'verdict' || selectedPhase === 'sentencing' ? (
+            <div className="mb-8">
+              <div className="sticky top-0 z-10 py-2 mb-4">
+                <div className="flex items-center justify-center">
+                  <div className="bg-stone-950 border border-red-900 px-4 py-2">
+                    <span className="text-red-400 font-serif">December 1961</span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Verdict */}
+              <div className="relative flex items-start mb-4">
+                <div className="absolute left-8 md:left-1/2 w-6 h-6 rounded-full bg-red-600 border-2 border-red-400 transform -translate-x-1/2 z-10 flex items-center justify-center">
+                  <span className="text-xs">⚖️</span>
+                </div>
+                <div className="ml-16 md:ml-0 md:w-[calc(50%-2rem)] md:ml-8">
+                  <Link
+                    href="/verdict"
+                    className="block p-6 bg-red-900/20 border border-red-800 hover:border-red-600 transition-all"
+                  >
+                    <div className="text-2xl font-serif text-red-400 mb-2">The Verdict</div>
+                    <div className="text-stone-400 mb-2">{formatDate(timelineData.metadata.trialDuration.verdictDate)}</div>
+                    <div className="text-stone-300">
+                      Adolf Eichmann found guilty on all 15 counts of crimes against the Jewish people, crimes against humanity, and war crimes.
+                    </div>
+                    <div className="mt-4 text-red-400 text-sm">Read the full verdict →</div>
+                  </Link>
+                </div>
+              </div>
+
+              {/* Sentencing */}
+              <div className="relative flex items-start mb-4 md:flex-row-reverse">
+                <div className="absolute left-8 md:left-1/2 w-6 h-6 rounded-full bg-red-700 border-2 border-red-500 transform -translate-x-1/2 z-10 flex items-center justify-center">
+                  <span className="text-xs">🔨</span>
+                </div>
+                <div className="ml-16 md:ml-0 md:w-[calc(50%-2rem)] md:mr-8">
+                  <div className="p-6 bg-red-900/20 border border-red-800">
+                    <div className="text-2xl font-serif text-red-500 mb-2">Death Sentence</div>
+                    <div className="text-stone-400 mb-2">{formatDate(timelineData.metadata.trialDuration.sentencingDate)}</div>
+                    <div className="text-stone-300">
+                      Adolf Eichmann sentenced to death by hanging. The sentence was carried out on June 1, 1962.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ) : null}
+        </div>
+
+        {/* Timeline Legend */}
+        <div className="mt-12 p-6 bg-stone-900/30 border border-stone-800">
+          <h4 className="text-stone-400 text-sm uppercase tracking-wide mb-4 text-center">Timeline Legend</h4>
+          <div className="flex flex-wrap justify-center gap-4">
+            {timelineData.phases.map(phase => {
+              const colors = getPhaseColor(phase.id);
+              return (
+                <div key={phase.id} className="flex items-center gap-2">
+                  <div className={`w-3 h-3 rounded-full ${colors.border} border-2 bg-stone-900`} />
+                  <span className={`text-sm ${colors.text}`}>{phase.name}</span>
+                </div>
+              );
+            })}
+            <div className="flex items-center gap-2">
+              <div className="w-3 h-3 rounded-full bg-amber-500" />
+              <span className="text-sm text-amber-400">Key Milestone</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }

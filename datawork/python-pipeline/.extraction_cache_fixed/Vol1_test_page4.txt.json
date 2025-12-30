@@ -1,0 +1,208 @@
+{
+  "file": "Vol1_test_page4.txt",
+  "lines": 112,
+  "sessionBoundaries": [
+    {
+      "number": 15,
+      "lineStart": 0,
+      "lineEnd": 111
+    }
+  ],
+  "sessionNumbers": [
+    15
+  ],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        1,
+        59,
+        80
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "בנו כהן": {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "isWitness": true,
+      "mentions": [
+        24,
+        47,
+        56,
+        73,
+        98,
+        108
+      ],
+      "testimonySessions": [
+        15
+      ],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "הנריק רוס": {
+      "hebrew": "הנריק רוס",
+      "english": "Henryk Ross",
+      "isWitness": true,
+      "mentions": [
+        36
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        48
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "מרדכי אליעזר גרינשפן": {
+      "hebrew": "מרדכי אליעזר גרינשפן",
+      "english": "Mordeichai Eliezer Greenspan",
+      "isWitness": true,
+      "mentions": [
+        83
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "פרלה מרק": {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "isWitness": true,
+      "mentions": [
+        5
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "זינדל שמואל גרינשפן": {
+      "hebrew": "זינדל שמואל גרינשפן",
+      "english": "Zyndel Shmuel Grynszpan",
+      "isWitness": true,
+      "mentions": [
+        83
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    }
+  },
+  "key_figures": {
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        19,
+        97,
+        107
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    }
+  },
+  "locations": {
+    "Berlin": {
+      "hebrew": "ברלין",
+      "english": "Berlin",
+      "category": "city",
+      "mentions": [
+        94,
+        103
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "Tel Aviv": {
+      "hebrew": "תל אביב",
+      "english": "Tel Aviv",
+      "category": "city",
+      "mentions": [
+        6
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        17,
+        65,
+        93
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        24,
+        33,
+        61,
+        72,
+        98,
+        105,
+        108
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    }
+  },
+  "organizations": {},
+  "events": {
+    "Kristallnacht": {
+      "hebrew": "ליל הבדולח",
+      "english": "Kristallnacht",
+      "eventType": "pogrom",
+      "mentions": [
+        29
+      ],
+      "sessions": [
+        15
+      ],
+      "file": "Vol1_test_page4.txt"
+    }
+  }
+}

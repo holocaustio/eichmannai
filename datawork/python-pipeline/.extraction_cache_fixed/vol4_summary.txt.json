@@ -1,0 +1,344 @@
+{
+  "file": "vol4_summary.txt",
+  "lines": 229,
+  "sessionBoundaries": [
+    {
+      "number": 1,
+      "lineStart": 165,
+      "lineEnd": 168
+    },
+    {
+      "number": 2,
+      "lineStart": 169,
+      "lineEnd": 172
+    },
+    {
+      "number": 3,
+      "lineStart": 173,
+      "lineEnd": 176
+    },
+    {
+      "number": 4,
+      "lineStart": 177,
+      "lineEnd": 180
+    },
+    {
+      "number": 5,
+      "lineStart": 181,
+      "lineEnd": 184
+    },
+    {
+      "number": 6,
+      "lineStart": 185,
+      "lineEnd": 188
+    },
+    {
+      "number": 7,
+      "lineStart": 189,
+      "lineEnd": 228
+    }
+  ],
+  "sessionNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        133,
+        140,
+        141,
+        166,
+        170,
+        174,
+        178,
+        182,
+        186,
+        190
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "גדליה בן צבי": {
+      "hebrew": "גדליה בן צבי",
+      "english": "Gedalia Ben Zvi",
+      "isWitness": true,
+      "mentions": [
+        214
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "פרלה מרק": {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "isWitness": true,
+      "mentions": [
+        92
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "vol4_summary.txt"
+    }
+  },
+  "key_figures": {
+    "גדעון האוזנר": {
+      "hebrew": "גדעון האוזנר",
+      "english": "Gideon Hausner",
+      "role": "Attorney General / Chief Prosecutor",
+      "category": "prosecution",
+      "isWitness": false,
+      "mentions": [
+        211
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "רוברט סרבציוס": {
+      "hebrew": "רוברט סרבציוס",
+      "english": "Dr. Robert Servatius",
+      "role": "Defense Attorney",
+      "category": "defense",
+      "isWitness": false,
+      "mentions": [
+        219
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        205
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "בנימין הלוי": {
+      "hebrew": "בנימין הלוי",
+      "english": "Benjamin Halevi",
+      "role": "Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        206
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        2,
+        4,
+        14,
+        16,
+        30,
+        86,
+        98,
+        161,
+        165,
+        191,
+        201,
+        217
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    }
+  },
+  "locations": {
+    "Jerusalem": {
+      "hebrew": "ירושלים",
+      "english": "Jerusalem",
+      "category": "city",
+      "mentions": [
+        18,
+        22,
+        35,
+        46,
+        195
+      ],
+      "sessions": [
+        7
+      ],
+      "file": "vol4_summary.txt"
+    },
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        137
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        84,
+        144
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Poland": {
+      "hebrew": "פולין",
+      "english": "Poland",
+      "category": "country",
+      "mentions": [
+        89,
+        145
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Hungary": {
+      "hebrew": "הונגריה",
+      "english": "Hungary",
+      "category": "country",
+      "mentions": [
+        95,
+        129
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        3,
+        8,
+        15,
+        26
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Austria": {
+      "hebrew": "אוסטריה",
+      "english": "Austria",
+      "category": "country",
+      "mentions": [
+        84
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Netherlands": {
+      "hebrew": "הולנד",
+      "english": "Netherlands",
+      "category": "country",
+      "mentions": [
+        91
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Belgium": {
+      "hebrew": "בלגיה",
+      "english": "Belgium",
+      "category": "country",
+      "mentions": [
+        92
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "France": {
+      "hebrew": "צרפת",
+      "english": "France",
+      "category": "country",
+      "mentions": [
+        90
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Greece": {
+      "hebrew": "יוון",
+      "english": "Greece",
+      "category": "country",
+      "mentions": [
+        94
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Romania": {
+      "hebrew": "רומניה",
+      "english": "Romania",
+      "category": "country",
+      "mentions": [
+        94
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    }
+  },
+  "organizations": {},
+  "events": {
+    "Kristallnacht": {
+      "hebrew": "ליל הבדולח",
+      "english": "Kristallnacht",
+      "eventType": "pogrom",
+      "mentions": [
+        136
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    },
+    "Final Solution": {
+      "hebrew": "הפתרון הסופי",
+      "english": "Final Solution",
+      "eventType": "genocide",
+      "mentions": [
+        126
+      ],
+      "sessions": [],
+      "file": "vol4_summary.txt"
+    }
+  }
+}

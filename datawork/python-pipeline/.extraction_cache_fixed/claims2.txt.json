@@ -1,0 +1,223 @@
+{
+  "file": "claims2.txt",
+  "lines": 991,
+  "sessionBoundaries": [],
+  "sessionNumbers": [],
+  "witnesses": {
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        24,
+        25,
+        26,
+        53,
+        220,
+        632,
+        757
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "claims2.txt"
+    },
+    "גדליה בן צבי": {
+      "hebrew": "גדליה בן צבי",
+      "english": "Gedalia Ben Zvi",
+      "isWitness": true,
+      "mentions": [
+        377,
+        409,
+        462,
+        473,
+        514,
+        533,
+        977
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "claims2.txt"
+    },
+    "הנריק רוס": {
+      "hebrew": "הנריק רוס",
+      "english": "Henryk Ross",
+      "isWitness": true,
+      "mentions": [
+        370
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "claims2.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        88,
+        627,
+        632,
+        666,
+        745
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "claims2.txt"
+    },
+    "נפתלי בר שלום": {
+      "hebrew": "נפתלי בר שלום",
+      "english": "Naftali Bar-Shalom",
+      "isWitness": true,
+      "mentions": [
+        436,
+        854
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "claims2.txt"
+    }
+  },
+  "key_figures": {
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        3,
+        8,
+        17,
+        25,
+        62,
+        63,
+        68,
+        69,
+        228,
+        458,
+        718,
+        956,
+        972,
+        987
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    }
+  },
+  "locations": {
+    "Berlin": {
+      "hebrew": "ברלין",
+      "english": "Berlin",
+      "category": "city",
+      "mentions": [
+        821
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        244,
+        426,
+        434
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        76,
+        79,
+        292,
+        396,
+        778
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "Poland": {
+      "hebrew": "פולין",
+      "english": "Poland",
+      "category": "country",
+      "mentions": [
+        750,
+        760
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        26,
+        34,
+        36,
+        44,
+        47,
+        53,
+        58,
+        62,
+        64,
+        66,
+        660,
+        965,
+        967,
+        968,
+        970,
+        971,
+        976,
+        982,
+        983
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "France": {
+      "hebrew": "צרפת",
+      "english": "France",
+      "category": "country",
+      "mentions": [
+        112,
+        114,
+        119,
+        129,
+        130,
+        133,
+        522
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    },
+    "Greece": {
+      "hebrew": "יוון",
+      "english": "Greece",
+      "category": "country",
+      "mentions": [
+        57
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    }
+  },
+  "organizations": {
+    "SS": {
+      "hebrew": "SS",
+      "english": "SS",
+      "orgType": "nazi",
+      "mentions": [
+        205
+      ],
+      "sessions": [],
+      "file": "claims2.txt"
+    }
+  },
+  "events": {}
+}

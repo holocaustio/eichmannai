@@ -1,0 +1,121 @@
+{
+  "file": "Vol1_test_page5.txt",
+  "lines": 106,
+  "sessionBoundaries": [],
+  "sessionNumbers": [],
+  "witnesses": {
+    "בנו כהן": {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "isWitness": true,
+      "mentions": [
+        75,
+        90,
+        93
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        26,
+        35,
+        48,
+        84
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "נפתלי בר שלום": {
+      "hebrew": "נפתלי בר שלום",
+      "english": "Naftali Bar-Shalom",
+      "isWitness": true,
+      "mentions": [
+        48,
+        77
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "פרלה מרק": {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "isWitness": true,
+      "mentions": [
+        48
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "Vol1_test_page5.txt"
+    }
+  },
+  "key_figures": {
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        89,
+        103
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        3
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page5.txt"
+    }
+  },
+  "locations": {
+    "Dachau": {
+      "hebrew": "דכאו",
+      "english": "Dachau",
+      "category": "camp",
+      "mentions": [
+        72
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "Buchenwald": {
+      "hebrew": "בוכנוולד",
+      "english": "Buchenwald",
+      "category": "camp",
+      "mentions": [
+        72
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page5.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        18,
+        57,
+        100
+      ],
+      "sessions": [],
+      "file": "Vol1_test_page5.txt"
+    }
+  },
+  "organizations": {},
+  "events": {}
+}

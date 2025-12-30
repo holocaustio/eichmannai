@@ -1,0 +1,1200 @@
+{
+  "file": "vol1_summary.txt",
+  "lines": 799,
+  "sessionBoundaries": [
+    {
+      "number": 1,
+      "lineStart": 156,
+      "lineEnd": 179
+    },
+    {
+      "number": 5,
+      "lineStart": 180,
+      "lineEnd": 187
+    },
+    {
+      "number": 6,
+      "lineStart": 188,
+      "lineEnd": 200
+    },
+    {
+      "number": 9,
+      "lineStart": 201,
+      "lineEnd": 215
+    },
+    {
+      "number": 12,
+      "lineStart": 216,
+      "lineEnd": 223
+    },
+    {
+      "number": 13,
+      "lineStart": 224,
+      "lineEnd": 231
+    },
+    {
+      "number": 14,
+      "lineStart": 232,
+      "lineEnd": 243
+    },
+    {
+      "number": 15,
+      "lineStart": 244,
+      "lineEnd": 263
+    },
+    {
+      "number": 17,
+      "lineStart": 264,
+      "lineEnd": 272
+    },
+    {
+      "number": 2,
+      "lineStart": 273,
+      "lineEnd": 273
+    },
+    {
+      "number": 3,
+      "lineStart": 274,
+      "lineEnd": 274
+    },
+    {
+      "number": 4,
+      "lineStart": 275,
+      "lineEnd": 276
+    },
+    {
+      "number": 10,
+      "lineStart": 277,
+      "lineEnd": 277
+    },
+    {
+      "number": 11,
+      "lineStart": 278,
+      "lineEnd": 279
+    },
+    {
+      "number": 16,
+      "lineStart": 280,
+      "lineEnd": 288
+    },
+    {
+      "number": 18,
+      "lineStart": 289,
+      "lineEnd": 311
+    },
+    {
+      "number": 21,
+      "lineStart": 312,
+      "lineEnd": 331
+    },
+    {
+      "number": 23,
+      "lineStart": 332,
+      "lineEnd": 342
+    },
+    {
+      "number": 24,
+      "lineStart": 343,
+      "lineEnd": 358
+    },
+    {
+      "number": 25,
+      "lineStart": 359,
+      "lineEnd": 393
+    },
+    {
+      "number": 19,
+      "lineStart": 394,
+      "lineEnd": 395
+    },
+    {
+      "number": 20,
+      "lineStart": 396,
+      "lineEnd": 397
+    },
+    {
+      "number": 22,
+      "lineStart": 398,
+      "lineEnd": 399
+    },
+    {
+      "number": 26,
+      "lineStart": 400,
+      "lineEnd": 401
+    },
+    {
+      "number": 27,
+      "lineStart": 402,
+      "lineEnd": 403
+    },
+    {
+      "number": 28,
+      "lineStart": 404,
+      "lineEnd": 447
+    },
+    {
+      "number": 31,
+      "lineStart": 448,
+      "lineEnd": 455
+    },
+    {
+      "number": 32,
+      "lineStart": 456,
+      "lineEnd": 486
+    },
+    {
+      "number": 29,
+      "lineStart": 487,
+      "lineEnd": 488
+    },
+    {
+      "number": 30,
+      "lineStart": 489,
+      "lineEnd": 490
+    },
+    {
+      "number": 33,
+      "lineStart": 491,
+      "lineEnd": 492
+    },
+    {
+      "number": 34,
+      "lineStart": 493,
+      "lineEnd": 494
+    },
+    {
+      "number": 35,
+      "lineStart": 495,
+      "lineEnd": 496
+    },
+    {
+      "number": 36,
+      "lineStart": 497,
+      "lineEnd": 532
+    },
+    {
+      "number": 37,
+      "lineStart": 533,
+      "lineEnd": 534
+    },
+    {
+      "number": 38,
+      "lineStart": 535,
+      "lineEnd": 536
+    },
+    {
+      "number": 39,
+      "lineStart": 537,
+      "lineEnd": 538
+    },
+    {
+      "number": 40,
+      "lineStart": 539,
+      "lineEnd": 798
+    }
+  ],
+  "sessionNumbers": [
+    1,
+    5,
+    6,
+    9,
+    12,
+    13,
+    14,
+    15,
+    17,
+    2,
+    3,
+    4,
+    10,
+    11,
+    16,
+    18,
+    21,
+    23,
+    24,
+    25,
+    19,
+    20,
+    22,
+    26,
+    27,
+    28,
+    31,
+    32,
+    29,
+    30,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "witnesses": {
+    "אבא קובנר": {
+      "hebrew": "אבא קובנר",
+      "english": "Abba Kowner",
+      "isWitness": true,
+      "mentions": [
+        374
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "עדה ליכטמן": {
+      "hebrew": "עדה ליכטמן",
+      "english": "Ada Lichtman",
+      "isWitness": true,
+      "mentions": [
+        306
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אהרון חוטר ישי": {
+      "hebrew": "אהרון חוטר ישי",
+      "english": "Aharon Choter Yishai",
+      "isWitness": true,
+      "mentions": [
+        47,
+        109,
+        116,
+        157,
+        181,
+        189,
+        196,
+        202,
+        217,
+        225,
+        228,
+        233,
+        245,
+        265,
+        274,
+        275,
+        276,
+        278,
+        279,
+        281,
+        290,
+        313,
+        333,
+        344,
+        360,
+        395,
+        397,
+        399,
+        401,
+        403,
+        405,
+        449,
+        457,
+        488,
+        490,
+        492,
+        494,
+        496,
+        498,
+        534,
+        536,
+        538,
+        540,
+        720,
+        786
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אהרון וולטר לינדנשטראוס": {
+      "hebrew": "אהרון וולטר לינדנשטראוס",
+      "english": "Aharon Walter Lindenstrauss",
+      "isWitness": true,
+      "mentions": [
+        248
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        15
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אביבה פליישמן": {
+      "hebrew": "אביבה פליישמן",
+      "english": "Aviva Flieschman",
+      "isWitness": true,
+      "mentions": [
+        254,
+        269
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        17,
+        15
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אבנר לס": {
+      "hebrew": "אבנר לס",
+      "english": "Avner Less",
+      "isWitness": true,
+      "mentions": [
+        207,
+        208,
+        209,
+        219
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        9,
+        12
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אברהם אביאל": {
+      "hebrew": "אברהם אביאל",
+      "english": "Abraham Aviel",
+      "isWitness": true,
+      "mentions": [
+        425
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        28
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אברהם קרסיק": {
+      "hebrew": "אברהם קרסיק",
+      "english": "Abraham Karassik",
+      "isWitness": true,
+      "mentions": [
+        375
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "ברוך דובדבני": {
+      "hebrew": "ברוך דובדבני",
+      "english": "Baruch Duvdevani",
+      "isWitness": true,
+      "mentions": [
+        367
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "בת שבע רופאייזן": {
+      "hebrew": "בת שבע רופאייזן",
+      "english": "Batsheva Rufeisen",
+      "isWitness": true,
+      "mentions": [
+        369
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "בנו כהן": {
+      "hebrew": "בנו כהן",
+      "english": "Benno Cohen",
+      "isWitness": true,
+      "mentions": [
+        238,
+        247
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        14,
+        15
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "דר' פאול מרץ": {
+      "hebrew": "דר' פאול מרץ",
+      "english": "Dr. Paul Maerz",
+      "isWitness": true,
+      "mentions": [
+        297
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "דר' אדולף ברמן": {
+      "hebrew": "דר' אדולף ברמן",
+      "english": "Dr. Adolf Berman",
+      "isWitness": true,
+      "mentions": [
+        366,
+        432
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25,
+        28
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "דר' יעקב קרטקי": {
+      "hebrew": "דר' יעקב קרטקי",
+      "english": "Dr. Jacob Kratky",
+      "isWitness": true,
+      "mentions": [
+        304
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "דר' אהרון פרץ": {
+      "hebrew": "דר' אהרון פרץ",
+      "english": "Dr. Aharon Peretz",
+      "isWitness": true,
+      "mentions": [
+        377
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "גדליה בן צבי": {
+      "hebrew": "גדליה בן צבי",
+      "english": "Gedalia Ben Zvi",
+      "isWitness": true,
+      "mentions": [
+        315,
+        363,
+        601
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        40,
+        25,
+        21
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "הנרייטה סמואל": {
+      "hebrew": "הנרייטה סמואל",
+      "english": "Henriette Samuel",
+      "isWitness": true,
+      "mentions": [
+        505
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        36
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "הנריק רוס": {
+      "hebrew": "הנריק רוס",
+      "english": "Henryk Ross",
+      "isWitness": true,
+      "mentions": [
+        338,
+        346
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        24,
+        23
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "הילדגארד הנשל": {
+      "hebrew": "הילדגארד הנשל",
+      "english": "Hildegard Henschel",
+      "isWitness": true,
+      "mentions": [
+        548,
+        550
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "ישראל כרמל": {
+      "hebrew": "ישראל כרמל",
+      "english": "Israel Carmel",
+      "isWitness": true,
+      "mentions": [
+        351
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        24
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "מיכאל מוסמאנו": {
+      "hebrew": "מיכאל מוסמאנו",
+      "english": "Judge Michael Musmanno",
+      "isWitness": true,
+      "mentions": [
+        555,
+        556,
+        558,
+        559,
+        561,
+        564
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "מרגיט רייך": {
+      "hebrew": "מרגיט רייך",
+      "english": "Margit Reich",
+      "isWitness": true,
+      "mentions": [
+        52,
+        54
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [],
+      "file": "vol1_summary.txt"
+    },
+    "מקס בורגר": {
+      "hebrew": "מקס בורגר",
+      "english": "Max Burger",
+      "isWitness": true,
+      "mentions": [
+        299
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "מרדכי אנסבכר": {
+      "hebrew": "מרדכי אנסבכר",
+      "english": "Mordechai Ansbacher",
+      "isWitness": true,
+      "mentions": [
+        551
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "מרדכי אליעזר גרינשפן": {
+      "hebrew": "מרדכי אליעזר גרינשפן",
+      "english": "Mordeichai Eliezer Greenspan",
+      "isWitness": true,
+      "mentions": [
+        236,
+        237
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        14
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "מוריץ פליישמן": {
+      "hebrew": "מוריץ פליישמן",
+      "english": "Moritz Fleischman",
+      "isWitness": true,
+      "mentions": [
+        254,
+        269
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        17,
+        15
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "פרידה מזיא": {
+      "hebrew": "פרידה מזיא",
+      "english": "Freida Mazia",
+      "isWitness": true,
+      "mentions": [
+        372
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "ולי צימט": {
+      "hebrew": "ולי צימט",
+      "english": "Vali Zimmet",
+      "isWitness": true,
+      "mentions": [
+        298
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "נפתלי בר שלום": {
+      "hebrew": "נפתלי בר שלום",
+      "english": "Naftali Bar-Shalom",
+      "isWitness": true,
+      "mentions": [
+        204,
+        220,
+        227
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        9,
+        12,
+        13
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "פרלה מרק": {
+      "hebrew": "פרלה מרק",
+      "english": "Perla Mark",
+      "isWitness": true,
+      "mentions": [
+        373,
+        500,
+        503
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25,
+        36
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "רבקה קופר": {
+      "hebrew": "רבקה קופר",
+      "english": "Rivka Kupper",
+      "isWitness": true,
+      "mentions": [
+        368
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "רבקה יוסלבסקה": {
+      "hebrew": "רבקה יוסלבסקה",
+      "english": "Rivka Yoselevska",
+      "isWitness": true,
+      "mentions": [
+        430
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        28
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "שמעון סרברניק": {
+      "hebrew": "שמעון סרברניק",
+      "english": "Shimon Servernik",
+      "isWitness": true,
+      "mentions": [
+        546
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "יצחק צוקרמן": {
+      "hebrew": "יצחק צוקרמן",
+      "english": "Yitzhak Zukermann",
+      "isWitness": true,
+      "mentions": [
+        363,
+        364
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "זינדל שמואל גרינשפן": {
+      "hebrew": "זינדל שמואל גרינשפן",
+      "english": "Zyndel Shmuel Grynszpan",
+      "isWitness": true,
+      "mentions": [
+        236,
+        237
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        14
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "צביה לובטקין צוקרמן": {
+      "hebrew": "צביה לובטקין צוקרמן",
+      "english": "Zivia Lubetkin Zukermann",
+      "isWitness": true,
+      "mentions": [
+        363,
+        364
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "נח זבלודוביץ": {
+      "hebrew": "נח זבלודוביץ",
+      "english": "Noach Zabludowicz",
+      "isWitness": true,
+      "mentions": [
+        317
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        21
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "דר' משה בייסקי": {
+      "hebrew": "דר' משה בייסקי",
+      "english": "Dr. Moshe Beisky",
+      "isWitness": true,
+      "mentions": [
+        319
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        21
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אסתר שילה": {
+      "hebrew": "אסתר שילה",
+      "english": "Ester Shilo",
+      "isWitness": true,
+      "mentions": [
+        349
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        24
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אהרון זילברמן": {
+      "hebrew": "אהרון זילברמן",
+      "english": "Aharon Zilberman",
+      "isWitness": true,
+      "mentions": [
+        432
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        28
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "יעקב גורפיין": {
+      "hebrew": "יעקב גורפיין",
+      "english": "Yacov Gurfein",
+      "isWitness": true,
+      "mentions": [
+        316
+      ],
+      "testimonySessions": [],
+      "mentionSessions": [
+        21
+      ],
+      "file": "vol1_summary.txt"
+    }
+  },
+  "key_figures": {
+    "גדעון האוזנר": {
+      "hebrew": "גדעון האוזנר",
+      "english": "Gideon Hausner",
+      "role": "Attorney General / Chief Prosecutor",
+      "category": "prosecution",
+      "isWitness": false,
+      "mentions": [
+        121,
+        123,
+        598
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "רוברט סרבציוס": {
+      "hebrew": "רוברט סרבציוס",
+      "english": "Dr. Robert Servatius",
+      "role": "Defense Attorney",
+      "category": "defense",
+      "isWitness": false,
+      "mentions": [
+        606,
+        644,
+        655
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "משה לנדאו": {
+      "hebrew": "משה לנדאו",
+      "english": "Moshe Landau",
+      "role": "Presiding Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        109,
+        592,
+        774,
+        785,
+        792,
+        797
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "בנימין הלוי": {
+      "hebrew": "בנימין הלוי",
+      "english": "Benjamin Halevi",
+      "role": "Judge",
+      "category": "judges",
+      "isWitness": false,
+      "mentions": [
+        593,
+        764
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "אדולף אייכמן": {
+      "hebrew": "אדולף אייכמן",
+      "english": "Adolf Eichmann",
+      "role": "Defendant",
+      "category": "defendant",
+      "isWitness": false,
+      "mentions": [
+        2,
+        4,
+        14,
+        16,
+        30,
+        40,
+        44,
+        48,
+        57,
+        62,
+        64,
+        73,
+        76,
+        81,
+        87,
+        90,
+        102,
+        119,
+        174,
+        192,
+        207,
+        294,
+        302,
+        431,
+        433,
+        588,
+        604,
+        644
+      ],
+      "sessions": [
+        1,
+        6,
+        40,
+        9,
+        18,
+        28
+      ],
+      "file": "vol1_summary.txt"
+    }
+  },
+  "locations": {
+    "Warsaw": {
+      "hebrew": "ורשה",
+      "english": "Warsaw",
+      "category": "ghetto",
+      "mentions": [
+        371
+      ],
+      "sessions": [
+        25
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Berlin": {
+      "hebrew": "ברלין",
+      "english": "Berlin",
+      "category": "city",
+      "mentions": [
+        549
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Prague": {
+      "hebrew": "פראג",
+      "english": "Prague",
+      "category": "city",
+      "mentions": [
+        303
+      ],
+      "sessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Jerusalem": {
+      "hebrew": "ירושלים",
+      "english": "Jerusalem",
+      "category": "city",
+      "mentions": [
+        18,
+        22,
+        35,
+        41,
+        43,
+        60,
+        92,
+        117,
+        582
+      ],
+      "sessions": [
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Nuremberg": {
+      "hebrew": "נירנברג",
+      "english": "Nuremberg",
+      "category": "city",
+      "mentions": [
+        71,
+        89
+      ],
+      "sessions": [],
+      "file": "vol1_summary.txt"
+    },
+    "Germany": {
+      "hebrew": "גרמניה",
+      "english": "Germany",
+      "category": "country",
+      "mentions": [
+        50,
+        97,
+        293,
+        362,
+        545,
+        552
+      ],
+      "sessions": [
+        40,
+        25,
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Poland": {
+      "hebrew": "פולין",
+      "english": "Poland",
+      "category": "country",
+      "mentions": [
+        320,
+        370,
+        451
+      ],
+      "sessions": [
+        25,
+        21,
+        31
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Israel": {
+      "hebrew": "ישראל",
+      "english": "Israel",
+      "category": "country",
+      "mentions": [
+        3,
+        8,
+        15,
+        26,
+        44,
+        56,
+        77,
+        103,
+        351,
+        620,
+        621
+      ],
+      "sessions": [
+        24,
+        40
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Austria": {
+      "hebrew": "אוסטריה",
+      "english": "Austria",
+      "category": "country",
+      "mentions": [
+        97,
+        295,
+        296
+      ],
+      "sessions": [
+        18
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Netherlands": {
+      "hebrew": "הולנד",
+      "english": "Netherlands",
+      "category": "country",
+      "mentions": [
+        468,
+        471,
+        473,
+        474,
+        475,
+        476
+      ],
+      "sessions": [
+        32
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "Belgium": {
+      "hebrew": "בלגיה",
+      "english": "Belgium",
+      "category": "country",
+      "mentions": [
+        464,
+        465,
+        467
+      ],
+      "sessions": [
+        32
+      ],
+      "file": "vol1_summary.txt"
+    },
+    "France": {
+      "hebrew": "צרפת",
+      "english": "France",
+      "category": "country",
+      "mentions": [
+        452,
+        459,
+        461
+      ],
+      "sessions": [
+        32,
+        31
+      ],
+      "file": "vol1_summary.txt"
+    }
+  },
+  "organizations": {
+    "Gestapo": {
+      "hebrew": "הגסטאפו",
+      "english": "Gestapo",
+      "orgType": "nazi",
+      "mentions": [
+        81
+      ],
+      "sessions": [],
+      "file": "vol1_summary.txt"
+    }
+  },
+  "events": {}
+}

@@ -1,0 +1,38 @@
+{
+  "file": "The Eichmann Trial.txt",
+  "lines": 1139,
+  "sessionBoundaries": [],
+  "sessionNumbers": [],
+  "witnesses": {},
+  "key_figures": {},
+  "locations": {},
+  "organizations": {
+    "SS": {
+      "hebrew": "SS",
+      "english": "SS",
+      "orgType": "nazi",
+      "mentions": [
+        89,
+        90,
+        95,
+        97,
+        250,
+        325,
+        389,
+        442,
+        448,
+        540,
+        555,
+        556,
+        563,
+        584,
+        619,
+        663,
+        864
+      ],
+      "sessions": [],
+      "file": "The Eichmann Trial.txt"
+    }
+  },
+  "events": {}
+}

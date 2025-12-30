@@ -74,15 +74,18 @@ export default function WitnessDetailPage() {
   useEffect(() => {
     async function loadData() {
       try {
-        // Load consolidated entities and session videos
-        const [consolidatedRes, videosRes] = await Promise.all([
+        // Load consolidated entities, testimony index, and session videos
+        const [consolidatedRes, testimonyIndexRes, videosRes] = await Promise.all([
           fetch('/data/entities-consolidated.json'),
+          fetch('/data/testimonies/_index.json'),
           fetch('/data/session-videos.json')
         ]);
         const consolidated: EntityGraphData & { nodes: Witness[] } = await consolidatedRes.json();
+        const testimonyIndex = await testimonyIndexRes.json();
         const videosData: SessionVideosData = await videosRes.json();
         
-        const found = consolidated.nodes.find((n: Witness) => 
+        // First try to find in consolidated entities
+        let found = consolidated.nodes.find((n: Witness) => 
           n.isWitness && (
             n.name === witnessName ||
             n.name.toLowerCase() === witnessName.toLowerCase() ||
@@ -90,6 +93,34 @@ export default function WitnessDetailPage() {
             n.name.replace(/ /g, '_').toLowerCase() === witnessName.toLowerCase()
           )
         );
+        
+        // If not found in entities, try to find in testimony index
+        if (!found) {
+          const testimonyInfo = testimonyIndex.testimonies?.find((t: TestimonyIndex) => 
+            t.witness === witnessName ||
+            t.witness.toLowerCase() === witnessName.toLowerCase() ||
+            t.witness.replace(/ /g, '_') === witnessName ||
+            t.witness.replace(/ /g, '_').toLowerCase() === witnessName.toLowerCase()
+          );
+          
+          if (testimonyInfo) {
+            // Create a minimal witness object from testimony info
+            found = {
+              id: `testimony-${testimonyInfo.witness.replace(/ /g, '_')}`,
+              name: testimonyInfo.witness,
+              hebrewName: testimonyInfo.hebrew,
+              type: 'PERSON',
+              role: 'Witness',
+              isWitness: true,
+              sessions: [],
+              mentions: 1,
+              hasTestimony: true,
+              testimonyFile: testimonyInfo.output,
+              testimonyLines: testimonyInfo.lines,
+              testimonyChars: testimonyInfo.chars
+            };
+          }
+        }
         
         if (!found) {
           setError('Witness not found');
@@ -132,39 +163,38 @@ export default function WitnessDetailPage() {
         const linked = consolidated.nodes
           .filter(n => linkedEntityIds.has(n.id) && !n.isWitness)
           .sort((a, b) => (b.mentions || 0) - (a.mentions || 0))
-          .slice(0, 30);
+          .slice(0, 40);
         
         setLinkedEntities(linked as LinkedEntity[]);
         
-        // Load testimony index to find the markdown file
-        const indexRes = await fetch('/data/testimonies/_index.json');
-        const index = await indexRes.json();
+        // Load testimony - check if we already have the filename from testimony index fallback
+        let testimonyFilename = found.testimonyFile;
         
-        const testimonyInfo = index.testimonies.find((t: TestimonyIndex) => 
-          t.witness === found.name || 
-          t.witness.toLowerCase() === found.name.toLowerCase()
-        );
+        if (!testimonyFilename) {
+          // Search testimony index for this witness
+          const testimonyInfo = testimonyIndex.testimonies?.find((t: TestimonyIndex) => 
+            t.witness === found.name || 
+            t.witness.toLowerCase() === found.name.toLowerCase()
+          );
+          if (testimonyInfo) {
+            testimonyFilename = testimonyInfo.output;
+          }
+        }
         
-        if (testimonyInfo) {
-          // Build filename from witness name
-          const safeName = found.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
-          const mdRes = await fetch(`/data/testimonies/${safeName}.md`);
+        if (testimonyFilename) {
+          const mdRes = await fetch(`/data/testimonies/${testimonyFilename}`);
           
           if (mdRes.ok) {
             const mdContent = await mdRes.text();
             setTestimony(mdContent);
           } else {
-            // Try alternate filename formats
-            const altName = found.name.replace(/ /g, '_');
-            const altRes = await fetch(`/data/testimonies/${altName}.md`);
+            // Fallback: try to build filename from witness name
+            const safeName = found.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
+            const altRes = await fetch(`/data/testimonies/${safeName}.md`);
             if (altRes.ok) {
               setTestimony(await altRes.text());
-            } else {
-              setError('Testimony file not found');
             }
           }
-        } else {
-          setError('No testimony available for this witness');
         }
       } catch (err) {
         setError('Failed to load data');
@@ -257,7 +287,7 @@ export default function WitnessDetailPage() {
       if (trimmed.includes('סיימת את עדותך') || trimmed.includes('גמרת את עדותך')) {
         elements.push(
           <div key={i} className="my-8 py-4 border-y border-stone-700 text-center">
-            <span className="text-stone-400 font-serif text-lg" dir="rtl">
+            <span className="text-stone-400 text-lg" dir="rtl">
               {trimmed.replace(/\*\*/g, '')}
             </span>
           </div>
@@ -410,18 +440,19 @@ export default function WitnessDetailPage() {
                   <h3 className="text-xs text-stone-500 uppercase tracking-wider mb-3">
                     Related Entities ({linkedEntities.length})
                   </h3>
-                  <div className="space-y-3 max-h-80 overflow-y-auto pr-1">
+                  <div className="space-y-3 max-h-96 overflow-y-auto pr-1">
                     {/* Group by type */}
-                    {(['PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE'] as const).map(type => {
+                    {(['SESSION', 'PERSON', 'LOCATION', 'ORGANIZATION', 'EVENT', 'DATE'] as const).map(type => {
                       const ofType = linkedEntities.filter(e => e.type === type);
                       if (ofType.length === 0) return null;
                       
-                      const typeConfig: Record<string, { icon: string; color: string }> = {
-                        'PERSON': { icon: '👤', color: 'text-amber-400' },
-                        'LOCATION': { icon: '📍', color: 'text-blue-400' },
-                        'ORGANIZATION': { icon: '🏛️', color: 'text-purple-400' },
-                        'EVENT': { icon: '📅', color: 'text-emerald-400' },
-                        'DATE': { icon: '📆', color: 'text-rose-400' },
+                      const typeConfig: Record<string, { icon: string; color: string; label: string }> = {
+                        'SESSION': { icon: '📋', color: 'text-cyan-400', label: 'Sessions' },
+                        'PERSON': { icon: '👤', color: 'text-amber-400', label: 'People' },
+                        'LOCATION': { icon: '📍', color: 'text-blue-400', label: 'Locations' },
+                        'ORGANIZATION': { icon: '🏛️', color: 'text-purple-400', label: 'Organizations' },
+                        'EVENT': { icon: '📅', color: 'text-emerald-400', label: 'Events' },
+                        'DATE': { icon: '📆', color: 'text-rose-400', label: 'Dates' },
                       };
                       const config = typeConfig[type];
                       
@@ -429,21 +460,25 @@ export default function WitnessDetailPage() {
                         <div key={type}>
                           <p className={`text-xs ${config.color} mb-1.5 flex items-center gap-1`}>
                             <span>{config.icon}</span>
-                            {type} ({ofType.length})
+                            {config.label} ({ofType.length})
                           </p>
                           <div className="flex flex-wrap gap-1.5">
-                            {ofType.slice(0, 8).map(entity => (
+                            {ofType.slice(0, 10).map(entity => (
                               <Link
                                 key={entity.id}
-                                href={`/explore/${encodeURIComponent(entity.id)}`}
-                                className="px-2 py-1 bg-stone-800/50 border border-stone-700 text-stone-400 text-xs hover:bg-stone-700 hover:text-stone-200 hover:border-stone-600 transition-colors rounded"
+                                href={type === 'SESSION' ? `/explore/${encodeURIComponent(entity.id)}` : `/explore/${encodeURIComponent(entity.id)}`}
+                                className={`px-2 py-1 border text-xs hover:text-stone-200 transition-colors rounded ${
+                                  type === 'SESSION' 
+                                    ? 'bg-cyan-900/30 border-cyan-800/50 text-cyan-300 hover:bg-cyan-800/50 hover:border-cyan-700'
+                                    : 'bg-stone-800/50 border-stone-700 text-stone-400 hover:bg-stone-700 hover:border-stone-600'
+                                }`}
                               >
-                                {entity.name.length > 20 ? entity.name.slice(0, 20) + '...' : entity.name}
+                                {entity.name.length > 25 ? entity.name.slice(0, 25) + '...' : entity.name}
                               </Link>
                             ))}
-                            {ofType.length > 8 && (
+                            {ofType.length > 10 && (
                               <span className="px-2 py-1 text-stone-600 text-xs">
-                                +{ofType.length - 8} more
+                                +{ofType.length - 10} more
                               </span>
                             )}
                           </div>
@@ -487,7 +522,7 @@ export default function WitnessDetailPage() {
 
             {testimony && (
               <div className="bg-stone-900/50 border border-stone-800 p-6 md:p-10">
-                <div className="font-serif text-base md:text-lg leading-loose">
+                <div className="text-base md:text-lg leading-loose">
                   {renderMarkdown(testimony)}
                 </div>
               </div>
