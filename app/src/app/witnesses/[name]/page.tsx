@@ -217,7 +217,7 @@ export default function WitnessDetailPage() {
       const trimmed = line.trim();
       
       if (!trimmed) {
-        elements.push(<div key={i} className="h-4" />);
+        elements.push(<div key={i} className="h-2" />);
         continue;
       }
       
@@ -250,7 +250,7 @@ export default function WitnessDetailPage() {
         if (match) {
           const [, speaker, rest] = match;
           elements.push(
-            <div key={i} className="mt-6 mb-2" dir="rtl">
+            <div key={i} className="mt-2 mb-2" dir="rtl">
               <span className="text-amber-500 font-semibold">{speaker}:</span>
               {rest && <span className="text-stone-300 mr-2">{rest}</span>}
             </div>
@@ -263,7 +263,7 @@ export default function WitnessDetailPage() {
       if (trimmed.startsWith('**שאלה:**') || trimmed.startsWith('ש.')) {
         const text = trimmed.replace(/^\*\*שאלה:\*\*\s*/, '').replace(/^ש\.\s*/, '');
         elements.push(
-          <div key={i} className="mt-4 mb-2 flex gap-3" dir="rtl">
+          <div key={i} className="mt-2 mb-1 flex gap-3" dir="rtl">
             <span className="text-amber-500 font-bold shrink-0">ש.</span>
             <span className="text-stone-300">{text}</span>
           </div>
@@ -275,7 +275,7 @@ export default function WitnessDetailPage() {
       if (trimmed.startsWith('**תשובה:**') || trimmed.startsWith('ת.')) {
         const text = trimmed.replace(/^\*\*תשובה:\*\*\s*/, '').replace(/^ת\.\s*/, '');
         elements.push(
-          <div key={i} className="mb-4 pr-4 border-r-2 border-emerald-800/50 flex gap-3" dir="rtl">
+          <div key={i} className="mb-2 pr-4 border-r-2 border-emerald-800/50 flex gap-3" dir="rtl">
             <span className="text-emerald-500 font-bold shrink-0">ת.</span>
             <span className="text-stone-200">{text}</span>
           </div>

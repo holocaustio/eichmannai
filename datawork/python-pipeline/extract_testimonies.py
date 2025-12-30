@@ -28,34 +28,78 @@ def format_as_markdown(lines: list, hebrew_name: str, english_name: str) -> str:
     md += f"## Testimony of {english_name}\n\n"
     md += "---\n\n"
     
+    paragraphs = []
+    current_paragraph = []
+    
     for line in lines:
         clean = clean_line(line)
         if not clean:
+            # Empty line = paragraph break
+            if current_paragraph:
+                paragraphs.append(' '.join(current_paragraph))
+                current_paragraph = []
             continue
         
-        # Format speaker lines
-        if any(clean.startswith(prefix) for prefix in ['אב בית הדין', 'אב בית‪ẁ‬הדין', 'אב ביתֿהדין']):
-            md += f"\n**אב בית הדין (השופט לנדאו):** {clean.split(maxsplit=3)[-1] if len(clean.split()) > 3 else clean}\n\n"
-        elif clean.startswith('היועץ המשפטי') or clean.startswith('היועץ המשפטי'):
-            md += f"\n**היועץ המשפטי (התובע):** {clean.split(maxsplit=2)[-1] if len(clean.split()) > 2 else clean}\n\n"
-        elif clean.startswith('ד"ר סרבציוס') or clean.startswith('דר\' סרבציוס'):
-            md += f"\n**ד\"ר סרבציוס (הסניגור):** {clean.split(maxsplit=2)[-1] if len(clean.split()) > 2 else clean}\n\n"
-        elif clean.startswith('השופט הלוי'):
-            md += f"\n**השופט הלוי:** {clean.split(maxsplit=2)[-1] if len(clean.split()) > 2 else clean}\n\n"
-        elif clean.startswith('השופט רוה') or clean.startswith('השופט רווה'):
-            md += f"\n**השופט רווה:** {clean.split(maxsplit=2)[-1] if len(clean.split()) > 2 else clean}\n\n"
-        elif clean.startswith('העד ') or clean.startswith('העדה '):
-            parts = clean.split(maxsplit=2)
+        # Check if this is a new speaker/section
+        is_new_section = any([
+            any(clean.startswith(prefix) for prefix in ['אב בית הדין', 'אב בית‪ẁ‬הדין', 'אב ביתֿהדין']),
+            clean.startswith('היועץ המשפטי'),
+            clean.startswith('ד"ר סרבציוס') or clean.startswith("דר' סרבציוס"),
+            clean.startswith('השופט הלוי'),
+            clean.startswith('השופט רוה') or clean.startswith('השופט רווה'),
+            clean.startswith('העד ') or clean.startswith('העדה '),
+            clean.startswith('ש.') or clean.startswith('ש .'),
+            clean.startswith('ת.') or clean.startswith('ת .'),
+        ])
+        
+        if is_new_section and current_paragraph:
+            paragraphs.append(' '.join(current_paragraph))
+            current_paragraph = []
+        
+        current_paragraph.append(clean)
+    
+    # Don't forget the last paragraph
+    if current_paragraph:
+        paragraphs.append(' '.join(current_paragraph))
+    
+    # Format paragraphs
+    for para in paragraphs:
+        if any(para.startswith(prefix) for prefix in ['אב בית הדין', 'אב בית‪ẁ‬הדין', 'אב ביתֿהדין']):
+            parts = para.split(maxsplit=3)
+            content = parts[-1] if len(parts) > 3 else para
+            md += f"**אב בית הדין (השופט לנדאו):** {content}\n\n"
+        elif para.startswith('היועץ המשפטי'):
+            parts = para.split(maxsplit=2)
+            content = parts[-1] if len(parts) > 2 else para
+            md += f"**היועץ המשפטי (התובע):** {content}\n\n"
+        elif para.startswith('ד"ר סרבציוס') or para.startswith("דר' סרבציוס"):
+            parts = para.split(maxsplit=2)
+            content = parts[-1] if len(parts) > 2 else para
+            md += f"**ד\"ר סרבציוס (הסניגור):** {content}\n\n"
+        elif para.startswith('השופט הלוי'):
+            parts = para.split(maxsplit=2)
+            content = parts[-1] if len(parts) > 2 else para
+            md += f"**השופט הלוי:** {content}\n\n"
+        elif para.startswith('השופט רוה') or para.startswith('השופט רווה'):
+            parts = para.split(maxsplit=2)
+            content = parts[-1] if len(parts) > 2 else para
+            md += f"**השופט רווה:** {content}\n\n"
+        elif para.startswith('העד ') or para.startswith('העדה '):
+            parts = para.split(maxsplit=2)
             if len(parts) >= 2:
-                md += f"\n**{parts[0]} {parts[1]}:** {parts[2] if len(parts) > 2 else ''}\n\n"
+                md += f"**{parts[0]} {parts[1]}:** {parts[2] if len(parts) > 2 else ''}\n\n"
             else:
-                md += f"\n**{clean}**\n\n"
-        elif clean.startswith('ש.') or clean.startswith('ש .'):
-            md += f"\n**שאלה:** {clean[2:].strip()}\n\n"
-        elif clean.startswith('ת.') or clean.startswith('ת .'):
-            md += f"\n**תשובה:** {clean[2:].strip()}\n\n"
+                md += f"**{para}**\n\n"
+        elif para.startswith('ש.') or para.startswith('ש .'):
+            md += f"**שאלה:** {para[2:].strip()}\n\n"
+        elif para.startswith('ת.') or para.startswith('ת .'):
+            md += f"**תשובה:** {para[2:].strip()}\n\n"
         else:
-            md += f"{clean}\n\n"
+            md += f"{para}\n\n"
+    
+    # Clean up excessive newlines
+    while '\n\n\n' in md:
+        md = md.replace('\n\n\n', '\n\n')
     
     return md
 

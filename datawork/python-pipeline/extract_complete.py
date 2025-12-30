@@ -330,56 +330,84 @@ def extract_from_file(file_path: Path, witness_index: Dict, is_transcript: bool)
                 "mentions": mention_count,
             }
     
-    # Extract locations
+    # Extract locations with session tracking
     locations = {}
     for hebrew, info in KNOWN_LOCATIONS.items():
-        count = text.count(hebrew)
-        if count > 0:
+        mention_sessions = set()
+        mention_count = 0
+        for i, line in enumerate(lines):
+            if hebrew in line:
+                mention_count += 1
+                session = get_session_for_line(i, boundaries)
+                if session:
+                    mention_sessions.add(session)
+        if mention_count > 0:
             locations[info["english"]] = {
                 "hebrew": hebrew,
                 "english": info["english"],
                 "category": info["category"],
-                "mentions": count,
+                "mentions": mention_count,
+                "sessions": mention_sessions,
             }
     
-    # Extract organizations
+    # Extract organizations with session tracking
     orgs = {}
     for hebrew, info in KNOWN_ORGS.items():
-        count = text.count(hebrew)
-        if count > 0:
+        mention_sessions = set()
+        mention_count = 0
+        for i, line in enumerate(lines):
+            if hebrew in line:
+                mention_count += 1
+                session = get_session_for_line(i, boundaries)
+                if session:
+                    mention_sessions.add(session)
+        if mention_count > 0:
             orgs[info["english"]] = {
                 "hebrew": hebrew,
                 "english": info["english"],
                 "type": info["type"],
-                "mentions": count,
+                "mentions": mention_count,
+                "sessions": mention_sessions,
             }
     
-    # Extract events
+    # Extract events with session tracking
     events = {}
     for hebrew, info in KNOWN_EVENTS.items():
-        count = text.count(hebrew)
-        if count > 0:
+        mention_sessions = set()
+        mention_count = 0
+        for i, line in enumerate(lines):
+            if hebrew in line:
+                mention_count += 1
+                session = get_session_for_line(i, boundaries)
+                if session:
+                    mention_sessions.add(session)
+        if mention_count > 0:
             events[info["english"]] = {
                 "hebrew": hebrew,
                 "english": info["english"],
                 "type": info["type"],
-                "mentions": count,
+                "mentions": mention_count,
+                "sessions": mention_sessions,
             }
     
-    # Extract key figures
+    # Extract key figures with session tracking
     figures = {}
     for hebrew, info in KEY_FIGURES.items():
-        count = text.count(hebrew)
-        if count > 0:
-            key = info["english"]
-            if key not in figures:
-                figures[key] = {
-                    "hebrew": hebrew,
-                    "english": info["english"],
-                    "role": info["role"],
-                    "mentions": 0,
-                }
-            figures[key]["mentions"] += count
+        key = info["english"]
+        if key not in figures:
+            figures[key] = {
+                "hebrew": hebrew,
+                "english": info["english"],
+                "role": info["role"],
+                "mentions": 0,
+                "sessions": set(),
+            }
+        for i, line in enumerate(lines):
+            if hebrew in line:
+                figures[key]["mentions"] += 1
+                session = get_session_for_line(i, boundaries)
+                if session:
+                    figures[key]["sessions"].add(session)
     
     return {
         "file": file_name,
@@ -415,7 +443,7 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
                 all_witnesses[hebrew]["mention_sessions"].update(data["mention_sessions"])
                 all_witnesses[hebrew]["mentions"] += data["mentions"]
     
-    # Merge other entities
+    # Merge other entities with session tracking
     all_locations = {}
     all_orgs = {}
     all_events = {}
@@ -424,27 +452,51 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
     for result in all_results:
         for key, data in result.get("locations", {}).items():
             if key not in all_locations:
-                all_locations[key] = data.copy()
-                all_locations[key]["mentions"] = 0
+                all_locations[key] = {
+                    "hebrew": data["hebrew"],
+                    "english": data["english"],
+                    "category": data["category"],
+                    "mentions": 0,
+                    "sessions": set(),
+                }
             all_locations[key]["mentions"] += data["mentions"]
+            all_locations[key]["sessions"].update(data.get("sessions", set()))
         
         for key, data in result.get("organizations", {}).items():
             if key not in all_orgs:
-                all_orgs[key] = data.copy()
-                all_orgs[key]["mentions"] = 0
+                all_orgs[key] = {
+                    "hebrew": data["hebrew"],
+                    "english": data["english"],
+                    "type": data["type"],
+                    "mentions": 0,
+                    "sessions": set(),
+                }
             all_orgs[key]["mentions"] += data["mentions"]
+            all_orgs[key]["sessions"].update(data.get("sessions", set()))
         
         for key, data in result.get("events", {}).items():
             if key not in all_events:
-                all_events[key] = data.copy()
-                all_events[key]["mentions"] = 0
+                all_events[key] = {
+                    "hebrew": data["hebrew"],
+                    "english": data["english"],
+                    "type": data["type"],
+                    "mentions": 0,
+                    "sessions": set(),
+                }
             all_events[key]["mentions"] += data["mentions"]
+            all_events[key]["sessions"].update(data.get("sessions", set()))
         
         for key, data in result.get("figures", {}).items():
             if key not in all_figures:
-                all_figures[key] = data.copy()
-                all_figures[key]["mentions"] = 0
+                all_figures[key] = {
+                    "hebrew": data["hebrew"],
+                    "english": data["english"],
+                    "role": data["role"],
+                    "mentions": 0,
+                    "sessions": set(),
+                }
             all_figures[key]["mentions"] += data["mentions"]
+            all_figures[key]["sessions"].update(data.get("sessions", set()))
     
     # Build nodes
     nodes = []
@@ -473,6 +525,7 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
     
     # === KEY FIGURE NODES ===
     for key, data in all_figures.items():
+        sessions = sorted(data.get("sessions", set()))
         node = {
             "id": f"figure_{node_id}",
             "type": "PERSON",
@@ -481,12 +534,14 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             "isWitness": False,
             "role": data["role"],
             "mentions": data["mentions"],
+            "sessions": sessions,
         }
         nodes.append(node)
         node_id += 1
     
     # === LOCATION NODES ===
     for key, data in all_locations.items():
+        sessions = sorted(data.get("sessions", set()))
         node = {
             "id": f"location_{node_id}",
             "type": "LOCATION",
@@ -494,12 +549,14 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             "hebrewName": data["hebrew"],
             "category": data["category"],
             "mentions": data["mentions"],
+            "sessions": sessions,
         }
         nodes.append(node)
         node_id += 1
     
     # === ORGANIZATION NODES ===
     for key, data in all_orgs.items():
+        sessions = sorted(data.get("sessions", set()))
         node = {
             "id": f"org_{node_id}",
             "type": "ORGANIZATION",
@@ -507,12 +564,14 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             "hebrewName": data["hebrew"],
             "orgType": data["type"],
             "mentions": data["mentions"],
+            "sessions": sessions,
         }
         nodes.append(node)
         node_id += 1
     
     # === EVENT NODES ===
     for key, data in all_events.items():
+        sessions = sorted(data.get("sessions", set()))
         node = {
             "id": f"event_{node_id}",
             "type": "EVENT",
@@ -520,16 +579,28 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             "hebrewName": data["hebrew"],
             "eventType": data["type"],
             "mentions": data["mentions"],
+            "sessions": sessions,
         }
         nodes.append(node)
         node_id += 1
     
     # === SESSION NODES (ALL 121) ===
-    session_witness_map = defaultdict(list)
+    # Build maps of which entities are linked to which sessions
+    session_entity_map = defaultdict(lambda: {"witnesses": [], "figures": [], "locations": [], "orgs": [], "events": []})
+    
     for node in nodes:
-        if node.get("isWitness"):
-            for s in node.get("sessions", []):
-                session_witness_map[s].append(node["id"])
+        node_type = node.get("type")
+        for s in node.get("sessions", []):
+            if node.get("isWitness"):
+                session_entity_map[s]["witnesses"].append(node["id"])
+            elif node_type == "PERSON":
+                session_entity_map[s]["figures"].append(node["id"])
+            elif node_type == "LOCATION":
+                session_entity_map[s]["locations"].append(node["id"])
+            elif node_type == "ORGANIZATION":
+                session_entity_map[s]["orgs"].append(node["id"])
+            elif node_type == "EVENT":
+                session_entity_map[s]["events"].append(node["id"])
     
     for session_num in range(1, 122):
         date_str = SESSION_DATES.get(session_num, "")
@@ -541,6 +612,7 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             except:
                 pass
         
+        entity_data = session_entity_map.get(session_num, {"witnesses": [], "figures": [], "locations": [], "orgs": [], "events": []})
         node = {
             "id": f"session-{session_num}",
             "type": "SESSION",
@@ -550,7 +622,11 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
             "date": date_str,
             "day": day,
             "phase": get_phase(session_num),
-            "witnessIds": session_witness_map.get(session_num, []),
+            "witnessIds": entity_data["witnesses"],
+            "figureIds": entity_data["figures"],
+            "locationIds": entity_data["locations"],
+            "orgIds": entity_data["orgs"],
+            "eventIds": entity_data["events"],
         }
         nodes.append(node)
     
@@ -567,17 +643,30 @@ def build_graph(all_results: List[Dict], witness_index: Dict) -> Dict:
     # === BUILD EDGES ===
     edge_id = 1
     
-    # Witness -> Session edges
+    # All entity -> Session edges
     for node in nodes:
+        node_type = node.get("type")
+        if node_type == "SESSION":
+            continue  # Skip session nodes
+        
+        sessions = node.get("sessions", [])
+        if not sessions:
+            continue
+        
+        # Determine edge type based on entity type
         if node.get("isWitness"):
-            for session_num in node.get("sessions", []):
-                edges.append({
-                    "id": f"edge_{edge_id}",
-                    "source": node["id"],
-                    "target": f"session-{session_num}",
-                    "type": "TESTIFIED_IN",
-                })
-                edge_id += 1
+            edge_type = "TESTIFIED_IN"
+        else:
+            edge_type = "MENTIONED_IN"
+        
+        for session_num in sessions:
+            edges.append({
+                "id": f"edge_{edge_id}",
+                "source": node["id"],
+                "target": f"session-{session_num}",
+                "type": edge_type,
+            })
+            edge_id += 1
     
     # Count stats
     type_counts = defaultdict(int)

@@ -41,7 +41,7 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "16763-17148",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/rosenberg_moshe.jpg"
+      "image": "/images/witnesses/rosenberg.jpg"
     },
     {
       "hebrew": "אהרון חוטר ישי",
@@ -478,7 +478,7 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "3993-4858",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/brand_yoel.jpg"
+      "image": "/images/witnesses/brand.jpg"
     },
     {
       "hebrew": "הנרייטה סמואל",
@@ -604,7 +604,7 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "10895-11390",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gordon_lesley.jpg"
+      "image": "/images/witnesses/gordon.jpg"
     },
     {
       "hebrew": "מרגיט רייך",
@@ -949,7 +949,8 @@
       "english": "Yoel Brand",
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "1386-2149",
-      "testimonyExtracted": true
+      "testimonyExtracted": true,
+      "image": "/images/witnesses/brand.jpg"
     },
     {
       "hebrew": "זאב ספיר",
@@ -989,7 +990,8 @@
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "15320-16292",
-      "testimonyExtracted": true
+      "testimonyExtracted": true,
+      "image": "/images/witnesses/zukermann.jpg"
     },
     {
       "hebrew": "נח זבלודוביץ",
@@ -1041,7 +1043,8 @@
       "english": "Avraham Gordon",
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "21541-22269",
-      "testimonyExtracted": true
+      "testimonyExtracted": true,
+      "image": "/images/witnesses/gordon.jpg"
     },
     {
       "hebrew": "רעיה קגן",

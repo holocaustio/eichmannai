@@ -19,7 +19,7 @@ export default function AboutPage() {
 
       {/* A Personal Note */}
       <section className="py-20 px-6 border-b border-stone-900 bg-gradient-to-b from-stone-900/50 to-stone-950">
-        <div className="max-w-2xl mx-auto">
+        <div className="max-w-3xl mx-auto">
           <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-6 text-center">Why I Built This</p>
           
           <div className="space-y-6 text-stone-400 text-lg leading-relaxed font-light">

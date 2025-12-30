@@ -243,7 +243,7 @@ The extracted text revealed a consistent court transcript format:
 ### Key Patterns Identified
 
 1. **Session markers**: `ישיבה מס' XX`
-2. **Sworn-in markers**: `[העד הושבע]` or `]העד הושבע[` (RTL brackets)
+2. **Sworn-in markers**: `[העד הושבע]` or `[העד הושבע]` (RTL brackets)
 3. **Questions**: Lines starting with `ש.` or `שאלה:`
 4. **Answers**: Lines starting with `ת.` or `תשובה:`
 5. **Speaker labels**: `היועץ המשפטי`, `אב בית הדין`, `ד"ר סרבציוס`
@@ -255,7 +255,7 @@ Hebrew is right-to-left, which caused encoding issues:
 
 ```python
 # Original text might appear as:
-]העד הושבע[  # Brackets visually reversed
+[העד הושבע]  # Brackets visually reversed
 
 # We needed to search for both:
 patterns = [
