@@ -91,8 +91,8 @@
     {
       "hebrew": "אביבה פליישמן",
       "english": "Aviva Flieschman",
-      "sourceFile": "Vol1_p15291.txt",
-      "sourceLines": "2897-3703",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "9281-9697",
       "testimonyExtracted": true,
       "image": "/images/witnesses/flieschman.jpg"
     },
@@ -406,9 +406,10 @@
     {
       "hebrew": "אליהו רוזנברג",
       "english": "Eliyahu Rosenberg",
-      "sourceFile": "Vol2_p4155.txt",
-      "sourceLines": "16763-17148",
-      "testimonyExtracted": true
+      "sourceFile": "Vol2_p6575.txt",
+      "sourceLines": "3193-3501",
+      "testimonyExtracted": true,
+      "image": "/images/witnesses/rosenberg_eliyahu.jpg"
     },
     {
       "hebrew": "ארנסט רכט",
@@ -600,10 +601,10 @@
     {
       "hebrew": "לזלי גורדון",
       "english": "Lesley Gordon",
-      "sourceFile": "Vol2_p4155.txt",
-      "sourceLines": "21541-22269",
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "10895-11390",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gordon_avraham.jpg"
+      "image": "/images/witnesses/gordon_lesley.jpg"
     },
     {
       "hebrew": "מרגיט רייך",
@@ -682,9 +683,10 @@
     {
       "hebrew": "משה רוזנברג",
       "english": "Moshe Rosenberg",
-      "sourceFile": "Vol2_p4155.txt",
-      "sourceLines": "16763-17148",
-      "testimonyExtracted": true
+      "sourceFile": "Vol2_p5564.txt",
+      "sourceLines": "6723-7421",
+      "testimonyExtracted": true,
+      "image": "/images/witnesses/rosenberg_moshe.jpg"
     },
     {
       "hebrew": "רחל אוורבך",
@@ -938,9 +940,9 @@
       "hebrew": "יצחק צוקרמן",
       "english": "Yitzhak Zukermann",
       "sourceFile": "Vol1_p15291.txt",
-      "sourceLines": "15320-16331",
+      "sourceLines": "16334-17305",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/lubetkin-zukermann.jpg"
+      "image": "/images/witnesses/zukermann.jpg"
     },
     {
       "hebrew": "יואל ברנד",
