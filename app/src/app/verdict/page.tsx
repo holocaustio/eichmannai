@@ -1,10 +1,12 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { useAIAssistant } from '../components/AIAssistant';
 
 export default function VerdictPage() {
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState(true);
+  const { setContext } = useAIAssistant();
 
   useEffect(() => {
     async function loadContent() {
@@ -12,6 +14,9 @@ export default function VerdictPage() {
         const res = await fetch('/data/verdict.md');
         const text = await res.text();
         setContent(text);
+        
+        // Register content with AI assistant
+        setContext('verdict', text, 'The Judgment');
       } catch (error) {
         console.error('Failed to load verdict:', error);
       } finally {
@@ -19,7 +24,7 @@ export default function VerdictPage() {
       }
     }
     loadContent();
-  }, []);
+  }, [setContext]);
 
   if (loading) {
     return (

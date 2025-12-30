@@ -1,10 +1,12 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { useAIAssistant } from '../components/AIAssistant';
 
 export default function OpeningStatementPage() {
   const [content, setContent] = useState<string>('');
   const [loading, setLoading] = useState(true);
+  const { setContext } = useAIAssistant();
 
   useEffect(() => {
     async function loadContent() {
@@ -12,6 +14,9 @@ export default function OpeningStatementPage() {
         const res = await fetch('/data/opening-statement.md');
         const text = await res.text();
         setContent(text);
+        
+        // Register content with AI assistant
+        setContext('opening-statement', text, 'The Opening Statement');
       } catch (error) {
         console.error('Failed to load opening statement:', error);
       } finally {
@@ -19,7 +24,7 @@ export default function OpeningStatementPage() {
       }
     }
     loadContent();
-  }, []);
+  }, [setContext]);
 
   if (loading) {
     return (

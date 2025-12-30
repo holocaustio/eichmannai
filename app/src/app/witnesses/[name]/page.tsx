@@ -4,6 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useAIAssistant } from '../../components/AIAssistant';
 
 interface Witness {
   id: string;
@@ -69,6 +70,7 @@ export default function WitnessDetailPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [imageError, setImageError] = useState(false);
+  const { setContext } = useAIAssistant();
 
   // Load witness data and testimony
   useEffect(() => {
@@ -187,12 +189,17 @@ export default function WitnessDetailPage() {
           if (mdRes.ok) {
             const mdContent = await mdRes.text();
             setTestimony(mdContent);
+            // Register testimony with AI assistant
+            setContext('testimony', mdContent, `${found.name}'s Testimony`);
           } else {
             // Fallback: try to build filename from witness name
             const safeName = found.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
             const altRes = await fetch(`/data/testimonies/${safeName}.md`);
             if (altRes.ok) {
-              setTestimony(await altRes.text());
+              const altContent = await altRes.text();
+              setTestimony(altContent);
+              // Register testimony with AI assistant
+              setContext('testimony', altContent, `${found.name}'s Testimony`);
             }
           }
         }
@@ -205,7 +212,7 @@ export default function WitnessDetailPage() {
     }
     
     loadData();
-  }, [witnessName]);
+  }, [witnessName, setContext]);
 
   // Parse and render markdown
   const renderMarkdown = (content: string) => {

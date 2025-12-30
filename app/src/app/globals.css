@@ -20,24 +20,6 @@ body {
   font-family: var(--font-serif);
 }
 
-/* Custom scrollbar */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #1c1917;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #44403c;
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #57534e;
-}
-
 /* Selection */
 ::selection {
   background: #78716c;
@@ -111,22 +93,4 @@ blockquote::before {
 
 button {
   cursor: pointer;
-}
-
-/* Thin scrollbar for sidebar */
-.scrollbar-thin::-webkit-scrollbar {
-  width: 4px;
-}
-
-.scrollbar-thin::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-.scrollbar-thin::-webkit-scrollbar-thumb {
-  background: #44403c;
-  border-radius: 2px;
-}
-
-.scrollbar-thin::-webkit-scrollbar-thumb:hover {
-  background: #57534e;
 }

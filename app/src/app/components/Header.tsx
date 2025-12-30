@@ -10,6 +10,7 @@ const navItems = [
   { href: '/witnesses', label: 'Witnesses' },
   { href: '/verdict', label: 'Verdict' },
   { href: '/explore', label: 'Explore the Trial' },
+  { href: '/explore#timeline', label: 'Timeline' },
   { href: '/about', label: 'About' }
 ];
 
@@ -26,7 +27,7 @@ export default function Header() {
     <header className="border-b border-stone-900 sticky top-0 bg-stone-950/95 backdrop-blur-sm z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
         <Link href="/" className="font-serif text-lg text-stone-200 hover:text-white transition-colors">
-          The Eichmann Trial
+          The Eichmann Trial Digital Archive
         </Link>
         
         {/* Desktop Navigation */}

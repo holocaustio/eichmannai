@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Header from "./components/Header";
+import { AIAssistantProvider, AIAssistantBubble } from "./components/AIAssistant";
 
 export const metadata: Metadata = {
   title: "The Eichmann Trial | Voices of Testimony",
@@ -32,8 +33,11 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="antialiased bg-stone-950 text-stone-100">
-        <Header />
-        {children}
+        <AIAssistantProvider>
+          <Header />
+          {children}
+          <AIAssistantBubble />
+        </AIAssistantProvider>
       </body>
     </html>
   );

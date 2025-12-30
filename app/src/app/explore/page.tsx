@@ -116,6 +116,14 @@ export default function ExplorePage() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedPhase, setSelectedPhase] = useState<string | null>(null);
 
+  // Handle hash-based navigation for direct linking (e.g., /explore#timeline)
+  useEffect(() => {
+    const hash = window.location.hash.replace('#', '');
+    if (hash && ['entities', 'graph', 'files', 'timeline'].includes(hash)) {
+      setViewMode(hash as ViewMode);
+    }
+  }, []);
+
   useEffect(() => {
     async function loadData() {
       try {
@@ -283,10 +291,19 @@ export default function ExplorePage() {
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             Explore the Trial
           </h1>
-          <p className="text-stone-400 text-lg max-w-2xl mx-auto">
+          <p className="text-stone-400 text-lg max-w-2xl mx-auto mb-8">
             {graphData?.nodes.length || 0} entities, {graphData?.edges.length || 0} connections, 
             {' '}{data?.metadata.typeCounts?.SESSION || 0} court sessions.
           </p>
+          <div className="max-w-md mx-auto">
+            <input
+              type="text"
+              placeholder="Search entities..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full bg-stone-900 border border-stone-800 px-4 py-3 text-stone-200 placeholder-stone-600 focus:outline-none focus:border-stone-600 text-center"
+            />
+          </div>
         </div>
       </section>
 
@@ -373,14 +390,6 @@ export default function ExplorePage() {
                   );
                 })}
               </div>
-              
-              <input
-                type="text"
-                placeholder="Search entities..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full max-w-md bg-stone-900 border border-stone-800 px-4 py-2 text-stone-200 placeholder-stone-600 focus:outline-none focus:border-stone-600"
-              />
             </div>
           </section>
 
