@@ -314,21 +314,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="py-16 px-6 border-t border-stone-900">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
-          <div className="text-center md:text-left">
-            <p className="text-stone-500 text-sm">The Eichmann Trial Digital Archive</p>
-            <p className="text-stone-600 text-xs mt-1">Preserving testimony for future generations</p>
-          </div>
-          
-          <div className="flex gap-8 text-stone-600 text-sm">
-            <Link href="/about" className="hover:text-stone-400 transition-colors">About</Link>
-            <Link href="/explore" className="hover:text-stone-400 transition-colors">Explore</Link>
-            <Link href="/witnesses" className="hover:text-stone-400 transition-colors">Witnesses</Link>
-          </div>
-        </div>
-      </footer>
     </main>
   );
 }

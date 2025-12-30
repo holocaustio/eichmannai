@@ -1,4 +1,14 @@
 import Link from 'next/link';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: "About",
+  description: "When survivors became witnesses. Learn about this digital archive preserving the testimonies from the 1961 Eichmann Trial in Jerusalem.",
+  openGraph: {
+    title: "About | The Eichmann Trial",
+    description: "When survivors became witnesses. Learn about this digital archive preserving the testimonies from the 1961 Eichmann Trial.",
+  },
+};
 
 export default function AboutPage() {
   return (
