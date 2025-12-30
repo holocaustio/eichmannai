@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: "The Eichmann Trial",
     images: [
       {
-        url: "/images/socialcover.png",
+        url: `${siteUrl}/images/socialcover.png`,
         width: 1200,
         height: 630,
         alt: "The Eichmann Trial - In 1961, the Holocaust was placed at the center of a courtroom",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "The Eichmann Trial | Voices of Testimony",
     description: "The trial that transformed how the Holocaust is remembered.",
-    images: ["/images/socialcover.png"],
+    images: [`${siteUrl}/images/socialcover.png`],
   },
   robots: {
     index: true,
