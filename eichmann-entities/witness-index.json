@@ -8,7 +8,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "20271-21132",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/kowner.jpg"
+      "image": "/images/witnesses/kowner.jpg",
+      "variants": [
+        "Abba Kovner",
+        "Kovner"
+      ],
+      "testimony_en": "en/Abba_Kowner.md",
+      "testimony_he": "he/Abba_Kowner.md"
     },
     {
       "hebrew": "עדה ליכטמן",
@@ -21,7 +27,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "9191-9401",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/lichtman.jpg"
+      "image": "/images/witnesses/lichtman.jpg",
+      "testimony_en": "en/Ada_Lichtman.md",
+      "testimony_he": "he/Ada_Lichtman.md"
     },
     {
       "hebrew": "אדולף אנגלשטיין",
@@ -33,7 +41,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "6909-7573",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/engelstein.jpg"
+      "image": "/images/witnesses/engelstein.jpg",
+      "testimony_en": "en/Adolf_Engelstein.md",
+      "testimony_he": "he/Adolf_Engelstein.md"
     },
     {
       "hebrew": "אדולף רוזנברג",
@@ -41,20 +51,31 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "16763-17148",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/rosenberg.jpg"
+      "image": "/images/witnesses/rosenberg.jpg",
+      "variants": [
+        "Rosenberg"
+      ],
+      "testimony_en": "en/Adolf_Rosenberg.md",
+      "testimony_he": "he/Adolf_Rosenberg.md"
     },
     {
       "hebrew": "אהרון חוטר ישי",
       "english": "Aharon Choter Yishai",
       "variants": [
         "חוטר",
+        "Hoter-Yishai",
+        "חוטרֿישי",
+        "Aharon Hoter-Yishai",
         "חוטר ישי",
-        "חוטרֿישי"
+        "Choter-Yishai",
+        "Hoter Yishai"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "1146-2896",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/yishai.jpg"
+      "image": "/images/witnesses/yishai.jpg",
+      "testimony_en": "en/Aharon_Choter_Yishai.md",
+      "testimony_he": "he/Aharon_Choter_Yishai.md"
     },
     {
       "hebrew": "אהרון וולטר לינדנשטראוס",
@@ -62,7 +83,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "1146-1457",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/lindenstrauss.jpg"
+      "image": "/images/witnesses/lindenstrauss.jpg",
+      "variants": [
+        "Walter Lindenstrauss",
+        "Lindenstrauss"
+      ],
+      "testimony_en": "en/Aharon_Walter_Lindenstrauss.md",
+      "testimony_he": "he/Aharon_Walter_Lindenstrauss.md"
     },
     {
       "hebrew": "אלכסנדר ארנון",
@@ -70,7 +97,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "8398-8966",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/arnon.jpg"
+      "image": "/images/witnesses/arnon.jpg",
+      "testimony_en": "en/Alexander_Arnon.md",
+      "testimony_he": "he/Alexander_Arnon.md"
     },
     {
       "hebrew": "אלכסנדר ברודי",
@@ -78,7 +107,18 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "19790-20267",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/brodie.jpg"
+      "image": "/images/witnesses/brodie.jpg",
+      "variants": [
+        "Witness Brody",
+        "Brodie",
+        "Dr. Alexander Brody",
+        "Dr. Brody",
+        "Dr. Sandor Brody",
+        "Alexander Brody",
+        "Sandor Brody"
+      ],
+      "testimony_en": "en/Alexander_Brodie.md",
+      "testimony_he": "he/Alexander_Brodie.md"
     },
     {
       "hebrew": "אלפרד אופנהיימר",
@@ -86,7 +126,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "6921-7385",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/oppenheimer.jpg"
+      "image": "/images/witnesses/oppenheimer.jpg",
+      "testimony_en": "en/Alfred_Oppenheimer.md",
+      "testimony_he": "he/Alfred_Oppenheimer.md"
     },
     {
       "hebrew": "אביבה פליישמן",
@@ -94,7 +136,16 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "9281-9697",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/flieschman.jpg"
+      "image": "/images/witnesses/flieschman.jpg",
+      "variants": [
+        "Flieschman",
+        "Fleischman",
+        "Aviva Fleischmann",
+        "Witness Fleischmann",
+        "Mrs. Fleischmann"
+      ],
+      "testimony_en": "en/Aviva_Flieschman.md",
+      "testimony_he": "he/Aviva_Flieschman.md"
     },
     {
       "hebrew": "אבנר לס",
@@ -108,7 +159,9 @@
       "sourceFile": "Vol1_p114.txt",
       "sourceLines": "11140-11271",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/less.jpg"
+      "image": "/images/witnesses/less.jpg",
+      "testimony_en": "en/Avner_Less.md",
+      "testimony_he": "he/Avner_Less.md"
     },
     {
       "hebrew": "אברהם אביאל",
@@ -116,7 +169,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "23639-24011",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/aviel.jpg"
+      "image": "/images/witnesses/aviel.jpg",
+      "testimony_en": "en/Abraham_Aviel.md",
+      "testimony_he": "he/Abraham_Aviel.md"
     },
     {
       "hebrew": "אברהם בוכמן",
@@ -124,20 +179,34 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "12570-12754",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/buchmann.jpg"
+      "image": "/images/witnesses/buchmann.jpg",
+      "variants": [
+        "Buchmann",
+        "Buchman"
+      ],
+      "testimony_en": "en/Abraham_Buchmann.md",
+      "testimony_he": "he/Abraham_Buchmann.md"
     },
     {
       "hebrew": "אברהם חג'ג'",
       "english": "Abraham Hadjaj",
       "variants": [
-        "חגג",
+        "Superintendent Hagag",
+        "Witness Hagag",
         "חג'ג'",
-        "חגאג"
+        "חגג",
+        "חגאג",
+        "Avraham Hagag",
+        "Hadjaj",
+        "Mr. Hagag",
+        "Hadjadje"
       ],
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "16272-16445",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/hadjaj.jpg"
+      "image": "/images/witnesses/hadjaj.jpg",
+      "testimony_en": "en/Abraham_Hadjaj.md",
+      "testimony_he": "he/Abraham_Hadjaj.md"
     },
     {
       "hebrew": "אברהם קרסיק",
@@ -145,7 +214,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "21221-21981",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/karassik.jpg"
+      "image": "/images/witnesses/karassik.jpg",
+      "variants": [
+        "Karassik",
+        "Karasik"
+      ],
+      "testimony_en": "en/Abraham_Karassik.md",
+      "testimony_he": "he/Abraham_Karassik.md"
     },
     {
       "hebrew": "אברהם לוינסון",
@@ -153,7 +228,13 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "12359-12554",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/levinsohn.jpg"
+      "image": "/images/witnesses/levinsohn.jpg",
+      "variants": [
+        "Levinson",
+        "Levinsohn"
+      ],
+      "testimony_en": "en/Abraham_Levinsohn.md",
+      "testimony_he": "he/Abraham_Levinsohn.md"
     },
     {
       "hebrew": "אברהם לינדווסר",
@@ -161,7 +242,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "3508-3864",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/lindwasser.jpg"
+      "image": "/images/witnesses/lindwasser.jpg",
+      "testimony_en": "en/Abraham_Lindwasser.md",
+      "testimony_he": "he/Abraham_Lindwasser.md"
     },
     {
       "hebrew": "ברוך דובדבני",
@@ -169,7 +252,12 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "18033-18208",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/duvdevani.jpg"
+      "image": "/images/witnesses/duvdevani.jpg",
+      "variants": [
+        "Duvdevani"
+      ],
+      "testimony_en": "en/Baruch_Duvdevani.md",
+      "testimony_he": "he/Baruch_Duvdevani.md"
     },
     {
       "hebrew": "בת שבע רופאייזן",
@@ -177,7 +265,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "18544-18646",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/rufeisen.jpg"
+      "image": "/images/witnesses/rufeisen.jpg",
+      "testimony_en": "en/Batsheva_Rufeisen.md",
+      "testimony_he": "he/Batsheva_Rufeisen.md"
     },
     {
       "hebrew": "בנו כהן",
@@ -185,7 +275,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "99-1132",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/cohen.jpg"
+      "image": "/images/witnesses/cohen.jpg",
+      "variants": [
+        "Cohen",
+        "Benno Cohn"
+      ],
+      "testimony_en": "en/Benno_Cohen.md",
+      "testimony_he": "he/Benno_Cohen.md"
     },
     {
       "hebrew": "דב פרייברג",
@@ -193,7 +289,9 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "14372-15232",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/freiberg.jpg"
+      "image": "/images/witnesses/freiberg.jpg",
+      "testimony_en": "en/Dov_Freiberg.md",
+      "testimony_he": "he/Dov_Freiberg.md"
     },
     {
       "hebrew": "שרלוטה זלצברגר",
@@ -201,7 +299,12 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "1898-2831",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/salzberger.jpg"
+      "image": "/images/witnesses/salzberger.jpg",
+      "variants": [
+        "Salzberger"
+      ],
+      "testimony_en": "en/Charlotte_Salzberger.md",
+      "testimony_he": "he/Charlotte_Salzberger.md"
     },
     {
       "hebrew": "דר' פאול מרץ",
@@ -209,7 +312,20 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "6279-6648",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/maerz.jpg"
+      "image": "/images/witnesses/maerz.jpg",
+      "variants": [
+        "David Paul Meretz",
+        "Meretz",
+        "Paul Merz",
+        "Paul Meretz",
+        "David Meretz",
+        "Paul Maerz",
+        "März",
+        "Merz",
+        "Maerz"
+      ],
+      "testimony_en": "en/Dr_Paul_Maerz.md",
+      "testimony_he": "he/Dr_Paul_Maerz.md"
     },
     {
       "hebrew": "דר' דוד ודובינסקי",
@@ -217,7 +333,14 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "4997-5401",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/wdowinsky.jpg"
+      "image": "/images/witnesses/wdowinsky.jpg",
+      "variants": [
+        "David Wdowinski",
+        "Wdowinsky",
+        "Wdowinski"
+      ],
+      "testimony_en": "en/Dr_David_Wdowinsky.md",
+      "testimony_he": "he/Dr_David_Wdowinsky.md"
     },
     {
       "hebrew": "דר' אדולף ברמן",
@@ -225,7 +348,15 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "17634-18031",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/bermann.jpg"
+      "image": "/images/witnesses/bermann.jpg",
+      "variants": [
+        "Avraham Berman",
+        "Berman",
+        "Adolf Avraham Berman",
+        "Adolf Berman"
+      ],
+      "testimony_en": "en/Dr_Adolf_Berman.md",
+      "testimony_he": "he/Dr_Adolf_Berman.md"
     },
     {
       "hebrew": "דר' אהרון ביילין",
@@ -233,19 +364,33 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "7803-8834",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/beilin.jpg"
+      "image": "/images/witnesses/beilin.jpg",
+      "variants": [
+        "Beilin",
+        "Aharon Beilin"
+      ],
+      "testimony_en": "en/Dr_Aharon_Beilin.md",
+      "testimony_he": "he/Dr_Aharon_Beilin.md"
     },
     {
       "hebrew": "דר' אריה ברסלאוור",
       "english": "Dr. Arieh Breslauer",
       "variants": [
+        "Witness Breszlauer",
+        "ברסלאור",
+        "Breslauer",
         "ברסלואר",
-        "ברסלאור"
+        "Dr. Breszlauer",
+        "Arieh Breslauer",
+        "Arye Zvi Breszlauer",
+        "Arye Breszlauer"
       ],
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "8599-9272",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/breslauer.jpg"
+      "image": "/images/witnesses/breslauer.jpg",
+      "testimony_en": "en/Dr_Arieh_Breslauer.md",
+      "testimony_he": "he/Dr_Arieh_Breslauer.md"
     },
     {
       "hebrew": "דר' בדריך שטיינר",
@@ -253,20 +398,33 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "15905-16186",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/steiner.jpg"
+      "image": "/images/witnesses/steiner.jpg",
+      "variants": [
+        "Steiner",
+        "Bedrich Steiner",
+        "Friedrich Steiner"
+      ],
+      "testimony_en": "en/Dr_Bedrich_Steiner.md",
+      "testimony_he": "he/Dr_Bedrich_Steiner.md"
     },
     {
       "hebrew": "דר' מארק דבורז'צקי",
       "english": "Dr. Mark Dworzecki",
       "variants": [
-        "דבורז'צקי",
+        "Dvorzhetski",
+        "Dvorjetski",
+        "Mark Dworzecki",
         "דבורזצקי",
-        "דבורז׳צקי"
+        "דבורז'צקי",
+        "דבורז׳צקי",
+        "Dworzecki"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "19559-20218",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/dworzecki.jpg"
+      "image": "/images/witnesses/dworzecki.jpg",
+      "testimony_en": "en/Dr_Mark_Dworzecki.md",
+      "testimony_he": "he/Dr_Mark_Dworzecki.md"
     },
     {
       "hebrew": "דר' ארנסט אבלס",
@@ -274,37 +432,56 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "13597-14675",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/abeles.jpg"
+      "image": "/images/witnesses/abeles.jpg",
+      "variants": [
+        "Abeles",
+        "Ernst Abeles"
+      ],
+      "testimony_en": "en/Dr_Ernst_Abeles.md",
+      "testimony_he": "he/Dr_Ernst_Abeles.md"
     },
     {
       "hebrew": "דר' ז'ורז' ולרס",
       "english": "Dr. George Wellers",
       "variants": [
+        "Georges Wellers",
+        "Georges",
         "ולרס",
         "וולרס",
+        "ג'ורג'",
         "ולר",
-        "Wellers",
-        "Georges",
-        "ג'ורג'"
+        "George Wellers",
+        "Wellers"
       ],
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "3201-4272",
-      "image": "/images/witnesses/wellers.jpg"
+      "image": "/images/witnesses/wellers.jpg",
+      "testimony_en": "en/Dr_George_Wellers.md",
+      "testimony_he": "he/Dr_George_Wellers.md"
     },
     {
       "hebrew": "דר' יוסף מלקמן-מכמן",
       "english": "Dr. Josef Melkmann-Michman",
       "variants": [
-        "מלקמן",
-        "מכמן",
+        "Witness Melkman",
+        "Dr. Melkman",
         "מיכמן",
-        "Melkmann"
+        "Melkmann-Michman",
+        "Melkmann",
+        "Michman",
+        "Dr. Joseph Melkman",
+        "מכמן",
+        "מלקמן",
+        "Josef Melkmann",
+        "Joseph Melkman"
       ],
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "5856-6801",
-      "image": "/images/witnesses/melkmann-michman.jpg"
+      "image": "/images/witnesses/melkmann-michman.jpg",
+      "testimony_en": "en/Dr_Josef_Melkmann-Michman.md",
+      "testimony_he": "he/Dr_Josef_Melkmann-Michman.md"
     },
     {
       "hebrew": "ארנסט גרובר",
@@ -317,7 +494,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "508-1897",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/grueber.jpg"
+      "image": "/images/witnesses/grueber.jpg",
+      "testimony_en": "en/Ernst_Grueber.md",
+      "testimony_he": "he/Ernst_Grueber.md"
     },
     {
       "hebrew": "דר' יעקב קרטקי",
@@ -325,33 +504,53 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "7797-9190",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/kratky.jpg"
+      "image": "/images/witnesses/kratky.jpg",
+      "variants": [
+        "Jacob Kratky",
+        "Kratky"
+      ],
+      "testimony_en": "en/Dr_Jacob_Kratky.md",
+      "testimony_he": "he/Dr_Jacob_Kratky.md"
     },
     {
       "hebrew": "דר' לאון וולס",
       "english": "Dr. Leon Wells",
       "variants": [
-        "ולס",
+        "Leon Wells",
         "ליאון ולס",
-        "Wells"
+        "Weliczker Wells",
+        "Wells",
+        "ולס"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "12221-13491",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/wells.jpg"
+      "image": "/images/witnesses/wells.jpg",
+      "testimony_en": "en/Dr_Leon_Wells.md",
+      "testimony_he": "he/Dr_Leon_Wells.md"
     },
     {
       "hebrew": "דר' מרטין פולדי",
       "english": "Dr. Martin Poeldy",
       "variants": [
-        "פלדי",
         "פולדי",
-        "Poeldy"
+        "Dr. Martin Foeldi",
+        "Peldy",
+        "Martin Poeldy",
+        "Dr. Foeldi",
+        "Martin Foeldi",
+        "Poeldy Martin",
+        "פלדי",
+        "Poeldy",
+        "Peldi",
+        "Witness Foeldi"
       ],
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "20700-21152",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/poeldy.jpg"
+      "image": "/images/witnesses/poeldy.jpg",
+      "testimony_en": "en/Dr_Martin_Poeldy.md",
+      "testimony_he": "he/Dr_Martin_Poeldy.md"
     },
     {
       "hebrew": "דר' אהרון פרץ",
@@ -359,7 +558,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "22057-22652",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/peretz.jpg"
+      "image": "/images/witnesses/peretz.jpg",
+      "variants": [
+        "Peretz",
+        "Aharon Peretz"
+      ],
+      "testimony_en": "en/Dr_Aharon_Peretz.md",
+      "testimony_he": "he/Dr_Aharon_Peretz.md"
     },
     {
       "hebrew": "דר' תיאודור לוונשטיין",
@@ -367,20 +572,36 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "12146-12847",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/loewenstein.jpg"
+      "image": "/images/witnesses/loewenstein.jpg",
+      "variants": [
+        "Lowenstein",
+        "Lowenstein Lavi",
+        "Theodor Lowenstein Lavi",
+        "Löwenstein Lavi",
+        "Theodor Löwenstein Lavi",
+        "Loewenstein",
+        "Lowenstein Theodor",
+        "Theodor Lowenstein"
+      ],
+      "testimony_en": "en/Dr_Theodor_Lowenstein.md",
+      "testimony_he": "he/Dr_Theodor_Lowenstein.md"
     },
     {
       "hebrew": "דר' טיבור פרנץ'",
       "english": "Dr. Tibor Ferencz",
       "variants": [
-        "פרנץ",
         "פרנץ'",
+        "פרנץ",
+        "Tibor Ferencz",
+        "Ferencz Tibor",
         "Ferencz"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "3713-6278",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/ferencz.jpg"
+      "image": "/images/witnesses/ferencz.jpg",
+      "testimony_en": "en/Dr_Tibor_Ferencz.md",
+      "testimony_he": "he/Dr_Tibor_Ferencz.md"
     },
     {
       "hebrew": "אליעזר קארשטאדט",
@@ -393,7 +614,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "23184-23519",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/karstadt.jpg"
+      "image": "/images/witnesses/karstadt.jpg",
+      "testimony_en": "en/Eliezer_Karstadt.md",
+      "testimony_he": "he/Eliezer_Karstadt.md"
     },
     {
       "hebrew": "אלישבע סנש",
@@ -401,7 +624,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "20295-20523",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/szenes.jpg"
+      "image": "/images/witnesses/szenes.jpg",
+      "testimony_en": "en/Elisheva_Szenes.md",
+      "testimony_he": "he/Elisheva_Szenes.md"
     },
     {
       "hebrew": "אליהו רוזנברג",
@@ -409,7 +634,14 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "3193-3501",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/rosenberg_eliyahu.jpg"
+      "image": "/images/witnesses/rosenberg_eliyahu.jpg",
+      "variants": [
+        "Eliahu Rosenberg",
+        "Eliyahu Rosenberg",
+        "Eliyahu"
+      ],
+      "testimony_en": "en/Eliyahu_Rosenberg.md",
+      "testimony_he": "he/Eliyahu_Rosenberg.md"
     },
     {
       "hebrew": "ארנסט רכט",
@@ -417,7 +649,12 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "5694-6145",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/hecht.jpg"
+      "image": "/images/witnesses/hecht.jpg",
+      "variants": [
+        "Recht"
+      ],
+      "testimony_en": "en/Ernst_Recht.md",
+      "testimony_he": "he/Ernst_Recht.md"
     },
     {
       "hebrew": "אסתר גולדשטיין",
@@ -425,60 +662,74 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "10052-10279",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/goldstein.jpg"
+      "image": "/images/witnesses/goldstein.jpg",
+      "testimony_en": "en/Esther_Goldstein.md",
+      "testimony_he": "he/Esther_Goldstein.md"
     },
     {
       "hebrew": "דר' פראנץ מאייר",
       "english": "Dr. Franz Meyer",
       "variants": [
-        "מאיר",
         "פרנץ מאיר",
+        "מאיר",
+        "Franz Meyer",
         "Meyer"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "3713-4342",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/meyer.jpg"
+      "image": "/images/witnesses/meyer.jpg",
+      "testimony_en": "en/Dr_Franz_Meyer.md",
+      "testimony_he": "he/Dr_Franz_Meyer.md"
     },
     {
       "hebrew": "גדליה בן צבי",
       "english": "Gedalia Ben Zvi",
       "variants": [
-        "בן צבי",
         "בן-צבי",
-        "בןֿצבי"
+        "בןֿצבי",
+        "Ben-Zvi",
+        "בן צבי",
+        "Ben Zvi"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "9420-9787",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/ben-zvi.jpg"
+      "image": "/images/witnesses/ben-zvi.jpg",
+      "testimony_en": "en/Gedalia_Ben_Zvi.md",
+      "testimony_he": "he/Gedalia_Ben_Zvi.md"
     },
     {
       "hebrew": "דר' מרדכי חן",
       "english": "Dr. Mordehai Chen",
       "variants": [
+        "Mordehai Chen",
+        "Chen",
         "מרדכי חן",
-        "העד חן",
-        "Chen"
+        "העד חן"
       ],
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "12103-15955",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/chen.jpg"
+      "image": "/images/witnesses/chen.jpg",
+      "testimony_en": "en/Dr_Mordehai_Chen.md",
+      "testimony_he": "he/Dr_Mordehai_Chen.md"
     },
     {
       "hebrew": "האנזי בראנד",
       "english": "Hansie Brand",
       "variants": [
-        "הנזי ברנד",
-        "גברת ברנד",
         "העדה ברנד",
-        "Hansi Brand"
+        "Hansi Brand",
+        "גברת ברנד",
+        "הנזי ברנד"
       ],
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "3993-4858",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/brand.jpg"
+      "image": "/images/witnesses/brand.jpg",
+      "testimony_en": "en/Hansie_Brand.md",
+      "testimony_he": "he/Hansie_Brand.md"
     },
     {
       "hebrew": "הנרייטה סמואל",
@@ -486,7 +737,13 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "9081-9352",
-      "image": "/images/witnesses/samuel.jpg"
+      "image": "/images/witnesses/samuel.jpg",
+      "variants": [
+        "Samuel",
+        "Henrietta Samuel"
+      ],
+      "testimony_en": "en/Henriette_Samuel.md",
+      "testimony_he": "he/Henriette_Samuel.md"
     },
     {
       "hebrew": "הנריק רוס",
@@ -494,7 +751,14 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "13737-14127",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/ross.jpg"
+      "image": "/images/witnesses/ross.jpg",
+      "variants": [
+        "Ross",
+        "Henry Ross",
+        "Henryk Ross"
+      ],
+      "testimony_en": "en/Henryk_Ross.md",
+      "testimony_he": "he/Henryk_Ross.md"
     },
     {
       "hebrew": "הנריק צבי צימרמן",
@@ -502,7 +766,13 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "10501-10902",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zimerman.jpg"
+      "image": "/images/witnesses/zimerman.jpg",
+      "variants": [
+        "Zimmerman",
+        "Zimerman"
+      ],
+      "testimony_en": "en/Henryk_Zvi_Zimerman.md",
+      "testimony_he": "he/Henryk_Zvi_Zimerman.md"
     },
     {
       "hebrew": "הילדגארד הנשל",
@@ -510,48 +780,62 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "10998-11599",
-      "image": "/images/witnesses/henschel.jpg"
+      "image": "/images/witnesses/henschel.jpg",
+      "testimony_en": "en/Hildegard_Henschel.md",
+      "testimony_he": "he/Hildegard_Henschel.md"
     },
     {
       "hebrew": "הינקו זאלץ",
       "english": "Hinko Zaltz",
       "variants": [
-        "סלץ",
+        "Witness Salz",
         "זאלץ",
         "זלץ",
-        "Zaltz"
+        "Hinko Salz",
+        "סלץ",
+        "Dr. Hinko Salz",
+        "Zaltz",
+        "Saltz"
       ],
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "8001-8396",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zaltz.jpg"
+      "image": "/images/witnesses/zaltz.jpg",
+      "testimony_en": "en/Hinko_Zaltz.md",
+      "testimony_he": "he/Hinko_Zaltz.md"
     },
     {
       "hebrew": "חולדה קאמפאנינו",
       "english": "Hulda Campagnana",
       "testimonyExtracted": true,
       "variants": [
-        "קאמפאנינו",
         "קמפניאנו",
-        "חולדה",
+        "Hulda Campagnano",
+        "קאמפאנינו",
         "Campagnano",
+        "חולדה",
         "Campagnana"
       ],
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "9823-10212",
-      "image": "/images/witnesses/campagnana.jpg"
+      "image": "/images/witnesses/campagnana.jpg",
+      "testimony_en": "en/Hulda_Campagnana.md",
+      "testimony_he": "he/Hulda_Campagnana.md"
     },
     {
       "hebrew": "ישראל גוטמן",
       "english": "Israel Gutman",
       "variants": [
+        "Yisrael Gutman",
         "גוטמן",
         "Gutman"
       ],
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "13187-13600",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gutman.jpg"
+      "image": "/images/witnesses/gutman.jpg",
+      "testimony_en": "en/Israel_Gutman.md",
+      "testimony_he": "he/Israel_Gutman.md"
     },
     {
       "hebrew": "יוסף רזניק",
@@ -559,7 +843,9 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "13613-13905",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/reznik.jpg"
+      "image": "/images/witnesses/reznik.jpg",
+      "testimony_en": "en/Joseph_Reznik.md",
+      "testimony_he": "he/Joseph_Reznik.md"
     },
     {
       "hebrew": "יוסף קליינמן",
@@ -567,7 +853,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "5450-5876",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/kleinman.jpg"
+      "image": "/images/witnesses/kleinman.jpg",
+      "testimony_en": "en/Jospeh_Zalman_Kleinman.md",
+      "testimony_he": "he/Jospeh_Zalman_Kleinman.md"
     },
     {
       "hebrew": "ישראל כרמל",
@@ -575,7 +863,12 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "14886-15229",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/carmel.jpg"
+      "image": "/images/witnesses/carmel.jpg",
+      "variants": [
+        "Carmel"
+      ],
+      "testimony_en": "en/Israel_Carmel.md",
+      "testimony_he": "he/Israel_Carmel.md"
     },
     {
       "hebrew": "מיכאל מוסמאנו",
@@ -583,20 +876,31 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "14809-15497",
-      "image": "/images/witnesses/musmanno.jpg"
+      "image": "/images/witnesses/musmanno.jpg",
+      "variants": [
+        "Musmanno",
+        "Michael Musmanno",
+        "Justice Musmanno",
+        "Judge Musmanno"
+      ],
+      "testimony_en": "en/Judge_Michael_Musmanno.md",
+      "testimony_he": "he/Judge_Michael_Musmanno.md"
     },
     {
       "hebrew": "קלמן טיגמן",
       "english": "Kalman Teigmann",
       "variants": [
+        "Teigmann",
         "טייגמן",
         "טיגמן",
-        "Teigmann"
+        "Teigman"
       ],
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "2589-3192",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/teigmann.jpg"
+      "image": "/images/witnesses/teigmann.jpg",
+      "testimony_en": "en/Kalman_Teigmann.md",
+      "testimony_he": "he/Kalman_Teigmann.md"
     },
     {
       "hebrew": "לזלי גורדון",
@@ -604,7 +908,13 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "10895-11390",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gordon.jpg"
+      "image": "/images/witnesses/gordon.jpg",
+      "variants": [
+        "Gordon",
+        "Leslie Gordon"
+      ],
+      "testimony_en": "en/Lesley_Gordon.md",
+      "testimony_he": "he/Lesley_Gordon.md"
     },
     {
       "hebrew": "מרגיט רייך",
@@ -612,7 +922,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "20524-20699",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/reich.jpg"
+      "image": "/images/witnesses/reich.jpg",
+      "testimony_en": "en/Margit_Reich.md",
+      "testimony_he": "he/Margit_Reich.md"
     },
     {
       "hebrew": "מקס בורגר",
@@ -620,7 +932,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "6838-7796",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/burger.jpg"
+      "image": "/images/witnesses/burger.jpg",
+      "testimony_en": "en/Max_Burger.md",
+      "testimony_he": "he/Max_Burger.md"
     },
     {
       "hebrew": "מיכאל פודחלבניק",
@@ -633,7 +947,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "1095-1435",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/podchelnik.jpg"
+      "image": "/images/witnesses/podchelnik.jpg",
+      "testimony_en": "en/Michael_Podchlewnik.md",
+      "testimony_he": "he/Michael_Podchlewnik.md"
     },
     {
       "hebrew": "מרדכי אנסבכר",
@@ -641,7 +957,9 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "11617-13239",
-      "image": "/images/witnesses/ansbacher.jpg"
+      "image": "/images/witnesses/ansbacher.jpg",
+      "testimony_en": "en/Mordechai_Ansbacher.md",
+      "testimony_he": "he/Mordechai_Ansbacher.md"
     },
     {
       "hebrew": "מרדכי אליעזר גרינשפן",
@@ -649,7 +967,21 @@
       "sourceFile": "Vol1_p114.txt",
       "sourceLines": "17867-17992",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/greenspan.jpg"
+      "image": "/images/witnesses/greenspan.jpg",
+      "variants": [
+        "Grynspan",
+        "Mordecai Eliezer Grynspan",
+        "M. Grynszpan",
+        "Mordechai Grynspan",
+        "Modecai Eliezer Grynspan",
+        "Witness M. Grynszpan",
+        "Mr. Grynszpan",
+        "Greenspan",
+        "Mordecai Eliezer Grynszpan",
+        "Mordecai Greenspan"
+      ],
+      "testimony_en": "en/Mordeichai_Eliezer_Greenspan.md",
+      "testimony_he": "he/Mordeichai_Eliezer_Greenspan.md"
     },
     {
       "hebrew": "מרדכי ז'ורבסקי",
@@ -662,7 +994,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "1362-1435",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zurawski.jpg"
+      "image": "/images/witnesses/zurawski.jpg",
+      "testimony_en": "en/Mordeichai_Zurawski.md",
+      "testimony_he": "he/Mordeichai_Zurawski.md"
     },
     {
       "hebrew": "מוריץ פליישמן",
@@ -670,7 +1004,13 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "2897-3703",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/fleischman.jpg"
+      "image": "/images/witnesses/fleischman.jpg",
+      "variants": [
+        "Moritz Fleischmann",
+        "Fleischmann"
+      ],
+      "testimony_en": "en/Moritz_Fleischman.md",
+      "testimony_he": "he/Moritz_Fleischman.md"
     },
     {
       "hebrew": "משה בהיר",
@@ -678,7 +1018,14 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "14-459",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/bahir.jpg"
+      "image": "/images/witnesses/bahir.jpg",
+      "variants": [
+        "Mr. Bahir",
+        "Bahir",
+        "Moshe Bahir"
+      ],
+      "testimony_en": "en/Moshe_Bahir.md",
+      "testimony_he": "he/Moshe_Bahir.md"
     },
     {
       "hebrew": "משה רוזנברג",
@@ -686,7 +1033,12 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "6723-7421",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/rosenberg_moshe.jpg"
+      "image": "/images/witnesses/rosenberg_moshe.jpg",
+      "variants": [
+        "Rosenberg"
+      ],
+      "testimony_en": "en/Moshe_Rosenberg.md",
+      "testimony_he": "he/Moshe_Rosenberg.md"
     },
     {
       "hebrew": "רחל אוורבך",
@@ -698,7 +1050,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "17349-17658",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/auerbach.jpg"
+      "image": "/images/witnesses/auerbach.jpg",
+      "testimony_en": "en/Rachel_Auerbach.md",
+      "testimony_he": "he/Rachel_Auerbach.md"
     },
     {
       "hebrew": "פרידה מזיא",
@@ -706,48 +1060,73 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "19101-19557",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/mazia.jpg"
+      "image": "/images/witnesses/mazia.jpg",
+      "variants": [
+        "Mrs. Masia",
+        "Witness Masia",
+        "Mazia",
+        "Frieda Mazia",
+        "Frieda Masia"
+      ],
+      "testimony_en": "en/Freida_Mazia.md",
+      "testimony_he": "he/Freida_Mazia.md"
     },
     {
       "hebrew": "ליאנה ניומן",
       "english": "Leanna Neumann",
       "testimonyExtracted": true,
       "variants": [
-        "ניומן",
         "נוימן",
-        "ליאנה",
+        "Liana Neumann",
+        "Liona Neuman",
+        "Liona Neumann",
         "ליאונה",
-        "Neumann"
+        "ליאנה",
+        "Neumann",
+        "Leanna",
+        "ניומן",
+        "Neuman"
       ],
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "52-312",
-      "image": "/images/witnesses/neumann.jpg"
+      "image": "/images/witnesses/neumann.jpg",
+      "testimony_en": "en/Leanna_Neumann.md",
+      "testimony_he": "he/Leanna_Neumann.md"
     },
     {
       "hebrew": "ולי צימט",
       "english": "Vali Zimmet",
       "variants": [
-        "צימט",
+        "Zimmet",
+        "Walli Zimet",
+        "Malka Zimet",
         "ולי צימט",
-        "Zimmet"
+        "צימט",
+        "Walli Malka Zimet",
+        "Zimet"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "6692-6837",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zimmet.jpg"
+      "image": "/images/witnesses/zimmet.jpg",
+      "testimony_en": "en/Vali_Zimmet.md",
+      "testimony_he": "he/Vali_Zimmet.md"
     },
     {
       "hebrew": "נפתלי בר שלום",
       "english": "Naftali Bar-Shalom",
       "variants": [
         "בר שלום",
+        "בּרֿשלום",
         "בר-שלום",
-        "בּרֿשלום"
+        "Bar-Shalom"
       ],
       "sourceFile": "Vol1_p114.txt",
       "sourceLines": "10169-11119",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/bar-shalom.jpg"
+      "image": "/images/witnesses/bar-shalom.jpg",
+      "testimony_en": "en/Naftali_Bar-Shalom.md",
+      "testimony_he": "he/Naftali_Bar-Shalom.md"
     },
     {
       "hebrew": "נחום הוך",
@@ -755,7 +1134,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "10954-11254",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/hoch.jpg"
+      "image": "/images/witnesses/hoch.jpg",
+      "testimony_en": "en/Nahum_Hoch.md",
+      "testimony_he": "he/Nahum_Hoch.md"
     },
     {
       "hebrew": "פרלה מרק",
@@ -763,20 +1144,27 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "19559-20270",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/mark.jpg"
+      "image": "/images/witnesses/mark.jpg",
+      "testimony_en": "en/Perla_Mark.md",
+      "testimony_he": "he/Perla_Mark.md"
     },
     {
       "hebrew": "פיליפ פרוידיגר",
       "english": "Philippe Freudiger",
       "variants": [
+        "פון פרוידיגר",
         "פנחס פרוידיגר",
-        "פרוידיגר",
-        "פון פרוידיגר"
+        "Fulop Freudiger",
+        "Philip Freudiger",
+        "Freudiger",
+        "פרוידיגר"
       ],
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "17585-19783",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/freudiger.jpg"
+      "image": "/images/witnesses/freudiger.jpg",
+      "testimony_en": "en/Philippe_Freudiger.md",
+      "testimony_he": "he/Philippe_Freudiger.md"
     },
     {
       "hebrew": "פרופ' גוסטב גילברט",
@@ -784,20 +1172,30 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "13-1385",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gilbert.jpg"
+      "image": "/images/witnesses/gilbert.jpg",
+      "variants": [
+        "Professor Gilbert",
+        "Gustave Gilbert",
+        "Gilbert"
+      ],
+      "testimony_en": "en/Prof_Gustave_Gilbert.md",
+      "testimony_he": "he/Prof_Gustave_Gilbert.md"
     },
     {
       "hebrew": "פרופ' סאלו בארון",
       "english": "Prof. Salo Baron",
       "variants": [
-        "ברון",
         "שלום ברון",
+        "Salo Baron",
+        "ברון",
         "Baron"
       ],
       "sourceFile": "Vol1_p114.txt",
       "sourceLines": "14589-16457",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/baron.jpg"
+      "image": "/images/witnesses/baron.jpg",
+      "testimony_en": "en/Prof_Salo_Baron.md",
+      "testimony_he": "he/Prof_Salo_Baron.md"
     },
     {
       "hebrew": "רבקה קופר",
@@ -805,7 +1203,14 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "18212-18536",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/kupper.jpg"
+      "image": "/images/witnesses/kupper.jpg",
+      "variants": [
+        "Kupper",
+        "Rivka Kuper",
+        "Kuper"
+      ],
+      "testimony_en": "en/Rivka_Kupper.md",
+      "testimony_he": "he/Rivka_Kupper.md"
     },
     {
       "hebrew": "רבקה יוסלבסקה",
@@ -813,19 +1218,31 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "562-950",
-      "image": "/images/witnesses/yoselevska.jpg"
+      "image": "/images/witnesses/yoselevska.jpg",
+      "variants": [
+        "Yoselewska",
+        "Yoselevska",
+        "Rivka Yoselewska",
+        "Rivka Yosselevska"
+      ],
+      "testimony_en": "en/Rivka_Yoselevska.md",
+      "testimony_he": "he/Rivka_Yoselevska.md"
     },
     {
       "hebrew": "שלום חולבסקי",
       "english": "Shalom Chulawski",
       "variants": [
-        "חולבסקי",
-        "Chulawski"
+        "Chulawski",
+        "Cholawski",
+        "Shalom Cholawski",
+        "חולבסקי"
       ],
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "15669-15954",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/chulawski.jpg"
+      "image": "/images/witnesses/chulawski.jpg",
+      "testimony_en": "en/Shalom_Chulawski.md",
+      "testimony_he": "he/Shalom_Chulawski.md"
     },
     {
       "hebrew": "שמעון סרברניק",
@@ -833,20 +1250,32 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "1863-2260",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/servernik.jpg"
+      "image": "/images/witnesses/servernik.jpg",
+      "variants": [
+        "Servernik",
+        "Shim'on Srebrnik",
+        "Mr. Srebrnik",
+        "Simon Servernik",
+        "Witness Srebrnik",
+        "Shimon Srebrnik"
+      ],
+      "testimony_en": "en/Shimon_Servernik.md",
+      "testimony_he": "he/Shimon_Servernik.md"
     },
     {
       "hebrew": "שמואל הורביץ",
       "english": "Shmuel Horowitz",
       "testimonyExtracted": true,
       "variants": [
-        "הורביץ",
         "הורוביץ",
-        "Horowitz"
+        "Horowitz",
+        "הורביץ"
       ],
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "317-549",
-      "image": "/images/witnesses/horowitz.jpg"
+      "image": "/images/witnesses/horowitz.jpg",
+      "testimony_en": "en/Shmuel_Horowitz.md",
+      "testimony_he": "he/Shmuel_Horowitz.md"
     },
     {
       "hebrew": "ורה אלכסנדר",
@@ -854,7 +1283,12 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "8398-10407",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/alexander.jpg"
+      "image": "/images/witnesses/alexander.jpg",
+      "variants": [
+        "Alexander"
+      ],
+      "testimony_en": "en/Vera_Alexander.md",
+      "testimony_he": "he/Vera_Alexander.md"
     },
     {
       "hebrew": "ויטסלב דיאמנט",
@@ -862,20 +1296,25 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "6588-6883",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/diamant.jpg"
+      "image": "/images/witnesses/diamant.jpg",
+      "testimony_en": "en/Witzlaw_Diamant.md",
+      "testimony_he": "he/Witzlaw_Diamant.md"
     },
     {
       "hebrew": "וורנר דוד מלכיאור",
       "english": "Werner David Melchior",
       "testimonyExtracted": true,
       "variants": [
-        "מלכיאור",
         "מלכיור",
-        "Melchior"
+        "מלכיאור",
+        "Melchior",
+        "Werner Melchior"
       ],
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "8188-8601",
-      "image": "/images/witnesses/melchior.jpg"
+      "image": "/images/witnesses/melchior.jpg",
+      "testimony_en": "en/Werner_David_Melchior.md",
+      "testimony_he": "he/Werner_David_Melchior.md"
     },
     {
       "hebrew": "יעקב ביסקוביץ",
@@ -883,7 +1322,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "460-957",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/biskowitz.jpg"
+      "image": "/images/witnesses/biskowitz.jpg",
+      "testimony_en": "en/Yacov_Biskowitz.md",
+      "testimony_he": "he/Yacov_Biskowitz.md"
     },
     {
       "hebrew": "יעקב פרידמן",
@@ -891,13 +1332,17 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "17349-17658",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/friedman.jpg"
+      "image": "/images/witnesses/friedman.jpg",
+      "testimony_en": "en/Yacov_Friedman.md",
+      "testimony_he": "he/Yacov_Friedman.md"
     },
     {
       "hebrew": "יעקב ויירניק",
       "english": "Yacov Vernik",
       "variants": [
         "ורניק",
+        "Vernik",
+        "Jacob Vernik",
         "וירניק",
         "Wiernik",
         "ויירניק"
@@ -905,7 +1350,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "2325-2575",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/vernik.jpg"
+      "image": "/images/witnesses/vernik.jpg",
+      "testimony_en": "en/Yacov_Vernik.md",
+      "testimony_he": "he/Yacov_Vernik.md"
     },
     {
       "hebrew": "יחיאל די-נור",
@@ -913,12 +1360,18 @@
       "alias": "ק. צטניק",
       "variants": [
         "דינור",
+        "Yehiel Dinur",
+        "Ka-Tzetnik",
+        "Ka Tzetnik",
+        "K. Zetnik",
         "Dinur"
       ],
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "5402-5877",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/de-nur.jpg"
+      "image": "/images/witnesses/de-nur.jpg",
+      "testimony_en": "en/Yhiel_De-Nur_Ka-Tzetnik.md",
+      "testimony_he": "he/Yhiel_De-Nur_Ka-Tzetnik.md"
     },
     {
       "hebrew": "יהודה בקון",
@@ -926,7 +1379,15 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "5878-6840",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/bacon.jpg"
+      "image": "/images/witnesses/bacon.jpg",
+      "variants": [
+        "Bakon",
+        "Bacon",
+        "Jehuda Bacon",
+        "Yehuda Bakon"
+      ],
+      "testimony_en": "en/Yehuda_Bacon.md",
+      "testimony_he": "he/Yehuda_Bacon.md"
     },
     {
       "hebrew": "יצחק נחמה",
@@ -934,7 +1395,17 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "10408-10692",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/nehama.jpg"
+      "image": "/images/witnesses/nehama.jpg",
+      "variants": [
+        "Mr. Nechama",
+        "Witness Nechama",
+        "Nehama",
+        "Itzchak Nechama",
+        "Yitzhak Nechama",
+        "Yitzchak Nehama"
+      ],
+      "testimony_en": "en/Yitzhak_Nehama.md",
+      "testimony_he": "he/Yitzhak_Nehama.md"
     },
     {
       "hebrew": "יצחק צוקרמן",
@@ -942,7 +1413,14 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "16334-17305",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zukermann.jpg"
+      "image": "/images/witnesses/zukermann.jpg",
+      "variants": [
+        "Zukerman",
+        "Yitzhak Zuckerman",
+        "Zuckerman"
+      ],
+      "testimony_en": "en/Yitzhak_Zukermann.md",
+      "testimony_he": "he/Yitzhak_Zukermann.md"
     },
     {
       "hebrew": "יואל ברנד",
@@ -950,7 +1428,13 @@
       "sourceFile": "Vol2_p5564.txt",
       "sourceLines": "1386-2149",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/brand.jpg"
+      "image": "/images/witnesses/brand.jpg",
+      "variants": [
+        "Joel Brand",
+        "Brand"
+      ],
+      "testimony_en": "en/Yoel_Brand.md",
+      "testimony_he": "he/Yoel_Brand.md"
     },
     {
       "hebrew": "זאב ספיר",
@@ -958,7 +1442,9 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "21172-21503",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/sapir.jpg"
+      "image": "/images/witnesses/sapir.jpg",
+      "testimony_en": "en/Zeev_Sapir.md",
+      "testimony_he": "he/Zeev_Sapir.md"
     },
     {
       "hebrew": "זינדל שמואל גרינשפן",
@@ -966,32 +1452,54 @@
       "sourceFile": "Vol1_p114.txt",
       "sourceLines": "17867-17992",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/grynszpan.jpg"
+      "image": "/images/witnesses/grynszpan.jpg",
+      "variants": [
+        "Zyndel Grynszpan",
+        "Grynszpan",
+        "Zindel Grynszpan",
+        "Sendel Grynszpan",
+        "Mr. Grynszpan",
+        "Witness Grynszpan"
+      ],
+      "testimony_en": "en/Zyndel_Shmuel_Grynszpan.md",
+      "testimony_he": "he/Zyndel_Shmuel_Grynszpan.md"
     },
     {
       "hebrew": "צבי פכטר",
       "english": "Zvi Pachter",
       "variants": [
+        "Pachter Hirsch",
+        "Zvi Pechter",
+        "Hirsch Pachter",
+        "Pachter",
+        "Pechter",
         "פחטר",
-        "הרש פחטר",
-        "Pachter"
+        "הרש פחטר"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "9420-9787",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/pachter.jpg"
+      "image": "/images/witnesses/pachter.jpg",
+      "testimony_en": "en/Zvi_Pachter.md",
+      "testimony_he": "he/Zvi_Pachter.md"
     },
     {
       "hebrew": "צביה לובטקין צוקרמן",
       "english": "Zivia Lubetkin Zukermann",
       "variants": [
+        "Zivia Lubetkin",
+        "גברת לובטקין",
         "לובטקין",
-        "גברת לובטקין"
+        "Lubetkin-Zuckerman",
+        "Zivia Lubetkin-Zuckerman",
+        "Lubetkin"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "15320-16292",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/zukermann.jpg"
+      "image": "/images/witnesses/zukermann.jpg",
+      "testimony_en": "en/Zivia_Lubetkin_Zukermann.md",
+      "testimony_he": "he/Zivia_Lubetkin_Zukermann.md"
     },
     {
       "hebrew": "נח זבלודוביץ",
@@ -999,7 +1507,12 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "10142-10726",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/sabludovsky.jpg"
+      "image": "/images/witnesses/sabludovsky.jpg",
+      "variants": [
+        "Zabludowicz"
+      ],
+      "testimony_en": "en/Noach_Zabludowicz.md",
+      "testimony_he": "he/Noach_Zabludowicz.md"
     },
     {
       "hebrew": "דר' משה בייסקי",
@@ -1007,20 +1520,31 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "10919-11520",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/beisky.jpg"
+      "image": "/images/witnesses/beisky.jpg",
+      "variants": [
+        "Moshe Beisky",
+        "Bejski",
+        "Beisky"
+      ],
+      "testimony_en": "en/Dr_Moshe_Beisky.md",
+      "testimony_he": "he/Dr_Moshe_Beisky.md"
     },
     {
       "hebrew": "דר' יוסף בוז'מינסקי",
       "english": "Dr. Joseph Buzminsky",
       "variants": [
-        "בוז׳מינסקי",
         "בוזמינסקי",
-        "Buzminsky"
+        "Buzminsky",
+        "Josef Buzminsky",
+        "Buzminski",
+        "בוז׳מינסקי"
       ],
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "14578-14842",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/buzminsky.jpg"
+      "image": "/images/witnesses/buzminsky.jpg",
+      "testimony_en": "en/Dr_Joseph_Buzminsky.md",
+      "testimony_he": "he/Dr_Joseph_Buzminsky.md"
     },
     {
       "hebrew": "אסתר שילה",
@@ -1028,7 +1552,14 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "14465-14575",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/shilo.jpg"
+      "image": "/images/witnesses/shilo.jpg",
+      "variants": [
+        "Esther Shilo",
+        "Shiloh",
+        "Shilo"
+      ],
+      "testimony_en": "en/Ester_Shilo.md",
+      "testimony_he": "he/Ester_Shilo.md"
     },
     {
       "hebrew": "אהרון זילברמן",
@@ -1036,7 +1567,15 @@
       "testimonyExtracted": true,
       "sourceFile": "vol1_part3.txt",
       "sourceLines": "1588-1633",
-      "image": "/images/witnesses/zilberman.jpg"
+      "image": "/images/witnesses/zilberman.jpg",
+      "variants": [
+        "Aaron Silbermann",
+        "Silbermann",
+        "Zilberman",
+        "Silberman"
+      ],
+      "testimony_en": "en/Aharon_Zilberman.md",
+      "testimony_he": "he/Aharon_Zilberman.md"
     },
     {
       "hebrew": "אברהם גורדון",
@@ -1044,12 +1583,15 @@
       "sourceFile": "Vol2_p4155.txt",
       "sourceLines": "21541-22269",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gordon.jpg"
+      "image": "/images/witnesses/gordon.jpg",
+      "testimony_en": "en/Avraham_Gordon.md",
+      "testimony_he": "he/Avraham_Gordon.md"
     },
     {
       "hebrew": "רעיה קגן",
       "english": "Raya Cagan",
       "variants": [
+        "Kagan",
         "כגן",
         "קגן",
         "Cagan"
@@ -1057,7 +1599,9 @@
       "sourceFile": "Vol2_p6575.txt",
       "sourceLines": "8981-10021",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/cagan.jpg"
+      "image": "/images/witnesses/cagan.jpg",
+      "testimony_en": "en/Raya_Cagan.md",
+      "testimony_he": "he/Raya_Cagan.md"
     },
     {
       "hebrew": "יעקב גורפיין",
@@ -1065,7 +1609,9 @@
       "sourceFile": "Vol1_p15291.txt",
       "sourceLines": "9788-10141",
       "testimonyExtracted": true,
-      "image": "/images/witnesses/gurfein.jpg"
+      "image": "/images/witnesses/gurfein.jpg",
+      "testimony_en": "en/Yacov_Gurfein.md",
+      "testimony_he": "he/Yacov_Gurfein.md"
     }
   ],
   "keyFigures": {

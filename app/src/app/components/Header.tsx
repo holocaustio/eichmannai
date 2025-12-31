@@ -17,6 +17,20 @@ const navItems = [
 export default function Header() {
   const pathname = usePathname();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+
+  // Track scroll position
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 50);
+    };
+    
+    // Check initial scroll position
+    handleScroll();
+    
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   // Close mobile menu on route change
   useEffect(() => {
@@ -24,9 +38,23 @@ export default function Header() {
   }, [pathname]);
 
   return (
-    <header className="border-b border-stone-900 sticky top-0 bg-stone-950/95 backdrop-blur-sm z-50">
+    <header 
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+        scrolled 
+          ? 'bg-stone-950/95 backdrop-blur-sm border-b border-stone-900' 
+          : 'bg-transparent border-b border-transparent'
+      }`}
+      style={{ textShadow: scrolled ? 'none' : '0 2px 8px rgba(0,0,0,0.6)' }}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="font-serif text-lg text-stone-200 hover:text-white transition-colors">
+        <Link 
+          href="/" 
+          className={`font-serif text-lg transition-colors ${
+            scrolled 
+              ? 'text-stone-200 hover:text-white' 
+              : 'text-white hover:text-white/80'
+          }`}
+        >
           The Eichmann Trial Digital Archive
         </Link>
         
@@ -41,9 +69,13 @@ export default function Header() {
                 key={item.href}
                 href={item.href}
                 className={`text-sm tracking-wide transition-colors ${
-                  isActive 
-                    ? 'text-stone-100' 
-                    : 'text-stone-500 hover:text-stone-300'
+                  scrolled
+                    ? isActive 
+                      ? 'text-stone-100' 
+                      : 'text-stone-500 hover:text-stone-300'
+                    : isActive
+                      ? 'text-white'
+                      : 'text-white/70 hover:text-white'
                 }`}
               >
                 {item.label}
@@ -55,7 +87,11 @@ export default function Header() {
         {/* Mobile Menu Button */}
         <button
           type="button"
-          className="md:hidden p-2 text-stone-400 hover:text-stone-200 transition-colors"
+          className={`md:hidden p-2 transition-colors ${
+            scrolled 
+              ? 'text-stone-400 hover:text-stone-200' 
+              : 'text-white/80 hover:text-white'
+          }`}
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
           aria-label="Toggle menu"
           aria-expanded={mobileMenuOpen}
@@ -74,7 +110,7 @@ export default function Header() {
 
       {/* Mobile Navigation */}
       {mobileMenuOpen && (
-        <nav className="md:hidden border-t border-stone-900 bg-stone-950">
+        <nav className="md:hidden border-t border-stone-900 bg-stone-950/95 backdrop-blur-sm">
           <div className="px-4 py-2">
             {navItems.map((item) => {
               const isActive = pathname === item.href || 

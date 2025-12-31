@@ -14,13 +14,30 @@ export default function AboutPage() {
   return (
     <main className="min-h-screen">
       {/* Hero */}
-      <section className="py-20 px-6 border-b border-stone-900">
-        <div className="max-w-4xl mx-auto text-center">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">About This Archive</p>
+      <section className="min-h-[400px] flex flex-col justify-center items-center px-6 relative overflow-hidden">
+        {/* Background Image */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: 'url(/herobg2.jpg)',
+          }}
+        />
+        {/* Dark Overlay */}
+        <div className="absolute inset-0 bg-stone-950/70" />
+        {/* Inner Shadow / Vignette */}
+        <div 
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background: 'radial-gradient(ellipse at center, rgba(12,10,8,0) 0%, rgba(12,10,8,0.3) 50%, rgba(12,10,8,1) 100%)'
+          }}
+        />
+        
+        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+          <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">About This Archive</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             When Survivors Became Witnesses
           </h1>
-          <p className="text-stone-400 text-lg max-w-3xl mx-auto leading-relaxed">
+          <p className="text-stone-300 text-lg max-w-3xl mx-auto leading-relaxed">
             The Eichmann Trial placed Holocaust testimony at the center of a public proceeding 
             for the first time. This archive preserves that moment.
           </p>
@@ -40,7 +57,7 @@ export default function AboutPage() {
             <p>
               My grandfather, <span className="text-stone-200">Israel Carmel</span>, was one of the witnesses 
               who testified at the Eichmann Trial. He stood in that courtroom in Jerusalem in 1961 and 
-              spoke about what he saw, what he survived, what he carried with him.
+              spoke about what he knew.
             </p>
             
             <p>

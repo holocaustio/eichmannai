@@ -72,13 +72,30 @@ export default function WitnessesClient() {
   return (
     <main className="min-h-screen">
       {/* Hero */}
-      <section className="py-16 px-6 border-b border-stone-900">
-        <div className="max-w-7xl mx-auto text-center">
-          <p className="text-stone-600 text-xs tracking-[0.3em] uppercase mb-4">The Voices</p>
+      <section className="min-h-[400px] flex flex-col justify-center items-center px-6 relative overflow-hidden">
+        {/* Background Image */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{
+            backgroundImage: 'url(/herobg2.jpg)',
+          }}
+        />
+        {/* Dark Overlay */}
+        <div className="absolute inset-0 bg-stone-950/70" />
+        {/* Inner Shadow / Vignette */}
+        <div 
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background: 'radial-gradient(ellipse at center, rgba(12,10,8,0) 0%, rgba(12,10,8,0.3) 50%, rgba(12,10,8,1) 100%)'
+          }}
+        />
+        
+        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+          <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">The Voices</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             Witnesses of the Trial
           </h1>
-          <p className="text-stone-400 text-lg max-w-2xl mx-auto mb-8">
+          <p className="text-stone-300 text-lg max-w-3xl mx-auto leading-relaxed mb-8">
             {allWitnesses.length} witnesses testified at the Eichmann trial.
             Click on any witness to read their full testimony.
           </p>
@@ -90,17 +107,17 @@ export default function WitnessesClient() {
               placeholder="Search witnesses by name..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full bg-stone-900 border border-stone-800 px-4 py-3 text-stone-200 placeholder-stone-600 focus:outline-none focus:border-stone-600 text-center"
+              className="w-full bg-stone-900/80 border border-stone-700 px-4 py-3 text-stone-200 placeholder-stone-500 focus:outline-none focus:border-stone-500 text-center backdrop-blur-sm"
             />
             
             {searchQuery && (
               <div className="mt-3 flex items-center justify-center gap-4">
-                <p className="text-stone-500 text-sm">
+                <p className="text-stone-400 text-sm">
                   Showing {filteredWitnesses.length} of {allWitnesses.length}
                 </p>
                 <button
                   onClick={() => setSearchQuery('')}
-                  className="text-stone-400 text-sm hover:text-stone-200"
+                  className="text-stone-300 text-sm hover:text-white"
                 >
                   Clear
                 </button>

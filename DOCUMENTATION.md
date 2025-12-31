@@ -15,10 +15,11 @@
 4. [Phase 3: Text Extraction Approaches](#phase-3-text-extraction-approaches)
 5. [Phase 4: Entity Extraction & NER](#phase-4-entity-extraction--ner)
 6. [Phase 5: Testimony Extraction Pipeline](#phase-5-testimony-extraction-pipeline)
-7. [Technical Challenges & Solutions](#technical-challenges--solutions)
-8. [Technologies & Libraries Used](#technologies--libraries-used)
-9. [Final Results & Statistics](#final-results--statistics)
-10. [Lessons Learned](#lessons-learned)
+7. [Phase 6: English Transcripts from Nizkor Project](#phase-6-english-transcripts-from-nizkor-project)
+8. [Technical Challenges & Solutions](#technical-challenges--solutions)
+9. [Technologies & Libraries Used](#technologies--libraries-used)
+10. [Final Results & Statistics](#final-results--statistics)
+11. [Lessons Learned](#lessons-learned)
 
 ---
 
@@ -524,6 +525,249 @@ Each testimony extracted as clean Markdown:
 
 ---
 
+## Phase 6: English Transcripts from Nizkor Project
+
+### Discovery of English Source
+
+While the Hebrew transcripts from Yad Vashem provided the original source, we discovered that the **Nizkor Project** had already transcribed the trial proceedings into English, hosted via the Wayback Machine archive.
+
+**Source**: `https://web.archive.org/web/*/www.nizkor.org/hweb/people/e/eichmann-adolf/transcripts/Sessions/*`
+
+This gave us access to clean, structured English text covering most trial sessions.
+
+### Web Scraping the Nizkor Transcripts
+
+We built a scraper to download all available English session transcripts:
+
+```python
+# scrape_nizkor_transcripts.py
+import asyncio
+from pathlib import Path
+
+NIZKOR_BASE = "https://web.archive.org/web/..."
+OUTPUT_DIR = Path("downloads/nizkor-transcripts")
+
+async def scrape_session(session_num, part_num):
+    """Download a single session part from Nizkor/Wayback"""
+    url = f"{NIZKOR_BASE}/Session-{session_num:03d}-{part_num:02d}.html"
+    # Fetch, parse HTML, extract transcript text
+    # Save as Markdown
+```
+
+**Results**:
+- 121 session files downloaded
+- Organized by volume (vol1-vol5)
+- Sessions 1-114, 119-121 available
+- Sessions 115-118 (Judgment reading) not transcribed
+
+### Entity Extraction with spaCy NER
+
+For the English transcripts, we used **spaCy's `en_core_web_lg`** model for Named Entity Recognition:
+
+```python
+import spacy
+
+nlp = spacy.load("en_core_web_lg")
+
+def extract_entities_spacy(text, session_num):
+    """Extract entities using spaCy NER"""
+    doc = nlp(text)
+    
+    entities = {
+        "persons": {},
+        "locations": {},
+        "organizations": {},
+        "events": {},
+    }
+    
+    for ent in doc.ents:
+        if ent.label_ == "PERSON":
+            add_entity(entities["persons"], ent.text, session_num)
+        elif ent.label_ in ("GPE", "LOC", "FAC"):
+            add_entity(entities["locations"], ent.text, session_num)
+        elif ent.label_ == "ORG":
+            add_entity(entities["organizations"], ent.text, session_num)
+        elif ent.label_ == "EVENT":
+            add_entity(entities["events"], ent.text, session_num)
+    
+    return entities
+```
+
+### Witness Testimony Extraction
+
+We developed sophisticated patterns to extract individual testimonies:
+
+```python
+# Sworn-in patterns to detect testimony start
+sworn_patterns = [
+    r'\[\s*[Tt]he witness is sworn[^\]]*\]',
+    r'\[\s*[Ww]itness\s+[A-Z][a-zA-Z\-]+\s+is sworn[^\]]*\]',
+    r'\[\s*(?:Mr\.|Mrs\.|Dr\.)\s*[A-Z][a-zA-Z\-]+\s+is sworn[^\]]*\]',
+    # ... more patterns
+]
+
+# End patterns to detect testimony conclusion
+end_patterns = [
+    r'\*\*Presiding Judge:\*\*.*?you have concluded your testimony',
+    r'\*\*Presiding Judge:\*\*.*?Thank you,? (?:Mr\.|Mrs\.|Dr\.).*?\.',
+]
+```
+
+### The 108 Witness Challenge
+
+A major challenge was matching extracted witness names to our canonical **witness-index.json**. Names appeared with many spelling variations:
+
+| Canonical Name | Nizkor Spellings |
+|----------------|------------------|
+| Dr. Hinko Zaltz | Dr. Hinko Salz, Hinko Salz |
+| Yitzhak Nehama | Itzchak Nechama, Mr. Nechama |
+| Dr. Arieh Breslauer | Arye Zvi Breszlauer, Witness Breszlauer |
+| Mordeichai Eliezer Greenspan | Mordecai Eliezer Grynszpan, M. Grynszpan |
+| Shimon Servernik | Shim'on Srebrnik, Witness Srebrnik |
+
+**Solution**: Build comprehensive variant lists for each witness:
+
+```python
+def match_witness_to_index(extracted_name, witness_index):
+    """Match an extracted name to canonical witness"""
+    
+    for witness in witness_index["witnesses"]:
+        # Check exact match
+        if extracted_name.lower() == witness["english"].lower():
+            return witness["english"]
+        
+        # Check variants
+        for variant in witness.get("variants", []):
+            if extracted_name.lower() == variant.lower():
+                return witness["english"]
+        
+        # Check partial matches (first + last name)
+        # ...
+    
+    return None
+```
+
+### Entity Consolidation with OpenAI
+
+Raw spaCy extraction produced many duplicates and errors:
+- "Hitler" and "Adolf Hitler" as separate entities
+- "Ramat Gan" (a city) classified as PERSON
+- "Wayback Machine Archive" extracted as ORGANIZATION
+
+We built an **OpenAI-powered consolidation pipeline**:
+
+```python
+def consolidate_with_openai(entities, entity_type):
+    """Use GPT-4o to consolidate and deduplicate entities"""
+    
+    prompt = f"""You are an expert on the Holocaust and the Eichmann Trial (1961).
+
+I have a list of {entity_type} extracted from the trial transcripts using NER.
+Many are duplicates, misspellings, partial extractions, or misclassified entities.
+
+Your task:
+1. Identify groups of entities that refer to the same thing
+2. Choose the best canonical name for each group
+3. Filter out entities that are NOT actually {entity_type}
+4. Filter out generic terms, partial words, or extraction errors
+
+Return a JSON object where:
+- Keys are the canonical entity names to keep
+- Values are arrays of all variant names to merge
+
+Example:
+{{
+  "Adolf Hitler": ["Hitler", "Adolf Hitler", "Hitler's"],
+  "Heinrich Himmler": ["Himmler", "Reichsfuehrer Himmler"]
+}}
+"""
+    
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.1,
+    )
+    
+    return json.loads(response.choices[0].message.content)
+```
+
+### Date-Session Linking
+
+We created DATE entities for timeline functionality, linking each session to its date:
+
+```python
+# Session → Date edges
+for session in session_nodes:
+    session_date = session.get("date")  # e.g., "1961-04-11"
+    if session_date:
+        date_id = f"date-{session_date}"
+        edges.append({
+            "source": session["id"],
+            "target": date_id,
+            "type": "OCCURRED_ON",
+        })
+```
+
+### Final English Extraction Results
+
+| Metric | Value |
+|--------|-------|
+| **Witnesses Found** | 108/108 (100%) |
+| **English Testimonies** | 108 files |
+| **Persons (Historical Figures)** | 388 |
+| **Locations** | 298 |
+| **Organizations** | 84 |
+| **Events** | 10 |
+| **Dates** | 78 |
+| **Total Nodes** | 1,195 |
+| **Total Edges** | 5,864 |
+
+### Key Figures Extracted
+
+| Name | Mentions |
+|------|----------|
+| Himmler | 962 |
+| Heydrich | 557 |
+| Adolf Hitler | 380 |
+| Veesenmayer | 262 |
+| Rudolf Hoess | 253 |
+| Ernst Kaltenbrunner | 229 |
+| Rudolf Kasztner | 198 |
+| Odilo Globocnik | 157 |
+| Goering | 141 |
+
+### Testimony Cleanup
+
+Extracted testimonies required cleanup:
+1. **Remove Nizkor artifacts**: INFOLINKS_OFF, copyright notices, navigation elements
+2. **Start marker**: Keep "What is your full name?" question
+3. **End marker**: Truncate at "you have concluded your testimony"
+
+```python
+def save_testimony(witness_name, testimony_text, session_num):
+    """Clean and save English testimony"""
+    
+    # Remove website artifacts
+    cleaned = re.sub(r'INFOLINKS_OFF.*?\n', '', testimony_text)
+    cleaned = re.sub(r'Home·Site Map.*?\n', '', cleaned)
+    cleaned = re.sub(r'©.*?\d{4}.*?\n', '', cleaned)
+    cleaned = re.sub(r'Nizkor urges the readers.*?manifestations\.', '', cleaned)
+    
+    # Format as Markdown
+    content = f"""# Testimony of {witness_name}
+
+**Session:** {session_num}
+
+---
+
+{cleaned}
+"""
+    
+    filepath.write_text(content)
+```
+
+---
+
 ## Technical Challenges & Solutions
 
 ### Challenge 1: Hebrew Text Direction
@@ -615,12 +859,14 @@ def process_large_file(filepath):
 ### Python Libraries
 | Library | Purpose |
 |---------|---------|
+| `spacy` | English NER (en_core_web_lg model) |
 | `transformers` | DictaBERT Hebrew NER model |
-| `openai` | GPT-4 API for entity consolidation |
+| `openai` | GPT-4o API for entity consolidation |
 | `asyncio` | Parallel processing |
 | `diskcache` | Caching API responses |
 | `PyMuPDF (fitz)` | PDF page extraction |
 | `pathlib` | File system operations |
+| `python-dotenv` | Environment variable management |
 
 ### JavaScript/TypeScript Libraries
 | Library | Purpose |
@@ -650,23 +896,50 @@ def process_large_file(filepath):
 
 ### Extraction Success
 
-| Metric | Value |
-|--------|-------|
-| **Total Official Witnesses** | 108 |
-| **Testimonies Extracted** | 108 (100%) |
-| **Failed Extractions** | 0 |
+| Metric | Hebrew | English |
+|--------|--------|---------|
+| **Total Official Witnesses** | 108 | 108 |
+| **Testimonies Extracted** | 108 (100%) | 108 (100%) |
+| **Failed Extractions** | 0 | 0 |
 
 ### Data Volumes
 
 | Metric | Value |
 |--------|-------|
-| **Total PDF Files** | 14 |
+| **Total PDF Files (Hebrew)** | 14 |
 | **Total Pages** | ~25,000 |
 | **Total Text (chars)** | ~50 million |
-| **Testimony Files** | 108 Markdown files |
+| **Hebrew Testimony Files** | 108 Markdown files |
+| **English Testimony Files** | 108 Markdown files |
 | **Avg. Testimony Length** | ~15,000 characters |
-| **Longest Testimony** | ~100,000 characters |
-| **Shortest Testimony** | ~800 characters |
+
+### Entity Graph (English Transcripts)
+
+| Entity Type | Raw Extracted | After Consolidation |
+|-------------|---------------|---------------------|
+| **Persons** | 1,728 | 496 (108 witnesses + 388 figures) |
+| **Locations** | 536 | 298 |
+| **Organizations** | 457 | 84 |
+| **Events** | 59 | 10 |
+| **Dates** | 78 | 78 |
+| **Sessions** | 121 | 121 |
+| **Testimonies** | 108 | 108 |
+| **Total Nodes** | 3,087 | 1,195 |
+| **Total Edges** | 16,848 | 5,864 |
+
+### Top Historical Figures Extracted
+
+| Name | Mentions |
+|------|----------|
+| Heinrich Himmler | 962 |
+| Reinhard Heydrich | 557 |
+| Adolf Hitler | 380 |
+| Edmund Veesenmayer | 262 |
+| Rudolf Hoess | 253 |
+| Ernst Kaltenbrunner | 229 |
+| Rudolf Kasztner | 198 |
+| Odilo Globocnik | 157 |
+| Hermann Goering | 141 |
 
 ### Session Coverage
 
@@ -680,15 +953,26 @@ def process_large_file(filepath):
 | Vol2_p6575.txt | 65-75 | 20 |
 | **TOTAL** | 1-75 | **108** |
 
+### Nizkor English Coverage
+
+| Volume | Sessions | Notes |
+|--------|----------|-------|
+| vol1 | 1-6, 9-30 | Sessions 7-8 missing (Opening Speech) |
+| vol2 | 31-51 | Complete |
+| vol3 | 50-75 | Complete |
+| vol4 | 74-107 | Complete |
+| vol5 | 107-114, 119-121 | Sessions 115-118 missing (Judgment) |
+
 ### Cost Analysis
 
 | Approach | Estimated Cost |
 |----------|----------------|
 | Full OCR (Google Vision) | ~$1,500 |
 | Full OCR (Document AI) | ~$1,000 |
-| **Our Approach (pdftotext)** | **$0** |
-| OpenAI Entity Extraction | ~$50 |
-| **Total Project Cost** | **~$50** |
+| **Hebrew Approach (pdftotext)** | **$0** |
+| OpenAI Entity Extraction (Hebrew) | ~$50 |
+| OpenAI Entity Consolidation (English) | ~$20 |
+| **Total Project Cost** | **~$70** |
 
 ### Time Invested
 
@@ -697,11 +981,14 @@ def process_large_file(filepath):
 | Web scraping & file acquisition | 2 days |
 | OCR research & failed attempts | 3 days |
 | Discovery of embedded text | 1 hour |
-| Text extraction pipeline | 1 day |
-| Entity extraction pipeline | 2 days |
-| Testimony extraction | 2 days |
+| Hebrew text extraction pipeline | 1 day |
+| Hebrew entity extraction pipeline | 2 days |
+| Hebrew testimony extraction | 2 days |
+| Nizkor English scraping | 1 day |
+| English NER with spaCy | 1 day |
+| OpenAI entity consolidation | 1 day |
 | Web interface | 2 days |
-| **Total** | **~12 days** |
+| **Total** | **~15 days** |
 
 ---
 
@@ -728,16 +1015,33 @@ Inconsistent naming (`Vol1.txt` vs `vol1_part3.txt`) caused extraction failures 
 ### 7. Validate Against Ground Truth
 Cross-referencing against Yad Vashem's official list of 108 witnesses ensured completeness.
 
+### 8. Name Variant Matching is Critical
+The same person can appear with 10+ different spellings. Building comprehensive variant lists and fuzzy matching was essential for 100% witness coverage.
+
+### 9. LLM-Based Consolidation Beats Rule-Based
+Using OpenAI GPT-4o to consolidate entities (merging "Hitler"/"Adolf Hitler", filtering misclassified cities as persons) produced far better results than manual rules.
+
+### 10. Batch Processing Needs Cross-Batch Merging
+Processing entities in batches of 100 for OpenAI consolidation created fragmentation - entities in different batches weren't merged. A post-processing step to merge across batches improves quality.
+
+### 11. Multiple Source Languages Strengthen Data
+Having both Hebrew (original) and English (Nizkor) transcripts allowed cross-validation and provided accessibility for international users.
+
 ---
 
 ## Future Enhancements
 
+### Completed ✅
+- ~~**Translation**: Machine translation to English for accessibility~~ → **English transcripts from Nizkor**
+- ~~**Relationship Graph**: Visualize connections between witnesses, locations, events~~ → **Entity graph with 5,864 edges**
+- ~~**Timeline Visualization**: Map testimonies to historical events~~ → **78 DATE nodes linked to sessions**
+
+### Planned
 1. **Full-Text Search**: Elasticsearch integration for searching across all testimonies
 2. **Topic Extraction**: Identify key themes (camps, ghettos, events) per testimony
-3. **Timeline Visualization**: Map testimonies to historical events
-4. **Relationship Graph**: Visualize connections between witnesses, locations, events
-5. **Translation**: Machine translation to English for accessibility
-6. **Audio Integration**: Link to original trial recordings where available
+3. **Cross-Entity Relationships**: Deeper links (e.g., which witnesses mention which Nazi officials)
+4. **Audio Integration**: Link to original trial recordings where available
+5. **Interactive Knowledge Graph**: Visual exploration of entity relationships
 
 ---
 
@@ -755,5 +1059,43 @@ Cross-referencing against Yad Vashem's official list of 108 witnesses ensured co
 
 **Project Repository**: [eichmann/](/)  
 **Live Demo**: [localhost:3000/witnesses](/witnesses)  
-**Last Updated**: December 2024
+**Last Updated**: December 31, 2024
+
+---
+
+## Pipeline Scripts Reference
+
+### Extraction Pipeline
+
+| Script | Purpose |
+|--------|---------|
+| `scrape_nizkor_transcripts.py` | Download English transcripts from Nizkor/Wayback |
+| `extract_nizkor.py` | Extract entities and testimonies from English transcripts |
+| `consolidate_entities.py` | Consolidate entities with OpenAI GPT-4o |
+| `add_variants.py` | Add spelling variants to witness-index.json |
+
+### Running the Full Pipeline
+
+```bash
+cd datawork/python-pipeline
+source venv/bin/activate
+
+# Step 1: Scrape Nizkor transcripts (if not already done)
+python scrape_nizkor_transcripts.py
+
+# Step 2: Extract entities and testimonies
+python extract_nizkor.py
+
+# Step 3: Consolidate with OpenAI
+python consolidate_entities.py
+```
+
+### Output Files
+
+| File | Description |
+|------|-------------|
+| `app/public/data/entities-consolidated.json` | Complete entity graph |
+| `app/public/data/testimonies/en/*.md` | 108 English testimony files |
+| `app/public/data/testimonies/*.md` | 108 Hebrew testimony files |
+| `eichmann-entities/witness-index.json` | Canonical witness list with variants |
 

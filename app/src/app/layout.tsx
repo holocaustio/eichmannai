@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import { AIAssistantProvider, AIAssistantBubble } from "./components/AIAssistant";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://eichmann-trial.org";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://theeichmanntrial.org";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

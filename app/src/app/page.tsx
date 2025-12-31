@@ -73,7 +73,7 @@ export default function Home() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10">
+        <div className="max-w-4xl mx-auto text-center relative z-10" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
           <p className="text-stone-400 text-sm tracking-[0.3em] uppercase mb-8 font-light">
             Jerusalem, 1961
           </p>

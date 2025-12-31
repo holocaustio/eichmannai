@@ -59,6 +59,8 @@ interface EntitiesData {
   nodes: Witness[];
 }
 
+type Language = 'en' | 'he';
+
 export default function WitnessDetailClient() {
   const params = useParams();
   const witnessName = decodeURIComponent(params.name as string);
@@ -70,7 +72,9 @@ export default function WitnessDetailClient() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [imageError, setImageError] = useState(false);
-  const { setContext } = useAIAssistant();
+  const [language, setLanguage] = useState<Language>('en');
+  const [loadingTestimony, setLoadingTestimony] = useState(false);
+  const { setContext, openAssistant } = useAIAssistant();
 
   // Load witness data and testimony
   useEffect(() => {
@@ -152,8 +156,9 @@ export default function WitnessDetailClient() {
         const witnessId = found.id;
         const linkedEntityIds = new Set<string>();
         
-        // Find all edges connected to this witness
-        (consolidated as { edges?: Array<{ source: string; target: string }> }).edges?.forEach(edge => {
+        // Find all edges connected to this witness directly
+        const edges = (consolidated as { edges?: Array<{ source: string; target: string; type?: string }> }).edges || [];
+        edges.forEach(edge => {
           if (edge.source === witnessId) {
             linkedEntityIds.add(edge.target);
           } else if (edge.target === witnessId) {
@@ -161,47 +166,36 @@ export default function WitnessDetailClient() {
           }
         });
         
+        // Also find entities that are MENTIONED_IN the same sessions as this witness
+        if (found.sessions && found.sessions.length > 0) {
+          const sessionIds = new Set(found.sessions.map(s => `session-${s}`));
+          
+          // Find all entities mentioned in witness's sessions
+          edges.forEach(edge => {
+            if (edge.type === 'MENTIONED_IN') {
+              // Check if this entity is mentioned in one of the witness's sessions
+              if (sessionIds.has(edge.target)) {
+                linkedEntityIds.add(edge.source);
+              }
+            }
+          });
+        }
+        
         // Get the actual entity objects (excluding other witnesses)
         const linked = consolidated.nodes
           .filter(n => linkedEntityIds.has(n.id) && !n.isWitness)
           .sort((a, b) => (b.mentions || 0) - (a.mentions || 0))
-          .slice(0, 40);
+          .slice(0, 50);
         
         setLinkedEntities(linked as LinkedEntity[]);
         
-        // Load testimony - check if we already have the filename from testimony index fallback
-        let testimonyFilename = found.testimonyFile;
-        
-        if (!testimonyFilename) {
-          // Search testimony index for this witness
-          const testimonyInfo = testimonyIndex.testimonies?.find((t: TestimonyIndex) => 
-            t.witness === found.name || 
-            t.witness.toLowerCase() === found.name.toLowerCase()
-          );
-          if (testimonyInfo) {
-            testimonyFilename = testimonyInfo.output;
-          }
-        }
-        
-        if (testimonyFilename) {
-          const mdRes = await fetch(`/data/testimonies/${testimonyFilename}`);
-          
-          if (mdRes.ok) {
-            const mdContent = await mdRes.text();
-            setTestimony(mdContent);
-            // Register testimony with AI assistant
-            setContext('testimony', mdContent, `${found.name}'s Testimony`);
-          } else {
-            // Fallback: try to build filename from witness name
-            const safeName = found.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
-            const altRes = await fetch(`/data/testimonies/${safeName}.md`);
-            if (altRes.ok) {
-              const altContent = await altRes.text();
-              setTestimony(altContent);
-              // Register testimony with AI assistant
-              setContext('testimony', altContent, `${found.name}'s Testimony`);
-            }
-          }
+        // Load English testimony by default
+        const safeName = found.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
+        const enRes = await fetch(`/data/testimonies/en/${safeName}.md`);
+        if (enRes.ok) {
+          const enContent = await enRes.text();
+          setTestimony(enContent);
+          setContext('testimony', enContent, `${found.name}'s Testimony`);
         }
       } catch (err) {
         setError('Failed to load data');
@@ -214,10 +208,37 @@ export default function WitnessDetailClient() {
     loadData();
   }, [witnessName, setContext]);
 
+  // Load testimony when language changes
+  useEffect(() => {
+    if (!witness) return;
+    
+    async function loadTestimony() {
+      setLoadingTestimony(true);
+      try {
+        const safeName = witness.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
+        const folder = language === 'en' ? 'en' : 'he';
+        const res = await fetch(`/data/testimonies/${folder}/${safeName}.md`);
+        if (res.ok) {
+          const content = await res.text();
+          setTestimony(content);
+          setContext('testimony', content, `${witness.name}'s Testimony`);
+        }
+      } catch (err) {
+        console.error('Failed to load testimony:', err);
+      } finally {
+        setLoadingTestimony(false);
+      }
+    }
+    
+    loadTestimony();
+  }, [language, witness, setContext]);
+
   // Parse and render markdown
   const renderMarkdown = (content: string) => {
     const lines = content.split('\n');
     const elements: React.ReactElement[] = [];
+    const isEnglish = language === 'en';
+    const dir = isEnglish ? 'ltr' : 'rtl';
     
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
@@ -228,21 +249,33 @@ export default function WitnessDetailClient() {
         continue;
       }
       
-      // Skip the footer and title (we show it in sidebar)
+      // Skip metadata and headers
       if (trimmed.startsWith('---') && i > lines.length - 5) continue;
       if (trimmed.startsWith('*Extracted from')) continue;
-      if (trimmed.startsWith('# ') && i < 3) continue;
-      if (trimmed.startsWith('## ') && i < 5) continue;
+      if (trimmed.startsWith('# ') && i < 5) continue;
+      if (trimmed.startsWith('## ') && i < 7) continue;
+      if (trimmed.startsWith('**Session:**')) continue;
+      if (trimmed.startsWith('<!-- Part')) continue;
       
       // Horizontal rule (after header)
       if (trimmed === '---') {
-        if (i < 10) continue; // Skip header separator
+        if (i < 10) continue;
         elements.push(<hr key={i} className="border-stone-800 my-6" />);
         continue;
       }
       
-      // Sworn in marker
-      if (trimmed.includes('הושבע') || trimmed.includes('הצהיר')) {
+      // Sworn in marker (English)
+      if (isEnglish && (trimmed.includes('is sworn') || trimmed.includes('was sworn'))) {
+        elements.push(
+          <div key={i} className="my-6 py-3 px-4 bg-stone-800/50 border-l-4 border-amber-600 text-center">
+            <span className="text-amber-500 text-lg">{trimmed.replace(/\*\*/g, '').replace(/\[|\]/g, '')}</span>
+          </div>
+        );
+        continue;
+      }
+      
+      // Sworn in marker (Hebrew)
+      if (!isEnglish && (trimmed.includes('הושבע') || trimmed.includes('הצהיר'))) {
         elements.push(
           <div key={i} className="my-6 py-3 px-4 bg-stone-800/50 border-r-4 border-amber-600 text-center">
             <span className="text-amber-500 text-lg" dir="rtl">{trimmed.replace(/\*\*/g, '')}</span>
@@ -257,17 +290,17 @@ export default function WitnessDetailClient() {
         if (match) {
           const [, speaker, rest] = match;
           elements.push(
-            <div key={i} className="mt-2 mb-2" dir="rtl">
+            <div key={i} className="mt-4 mb-2" dir={dir}>
               <span className="text-amber-500 font-semibold">{speaker}:</span>
-              {rest && <span className="text-stone-300 mr-2">{rest}</span>}
+              {rest && <span className={`text-stone-300 ${isEnglish ? 'ml-2' : 'mr-2'}`}>{rest}</span>}
             </div>
           );
           continue;
         }
       }
       
-      // Question (שאלה or ש.)
-      if (trimmed.startsWith('**שאלה:**') || trimmed.startsWith('ש.')) {
+      // Hebrew Question (שאלה or ש.)
+      if (!isEnglish && (trimmed.startsWith('**שאלה:**') || trimmed.startsWith('ש.'))) {
         const text = trimmed.replace(/^\*\*שאלה:\*\*\s*/, '').replace(/^ש\.\s*/, '');
         elements.push(
           <div key={i} className="mt-2 mb-1 flex gap-3" dir="rtl">
@@ -278,8 +311,8 @@ export default function WitnessDetailClient() {
         continue;
       }
       
-      // Answer (תשובה or ת.)
-      if (trimmed.startsWith('**תשובה:**') || trimmed.startsWith('ת.')) {
+      // Hebrew Answer (תשובה or ת.)
+      if (!isEnglish && (trimmed.startsWith('**תשובה:**') || trimmed.startsWith('ת.'))) {
         const text = trimmed.replace(/^\*\*תשובה:\*\*\s*/, '').replace(/^ת\.\s*/, '');
         elements.push(
           <div key={i} className="mb-2 pr-4 border-r-2 border-emerald-800/50 flex gap-3" dir="rtl">
@@ -290,8 +323,20 @@ export default function WitnessDetailClient() {
         continue;
       }
       
-      // End of testimony marker
-      if (trimmed.includes('סיימת את עדותך') || trimmed.includes('גמרת את עדותך')) {
+      // End of testimony marker (English)
+      if (isEnglish && trimmed.includes('concluded your testimony')) {
+        elements.push(
+          <div key={i} className="my-8 py-4 border-y border-stone-700 text-center">
+            <span className="text-stone-400 text-lg">
+              {trimmed.replace(/\*\*/g, '')}
+            </span>
+          </div>
+        );
+        continue;
+      }
+      
+      // End of testimony marker (Hebrew)
+      if (!isEnglish && (trimmed.includes('סיימת את עדותך') || trimmed.includes('גמרת את עדותך'))) {
         elements.push(
           <div key={i} className="my-8 py-4 border-y border-stone-700 text-center">
             <span className="text-stone-400 text-lg" dir="rtl">
@@ -302,10 +347,10 @@ export default function WitnessDetailClient() {
         continue;
       }
       
-      // Regular text (remove any remaining markdown bold)
+      // Regular text
       const cleanText = trimmed.replace(/\*\*/g, '');
       elements.push(
-        <p key={i} className="text-stone-300 my-1 leading-relaxed" dir="rtl">
+        <p key={i} className="text-stone-300 my-1 leading-relaxed" dir={dir}>
           {cleanText}
         </p>
       );
@@ -395,18 +440,37 @@ export default function WitnessDetailClient() {
                     </span>
                   </div>
                 )}
-                {witness.testimonyChars && (
-                  <div className="flex items-start gap-2">
-                    <span className="text-stone-600 shrink-0">Length:</span>
-                    <span className="text-stone-400">{witness.testimonyChars.toLocaleString()} characters</span>
-                  </div>
-                )}
-                {witness.testimonyFile && (
-                  <div className="flex items-start gap-2">
-                    <span className="text-stone-600 shrink-0">Source:</span>
-                    <span className="text-stone-400 text-xs">{witness.testimonyFile}</span>
-                  </div>
-                )}
+              </div>
+              
+              {/* Language Toggle */}
+              <div className="pt-4 border-t border-stone-800">
+                <h3 className="text-xs text-stone-500 uppercase tracking-wider mb-3">
+                  Testimony Language
+                </h3>
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => setLanguage('en')}
+                    disabled={loadingTestimony}
+                    className={`flex-1 px-3 py-2 text-sm border transition-colors ${
+                      language === 'en'
+                        ? 'bg-stone-700 border-stone-600 text-stone-200'
+                        : 'bg-transparent border-stone-700 text-stone-500 hover:border-stone-600 hover:text-stone-400'
+                    }`}
+                  >
+                    English
+                  </button>
+                  <button
+                    onClick={() => setLanguage('he')}
+                    disabled={loadingTestimony}
+                    className={`flex-1 px-3 py-2 text-sm border transition-colors ${
+                      language === 'he'
+                        ? 'bg-stone-700 border-stone-600 text-stone-200'
+                        : 'bg-transparent border-stone-700 text-stone-500 hover:border-stone-600 hover:text-stone-400'
+                    }`}
+                  >
+                    עברית
+                  </button>
+                </div>
               </div>
               
               {/* Video Testimony */}
@@ -528,11 +592,62 @@ export default function WitnessDetailClient() {
             )}
 
             {testimony && (
-              <div className="bg-stone-900/50 border border-stone-800 p-6 md:p-10">
-                <div className="text-base md:text-lg leading-loose">
-                  {renderMarkdown(testimony)}
+              <>
+                {/* AI Summary Invitation Box */}
+                <button
+                  onClick={openAssistant}
+                  className="w-full mb-6 p-5 bg-gradient-to-r from-amber-900/30 to-amber-800/20 
+                    border border-amber-700/50 rounded-lg
+                    flex items-center gap-4 text-left
+                    hover:from-amber-900/40 hover:to-amber-800/30 hover:border-amber-600/60
+                    transition-all duration-200 group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-amber-600/20 flex items-center justify-center flex-shrink-0
+                    group-hover:bg-amber-600/30 transition-colors">
+                    <svg 
+                      className="w-6 h-6 text-amber-500" 
+                      fill="none" 
+                      stroke="currentColor" 
+                      viewBox="0 0 24 24"
+                    >
+                      <path 
+                        strokeLinecap="round" 
+                        strokeLinejoin="round" 
+                        strokeWidth={2} 
+                        d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z" 
+                      />
+                    </svg>
+                  </div>
+                  <div className="flex-1">
+                    <p className="text-amber-400 font-medium text-sm mb-1">Get AI Summary</p>
+                    <p className="text-stone-400 text-sm">
+                      Let our AI guide explain this testimony and answer your questions
+                    </p>
+                  </div>
+                  <svg 
+                    className="w-5 h-5 text-stone-500 group-hover:text-amber-500 group-hover:translate-x-1 transition-all" 
+                    fill="none" 
+                    stroke="currentColor" 
+                    viewBox="0 0 24 24"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </button>
+
+                <div className="bg-stone-900/50 border border-stone-800 p-6 md:p-10 relative">
+                  {loadingTestimony && (
+                    <div className="absolute inset-0 bg-stone-900/80 flex items-center justify-center z-10">
+                      <div className="text-center">
+                        <div className="inline-block w-6 h-6 border-2 border-stone-600 border-t-stone-300 rounded-full animate-spin mb-2" />
+                        <p className="text-stone-500 text-sm">Loading {language === 'en' ? 'English' : 'Hebrew'}...</p>
+                      </div>
+                    </div>
+                  )}
+                  <div className="text-base md:text-lg leading-loose">
+                    {renderMarkdown(testimony)}
+                  </div>
                 </div>
-              </div>
+              </>
             )}
           </div>
         </div>
