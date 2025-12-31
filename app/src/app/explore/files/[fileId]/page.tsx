@@ -83,7 +83,7 @@ export default function FileViewerPage() {
 
   if (loading) {
     return (
-      <main className="min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center pt-20">
         <div className="text-center">
           <div className="inline-block w-8 h-8 border-2 border-stone-600 border-t-stone-300 rounded-full animate-spin mb-4" />
           <p className="text-stone-500">Loading file...</p>
@@ -94,7 +94,7 @@ export default function FileViewerPage() {
 
   if (error || !file) {
     return (
-      <main className="min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center pt-20">
         <div className="text-center">
           <h1 className="text-2xl mb-4">File Not Found</h1>
           <p className="text-stone-500 mb-6">Could not find file: {fileName}</p>
@@ -107,7 +107,7 @@ export default function FileViewerPage() {
   }
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen pt-20">
       {/* Header */}
       <section className="py-8 px-6 border-b border-stone-900">
         <div className="max-w-7xl mx-auto">

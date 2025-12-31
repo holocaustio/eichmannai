@@ -494,54 +494,47 @@ export default function ExploreClient() {
       {/* Files View */}
       {viewMode === 'files' && (
         <section className="py-12 px-6">
-          <div className="max-w-7xl mx-auto">
+          <div className="max-w-3xl mx-auto text-center">
             <div className="mb-8">
+              <div className="text-6xl mb-6">📂</div>
               <h3 className="font-serif text-2xl mb-4">Source Files</h3>
-              <p className="text-stone-400 mb-6">
-                The trial transcripts were extracted from PDF files hosted by the Israel State Archives.
-                View and download the raw text files.
+              <p className="text-stone-400 mb-8 leading-relaxed">
+                All trial transcripts and source files are available in our open-source GitHub repository.
+                The files include PDF documents from the Israel State Archives and extracted text files.
               </p>
-              <Link
-                href="/explore/files"
-                className="inline-block px-6 py-3 border border-stone-700 text-stone-300 hover:bg-stone-800 hover:border-stone-600 transition-colors"
+              <a
+                href="https://github.com/holocaustio/eichmannai/tree/master/downloads"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 px-8 py-4 bg-stone-800 border border-stone-700 text-stone-200 hover:bg-stone-700 hover:border-stone-600 transition-colors"
               >
-                Browse All Files →
-              </Link>
+                <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+                  <path fillRule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clipRule="evenodd" />
+                </svg>
+                View Source Files on GitHub
+              </a>
             </div>
             
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {[
-                { name: 'Vol1_p114.txt', sessions: '1-14', desc: 'Volume 1, Part 1' },
-                { name: 'Vol1_p15291.txt', sessions: '15-29', desc: 'Volume 1, Part 2' },
-                { name: 'vol1_part3.txt', sessions: '30-40', desc: 'Volume 1, Part 3' },
-                { name: 'Vol2_p4155.txt', sessions: '41-54', desc: 'Volume 2, Part 1' },
-                { name: 'Vol2_p5564.txt', sessions: '55-64', desc: 'Volume 2, Part 2' },
-                { name: 'Vol2_p6575.txt', sessions: '65-75', desc: 'Volume 2, Part 3' },
-                { name: 'vol3_p7689.txt', sessions: '76-89', desc: 'Volume 3, Part 1' },
-                { name: 'vol3_p90100.txt', sessions: '90-100', desc: 'Volume 3, Part 2' },
-                { name: 'vol3_p101111.txt', sessions: '101-111', desc: 'Volume 3, Part 3' },
-                { name: 'vol3_p112121.txt', sessions: '112-121', desc: 'Volume 3, Part 4' },
-              ].map((vol) => (
-                <Link
-                  key={vol.name}
-                  href={`/explore/files/${encodeURIComponent(vol.name)}`}
-                  className="block border border-stone-800 hover:border-stone-700 bg-stone-900/30 hover:bg-stone-900/50 transition-all p-6"
-                >
-                  <div className="flex items-center justify-between mb-3">
-                    <span className="text-lg">📄</span>
-                    <span className="px-2 py-0.5 bg-stone-800 text-stone-400 text-xs">
-                      Sessions {vol.sessions}
-                    </span>
-                  </div>
-                  
-                  <h4 className="text-stone-200 font-mono text-sm mb-1">{vol.name}</h4>
-                  <p className="text-stone-500 text-sm">{vol.desc}</p>
-                  
-                  <div className="mt-4 pt-4 border-t border-stone-800">
-                    <span className="text-stone-500 text-xs">View file →</span>
-                  </div>
-                </Link>
-              ))}
+            <div className="mt-12 p-6 bg-stone-900/50 border border-stone-800 text-left">
+              <h4 className="text-stone-300 font-medium mb-3">Repository Contents</h4>
+              <ul className="text-stone-400 text-sm space-y-2">
+                <li className="flex items-center gap-2">
+                  <span className="text-amber-500">•</span>
+                  Original PDF transcripts from Israel State Archives
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-amber-500">•</span>
+                  Extracted text files (121 sessions across 3 volumes)
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-amber-500">•</span>
+                  Witness testimonies in Hebrew and English
+                </li>
+                <li className="flex items-center gap-2">
+                  <span className="text-amber-500">•</span>
+                  Entity extraction and relationship data
+                </li>
+              </ul>
             </div>
           </div>
         </section>

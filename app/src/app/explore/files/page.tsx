@@ -54,14 +54,14 @@ export default function FilesPage() {
 
   if (loading) {
     return (
-      <main className="min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center pt-20">
         <div className="text-stone-500">Loading files...</div>
       </main>
     );
   }
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen pt-20">
       {/* Hero */}
       <section className="py-16 px-6 border-b border-stone-900">
         <div className="max-w-7xl mx-auto">

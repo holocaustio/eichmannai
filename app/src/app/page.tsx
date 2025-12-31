@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <main className="bg-stone-950 text-stone-100">
       {/* Hero Section */}
-      <section className="h-[700px] max-h-[600px] flex flex-col justify-center items-center px-6 relative overflow-hidden">
+      <section className="min-h-[500px] flex flex-col justify-center items-center px-6 relative overflow-hidden">
         {/* Background Image */}
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
@@ -73,31 +73,26 @@ export default function Home() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
-          <p className="text-stone-400 text-sm tracking-[0.3em] uppercase mb-8 font-light">
+        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+          <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">
             Jerusalem, 1961
           </p>
           
-          <h1 className="font-serif text-3xl md:text-5xl lg:text-6xl font-light leading-tight mb-8 tracking-tight">
+          <h1 className="font-serif text-4xl md:text-5xl font-light mb-6 leading-tight">
             In 1961, the Holocaust was placed at the center of a courtroom.
           </h1>
           
-          <p className="font-serif text-2xl md:text-3xl text-stone-400 font-light mb-6">
-            Not through documents.
+          <p className="text-stone-300 text-lg max-w-3xl mx-auto leading-relaxed mb-6">
+            Not through documents. <span className="text-white">Through voices.</span>
           </p>
           
-          <p className="font-serif text-2xl md:text-3xl text-stone-300 font-light mb-16">
-            Through voices.
-          </p>
           <Link 
-              href="#voices"
-              className="inline-block border border-stone-500 px-8 py-4 text-sm tracking-widest uppercase hover:bg-stone-900/50 hover:border-stone-400 transition-all duration-500"
-            >
-              Enter the Voices
-            </Link>
-          
+            href="#voices"
+            className="inline-block border border-stone-500 px-8 py-4 text-sm tracking-widest uppercase hover:bg-stone-900/50 hover:border-stone-400 transition-all duration-500"
+          >
+            Enter the Voices
+          </Link>
         </div>
-        
       </section>
 
       {/* Before the Trial */}

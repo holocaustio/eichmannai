@@ -211,17 +211,18 @@ export default function WitnessDetailClient() {
   // Load testimony when language changes
   useEffect(() => {
     if (!witness) return;
+    const currentWitness = witness; // Capture non-null value for async function
     
     async function loadTestimony() {
       setLoadingTestimony(true);
       try {
-        const safeName = witness.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
+        const safeName = currentWitness.name.replace(/ /g, '_').replace(/'/g, '').replace(/"/g, '').replace(/[^\w\-]/g, '');
         const folder = language === 'en' ? 'en' : 'he';
         const res = await fetch(`/data/testimonies/${folder}/${safeName}.md`);
         if (res.ok) {
           const content = await res.text();
           setTestimony(content);
-          setContext('testimony', content, `${witness.name}'s Testimony`);
+          setContext('testimony', content, `${currentWitness.name}'s Testimony`);
         }
       } catch (err) {
         console.error('Failed to load testimony:', err);
@@ -299,11 +300,35 @@ export default function WitnessDetailClient() {
         }
       }
       
+      // English Question (**Q.**)
+      if (isEnglish && trimmed.startsWith('**Q.**')) {
+        const text = trimmed.replace(/^\*\*Q\.\*\*\s*/, '');
+        elements.push(
+          <div key={i} className="mt-3 mb-1 flex gap-3" dir="ltr">
+            <span className="text-amber-500 font-bold shrink-0">Q.</span>
+            <span className="text-stone-300">{text}</span>
+          </div>
+        );
+        continue;
+      }
+      
+      // English Answer (**A.**)
+      if (isEnglish && trimmed.startsWith('**A.**')) {
+        const text = trimmed.replace(/^\*\*A\.\*\*\s*/, '');
+        elements.push(
+          <div key={i} className="mt-3 mb-1 flex gap-3" dir="ltr">
+            <span className="text-amber-500 font-bold shrink-0">A.</span>
+            <span className="text-stone-300">{text}</span>
+          </div>
+        );
+        continue;
+      }
+      
       // Hebrew Question (שאלה or ש.)
       if (!isEnglish && (trimmed.startsWith('**שאלה:**') || trimmed.startsWith('ש.'))) {
         const text = trimmed.replace(/^\*\*שאלה:\*\*\s*/, '').replace(/^ש\.\s*/, '');
         elements.push(
-          <div key={i} className="mt-2 mb-1 flex gap-3" dir="rtl">
+          <div key={i} className="mt-3 mb-1 flex gap-3" dir="rtl">
             <span className="text-amber-500 font-bold shrink-0">ש.</span>
             <span className="text-stone-300">{text}</span>
           </div>
@@ -315,9 +340,9 @@ export default function WitnessDetailClient() {
       if (!isEnglish && (trimmed.startsWith('**תשובה:**') || trimmed.startsWith('ת.'))) {
         const text = trimmed.replace(/^\*\*תשובה:\*\*\s*/, '').replace(/^ת\.\s*/, '');
         elements.push(
-          <div key={i} className="mb-2 pr-4 border-r-2 border-emerald-800/50 flex gap-3" dir="rtl">
-            <span className="text-emerald-500 font-bold shrink-0">ת.</span>
-            <span className="text-stone-200">{text}</span>
+          <div key={i} className="mt-3 mb-1 flex gap-3" dir="rtl">
+            <span className="text-amber-500 font-bold shrink-0">ת.</span>
+            <span className="text-stone-300">{text}</span>
           </div>
         );
         continue;
@@ -363,7 +388,7 @@ export default function WitnessDetailClient() {
 
   if (loading) {
     return (
-      <main className="min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center pt-20">
         <div className="text-center">
           <div className="inline-block w-8 h-8 border-2 border-stone-600 border-t-stone-300 rounded-full animate-spin mb-4" />
           <p className="text-stone-500">Loading testimony...</p>
@@ -374,7 +399,7 @@ export default function WitnessDetailClient() {
 
   if (!witness) {
     return (
-      <main className="min-h-screen flex items-center justify-center">
+      <main className="min-h-screen flex items-center justify-center pt-20">
         <div className="text-center">
           <h1 className="text-2xl mb-4">Witness Not Found</h1>
           <p className="text-stone-500 mb-6">Could not find witness: {witnessName}</p>
@@ -387,7 +412,7 @@ export default function WitnessDetailClient() {
   }
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen pt-20">
       {/* Two Column Layout */}
       <div className="max-w-7xl mx-auto px-6 py-8">
         <div className="flex flex-col lg:flex-row gap-8">
