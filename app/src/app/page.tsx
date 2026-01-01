@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <main className="bg-stone-950 text-stone-100">
       {/* Hero Section */}
-      <section className="min-h-[500px] flex flex-col justify-center items-center px-6 relative overflow-hidden">
+      <section className="min-h-[70vh] flex flex-col justify-center items-center px-6 relative overflow-hidden">
         {/* Background Image */}
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
