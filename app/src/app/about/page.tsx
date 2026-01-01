@@ -352,6 +352,36 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Holocaust IO */}
+      <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
+        <div className="max-w-3xl mx-auto text-center">
+          <div className="flex justify-center mb-6">
+            <img 
+              src="/holocaust-io-logo.png" 
+              alt="Holocaust IO" 
+              className="w-16 h-16 rounded-lg"
+            />
+          </div>
+          <h2 className="font-serif text-3xl font-light mb-4">Part of Holocaust IO</h2>
+          <p className="text-stone-400 text-lg leading-relaxed mb-6">
+            This project is part of{' '}
+            <a 
+              href="https://github.com/holocaustio" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-stone-300 hover:text-white underline transition-colors"
+            >
+              Holocaust IO
+            </a>
+            , a volunteer-driven technology organization dedicated to preserving the memory 
+            of the Holocaust through thoughtful, innovative digital experiences.
+          </p>
+          <p className="text-stone-500 text-sm">
+            We believe technology can help ensure that history is never forgotten.
+          </p>
+        </div>
+      </section>
+
       {/* Dedication */}
       <section className="py-20 px-6">
         <div className="max-w-2xl mx-auto text-center">

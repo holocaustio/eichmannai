@@ -8,6 +8,25 @@ export default function Footer() {
           <div className="text-center md:text-left">
             <p className="text-stone-500 text-sm">The Eichmann Trial Digital Archive</p>
             <p className="text-stone-600 text-xs mt-1">Preserving testimony for future generations</p>
+            <div className="flex items-center gap-2 mt-3 justify-center md:justify-start">
+              <img 
+                src="/holocaust-io-logo.png" 
+                alt="Holocaust IO" 
+                className="w-5 h-5 rounded-sm"
+              />
+              <p className="text-stone-600 text-xs">
+                Part of{' '}
+                <a 
+                  href="https://github.com/holocaustio" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-stone-500 hover:text-stone-400 transition-colors underline"
+                >
+                  Holocaust IO
+                </a>
+                {' '}— a volunteer-driven technology organization
+              </p>
+            </div>
           </div>
           
           <div className="flex gap-8 text-stone-600 text-sm">
