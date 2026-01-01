@@ -1,4 +1,4 @@
-# Testimony of Yehuda Bacon
+# Testimony of [[PERSON:witness_93|Yehuda Bacon]]
 
 **Session:** 68
 
@@ -6,9 +6,9 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Yehuda Bakon.
+**Witness:** [[PERSON:person_705|Yehuda Bakon]].
 
-**Attorney General:** You live in Jerusalem?
+**Attorney General:** You live in [[LOCATION:location_44|Jerusalem]]?
 
 **Witness Bakon:** Yes.
 
@@ -16,7 +16,7 @@
 
 **A.**Yes.
 
-**Q.**When the Second World War broke out, you were in Czechoslovakia?
+**Q.**When the [[EVENT:event_383|Second World War]] broke out, you were in [[LOCATION:location_15|Czechoslovakia]]?
 
 **A.**Yes.
 
@@ -24,11 +24,11 @@
 
 **A.**In Moravska Ostrava.
 
-**Q.**And from there you were sent to Theresienstadt?
+**Q.**And from there you were sent to [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Yes, in 1942.
 
-**Q.**And from Theresienstadt you were transferred to Auschwitz?
+**Q.**And from [[LOCATION:location_124|Theresienstadt]] you were transferred to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes, in 1943.
 
@@ -36,9 +36,9 @@
 
 **A.**In December 1943.
 
-**Q.**Please describe the scene how you reached Auschwitz and how you alighted from the trains?
+**Q.**Please describe the scene how you reached [[LOCATION:location_286|Auschwitz]] and how you alighted from the trains?
 
-**A.**After two days' journey we reached Auschwitz at night. The freight-cars were opened and they shouted at us: "Leave everything and get out quickly!"
+**A.**After two days' journey we reached [[LOCATION:location_286|Auschwitz]] at night. The freight-cars were opened and they shouted at us: "Leave everything and get out quickly!"
 
 **Q.**How old were you?
 
@@ -66,7 +66,7 @@
 
 **Presiding Judge:** Was this a Finnish sauna?
 
-**Attorney General:** That's what they called it at Auschwitz.
+**Attorney General:** That's what they called it at [[LOCATION:location_286|Auschwitz]].
 
 **Presiding Judge:** It is a Finnish term - that I know.
 
@@ -108,19 +108,19 @@
 
 **A.**No. I remember that the whole disinfection process lasted a long time; it was cold and in the early morning we already saw that old people mainly, were lying dead on the floor. We received completely different clothing and people recognized one another with great difficulty. Then we were brought back to Camp B2, to the Czech Family Camp.
 
-**Q.**That was a special arrangement of its own, in Auschwitz; is that correct?
+**Q.**That was a special arrangement of its own, in [[LOCATION:location_286|Auschwitz]]; is that correct?
 
 **A.**Yes - it was a singular arrangement.
 
-**Q.**Which was provided mainly for people from Theresienstadt?
+**Q.**Which was provided mainly for people from [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**Only for people from Theresienstadt.
+**A.**Only for people from [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Weren't the Gypsies also in one place - in a family camp?
 
 **A.**Yes.
 
-**Q.**And these were the only two camps in the large Auschwitz camp where members of families lived together with their families?
+**Q.**And these were the only two camps in the large [[LOCATION:location_286|Auschwitz]] camp where members of families lived together with their families?
 
 **A.**Yes.
 
@@ -130,7 +130,7 @@
 
 **Q.**Please tell us what you, the children, did there?
 
-**A.**When we arrived at the family camp there were still three thousand five hundred persons there, the remainder of the five thousand people who had arrived before us, in September 1943. Amongst them was an instructor from Theresienstadt, Fredy Hirsch, who had managed to organize and to set up a block for children. Children between the ages of twelve and sixteen were able to remain in that block during the day, and hence, relatively speaking, we had much better conditions than the other prisoners who were obliged to attend roll-calls. At the beginning we, too, had to attend roll-calls, mainly when we returned from the sauna, sometimes for four or five hours in the winter.
+**A.**When we arrived at the family camp there were still three thousand five hundred persons there, the remainder of the five thousand people who had arrived before us, in September 1943. Amongst them was an instructor from [[LOCATION:location_124|Theresienstadt]], [[PERSON:person_706|Fredy Hirsch]], who had managed to organize and to set up a block for children. Children between the ages of twelve and sixteen were able to remain in that block during the day, and hence, relatively speaking, we had much better conditions than the other prisoners who were obliged to attend roll-calls. At the beginning we, too, had to attend roll-calls, mainly when we returned from the sauna, sometimes for four or five hours in the winter.
 
 Afterwards, in the children's block, we were able to stand under a roof at roll-call, and also a daily programme was arranged for us. We were able to study, and that was apparently for the reason that was known to us, that six months later we would all be going together to the gas chambers.
 
@@ -155,7 +155,7 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Q.**In January 1944 you wrote postcards with the date March 25. To whom were these postcards addressed?
 
-**A.**The postcards were addressed to the people at Theresienstadt.
+**A.**The postcards were addressed to the people at [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**And what were you required to write on these postcards?
 
@@ -167,7 +167,7 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Q.**But you understood?
 
-**A.**Yes. We understood that they wanted us to write to the people at Theresienstadt so that they should know that we were well.
+**A.**Yes. We understood that they wanted us to write to the people at [[LOCATION:location_124|Theresienstadt]] so that they should know that we were well.
 
 **A.**To reassure them?
 
@@ -185,15 +185,15 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **A.**Yes.
 
-**Q.**I did not understand your remark: "That was the whole purpose or our camp." You people, of your own free will, wanted to reassure the people of Theresienstadt?
+**Q.**I did not understand your remark: "That was the whole purpose or our camp." You people, of your own free will, wanted to reassure the people of [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**No. The SS wanted us, from this camp, to reassure the people at Theresienstadt.
+**A.**No. The SS wanted us, from this camp, to reassure the people at [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Did you find any way of circumventing this order?
 
 **A.**Yes. I organized a small group of children and we wrote to the same address the words: "And with this, dear Moti." We wrote the postcards in German, but using the words "And with this, dear Moti" - "und mit diesem, lieber Moti werde ich enden" (and with this, dear Moti, I shall end."* {*"Moti" - in Hebrew "My death."}
 
-**Q.**In other words you wrote in Latin characters in order that the people in Theresienstadt would know that you were talking there of death?
+**Q.**In other words you wrote in Latin characters in order that the people in [[LOCATION:location_124|Theresienstadt]] would know that you were talking there of death?
 
 **A.**Yes.
 
@@ -207,19 +207,19 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Q.**Who was Mrs. Edelstein?
 
-**A.**The wife of the Jewish elder, Jacob Edelstein, of Theresienstadt.
+**A.**The wife of the Jewish elder, Jacob Edelstein, of [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Where was he?
 
-**A.**Jacob Edelstein and his family were in Theresienstadt, and in 1943 were sent together with us to Auschwitz.
+**A.**Jacob Edelstein and his family were in [[LOCATION:location_124|Theresienstadt]], and in 1943 were sent together with us to [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Were you friendly with their son?
 
-**A.**Yes. I got to know the son in 1939 and also became friendly with him in Theresienstadt.
+**A.**Yes. I got to know the son in 1939 and also became friendly with him in [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**What happened to them?
 
-**A.**Mr. Edelstein was not with us, and we learned that he was under arrest in a bunker in Auschwitz. But Mrs. Edelstein and her son, Arye, were with us in Camp B2.
+**A.**Mr. Edelstein was not with us, and we learned that he was under arrest in a bunker in [[LOCATION:location_286|Auschwitz]]. But Mrs. Edelstein and her son, Arye, were with us in Camp B2.
 
 **Q.**You mentioned a "bunker" the nickname for place of detention.
 
@@ -257,7 +257,7 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Attorney General:** Do you know whether she met her husband, as had been promised to her, according to what she said?
 
-**Witness Bakon:** Yes. Later on, at the end of July 1944, I was talking in the Maennerlager (men's camp) to a member of the Sonderkommando - I even remember his name, Kalman Furman, and his number, 80810, and he told me.
+**Witness Bakon:** Yes. Later on, at the end of July 1944, I was talking in the Maennerlager (men's camp) to a member of the Sonderkommando - I even remember his name, [[PERSON:person_707|Kalman Furman]], and his number, 80810, and he told me.
 
 **Q.**Where did she meet her husband?
 
@@ -273,7 +273,7 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Attorney General:** And there she met her husband?
 
-**Witness Bakon:** The member of the Sonderkommando, Israel Zuckerman, told me that he himself had burned the bodies.
+**Witness Bakon:** The member of the Sonderkommando, [[PERSON:person_708|Israel Zuckerman]], told me that he himself had burned the bodies.
 
 **Q.**Whose bodies?
 
@@ -299,9 +299,9 @@ In January 1944 we were all made to write postcards bearing the date of March 25
 
 **Attorney General:** Who was Dr. Janowitz, who said that this visit did not mean good tidings?
 
-**Witness Bakon:** Dr. Janowitz was one of the organizers of the Theresienstadt Ghetto. He was also brought in September 1943 with the transport of Fredy Hirsch to the Family Camp 2B.
+**Witness Bakon:** Dr. Janowitz was one of the organizers of the [[LOCATION:location_293|Theresienstadt Ghetto]]. He was also brought in September 1943 with the transport of [[PERSON:person_706|Fredy Hirsch]] to the Family Camp 2B.
 
-**Q.**In May 1944 were further tranports brought from Theresienstadt?
+**Q.**In May 1944 were further tranports brought from [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**In May 1944, seven thousand five hundred people arrived, in three transports.
 
@@ -321,7 +321,7 @@ After a certain time the SS Schwarzhuber and Dr. Mengele arrived and they made s
 
 **Q.**Were most of them elderly?
 
-**A.**Most of them were elderly, and also women and children, for there was a rule in Auschwitz that a mother and child did not go to work. Their fate was death.
+**A.**Most of them were elderly, and also women and children, for there was a rule in [[LOCATION:location_286|Auschwitz]] that a mother and child did not go to work. Their fate was death.
 
 **Q.**Including the child?
 
@@ -357,11 +357,11 @@ Later on we - the 89 children - were summoned to the gate. Each one of us took l
 
 **A.**We underwent disinfection in the Gypsy camp, the Zigeunerlager, before entering the Maennerlager. There was a small disinfection station there. And I can remember the Gypsy children who were laughing, they mocked us, and pointed to the gas chambers - a few hundred metres away there were the gas chambers - and said to us: "There is a jam factory - soon they are going to put you in there and make jam out of you."
 
-**Q.**Was that at Birkenau?
+**Q.**Was that at [[LOCATION:location_286|Birkenau]]?
 
-**A.**Yes. All this was at Birkenau. We came to the Maennerlager in Block 13. Blocks 9, 11 and 13 were the more isolated blocks in the Maennerlager, since in Blocks 9 and 11 dwelt the men of the Sonderkommando who, at their maximum, when the transports arrived from Hungary, numbered 1,200 men. In Block 13 there was the Strafkommando (the penal detachment). We were brought there because hygienic conditions were better there and so that we should be isolated from the rest of the prisoners. At the first stage, for some reason, we enjoyed somewhat better treatment than the other prisoners; they still left us with our hair uncut and gave us better clothing.
+**A.**Yes. All this was at [[LOCATION:location_286|Birkenau]]. We came to the Maennerlager in Block 13. Blocks 9, 11 and 13 were the more isolated blocks in the Maennerlager, since in Blocks 9 and 11 dwelt the men of the Sonderkommando who, at their maximum, when the transports arrived from [[LOCATION:location_24|Hungary]], numbered 1,200 men. In Block 13 there was the Strafkommando (the penal detachment). We were brought there because hygienic conditions were better there and so that we should be isolated from the rest of the prisoners. At the first stage, for some reason, we enjoyed somewhat better treatment than the other prisoners; they still left us with our hair uncut and gave us better clothing.
 
-**Q.**By "us" are you referring to the children who were transferred from the family camp at Theresienstadt?
+**Q.**By "us" are you referring to the children who were transferred from the family camp at [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Yes.
 
@@ -370,17 +370,17 @@ Later on we - the 89 children - were summoned to the gate. Each one of us took l
 **A.**About eighty-nine.
 ---
 
-**Q.**Was Fredy Hirsch still with you?
+**Q.**Was [[PERSON:person_706|Fredy Hirsch]] still with you?
 
-**A.**No. Fredy Hirsch belonged to that transport which came before us, in 1943, in September. And when all of them were transferred, that is to say, the three thousand five hundred, and Fredy Hirsch knew what was in store for him - the instructors also knew what awaited them, and most of the instructors had poison - he did not want to witness the murder of those children whom he had attended to and to whose rescue he devoted his life, and therefore he committed suicide.
+**A.**No. [[PERSON:person_706|Fredy Hirsch]] belonged to that transport which came before us, in 1943, in September. And when all of them were transferred, that is to say, the three thousand five hundred, and [[PERSON:person_706|Fredy Hirsch]] knew what was in store for him - the instructors also knew what awaited them, and most of the instructors had poison - he did not want to witness the murder of those children whom he had attended to and to whose rescue he devoted his life, and therefore he committed suicide.
 
-The people who were brought to the gas chambers were not taken there in the usual way, since the SS men were afraid of them. We were better organized than the other people in Auschwitz since we did not go to work outside, and consequently they took them on a truck and instead of their going to the left, they took them to the right. They were aware that anyone going to the left was going to the gas chambers and anyone going to the right was going to work. Nevertheless they took them to the right and drove them around the camp twice.
+The people who were brought to the gas chambers were not taken there in the usual way, since the SS men were afraid of them. We were better organized than the other people in [[LOCATION:location_286|Auschwitz]] since we did not go to work outside, and consequently they took them on a truck and instead of their going to the left, they took them to the right. They were aware that anyone going to the left was going to the gas chambers and anyone going to the right was going to work. Nevertheless they took them to the right and drove them around the camp twice.
 
 **Q.**Why?
 
 **A.**In order to break their power of resistance, in order to mislead them. And when they brought them to the gas chambers, so we were told by members of the Sonderkommando, they sang the Hatikvah and the Czech national anthem, and many of them managed to write farewell notes in poems, which the members of the Sonderkommando delivered to us afterwards.
 
-**Q.**Did Fredy Hirsch once have a plan to set Auschwitz on fire - do you remember?
+**Q.**Did [[PERSON:person_706|Fredy Hirsch]] once have a plan to set [[LOCATION:location_286|Auschwitz]] on fire - do you remember?
 
 **A.**Yes. Our instructors were in contact with the Maennerlager that is to say, the men who worked in the Maennerlager and whose job was also to visit our camp, got in touch with them, and, on a particular Sabbath day, they wanted to set all the huts alight and to escape. Why on the Sabbath? Because on the Sabbath the children's block was empty - the children were with their parents. But the plan did not succeed.
 
@@ -392,7 +392,7 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Witness Bakon:** That they would be sent to the gas chambers. Only the younger ones believed it.
 
-**Attorney General:** Inside Auschwitz, they did not want to believe? Why? You saw the crematoria, you saw the fire rising from them, why did you not believe?
+**Attorney General:** Inside [[LOCATION:location_286|Auschwitz]], they did not want to believe? Why? You saw the crematoria, you saw the fire rising from them, why did you not believe?
 
 **Witness Bakon:** They received this special treatment, so to speak, by which they arrived with the children and the old people, and with all of them, and they refused to believe. It is the nature of man to believe.
 
@@ -410,7 +410,7 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Q.**Who gave you the orders where the cart should go?
 
-**A.**The Blockaelteste (block elder) always went with us and he knew what we had to do. Our tasks were quite varied: sometimes we had to collect papers, sometimes we had to transfer blankets, sometimes we had to go to the women's camp to which other people did not have access. With the Rollenkommando we went through all the camps of Birkenau, A, B, C, D, E and F, as well as the crematorium.
+**A.**The Blockaelteste (block elder) always went with us and he knew what we had to do. Our tasks were quite varied: sometimes we had to collect papers, sometimes we had to transfer blankets, sometimes we had to go to the women's camp to which other people did not have access. With the Rollenkommando we went through all the camps of [[LOCATION:location_286|Birkenau]], A, B, C, D, E and F, as well as the crematorium.
 
 **Q.**You went inside the crematorium?
 
@@ -450,11 +450,11 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Q.**If the Blockaelteste was not Jewish, what was their nationality - were they Germans?
 
-**A.**I remember several Blockaelteste and their names. The Blockaelteste of Block 29 - which was also a kind of block for young people - his name was Hans Euringer; he always used to say, as we passed through the gate: "73325 naughty people are leaving the camp temporarily." That was how he put it.
+**A.**I remember several Blockaelteste and their names. The Blockaelteste of Block 29 - which was also a kind of block for young people - his name was [[PERSON:person_709|Hans Euringer]]; he always used to say, as we passed through the gate: "73325 naughty people are leaving the camp temporarily." That was how he put it.
 
 **Q.**Were they prisoners?
 
-**A.**Yes. The Blockaelteste were prisoners. Sometimes the Blockaelteste Bednamek, from the punishment block No. 13, went with us, and also other Blockaelteste. When we went beyond the bounds of Birkenau, we also reached the SS Lazarette, the SS camp, and also to Auschwitz. When we went past the Postenkette (guard post), an SS man joined us.
+**A.**Yes. The Blockaelteste were prisoners. Sometimes the Blockaelteste Bednamek, from the punishment block No. 13, went with us, and also other Blockaelteste. When we went beyond the bounds of [[LOCATION:location_286|Birkenau]], we also reached the SS Lazarette, the SS camp, and also to [[LOCATION:location_286|Auschwitz]]. When we went past the Postenkette (guard post), an SS man joined us.
 
 **Attorney General:** You, the children, lived next to the block where punishments were carried out?
 
@@ -478,15 +478,15 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Presiding Judge:** When he recovered?
 
-**Witness Bakon:** Yes. When he was ready he was hanged. I remember a case were they caught three Russians, and brought them to our block - it was approximately at noon. One of the Russians managed to cut his veins. As soon as they realized what he had done, they immediately summoned medical aid, all the help necessary - from Auschwitz which was quite far, several kilometres away. And an SS man said: "This man must live until four o'clock," that is to say, until the men returned from work, so that they might witness the execution. I remember that they carried him, he was completely pale and covered with bandages, and two men had to support him, and the band, the Musikkapelle played. The men returned from work at 4 o'clock and then they hanged the three of them.
+**Witness Bakon:** Yes. When he was ready he was hanged. I remember a case were they caught three Russians, and brought them to our block - it was approximately at noon. One of the Russians managed to cut his veins. As soon as they realized what he had done, they immediately summoned medical aid, all the help necessary - from [[LOCATION:location_286|Auschwitz]] which was quite far, several kilometres away. And an SS man said: "This man must live until four o'clock," that is to say, until the men returned from work, so that they might witness the execution. I remember that they carried him, he was completely pale and covered with bandages, and two men had to support him, and the band, the Musikkapelle played. The men returned from work at 4 o'clock and then they hanged the three of them.
 
-**Attorney General:** You say that a band played. Was there a band in the Auschwitz camp?
+**Attorney General:** You say that a band played. Was there a band in the [[LOCATION:location_286|Auschwitz]] camp?
 
 **Witness Bakon:** Yes.
 
 **Q.**Who organized it?
 
-**A.**I think it was a Jew whose name was Weinmann, from Vienna or Germany.
+**A.**I think it was a Jew whose name was Weinmann, from [[LOCATION:location_3|Vienna]] or [[LOCATION:location_2|Germany]].
 
 **Q.**Who gave the order to organize it?
 
@@ -502,23 +502,23 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Q.**Before a hanging, at special tortures! Did you see the selection of Hungarian women in 1944?
 
-**A.**Yes. We saw most of the selections. In view of the fact that we were able to move around with the Rollwagen in most of the quarters, I saw the selections in Camp C when I was still in 2B, in the family camp. The women were forced to pass naked from block to block, and afterwards to a new place, to Camp Mexico, as they called it, B2b.
+**A.**Yes. We saw most of the selections. In view of the fact that we were able to move around with the Rollwagen in most of the quarters, I saw the selections in Camp C when I was still in 2B, in the family camp. The women were forced to pass naked from block to block, and afterwards to a new place, to Camp [[LOCATION:location_132|Mexico]], as they called it, B2b.
 
-**Q.**What was Mexico?
+**Q.**What was [[LOCATION:location_132|Mexico]]?
 
-**A.**Mexico was a very large section of the Birkenau camp when they had just begun building.
+**A.**Mexico was a very large section of the [[LOCATION:location_286|Birkenau]] camp when they had just begun building.
 
 **Q.**Was it there they handled the personal effects of the prisoners?
 
-**A.**No. Mexico was only used for accommodation. The personal effects were in the Effektenkammer between the crematorium and the Krankenlager (sick persons camp), between F and G.
+**A.**No. [[LOCATION:location_132|Mexico]] was only used for accommodation. The personal effects were in the Effektenkammer between the crematorium and the Krankenlager (sick persons camp), between F and G.
 
-**Q.**Why did they call it Mexico - do you know?
+**Q.**Why did they call it [[LOCATION:location_132|Mexico]] - do you know?
 
 **A.**This is the name the prisoners gave it.
 
 **Q.**Someone else will explain what it was. Do you remember the revolt of the Sonderkommand?
 
-**A.**Yes. It was some time in October 1944, at one o'clock one day. I was then in the camp. I saw that flames were bursting forth from crematorium number 3. These were not the usual flames we saw every day. The usual flames only issued from the chimneys or the pits; although sometimes the flames from the chimneys reached a height of four metres. But we had the impression that on that day the entire crematorium number 3 was alight. Later on we noticed a lot of commotion near the road between Mexico and Section B, and after some time we were told that it was members of the Sonderkommando who had planned a revolt, and the revolt had not exactly worked according to plan. Nevertheless men escaped. They managed to throw an SS man and the German Kapo into the flames.
+**A.**Yes. It was some time in October 1944, at one o'clock one day. I was then in the camp. I saw that flames were bursting forth from crematorium number 3. These were not the usual flames we saw every day. The usual flames only issued from the chimneys or the pits; although sometimes the flames from the chimneys reached a height of four metres. But we had the impression that on that day the entire crematorium number 3 was alight. Later on we noticed a lot of commotion near the road between [[LOCATION:location_132|Mexico]] and Section B, and after some time we were told that it was members of the Sonderkommando who had planned a revolt, and the revolt had not exactly worked according to plan. Nevertheless men escaped. They managed to throw an SS man and the German Kapo into the flames.
 
 **Q.**Did they blow up part of the crematorium?
 
@@ -528,7 +528,7 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **A.**No. Afterwards, I remember that in Block 11 in B2b about two hundred members of the Sonderkommando were locked up. They were given a red stripe to put on their sleeve and some time later a truck came and took them away.
 
-**Q.**Were you given anything to eat at Auschwitz at that time?
+**Q.**Were you given anything to eat at [[LOCATION:location_286|Auschwitz]] at that time?
 
 **A.**The food wasn't all that bad. We received approximately 20-25 grams of bread a day, a little soup and sometimes a little cheese.
 
@@ -538,15 +538,15 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Q.**And that was all your food?
 
-**A.**Yes, that was the food. When the transports from Hungary arrived, the men of "Canada" succeeded occasionally in smuggling food into the camp and gave it to us. This was also done by the members of the Sonderkommando, who were allowed to take anything except gold, diamonds and valuables.
+**A.**Yes, that was the food. When the transports from [[LOCATION:location_24|Hungary]] arrived, the men of "[[LOCATION:location_55|Canada]]" succeeded occasionally in smuggling food into the camp and gave it to us. This was also done by the members of the Sonderkommando, who were allowed to take anything except gold, diamonds and valuables.
 
-**Q.**After this you were transferred from Auschwitz and ultimately you ended up in Mauthausen?
+**Q.**After this you were transferred from [[LOCATION:location_286|Auschwitz]] and ultimately you ended up in Mauthausen?
 
 **A.**Yes.
 
 **Q.**When was that? When did you reach Mauthausen?
 
-**A.**I left Auschwitz on 18 January 1945, I took part in that march which was so terrible that the children amongst us said that it was a good thing that our parents had been killed by gas and did not have to undergo all the suffering we endured, since we saw that they were shooting all those who did not have the strength to keep on walking. That was in winter.
+**A.**I left [[LOCATION:location_286|Auschwitz]] on 18 January 1945, I took part in that march which was so terrible that the children amongst us said that it was a good thing that our parents had been killed by gas and did not have to undergo all the suffering we endured, since we saw that they were shooting all those who did not have the strength to keep on walking. That was in winter.
 
 **Q.**For how long did you march?
 
@@ -577,7 +577,7 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **Witness Bakon:** Yes.
 
-**Attorney General:** After you were liberated, or about that time, you made a number of drawings relating to Auschwitz as it was pictured in your imagination - is that correct?
+**Attorney General:** After you were liberated, or about that time, you made a number of drawings relating to [[LOCATION:location_286|Auschwitz]] as it was pictured in your imagination - is that correct?
 
 **A.**Yes.
 
@@ -593,7 +593,7 @@ The people who were brought to the gas chambers were not taken there in the usua
 
 **A.**Yes. I had seen them several times and I drew them exactly.
 
-**Q.**I understand that to this day the motif of life at Auschwitz accompanies all you artistic work?
+**Q.**I understand that to this day the motif of life at [[LOCATION:location_286|Auschwitz]] accompanies all you artistic work?
 
 **A.**To some extent.
 
@@ -776,7 +776,7 @@ Above there were lights covered with wire, and in each gas chamber there were tw
 **Presiding Judge:** This will be marked T/1325.
 ---
 
-**Attorney General:** This is the photograph of your class at Moravska Ostrova, before you were deported to Theresienstadt. Where are you in it - in the first row? Is that correct? [Shows the witness a photograph.]
+**Attorney General:** This is the photograph of your class at Moravska Ostrova, before you were deported to [[LOCATION:location_124|Theresienstadt]]. Where are you in it - in the first row? Is that correct? [Shows the witness a photograph.]
 
 **A.**The third from the left.
 
@@ -790,11 +790,11 @@ Above there were lights covered with wire, and in each gas chamber there were tw
 
 **Q.**What happened to them?
 
-**A.**They all came to Theresienstadt and afterwards to Auschwitz. From among the boys I am the only survivor, and there is also one girl who came to Auschwitz at a later stage and she is also alive, today - in London.
+**A.**They all came to [[LOCATION:location_124|Theresienstadt]] and afterwards to [[LOCATION:location_286|Auschwitz]]. From among the boys I am the only survivor, and there is also one girl who came to [[LOCATION:location_286|Auschwitz]] at a later stage and she is also alive, today - in [[LOCATION:location_67|London]].
 
 **Q.**Only two survivors out of the whole of this class?
 
-**A.**Yes. There is one girl who remained in Theresienstadt all the time and she is also alive.
+**A.**Yes. There is one girl who remained in [[LOCATION:location_124|Theresienstadt]] all the time and she is also alive.
 
 **Q.**She hid herself. That is to say, three of you survived.
 
@@ -808,7 +808,7 @@ Dr. Servatius, do you have any questions?
 
 **Q.**Is that such an important event that you retained it in your memory, or perhaps did you get to know of it now from the stories of others?
 
-**A.**I had known the Edelstein family from 1939. I got to know Arye Edelstein, Mrs. Edelstein and Jacob Edelstein very well in Theresienstadt. I used to spend all the day with Arye, and he was my best friend there. We played together all the time. In Birkenau and in the Czech Family Camp we were together all the time, and naturally, anything connected with him is well preserved in my memory.
+**A.**I had known the Edelstein family from 1939. I got to know [[PERSON:person_710|Arye Edelstein]], Mrs. Edelstein and Jacob Edelstein very well in [[LOCATION:location_124|Theresienstadt]]. I used to spend all the day with Arye, and he was my best friend there. We played together all the time. In [[LOCATION:location_286|Birkenau]] and in the Czech Family Camp we were together all the time, and naturally, anything connected with him is well preserved in my memory.
 
 **Presiding Judge:** And so, what is your answer to the question you were asked?
 
@@ -866,7 +866,7 @@ Dr. Servatius, do you have any questions?
 
 **A.**No - there I only mentioned that they were executed.
 
-**Dr. Servatius:** Witness, would you insist on that, if I were also to tell you that Eichmann was then in Hungary, in July 1944?
+**Dr. Servatius:** Witness, would you insist on that, if I were also to tell you that Eichmann was then in [[LOCATION:location_24|Hungary]], in July 1944?
 
 **Witness Bakon:** I can only repeat what I heard from Mrs. Edelstein, that she had been promised by Eichmann - whether it was some other officer who spoke in his name, I do not know. I only know what Mrs. Edelstein told us.
 
@@ -896,7 +896,7 @@ Dr. Servatius, do you have any questions?
 > his family. Jacob Edelstein was brought specially from
 > Auschwitz and they were brought together, he with his wife
 > and the son, at the crematorium. Jacob Edelstein was kept
-> apart in Auschwitz 1."
+> apart in [[LOCATION:location_286|Auschwitz]] 1."
 
 **Judge Halevi:** Has he already identified this?
 
@@ -936,7 +936,7 @@ You said towards the beginning that you knew that you were doomed to die within 
 
 **Q.**What was the Political Department?
 
-**A.**There was a political department of the Gestapo...
+**A.**There was a political department of the [[ORGANIZATION:org_344|Gestapo]]...
 
 **Q.**I understand political prisoners?
 
@@ -966,13 +966,13 @@ You said towards the beginning that you knew that you were doomed to die within 
 
 Mr. Hausner, have you clarified anything in regard to this statement?
 
-**Attorney General:** Yes. We have the statement of Mr. Yehuda Bakon which was already submitted here on 25 May 1961, when he handed over the drawings, and where he indeed mentioned the fact that he had spoken of his sworn statement. We do not have any other evidence. Therefore, I should like to ask the witness whether he remembers the statement made to Bureau 06, or whether he gave any evidence at all, for this does not appear in the file.
+**Attorney General:** Yes. We have the statement of Mr. [[PERSON:person_705|Yehuda Bakon]] which was already submitted here on 25 May 1961, when he handed over the drawings, and where he indeed mentioned the fact that he had spoken of his sworn statement. We do not have any other evidence. Therefore, I should like to ask the witness whether he remembers the statement made to Bureau 06, or whether he gave any evidence at all, for this does not appear in the file.
 
-**Witness Bakon:** I gave evidence at the Russian Compound* {*police headquarters in Jerusalem} when all the people who knew anything about Eichmann were asked to submit their facts - I did so on two pages.
+**Witness Bakon:** I gave evidence at the Russian Compound* {*police headquarters in [[LOCATION:location_44|Jerusalem]]} when all the people who knew anything about Eichmann were asked to submit their facts - I did so on two pages.
 
 **Presiding Judge:** Perhaps these are they?
 
-**Attorney General:** No, this was given at the Beth Ha'am* {*Location of the Eichmann Trial} in Jerusalem on 25 May 1961.
+**Attorney General:** No, this was given at the Beth Ha'am* {*Location of the Eichmann Trial} in [[LOCATION:location_44|Jerusalem]] on 25 May 1961.
 
 **Presiding Judge:** Have you found it?
 
@@ -1019,7 +1019,7 @@ Mr. Hausner, have you clarified anything in regard to this statement?
 
 **Q.**How did you know?
 
-**A.**His name was already well-known, I knew who Eichmann was already in Theresienstadt.
+**A.**His name was already well-known, I knew who Eichmann was already in [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**And you did not wonder why she suddenly mentioned Eichmann's name?
 

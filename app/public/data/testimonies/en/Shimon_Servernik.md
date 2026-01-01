@@ -1,4 +1,4 @@
-# Testimony of Shimon Servernik
+# Testimony of [[PERSON:witness_84|Shimon Servernik]]
 
 **Session:** 66
 
@@ -16,7 +16,7 @@
 
 **A.**Yes.
 
-**Q.**In the summer of 1943, you were in the Lodz Ghetto?
+**Q.**In the summer of 1943, you were in the [[LOCATION:location_81|Lodz]] Ghetto?
 
 **A.**Yes.
 
@@ -47,9 +47,9 @@
 
 **Q.**Did you see your mother after that?
 
-**A.**In the Chelmno camp.
+**A.**In the [[LOCATION:location_168|Chelmno]] camp.
 
-**Q.**They took you to Chelmno?
+**Q.**They took you to [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes.
 
@@ -69,7 +69,7 @@
 
 **Witness Srebrnik:** Yes.
 
-**Judge Halevi:** On what date did you reach Chelmno?
+**Judge Halevi:** On what date did you reach [[LOCATION:location_168|Chelmno]]?
 
 **Witness Srebrnik:** In 1943, close to the year 1944.
 
@@ -101,7 +101,7 @@
 
 **A.**Yes.
 
-**Q.**This had been during the first period of operation of the extermination camp at Chelmno?
+**Q.**This had been during the first period of operation of the extermination camp at [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes.
 
@@ -117,7 +117,7 @@
 
 **Witness Srebrnik:** Yes.
 
-**Attorney General:** When did transports of Jews reach Chelmno, after your arrival?
+**Attorney General:** When did transports of Jews reach [[LOCATION:location_168|Chelmno]], after your arrival?
 
 **Witness Srebrnik:** About three months after my arrival. Perhaps it was two months after, I don't remember exactly.
 
@@ -131,7 +131,7 @@
 
 **Q.**Afterwards, people began arriving. Where did they come from?
 
-**A.**From Lodz.
+**A.**From [[LOCATION:location_81|Lodz]].
 
 **Q.**Did you see how they loaded the people on to the trucks?
 
@@ -201,7 +201,7 @@
 
 And he moved it this way and that, in either direction, and we lay down and we got up, we lay down, and we raised ourselves up, until we had no more breath left. I always used to watch him, and if I saw that he was not looking, I did not get up. If I saw he was looking in my direction, I lay down. If I saw that he was watching, I began to get up. The others were getting up and lying down all the time. Once he told them to get up, and they were no longer able to do so, they had no breath left. He said to them: "You cannot get up?" They were not even able to speak. He asked me: "Spinnefix" (this is what he called me) "you, too, cannot stand up?" I answered, "Yes, I can," and I got up, for I had not done all these exercises. He pulled out his revolver, went up to them and killed them.
 
-**Q.**How many people were brought to Chelmno for extermination, after they began arriving?
+**Q.**How many people were brought to [[LOCATION:location_168|Chelmno]] for extermination, after they began arriving?
 
 **A.**About 1,000-1,200.
 
@@ -221,7 +221,7 @@ And he moved it this way and that, in either direction, and we lay down and we g
 
 **A.**Yes.
 
-**Q.**You say that Jews arrived from Lodz. But were all these Jews residents of Lodz originally?
+**Q.**You say that Jews arrived from [[LOCATION:location_81|Lodz]]. But were all these Jews residents of [[LOCATION:location_81|Lodz]] originally?
 
 **A.**No, amongst them were Czechs and Germans.
 
@@ -229,7 +229,7 @@ And he moved it this way and that, in either direction, and we lay down and we g
 
 **A.**Yes.
 
-**Q.**Who had previously been concentrated in Lodz - in Litzmannstadt, as the Germans called it - and from where they were sent for extermination to Chelmno?
+**Q.**Who had previously been concentrated in [[LOCATION:location_81|Lodz]] - in [[LOCATION:location_158|Litzmannstadt]], as the Germans called it - and from where they were sent for extermination to [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes.
 
@@ -255,7 +255,7 @@ We did not know about this. In the evening, at eight o'clock, Sturmscharfuehrer 
 
 We numbered off - there was one missing. He asked us, "Where is the missing one?" We answered, "We don't know." Then he said, "Four men fall out." Four of our men went out. They went down to the place where this murdered man was lying and brought the body up to our camp. He said: "You see, he escaped."
 
-The next morning, at six, Walter came and took me out of the camp, took me to the camp of the Gestapo and told me to wash the floors. At 9.00, Obersturmbannfuehrer Hans Bothmann arrived and said: "Fifteen men - fall out!" Fifteen men fell out - he pulled out his revolver, loaded it three times and killed them. After that, he said to us: "You know what this is for?" We said: "No." He said: "Because he escaped. If someone should escape again, I will lay you all flat." When I returned from the Gestapo, they told me that he had been looking for me.
+The next morning, at six, Walter came and took me out of the camp, took me to the camp of the [[ORGANIZATION:org_344|Gestapo]] and told me to wash the floors. At 9.00, Obersturmbannfuehrer Hans Bothmann arrived and said: "Fifteen men - fall out!" Fifteen men fell out - he pulled out his revolver, loaded it three times and killed them. After that, he said to us: "You know what this is for?" We said: "No." He said: "Because he escaped. If someone should escape again, I will lay you all flat." When I returned from the [[ORGANIZATION:org_344|Gestapo]], they told me that he had been looking for me.
 
 **Q.**What did the men of the Waldkommando look like after they had been working for some time?
 
@@ -265,7 +265,7 @@ The next morning, at six, Walter came and took me out of the camp, took me to th
 
 **A.**No - only their shirts. They never took off their trousers.
 
-**Q.**When did they begin to dismantle the camp of Chelmno?
+**Q.**When did they begin to dismantle the camp of [[LOCATION:location_168|Chelmno]]?
 
 **A.**Three months before the liberation. We were then seventy- eight men. Then Alois Hoefle came to us and told us that forty men would be going to another camp, that they would be well off there, and that they would have everything, they would get everything under better conditions than here.
 
@@ -273,7 +273,7 @@ Forty men were taken out and were loaded on to a truck. But we said to them that
 
 **Q.**What happened to the others?
 
-**A.**The rest of us - we worked. There were twenty artisans who worked for them, there were twenty-seven members of the Hauskommando...of the Waldkommando and Hauskommando together. We dismantled the camp, all the huts, we cleaned everything, and in the winter - this was in January 1945 - they opened the door. Meister Lenz said: "Five people out!" I always used to run - I was the youngest, so I ran. I did not even put on my trousers - I went in underpants and vest only. I went outside, together with another young man from Czechoslovakia. He was a doctor. He immediately went into a state of shock - he began to sing and dance. Then Meister Lenz asked Hans Bothmann where they should be made to lie down. Bothmann replied: "A little further away." He then told us to lie down. I lay down. The first five of us lay down. We lay there with our backs upwards, I heard the first shot, and then I began moving my head. There was a second shot and suddenly, with the third, I was hit by a bullet.
+**A.**The rest of us - we worked. There were twenty artisans who worked for them, there were twenty-seven members of the Hauskommando...of the Waldkommando and Hauskommando together. We dismantled the camp, all the huts, we cleaned everything, and in the winter - this was in January 1945 - they opened the door. Meister Lenz said: "Five people out!" I always used to run - I was the youngest, so I ran. I did not even put on my trousers - I went in underpants and vest only. I went outside, together with another young man from [[LOCATION:location_15|Czechoslovakia]]. He was a doctor. He immediately went into a state of shock - he began to sing and dance. Then Meister Lenz asked Hans Bothmann where they should be made to lie down. Bothmann replied: "A little further away." He then told us to lie down. I lay down. The first five of us lay down. We lay there with our backs upwards, I heard the first shot, and then I began moving my head. There was a second shot and suddenly, with the third, I was hit by a bullet.
 
 **Q.**Where did the bullet strike you?
 
@@ -328,9 +328,9 @@ He opened the door, he had a large moustache, and he said to me: "You can go out
 
 **Dr. Servatius:** No, I have no questions to the witness.
 
-**Judge Raveh:** You said you were thirteen years of age. When were you thirteen? When you came to Chelmno?
+**Judge Raveh:** You said you were thirteen years of age. When were you thirteen? When you came to [[LOCATION:location_168|Chelmno]]?
 
-**Witness Srebrnik:** When I came to Chelmno.
+**Witness Srebrnik:** When I came to [[LOCATION:location_168|Chelmno]].
 
 **Q.**Who were bound by chains on their legs, in the way they did with you?
 

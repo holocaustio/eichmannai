@@ -708,6 +708,70 @@ for session in session_nodes:
         })
 ```
 
+### Semantic Relationship Extraction with OpenAI
+
+The initial entity graph only connected entities to trial sessions (hub-and-spoke model). When filtering out Sessions in the graph visualization, entities appeared disconnected because all edges were of the form Entity → Session.
+
+We built a **semantic relationship extraction pipeline** to add meaningful inter-entity connections using OpenAI GPT-4o's historical knowledge:
+
+```python
+# add_semantic_edges.py
+RELATIONSHIP_TYPES = [
+    "COMMANDED",        # Person commanded organization/unit
+    "MEMBER_OF",        # Person was member of organization
+    "OPERATED_IN",      # Person/Organization operated in location
+    "LOCATED_IN",       # Location is in another location
+    "SUBORDINATE_TO",   # Person reported to another person
+    "PARTICIPATED_IN",  # Person participated in event
+    "PERPETRATED_AT",   # Crimes committed at location
+    "ADMINISTERED",     # Organization administered location/camp
+    "COLLABORATED_WITH", # Entities worked together
+    "LED",              # Person led organization/operation
+]
+
+def extract_relationships_batch(entities_batch, all_entity_names):
+    """Use OpenAI to extract historical relationships between entities"""
+    
+    prompt = f"""You are an expert historian specializing on the Holocaust.
+    
+Given these entities from the Eichmann Trial transcripts, identify FACTUAL 
+relationships between them. Only include relationships you are CERTAIN about.
+
+ENTITIES: {json.dumps(entities_batch)}
+
+Return relationships like:
+[
+  {{"source": "Adolf Eichmann", "target": "SS", "type": "MEMBER_OF"}},
+  {{"source": "SS", "target": "Auschwitz", "type": "ADMINISTERED"}},
+]
+"""
+    
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2,
+    )
+    
+    return json.loads(response.choices[0].message.content)
+```
+
+**Results**: The pipeline extracted **435 new semantic edges** connecting entities directly:
+
+| Relationship Type | Count | Example |
+|------------------|-------|---------|
+| `OPERATED_IN` | 149 | Eichmann → Vienna |
+| `LOCATED_IN` | 138 | Auschwitz → Poland |
+| `MEMBER_OF` | 45 | Eichmann → SS |
+| `SUBORDINATE_TO` | 28 | Eichmann → Heydrich |
+| `PARTICIPATED_IN` | 24 | Eichmann → Wannsee Conference |
+| `ADMINISTERED` | 17 | SS → Auschwitz |
+| `COLLABORATED_WITH` | 15 | Himmler → Heydrich |
+| `PERPETRATED_AT` | 7 | Hoess → Auschwitz |
+| `LED` | 7 | Himmler → SS |
+| `COMMANDED` | 3 | Hitler → Wehrmacht |
+
+Now the graph visualization shows meaningful connections even when Sessions are hidden - revealing the organizational hierarchy of the Nazi regime, geographic relationships between camps and countries, and the chain of command responsible for the Holocaust.
+
 ### Final English Extraction Results
 
 | Metric | Value |
@@ -720,7 +784,7 @@ for session in session_nodes:
 | **Events** | 10 |
 | **Dates** | 78 |
 | **Total Nodes** | 1,195 |
-| **Total Edges** | 5,864 |
+| **Total Edges** | 6,299 (including 435 semantic relationships) |
 
 ### Key Figures Extracted
 
@@ -925,7 +989,27 @@ def process_large_file(filepath):
 | **Sessions** | 121 | 121 |
 | **Testimonies** | 108 | 108 |
 | **Total Nodes** | 3,087 | 1,195 |
-| **Total Edges** | 16,848 | 5,864 |
+| **Total Edges** | 16,848 | 6,299 |
+
+### Semantic Relationship Edges
+
+| Relationship Type | Count | Description |
+|------------------|-------|-------------|
+| `MENTIONED_IN` | 5,419 | Entity mentioned in trial session |
+| `OPERATED_IN` | 149 | Person/org operated in location |
+| `LOCATED_IN` | 138 | Location within another location |
+| `OCCURRED_ON` | 121 | Session occurred on date |
+| `TESTIFIED_IN` | 108 | Witness testified in session |
+| `RECORDED_IN` | 108 | Testimony recorded in session |
+| `TESTIMONY_OF` | 108 | Testimony belongs to witness |
+| `MEMBER_OF` | 45 | Person was member of organization |
+| `SUBORDINATE_TO` | 28 | Person reported to another person |
+| `PARTICIPATED_IN` | 24 | Person participated in event |
+| `ADMINISTERED` | 17 | Organization ran location/camp |
+| `COLLABORATED_WITH` | 15 | Entities worked together |
+| `PERPETRATED_AT` | 7 | Crimes committed at location |
+| `LED` | 7 | Person led organization |
+| `COMMANDED` | 3 | Person commanded unit |
 
 ### Top Historical Figures Extracted
 
@@ -1033,15 +1117,15 @@ Having both Hebrew (original) and English (Nizkor) transcripts allowed cross-val
 
 ### Completed ✅
 - ~~**Translation**: Machine translation to English for accessibility~~ → **English transcripts from Nizkor**
-- ~~**Relationship Graph**: Visualize connections between witnesses, locations, events~~ → **Entity graph with 5,864 edges**
+- ~~**Relationship Graph**: Visualize connections between witnesses, locations, events~~ → **Entity graph with 6,299 edges**
 - ~~**Timeline Visualization**: Map testimonies to historical events~~ → **78 DATE nodes linked to sessions**
+- ~~**Cross-Entity Relationships**: Deeper links between entities~~ → **435 semantic edges (MEMBER_OF, SUBORDINATE_TO, ADMINISTERED, etc.)**
 
 ### Planned
 1. **Full-Text Search**: Elasticsearch integration for searching across all testimonies
 2. **Topic Extraction**: Identify key themes (camps, ghettos, events) per testimony
-3. **Cross-Entity Relationships**: Deeper links (e.g., which witnesses mention which Nazi officials)
-4. **Audio Integration**: Link to original trial recordings where available
-5. **Interactive Knowledge Graph**: Visual exploration of entity relationships
+3. **Audio Integration**: Link to original trial recordings where available
+4. **Interactive Knowledge Graph**: Enhanced visual exploration with edge type filtering
 
 ---
 
@@ -1059,7 +1143,7 @@ Having both Hebrew (original) and English (Nizkor) transcripts allowed cross-val
 
 **Project Repository**: [eichmann/](/)  
 **Live Demo**: [localhost:3000/witnesses](/witnesses)  
-**Last Updated**: December 31, 2024
+**Last Updated**: January 1, 2026
 
 ---
 
@@ -1072,6 +1156,7 @@ Having both Hebrew (original) and English (Nizkor) transcripts allowed cross-val
 | `scrape_nizkor_transcripts.py` | Download English transcripts from Nizkor/Wayback |
 | `extract_nizkor.py` | Extract entities and testimonies from English transcripts |
 | `consolidate_entities.py` | Consolidate entities with OpenAI GPT-4o |
+| `add_semantic_edges.py` | Extract semantic relationships between entities using OpenAI |
 | `add_variants.py` | Add spelling variants to witness-index.json |
 
 ### Running the Full Pipeline
@@ -1088,6 +1173,9 @@ python extract_nizkor.py
 
 # Step 3: Consolidate with OpenAI
 python consolidate_entities.py
+
+# Step 4: Add semantic relationship edges
+python add_semantic_edges.py
 ```
 
 ### Output Files

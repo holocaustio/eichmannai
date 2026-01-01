@@ -1,4 +1,4 @@
-# Testimony of Judge Michael Musmanno
+# Testimony of [[PERSON:witness_59|Judge Michael Musmanno]]
 
 **Session:** 39
 
@@ -8,7 +8,7 @@
 
 **Witness:** Michael A. Musmanno.
 
-**Attorney General:** Justice Musmanno, you are a judge in the Supreme Court of Pennsylvania, I believe?
+**Attorney General:** [[PERSON:person_558|Justice Musmanno]], you are a judge in the Supreme Court of Pennsylvania, I believe?
 
 **Witness Musmanno:** I am, Sir.
 
@@ -16,7 +16,7 @@
 
 **A.**I am on the Supreme Court of Pennsylvania for a little over nine years, and I was a trial judge for twenty years.
 
-**Presiding Judge:** Justice Musmanno, you may sit down if you wish.
+**Presiding Judge:** [[PERSON:person_558|Justice Musmanno]], you may sit down if you wish.
 
 **Witness Musmanno:** Thank you very much, Mr. Justice.
 
@@ -26,13 +26,13 @@
 
 **Q.**And you have served on international tribunals. Which were those?
 
-**A.**For a time, I was Presiding Judge of the United States- Soviet Board of Forcible Repatriation in Austria. Then I was appointed by President Truman to the International War Crimes Tribunal in Nuremberg. There I sat as a judge on the case involving Erhard Milch, deputy to Goering. That trial lasted about four months. Then I sat as a judge on the trial of the administrators of the concentration camps. That trial lasted about eight months. Then I was the Presiding Judge of the Einsatzgruppen Trial, which lasted about seven months.
+**A.**For a time, I was Presiding Judge of the [[LOCATION:location_68|United States]]- Soviet Board of Forcible Repatriation in [[LOCATION:location_14|Austria]]. Then I was appointed by President Truman to the International War Crimes Tribunal in [[LOCATION:location_39|Nuremberg]]. There I sat as a judge on the case involving Erhard Milch, deputy to Goering. That trial lasted about four months. Then I sat as a judge on the trial of the administrators of the concentration camps. That trial lasted about eight months. Then I was the Presiding Judge of the Einsatzgruppen Trial, which lasted about seven months.
 
-**Q.**While in Nuremberg, did you learn of the defendant, Adolf Eichmann?
+**Q.**While in [[LOCATION:location_39|Nuremberg]], did you learn of the defendant, [[PERSON:person_775|Adolf Eichmann]]?
 
 **A.**I did
 
-.**Q.**Did you obtain any information on Eichmann's activities apart for that disclosed in the Nuremberg Trials?
+.**Q.**Did you obtain any information on Eichmann's activities apart for that disclosed in the [[LOCATION:location_39|Nuremberg]] Trials?
 
 **A.**I did.
 
@@ -60,7 +60,7 @@
 
 **A.**At that time, there was a great deal of discussion about the appalling conditions that had been found in the concentration camps by the Allied troops who liberated them. There was also a great deal of discussion about the horrible atrocities committed by Nazi forces. It was inevitable that, in conversations at that time, this subject of atrocities would be discussed.
 
-**Q.**Did you speak to Hermann Goering in the course of your investigation?
+**Q.**Did you speak to [[PERSON:person_563|Hermann Goering]] in the course of your investigation?
 
 **A.**Yes, I did.
 
@@ -74,7 +74,7 @@
 
 **Q.**Who were they?
 
-**A.**Ribbentrop, Kaltenbrunner, Hans Frank, Walter Schellenberg, General Karl Koller and others.
+**A.**Ribbentrop, Kaltenbrunner, [[PERSON:person_492|Hans Frank]], [[PERSON:person_451|Walter Schellenberg]], General [[PERSON:person_560|Karl Koller]] and others.
 
 **Q.**What did Ribbentrop say about Eichmann?
 
@@ -86,9 +86,9 @@
 
 **Presiding Judge:** The men who operated, who managed the programme of extermination of the Jews.
 
-**Attorney General:** What did Hans Frank say on the subject of the atrocities?
+**Attorney General:** What did [[PERSON:person_492|Hans Frank]] say on the subject of the atrocities?
 
-**Witness Musanno:** Hans Frank said that during the latter part of the War he decided to "wade in blood" no longer, so he went to see Himmler to complain and to ask that the slaughter of the Jews cease. Himmler told him that at that time he was very busy with a military assignment which had been given to him by Hitler, and he recommended that Frank talk to Eichmann.
+**Witness Musanno:** [[PERSON:person_492|Hans Frank]] said that during the latter part of the War he decided to "wade in blood" no longer, so he went to see Himmler to complain and to ask that the slaughter of the Jews cease. Himmler told him that at that time he was very busy with a military assignment which had been given to him by Hitler, and he recommended that Frank talk to Eichmann.
 
 **Q.**According to Frank, did he talk to Eichmann?
 
@@ -96,7 +96,7 @@
 
 **Q.**Did you pursue the questioning further on this subject with Frank?
 
-**A.**No, I did not, because my immediate task was to get information with regard to Hitler - as to whether he was dead or was still living. Of course, I was quite distressed over all the atrocities which had been reported, and particularly because the United States Congress had sent a committee to investigate the concentration camp disclosures - the committee had been invited by General Eisenhower; but I had no authority to conduct any official investigation in that respect. My queries with regard to these persons whom you have indicated and about whom I have spoken were with regard to Hitler's disappearance.
+**A.**No, I did not, because my immediate task was to get information with regard to Hitler - as to whether he was dead or was still living. Of course, I was quite distressed over all the atrocities which had been reported, and particularly because the [[LOCATION:location_68|United States]] Congress had sent a committee to investigate the concentration camp disclosures - the committee had been invited by General Eisenhower; but I had no authority to conduct any official investigation in that respect. My queries with regard to these persons whom you have indicated and about whom I have spoken were with regard to Hitler's disappearance.
 
 **Q.**So you let the matter rest there?
 
@@ -104,7 +104,7 @@
 
 **Q.**Did anyone else close to Hitler mention Eichmann?
 
-**A.**Yes, there was General Karl Koller, who was very close to Hitler. He was in the bunker, in the Reich Chancellery bunker with Hitler almost until the very last day.
+**A.**Yes, there was General [[PERSON:person_560|Karl Koller]], who was very close to Hitler. He was in the bunker, in the Reich Chancellery bunker with Hitler almost until the very last day.
 
 **Q.**You spoke to him?
 
@@ -170,7 +170,7 @@
 
 **A.**Schellenberg was very close to Hitler and performed many secret missions for him. Schellenberg did not testify at the Einsatzgruppen Trial but he did testify at the I. M. T. trial. But after the Einsatzgruppen Trial, I had many conversations with him on the subject of Hitler. And Schellenberg was also very close to Himmler.
 
-**Q.**What was the purpose of your talks with Schellenberg, Justice Musmanno?
+**Q.**What was the purpose of your talks with Schellenberg, [[PERSON:person_558|Justice Musmanno]]?
 
 **A.**I was now preparing my work on Hitler and in view of Schellenberg's very close relationship with Hitler, I was able to get from him a great deal of information on Hitler.
 
@@ -178,19 +178,19 @@
 
 **A.**He said that Eichmann was subordinate only to Heydrich, and that then, when Kaltenbrunner succeeded Heydrich, Eichmann usually bridged over Kaltenbrunner and went to Himmler. Of course, when I say that he was subordinate only to Heydrich, naturally I mean after Hitler and Himmler. Between the assassination of Heydrich in June 1942, and the appointment of Kaltenbrunner as Chief of the RSHA in January 1943, there was an interregnum during which time Eichmann ran his Section with a completely free hand.
 
-When Kaltenbrunner then took over, he was reluctant to limit the authority of Eichmann - whom he had known as a boyhood friendin Linz; and thus Eichmann continued to dominate the entire Jewish extermination programme emanating from the RSHA.
+When Kaltenbrunner then took over, he was reluctant to limit the authority of Eichmann - whom he had known as a boyhood friendin [[LOCATION:location_72|Linz]]; and thus Eichmann continued to dominate the entire Jewish extermination programme emanating from the RSHA.
 
-The fact that Eichmann's rank was only that of a lieutenant coloneldid not impede him at all in the fulfilment of his commitments and plans because he had the approval at all times of Himmler; and when it was necessary, he could use the name of Hitler. This was demonstrated in the summer of 1944, when an SS court in Berlin ordered the arrest of Eichmann and issued a warrant of arrest. Kaltenbrunner informed the court that it could have no jurisdiction over Eichmann because he was engaged in fulfilling a special mission for Hitler.
+The fact that Eichmann's rank was only that of a lieutenant coloneldid not impede him at all in the fulfilment of his commitments and plans because he had the approval at all times of Himmler; and when it was necessary, he could use the name of Hitler. This was demonstrated in the summer of 1944, when an SS court in [[LOCATION:location_1|Berlin]] ordered the arrest of Eichmann and issued a warrant of arrest. Kaltenbrunner informed the court that it could have no jurisdiction over Eichmann because he was engaged in fulfilling a special mission for Hitler.
 
 **Presiding Judge:** Did Schellenberg state who applied to the SS court in order to obtain the arrest of Eichmann?
 
-**Attorney General:** The Court will find reports on this in Vol. 20 in the German edition of the International Military Tribunal on pages 531-563, in the evidence of Georg Konrad Morgen. He spoke about the warrant for arrest he issued against Eichmann. This was towards the end of the evidence.
+**Attorney General:** The Court will find reports on this in Vol. 20 in the German edition of the International Military Tribunal on pages 531-563, in the evidence of [[PERSON:person_565|Georg Konrad Morgen]]. He spoke about the warrant for arrest he issued against Eichmann. This was towards the end of the evidence.
 
 **Judge Raveh:** Whose evidence?
 
 **Attorney General:** The evidence of Morgen before the International Millitary Tribunal. We even have the actual warrant for arrest.
 
-**Witness Musmanno:** This warrant for arrest was issued on the application of Georg Konrad Morgen who was conducting an investigation into charges of cruelty and corruption in the SS administration.
+**Witness Musmanno:** This warrant for arrest was issued on the application of [[PERSON:person_565|Georg Konrad Morgen]] who was conducting an investigation into charges of cruelty and corruption in the SS administration.
 
 **Presiding Judge:** Were there accusations levelled only against the Accused or also against others?
 
@@ -198,7 +198,7 @@ The fact that Eichmann's rank was only that of a lieutenant coloneldid not imped
 
 **Presiding Judge:** What did Schellenberg say?
 
-**Attorney General:** Justice Musmanno, did Schellenberg have any connection with the Einsatzgruppen?
+**Attorney General:** [[PERSON:person_558|Justice Musmanno]], did Schellenberg have any connection with the Einsatzgruppen?
 
 If the Court is interested, I have here a transcript of Morgen's evidence.
 ---
@@ -215,7 +215,7 @@ If I may be permitted to give the Court a transcript of this evidence which is i
 
 **Presiding Judge:** Dr. Merkel - was he one of the defence counsels there?
 
-**Attorney General:** Yes, I think that he was the defence counsel for the Gestapo.
+**Attorney General:** Yes, I think that he was the defence counsel for the [[ORGANIZATION:org_344|Gestapo]].
 
 Did Schellenberg have any connections at all with the Einsatzgruppen?
 
@@ -237,7 +237,7 @@ This agreement then was signed by Heydrich and General Wagner, of course under t
 
 **Q.**Who staffed the Einsatzgruppen, Judge?
 
-**A.**The Einsatzgruppen were staffed, of course, by Himmler. That is, he made the appointments very largely on the recommendation of Eichmann. Stahlecker, who was a friend of Eichmann, was appointed as commander of Einsatzgruppe A; Nebe went to Einsatzgruppe D.
+**A.**The Einsatzgruppen were staffed, of course, by Himmler. That is, he made the appointments very largely on the recommendation of Eichmann. Stahlecker, who was a friend of Eichmann, was appointed as commander of Einsatzgruppe A; [[PERSON:person_510|Nebe]] went to Einsatzgruppe D.
 
 **Presiding Judge:** Did you mention Eichmann's name here?
 
@@ -255,7 +255,7 @@ This agreement then was signed by Heydrich and General Wagner, of course under t
 
 **Judge Halevi:** The question is whether he was mentioned in this context.
 
-**Attorney General:** Justice Musmanno - was Eichmann's name mentioned in this context?
+**Attorney General:** [[PERSON:person_558|Justice Musmanno]] - was Eichmann's name mentioned in this context?
 
 **Presiding Judge:** First of all, did you, in your judgment, mention the name of Eichmann at all?
 
@@ -281,7 +281,7 @@ We permit the evidence on the matters which the witness heard from Schellenberg.
 
 **Attorney General:** Was Schellenberg familiar with the organizing of the Einsatzgruppen?
 
-**Witness Musmanno:** He was, because he not only conducted these negotiations with General Wagner, to which I referred, but he was present in Berlin when Heydrich and Streckenbach, who was chief of the personnel of the RSHA, gave directions and instruction to the Einsatzgruppen personnel as to what they were to do in the East, and Schellenberg saw Eichmann at these conferences.
+**Witness Musmanno:** He was, because he not only conducted these negotiations with General Wagner, to which I referred, but he was present in [[LOCATION:location_1|Berlin]] when Heydrich and [[PERSON:person_475|Streckenbach]], who was chief of the personnel of the RSHA, gave directions and instruction to the Einsatzgruppen personnel as to what they were to do in the East, and Schellenberg saw Eichmann at these conferences.
 
 **Q.**That is what he told you?
 
@@ -297,7 +297,7 @@ We permit the evidence on the matters which the witness heard from Schellenberg.
 
 **Q.**Now, in this operation, headed by Schellenberg, did he have any contact with Eichmann?
 
-**A.**This operation was partially successful, but some of the Russian prisoners of war who became spies for the German forces were themselves executed by the Germans. And the executions were conducted by the Einsatzgruppen, and several of the Russian prisoners were done to death under the direction of Brigadier General Naumann, who was the chief of Einsatzgruppe B. In this Operation Zeppelin, Amt VI, headed by Schellenberg, worked hand in glove with Amt IV, the Gestapo, and because of that association, aside from the usual routine office camaraderie between individuals in the same organization, Schellenberg came into contact with Eichmann, who of course was heading IVB in the Gestapo.
+**A.**This operation was partially successful, but some of the Russian prisoners of war who became spies for the German forces were themselves executed by the Germans. And the executions were conducted by the Einsatzgruppen, and several of the Russian prisoners were done to death under the direction of Brigadier General Naumann, who was the chief of Einsatzgruppe B. In this Operation Zeppelin, Amt VI, headed by Schellenberg, worked hand in glove with Amt IV, the [[ORGANIZATION:org_344|Gestapo]], and because of that association, aside from the usual routine office camaraderie between individuals in the same organization, Schellenberg came into contact with Eichmann, who of course was heading IVB in the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**Now I take it, that the contact was in relation to Jewish matters?
 
@@ -321,11 +321,11 @@ We permit the evidence on the matters which the witness heard from Schellenberg.
 
 **A.**The Einsatzgruppen was strictly a project of the RSHA, and Schellenberg said that Eichmann as chief of that part of the RSHA which dealt with Jews, supervised and directed the activities of the Einsatzgruppen in the extermination of Jews. In the field, of course, the Einsatzgruppen units were under the tactical command of the military units to which they were attached. From time to time Eichmann visited the Einsatzgruppen in the field and attended executions.
 
-**Q.**Now Justice Musmanno, I won`t ask you any questions connected with the information you derived as the President of the Court which tried the Einsatzgruppen, because this is the directive of the Court.
+**Q.**Now [[PERSON:person_558|Justice Musmanno]], I won`t ask you any questions connected with the information you derived as the President of the Court which tried the Einsatzgruppen, because this is the directive of the Court.
 
 **Presiding Judge:** That is not altogether accurate. We said that we would not admit it, unless you proved to us beforehand that you could not obtain such evidence in a more direct way.
 
-**Attorney General:** Precisely. And now I come to a continuation of my question which proceeds in this direction. I would request the Court to permit me three questions which are not contained in the material before us. We attempted to obtain it after we learned from Judge Musmanno since his arrival here, about the existence of this material and which, to my regret, we have not obtained. I am afraid that in the time available to us, while Judge Musmanno remains in Israel, we shall not succeed in procuring it. It does not concern the Accused directly, it relates to two other persons, but it gives a picture of the activities of the Einsatzgruppen which, I believe, completes the matter.
+**Attorney General:** Precisely. And now I come to a continuation of my question which proceeds in this direction. I would request the Court to permit me three questions which are not contained in the material before us. We attempted to obtain it after we learned from Judge Musmanno since his arrival here, about the existence of this material and which, to my regret, we have not obtained. I am afraid that in the time available to us, while Judge Musmanno remains in [[LOCATION:location_38|Israel]], we shall not succeed in procuring it. It does not concern the Accused directly, it relates to two other persons, but it gives a picture of the activities of the Einsatzgruppen which, I believe, completes the matter.
 
 **Presiding Judge:** Who are these two other persons?
 
@@ -361,7 +361,7 @@ We permit the evidence on the matters which the witness heard from Schellenberg.
 
 **Witness Musmanno:** My impression is that I do make some reference to it. I am not entirely certain.
 
-**Dr. Servatius:** Your Honour, the Presiding Judge, I have here Volume 4 of the Green Series. There, on page 211 and the following pages, there appears a detailed reprint of Blobel's affidavit dealing with the whole chapter of facts on which it is requested to hear the witness. The witness, Justice Musmanno, himself apparently did not attach sufficient importance to the matter and, therefore, did not mention Eichmann in the judgment. Consequently I presume that Blobel's affidavit constitutes better and preferable evidence.
+**Dr. Servatius:** Your Honour, the Presiding Judge, I have here Volume 4 of the Green Series. There, on page 211 and the following pages, there appears a detailed reprint of Blobel's affidavit dealing with the whole chapter of facts on which it is requested to hear the witness. The witness, [[PERSON:person_558|Justice Musmanno]], himself apparently did not attach sufficient importance to the matter and, therefore, did not mention Eichmann in the judgment. Consequently I presume that Blobel's affidavit constitutes better and preferable evidence.
 
 **Presiding Judge:** At first glance it does not seem that this affidavit of Blobel deals with this special operation of eliminating traces. It deals with the actual executions. All this appears from the first glance.
 
@@ -396,7 +396,7 @@ With the Court's permission, I shall now turn to facts which are within the know
 
 **Witness Musmanno:** Yes. Some of them complained because they had to travel over bad roads in order to reach the Jews that they were going to kill. And they also complained when bad weather set in, and mud made their transportation all the more difficult. In very cold weather, when the ground was frozen and it was impossible to dig graves, they complained because the executions had to be postponed until fair weather arrived. Sometimes, they shot their victims in the snow and let their bodies lie in the snow.
 
-**Attorney General:** Permit me to be more explicit. Do you remember the case of Walter Blume?
+**Attorney General:** Permit me to be more explicit. Do you remember the case of [[PERSON:person_511|Walter Blume]]?
 
 **Presiding Judge:** Was he an accused in the Einsatzgruppen Trial too? Does this appear in the judgment?
 
@@ -416,13 +416,13 @@ With the Court's permission, I shall now turn to facts which are within the know
 
 **Presiding Judge:** You have a witness here who may be able to say something on this subject. You have mentioned to us a matter of 300,000 pages.
 
-**Attorney General:** I will interrogate the witness, by permission of the Court. Justice Musmanno, do you know where the records of your case are kept now?
+**Attorney General:** I will interrogate the witness, by permission of the Court. [[PERSON:person_558|Justice Musmanno]], do you know where the records of your case are kept now?
 
 **Witness Musmanno:** Do you mean the transcript? The daily transcript?
 
 **Q.**I refer to the exhibits, and the daily record of the proceedings of the Einsatzgruppen Trial.
 
-**A.**Certainly, there is a set of them in the archives in Washington D. C. and also in London, and I am under the impression that perhaps also in Nuremberg.
+**A.**Certainly, there is a set of them in the archives in Washington D. C. and also in [[LOCATION:location_67|London]], and I am under the impression that perhaps also in [[LOCATION:location_39|Nuremberg]].
 
 **Presiding Judge:** Will you permit me? If someone wishes to examine the record, to get to a certain witness or to certain evidence, do you think he could practically do so, or would it be difficult?
 
@@ -436,13 +436,13 @@ With the Court's permission, I shall now turn to facts which are within the know
 
 **A.**Oh - I would say about 8,000 pages.
 
-**Dr. Servatius:** Your Honour, the Presiding Judge, these records are kept in the archives of the German Federal Republic in Coblenz. They also have there a summary of the contents and a list of the witnesses, for part of the documents. Whether such a summary exists also in connection with the trial which we are discussing here - I do not know. But my assistant is shortly about to travel to Germany, and through him, I shall be able to go into the matter and to seek a reply to the question.
+**Dr. Servatius:** Your Honour, the Presiding Judge, these records are kept in the archives of the [[ORGANIZATION:org_311|German Federal Republic]] in Coblenz. They also have there a summary of the contents and a list of the witnesses, for part of the documents. Whether such a summary exists also in connection with the trial which we are discussing here - I do not know. But my assistant is shortly about to travel to [[LOCATION:location_2|Germany]], and through him, I shall be able to go into the matter and to seek a reply to the question.
 
 **Attorney General:** I wanted to say that, naturally, we searched for the material, but to my regret we did not find it.
 
 **Presiding Judge:** How long would it take you in order to search for this material? We are talking now about the evidence of Blume.
 
-**Attorney General:** I shall list the names of those concerning whom I want to question the Judge. We are in the same situation concerning all of them. The names are: Walter Blume, Erwin Schulz, Heinz Jost, Franz Six, Willy Seibert and Gustav Noske, whose evidence I have already submitted, but I want to put in one document through the Judge.
+**Attorney General:** I shall list the names of those concerning whom I want to question the Judge. We are in the same situation concerning all of them. The names are: [[PERSON:person_511|Walter Blume]], [[PERSON:person_566|Erwin Schulz]], [[PERSON:person_567|Heinz Jost]], Franz Six, Willy Seibert and [[PERSON:person_512|Gustav Noske]], whose evidence I have already submitted, but I want to put in one document through the Judge.
 
 **Presiding Judge:** But not all of them were accused - some of them were witnesses in the trial?
 
@@ -468,7 +468,7 @@ Mr. Hausner, we notice that in this volume - we are not fully aware of everythin
 
 **Judge Raveh:** You have heard that the witness himself has the complete record. This is proof that it exists.
 
-**Presiding Judge:** This we can elucidate immediately. Justice Musmanno - a side issue, if I may call it that; are you able to tell us: Is the material in your possession, those 22 volumes, arranged in order?
+**Presiding Judge:** This we can elucidate immediately. [[PERSON:person_558|Justice Musmanno]] - a side issue, if I may call it that; are you able to tell us: Is the material in your possession, those 22 volumes, arranged in order?
 
 **Witness Musmanno:** Yes, they are arranged consecutively.
 
@@ -480,7 +480,7 @@ Mr. Hausner, we notice that in this volume - we are not fully aware of everythin
 
 **A.**It is true that the witnesses are enumerated here and their testimony is identified by page numbers, but each defendant presented enormous so-called "document books" and those documents are not indexed here, so that if there is an episode in any of these documents you might not be able to locate it very easily.
 
-**Dr. Servatius:** It is, in fact, true that defence documents were not, as a rule, included in the official treatment of these trials. However, it will not be difficult to find them, for the documents are kept in the private archives of the defence lawyers who are still alive in Germany. And I believe that in the political archives of the Federal Republic, as well, it should be possible to find these documents, by number and by classification.
+**Dr. Servatius:** It is, in fact, true that defence documents were not, as a rule, included in the official treatment of these trials. However, it will not be difficult to find them, for the documents are kept in the private archives of the defence lawyers who are still alive in [[LOCATION:location_2|Germany]]. And I believe that in the political archives of the Federal Republic, as well, it should be possible to find these documents, by number and by classification.
 
 **Presiding Judge:** Mr. Hausner, the material which you wanted to produce now by means of this evidence, was that evidence given before the Court or was it in the content of sworn affidavits submitted there? Can you tell us that?
 
@@ -498,7 +498,7 @@ Perhaps, in the meantime, merely in order to reach a convenient point, I can sub
 
 **Presiding Judge:** You will be able to check whether the evidence you are seeking relates to matters on which oral evidence was heard in that trial, or to documents which were submitted and are not included. The reply to this question is likely to affect our decision.
 
-**Attorney General:** Now, Justice Musmanno, you gave me an English translation of evidence taken by you in German from the witness Schulz. I hand you the two documents, the German original and the English translation. Were these the testimonies that you heard and which you handed to me?
+**Attorney General:** Now, [[PERSON:person_558|Justice Musmanno]], you gave me an English translation of evidence taken by you in German from the witness Schulz. I hand you the two documents, the German original and the English translation. Were these the testimonies that you heard and which you handed to me?
 
 **Witness Musmanno:** I can veryfy that this document was submitted to me in the trial of the Einsatzgruppen Case, in its English translation.
 
@@ -520,7 +520,7 @@ Perhaps, in the meantime, merely in order to reach a convenient point, I can sub
 
 **Presiding Judge:** Where did you get the original German version from?
 
-**Attorney General:** We have the Book of Documents No. 1 of Erwin Schulz.
+**Attorney General:** We have the Book of Documents No. 1 of [[PERSON:person_566|Erwin Schulz]].
 
 **Presiding Judge:** We shall mark the English translation T/686.
 
@@ -530,7 +530,7 @@ Do you have further copies of this document?
 
 **Presiding Judge:** And the German original will be T/686(a).
 
-**Attorney General:** Justice Musmanno, did you talk to Schellenberg about other Einsatzgruppen commanders as well, who - for one reason or other - applied to be relieved of their duties?
+**Attorney General:** [[PERSON:person_558|Justice Musmanno]], did you talk to Schellenberg about other Einsatzgruppen commanders as well, who - for one reason or other - applied to be relieved of their duties?
 
 **Witness Musmanno:** In our general conversation, reference was made to this proposition that if one really did not want to kill Jews that there was a way of not killing Jews, that it wasn't necessary to follow out these orders implicitly and to the ultimate, and that it would be enough to indicate that this person could not kill in cold blood, and, if that was so stated, then one could be actually relieved of that duty.
 

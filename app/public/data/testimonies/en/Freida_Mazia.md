@@ -1,4 +1,4 @@
-# Testimony of Freida Mazia
+# Testimony of [[PERSON:witness_72|Freida Mazia]]
 
 **Session:** 27
 
@@ -8,33 +8,33 @@
 
 **Witness:** Frieda Masia.
 
-**Attorney General:** Do you live in Rehovot, at 53 Ben-Zion Street?
+**Attorney General:** Do you live in [[LOCATION:location_159|Rehovot]], at 53 Ben-Zion Street?
 
 **Witness Masia:** Yes.
 
-**Q.**At the time of the outbreak of the Second World War you were in Sosnowiec which is in Poland?
+**Q.**At the time of the outbreak of the [[EVENT:event_383|Second World War]] you were in Sosnowiec which is in [[LOCATION:location_5|Poland]]?
 
 **A.**Yes.
 
-**Q.**To what part of Poland does Sosnowiec belong?
+**Q.**To what part of [[LOCATION:location_5|Poland]] does Sosnowiec belong?
 
-**A.**To Eastern Silesia, to Zaglebie.
+**A.**To Eastern [[LOCATION:location_103|Silesia]], to [[LOCATION:location_174|Zaglebie]].
 
 **Q.**After the Germans entered the town, you began working there in the Jewish hospital as a nurse?
 
 **A.**Yes.
 
-**Q.**With the entry of the Germans the men were removed by the Wehrmacht and concentrated in the courtyard of the Municipality and in the basements. Is that correct?
+**Q.**With the entry of the Germans the men were removed by the [[ORGANIZATION:org_328|Wehrmacht]] and concentrated in the courtyard of the Municipality and in the basements. Is that correct?
 
 **A.**Yes.
 
-**Q.**In December 1939 the Gestapo appeared in Sosnowiec? Is that right?
+**Q.**In December 1939 the [[ORGANIZATION:org_344|Gestapo]] appeared in Sosnowiec? Is that right?
 
 **A.**Yes.
 
-**Q.**By order of the Gestapo a Jewish body was set up to govern the Jewish community?
+**Q.**By order of the [[ORGANIZATION:org_344|Gestapo]] a Jewish body was set up to govern the Jewish community?
 
-**A.**The Jewish Community Council was set up immediately after the entry of the Germans, already in September 1939.
+**A.**The [[ORGANIZATION:org_315|Jewish Community Council]] was set up immediately after the entry of the Germans, already in September 1939.
 
 **Q.**When the War broke out, there were about 30,000 Jews in Sosnowiec?
 
@@ -42,7 +42,7 @@
 
 **Q.**Many fled to the East - how many remained?
 
-**A.**According to the lists compiled by the Community Council later on, in 1941 there were about 25,000, but this was already after many persons had been sent to labour camps. We estimated the number of the Jewish residents of Sosnowiec at 28,000, after the outbreak of the War and after the flight to the East. In the whole of Zaglebie and district there were nearly 100,000 Jews.
+**A.**According to the lists compiled by the Community Council later on, in 1941 there were about 25,000, but this was already after many persons had been sent to labour camps. We estimated the number of the Jewish residents of Sosnowiec at 28,000, after the outbreak of the War and after the flight to the East. In the whole of [[LOCATION:location_174|Zaglebie]] and district there were nearly 100,000 Jews.
 
 **Q.**In October 1939 was an order issued to wear a white band with a blue Shield of David on the left sleeve?
 
@@ -58,7 +58,7 @@
 
 **Q.**To what country did your area belong, from an administrative point of view?
 
-**A.**From the administrative point of view we were annexed at once in the first months to the German Reich as areas which were returned to Germany as having previously been German.
+**A.**From the administrative point of view we were annexed at once in the first months to the German Reich as areas which were returned to [[LOCATION:location_2|Germany]] as having previously been German.
 
 **Q.**What happened to the Jewish cultural and public activities in your area?
 
@@ -76,7 +76,7 @@ In practice everything was organized secretly - a school for Jewish children exi
 
 **Q.**By whom?
 
-**A.**By Germans who surrounded the whole area. It was not only in Sosnowiec. At the same time the synagogue was burned own both in Katowice, and also in Bedzin. And both in Bedzin and Sosnowiec not only the synagogues were surrounded but also the houses in the vicinity in which Jews were living, and many of these Jews were burned alive, and the Germans shot at anyone who tried to escape.
+**A.**By Germans who surrounded the whole area. It was not only in Sosnowiec. At the same time the synagogue was burned own both in [[LOCATION:location_178|Katowice]], and also in Bedzin. And both in Bedzin and Sosnowiec not only the synagogues were surrounded but also the houses in the vicinity in which Jews were living, and many of these Jews were burned alive, and the Germans shot at anyone who tried to escape.
 
 **Q.**What happened to the people who at that moment were praying in the synagogue?
 
@@ -92,12 +92,12 @@ In practice everything was organized secretly - a school for Jewish children exi
 
 **Q.**Do you remember the name of the German institution, the "Dienststelle"?
 
-**A.**The "Dienststelle" - there were already transports to Germany, after this, after the labour carried out locally. The Germans began seizing people and sending them off to Germany. They would go out into the street with a closed van and to round up anyone found in the street, much as they would catch dogs, and send them to camps in Germany. In the course of time they insisted that the Jewish Community Council should deal with this. The man in the Jewish Community Council, who handled current labour affairs, was then Max Bejeski. He threw away his Jewish Council labour card and said: "I am not prepared to send my brethren to Germany, to an unknown fate."
+**A.**The "Dienststelle" - there were already transports to [[LOCATION:location_2|Germany]], after this, after the labour carried out locally. The Germans began seizing people and sending them off to [[LOCATION:location_2|Germany]]. They would go out into the street with a closed van and to round up anyone found in the street, much as they would catch dogs, and send them to camps in [[LOCATION:location_2|Germany]]. In the course of time they insisted that the [[ORGANIZATION:org_315|Jewish Community Council]] should deal with this. The man in the [[ORGANIZATION:org_315|Jewish Community Council]], who handled current labour affairs, was then Max Bejeski. He threw away his Jewish Council labour card and said: "I am not prepared to send my brethren to [[LOCATION:location_2|Germany]], to an unknown fate."
 ---
 
 **Judge Halevi:** What happened to him?
 
-**Witness Masia:** This Max Bejeski obtained a job in an approved German enterprise, and later was deported to Auschwitz. As eyewitnesses who were there in Auschwitz told me, he said to the Germans at the time of a roll call "You won't kill me, I shall kill myself," and ran to the electrified barbed wire fence and remained on it, dead.
+**Witness Masia:** This Max Bejeski obtained a job in an approved German enterprise, and later was deported to [[LOCATION:location_286|Auschwitz]]. As eyewitnesses who were there in [[LOCATION:location_286|Auschwitz]] told me, he said to the Germans at the time of a roll call "You won't kill me, I shall kill myself," and ran to the electrified barbed wire fence and remained on it, dead.
 
 **Attorney General:** What was the full term of the "Dienststelle"?
 
@@ -121,11 +121,11 @@ In practice everything was organized secretly - a school for Jewish children exi
 
 **Q.**When were the workshops established?
 
-**A.**The workshops were established in 1940-1941. When deportations to Germany began, people saw that those employed locally for the time being and who were apparently useful to the German Reich by their work, remained there, and consequently large workshops were set up. People handed over their machines, supplied manpower almost for nothing, for it was impossible to exist on the money they received, it was even impossible to buy the official and meagre rations which could not be sufficient. A large part of the official pay which they obtained was taken by the "Sonder" who received a certain percentage of the pay.
+**A.**The workshops were established in 1940-1941. When deportations to [[LOCATION:location_2|Germany]] began, people saw that those employed locally for the time being and who were apparently useful to the German Reich by their work, remained there, and consequently large workshops were set up. People handed over their machines, supplied manpower almost for nothing, for it was impossible to exist on the money they received, it was even impossible to buy the official and meagre rations which could not be sufficient. A large part of the official pay which they obtained was taken by the "Sonder" who received a certain percentage of the pay.
 
 **Presiding Judge:** Who took that?
 
-**A.**This is an abbreviation of the long name which I quoted earlier. We called it in short "The Sonder." Attorney General: Do you remember how these labourers used to return from their work in Germany?
+**A.**This is an abbreviation of the long name which I quoted earlier. We called it in short "The Sonder." Attorney General: Do you remember how these labourers used to return from their work in [[LOCATION:location_2|Germany]]?
 
 **A.**There were still people who returned from the first transports - very few men returned, more women returned. The girls in most cases were swollen from hunger, sick, often suffering from tuberculosis, ill with arthritis. They spoke of very hard conditions, of long roll calls, of work from the first light of day to sunset and of starvation rations. Afterwards, at a later period, the Germans established a recuperation camp for the sick, a camp where they treated the sick. After some time, the first death notices arrived; later on these didn't arrive either.
 
@@ -135,7 +135,7 @@ In practice everything was organized secretly - a school for Jewish children exi
 
 **Q.**When was that?
 
-**A.**It was at the end of 1939. The Germans informed us that it was necessary to collect a group of 300 Jews who would be sent to the East. These 300 Jews were actually sent, and thereafter news arrived that they had reached a point near the Soviet border. This was already in the period when the Soviets had advanced and occupied part of Poland. The Germans placed them along the border and told them to run forward and shot at them. The Russians didn't know who was running there and also attempted to shoot, but they very quickly grasped the situation and most people were saved in this way. A few of them returned at a later stage, when these areas were reoccupied by the Germans - they returned in this way to be reunited with their families in Sosnowiec, and they gave an account of this period.
+**A.**It was at the end of 1939. The Germans informed us that it was necessary to collect a group of 300 Jews who would be sent to the East. These 300 Jews were actually sent, and thereafter news arrived that they had reached a point near the Soviet border. This was already in the period when the Soviets had advanced and occupied part of [[LOCATION:location_5|Poland]]. The Germans placed them along the border and told them to run forward and shot at them. The Russians didn't know who was running there and also attempted to shoot, but they very quickly grasped the situation and most people were saved in this way. A few of them returned at a later stage, when these areas were reoccupied by the Germans - they returned in this way to be reunited with their families in Sosnowiec, and they gave an account of this period.
 
 After this, a second transport had to leave for the East, a transport of 1,500 or 1,300 - I don't remember the number - but a transport the total of which reached four figures.
 
@@ -163,7 +163,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Presiding Judge:** What was the reason for hanging them, what did the Germans say?
 
-**Witness Masia:** Concerning the four, they said that they were hanged because of transactions on the black market. But the black market - that was an egg, one egg they found in the possession of a mother who had obtained it from a Pole for her little girl so that she shouldn't die of hunger. With them that was black market. The two were hanged because of assistance they rendered to people who had returned to us from the occupied areas, who had managed to cross over to us. One had to cross the border that divided us. They were in the zone of the Generalgouvernement, and we were annexed to the Reich. They crossed the border and were illegally with us, and those helping them were executed.
+**Witness Masia:** Concerning the four, they said that they were hanged because of transactions on the black market. But the black market - that was an egg, one egg they found in the possession of a mother who had obtained it from a Pole for her little girl so that she shouldn't die of hunger. With them that was black market. The two were hanged because of assistance they rendered to people who had returned to us from the occupied areas, who had managed to cross over to us. One had to cross the border that divided us. They were in the zone of the [[LOCATION:location_152|Generalgouvernement]], and we were annexed to the Reich. They crossed the border and were illegally with us, and those helping them were executed.
 
 **Attorney General:** Do you remember that a story circulated in the town about a German of whom one had to beware if he came?
 
@@ -171,7 +171,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**What did they tell you about that man?
 
-**A.**I know that there was a time, approximately in 1940, when we knew, generally speaking, that when high-ranking Germans came to the town, it was advisable to hide, it was advisable not to be in the streets. The streets were empty. In offices also, clerks who were not required to be at their desks, endeavoured to get away. There was a story that one had to beware of coming into contact with them, and that amongst them there was someone who was a native of a German colony in Palestine, who knew Hebrew and Yiddish, and who was well acquainted with Jewish customs.
+**A.**I know that there was a time, approximately in 1940, when we knew, generally speaking, that when high-ranking Germans came to the town, it was advisable to hide, it was advisable not to be in the streets. The streets were empty. In offices also, clerks who were not required to be at their desks, endeavoured to get away. There was a story that one had to beware of coming into contact with them, and that amongst them there was someone who was a native of a German colony in [[LOCATION:location_57|Palestine]], who knew Hebrew and Yiddish, and who was well acquainted with Jewish customs.
 
 **Q.**Was the name mentioned of the colony where that person was born?
 
@@ -181,7 +181,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **A.**Possibly it was mentioned, but I don't remember it now. The name didn't mean anything to us.
 
-**Q.**In April 1942 an order was issued by the Gestapo to conduct a registration of the Jewish citizens?
+**Q.**In April 1942 an order was issued by the [[ORGANIZATION:org_344|Gestapo]] to conduct a registration of the Jewish citizens?
 
 **A.**Yes.
 
@@ -191,7 +191,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**In April - May 1942.
 
-**A.**In April 1942 the Germans announced a registration of citizens, marking out those who were not working. These people, the aged, the sick, those who did not have permanent places of work - were to be sent elsewhere as an unproductive element. During this period the first transports for deportation departed. We didn't know, then, where the transport was bound for. There were rumours - the Germans spread rumours - that this transport was leaving for Theresienstadt, a place where they were collecting all the Jews. About 1,200 people from Sosnowiec left on this transport.
+**A.**In April 1942 the Germans announced a registration of citizens, marking out those who were not working. These people, the aged, the sick, those who did not have permanent places of work - were to be sent elsewhere as an unproductive element. During this period the first transports for deportation departed. We didn't know, then, where the transport was bound for. There were rumours - the Germans spread rumours - that this transport was leaving for [[LOCATION:location_124|Theresienstadt]], a place where they were collecting all the Jews. About 1,200 people from Sosnowiec left on this transport.
 
 **Q.**Do you know where this transport went to?
 
@@ -207,7 +207,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**Who was he?
 
-**A.**Lindner was the Gestapo Chief in Katowice. We saw Lindner at deportation points near the trains which were loading people. I met Lindner when I was a prisoner in goal in Katowice and when I was interrogated by the Gestapo.
+**A.**Lindner was the [[ORGANIZATION:org_344|Gestapo]] Chief in [[LOCATION:location_178|Katowice]]. We saw Lindner at deportation points near the trains which were loading people. I met Lindner when I was a prisoner in goal in [[LOCATION:location_178|Katowice]] and when I was interrogated by the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**In June there was a second "action" in Sosnowiec?
 
@@ -235,9 +235,9 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**Do you know today?
 
-**A.**But when we stood beside the trains, and I was alongside the train until the last moment, until it was almost in motion, when we saw the people, we realized that it was not life they were bound for. What place it was - we did not know. But we knew this was not a place where people lived, for many of them were dead, and they also threw the dead ones inside. The first rumours reached us about the camp in Auschwitz. The fact that a camp existed at Auschwitz we already knew before, since before Passover 1941 all the Jews of Auschwitz had been deported to us.
+**A.**But when we stood beside the trains, and I was alongside the train until the last moment, until it was almost in motion, when we saw the people, we realized that it was not life they were bound for. What place it was - we did not know. But we knew this was not a place where people lived, for many of them were dead, and they also threw the dead ones inside. The first rumours reached us about the camp in [[LOCATION:location_286|Auschwitz]]. The fact that a camp existed at [[LOCATION:location_286|Auschwitz]] we already knew before, since before Passover 1941 all the Jews of [[LOCATION:location_286|Auschwitz]] had been deported to us.
 
-**Presiding Judge:** What is the distance between Sosnowiec and Auschwitz?
+**Presiding Judge:** What is the distance between Sosnowiec and [[LOCATION:location_286|Auschwitz]]?
 
 **Witness Masia:** I think it is about 50 kilometres.
 
@@ -249,11 +249,11 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **A.**Yes.
 
-**Q.**And did Mordechai Anilewicz of Warsaw and also Eliezer Geller come to you after the second "action" and tell you about Belzec and about the extermination by gassing?
+**Q.**And did [[PERSON:person_497|Mordechai Anilewicz]] of [[LOCATION:location_93|Warsaw]] and also Eliezer Geller come to you after the second "action" and tell you about [[LOCATION:location_154|Belzec]] and about the extermination by gassing?
 
 **A.**Yes.
 
-**Q.**And they also brought you news about the underground organizations that had been set up in Warsaw and other places?
+**Q.**And they also brought you news about the underground organizations that had been set up in [[LOCATION:location_93|Warsaw]] and other places?
 
 **A.**Yes. Mordechai then brought the tidings about Nowogrodek and the news about the first Jews to raise the banner of the revolt in Novogrudok.
 
@@ -271,16 +271,16 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**And also in this way you managed to smuggle out a number of girls in connection with the transports - do you remember?
 
-**A.**Yes. I remember it well. We sent girls as young Polish women to Germany, girls and boys, and today they are in Israel, about fifty of them.
+**A.**Yes. I remember it well. We sent girls as young Polish women to [[LOCATION:location_2|Germany]], girls and boys, and today they are in [[LOCATION:location_38|Israel]], about fifty of them.
 
-**Presiding Judge:** You sent girls in the guise of Aryans to Germany?
+**Presiding Judge:** You sent girls in the guise of Aryans to [[LOCATION:location_2|Germany]]?
 
-**A.**Boys and girls in the guise of Aryans to Germany; since the Germans were also deporting Poles for labour, we managed to find a way of securing the papers for transport for labour for our people in the guise of Aryans. And afterwards, when everything was already over, when the ghetto was no more and only a few remnants remained, we succeeded in saving these remnants.
+**A.**Boys and girls in the guise of Aryans to [[LOCATION:location_2|Germany]]; since the Germans were also deporting Poles for labour, we managed to find a way of securing the papers for transport for labour for our people in the guise of Aryans. And afterwards, when everything was already over, when the ghetto was no more and only a few remnants remained, we succeeded in saving these remnants.
 ---
 
 **Q.**That is to say - they worked there as Poles?
 
-**A.**As Poles, in the vicinity of Vienna and Dresden.
+**A.**As Poles, in the vicinity of [[LOCATION:location_3|Vienna]] and [[LOCATION:location_179|Dresden]].
 
 **Q.**In August 1942 the Jews were again ordered to have their papers stamped. Is that correct?
 
@@ -292,7 +292,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**And you reported?
 
-**A.**In Sosnowiec there were then about 25,000 people and they were all ordered to assemble on a sports field. We, the youth, felt that this was a trap. We knew that once we were in their hands, they would do what they liked with us. And what they wanted to do, this we had already seen and understood. At that time news had already reached us of what was happening in Auschwitz, through someone who succeeded in escaping from there and who died in our town.
+**A.**In Sosnowiec there were then about 25,000 people and they were all ordered to assemble on a sports field. We, the youth, felt that this was a trap. We knew that once we were in their hands, they would do what they liked with us. And what they wanted to do, this we had already seen and understood. At that time news had already reached us of what was happening in [[LOCATION:location_286|Auschwitz]], through someone who succeeded in escaping from there and who died in our town.
 
 **Q.**So what happened - did the Jews in the district report?
 
@@ -312,7 +312,7 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**Which unit did he belong to?
 
-**A.**He was the commissar for Jewish affairs in the Gestapo of Katowice, and he stood there with his stick which was inseparable from him, and was selecting people into those who would live and those who would die, to life and death, as he wished. He split up families, sending children to one place, and their parents - if they seemed to him still to be capable of work - to another place. And there were many who went, knowingly, to their deaths, because they did not want to part from their children. And young people went along who wanted to support their parents in their last moments.
+**A.**He was the commissar for Jewish affairs in the [[ORGANIZATION:org_344|Gestapo]] of [[LOCATION:location_178|Katowice]], and he stood there with his stick which was inseparable from him, and was selecting people into those who would live and those who would die, to life and death, as he wished. He split up families, sending children to one place, and their parents - if they seemed to him still to be capable of work - to another place. And there were many who went, knowingly, to their deaths, because they did not want to part from their children. And young people went along who wanted to support their parents in their last moments.
 
 **Q.**This selection began in the afternoon, I understand.
 
@@ -328,9 +328,9 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Q.**What happened to those who were incapable of working?
 
-**A.**All these were sent away later. All those who remained, there were then about 6,000 people from Sosnowiec and a similar number from Bedzin - all of them were sent to Auschwitz.
+**A.**All these were sent away later. All those who remained, there were then about 6,000 people from Sosnowiec and a similar number from Bedzin - all of them were sent to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**At the end of September 1942 you were sent by the underground to the environs of Auschwitz in order to try and establish links with the underground - is that correct?
+**Q.**At the end of September 1942 you were sent by the underground to the environs of [[LOCATION:location_286|Auschwitz]] in order to try and establish links with the underground - is that correct?
 
 **A.**Yes.
 
@@ -346,21 +346,21 @@ This transport was prepared but at the last minute it was cancelled. What the re
 
 **Witness Masia:** Yes. I lived as a Jewess, but when I left the ghetto, I had the papers of an Aryan. We had many - we used to prepare them.
 
-**Attorney General:** In 1943 you escaped to Slovakia and in this way you were saved afterwards through a long series of wanderings?
+**Attorney General:** In 1943 you escaped to [[LOCATION:location_84|Slovakia]] and in this way you were saved afterwards through a long series of wanderings?
 
 **Witness Masia:** Yes.
 
 **Q.**You said there were thirty thousand Jews in Sosnowiec. In your opinion how many remained alive after the War?
 
-**A.**I think that if we were to say two hundred, that number would not be an exaggeration, if included in this number we were also to count people who were saved by the transports to Germany as Poles, and in other ways.
+**A.**I think that if we were to say two hundred, that number would not be an exaggeration, if included in this number we were also to count people who were saved by the transports to [[LOCATION:location_2|Germany]] as Poles, and in other ways.
 
 **Q.**Tell us about one final episode. Who was Harry Blumenfrucht?
 
-**A.**Harry Blumenfrucht was a member of the Zionist youth movement. When we were making efforts to obtain arms - for with us the situation was of a special nature, we were in the district of Silesia, where when the Germans entered most of the Poles declared that they were Volksdeutsche, and there was no Polish underground in existence at all - and in order to obtain the arms one had to cross the border, and apart from the normal risk involved in this, one had to undergo the risk of a border check. However, even there it was impossible to purchase or to obtain arms easily. One could obtain a revolver with four bullets for a lot of money. It was impossible to examine whether the revolver was in working order. At the last moment when the revolver had to be put to use and to be fired, it emerged that we had been cheated and that the revolver did not work at all. We saw, therefore, that it was necessary to look for arms locally, too. Harry worked at his place of employment, in a plant where, according to his information, the owner of the factory possessed revolvers.
+**A.**Harry Blumenfrucht was a member of the Zionist youth movement. When we were making efforts to obtain arms - for with us the situation was of a special nature, we were in the district of [[LOCATION:location_103|Silesia]], where when the Germans entered most of the Poles declared that they were Volksdeutsche, and there was no Polish underground in existence at all - and in order to obtain the arms one had to cross the border, and apart from the normal risk involved in this, one had to undergo the risk of a border check. However, even there it was impossible to purchase or to obtain arms easily. One could obtain a revolver with four bullets for a lot of money. It was impossible to examine whether the revolver was in working order. At the last moment when the revolver had to be put to use and to be fired, it emerged that we had been cheated and that the revolver did not work at all. We saw, therefore, that it was necessary to look for arms locally, too. Harry worked at his place of employment, in a plant where, according to his information, the owner of the factory possessed revolvers.
 
 **Presiding Judge:** Was the owner of the plant a German?
 
-**Witness Masia:** Yes. He came with a suggestion, since the German was not at home, to enter his apartment and steal the revolvers. The suggestion was approved and three people went out - a girl and two boys, one of whom has survived - and they succeeded in entering the apartment, and removed a revolver from the drawer of the night table. There were also both money and a gold watch. These things they did not touch. They managed to return safely. The following morning we read an announcement in the newspaper that Polish partisans had burst into the German's apartment and had taken weapons. It was obvious that a thief would not take only weapons. After this operation had succeeded, we thought that possibly this method was the easiest of all. And one of the boys who is today a lieutenant colonel in the Israel Defence Forces, came to us and said that the German with whom he worked was a hunting enthusiast, and he had a complete store of guns.
+**Witness Masia:** Yes. He came with a suggestion, since the German was not at home, to enter his apartment and steal the revolvers. The suggestion was approved and three people went out - a girl and two boys, one of whom has survived - and they succeeded in entering the apartment, and removed a revolver from the drawer of the night table. There were also both money and a gold watch. These things they did not touch. They managed to return safely. The following morning we read an announcement in the newspaper that Polish partisans had burst into the German's apartment and had taken weapons. It was obvious that a thief would not take only weapons. After this operation had succeeded, we thought that possibly this method was the easiest of all. And one of the boys who is today a lieutenant colonel in the [[LOCATION:location_38|Israel]] Defence Forces, came to us and said that the German with whom he worked was a hunting enthusiast, and he had a complete store of guns.
 
 Then a group of five people was organized - this boy who initiated it, Harry, who had taken part in the previous action, and three others. They had to remove the arms from the apartment of the second German. In the German's home there were two women. One of them succeeded in making her escape and alerting the neighbours, and our boys fled without having taken a thing. In the course of their flight, after moving around a great deal, Harry Blumenfrucht was captured in the streets with the revolver he had stolen in the first operation in his pocket. He tried to shoot the German who attacked him. But this German was well-known in the area. They called him a "Hund mit Hund" for he always went around with a big dog. The dog jumped on Harry and seized his hand and he was unable to fire. Meanwhile help reached this German, and they took hold of Harry and arrested him. Harry was tortured in a horrible way.
 
@@ -378,6 +378,6 @@ And the Germans held him, I think, for two weeks. They had a great admiration fo
 
 **Judge Halevi:** You said that the Poles in your district declared that they were Volksdeutsche?
 
-**Witness Masia:** Many of the Poles declared that they were Volksdeutsche. They were close to the border, and this was near Silesia, but the majority were not Volksdeutsche - they had no connection with Germany, and did not even know one word of German. But it was easier to be a Volksdeutscher. Food rations were larger, their conditions were better, they were able to receive part of the plundered property.
+**Witness Masia:** Many of the Poles declared that they were Volksdeutsche. They were close to the border, and this was near [[LOCATION:location_103|Silesia]], but the majority were not Volksdeutsche - they had no connection with [[LOCATION:location_2|Germany]], and did not even know one word of German. But it was easier to be a Volksdeutscher. Food rations were larger, their conditions were better, they were able to receive part of the plundered property.
 
 **Presiding Judge:** Thank you, Mrs. Masia, you have completed your evidence.

@@ -1,4 +1,4 @@
-# Testimony of Israel Carmel
+# Testimony of [[PERSON:witness_58|Israel Carmel]]
 
 **Session:** 24
 
@@ -6,25 +6,25 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** My name is Israel Carmel.
+**Witness:** My name is [[PERSON:witness_58|Israel Carmel]].
 
 **Attorney General:** You are a Magistrate?
 
-**Witness Carmel:** I am a Magistrate in Tel Aviv.
+**Witness Carmel:** I am a Magistrate in [[LOCATION:location_42|Tel Aviv]].
 
-**Q.**Were you at one time Consul for Israel in Poland?
+**Q.**Were you at one time Consul for [[LOCATION:location_38|Israel]] in [[LOCATION:location_5|Poland]]?
 
-**A.**I was Consul for Israel in Poland.
+**A.**I was Consul for [[LOCATION:location_38|Israel]] in [[LOCATION:location_5|Poland]].
 
-**Q.**Did you interest yourself in the problems of the Holocaust?
+**Q.**Did you interest yourself in the problems of the [[EVENT:event_386|Holocaust]]?
 
 **A.**That is correct.
 
-**Q.**In particular you conducted research into the diary of Hans Frank who was the Governor General of Poland?
+**Q.**In particular you conducted research into the diary of [[PERSON:person_492|Hans Frank]] who was the Governor General of [[LOCATION:location_5|Poland]]?
 
 **A.**Yes.
 
-**Q.**In the framework of this research did you also assemble certain extracts from the volumes of Frank's diary relating to the extermination of Jews in the area of the Generalgouvernement?
+**Q.**In the framework of this research did you also assemble certain extracts from the volumes of Frank's diary relating to the extermination of Jews in the area of the [[LOCATION:location_152|Generalgouvernement]]?
 
 **A.**That is right.
 
@@ -44,7 +44,7 @@
 
 **Presiding Judge:** This volume of the International Military Tribunal - is that the protocol of the trial of the main war criminals?
 
-**Witness Carmel:** Yes. Document PS 2233 which was submitted by the Polish and Soviet Prosecution, and also the American Prosecution, relating to the responsibility of Eichmann - pardon me - of Frank in the main Nuremberg trial, but it does not include all the material.
+**Witness Carmel:** Yes. Document PS 2233 which was submitted by the Polish and Soviet Prosecution, and also the American Prosecution, relating to the responsibility of Eichmann - pardon me - of Frank in the main [[LOCATION:location_39|Nuremberg]] trial, but it does not include all the material.
 
 **Q.**How many volumes of Frank's diary are there, Judge Carmel?
 
@@ -76,26 +76,26 @@
 
 **Presiding Judge:** This will be T/253.
 
-**Attorney General:** Judge Carmel, are you able to tell us in general terms what Hans Frank's diary contains?
+**Attorney General:** Judge Carmel, are you able to tell us in general terms what [[PERSON:person_492|Hans Frank]]'s diary contains?
 
-**A.**The title, The Diary of Hans Frank, is likely to mislead. Actually this is a collection of minutes of meetings of the Generalgouvernement, all the activities, day by day of the Generalgouvernement, all the meetings of the Chief of Police of the Generalgouvernement with the heads of departments, and speeches having official importance. In fact this is a document containing everything that was done since the day he commenced his duties.
+**A.**The title, The Diary of [[PERSON:person_492|Hans Frank]], is likely to mislead. Actually this is a collection of minutes of meetings of the [[LOCATION:location_152|Generalgouvernement]], all the activities, day by day of the [[LOCATION:location_152|Generalgouvernement]], all the meetings of the Chief of Police of the [[LOCATION:location_152|Generalgouvernement]] with the heads of departments, and speeches having official importance. In fact this is a document containing everything that was done since the day he commenced his duties.
 
-At the beginning of the compilation I indicated that he entered his office on 23 October 1939 and continued in that capacity until May 1945, until officers of the Seventh American Army discovered in Neuhaus volumes bound in red - these 38 volumes - received them from the hands of Frank, and used them in the main trial in Nuremberg. This includes all his activities. Here and there are also Jewish issues.
+At the beginning of the compilation I indicated that he entered his office on 23 October 1939 and continued in that capacity until May 1945, until officers of the Seventh American Army discovered in Neuhaus volumes bound in red - these 38 volumes - received them from the hands of Frank, and used them in the main trial in [[LOCATION:location_39|Nuremberg]]. This includes all his activities. Here and there are also Jewish issues.
 
-The most interesting thing is that I did not find in it decisions on the Jewish question, but only Berichte (reports) - as if the Generalgouvernement had a passive role and that in fact everything had been done by the Gestapo, which received regular reports.
+The most interesting thing is that I did not find in it decisions on the Jewish question, but only Berichte (reports) - as if the [[LOCATION:location_152|Generalgouvernement]] had a passive role and that in fact everything had been done by the [[ORGANIZATION:org_344|Gestapo]], which received regular reports.
 
 **Q.**Please be good enough to turn to section 3 of your collection - this is the protocol of the second conference of the heads of departments, of 8 December 1939. Is that correct?
 
-**A.**Yes. "Meetings of the Heads of Department 1939-1940. Minutes of the second Conference of Heads of Departments of 8 December 1939. Page 3 (page 4 in the Hebrew translation) "SS Gruppenfuehrer Krueger speaks of the questions arising out of the implementation of the resettlement of residence from their places of residence (Umsiedlung). From 1 December many trains move to the zone of the Generalgouvernement, each day carrying Poles and Jews from the areas recently annexed to the Reich. These deportations will continue until approximately the middle of December. From Berlin a centralized programme has been devised, so that the heads of the provinces will be able to act in accordance therewith and to operate for a long period. In this programme the number of the Poles and the Jews who are to be resettled from their places of residence in the year 1940 has been laid down."
+**A.**Yes. "Meetings of the Heads of Department 1939-1940. Minutes of the second Conference of Heads of Departments of 8 December 1939. Page 3 (page 4 in the Hebrew translation) "SS Gruppenfuehrer [[PERSON:person_474|Krueger]] speaks of the questions arising out of the implementation of the resettlement of residence from their places of residence (Umsiedlung). From 1 December many trains move to the zone of the [[LOCATION:location_152|Generalgouvernement]], each day carrying Poles and Jews from the areas recently annexed to the Reich. These deportations will continue until approximately the middle of December. From [[LOCATION:location_1|Berlin]] a centralized programme has been devised, so that the heads of the provinces will be able to act in accordance therewith and to operate for a long period. In this programme the number of the Poles and the Jews who are to be resettled from their places of residence in the year 1940 has been laid down."
 ---
 
 **Q.**Please turn to page 5 which you have marked as page 18.
 
-**A.**This section 4 - a meeting of the heads of departments on 19 January 1940..."This concerns a modern migration of peoples. To our regret, this matter does not usually receive the attention of the central authorities in Berlin, owing to a lack of understanding of the special problems in the Generalgouvernement. The Governor General has now advised that the plan known as the 'long range plan' (Fernplan) which should have commenced on 15 January, was postponed, first of all, to 1 March."
+**A.**This section 4 - a meeting of the heads of departments on 19 January 1940..."This concerns a modern migration of peoples. To our regret, this matter does not usually receive the attention of the central authorities in [[LOCATION:location_1|Berlin]], owing to a lack of understanding of the special problems in the [[LOCATION:location_152|Generalgouvernement]]. The Governor General has now advised that the plan known as the 'long range plan' (Fernplan) which should have commenced on 15 January, was postponed, first of all, to 1 March."
 
 **Q.**Please, pass on to page 12, section 13 (your page 742).
 
-**A.**This is from Frank's diary. It is a report of his activities from 31 July 1940. It says: "Obergruppenfuehrer Krueger advises that the deportation of the entire Jewish community from the Generalgouvernement is now in the process of preparation. Memoranda have already been compiled on the manner in which the overseas operation should be carried out. SS Brigadefuehrer Streckenbach stresses that an exact description of the operation could not be given. In fact, so far it is clear only that this office has received an order to determine the number of Jews located in the entire area which had been occupied up to that point by Germany. According to the plan existing thus far, the Jews are to be sent to Madagascar."
+**A.**This is from Frank's diary. It is a report of his activities from 31 July 1940. It says: "Obergruppenfuehrer [[PERSON:person_474|Krueger]] advises that the deportation of the entire Jewish community from the [[LOCATION:location_152|Generalgouvernement]] is now in the process of preparation. Memoranda have already been compiled on the manner in which the overseas operation should be carried out. SS [[PERSON:person_493|Brigadefuehrer Streckenbach]] stresses that an exact description of the operation could not be given. In fact, so far it is clear only that this office has received an order to determine the number of Jews located in the entire area which had been occupied up to that point by [[LOCATION:location_2|Germany]]. According to the plan existing thus far, the Jews are to be sent to [[LOCATION:location_114|Madagascar]]."
 
 **Presiding Judge:** What is the date of this record?
 
@@ -103,11 +103,11 @@ The most interesting thing is that I did not find in it decisions on the Jewish 
 
 **Attorney General:** Please read on page 15 - your section 17.
 
-**A.**Yes. "Volume 15. Working Session 1941 - January - October. 15 January 1941. Annexure. Page 1. Report on the Conference, dealing with the deportation of Poles and Jews to the Generalgouvernement, in the Head Office of Security, Berlin, on 3 January 1941. Represented at this Conference, apart from the delegates of the Generalgouvernement (SS Obergruppenfuehrer Krueger, Oberregierungsrat Schepers, Raumordning and the undersigned President Westerkamp together with Dr. Fael of the internal administration), were also all the offices connected with this matter: The Reichskommissaer for Strengthening the German Nation, OKW, OKH, the Reich Ministry of Transport, the Reich Economics Ministry, the Inspector of the Security Police in the Eastern areas and the delegate of the Vienna Gau (District). SSD Gruppenfuehrer Heydrich presided. The following conclusions were approved: (1)As regards questions of resettling residents, the Generalgouvernement will deal solely with the Head Office of Reich Security (RSHA), which for its part maintains contact with all the offices in the Reich concerned with the matter. As far as the Generalgouvernement is concerned, there will be no separate action by authorities of a lower rank in the Eastern areas that have been annexed."
+**A.**Yes. "Volume 15. Working Session 1941 - January - October. 15 January 1941. Annexure. Page 1. Report on the Conference, dealing with the deportation of Poles and Jews to the [[LOCATION:location_152|Generalgouvernement]], in the Head Office of Security, [[LOCATION:location_1|Berlin]], on 3 January 1941. Represented at this Conference, apart from the delegates of the [[LOCATION:location_152|Generalgouvernement]] (SS Obergruppenfuehrer [[PERSON:person_474|Krueger]], Oberregierungsrat Schepers, Raumordning and the undersigned President Westerkamp together with Dr. Fael of the internal administration), were also all the offices connected with this matter: The Reichskommissaer for Strengthening the German Nation, OKW, OKH, the Reich Ministry of Transport, the [[ORGANIZATION:org_322|Reich Economics Ministry]], the Inspector of the Security Police in the Eastern areas and the delegate of the [[LOCATION:location_3|Vienna]] Gau (District). SSD Gruppenfuehrer Heydrich presided. The following conclusions were approved: (1)As regards questions of resettling residents, the [[LOCATION:location_152|Generalgouvernement]] will deal solely with the Head Office of Reich Security (RSHA), which for its part maintains contact with all the offices in the Reich concerned with the matter. As far as the [[LOCATION:location_152|Generalgouvernement]] is concerned, there will be no separate action by authorities of a lower rank in the Eastern areas that have been annexed."
 
-**Q.**Please pass on to page 17, your pages 66-67, a record of a meeting of the authority of the Generalgouvernement of 16 December 1941.
+**Q.**Please pass on to page 17, your pages 66-67, a record of a meeting of the authority of the [[LOCATION:location_152|Generalgouvernement]] of 16 December 1941.
 
-**A.**A meeting of the Governing Body of the Generalgouvernement in Cracow.
+**A.**A meeting of the Governing Body of the [[LOCATION:location_152|Generalgouvernement]] in Cracow.
 
 **Q.**What does Frank say?
 
@@ -115,7 +115,7 @@ The most interesting thing is that I did not find in it decisions on the Jewish 
 
 From the reports on the prevailing mood it appears that attempts are being made on purpose to speak over and again of cruelty, inflexibility and so on. I want to ask you: First of all agree with me, before I go on now to speak about the formula: On principle we shall have mercy only for the German people and, apart from that, for no one else in the world. The others also did not show any mercy towards us.
 
-As a veteran Nazi I also have to say: If the Jewish race in Europe continues to survive after the war, while we shall sacrifice our life blood for the sake of saving Europe, then the war will constitute only a partial achievement. Therefore, as far as the Jews are concerned, I shall behave on principle only in the expectation that they will disappear. They must vanish. I have begun negotiations in order to remove them towards the East. On this question a large conference will take place in January in Berlin, to which I shall send the State Secretary Dr. Buehler. This conference will be held at the Head Office for Reich Security, in the office of Obergruppenfuehrer Heydrich. At all events, a large Jewish migration will begin."
+As a veteran Nazi I also have to say: If the Jewish race in Europe continues to survive after the war, while we shall sacrifice our life blood for the sake of saving Europe, then the war will constitute only a partial achievement. Therefore, as far as the Jews are concerned, I shall behave on principle only in the expectation that they will disappear. They must vanish. I have begun negotiations in order to remove them towards the East. On this question a large conference will take place in January in [[LOCATION:location_1|Berlin]], to which I shall send the State Secretary Dr. Buehler. This conference will be held at the Head Office for Reich Security, in the office of Obergruppenfuehrer Heydrich. At all events, a large Jewish migration will begin."
 
 **Q.**. Thank you very much. Please turn to your page 19: "The Labour Commandos" (Arbeitseinsatz).
 
@@ -123,21 +123,21 @@ As a veteran Nazi I also have to say: If the Jewish race in Europe continues to 
 
 While at first sight this plan seems very attractive, after a closer acquaintance with the state of affairs one can arrive at the conclusion that with the implementation of this programme the damage that would be caused by the destruction of the existing forms of organization would be many times greater than the benefits which it is expected to derive from this measure. At all events, in my opinion, this programme at present will not bring any relief. A further suggestion coming from the Reich is to organize in the large cities operations for catching residents found in the streets.
 
-**Q.**Thank you. Now, on page 20, the passage on top, from the remarks of State Secretary Krueger.
+**Q.**Thank you. Now, on page 20, the passage on top, from the remarks of State Secretary [[PERSON:person_474|Krueger]].
 
-**A.**This is a meeting devoted to police matters, which took place at the Royal Hall in the Palace at Cracow on 18 June 1942. "State Secretary Krueger points to the fact that the Jewish operation, in all its aspects, has been prepared by the police and that its execution is merely a question of transport. In Radom and Szenstochov it is necessary to leave behind Jewish labourers for the munitions industry. Obviously it will also be necessary to leave behind the direct families of these workers, but all the others must be evacuated."
+**A.**This is a meeting devoted to police matters, which took place at the Royal Hall in the Palace at Cracow on 18 June 1942. "State Secretary [[PERSON:person_474|Krueger]] points to the fact that the Jewish operation, in all its aspects, has been prepared by the police and that its execution is merely a question of transport. In [[LOCATION:location_170|Radom]] and Szenstochov it is necessary to leave behind Jewish labourers for the munitions industry. Obviously it will also be necessary to leave behind the direct families of these workers, but all the others must be evacuated."
 
-**Q.**Kindly read the remarks of Frank on your page 21 about the meeting for dealing with the special problems of the Lublin district, extract 24.
+**Q.**Kindly read the remarks of Frank on your page 21 about the meeting for dealing with the special problems of the [[LOCATION:location_142|Lublin district]], extract 24.
 
 **A.**This was a very interesting meeting.
 
 **Presiding Judge:** Let the words speak for themselves.
 
-**Witness Carmel:** The meeting of 4 August 1942 at Cracow, from page 820 in Volume 20. This is from the diary. "Meeting for discussion of the special problems of the Lublin district. The Governor General first points out that several problems, important to the Lublin district, require joint consideration... He reads from the newspaper Krakauer Zeitung, an item about the visit of Reichsfuehrer-SS Himmler to the district of Lublin and about the instructions given on this occasion about structural alterations. A thing like this should not happen, that the administration of the Generalgouvernement should learn in this way that a Reich authority, without the knowledge of the Government authorities in Cracow, issues orders in the area of the Generalgouvernement...he is ready for any cooperation, but it cannot be that he has to learn from a newspaper about any orders of the Reich authority in one of the districts of the Generalgouvernement. This is why he invited the personalities responsible for Lublin to this discussion at Cracow."
+**Witness Carmel:** The meeting of 4 August 1942 at Cracow, from page 820 in Volume 20. This is from the diary. "Meeting for discussion of the special problems of the [[LOCATION:location_142|Lublin district]]. The Governor General first points out that several problems, important to the [[LOCATION:location_142|Lublin district]], require joint consideration... He reads from the newspaper Krakauer Zeitung, an item about the visit of Reichsfuehrer-SS Himmler to the district of [[LOCATION:location_35|Lublin]] and about the instructions given on this occasion about structural alterations. A thing like this should not happen, that the administration of the [[LOCATION:location_152|Generalgouvernement]] should learn in this way that a Reich authority, without the knowledge of the Government authorities in Cracow, issues orders in the area of the [[LOCATION:location_152|Generalgouvernement]]...he is ready for any cooperation, but it cannot be that he has to learn from a newspaper about any orders of the Reich authority in one of the districts of the [[LOCATION:location_152|Generalgouvernement]]. This is why he invited the personalities responsible for [[LOCATION:location_35|Lublin]] to this discussion at Cracow."
 
 **Q.**Please continue with the following passage.
 
-**A.**The next extract is on page 821: "The Lublin district fulfills a special role in the policy of the Reich Commissioner for Strengthening the Foundation of the German Nation. They are planning there the erection of special camps and places for absorbing a dense concentration of prisoners."
+**A.**The next extract is on page 821: "The [[LOCATION:location_142|Lublin district]] fulfills a special role in the policy of the Reich Commissioner for Strengthening the Foundation of the German Nation. They are planning there the erection of special camps and places for absorbing a dense concentration of prisoners."
 
 **Q.**Thank you. Now let us pass to your page 24. Read from the top, please.
 
@@ -145,7 +145,7 @@ While at first sight this plan seems very attractive, after a closer acquaintanc
 
 **Q.**Would you now go on to the next section?
 
-**A.**"We have been deprived of not an inconsiderable labour force from amongst the Jewish groups who had already proved their ability. It is quite clear that it creates difficulties for the work in progress, if in the midst of carrying out a programme of work for the War, comes an order that all the Jews have to be handed over for extermination. The responsibility for this does not fall on the administration of the Generalgouvernement. The instruction to destroy the Jews came from a higher authority. We are obliged merely to reconcile ourselves to the final outcome, and moreover can only inform the Reich authorities that getting rid of the Jews has brought about enormous difficulties regarding the labour force."
+**A.**"We have been deprived of not an inconsiderable labour force from amongst the Jewish groups who had already proved their ability. It is quite clear that it creates difficulties for the work in progress, if in the midst of carrying out a programme of work for the War, comes an order that all the Jews have to be handed over for extermination. The responsibility for this does not fall on the administration of the [[LOCATION:location_152|Generalgouvernement]]. The instruction to destroy the Jews came from a higher authority. We are obliged merely to reconcile ourselves to the final outcome, and moreover can only inform the Reich authorities that getting rid of the Jews has brought about enormous difficulties regarding the labour force."
 
 **Attorney General:** Thank you very much. Will the Court allow me a few more minutes? We are now approaching the end.
 
@@ -155,9 +155,9 @@ While at first sight this plan seems very attractive, after a closer acquaintanc
 
 **A.**This was a working Session ("Arbeitssitzung) of 1943.
 
-"Secret Reich Matter" - that is what it says on this protocol. This was a working Session in the Belvedere Palace in Warsaw on 25 January 1943. "Subject: Questions of police and security. Governor General Dr. Frank says: Mr. State Secretary, Mr. Krueger, you are aware that you are entitled to implement the instructions of the Reichfuehrer SS only after you hear from me beforehand. This has not been done in this case. I express regret about this, that you carried out an order of the Reichsfuehrer without giving me prior information in accordance with the Fuehrer's command... It is impossible, that in the sphere of police and security, people should comply directly with the instructions of the Reichsfuehrer while bypassing the man whom the Fuehrer appointed here; otherwise I am completely superfluous."
+"Secret Reich Matter" - that is what it says on this protocol. This was a working Session in the Belvedere Palace in [[LOCATION:location_93|Warsaw]] on 25 January 1943. "Subject: Questions of police and security. Governor General Dr. Frank says: Mr. State Secretary, Mr. [[PERSON:person_474|Krueger]], you are aware that you are entitled to implement the instructions of the Reichfuehrer SS only after you hear from me beforehand. This has not been done in this case. I express regret about this, that you carried out an order of the Reichsfuehrer without giving me prior information in accordance with the Fuehrer's command... It is impossible, that in the sphere of police and security, people should comply directly with the instructions of the Reichsfuehrer while bypassing the man whom the Fuehrer appointed here; otherwise I am completely superfluous."
 
-**Q.**Do you know as a fact from the diary that Frank submitted his resignation as a protest against the conduct of the Gestapo?
+**Q.**Do you know as a fact from the diary that Frank submitted his resignation as a protest against the conduct of the [[ORGANIZATION:org_344|Gestapo]]?
 
 **A.**He submitted his resignation twice in protest against activities, but there was actually no one else...
 
@@ -167,15 +167,15 @@ While at first sight this plan seems very attractive, after a closer acquaintanc
 
 **Q.**Please now read your page 29.
 
-**A.**This is extract 30 from volume 33. "Working Sessions 1943." On this protocol, too, it says "secret." Working Session of 31 May 1943. "Subject: The security situation in the Generalgouvernement, Page 1. At the beginning of the meeting the Governor General begins this consultation as follows:"... With special pleasure I welcome Police General SS Obergruppenfuehrer Dr. Kaltenbrunner and Deputy Minister Dr. Lammers, Reichskabinettsrat von Stutternheim and the Generals..."
+**A.**This is extract 30 from volume 33. "Working Sessions 1943." On this protocol, too, it says "secret." Working Session of 31 May 1943. "Subject: The security situation in the [[LOCATION:location_152|Generalgouvernement]], Page 1. At the beginning of the meeting the Governor General begins this consultation as follows:"... With special pleasure I welcome Police General SS Obergruppenfuehrer Dr. Kaltenbrunner and Deputy Minister Dr. Lammers, Reichskabinettsrat von Stutternheim and the Generals..."
 
-State Secretary Krueger says: "The liquidation of the Jews ("Entjudung") has without doubt also brought some relief. For the Police it was one of the most difficult tasks, very unpleasant, but it had to be done by order of the Fuehrer since it was essential in the European interest... The murder of Germans in Cracow must without doubt be attributed to the Jewish organization of the movement of young Zionists (Jung- Zionbewegung). This organization was dispersed by the police. According to proof in our possession this was a matter of Jews who escaped from the ghetto, who with the aid of a centre of forgery prepared for themselves identity certificates (Kennkarten). Not long ago he (Krueger) again received an order to carry out the liquidation of the Jews ("Entjudung") within a very short time. It became necessary to remove the Jews also from the munitions industry and the army supply enterprises, if they were not posted there specially for a vitally important task from the point of view of the War."
+State Secretary [[PERSON:person_474|Krueger]] says: "The liquidation of the Jews ("Entjudung") has without doubt also brought some relief. For the Police it was one of the most difficult tasks, very unpleasant, but it had to be done by order of the Fuehrer since it was essential in the European interest... The murder of Germans in Cracow must without doubt be attributed to the Jewish organization of the movement of young Zionists (Jung- Zionbewegung). This organization was dispersed by the police. According to proof in our possession this was a matter of Jews who escaped from the ghetto, who with the aid of a centre of forgery prepared for themselves identity certificates (Kennkarten). Not long ago he ([[PERSON:person_474|Krueger]]) again received an order to carry out the liquidation of the Jews ("Entjudung") within a very short time. It became necessary to remove the Jews also from the munitions industry and the army supply enterprises, if they were not posted there specially for a vitally important task from the point of view of the War."
 
 **Q.**Please read from the bottom of the page.
 
-**A.**Thereafter he continues: "Of the Jews there remained at work the very best forces from the physical point of view, those who were nicknamed "Maccabees" - they were excellent workers - and also a labour force of women concerning whom it was found that, from a physical point of view, they were much stronger than the Jewish men. Apart from this there was a similar experience also at the time of the evacuation of the Warsaw Ghetto. Incidentally this task was exceedingly difficult."
+**A.**Thereafter he continues: "Of the Jews there remained at work the very best forces from the physical point of view, those who were nicknamed "Maccabees" - they were excellent workers - and also a labour force of women concerning whom it was found that, from a physical point of view, they were much stronger than the Jewish men. Apart from this there was a similar experience also at the time of the evacuation of the [[LOCATION:location_93|Warsaw]] Ghetto. Incidentally this task was exceedingly difficult."
 
-**Attorney General:** Please turn to page 33, about the Majdanek camp.
+**Attorney General:** Please turn to page 33, about the [[LOCATION:location_281|Majdanek]] camp.
 
 **Witness Carmel:** This is from the diary of 1944. Extract 34 on page 32.
 
@@ -183,11 +183,11 @@ State Secretary Krueger says: "The liquidation of the Jews ("Entjudung") has wit
 
 **Attorney General:** This is page 32 at the bottom.
 
-**Witness Carmel:** This is on 15 September 1944 in Cracow. A discussion with State Secretaries Buelher and Koppe. The two Secretaries of State present to the Governor General a report on their fields of work. The subject of the discussion also covers a variety of questions about the Majdanek camp, near Lublin. Concerning this camp, as the Governor General stresses, there is a discussion at present going on in the world press, and an incitement campaign is being conducted against Germany in connection with this camp. State Secretary Dr. Buehler advises that this matter is not known at all to the administration of the Generalgouvernement since it never had any opportunity of viewing what is happening inside camps such as these. Since as a matter of fact, the camps were erected exclusively and directly, and were being run, by the Berlin centre of the SS and the Police, and hence for all their arrangements, their management and all that took place in them, only the central authorities in Berlin were responsible.
+**Witness Carmel:** This is on 15 September 1944 in Cracow. A discussion with State Secretaries Buelher and Koppe. The two Secretaries of State present to the Governor General a report on their fields of work. The subject of the discussion also covers a variety of questions about the [[LOCATION:location_281|Majdanek]] camp, near [[LOCATION:location_35|Lublin]]. Concerning this camp, as the Governor General stresses, there is a discussion at present going on in the world press, and an incitement campaign is being conducted against [[LOCATION:location_2|Germany]] in connection with this camp. State Secretary Dr. Buehler advises that this matter is not known at all to the administration of the [[LOCATION:location_152|Generalgouvernement]] since it never had any opportunity of viewing what is happening inside camps such as these. Since as a matter of fact, the camps were erected exclusively and directly, and were being run, by the [[LOCATION:location_1|Berlin]] centre of the SS and the Police, and hence for all their arrangements, their management and all that took place in them, only the central authorities in [[LOCATION:location_1|Berlin]] were responsible.
 
 But concerning a meeting of the Government for consideration of this subject is not called for; one must be satisfied with this statement of fact.
 
-The Governor General agrees with this observation and confirms that the administration of the Generalgouvernement and all its authorities and amongst them those of the district of Lublin, do not bear any responsibility for the affairs of the camp, seeing that this responsibility falls exclusively upon the person who was the supreme commander of the SS and police, Krueger, or upon the appropriate authorities of the Reich."
+The Governor General agrees with this observation and confirms that the administration of the [[LOCATION:location_152|Generalgouvernement]] and all its authorities and amongst them those of the district of [[LOCATION:location_35|Lublin]], do not bear any responsibility for the affairs of the camp, seeing that this responsibility falls exclusively upon the person who was the supreme commander of the SS and police, [[PERSON:person_474|Krueger]], or upon the appropriate authorities of the Reich."
 
 **Q.**The last extract I shall ask you to read is on page 39, page 789, from the words "We began here."
 
@@ -215,19 +215,19 @@ The Governor General agrees with this observation and confirms that the administ
 
 **A.**"Glauben Sie dass wir mit dieser Gesellschaft in 10 Jahren fertig geworden waeren?"
 
-[Continues reading] "In order that we should succeed in our war against the Jews, it was essential that we should take possession of Poland, since here, in Poland, there was a natural fertility of the Jewish people. It existed only here and in no other place. Following the extermination of the Jews of Poland, from the point of view of the essence of their blood, the future of the Jewish people had been totally done away with; for only here were there Jews who had children..."
+[Continues reading] "In order that we should succeed in our war against the Jews, it was essential that we should take possession of [[LOCATION:location_5|Poland]], since here, in [[LOCATION:location_5|Poland]], there was a natural fertility of the Jewish people. It existed only here and in no other place. Following the extermination of the Jews of [[LOCATION:location_5|Poland]], from the point of view of the essence of their blood, the future of the Jewish people had been totally done away with; for only here were there Jews who had children..."
 
 **Attorney General:** Thank you very much.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions to the witness?
 
-**Dr. Servatius:** One question, Your Honour. [To the witness] Was the name of Adolf Eichmann mentioned in these twenty- nine volumes?
+**Dr. Servatius:** One question, Your Honour. [To the witness] Was the name of [[PERSON:person_775|Adolf Eichmann]] mentioned in these twenty- nine volumes?
 
-**Witness Carmel:** The name of Adolf Eichmann was not mentioned in the twenty-nine volumes.
+**Witness Carmel:** The name of [[PERSON:person_775|Adolf Eichmann]] was not mentioned in the twenty-nine volumes.
 
 **Dr. Servatius:** Thank you very much - I have no further questions.
 
-**Judge Halevi:** Is that the same Frank who said in Nuremberg "A thousand years will pass and the disgrace of these crimes will not be removed from Germany"?
+**Judge Halevi:** Is that the same Frank who said in [[LOCATION:location_39|Nuremberg]] "A thousand years will pass and the disgrace of these crimes will not be removed from [[LOCATION:location_2|Germany]]"?
 
 **Witness Carmel:** That is correct.
 

@@ -1,4 +1,4 @@
-# Testimony of Jospeh Zalman Kleinman
+# Testimony of [[PERSON:witness_57|Jospeh Zalman Kleinman]]
 
 **Session:** 68
 
@@ -6,9 +6,9 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Joseph Zalman Kleinman.
+**Witness:** [[PERSON:person_704|Joseph Zalman Kleinman]].
 
-**Attorney General:** You live in Jerusalem, at 76 Shuk Beit Yisrael?
+**Attorney General:** You live in [[LOCATION:location_44|Jerusalem]], at 76 Shuk Beit Yisrael?
 
 **Witness Kleinman:** That is my place of work.
 
@@ -20,7 +20,7 @@
 
 **A.**Yes.
 
-**Q.**And when you were 14 you were taken to Auschwitz?
+**Q.**And when you were 14 you were taken to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes.
 
@@ -30,11 +30,11 @@
 
 **Q.**Where were you taken from?
 
-**A.**From the town Zeliz (Zeliezovce) in the Carpatho-Russian district.
+**A.**From the town Zeliz (Zeliezovce) in the [[LOCATION:location_270|Carpatho]]-Russian district.
 
 **Q.**Where were you separated from the members of your family?
 
-**A.**At the railway station at Auschwitz.
+**A.**At the railway station at [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Who separated you?
 
@@ -48,13 +48,13 @@
 
 **A.**They were taken to the gas chambers.
 
-**Q.**They were taken to the gas chambers at Auschwitz?
+**Q.**They were taken to the gas chambers at [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes.
 
 **Q.**What camp were you brought to?
 
-**A.**To Camp**A.**That was the first camp, overlooking the town of Auschwitz.
+**A.**To Camp**A.**That was the first camp, overlooking the town of [[LOCATION:location_286|Auschwitz]].
 
 **Q.**And, later on, they took away all the boys under sixteen?
 
@@ -62,19 +62,19 @@
 
 **Q.**And where were they taken to?
 
-**A.**The youngest among them were fourteen. Thirteen year olds were hardly ever put into the camp, but they were sent off with their mothers to the gas chambers. They removed all the youths between the ages of fourteen and sixteen from the huts of the adults. Altogether they gathered five hundred youths, and another five hundred such boys were also taken from another camp, and they transferred us to Camp D. Afterwards I learned that there had been a general instruction not to allow boys under the age of sixteen to leave the Auschwitz camp and to be sent to camps set up as labour camps.
+**A.**The youngest among them were fourteen. Thirteen year olds were hardly ever put into the camp, but they were sent off with their mothers to the gas chambers. They removed all the youths between the ages of fourteen and sixteen from the huts of the adults. Altogether they gathered five hundred youths, and another five hundred such boys were also taken from another camp, and they transferred us to Camp D. Afterwards I learned that there had been a general instruction not to allow boys under the age of sixteen to leave the [[LOCATION:location_286|Auschwitz]] camp and to be sent to camps set up as labour camps.
 
-**Q.**Was this, now, still at Auschwitz or at Birkenau?
+**Q.**Was this, now, still at [[LOCATION:location_286|Auschwitz]] or at [[LOCATION:location_286|Birkenau]]?
 
-**A.**All this took place at Birkenau.
+**A.**All this took place at [[LOCATION:location_286|Birkenau]].
 
-**Q.**Where were the crematoria and the gas chambers - at Birkenau or at Auschwitz?
+**Q.**Where were the crematoria and the gas chambers - at [[LOCATION:location_286|Birkenau]] or at [[LOCATION:location_286|Auschwitz]]?
 
-**A.**At Birkenau. The first two crematoria were at the two ends of the railway station - one was near the camp of Gypsies at the end of the Krankenbau (sick wards) camp - Camp F.
+**A.**At [[LOCATION:location_286|Birkenau]]. The first two crematoria were at the two ends of the railway station - one was near the camp of Gypsies at the end of the Krankenbau (sick wards) camp - Camp F.
 
 **Q.**Were you forbidden to leave the place?
 
-**A.**Yes. That was in Camp D. They housed us in two huts - Hut 27 and Hut 25. I was in Hut 26. Since this was a labour camp, the Auschwitz main camp, they were all old- timers, all of them with numbers on their arms, and we, the young ones, were new and without numbers. I do not know for what purpose they brought us there and shut us in...
+**A.**Yes. That was in Camp D. They housed us in two huts - Hut 27 and Hut 25. I was in Hut 26. Since this was a labour camp, the [[LOCATION:location_286|Auschwitz]] main camp, they were all old- timers, all of them with numbers on their arms, and we, the young ones, were new and without numbers. I do not know for what purpose they brought us there and shut us in...
 
 **Q.**Did some of the youths manage to steal out from time to time?
 
@@ -141,11 +141,11 @@ Several of us youths went up to him and helped him get up from the floor. We ask
 
 **A.**First they spoke of putting us into quarantine for three weeks, and Dr. Mengele would come to visit us every second day. Dr. Mengele and his assistant, Dr. Thilo, visited us every two days. They assigned three doctors to us in the hut and almost every day we underwent a medical examination. They brought us an antiseptic and every morning we had to rinse our mouths with this disinfectant. Each week Dr. Mengele held a parade, and we would pass in front of him naked and he would examine us.
 
-Afterwards, three weeks later, there was an outbreak of mumps - several of the youths contracted mumps. Then Mengele came and each time would argue and talk to the doctors in a loud voice. There were three doctors, one was a Polish Christian and another was a Jew, a Norwegian doctor; he was the only Jew I had ever met from Norway.
+Afterwards, three weeks later, there was an outbreak of mumps - several of the youths contracted mumps. Then Mengele came and each time would argue and talk to the doctors in a loud voice. There were three doctors, one was a Polish Christian and another was a Jew, a Norwegian doctor; he was the only Jew I had ever met from [[LOCATION:location_29|Norway]].
 
 **Q.**Do you remember his name?
 
-**A.**I don't remember his name - I only remember that he was one of the most cheerful people I met in Auschwitz. And we had another Jewish doctor, from the city of Tarnow. This doctor was a terrible pessimist, and always used to say: "Yes, yes, children, it is impossible to leave Auschwitz except through the chimney, and when your time comes, you will also leave that way." He died several weeks later from dysentery, or something like that.
+**A.**I don't remember his name - I only remember that he was one of the most cheerful people I met in [[LOCATION:location_286|Auschwitz]]. And we had another Jewish doctor, from the city of [[LOCATION:location_90|Tarnow]]. This doctor was a terrible pessimist, and always used to say: "Yes, yes, children, it is impossible to leave [[LOCATION:location_286|Auschwitz]] except through the chimney, and when your time comes, you will also leave that way." He died several weeks later from dysentery, or something like that.
 
 **Q.**Were the Festivals, the Jewish Holidays, days of special anxiety?
 
@@ -153,7 +153,7 @@ Afterwards, three weeks later, there was an outbreak of mumps - several of the y
 
 **Q.**Why?
 
-**A.**The old-timers always used to hint to us: "Wait, wait children, you won't get sweets in Auschwitz, the Festivals are approaching." Here I should like to mention...
+**A.**The old-timers always used to hint to us: "Wait, wait children, you won't get sweets in [[LOCATION:location_286|Auschwitz]], the Festivals are approaching." Here I should like to mention...
 
 **Q.**Please answer my question; why were the Festivals days of anxiety?
 
@@ -165,7 +165,7 @@ Afterwards, three weeks later, there was an outbreak of mumps - several of the y
 
 **Q.**Tell us what happened.
 
-**A.**This happened in the Gypsies' camp. At that time the Gypsies' camp already served as a transit camp for the Jews of Hungary and, after that, for the Jews of the Lodz Ghetto. There were three thousand of us youths in special barracks, inside the "Kinderblocken" (children's blocks). This occurred on the Friday before Rosh Hashana. Rosh Hashana that year fell on a Monday and a Tuesday. Mengele showed up, together with his assistant, Dr. Thilo, on the Friday, towards evening, while the roll-call was taking place. He passed by the "Kinderblocken" during the roll-call, made a selection, ordered us to undress to the waist, and he moved on. We were in the last hut of the boys' row.
+**A.**This happened in the Gypsies' camp. At that time the Gypsies' camp already served as a transit camp for the Jews of [[LOCATION:location_24|Hungary]] and, after that, for the Jews of the [[LOCATION:location_81|Lodz]] Ghetto. There were three thousand of us youths in special barracks, inside the "Kinderblocken" (children's blocks). This occurred on the Friday before Rosh Hashana. Rosh Hashana that year fell on a Monday and a Tuesday. Mengele showed up, together with his assistant, Dr. Thilo, on the Friday, towards evening, while the roll-call was taking place. He passed by the "Kinderblocken" during the roll-call, made a selection, ordered us to undress to the waist, and he moved on. We were in the last hut of the boys' row.
 
 **Q.**How many boys were there?
 
@@ -193,21 +193,21 @@ Afterwards, three weeks later, there was an outbreak of mumps - several of the y
 
 **Q.**German or Jewish Kapos?
 
-**A.**Most of them were German criminals. And they began loading them on the trucks - there were terrible shouts; cries of "Shema Yisrael" - we had never before heard such a thing in Auschwitz; hundreds of thousands of people in Auschwitz had been taken to the gas chambers during the summer but usually they did not shout, they did not know where they were being taken to. But we, who had already been in the camp some time, knew what was happening in Auschwitz.
+**A.**Most of them were German criminals. And they began loading them on the trucks - there were terrible shouts; cries of "Shema Yisrael" - we had never before heard such a thing in [[LOCATION:location_286|Auschwitz]]; hundreds of thousands of people in [[LOCATION:location_286|Auschwitz]] had been taken to the gas chambers during the summer but usually they did not shout, they did not know where they were being taken to. But we, who had already been in the camp some time, knew what was happening in [[LOCATION:location_286|Auschwitz]].
 
 **Q.**What happened on Yom Kippur?
 
-**A.**There were about two thousand youths left. We thought that perhaps that would be the end of the matter. Then, the day before Yom Kippur - I remember - in the morning the news spread around that they were going to distribute an additional ration of bread. Usually they would hand out a quarter or a fifth of a loaf of bread; that day they brought to our hut a ration of a quarter, a third of a loaf of bread, together with additions of cheese and other items. There had never been anything like that in Auschwitz. We were very glad that we would be able to fast the next day.
+**A.**There were about two thousand youths left. We thought that perhaps that would be the end of the matter. Then, the day before Yom Kippur - I remember - in the morning the news spread around that they were going to distribute an additional ration of bread. Usually they would hand out a quarter or a fifth of a loaf of bread; that day they brought to our hut a ration of a quarter, a third of a loaf of bread, together with additions of cheese and other items. There had never been anything like that in [[LOCATION:location_286|Auschwitz]]. We were very glad that we would be able to fast the next day.
 
 **Q.**That means, you thought that you would be able to eat more on the eve of Yom Kippur in order to fast the following day?
 
 **A.**Yes. All day the boys spoke about this sudden generosity. And we were happy that we would be able to fast the following day. But we still did not know what was in store for us that day. During the afternoon, roughly at three o'clock, suddenly there was an order for a curfew. There was shouting in the street. We had hardly managed to get inside the barracks when a new order was given - all the boys were to go to the football field. There was a football field in the camp which evidently was intended for the Gypsies who had previously been in this camp and who were put to death a few weeks before. Each hut commander brought his boys to the football field.
 
-A lot was happening there. The chief official, all the camp officials, every Kapo and the hut commanders were assembled on the field and arranged us in groups of hundreds. Someone started the rumour that they were going to take us to gather the potato harvest from the environs of Auschwitz. They formed us into groups - we were two thousand youths. Suddenly a shudder passed over the entire ground as if we had been struck by a electric shock. The "Angel of Death" appeared.
+A lot was happening there. The chief official, all the camp officials, every Kapo and the hut commanders were assembled on the field and arranged us in groups of hundreds. Someone started the rumour that they were going to take us to gather the potato harvest from the environs of [[LOCATION:location_286|Auschwitz]]. They formed us into groups - we were two thousand youths. Suddenly a shudder passed over the entire ground as if we had been struck by a electric shock. The "Angel of Death" appeared.
 
 **Q.**Who was that?
 
-**A.**Dr. Mengele appeared, riding his bicycle; someone approached him, took the bicycle from him and placed it near the hut. I was standing near the road with my group. Dr. Mengele folded his hands behind his back, he was tight- lipped as usual, he went onto the field, lifted his hand so that his gaze could take in the entire field. Then his glance fell on a small boy, about fifteen years old, possibly fourteen, something like that, who was standing not far from me in the front row; he was a boy from the Lodz Ghetto, I remember his face very well, he was blond, thin and very sunburnt. His face was covered in freckles. He stood in the front row, Mengele came up to him and asked him: "How old are you?" The boy was shaking and said: "I am eighteen years old." I saw immediately that Dr. Mengele was very angry and he began shouting: "I'll show you!" Then he started shouting: Bring me a hammer, nails and a "Leiste" - a sort of narrow plank.
+**A.**Dr. Mengele appeared, riding his bicycle; someone approached him, took the bicycle from him and placed it near the hut. I was standing near the road with my group. Dr. Mengele folded his hands behind his back, he was tight- lipped as usual, he went onto the field, lifted his hand so that his gaze could take in the entire field. Then his glance fell on a small boy, about fifteen years old, possibly fourteen, something like that, who was standing not far from me in the front row; he was a boy from the [[LOCATION:location_81|Lodz]] Ghetto, I remember his face very well, he was blond, thin and very sunburnt. His face was covered in freckles. He stood in the front row, Mengele came up to him and asked him: "How old are you?" The boy was shaking and said: "I am eighteen years old." I saw immediately that Dr. Mengele was very angry and he began shouting: "I'll show you!" Then he started shouting: Bring me a hammer, nails and a "Leiste" - a sort of narrow plank.
 
 Somebody ran off right away and we stood there, looking at him in absolute silence. The silence of death prevailed on the field; he was standing in the middle and all of us were looking at him. Meanwhile this man came back with the tools, and as soon as he approached, Dr. Mengele went up to one of the boys, standing in the front row; he had a round face and looked fine. Dr. Mengele went up to him, grabbed him by the shoulder and took him to the goal-post on the football field. There were two goal-posts for a game of football. He led him by the shoulder, and the man with the tools walked with him. He stood him against one of the goal- posts and gave orders to knock this plank in at a height above the boy's head so that he formed a kind of inverted "L." And then Dr. Mengele gave orders for the first group to pass underneath this plank. The first group began walking in single file.
 
@@ -270,39 +270,39 @@ Dr. Mengele noticed what was happening. He began shouting at the guards and at t
 
 **Q.**Did you see any connection between Yom Kippur and this method of selection?
 
-**A.**We gained the impression that Mengele wanted to show us - there it was written in the prayer "He causes his flock to pass beneath his rod" - and he wanted to show the Jews of Auschwitz that he was the one who was causing us to pass, and no-one else.
+**A.**We gained the impression that Mengele wanted to show us - there it was written in the prayer "He causes his flock to pass beneath his rod" - and he wanted to show the Jews of [[LOCATION:location_286|Auschwitz]] that he was the one who was causing us to pass, and no-one else.
 
 **Presiding Judge:** Was Dr. Mengele so well-informed in such matters?
 
-**Witness Kleinman:** Apparently he was well-informed in such matters, for there had never been such a selection in Auschwitz.
+**Witness Kleinman:** Apparently he was well-informed in such matters, for there had never been such a selection in [[LOCATION:location_286|Auschwitz]].
 
 **Attorney General:** Did he want to prove that he was causing his flock to pass under his rod?
 
-**A.**Yes. In this way one thousand boys remained. We realized that this was a method of exterminating on Festival days. We expected Mengele to come on the first days of the Succot (the Festival of Tabernacles). He did not come. We knew he would surely come on one of the last days of the Festival, and that he had deferred it until then. During those days transports arrived at Auschwitz from the Theresienstadt Ghetto.
+**A.**Yes. In this way one thousand boys remained. We realized that this was a method of exterminating on Festival days. We expected Mengele to come on the first days of the Succot (the Festival of Tabernacles). He did not come. We knew he would surely come on one of the last days of the Festival, and that he had deferred it until then. During those days transports arrived at [[LOCATION:location_286|Auschwitz]] from the [[LOCATION:location_293|Theresienstadt Ghetto]].
 
-During the first days of Succort I got to know that they were registering a transport to be sent to a labour camp. About one hundred of us youths immediately ran over there. We managed to register for that transport. We thought that perhaps a miracle would occur and that there would be no inspection, and in this way we would leave Auschwitz. First of all they stamped our arms with Indian ink, so that strangers and others should not mingle with us. The day after the registration a delegation, consisting of two doctors and a professor, appeared at the hut. They were all Jews. I think the professor was Prof. Epstein of Prague, the director of the hospital in the Gypsies' camp. He made a medical examination of the transport.
+During the first days of Succort I got to know that they were registering a transport to be sent to a labour camp. About one hundred of us youths immediately ran over there. We managed to register for that transport. We thought that perhaps a miracle would occur and that there would be no inspection, and in this way we would leave [[LOCATION:location_286|Auschwitz]]. First of all they stamped our arms with Indian ink, so that strangers and others should not mingle with us. The day after the registration a delegation, consisting of two doctors and a professor, appeared at the hut. They were all Jews. I think the professor was Prof. Epstein of [[LOCATION:location_4|Prague]], the director of the hospital in the Gypsies' camp. He made a medical examination of the transport.
 
-**Q.**Do you think Epstein was from Prague, or Oslo?
+**Q.**Do you think Epstein was from [[LOCATION:location_4|Prague]], or [[LOCATION:location_219|Oslo]]?
 
 **A.**He was called Prof. Epstein, the director of the hospital in the camp of the Gypsies. I don't know where he came from. He gave everyone a medical examination, to see whether they were capable of working. When my turn came, he began feeling for the muscles of my arm. I did not have any. I saw that he was hesitating, I thought this was a critical moment. I looked at him straight in the eyes. He knew that if he removed me from the line, it was as if he was imposing a death sentence on me. Apparently he did not want to have this on his conscience. After hesitating for some time he left me with this transport. The same evening they took us to a bath-house, and gave us clean clothes to wear.
 
-**Q.**You left Auschwitz with his transport?
+**Q.**You left [[LOCATION:location_286|Auschwitz]] with his transport?
 
 **A.**Yes.
 
 **Q.**What happened to those who were left behind?
 
-**A.**I should like to explain something here. We were one hundred youths. We heard at the gate, before leaving the camp, that Mengele had arrived. We, the smaller ones, already knew why he had come. We began running away from the ranks - we fled as if from a sinking ship. Not one of the boys remained in the ranks. Mengele sat with two officials at a table in the middle of the road and the entire transport passed before him. There were a few tall boys who took the risk and thought they were sufficiently big for Mengele not to remove them from the ranks. But he took them out as well. Mengele was not going to let any youth leave Auschwitz.
+**A.**I should like to explain something here. We were one hundred youths. We heard at the gate, before leaving the camp, that Mengele had arrived. We, the smaller ones, already knew why he had come. We began running away from the ranks - we fled as if from a sinking ship. Not one of the boys remained in the ranks. Mengele sat with two officials at a table in the middle of the road and the entire transport passed before him. There were a few tall boys who took the risk and thought they were sufficiently big for Mengele not to remove them from the ranks. But he took them out as well. Mengele was not going to let any youth leave [[LOCATION:location_286|Auschwitz]].
 
 In the end, while we were still circling around, most despaired and returned - each one to his own hut. But my brother and I and a few other boys wandered around in the vicinity and thought that perhaps it would be possible to steal into this transport. And this turned out to be so. Ten or twelve boys succeeded in stealing back into the transport.
 
-**Q.**Did you leave Auschwitz with this transport?
+**Q.**Did you leave [[LOCATION:location_286|Auschwitz]] with this transport?
 
 **A.**Yes.
 
 **Q.**Where did you go to?
 
-**A.**To Camp Kaufering 4. That was in the Dachau area. Among the fifteen hundred men we were about twelve boys. Those who remained in the camp, about one thousand boys, were taken for selection on Simhat Torah. About eight hundred of them were brought, at mid-day, to the gas chambers. We arrived at the Kaufering camp.
+**A.**To Camp Kaufering 4. That was in the [[LOCATION:location_32|Dachau]] area. Among the fifteen hundred men we were about twelve boys. Those who remained in the camp, about one thousand boys, were taken for selection on Simhat Torah. About eight hundred of them were brought, at mid-day, to the gas chambers. We arrived at the Kaufering camp.
 
 **Q.**In Camp Kaufering 4 there were fifteen hundred men?
 
@@ -330,7 +330,7 @@ We worked for six weeks in that camp. After that the Germans converted it into a
 
 **Presiding Judge:** What work were these boys doing during this period?
 
-**Witness Kleinman:** In Auschwitz?
+**Witness Kleinman:** In [[LOCATION:location_286|Auschwitz]]?
 
 **Q.**Yes.
 

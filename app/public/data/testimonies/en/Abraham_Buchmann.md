@@ -1,4 +1,4 @@
-# Testimony of Abraham Buchmann
+# Testimony of [[PERSON:witness_13|Abraham Buchmann]]
 
 **Session:** 63
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Avraham Buchman.
+**Witness:** [[PERSON:person_684|Avraham Buchman]].
 
 **Attorney General:** You live in Givatayim, at 18 Rehov Gnessin?
 
@@ -16,7 +16,7 @@
 
 **A.**Yes.
 
-**Q.**In August 1939, you were mobilized for service with the Polish army; you were in Poland at the time?
+**Q.**In August 1939, you were mobilized for service with the Polish army; you were in [[LOCATION:location_5|Poland]] at the time?
 
 **A.**Yes.
 
@@ -36,7 +36,7 @@
 
 **A.**In Jessnitz, near Guben.
 
-**Q.**In Germany?
+**Q.**In [[LOCATION:location_2|Germany]]?
 
 **A.**Yes.
 
@@ -56,7 +56,7 @@
 
 **A.**The entire camp was disbanded, all the prisoners were sent to work in various places; only the Jews remained in this place, and, at the end of 1939, all the Jews from all the different places of work were concentrated into this camp, Stalag 3b.
 
-**Q.**when were you sent back to Poland?
+**Q.**when were you sent back to [[LOCATION:location_5|Poland]]?
 
 **A.**At the beginning of 1940.
 
@@ -66,7 +66,7 @@
 
 **Q.**Where did they take you to?
 
-**A.**To Poland, to a town called Szubin, Stalag 21b, if I remember correctly.
+**A.**To [[LOCATION:location_5|Poland]], to a town called Szubin, Stalag 21b, if I remember correctly.
 
 **Q.**Did they transfer only the Jews?
 
@@ -86,18 +86,18 @@
 
 **Judge Halevi:** Who did not wear uniform?
 
-**Witness Buchman:** Later on, in Lublin, Jewish prisoners arrived wearing wooden shoes and blue tunics.
+**Witness Buchman:** Later on, in [[LOCATION:location_35|Lublin]], Jewish prisoners arrived wearing wooden shoes and blue tunics.
 ---
 
 **Q.**In Szubin were all of you in uniform?
 
 **A.**Yes, in Szubin we all wore uniforms.
 
-**Attorney General:** From Szubin you were transferred to Czestochowa?
+**Attorney General:** From Szubin you were transferred to [[LOCATION:location_160|Czestochowa]]?
 
 **Witness Buchman:** No, to Lubliniec.
 
-**Q.**And from Lubliniec to Czestochowa?
+**Q.**And from Lubliniec to [[LOCATION:location_160|Czestochowa]]?
 
 **A.**Yes.
 
@@ -105,17 +105,17 @@
 
 **A.**At the beginning of February 1940, about the 5th or 6th of the month.
 
-**Q.**And where were you taken from Czestochowa?
+**Q.**And where were you taken from [[LOCATION:location_160|Czestochowa]]?
 
-**A.**To Lublin.
+**A.**To [[LOCATION:location_35|Lublin]].
 
-**Q.**Who met you at the Lublin railway station?
+**Q.**Who met you at the [[LOCATION:location_35|Lublin]] railway station?
 
 **A.**A German officer in grey SS uniform, with the death-head symbol on his cap.
 
-**Q.**Did they make any announcement there, at the Lublin railway station?
+**Q.**Did they make any announcement there, at the [[LOCATION:location_35|Lublin]] railway station?
 
-**A.**When we stood there being counted, the soldier or officer who was in charge of our column announced our number and handed us over to another officer, who announced that he was receiving a group of prisoners of war. With our own ears, we heard him saying: "I am handing over to you a group of prisoners of war." The man who received us told us that we were about to enter a detention camp, and if anyone escaped from the camp, ten other prisoners would be shot on his account. This was said to us when we arrived at the railway station at Lublin.
+**A.**When we stood there being counted, the soldier or officer who was in charge of our column announced our number and handed us over to another officer, who announced that he was receiving a group of prisoners of war. With our own ears, we heard him saying: "I am handing over to you a group of prisoners of war." The man who received us told us that we were about to enter a detention camp, and if anyone escaped from the camp, ten other prisoners would be shot on his account. This was said to us when we arrived at the railway station at [[LOCATION:location_35|Lublin]].
 
 **Q.**Did he say anything about your still being regarded as prisoners of war?
 
@@ -123,7 +123,7 @@
 
 **Q.**Where did they take you to?
 
-**A.**To a camp in Lublin.
+**A.**To a camp in [[LOCATION:location_35|Lublin]].
 
 **Q.**In what locality?
 
@@ -133,7 +133,7 @@
 
 **A.**I don't remember the name of that street.
 
-**Q.**Do the words "Lipowa 7" mean anything to you?
+**Q.**Do the words "[[LOCATION:location_282|Lipowa 7]]" mean anything to you?
 
 **A.**Yes, yes. Lipowa 6.
 
@@ -141,7 +141,7 @@
 
 **A.**I don't remember the number.
 
-**Q.**This is a well-known place in the literature as well. How long did you remain in that camp, Lipowa 7?
+**Q.**This is a well-known place in the literature as well. How long did you remain in that camp, [[LOCATION:location_282|Lipowa 7]]?
 
 **A.**About two days.
 
@@ -179,7 +179,7 @@
 
 **Q.**And so, they took you further on foot?
 
-**A.**Early in the morning, they again made us march, and we were on our way. We were not given any food. After a few kilometres, after we had gone in the direction which afterwards turned out to be the direction of Lubartow, they began distributing food, bread which they had taken along all the way from Lublin. The bread was carried on a cart. Instead of distributing the food in the usual way as it was done in prison camps, in an orderly fashion, they began throwing it into the snow. We were so starved for bread, that we kept running about trying to grab the bread. They dealt with the disorder which resulted from this, by using their truncheons. The bread had been supplied by the Jewish community in Lublin. The bread was frozen like a piece of ice. Whoever managed to grab a piece of bread in such a way - managed. The rest remained in the snow. We had to continue on our way. They made us march on.
+**A.**Early in the morning, they again made us march, and we were on our way. We were not given any food. After a few kilometres, after we had gone in the direction which afterwards turned out to be the direction of Lubartow, they began distributing food, bread which they had taken along all the way from [[LOCATION:location_35|Lublin]]. The bread was carried on a cart. Instead of distributing the food in the usual way as it was done in prison camps, in an orderly fashion, they began throwing it into the snow. We were so starved for bread, that we kept running about trying to grab the bread. They dealt with the disorder which resulted from this, by using their truncheons. The bread had been supplied by the Jewish community in [[LOCATION:location_35|Lublin]]. The bread was frozen like a piece of ice. Whoever managed to grab a piece of bread in such a way - managed. The rest remained in the snow. We had to continue on our way. They made us march on.
 
 **Q.**Did you reach a place called Biala Podlaska?
 
@@ -223,7 +223,7 @@ In the end, darkness fell, and we heard how the door of the loft where we were w
 
 **A.**The war invalids were the first to be shot, for they were weak and not able to walk. There was one man who was shot in his lungs.
 
-**Q.**Of the 627 who left Lublin, how many reached Biala Podlaska?
+**Q.**Of the 627 who left [[LOCATION:location_35|Lublin]], how many reached Biala Podlaska?
 
 **A.**About 280 or 284.
 
@@ -237,7 +237,7 @@ In the end, darkness fell, and we heard how the door of the loft where we were w
 
 **Q.**My last question, Mr. Buchman. You started saying something about the translator Grauer, who spoke to one of the SS men. He came back and said something to you. What did he say?
 
-**A.**This Grauer approached the German officer, pleaded with him and told him that we were prisoners of war, and that, by all international laws, it was forbidden to shoot us. Then the officer replied that an order had been received from Berlin to shoot all of us, but the Germans needed labour to construct that airfield and, therefore, they were leaving some alive.
+**A.**This Grauer approached the German officer, pleaded with him and told him that we were prisoners of war, and that, by all international laws, it was forbidden to shoot us. Then the officer replied that an order had been received from [[LOCATION:location_1|Berlin]] to shoot all of us, but the Germans needed labour to construct that airfield and, therefore, they were leaving some alive.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 

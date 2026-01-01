@@ -1,4 +1,4 @@
-# Testimony of Kalman Teigmann
+# Testimony of [[PERSON:witness_60|Kalman Teigmann]]
 
 **Session:** 66
 
@@ -8,7 +8,7 @@
 
 **Witness:** Kalman Teigman.
 
-**Attorney General:** Mr. Teigman, you live in Tel Aviv, at 8 Rehov Hasadna?
+**Attorney General:** Mr. Teigman, you live in [[LOCATION:location_42|Tel Aviv]], at 8 Rehov Hasadna?
 
 **Witness Teigman:** No. In the meantime, I have changed my address.
 
@@ -20,7 +20,7 @@
 
 **A.**Yes.
 
-**Q.**When the World War broke out, you were in the Warsaw Ghetto, and on 4 September 1942, you were transferred to Treblinka?
+**Q.**When the World War broke out, you were in the [[LOCATION:location_93|Warsaw]] Ghetto, and on 4 September 1942, you were transferred to [[LOCATION:location_173|Treblinka]]?
 
 **A.**Yes.
 
@@ -28,9 +28,9 @@
 
 **A.**Until the outbreak of the revolt, on 2 August 1943.
 
-**Q.**Please describe for us your journey to Treblinka, accompanied by your mother.
+**Q.**Please describe for us your journey to [[LOCATION:location_173|Treblinka]], accompanied by your mother.
 
-**A.**It was on 3 or 4 September. They removed me, together with my mother, from the premises of the factory where I was working in the Warsaw Ghetto. It was a factory for calculating machines, Astra Werke - adding machines. They removed us from the premises of the factory and took us to the square which we called the Umschlagplatz. We stood there for several hours and towards evening, they loaded us on to freight cars. They squeezed about one hundred people, or even more, into each car. The lack of air made breathing very difficult. A number of people certainly fainted, at least that is what was said. Light hardly entered - there was a small window there, and I had the impression that there was chlorine in these cars.
+**A.**It was on 3 or 4 September. They removed me, together with my mother, from the premises of the factory where I was working in the [[LOCATION:location_93|Warsaw]] Ghetto. It was a factory for calculating machines, Astra Werke - adding machines. They removed us from the premises of the factory and took us to the square which we called the Umschlagplatz. We stood there for several hours and towards evening, they loaded us on to freight cars. They squeezed about one hundred people, or even more, into each car. The lack of air made breathing very difficult. A number of people certainly fainted, at least that is what was said. Light hardly entered - there was a small window there, and I had the impression that there was chlorine in these cars.
 
 **Q.**What cars were they?
 
@@ -55,9 +55,9 @@
 
 Once again, the carriages moved, and we came to a certain place. Suddenly we heard shouts in German: "Everybody out, and take all your possessions and parcels with you." Of course, they began immediately hitting people with their rifles and clubs, shooting people who did not manage to get out quickly, most of them elderly people, sick persons, and those who had fainted, and those met their deaths in the freight cars or near the platform. And then we assembled on the platform, and they made us run in the direction of the gate. The gate led into a large yard.
 
-**Q.**Was this already inside Treblinka?
+**Q.**Was this already inside [[LOCATION:location_173|Treblinka]]?
 
-**A.**Yes, this was inside the Treblinka camp.
+**A.**Yes, this was inside the [[LOCATION:location_173|Treblinka]] camp.
 
 **Q.**Please look behind you. Are you able to identify the illustration behind you?
 
@@ -77,7 +77,7 @@ Once again, the carriages moved, and we came to a certain place. Suddenly we hea
 
 **Witness Teigman:** The train came in up to this point [he points it out on the sketch] in this direction, through the gate which was here. Here was the platform. From the platform, we continued walking towards the gate. At this point, there was a fence with a gate, and here was the yard. Thats right: Here there was a well, and two huts also stood here. These are the two huts which were placed inside the yard, and near them there was a well. I am almost certain that this is how it was. Here there was a garage, a motor repair shop, a hut where they repaired vehicles. Here, later, were the buildings in which we lived, the staff and the prisoners. Here were the workshops.
 
-**Q.**What was the name of this section of the camp where you were? By what number was it called? Treblinka 1 or Treblinka 2?
+**Q.**What was the name of this section of the camp where you were? By what number was it called? [[LOCATION:location_173|Treblinka]] 1 or [[LOCATION:location_173|Treblinka]] 2?
 
 **A.**They called it Camp 1.
 
@@ -153,11 +153,11 @@ All these people who were killed on the platform, or those who fainted or who st
 
 **Q.**Where did all these articles go to?
 
-**A.**As far as we knew, as the talk went in the camp, all of it went to Germany.
+**A.**As far as we knew, as the talk went in the camp, all of it went to [[LOCATION:location_2|Germany]].
 
 **Q.**Who shot the people at the Lazarette?
 
-**A.**There were SS men: Scharfuehrer Mentz or Minz - I do not remember his exact name; they called him Frankenstein, since he had a face which really was frightening to look at - I think his name was Scharfuehrer Minz. The second was Scharfuehrer Miete, he was from Berlin. The third was Scharfuehrer Blitz. And they were helped by one of the Ukrainians, but I don't remember his name.
+**A.**There were SS men: Scharfuehrer Mentz or Minz - I do not remember his exact name; they called him Frankenstein, since he had a face which really was frightening to look at - I think his name was Scharfuehrer Minz. The second was Scharfuehrer Miete, he was from [[LOCATION:location_1|Berlin]]. The third was Scharfuehrer Blitz. And they were helped by one of the Ukrainians, but I don't remember his name.
 
 **Q.**Once a transport of children arrived, do you remember?
 
@@ -179,21 +179,21 @@ All these people who were killed on the platform, or those who fainted or who st
 
 **A.**They were Jews.
 
-**Q.**Do you remember a transport of Jews from Grodno?
+**Q.**Do you remember a transport of Jews from [[LOCATION:location_188|Grodno]]?
 
 **A.**Yes.
 
 **Q.**What happened?
 
-**A.**The transport of Jews from Grodno arrived, that is to say, it was already the second transport. It arrived towards evening.
+**A.**The transport of Jews from [[LOCATION:location_188|Grodno]] arrived, that is to say, it was already the second transport. It arrived towards evening.
 
 **Q.**Before that, was it preceded by another transport?
 
-**A.**The transport that preceded it was much larger, apparently from the environs of Warsaw - I don't know.
+**A.**The transport that preceded it was much larger, apparently from the environs of [[LOCATION:location_93|Warsaw]] - I don't know.
 
 **Q.**Did they go to the gas chambers?
 
-**A.**They went to the gas chambers. After that, came the transport from Grodno. This was already towards the evening, and the people who entered the courtyard between those two huts refused to undress. They were told to remove their clothes, to tie their shoes well together; they were given rope, wire, and they were strict about that.
+**A.**They went to the gas chambers. After that, came the transport from [[LOCATION:location_188|Grodno]]. This was already towards the evening, and the people who entered the courtyard between those two huts refused to undress. They were told to remove their clothes, to tie their shoes well together; they were given rope, wire, and they were strict about that.
 
 **Q.**That they should tie their shoes together?
 
@@ -217,7 +217,7 @@ All these people who were killed on the platform, or those who fainted or who st
 
 **Q.**Can you identify it in the second picture also?
 
-**A.**In the second picture, one sees it differently from here [points to it]. The people inside the small building who received all the documents and money used to be called Goldjuden (gold Jews). The person in charge was someone named Scharfuehrer Suchomit. I believe he was from Sudetenland, for he spoke with a Viennese or Austrian accent.
+**A.**In the second picture, one sees it differently from here [points to it]. The people inside the small building who received all the documents and money used to be called Goldjuden (gold Jews). The person in charge was someone named Scharfuehrer Suchomit. I believe he was from [[LOCATION:location_74|Sudetenland]], for he spoke with a Viennese or Austrian accent.
 
 **Q.**Was it there that they told the people that they would be taken to work, and that they had to take a bath?
 
@@ -229,9 +229,9 @@ All these people who were killed on the platform, or those who fainted or who st
 
 **Q.**Even after the blows at the railway station, after the whipping?
 
-**A.**People were confused, for it was done at tremendous speed. I think the people did not even have time to think. Each one fled and ran fast, so as not to receive blows. But perhaps we can pass on to the transport from Grodno.
+**A.**People were confused, for it was done at tremendous speed. I think the people did not even have time to think. Each one fled and ran fast, so as not to receive blows. But perhaps we can pass on to the transport from [[LOCATION:location_188|Grodno]].
 
-**Q.**Let us go back now to the transport from Grodno.
+**Q.**Let us go back now to the transport from [[LOCATION:location_188|Grodno]].
 
 **A.**Amongst them there were men who called out to the others not to get undressed. Apparently, they realized what was going on and they knew. And so they refused. Then the Germans and the Ukrainians began beating them. They also shot them. I also remember SS men and Ukrainians who were sitting on the roofs on the two huts I mentioned, with automatic weapons, and they also fired into the crowd.
 
@@ -239,7 +239,7 @@ Despite all this, the people were not ready to undress. We stood some distance a
 
 **Q.**When was this?
 
-**A.**This was several months after I reached Treblinka. I don't remember exactly when.
+**A.**This was several months after I reached [[LOCATION:location_173|Treblinka]]. I don't remember exactly when.
 
 **Q.**In 1942?
 
@@ -267,11 +267,11 @@ Despite all this, the people were not ready to undress. We stood some distance a
 
 **Q.**Who was he?
 
-**A.**He was a doctor. I think he came from Warsaw. I'm not sure. He attended to the Ukrainians and also to the Germans.
+**A.**He was a doctor. I think he came from [[LOCATION:location_93|Warsaw]]. I'm not sure. He attended to the Ukrainians and also to the Germans.
 
-**Q.**Was he together with you in Treblinka 1?
+**Q.**Was he together with you in [[LOCATION:location_173|Treblinka]] 1?
 
-**A.**Yes. I remember that, on one occasion, one of the commanders, named Kurt Franz - he was an Untersturmfuehrer, at first an Oberscharfuehrer and afterwards he was promoted - searched him. I don't know why he did this. Perhaps someone had informed against him, or perhaps this was just a routine search which they made on most of the inmates of the camp; money was found on his person. Chorazycki knew right away what was in store for him: Where money was found, people were instantly shot, killed or hanged.
+**A.**Yes. I remember that, on one occasion, one of the commanders, named [[PERSON:person_696|Kurt Franz]] - he was an Untersturmfuehrer, at first an Oberscharfuehrer and afterwards he was promoted - searched him. I don't know why he did this. Perhaps someone had informed against him, or perhaps this was just a routine search which they made on most of the inmates of the camp; money was found on his person. Chorazycki knew right away what was in store for him: Where money was found, people were instantly shot, killed or hanged.
 
 **Q.**Do you know for what purpose he was keeping this money?
 
@@ -280,17 +280,17 @@ Despite all this, the people were not ready to undress. We stood some distance a
 
 **Q.**And for this reason he kept the money?
 
-**A.**Yes, he kept the money for this object. Chorazycki knew what his fate would be. He fell upon Kurt Franz, even though he was a man of advanced age, and Kurt Franz was powerful and tall. Chorazycki jumped away from him, fled from this hut, but he did not run far before he fell. Apparently, he had taken some poison pills, or something else. They summoned all the detainees and personnel to assemble for a roll call. We were obliged to watch how they flushed Chorazycki's stomach, in order to revive him, to wake him up, and to torture him anew. The faithful assistant of Kurt Franz, a Ukrainian, Zugwachmann Rogozo, pulled out Chorazycki's tongue with some sharp instrument or a hook, I don't remember exactly. Kurt Franz poured water into his mouth from a bucket, after which he jumped on him with his boots, in order to flush out his stomach.
+**A.**Yes, he kept the money for this object. Chorazycki knew what his fate would be. He fell upon [[PERSON:person_696|Kurt Franz]], even though he was a man of advanced age, and [[PERSON:person_696|Kurt Franz]] was powerful and tall. Chorazycki jumped away from him, fled from this hut, but he did not run far before he fell. Apparently, he had taken some poison pills, or something else. They summoned all the detainees and personnel to assemble for a roll call. We were obliged to watch how they flushed Chorazycki's stomach, in order to revive him, to wake him up, and to torture him anew. The faithful assistant of [[PERSON:person_696|Kurt Franz]], a Ukrainian, Zugwachmann Rogozo, pulled out Chorazycki's tongue with some sharp instrument or a hook, I don't remember exactly. [[PERSON:person_696|Kurt Franz]] poured water into his mouth from a bucket, after which he jumped on him with his boots, in order to flush out his stomach.
 
 In the end, two members of the group had to raise Chorazycki by the legs in order to remove the water from his body. They repeated this operation several times. But they did not manage to resuscitate him. After all their efforts failed, they undressed him and continued beating him with clubs, after which they sent him off to the Lazarette.
 
-**Q.**Did Kurt Franz have a nickname? Do you recall how you used to call Franz?
+**Q.**Did [[PERSON:person_696|Kurt Franz]] have a nickname? Do you recall how you used to call Franz?
 
 **A.**In Polish, he was called Lolka - he was a handsome man, tall, powerful.
 
 **Attorney General:** [Holds up a photograph] Who is this?
 
-**A.**That is Kurt Franz, definitely.
+**A.**That is [[PERSON:person_696|Kurt Franz]], definitely.
 
 **Presiding Judge:** This document will be marked T/1303.
 
@@ -306,21 +306,21 @@ In the end, two members of the group had to raise Chorazycki by the legs in orde
 
 **A.**Most of those who succeeded in escaping were working in loading personal effects on to the freight cars. And it was in this way that they tried to escape. But they did not always succeed. Few succeeded, others were caught. I remember when they caught two men and hung them up by their legs. They remained hanging in this way for several hours - I don't remember exactly how long.
 
-SS men and Ukrainians would come from time to time, flog them and beat them. Eventually, one of the SS men, Scharfuehrer Joseph Zehetreter - he was called Zet from Frankfurt am Main (he was sentenced to life imprisonment in Germany) - came there and shot them.
+SS men and Ukrainians would come from time to time, flog them and beat them. Eventually, one of the SS men, Scharfuehrer Joseph Zehetreter - he was called Zet from [[LOCATION:location_98|Frankfurt]] am Main (he was sentenced to life imprisonment in [[LOCATION:location_2|Germany]]) - came there and shot them.
 
-**Q.**At the railway station of Treblinka, were there means of camouflage?
+**Q.**At the railway station of [[LOCATION:location_173|Treblinka]], were there means of camouflage?
 
 **A.**Yes.
 
 **Q.**Please describe them.
 
-**A.**I think that half a year after I reached Treblinka, they altered the platform completely and planted flowers there. There was also a hut there. They put doors on it. They also added a large clock and a railway timetable. They also put up signs with arrows indicating where the trains were going to: "Zu den Zuegen nach Bialystok und Wolkowysk" (To the trains to Bialystok and Wolkowysk). In this way, they arranged matters so that those arriving would actually not know where they had come to.
+**A.**I think that half a year after I reached [[LOCATION:location_173|Treblinka]], they altered the platform completely and planted flowers there. There was also a hut there. They put doors on it. They also added a large clock and a railway timetable. They also put up signs with arrows indicating where the trains were going to: "Zu den Zuegen nach Bialystok und Wolkowysk" (To the trains to Bialystok and Wolkowysk). In this way, they arranged matters so that those arriving would actually not know where they had come to.
 
 **Q.**As if it were a transit station to other places?
 
 **A.**Yes, as if it were a transit station to other places.
 
-**Q.**When did they begin burning bodies at Treblinka?
+**Q.**When did they begin burning bodies at [[LOCATION:location_173|Treblinka]]?
 
 **A.**I know that they began burning bodies several months after we arrived there. They spoke about it in the camp.
 
@@ -338,11 +338,11 @@ SS men and Ukrainians would come from time to time, flog them and beat them. Eve
 
 And, in addition to that, we - this group, this team - worked up there and slept in one of the huts, which I described previously, in the yard. Hence, at the beginning, it was very difficult.
 
-**Q.**Were you permitted to establish contact with Treblinka 2?
+**Q.**Were you permitted to establish contact with [[LOCATION:location_173|Treblinka]] 2?
 
-**A.**No. But, at a later stage, someone, who was also one of the camp commanders, came to us. His name was Oberleutnant Stangl. He was from Austria. He made a speech and promised us that there were new buildings for the team inside our camp, and there we would have running water, and we would also be given bunks and would be able to sleep, and whoever worked would be able to live and go on living.
+**A.**No. But, at a later stage, someone, who was also one of the camp commanders, came to us. His name was Oberleutnant Stangl. He was from [[LOCATION:location_14|Austria]]. He made a speech and promised us that there were new buildings for the team inside our camp, and there we would have running water, and we would also be given bunks and would be able to sleep, and whoever worked would be able to live and go on living.
 
-Within this camp, which contained the new buildings, there was a group who were called Hofjuden (Court Jews). This was a group of experts. Most of them were from the environs of Treblinka. They had erected this camp. Afterwards, when the deportations began, they remained inside this camp. But they enjoyed longer rest periods, greater liberty - they were not guarded so strictly, and they had ample food. They had a special hut for living quarters. These men did not want to come into contact with us. They did not want to come near us at all.
+Within this camp, which contained the new buildings, there was a group who were called Hofjuden (Court Jews). This was a group of experts. Most of them were from the environs of [[LOCATION:location_173|Treblinka]]. They had erected this camp. Afterwards, when the deportations began, they remained inside this camp. But they enjoyed longer rest periods, greater liberty - they were not guarded so strictly, and they had ample food. They had a special hut for living quarters. These men did not want to come into contact with us. They did not want to come near us at all.
 
 But, after this speech by Stangl, a change came about. He made a promise to us, and it actually happened. They brought us down from this hut up there into other huts, together with the Hofjuden, and there we really received blankets and bunks. And there was running water. There was a toilet, even though it was in the yard - but after we had been locked into the buildings, it was impossible to go out.
 
@@ -360,7 +360,7 @@ But, after this speech by Stangl, a change came about. He made a promise to us, 
 
 **Q.**Was he one of the organizers of the revolt?
 
-**A.**Yes, later on he was one of the organizers of the revolt. There were a few others - there was also an engineer there by the name of Galewski - he was the camp elder. There was also a young man named Rudek - I don't know his surname - but I know that he came from Plock, and he told me then that he had a mother in Palestine.
+**A.**Yes, later on he was one of the organizers of the revolt. There were a few others - there was also an engineer there by the name of Galewski - he was the camp elder. There was also a young man named Rudek - I don't know his surname - but I know that he came from Plock, and he told me then that he had a mother in [[LOCATION:location_57|Palestine]].
 
 **Q.**What was the plan you drew up for the revolt and the escape?
 
@@ -392,7 +392,7 @@ But, after this speech by Stangl, a change came about. He made a promise to us, 
 
 **Q.**Did he remain alive?
 
-**A.**He also fell. There was a young man named Djielo, a Jew from Czechoslovakia. It was said that he was a Czech officer.
+**A.**He also fell. There was a young man named Djielo, a Jew from [[LOCATION:location_15|Czechoslovakia]]. It was said that he was a Czech officer.
 
 **Q.**What happened to him?
 
@@ -400,7 +400,7 @@ But, after this speech by Stangl, a change came about. He made a promise to us, 
 
 **Q.**Was the entire command killed?
 
-**A.**I believe so, for I never came across any one of them. There was another one, whom it may be of interest to mention, Rudolf Masaryk - it was said that he was a relative of the President of Czechoslovakia. We did not know whether there was any truth in this. He was not a Jew, but his wife was Jewish. He used to take care of Kurt Franz' dog.
+**A.**I believe so, for I never came across any one of them. There was another one, whom it may be of interest to mention, Rudolf Masaryk - it was said that he was a relative of the President of [[LOCATION:location_15|Czechoslovakia]]. We did not know whether there was any truth in this. He was not a Jew, but his wife was Jewish. He used to take care of [[PERSON:person_696|Kurt Franz]]' dog.
 
 **Q.**What happened to him?
 
@@ -442,19 +442,19 @@ I was at the workshop refurbishing aluminium utensils. I knew that I was to rece
 
 **A.**The Germans chased us on horses and also in cars. Some of those who escaped had arms. I also ran with a group that possessed a rifle and revolvers. These people returned the Germans' fire, and the Germans withdrew. In this way, we managed to reach the forest which was near this camp.
 
-**Q.**How many people were saved from Treblinka at the time?
+**Q.**How many people were saved from [[LOCATION:location_173|Treblinka]] at the time?
 
 **A.**I think about a hundred and fifty men fled in the direction I took.
 
-**Q.**Was there someone who was a liaison between Treblinka 1 and Treblinka 2, who was able to pass between the two camps?
+**Q.**Was there someone who was a liaison between [[LOCATION:location_173|Treblinka]] 1 and [[LOCATION:location_173|Treblinka]] 2, who was able to pass between the two camps?
 
 **A.**There were a number of people who used to come inside the camp.
 
 **Q.**Who, for example?
 
-**A.**For example, there was one young man - his name was Shlomo Rosenblum - whom I had known back in Warsaw.
+**A.**For example, there was one young man - his name was Shlomo Rosenblum - whom I had known back in [[LOCATION:location_93|Warsaw]].
 
-**Q.**Anyone else? Perhaps someone who now lives in Israel?
+**Q.**Anyone else? Perhaps someone who now lives in [[LOCATION:location_38|Israel]]?
 
 **A.**I did not know then, but today I know.
 

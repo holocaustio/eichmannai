@@ -1,4 +1,4 @@
-# Testimony of Yacov Vernik
+# Testimony of [[PERSON:witness_91|Yacov Vernik]]
 
 **Session:** 66
 
@@ -16,7 +16,7 @@
 
 **A.**Yes, and a construction worker.
 
-**Q.**When did they bring you to Treblinka, Mr. Wiernik?
+**Q.**When did they bring you to [[LOCATION:location_173|Treblinka]], Mr. Wiernik?
 
 **A.**On 23 August 1942.
 
@@ -30,9 +30,9 @@
 
 **Q.**And are you still a construction worker?
 
-**A.**No. I am now living on a pension. In Israel, I worked for "Amidar".
+**A.**No. I am now living on a pension. In [[LOCATION:location_38|Israel]], I worked for "Amidar".
 
-**Attorney General:** Mr. Wiernik, when you came to Treblinka, the camp was not yet in existence?
+**Attorney General:** Mr. Wiernik, when you came to [[LOCATION:location_173|Treblinka]], the camp was not yet in existence?
 
 **Witness Wiernik:** When I came there, there were only three gas chambers. The large kitchen was not yet there. I constructed various barracks, I built the guard room, I built the door, the entrance gate.
 
@@ -40,19 +40,19 @@
 
 **A.**Yes, I and my companions.
 
-**Q.**After the War, immediately following the War, you drew a sketch of Treblinka?
+**Q.**After the War, immediately following the War, you drew a sketch of [[LOCATION:location_173|Treblinka]]?
 
-**A.**Yes. This is it, here. I drew it. I prepared it when I was still underground, after my liberation in 1943, I drew it. I was working in Warsaw, in the Tashitza Palace. I worked as a Pole.
+**A.**Yes. This is it, here. I drew it. I prepared it when I was still underground, after my liberation in 1943, I drew it. I was working in [[LOCATION:location_93|Warsaw]], in the Tashitza Palace. I worked as a Pole.
 
 **Attorney General:** I submit the sketch which the witness made at the time.
 
 **Presiding Judge:** This will be marked T/1300.
 
-**Attorney General:** At a later stage, when you were already in Israel, you built a copy, a model, after the sketch, and this exists in Kibbutz Lohamei Ha-Getta'ot?
+**Attorney General:** At a later stage, when you were already in [[LOCATION:location_38|Israel]], you built a copy, a model, after the sketch, and this exists in Kibbutz Lohamei Ha-Getta'ot?
 
 **Witness Wiernik:** Yes.
 
-**Q.**And the photograph of this model, which is kept in the museum of Kibbutz Lohamei Ha-Getta'ot, that is the photograph which you see on the wall of the courtroom? [Photographs of this model may be seen via http://www.nizkor.org/ftp.cgi/camps/aktion.reinhard/treblinka/images/model. knm, 99/06/08]
+**Q.**And the photograph of this model, which is kept in the museum of Kibbutz Lohamei Ha-Getta'ot, that is the photograph which you see on the wall of the courtroom? [Photographs of this model may be seen via http://www.nizkor.org/ftp.cgi/camps/aktion.reinhard/[[LOCATION:location_173|treblinka]]/images/model. knm, 99/06/08]
 
 **A.**Yes. That is an exact photograph.
 
@@ -88,7 +88,7 @@
 
 **A.**That was made by the metal-workers of the first camp.
 
-**Q.**You say there were two camps, Treblinka 1 and Treblinka 2?
+**Q.**You say there were two camps, [[LOCATION:location_173|Treblinka]] 1 and [[LOCATION:location_173|Treblinka]] 2?
 
 **A.**They were separated from each other.
 
@@ -109,7 +109,7 @@
 
 **A.**I put them there.
 
-**Q.**That was not in Treblinka?
+**Q.**That was not in [[LOCATION:location_173|Treblinka]]?
 
 **A.**I put them there so that it would be easier to identify them.
 
@@ -169,7 +169,7 @@
 
 **A.**Yes, yes. When people escaped from there, I also escaped - it was on 2 August 1943.
 
-**Q.**Who was the leader of the uprising in Treblinka 1?
+**Q.**Who was the leader of the uprising in [[LOCATION:location_173|Treblinka]] 1?
 
 **A.**Galewski took part, together with some others.
 
@@ -177,9 +177,9 @@
 
 **A.**I did not see Dr. Chorazycki, but I was told that he committed suicide.
 
-**Q.**And what happened in Treblinka 2?
+**Q.**And what happened in [[LOCATION:location_173|Treblinka]] 2?
 
-**A.**I was in Treblinka 2, as well as Djielo and Ya'akov. We were a group of five who used to maintain daily contact about what was going on.
+**A.**I was in [[LOCATION:location_173|Treblinka]] 2, as well as Djielo and Ya'akov. We were a group of five who used to maintain daily contact about what was going on.
 
 **Q.**Did any of them survive?
 
@@ -199,11 +199,11 @@
 
 **Judge Halevi:** Did you join the underground?
 
-**Witness Wiernik:** In Treblinka? Certainly. I was the liaison between the one camp and the other.
+**Witness Wiernik:** In [[LOCATION:location_173|Treblinka]]? Certainly. I was the liaison between the one camp and the other.
 
 **Q.**I mean after the escape - which underground did you join after the escape?
 
-**A.**After I escaped, I came to Warsaw. I had a Christian acquaintance, and I went to him - he was a writer named Stefan Przibishevski.
+**A.**After I escaped, I came to [[LOCATION:location_93|Warsaw]]. I had a Christian acquaintance, and I went to him - he was a writer named Stefan Przibishevski.
 
 **Attorney General:** I am aware of these matters. This will undoubtedly help the witness. He has a certificate from the Polish Armia Ludowa, of which he was a member. And that will clarify the situation. If the Court is interested, he can hand it in.
 
@@ -211,27 +211,27 @@
 
 **Attorney General:** He has a certificate. It will immediately explain to which underground he belonged.
 
-**Witness Wiernik:** I worked for the Warsaw municipality after my return.
+**Witness Wiernik:** I worked for the [[LOCATION:location_93|Warsaw]] municipality after my return.
 
 **Attorney General:** The underground pseudonym of the witness appears there, as well as his real name, in order to certify that he was a member of the Polish People's Army, the Armia Ludowa.
 
 **Judge Halevi:** [to witness] When you were a member of the Armia Ludowa, was it then that you drew this sketch?
 
-**Witness Wiernik:** I prepared it when I was working in Warsaw in the Tashitza Palace. The SS was there on the one side, and I was a night watchman against air attacks - I also have a certificate about that. I used to sit there at night. Nobody disturbed me, and I gradually made that sketch.
+**Witness Wiernik:** I prepared it when I was working in [[LOCATION:location_93|Warsaw]] in the Tashitza Palace. The SS was there on the one side, and I was a night watchman against air attacks - I also have a certificate about that. I used to sit there at night. Nobody disturbed me, and I gradually made that sketch.
 
 **Q.**Do you remember in what month and what year you drew this sketch?
 
-**A.**It was in 1944. It took a long time. I also wrote A Year in Treblinka. In 1944, it was already in America, via the underground.
+**A.**It was in 1944. It took a long time. I also wrote A Year in [[LOCATION:location_173|Treblinka]]. In 1944, it was already in America, via the underground.
 
-**Attorney General:** The brochure about Treblinka was published both in Polish and in English.
+**Attorney General:** The brochure about [[LOCATION:location_173|Treblinka]] was published both in Polish and in English.
 
 **Judge Halevi:** Did you make the sketch only as a memento or for some practical purpose?
 
-**Witness Wiernik:** I made my notes while I was still in the camp. I made notes of everything. I saw that nothing was known about the camp, so I wrote A Year in Treblinka.
+**Witness Wiernik:** I made my notes while I was still in the camp. I made notes of everything. I saw that nothing was known about the camp, so I wrote A Year in [[LOCATION:location_173|Treblinka]].
 
 **Q.**And you handed over all the material to the underground for their use?
 
-**A.**They sent it over. I wrote it in Polish, and it was published in Warsaw at the beginning of 1944, in ten or twelve thousand copies. And the copies were sent over to America. They were sent to London. Professor Garka received the copies and sent them on to America.
+**A.**They sent it over. I wrote it in Polish, and it was published in [[LOCATION:location_93|Warsaw]] at the beginning of 1944, in ten or twelve thousand copies. And the copies were sent over to America. They were sent to [[LOCATION:location_67|London]]. Professor Garka received the copies and sent them on to America.
 
 **Presiding Judge:** Can you tell us what is the scale of this model?
 

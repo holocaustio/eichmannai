@@ -1,4 +1,4 @@
-# Testimony of Benno Cohen
+# Testimony of [[PERSON:witness_20|Benno Cohen]]
 
 **Session:** 14
 
@@ -12,33 +12,33 @@
 
 **Witness Cohn:** I was born in the Province of Posen, in Lobsens [Lobsenica] in 1894.
 
-**Q.**When did you come to Germany after the First World War?
+**Q.**When did you come to [[LOCATION:location_2|Germany]] after the [[EVENT:event_384|First World War]]?
 
-**A.**I had always been a German citizen. This was a province in the East of Germany.
+**A.**I had always been a German citizen. This was a province in the East of [[LOCATION:location_2|Germany]].
 
 **Q.**Yes, but you did not remain in the province of Posen?
 
-**A.**At the tender age of nine months, I was taken by my parents from Posen, which they left, to Beuthen in Upper Silesia; then to Breslau, then I went to Berlin. From 1922 onwards I lived in Berlin.
+**A.**At the tender age of nine months, I was taken by my parents from Posen, which they left, to [[LOCATION:location_119|Beuthen]] in Upper [[LOCATION:location_103|Silesia]]; then to [[LOCATION:location_100|Breslau]], then I went to [[LOCATION:location_1|Berlin]]. From 1922 onwards I lived in [[LOCATION:location_1|Berlin]].
 
 **Q.**Where did you study?
 
-**A.**I went to school, to the secondary school in Breslau and later I went to the University of Breslau where I studied Law.
+**A.**I went to school, to the secondary school in [[LOCATION:location_100|Breslau]] and later I went to the University of [[LOCATION:location_100|Breslau]] where I studied Law.
 
-**Q.**Did you finish your law studies in Breslau?
+**Q.**Did you finish your law studies in [[LOCATION:location_100|Breslau]]?
 
 **A.**I did complete my law studies there, and later on I did my practical legal training (Referendar).
 
-**Q.**That too in Breslau?
+**Q.**That too in [[LOCATION:location_100|Breslau]]?
 
 **A.**Yes.
 
-**Q.**You were called to the Bar in Germany, were you not? When was that?
+**Q.**You were called to the Bar in [[LOCATION:location_2|Germany]], were you not? When was that?
 
-**A.**In 1925. Shortly before that I served as an assistant to the district attorney at the Breslau Court.
+**A.**In 1925. Shortly before that I served as an assistant to the district attorney at the [[LOCATION:location_100|Breslau]] Court.
 
-**Q.**When did you leave Breslau?
+**Q.**When did you leave [[LOCATION:location_100|Breslau]]?
 
-**A.**In 1922. That was when I moved to Berlin.
+**A.**In 1922. That was when I moved to [[LOCATION:location_1|Berlin]].
 
 **Q.**You started working as a lawyer?
 
@@ -46,7 +46,7 @@
 
 **Q.**Until which year?
 
-**A.**In fact until 1933. I remained registered on the Roll of Advocates until 1938, even after Jews had been struck off the Roll; but I was a lawyer only de jure during these last few years. I had seen service on the front, and that was why I was granted that privilege. I had been a soldier in the First World War.
+**A.**In fact until 1933. I remained registered on the Roll of Advocates until 1938, even after Jews had been struck off the Roll; but I was a lawyer only de jure during these last few years. I had seen service on the front, and that was why I was granted that privilege. I had been a soldier in the [[EVENT:event_384|First World War]].
 
 **Q.**In the German Army?
 
@@ -60,13 +60,13 @@
 
 **A.**Yes, except for some very few briefs that I accepted.
 
-**Q.**You were active in public life in Berlin?
+**Q.**You were active in public life in [[LOCATION:location_1|Berlin]]?
 
 **A.**Yes, I was active in Jewish and Zionist public life all my life.
 
-**Q.**Could you please tell the Court what happened regarding your activity in Jewish public life in Berlin from 1933 onwards.
+**Q.**Could you please tell the Court what happened regarding your activity in Jewish public life in [[LOCATION:location_1|Berlin]] from 1933 onwards.
 
-**A.**In 1933. I had, before then already made up my mind to go on Aliyah (immigration to Palestine). I had already been there in 1925 and had come back. In 1933 I had, then a veteran Zionist, decided to go on Aliyah. But when I saw the situation that was developing, the lack of manpower, the state of despair most Jews in Germany were in, this new situation, I decided to stay on there and to devote my work and my efforts to Jewish, to Zionist activity.
+**A.**In 1933. I had, before then already made up my mind to go on Aliyah (immigration to [[LOCATION:location_57|Palestine]]). I had already been there in 1925 and had come back. In 1933 I had, then a veteran Zionist, decided to go on Aliyah. But when I saw the situation that was developing, the lack of manpower, the state of despair most Jews in [[LOCATION:location_2|Germany]] were in, this new situation, I decided to stay on there and to devote my work and my efforts to Jewish, to Zionist activity.
 
 **Q.**Mr. Cohn, when you speak about the circumstances that had arisen, about despair - what event are you referring to in particular?
 
@@ -78,7 +78,7 @@
 
 **Q.**Where were you situated during those months?
 
-**A.**I was in a law office. I also appeared in court, in civil cases in particular. But then I was elected chairman of the Zionist Organization in Berlin; therefore I spent much of my time in the offices of the Zionist Organization in Berlin.
+**A.**I was in a law office. I also appeared in court, in civil cases in particular. But then I was elected chairman of the Zionist Organization in [[LOCATION:location_1|Berlin]]; therefore I spent much of my time in the offices of the Zionist Organization in [[LOCATION:location_1|Berlin]].
 
 **Q.**Where were they?
 
@@ -86,9 +86,9 @@
 
 **Q.**And they remained there until when?
 
-**A.**They remained there until the liquidation of the Jewish institutions in Germany. But that I only know from hearing about it. It is hearsay.
+**A.**They remained there until the liquidation of the Jewish institutions in [[LOCATION:location_2|Germany]]. But that I only know from hearing about it. It is hearsay.
 
-**Q.**I did not ask that. In any case they remained at Meineke Street until you yourself left the office?
+**Q.**I did not ask that. In any case they remained at [[LOCATION:location_120|Meineke Street]] until you yourself left the office?
 
 **A.**Yes, certainly.
 
@@ -96,15 +96,15 @@
 
 **A.**Yes.
 
-**Q.**Did you have any special duties in the Zionist Organization in Berlin during this period?
+**Q.**Did you have any special duties in the Zionist Organization in [[LOCATION:location_1|Berlin]] during this period?
 
-**A.**Yes. I was chairman, honorary chairman of the Berlin branch of the Zionist Organization; and afterwards I automatically became involved in Zionist activity and also in the activities of the Palaestina-Amt (Palestine Office). There were at that time long queues of people lining up in front of the gates at Meineke Street, seeking help and advice. They came, and automatically one became active and worked, we all worked, our whole team was at work day and night to help the Jews.
+**A.**Yes. I was chairman, honorary chairman of the [[LOCATION:location_1|Berlin]] branch of the Zionist Organization; and afterwards I automatically became involved in Zionist activity and also in the activities of the [[ORGANIZATION:org_299|Palaestina-Amt]] ([[LOCATION:location_57|Palestine]] Office). There were at that time long queues of people lining up in front of the gates at [[LOCATION:location_120|Meineke Street]], seeking help and advice. They came, and automatically one became active and worked, we all worked, our whole team was at work day and night to help the Jews.
 
 **Judge B. Halevy:** Excuse me. You said "The burning of the Reichstag." When? What date?
 
 **Witness Cohn:** On 27 February 1933. On the morrow of that event all civil rights were annuled by the Verordnung des Reichspraesidenten zum Schutze von Volk und Staat.
 
-**Interpreter:** Decree promulgated on 28 February 1933 by the President of Germany for the protection of the People and the State.
+**Interpreter:** Decree promulgated on 28 February 1933 by the President of [[LOCATION:location_2|Germany]] for the protection of the People and the State.
 
 **State Attorney Bar-Or:** Now, Mr. Cohn, you mentioned twice, or three times, the situation that had arisen, the queues, the life of the Jews. How did you see the situation in those days, from your point of view?
 
@@ -114,29 +114,29 @@
 
 **A.**Even before the first of April, when the arrests began, news reached us about arrests on a massive scale, Einzelaktionen (actions against individuals) not only against politicians, members of the Reichstag; but in particular in small towns and in medium size towns, a considerable number of people were arrested, certainly without any grounds; and among them were also rank and file Jews; among the Jews there were Rabbis, Jewish leaders, shopowners. Many Germans denounced competitors in order to get rid of them. They were sent to concentration camps. They came back, in those early months, if they returned at all, as broken men.
 
-I remember the first harrowing scenes when there flocked to our Palestine Office women who had been sent through the post the ashes of their husbands who had perished in concentration camps, accompanied by a short letter: "Ihr Mann ist an einem Herzschlag im Lager gestorben. Die Urne anbei, per Nachnahme MK 3,50."
+I remember the first harrowing scenes when there flocked to our [[LOCATION:location_57|Palestine]] Office women who had been sent through the post the ashes of their husbands who had perished in concentration camps, accompanied by a short letter: "Ihr Mann ist an einem Herzschlag im Lager gestorben. Die Urne anbei, per Nachnahme MK 3,50."
 
 **Interpreter:** Your husband has died in the camp of a heart attack. Herewith the urn - C. O. D. 3.50 Mark.
 
-**State Attorney Bar-Or:** You have mentioned the Palaestina- Amt, the Palestine Office.
+**State Attorney Bar-Or:** You have mentioned the [[ORGANIZATION:org_299|Palaestina]]- Amt, the [[LOCATION:location_57|Palestine]] Office.
 
 **Witness Cohn:** I was also a member of the Executive.
 
 **Q.**Yes. Perhaps you would care to explain precisely what that was.
 
-**A.**There was a division of labour between the Zionist Organization on the one hand which did the work of Zionist information, propaganda and all that; and the Palestine Office was in charge of Jewish immigration to Palestine, the distribution of the "certificates" [Government of Palestine permits to enter Palestine] allotted to us, and of all matters relating to immigration to Palestine.
+**A.**There was a division of labour between the Zionist Organization on the one hand which did the work of Zionist information, propaganda and all that; and the [[LOCATION:location_57|Palestine]] Office was in charge of Jewish immigration to [[LOCATION:location_57|Palestine]], the distribution of the "certificates" [Government of [[LOCATION:location_57|Palestine]] permits to enter [[LOCATION:location_57|Palestine]]] allotted to us, and of all matters relating to immigration to [[LOCATION:location_57|Palestine]].
 
-**Q.**Anyone who wanted to go to the Palestine in those years, had to apply...
+**Q.**Anyone who wanted to go to the [[LOCATION:location_57|Palestine]] in those years, had to apply...
 
 **A.**...to that office.
 
-**Q.**which was in Meineke Street?
+**Q.**which was in [[LOCATION:location_120|Meineke Street]]?
 
 **A.**Meineke Street No. 10.
 
-**Q.**Did the office have branches throughout Germany?
+**Q.**Did the office have branches throughout [[LOCATION:location_2|Germany]]?
 
-**A.**Yes. In 1933, I travelled all over Germany together with my friends, we set up branches of our office in most German towns in order to ease the burden of the central office in Berlin.
+**A.**Yes. In 1933, I travelled all over [[LOCATION:location_2|Germany]] together with my friends, we set up branches of our office in most German towns in order to ease the burden of the central office in [[LOCATION:location_1|Berlin]].
 
 **Q.**I would now ask you to cast your mind back to 1 April 1933. What can you tell the Court about that day?
 
@@ -144,17 +144,17 @@ I remember the first harrowing scenes when there flocked to our Palestine Office
 
 **Q.**Please do.
 
-**A.**In March a committee was set up in New York, composed of Jews and non-Jews, presided over by Rabbi Stephen Wise, one of the greatest personalities of American Jewry, and declared a boycott on German goods. This was a reaction to what had happened in Germany, to the attack on German Jewry, to the detentions, the destructions, the concentration camps and all the horrors I have already referred to. As a reaction thereto, Julius Streicher who was - if I am not mistaken - at that time Gauleiter of Franken (Franconia) declared a boycott of German Jewry up to the complete liquidation of the businesses of the Jews, of the "Jewish Race," as he used to put it. And he said that was being done after consultations with Hitler, Goebbels and Goering. This is what happened prior to this.
+**A.**In March a committee was set up in New York, composed of Jews and non-Jews, presided over by Rabbi Stephen Wise, one of the greatest personalities of American Jewry, and declared a boycott on German goods. This was a reaction to what had happened in [[LOCATION:location_2|Germany]], to the attack on German Jewry, to the detentions, the destructions, the concentration camps and all the horrors I have already referred to. As a reaction thereto, [[PERSON:person_441|Julius Streicher]] who was - if I am not mistaken - at that time Gauleiter of Franken ([[LOCATION:location_121|Franconia]]) declared a boycott of German Jewry up to the complete liquidation of the businesses of the Jews, of the "Jewish Race," as he used to put it. And he said that was being done after consultations with Hitler, Goebbels and Goering. This is what happened prior to this.
 
-On Friday - that fateful day in our history of our people was a Sabbath, Friday evening - I heard two speeches, as did most of the Jews in Germany and most of the German people, two most inflammatory speeches, in a vituperative and denigrating style, delivered if I am not mistaken, by Goebbels or by Goering or by both. I am not sure which of them made that speech. And at the end there came a surprise. The boycott was restricted to one day only. They, the instigators of this boycott, wanted to test its outcome: would World Jewry surrender and call off their boycott of German goods? If not, new decisions would be taken.
+On Friday - that fateful day in our history of our people was a Sabbath, Friday evening - I heard two speeches, as did most of the Jews in [[LOCATION:location_2|Germany]] and most of the German people, two most inflammatory speeches, in a vituperative and denigrating style, delivered if I am not mistaken, by Goebbels or by Goering or by both. I am not sure which of them made that speech. And at the end there came a surprise. The boycott was restricted to one day only. They, the instigators of this boycott, wanted to test its outcome: would World Jewry surrender and call off their boycott of German goods? If not, new decisions would be taken.
 
-On Saturday, that first Black Day - there was to be many more black days in the annals of our era - on that Sabbath I toured the streets of the city of Berlin for four to five hours; I got to almost all the sectors of the city; I didn't go by public transport or by car. I walked on foot through this big city and I saw this picture which at that time shocked us so terribly. On every shop - on my own name-plate "Benno Cohn, Rechtsanwalt an den drei Landgerichten" (Advocate at the three District Courts) there was a red label which read Jude. I added the words "Gott sei Dank" (Thank God) but that is only by the way. On shopwindows I saw all the slogans.
+On Saturday, that first Black Day - there was to be many more black days in the annals of our era - on that Sabbath I toured the streets of the city of [[LOCATION:location_1|Berlin]] for four to five hours; I got to almost all the sectors of the city; I didn't go by public transport or by car. I walked on foot through this big city and I saw this picture which at that time shocked us so terribly. On every shop - on my own name-plate "[[PERSON:person_424|Benno Cohn]], Rechtsanwalt an den drei Landgerichten" (Advocate at the three District Courts) there was a red label which read Jude. I added the words "Gott sei Dank" (Thank God) but that is only by the way. On shopwindows I saw all the slogans.
 
 **Q.**Perhaps you can remember some of them?
 
-**A.**Yes. The swastika - Hakenkreuz - and the slogans Juda verrecke; Achtung Lebensgefahr; Juden 'raus; Achtung Itzig; Auf nach Palaestina, Einbahnstrasse nach Jerusalem; and others like that.
+**A.**Yes. The swastika - Hakenkreuz - and the slogans Juda verrecke; Achtung Lebensgefahr; Juden 'raus; Achtung Itzig; Auf nach [[ORGANIZATION:org_299|Palaestina]], Einbahnstrasse nach [[LOCATION:location_44|Jerusalem]]; and others like that.
 
-**Interpreter:** Judah perish - Beware! Danger to life - Beware! Itzig! - Get out: to Palestine! One-way street to Jerusalem!
+**Interpreter:** Judah perish - Beware! Danger to life - Beware! Itzig! - Get out: to [[LOCATION:location_57|Palestine]]! One-way street to [[LOCATION:location_44|Jerusalem]]!
 
 **Witness Cohn:** That lasted till nightfall. The next day it was called off. On the next day the previous situation was re-established.
 
@@ -164,24 +164,24 @@ On Saturday, that first Black Day - there was to be many more black days in the 
 
 **Q.**What was the impression among the Jewish population?
 
-**A.**The impact was most depressing. Most German Jews were imbued with German culture, they had been raised in the classics of German literature. They could not believe this had happened. They could not believe it had happened to them. Very close ties linked those Jews with the German people. At that time the Zionist movement was in a minority in Germany. If I am not mistaken, only some five per cent of Jews in Germany were Zionists in 1933. They did not want to believe what had happened all around them, that this cultured ancient German people, which they had always regarded as being one of the cultured peoples, had resorted to these means.
+**A.**The impact was most depressing. Most German Jews were imbued with German culture, they had been raised in the classics of German literature. They could not believe this had happened. They could not believe it had happened to them. Very close ties linked those Jews with the German people. At that time the Zionist movement was in a minority in [[LOCATION:location_2|Germany]]. If I am not mistaken, only some five per cent of Jews in [[LOCATION:location_2|Germany]] were Zionists in 1933. They did not want to believe what had happened all around them, that this cultured ancient German people, which they had always regarded as being one of the cultured peoples, had resorted to these means.
 ---
 
-The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 14 (Part 6 of 7)
 
 ---
 
-**Q.**Do you remember one specific reaction by the Zionist Organization in Berlin in those days?
+**Q.**Do you remember one specific reaction by the Zionist Organization in [[LOCATION:location_1|Berlin]] in those days?
 
 **A.**It may be worth while to add one more observation, which also applies to that preceding period. In the early days, early months there were many cases of suicide amongst German Jews. From all the towns the stark news was reaching us, about this lawyer and that physician and such a great merchant and that other industrialist having put an end to his life. They had been unable to stand the misery of having lost their standing, of having lost their honour. They could not understand what had happened to them, so they chose this way out.
 
 **Presiding Judge:** Please reply now to the previous question.
 
-**Witness Cohn:** In Germany, the first impact was very depressing. But, thank God, I think that the Zionist Organization, and especially its printed organ Die Juedische Rundschau did stand up quite well to the test. State
+**Witness Cohn:** In [[LOCATION:location_2|Germany]], the first impact was very depressing. But, thank God, I think that the Zionist Organization, and especially its printed organ [[ORGANIZATION:org_300|Die Juedische Rundschau]] did stand up quite well to the test. State
 
 **Attorney Bar-Or:** You mentioned the Juedische Rundschau. What was that?
 
-**Witness Cohn:** The weekly, the official organ of the Zionist Organization in Germany.
+**Witness Cohn:** The weekly, the official organ of the Zionist Organization in [[LOCATION:location_2|Germany]].
 
 **Q.**Why do you refer to this weekly paper at this point?
 
@@ -197,7 +197,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Q.**I am showing you a photostatic reproduction - can you identify it?
 
-**A.**Yes, this is a copy of the Die Juedische Rundschau which was our "daily bread."
+**A.**Yes, this is a copy of the [[ORGANIZATION:org_300|Die Juedische Rundschau]] which was our "daily bread."
 
 **Q.**Could you please tell the Court what you see?
 
@@ -205,7 +205,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Q.**Who wrote that article?
 
-**A.**Robert Weltsch, the editor of Die Juedische Rundschau.
+**A.**Robert Weltsch, the editor of [[ORGANIZATION:org_300|Die Juedische Rundschau]].
 
 **Q.**In 1933 he was the editor of the official organ of the Zionist Organization?
 
@@ -260,7 +260,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 > very topical that any small child, any schoolboy as well as
 > the man in the street has no other topic of conversation. On
 > April the 1st the designation 'Jew' was stamped on all the
-> Jews throughout the whole of Germany. According to the new
+> Jews throughout the whole of [[LOCATION:location_2|Germany]]. According to the new
 > instructions issued by the boycott committee, to meet the
 > eventuality of a renewal of the boycott, all businesses are
 > to be marked in uniformity, either as 'German business' in
@@ -284,13 +284,13 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 > being reminded that we are Jews; we say 'aye' and shall
 > carry our Jewishness with pride."
 
-**State Attorney Bar-Or:** During those years, from 1933 until you left Germany, were you in touch with the authorities in Berlin?
+**State Attorney Bar-Or:** During those years, from 1933 until you left [[LOCATION:location_2|Germany]], were you in touch with the authorities in [[LOCATION:location_1|Berlin]]?
 
 **Witness Cohn:** Yes.
 
 **Q.**All the time in fact?
 
-**A.**Yes, especially with the Ministry for Propaganda (Reichspropagandaministerium), since I was the deputy chairman of the Kulturbund der Juden in Deutschland (Cultural Federation of the Jews in Germany).
+**A.**Yes, especially with the Ministry for Propaganda (Reichspropagandaministerium), since I was the deputy chairman of the Kulturbund der Juden in Deutschland (Cultural Federation of the Jews in [[LOCATION:location_2|Germany]]).
 
 **Q.**I should like to ask you to explain to the Court what were, from your point of view, the aims and objectives of the Nazi regime towards the Jews during those weeks in the spring and summer of 1933? What were they after?
 
@@ -298,9 +298,9 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Q.**Could you possibly remember the contents, approximately?
 
-**A.**The aim of the National Socialist movement, it said there, was to see to it that any non-German who had come to live in Germany after 2 August 1914 should be made to leave Germany. But there was a further paragraph, covering what was eventually carried out literally at Nuremberg. But that is a separate matter.
+**A.**The aim of the National Socialist movement, it said there, was to see to it that any non-German who had come to live in [[LOCATION:location_2|Germany]] after 2 August 1914 should be made to leave [[LOCATION:location_2|Germany]]. But there was a further paragraph, covering what was eventually carried out literally at [[LOCATION:location_39|Nuremberg]]. But that is a separate matter.
 
-**Q.**Why do you see it necessarily relevant to the Jewish Question, when the party programme deals with non-Germans who had migrated to Germany after the 2nd of August 1914?
+**Q.**Why do you see it necessarily relevant to the Jewish Question, when the party programme deals with non-Germans who had migrated to [[LOCATION:location_2|Germany]] after the 2nd of August 1914?
 
 **A.**That was evident. Those were the Ostjuden (East European Jews) notorious in German eyes, the "Polish Jews" whom they hated. They used to say they had nothing against the German Jews, they were opposed only to the Ostjuden. That was a sort of tactic, a trick of theirs.
 
@@ -338,7 +338,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **State Attorney Bar-Or:** Thank you, Your Honour. Please continue, Mr. Cohn.
 
-**Witness Cohn:** Authority was derived from the Government of Germany the Reichsregierung. By virtue of the Ermaechtigungsgesetz (empowering statute) of 23 March 1933 the German Parliament (Reichstag) had vested all its legislative powers in the Government (Reichsregierung). Thus there was no longer any separation of powers.
+**Witness Cohn:** Authority was derived from the Government of [[LOCATION:location_2|Germany]] the Reichsregierung. By virtue of the Ermaechtigungsgesetz (empowering statute) of 23 March 1933 the German Parliament (Reichstag) had vested all its legislative powers in the Government (Reichsregierung). Thus there was no longer any separation of powers.
 
 **Q.**And from now on these laws are carried out by the Government?
 
@@ -350,7 +350,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Interpreter:** "Civil servants who are not of Aryan descent, are to be retired. Honorary civil servants are to be released from the service."
 
-**State Attorney Bar-Or:** ...it deals with a special attitude towards those who had seen service on the front in the First World War, does it not?
+**State Attorney Bar-Or:** ...it deals with a special attitude towards those who had seen service on the front in the [[EVENT:event_384|First World War]], does it not?
 
 **Witness Cohn:** And with those who were civil servants already on 1 August 1914.
 
@@ -372,7 +372,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Q.**Correct, and with the evidence required to prove service on the front. Could you now read paragraph three of article 2.
 
-**A.**"Ist die arische Abstammung zweifelhaft, so ist ein Gutachten des beim Reichsministerium des Inneren bestellten Sachverstaendigen fuer Rasseforschung einzuholen." (Whenever there is any doubt as to the Aryan extraction, expert opinion is to be obtained from the expert on race research, at the Ministry of the Interior.)
+**A.**"Ist die arische Abstammung zweifelhaft, so ist ein Gutachten des beim Reichsministerium des Inneren bestellten Sachverstaendigen fuer Rasseforschung einzuholen." (Whenever there is any doubt as to the Aryan extraction, expert opinion is to be obtained from the expert on race research, at the [[ORGANIZATION:org_301|Ministry of the Interior]].)
 
 **Presiding Judge:** That will be T/62.
 
@@ -386,9 +386,9 @@ The Trial of Adolf Eichmann Sessions 14 (Part 6 of 7)
 
 **Q.**How did matters develop?
 
-**A.**In those years matters developed in Germany in a wave fashion. There would be a thrust, a heavy blow. And then there would be a period of calm, even with the authorities, the pressure would quite naturally relax. There were at that time three periods. I may perhaps be allowed to give my own view of those three periods; I myself have only witnessed the first of these periods. It began with the burning of the Reichstag Building, with regard of the Jewish Question. Only with regard to the Jewish Question. It lasted till the middle of 1935.
+**A.**In those years matters developed in [[LOCATION:location_2|Germany]] in a wave fashion. There would be a thrust, a heavy blow. And then there would be a period of calm, even with the authorities, the pressure would quite naturally relax. There were at that time three periods. I may perhaps be allowed to give my own view of those three periods; I myself have only witnessed the first of these periods. It began with the burning of the Reichstag Building, with regard of the Jewish Question. Only with regard to the Jewish Question. It lasted till the middle of 1935.
 
-The second period, to my mind, again with regard to the Jewish Question, there were the Nuremberg Reichstag, the Nuremberg Laws, the absolute political and racial segregation of the Jewish People from the German People. That period ends more or less in 1938. In 1938 there begins the last of these three pre-war periods. In that period the Jews have already been completely removed from the German economy, and their middle class had already been completely destroyed. Those are the three periods.
+The second period, to my mind, again with regard to the Jewish Question, there were the [[LOCATION:location_39|Nuremberg]] Reichstag, the [[EVENT:event_388|Nuremberg Laws]], the absolute political and racial segregation of the Jewish People from the German People. That period ends more or less in 1938. In 1938 there begins the last of these three pre-war periods. In that period the Jews have already been completely removed from the German economy, and their middle class had already been completely destroyed. Those are the three periods.
 
 **Q.**May we now go back to 1933. You will undoubtedly remember the directive on the slaughter of animals. I am showing you here the Reichsgesetzblatt of that year, page 212.
 
@@ -402,7 +402,7 @@ The second period, to my mind, again with regard to the Jewish Question, there w
 
 **A.**In my opinion this directive is diametrically opposed to the Mosaic Law, to Jewish Law.
 
-**Q.**As from April 1933, what happened then to Jewish ritually proper (kosher) slaughter (shehitah) in Germany?
+**Q.**As from April 1933, what happened then to Jewish ritually proper (kosher) slaughter (shehitah) in [[LOCATION:location_2|Germany]]?
 
 **A.**There was no more kosher shehitah.
 
@@ -410,7 +410,7 @@ The second period, to my mind, again with regard to the Jewish Question, there w
 
 **A.**But I must admit I myself was not really closely involved.
 
-**Q.**That remained the situation until you left Germany?
+**Q.**That remained the situation until you left [[LOCATION:location_2|Germany]]?
 
 **A.**As far as I can remember. I repeat that that was not my own field of activity.
 
@@ -445,7 +445,7 @@ The second period, to my mind, again with regard to the Jewish Question, there w
 **State Attorney Bar-Or:** There will be a few more. But the record can be completed if I may with respect suggest, Your Honour, by using the original books that have remained with us and that will have been put at the disposal of the translator.
 ---
 
-The Trial of Adolf Eichmann Sessions 14 (Part 7 of 7)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 14 (Part 7 of 7)
 
 ---
 
@@ -453,7 +453,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 7 of 7)
 
 **State Attorney Bar-Or:** I am now showing the witness the volume of the Reichstagsgesetzblatt for 1934. May I draw your attention to just one law of that whole year. It is published on page 213. Please look at it and read the title of that law.
 
-**Witness Cohn:** "Gesetz ueber die Reichsverweisungen (Law regarding Exclusion from the Reich) dated 23 March 1934, signed Reichskanzler Adolf Hitler, Der Reichsminister des Inneren (Minister of the Interior) Frick, Der Reichsminister der Justiz (Minister of Justice) Dr. Kuertner.
+**Witness Cohn:** "Gesetz ueber die Reichsverweisungen (Law regarding Exclusion from the Reich) dated 23 March 1934, signed Reichskanzler [[PERSON:person_397|Adolf Hitler]], Der Reichsminister des Inneren (Minister of the Interior) Frick, Der Reichsminister der Justiz (Minister of Justice) Dr. Kuertner.
 
 **Q.**Please read article 1.
 
@@ -467,9 +467,9 @@ The Trial of Adolf Eichmann Sessions 14 (Part 7 of 7)
 
 **State Attorney Bar-Or:** We now come to the year 1935. Would you like to dwell on some particular development up to Summer 1935?
 
-**Witness Cohn:** I should only like to add another word about the previous period, about Jews being evicted from cultural life. I was connected with that field of activity. Among other activities I was active in the "Reichsverband juedischer Kulturbuende" (Reich Association of Jewish Cultural Union) which was a public body sanctioned by the government. All the Jewish artists in Germany were banned from joining the national Chamber of Culture ("Reichskulturkammer") which was the official body of the new German culture. Anybody not admitted to that Chamber of Culture was prohibited from being active in the cultural field of the German people.
+**Witness Cohn:** I should only like to add another word about the previous period, about Jews being evicted from cultural life. I was connected with that field of activity. Among other activities I was active in the "Reichsverband juedischer Kulturbuende" (Reich Association of Jewish Cultural Union) which was a public body sanctioned by the government. All the Jewish artists in [[LOCATION:location_2|Germany]] were banned from joining the national Chamber of Culture ("Reichskulturkammer") which was the official body of the new German culture. Anybody not admitted to that Chamber of Culture was prohibited from being active in the cultural field of the German people.
 
-Priot to this was the expulsion of many famous composers and of many Jewish poets and writers. It is well known that the notorious "Burning of the Books" took place in May 1933. The Jews had thus been excluded from German cultural life. Amongst them were distinguished writers whose fame was world-wide, and I do not wish to go into details. So we felt it as a duty incumbent upon us to offer the Jews who had remained in Germany some sort of a substitute. And on that issue we found a sympathetic readiness for co-operation . One of the senior officials of the German Ministry for Propaganda, Hans Hinkel, who was (and I wouldn't know how to render that in Hebrew) Reichskulturwalter (Trustee for National Culture) in charge, that is, of culture, was also in charge of Jewish activities within the cultural union (Reichskulturbund) which we set up for the Jewish artists to join and thus to be able to appear in concerts. One day we were summoned to the Ministry of Propaganda, to be told that we were no longer allowed to play music of German composers, such as Beethoven, Bach, Brahms, Haydn or Mozart.
+Priot to this was the expulsion of many famous composers and of many Jewish poets and writers. It is well known that the notorious "Burning of the Books" took place in May 1933. The Jews had thus been excluded from German cultural life. Amongst them were distinguished writers whose fame was world-wide, and I do not wish to go into details. So we felt it as a duty incumbent upon us to offer the Jews who had remained in [[LOCATION:location_2|Germany]] some sort of a substitute. And on that issue we found a sympathetic readiness for co-operation . One of the senior officials of the German Ministry for Propaganda, Hans Hinkel, who was (and I wouldn't know how to render that in Hebrew) Reichskulturwalter (Trustee for National Culture) in charge, that is, of culture, was also in charge of Jewish activities within the cultural union (Reichskulturbund) which we set up for the Jewish artists to join and thus to be able to appear in concerts. One day we were summoned to the [[ORGANIZATION:org_302|Ministry of Propaganda]], to be told that we were no longer allowed to play music of German composers, such as Beethoven, Bach, Brahms, Haydn or Mozart.
 
 **Q.**You were undoubtedly allowed to continue playing Mendelsohn?
 
@@ -487,7 +487,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **A.**That year saw the beginning of a recrudescence of persecutions. This time the persecutions passed from the field of economics to the political and racial field. We had known for some time before that, about Nazi circles getting ready to formally expel the Jews from among the German people - which had already been implemented de facto.
 
-**Q.**You will certainly remember the meeting of the Reichstag in Nuremberg on 15 September 1935. I am showing you here two laws in the Reichstagsgesetzblatt for 1935. They are to be found on pages 1146 and 1147. Could you tell the Court what the titles of those two laws were and what they dealt with?
+**Q.**You will certainly remember the meeting of the Reichstag in [[LOCATION:location_39|Nuremberg]] on 15 September 1935. I am showing you here two laws in the Reichstagsgesetzblatt for 1935. They are to be found on pages 1146 and 1147. Could you tell the Court what the titles of those two laws were and what they dealt with?
 
 **A.**The first of those laws bears the title Reichsbuergergesetz (German Citizenship Law) and is dated 15 September 1935.
 
@@ -509,7 +509,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **Q.**Not by whom, but where?
 
-**A.**Oh, I see! Well, then, in Nuremberg, on 15 September 1935, at the National Party convention of Liberty (Reichsparteitag der Freiheit).
+**A.**Oh, I see! Well, then, in [[LOCATION:location_39|Nuremberg]], on 15 September 1935, at the National Party convention of Liberty (Reichsparteitag der Freiheit).
 
 **Q.**And the second Law?
 
@@ -535,7 +535,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **Q.**Signed by whom?
 
-**A.**Signed by the Fuerer and Reichskanzler Adolf Hitler, by the Minister of the Interior Frick and by the Deputy of the Fuerer, R. Hoess, Minister without Portfolio.
+**A.**Signed by the Fuerer and Reichskanzler [[PERSON:person_397|Adolf Hitler]], by the Minister of the Interior Frick and by the Deputy of the Fuerer, R. Hoess, Minister without Portfolio.
 
 **Q.**Please read a few passages of the decree, to begin with, article 4, para. 1.
 
@@ -567,7 +567,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **Witness Cohn:** I have not checked that - but approximately: shortly before the Jewish New Year.
 
-**Q.**Does my question remind you of a special event connected with those days after the promulgation of the Nuremberg Laws?
+**Q.**Does my question remind you of a special event connected with those days after the promulgation of the [[EVENT:event_388|Nuremberg Laws]]?
 
 **A.**This elicited reactions. I remember, the very same evening, there was a Zionist meeting. The late Eliezer Kaplan was our guest at the Zionist Organization. I chaired that meeting. And all the speakers, Kaplan, Prinz and the others - we all spoke against what had happened. It was from the day before and we all protested strongly against these measures. That was the first reaction.
 
@@ -577,27 +577,27 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **State Attorney Bar-Or:** Was anybody else present there?
 
-**Witness Cohn:** Yes. Two Gestapo officials.
+**Witness Cohn:** Yes. Two [[ORGANIZATION:org_344|Gestapo]] officials.
 
-**Q.**Was that a routine matter, to have Gestapo officials at your meetings?
+**Q.**Was that a routine matter, to have [[ORGANIZATION:org_344|Gestapo]] officials at your meetings?
 
-**A.**Yes. Usually. We had to seek permission or to report any meeting planned. Mostly the Gestapo sent somebody along.
+**A.**Yes. Usually. We had to seek permission or to report any meeting planned. Mostly the [[ORGANIZATION:org_344|Gestapo]] sent somebody along.
 
 **Q.**Was that for public meetings or for executive committee sessions? Or what was it about?
 
-**A.**Originally we were obliged to report plans for public meetings only. But as the years went on, in 1937 or 1938, as the situation became worse, it was extended to any Session of any Jewish society: the executive of the Zionist Organization, the Reichsvertretung, the Council of the Reichsvertretung, and the like. And the Gestapo official would appear and sit with us at the table.
+**A.**Originally we were obliged to report plans for public meetings only. But as the years went on, in 1937 or 1938, as the situation became worse, it was extended to any Session of any Jewish society: the executive of the Zionist Organization, the [[ORGANIZATION:org_303|Reichsvertretung]], the Council of the [[ORGANIZATION:org_303|Reichsvertretung]], and the like. And the [[ORGANIZATION:org_344|Gestapo]] official would appear and sit with us at the table.
 
 **Q.**How were the Jewish communities organized in the situation prevailing in 1935, how were they represented externally?
 
-**A.**The whole of Jewry was at that time represented by the "Reichsvertretung der Juden in Deutschland." (The Reich Representation of the Jews of Germany). All the Jewish organizations, Zionists and non-Zionists, Liberals and others, decided in that difficult hour to join together and to set up this representative body called "Reichvertretung der Juden in Deutschland" which was appointed to be the address for all Jewish matters in those years.
+**A.**The whole of Jewry was at that time represented by the "[[ORGANIZATION:org_303|Reichsvertretung]] der Juden in Deutschland." (The Reich Representation of the Jews of [[LOCATION:location_2|Germany]]). All the Jewish organizations, Zionists and non-Zionists, Liberals and others, decided in that difficult hour to join together and to set up this representative body called "Reichvertretung der Juden in Deutschland" which was appointed to be the address for all Jewish matters in those years.
 
-**Q.**Who was at the head of this association, this Reichsvertretung?
+**Q.**Who was at the head of this association, this [[ORGANIZATION:org_303|Reichsvertretung]]?
 
-**A.**The late Rabbi Dr. Leo Baeck was the President, and the late Dr. Otto Hirsch was the director.
+**A.**The late Rabbi Dr. [[PERSON:person_429|Leo Baeck]] was the President, and the late Dr. [[PERSON:person_442|Otto Hirsch]] was the director.
 
 **Q.**Do you remember an event of those days, in September 1935, when those two names were linked together - Baeck and Hirsch?
 
-**A.**I remember something which was not widely known because of the danger involved. With the Day of Atonement approaching in 1935, Tishri of 1935, shortly after the Nuremberg Laws had been passed, the director of the Reichsvertretung Otto Hirsch sent out the text of a prayer to all the Rabbis in Germany.
+**A.**I remember something which was not widely known because of the danger involved. With the Day of Atonement approaching in 1935, Tishri of 1935, shortly after the [[EVENT:event_388|Nuremberg Laws]] had been passed, the director of the [[ORGANIZATION:org_303|Reichsvertretung]] [[PERSON:person_442|Otto Hirsch]] sent out the text of a prayer to all the Rabbis in [[LOCATION:location_2|Germany]].
 
 **Q.**Who wrote that prayer?
 
@@ -605,7 +605,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **Q.**What happened?
 
-**A.**To our great regret the letters sent out by post were intercepted and confiscated. Baeck and Hirsch were arrested and taken to the Berlin detention centre of the SS - Columbia House. Baeck was released after a few days. Hirsch was kept in detention for a longer time, I do not know exactly for how long. He had a difficult time. I was there when he was released; and he told us about his experiences during all those weeks of anguish.
+**A.**To our great regret the letters sent out by post were intercepted and confiscated. Baeck and Hirsch were arrested and taken to the [[LOCATION:location_1|Berlin]] detention centre of the SS - Columbia House. Baeck was released after a few days. Hirsch was kept in detention for a longer time, I do not know exactly for how long. He had a difficult time. I was there when he was released; and he told us about his experiences during all those weeks of anguish.
 
 **Presiding Judge:** What were the contents of this prayer?
 
@@ -613,7 +613,7 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 
 **Witness Cohn:** I shall read it as it appears in this little book by Professor Ernst Simon Aufbau im Untergang (Building up whilst perishing). Since this is a prayer, I must cover my head.
 
-> In this hour, all Israel stand before their God, the
+> In this hour, all [[LOCATION:location_38|Israel]] stand before their God, the
 > God of Justice and Forgiveness. Standing before Him we
 > are to examine our ways, what we have done and what we
 > have left undone, whither we have turned and whence we
@@ -652,8 +652,8 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 >
 >
 >
-> The spirit of the prophets of Israel, the manifestation
-> of God to His people Israel, brought about all this.
+> The spirit of the prophets of [[LOCATION:location_38|Israel]], the manifestation
+> of God to His people [[LOCATION:location_38|Israel]], brought about all this.
 >
 >
 >
@@ -687,13 +687,13 @@ Priot to this was the expulsion of many famous composers and of many Jewish poet
 >
 >
 >
-> All Israel stand in this hour before their God. Our
+> All [[LOCATION:location_38|Israel]] stand in this hour before their God. Our
 > prayers, our confidence, our declaration - is that of
 > all the Jews on earth. We look at one another and we
 > are confident of each other. We look up to our God and
 > we know: Lo, he neither sleeps nor slumbers, He who
-> guards Israel. He who maketh peace in His heights will
-> make peace for us and for all Israel.
+> guards [[LOCATION:location_38|Israel]]. He who maketh peace in His heights will
+> make peace for us and for all [[LOCATION:location_38|Israel]].
 
 B. Cohn (I am sorry, I am a little hoarse...)
 

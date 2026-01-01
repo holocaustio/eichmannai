@@ -1,4 +1,4 @@
-# Testimony of Zvi Pachter
+# Testimony of [[PERSON:witness_99|Zvi Pachter]]
 
 **Session:** 21
 
@@ -14,25 +14,25 @@
 
 **Presiding Judge:** Please reply to Mr. Hausner.
 
-**Attorney General:** When the Second World War broke out, you were in Poland?
+**Attorney General:** When the [[EVENT:event_383|Second World War]] broke out, you were in [[LOCATION:location_5|Poland]]?
 
 **Witness Pachter:** Yes.
 
-****Q.****Tell us about the march from Hrubieszow and Chelm on 2 December 1939.
+****Q.****Tell us about the march from [[LOCATION:location_150|Hrubieszow]] and [[LOCATION:location_151|Chelm]] on 2 December 1939.
 
 **A.**On 1 December 1939 the beadle of the synagogue, Dovidel Shmerl announced in all the streets and houses that on the following day, 2 December 1939, a Sabbath, at seven in the morning all men from 15 to 60 years of age were to come to Rigon Square, that is the cattle market place.
 
 **Q.**In what town was this?
 
-**A.**In the town of Hrubieszow, 50 kilometres from Chelm and 120 kilometres from Lublin.
+**A.**In the town of [[LOCATION:location_150|Hrubieszow]], 50 kilometres from [[LOCATION:location_151|Chelm]] and 120 kilometres from [[LOCATION:location_35|Lublin]].
 
-**Q.**Were the Jews of Chelm then in Hrubieszow?
+**Q.**Were the Jews of [[LOCATION:location_151|Chelm]] then in [[LOCATION:location_150|Hrubieszow]]?
 
 **A.**We didn't know anything.
 
-**Q.**Did they bring Jews from Chelm to Hrubieszow?
+**Q.**Did they bring Jews from [[LOCATION:location_151|Chelm]] to [[LOCATION:location_150|Hrubieszow]]?
 
-**A.**We did not know this at that time, for we stood for four hours on the Sabbath morning in the open, and then we heard that the Jews of Chelm had come.
+**A.**We did not know this at that time, for we stood for four hours on the Sabbath morning in the open, and then we heard that the Jews of [[LOCATION:location_151|Chelm]] had come.
 
 **Q.**Please continue with your account of what happened on that Sabbath.
 
@@ -52,19 +52,19 @@ It wasn't so easy to ward off these shouts. Then they announced: everyone who ha
 
 **Q.**When you say "they," to whom are you referring? Who did this?
 
-**A.**These were the SS, the Gestapo, men in black uniforms and in dark green uniforms.
+**A.**These were the SS, the [[ORGANIZATION:org_344|Gestapo]], men in black uniforms and in dark green uniforms.
 
 When they sent all these people home, things calmed them down, also the women and the children, the cries died down and we also calmed down, since we thought that, in fact, this was only a march.
 
 Afterwards they lined us up in four columns, one after the other.
 
-Then they told every second and third man in each row to step forward, so that the first and the fourth remained. When, as a result, an empty space was left between the first and the fourth in each row, which they filled with the men of Chelm, who had been brought there the previous day. The men of Chelm did not fill a very large area. They were not so many, they closed the ranks and there were now rows of four.
+Then they told every second and third man in each row to step forward, so that the first and the fourth remained. When, as a result, an empty space was left between the first and the fourth in each row, which they filled with the men of [[LOCATION:location_151|Chelm]], who had been brought there the previous day. The men of [[LOCATION:location_151|Chelm]] did not fill a very large area. They were not so many, they closed the ranks and there were now rows of four.
 
 **Q.**How many men were there in your opinion?
 
 **A.**They gave an order not to speak, not to look around and not to be in contact one with the other. Anyone violating the order would be shot. They gave the order to march forward. We began walking, and in the direction in which they took us there were no roads. We walked in this way until we reached the village of Holotoshins. A young girl managed to run after the column and to shout all the time until we reached that village: Daddy, Daddy! Near Holotoshins the girl was removed. We didn't know what happened to her - we only heard a shot.
 
-On that first day we didn't witness any killings with our own eyes. Only from time to time anyone who became tired and stopped, anyone who paused to arrange his clothes, was told to leave the line, and thereafter we heard behind us the sound of a shot. For the whole of that day we didn't see any killings - but we heard the shots behind us. And so we marched to the village Tyszowce, a distance of 12 kilometres from Hrubieszow. From there we walked to another village, walking in the mud. Our legs sank because this was the season of the heaviest rains. This was in the month of December. They had told us to sit or lie down, for we were going to sleep there.
+On that first day we didn't witness any killings with our own eyes. Only from time to time anyone who became tired and stopped, anyone who paused to arrange his clothes, was told to leave the line, and thereafter we heard behind us the sound of a shot. For the whole of that day we didn't see any killings - but we heard the shots behind us. And so we marched to the village Tyszowce, a distance of 12 kilometres from [[LOCATION:location_150|Hrubieszow]]. From there we walked to another village, walking in the mud. Our legs sank because this was the season of the heaviest rains. This was in the month of December. They had told us to sit or lie down, for we were going to sleep there.
 
 When we had already sat or lain down on the ground, they came to argue with us and to tell us that we were responsible for the war.
 
@@ -108,17 +108,17 @@ After these shootings, they divided us into two groups and told us that one grou
 
 **A.**He had a dark green uniform. I think that he had black insignia on the lapels of his jacket. The senior officer of the march approached one of the boys. He threw a piece of bread in his direction, and the boy bent down to pick up the piece of bread - it was one of the sons of Pinia Nadel, possibly 15 years old - when the boy bent down to pick up the bread, the senior officer of the march himself shot him. He shot him but didn't kill him with his shot and ordered someone else to finish the job. He, as it were, justified himself and said he wasn't responsible, for the youth had jumped out of line. "If he hadn't jumped out of line, I wouldn't have shot him," he said. And then we went on to a suburb of Sokal, Gvushe.
 
-This was the border between the territory of the Generalgouvernement and Soviet Russia at the time. This was near the River Bug which was the boundary. When we reached the outskirts, they told us to sit down and start singing, for the sun was coming up. "Whoever does not sit down and sing - will be shot!" They told us to sing Jewish songs.
+This was the border between the territory of the [[LOCATION:location_152|Generalgouvernement]] and Soviet [[LOCATION:location_10|Russia]] at the time. This was near the River Bug which was the boundary. When we reached the outskirts, they told us to sit down and start singing, for the sun was coming up. "Whoever does not sit down and sing - will be shot!" They told us to sing Jewish songs.
 
-When it got dark they told us what we were about to do. They told us that we were about to advance across the frontier and that there was a bridge there. This bridge was divided into three sections. The first part belonged to the Germans, and the furthest section to Soviet Russia. The middle section was called "no-man's land" or "neutral." And this is how they instructed us to walk: on the first section of the bridge we should walk slowly, on the middle section we should accelerate our pace, and in the third section they told us we should raise our hands and shout "long live Stalin!", they told us this in German, and explained that this would persuade the border guards not to fire on us.
+When it got dark they told us what we were about to do. They told us that we were about to advance across the frontier and that there was a bridge there. This bridge was divided into three sections. The first part belonged to the Germans, and the furthest section to Soviet [[LOCATION:location_10|Russia]]. The middle section was called "no-man's land" or "neutral." And this is how they instructed us to walk: on the first section of the bridge we should walk slowly, on the middle section we should accelerate our pace, and in the third section they told us we should raise our hands and shout "long live Stalin!", they told us this in German, and explained that this would persuade the border guards not to fire on us.
 
-When we came to the Soviet side, it confused the Russians very much, for they were forbidden to allow any crossing of this border. But our hands were raised so they asked what was happening and said that one person who spoke Russian should step up and explain. I came out of the ranks and began relating the whole story of this march from Chelm to Hrubieszow, from the first day, and of all the victims who fell, of the thousands who were shot. They told us to lie down on the ground, and they would go to see if it were possible to accommodate us in the hospitals, for we were all injured from this march, our feet were torn. Moshe Moskal's leg was completely cut open, and one could see the bone...for the people had hesitated to rest on the way lest they be shot.
+When we came to the Soviet side, it confused the Russians very much, for they were forbidden to allow any crossing of this border. But our hands were raised so they asked what was happening and said that one person who spoke Russian should step up and explain. I came out of the ranks and began relating the whole story of this march from [[LOCATION:location_151|Chelm]] to [[LOCATION:location_150|Hrubieszow]], from the first day, and of all the victims who fell, of the thousands who were shot. They told us to lie down on the ground, and they would go to see if it were possible to accommodate us in the hospitals, for we were all injured from this march, our feet were torn. Moshe Moskal's leg was completely cut open, and one could see the bone...for the people had hesitated to rest on the way lest they be shot.
 
 I don't want to go into the details of the tragedy, for they are not relevant to this trial - but they sent us back there.
 
-**Q.**What do you mean by "there" - to the area of the Generalgouvernement in Germany?
+**Q.**What do you mean by "there" - to the area of the [[LOCATION:location_152|Generalgouvernement]] in [[LOCATION:location_2|Germany]]?
 
-**A.**Yes, to this bridge, for this was the bridge between Sokal, the town that belonged to the Soviet Union, and the suburb that belonged to the German Generalgouvernement. Thus they returned us to the Germans - yes, to the Germans. The Germans no longer took any notice of us and didn't attack us, and we entered the houses. This village was full of zoological anti-Semites, but without taking that into account, the people were nevertheless so confused that there were some who hastened to our aid and helped us; they gave us money and clothing, and they assisted some to re-cross the border I was one of a group of 29 persons who went into a school.
+**A.**Yes, to this bridge, for this was the bridge between Sokal, the town that belonged to the [[LOCATION:location_6|Soviet Union]], and the suburb that belonged to the German [[LOCATION:location_152|Generalgouvernement]]. Thus they returned us to the Germans - yes, to the Germans. The Germans no longer took any notice of us and didn't attack us, and we entered the houses. This village was full of zoological anti-Semites, but without taking that into account, the people were nevertheless so confused that there were some who hastened to our aid and helped us; they gave us money and clothing, and they assisted some to re-cross the border I was one of a group of 29 persons who went into a school.
 
 **Q.**Were these Poles?
 
@@ -191,7 +191,7 @@ I don't want to go into the details of the tragedy, for they are not relevant to
 
 **Q.**What were they?
 
-**A.**I have to relate here the story of a short march and how they behaved towards the people. We approached a place about five kilometres between Wodniki and Gorodenka, where the Bug river is situated. At the end of October the Gestapo came and announced that people would be able to cross to the Russian side of the border if they would go to the "Magistratura", and obtain a piece of paper. For this piece of paper they would pay 5 marks or 10 zlotys, and on Sunday they would be able to cross the border freely at Wodniki. Many people, hundreds, went and purchased these paper chits and on Sunday streamed in their hundreds in the direction of Wodniki. When they arrived there they were surrounded and beaten until blood was running from every one.
+**A.**I have to relate here the story of a short march and how they behaved towards the people. We approached a place about five kilometres between Wodniki and Gorodenka, where the Bug river is situated. At the end of October the [[ORGANIZATION:org_344|Gestapo]] came and announced that people would be able to cross to the Russian side of the border if they would go to the "Magistratura", and obtain a piece of paper. For this piece of paper they would pay 5 marks or 10 zlotys, and on Sunday they would be able to cross the border freely at Wodniki. Many people, hundreds, went and purchased these paper chits and on Sunday streamed in their hundreds in the direction of Wodniki. When they arrived there they were surrounded and beaten until blood was running from every one.
 
 **Q.**And did they take their possessions from them?
 

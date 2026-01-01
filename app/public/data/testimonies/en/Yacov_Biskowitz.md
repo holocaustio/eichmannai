@@ -1,4 +1,4 @@
-# Testimony of Yacov Biskowitz
+# Testimony of [[PERSON:witness_89|Yacov Biskowitz]]
 
 **Session:** 65
 
@@ -10,17 +10,17 @@
 
 **Q.**You are a policeman?
 
-**A.**I am a constable employed at the National Headquarters of the Israel Police. My number is 8877.
+**A.**I am a constable employed at the National Headquarters of the [[LOCATION:location_38|Israel]] Police. My number is 8877.
 
 **Presiding Judge:** Please answer Mr. Hausner's questions.
 
-**Attorney General:** Mr. Biskowitz, at the beginning of June 1942, you were taken with your family from Hrubieszow to the Sobibor camp?
+**Attorney General:** Mr. Biskowitz, at the beginning of June 1942, you were taken with your family from [[LOCATION:location_150|Hrubieszow]] to the Sobibor camp?
 
 **Witness Biskowitz:** Correct.
 
-**Q.**What was the distance from Hrubieszow to Sobibor?
+**Q.**What was the distance from [[LOCATION:location_150|Hrubieszow]] to Sobibor?
 
-**A.**The distance from Hrubieszow to Sobibor was about sixty kilometres.
+**A.**The distance from [[LOCATION:location_150|Hrubieszow]] to Sobibor was about sixty kilometres.
 
 **Presiding Judge:** How old were you at that time?
 
@@ -32,7 +32,7 @@
 
 **Q.**When you got there, you met a number of SS men. Do you remember their names?
 
-**A.**More or less, but not all of them. There I came across - this I learned afterwards - Tomella, Wagner, Fraenzel, Paul Grott and others - Gerchow, Hermann Mueller.
+**A.**More or less, but not all of them. There I came across - this I learned afterwards - Tomella, Wagner, Fraenzel, [[PERSON:person_689|Paul Grott]] and others - Gerchow, Hermann Mueller.
 
 **Q.**You were asked if there were any carpenters amongst the arrivals - is that so?
 
@@ -129,7 +129,7 @@
 
 **Q.**What is this "Speaker's Platform"?
 
-**A.**The "Speaker's Platform" was a place which was mounted by an SS man named Hermann Michel, who addressed the people who had entered the yard and undressed. He told them that they were now going to the showers, that they should hand over all their possessions for which they would be given receipts, and when they returned from the showers they would get their belongings back. Here I have indicated with a red mark that there was a cash desk here, right in front of the passageway, in front of the path that led to the gas chambers.
+**A.**The "Speaker's Platform" was a place which was mounted by an SS man named [[PERSON:person_693|Hermann Michel]], who addressed the people who had entered the yard and undressed. He told them that they were now going to the showers, that they should hand over all their possessions for which they would be given receipts, and when they returned from the showers they would get their belongings back. Here I have indicated with a red mark that there was a cash desk here, right in front of the passageway, in front of the path that led to the gas chambers.
 
 **Q.**Here you have marked "Way to the Gas Chambers" with fences on both sides. What were these fences?
 
@@ -137,7 +137,7 @@
 
 **Q.**Here, on the left, there is an area which you have marked "Camp 2." What is that?
 
-**A.**That was a large roof, about the size of the roof of this building, perhaps even bigger, to which they brought the personal effects. Here I have marked two gates - one hundred people were employed there on the bundles. They took the belongings of those people who had entered the gas chambers. Their clothing had been left there, and these hundred people had to come in quickly and collect the clothing of the persons who had been taken into the gas chambers. And here was the storeroom where they sorted the clothing and made separate parcels of coats, shirts, trousers, etc. and sent them off to Germany.
+**A.**That was a large roof, about the size of the roof of this building, perhaps even bigger, to which they brought the personal effects. Here I have marked two gates - one hundred people were employed there on the bundles. They took the belongings of those people who had entered the gas chambers. Their clothing had been left there, and these hundred people had to come in quickly and collect the clothing of the persons who had been taken into the gas chambers. And here was the storeroom where they sorted the clothing and made separate parcels of coats, shirts, trousers, etc. and sent them off to [[LOCATION:location_2|Germany]].
 
 **Q.**Mr. Biskowitz, there are two pits there marked "Lazarette" - is that the "Lazarette" you spoke of?
 
@@ -149,7 +149,7 @@
 
 **Q.**Here you have marked an army camp; what was this army camp?
 
-**A.**I saw that afterwards. I am not sure whether it was the Wehrmacht or the Ukrainians who were there. I saw a road there which passed next to the large tower which stood close to Camp 1. I saw a path which led into the camp; since I was working there as a carpenter - "Der kleine Tischler" (the little carpenter) - I also went outside and walked around. I was also engaged in constructing the camp, and I noticed that nearby they were preparing a site as a landing ground for a plane, in expectation of Himmler's arrival on a visit. I was near the camp, and I saw a number of huts and soldiers, Ukrainians as well. And it was here, too, that an SS man was killed while walking past, by chance, on the eve of the revolt; he passed by this place and was killed there.
+**A.**I saw that afterwards. I am not sure whether it was the [[ORGANIZATION:org_328|Wehrmacht]] or the Ukrainians who were there. I saw a road there which passed next to the large tower which stood close to Camp 1. I saw a path which led into the camp; since I was working there as a carpenter - "Der kleine Tischler" (the little carpenter) - I also went outside and walked around. I was also engaged in constructing the camp, and I noticed that nearby they were preparing a site as a landing ground for a plane, in expectation of Himmler's arrival on a visit. I was near the camp, and I saw a number of huts and soldiers, Ukrainians as well. And it was here, too, that an SS man was killed while walking past, by chance, on the eve of the revolt; he passed by this place and was killed there.
 
 **Q.**We shall talk about the revolt later. Here it says "High Tower" - is that the tower?
 
@@ -193,7 +193,7 @@
 
 **Presiding Judge:** Did he know you and your family?
 
-**Witness Biskowitz:** He was my age, he is now in Italy; he lived in Israel at one time, and we were friends from childhood.
+**Witness Biskowitz:** He was my age, he is now in [[LOCATION:location_19|Italy]]; he lived in [[LOCATION:location_38|Israel]] at one time, and we were friends from childhood.
 
 **Attorney General:** I would ask for the photographs to be returned to the witness - I merely wanted to show them to the Court.
 
@@ -237,7 +237,7 @@
 
 **Q.**Now tell us about the uprising in Sobibor, but in brief.
 
-**A.**The uprising began at a time when transports were already arriving from Russia. That was already after they had killed the eighty men in Camp 3 who had dug a tunnel in an attempt to escape. Then twenty men out of a total of sixty who were selected for work from the Russian transport, were chosen from Camp 1.
+**A.**The uprising began at a time when transports were already arriving from [[LOCATION:location_10|Russia]]. That was already after they had killed the eighty men in Camp 3 who had dug a tunnel in an attempt to escape. Then twenty men out of a total of sixty who were selected for work from the Russian transport, were chosen from Camp 1.
 
 **Q.**What was Sasha's role in organizing the revolt?
 
@@ -249,7 +249,7 @@
 
 **Q.**A Jew?
 
-**A.**Yes. He began organizing the men who were close to him - about twenty to twenty-five men - and they drew up plans. But they were most afraid, since they knew that if the SS men noticed that anyone was behaving suspiciously, he would be taken to the Lazarette and killed. On the Day of Atonement, we were given permission to pray in a hut in Camp 1. All six hundred of us who were in Sobibor gathered together in this hut and prayed. I would like to point out that one third of them were girls only fifteen to sixteen years old, and there were also boys of the same age, apart from the artisans who were older, and the boys whom they had brought from Russia were also almost of military age.
+**A.**Yes. He began organizing the men who were close to him - about twenty to twenty-five men - and they drew up plans. But they were most afraid, since they knew that if the SS men noticed that anyone was behaving suspiciously, he would be taken to the Lazarette and killed. On the Day of Atonement, we were given permission to pray in a hut in Camp 1. All six hundred of us who were in Sobibor gathered together in this hut and prayed. I would like to point out that one third of them were girls only fifteen to sixteen years old, and there were also boys of the same age, apart from the artisans who were older, and the boys whom they had brought from [[LOCATION:location_10|Russia]] were also almost of military age.
 
 I saw that in one corner there was a group talking in whispers. I, as a young lad, noticed this; I went closer and I listened, I simply had my suspicions. A day or two later I got to know about the uprising. I was supposed to have escaped three days before that.
 
@@ -280,7 +280,7 @@ By chance, I had to repair the main gate of Camp 1. I was working there with ano
 
 **A.**In the meantime, the others waited for the signal to attack the ammunition shed, and I was to give the signal. But, at the last minute, Bauer arrived there with a truck of beverages for Camp 2, and he came to look for workers. He did not notice anyone, for they were all engaged in their tasks before the uprising. He dropped me together with David at Camp 2, for that was where the mess was, and the cash desk. We were taken there, and on the way there were more than one hundred persons working on the bundles, and in a few minutes, the revolt was timed to break out.
 
-We came there; unloaded the first case of beverages and carried them into the building. We saw the cashier, Hermann Michel, as he was counting the cash, and he was not aware of anything. Since we were prepared, I had a knife and I stabbed him. David was also there. We shut him in behind the door of the cash office. We ran outside to bring in the second case. Meanwhile, we could already hear: "Hurrah, the revolt has begun!"
+We came there; unloaded the first case of beverages and carried them into the building. We saw the cashier, [[PERSON:person_693|Hermann Michel]], as he was counting the cash, and he was not aware of anything. Since we were prepared, I had a knife and I stabbed him. David was also there. We shut him in behind the door of the cash office. We ran outside to bring in the second case. Meanwhile, we could already hear: "Hurrah, the revolt has begun!"
 
 **Q.**Was "Hurrah" the code word?
 
@@ -334,7 +334,7 @@ We came there; unloaded the first case of beverages and carried them into the bu
 
 **Q.**Where was Nehemia from?
 
-**A.**He came on a transport from Russia. He was also a military man, older, more or less middle-aged.
+**A.**He came on a transport from [[LOCATION:location_10|Russia]]. He was also a military man, older, more or less middle-aged.
 
 **Q.**Was he a prisoner of war?
 
@@ -358,7 +358,7 @@ We came there; unloaded the first case of beverages and carried them into the bu
 
 **Q.**Afterwards, you were called up into the Red Army?
 
-**A.**Afterwards, I joined the "Ovadannio Dali Pochi" partisans. That was near Malorita. These were Russian partisans who came from the east. After that, when the Russians had already occupied the area, we all met at the partisan's assembly point. That was not far from Czishnervokom. When I returned home, I could not stay there - I did not find a single soul. I went to Lublin, and there I volunteered for the Polish army. Of course, I also was at the front at Modlin, Yablona, and also in Warsaw.
+**A.**Afterwards, I joined the "Ovadannio Dali Pochi" partisans. That was near Malorita. These were Russian partisans who came from the east. After that, when the Russians had already occupied the area, we all met at the partisan's assembly point. That was not far from Czishnervokom. When I returned home, I could not stay there - I did not find a single soul. I went to [[LOCATION:location_35|Lublin]], and there I volunteered for the Polish army. Of course, I also was at the front at Modlin, Yablona, and also in [[LOCATION:location_93|Warsaw]].
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 

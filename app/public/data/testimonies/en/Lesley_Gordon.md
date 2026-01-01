@@ -1,4 +1,4 @@
-# Testimony of Lesley Gordon
+# Testimony of [[PERSON:witness_61|Lesley Gordon]]
 
 **Session:** 62
 
@@ -6,19 +6,19 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Leslie Gordon.
+**Witness:** [[PERSON:person_679|Leslie Gordon]].
 
-**Attorney General:** Mr. Gordon, do you now live in Canada?
+**Attorney General:** Mr. Gordon, do you now live in [[LOCATION:location_55|Canada]]?
 
-**Witness Gordon:** I live in Canada, in Montreal.
+**Witness Gordon:** I live in [[LOCATION:location_55|Canada]], in Montreal.
 
-**Q.**You were born in Budapest?
+**Q.**You were born in [[LOCATION:location_31|Budapest]]?
 
 **A.**Yes.
 
-**Q.**Your parents had come from Poland?
+**Q.**Your parents had come from [[LOCATION:location_5|Poland]]?
 
-**A.**My father was born in Poland.
+**A.**My father was born in [[LOCATION:location_5|Poland]].
 
 **Q.**Hence you were regarded as Polish citizens?
 
@@ -26,11 +26,11 @@
 
 **Q.**What happened to you in June 1941?
 
-**A.**In June 1941, when the Nazi hordes overran Poland, we heard rumours that the Polish citizens will be taken out of Hungary.
+**A.**In June 1941, when the Nazi hordes overran [[LOCATION:location_5|Poland]], we heard rumours that the Polish citizens will be taken out of [[LOCATION:location_24|Hungary]].
 
-**Q.**When you say the Germans occupied Poland, which part of Poland do you mean?
+**Q.**When you say the Germans occupied [[LOCATION:location_5|Poland]], which part of [[LOCATION:location_5|Poland]] do you mean?
 
-**A.**That was the east part of Poland.
+**A.**That was the east part of [[LOCATION:location_5|Poland]].
 
 **Q.**If I may lead you with a few questions, Mr. Gordon. You were interned by the Hungarian authorities?
 
@@ -38,7 +38,7 @@
 
 **Q.**You were brought to the then Polish border?
 
-**A.**Yes, we were taken first to the Budapest synagogue. There we have been told that orders came from the Germans, since the Hungarians had no authority over the German occupied territory, and these orders came strictly from Germany.
+**A.**Yes, we were taken first to the [[LOCATION:location_31|Budapest]] synagogue. There we have been told that orders came from the Germans, since the Hungarians had no authority over the German occupied territory, and these orders came strictly from [[LOCATION:location_2|Germany]].
 
 **Q.**What happened then?
 
@@ -62,7 +62,7 @@
 
 **Q.**Where did the Germans take you to?
 
-**A.**We were passing close by several small villages, and then we were passing through Kolomea until we came to about two or three miles - or kilometres - outside of Kolomea, where we had been told: "Schweine-Juden, herunter!" (Jewish Pigs, get down).
+**A.**We were passing close by several small villages, and then we were passing through [[LOCATION:location_199|Kolomea]] until we came to about two or three miles - or kilometres - outside of [[LOCATION:location_199|Kolomea]], where we had been told: "Schweine-Juden, herunter!" (Jewish Pigs, get down).
 
 **Q.**So you got off?
 
@@ -86,7 +86,7 @@
 
 **Q.**Who, of all those members of your family, remained alive?
 
-**A.**Only myself. One of my sisters, she got exempted from the deportation because she was married to a Hungarian citizen, and she is in Canada with me.
+**A.**Only myself. One of my sisters, she got exempted from the deportation because she was married to a Hungarian citizen, and she is in [[LOCATION:location_55|Canada]] with me.
 
 **Q.**But of those who were sent on their way there, you are the only survivor?
 
@@ -102,7 +102,7 @@
 
 **A.**As far as I know, all by myself.
 
-**Q.**So I understand, you went northwards from Kolomea to a town called Tluste?
+**Q.**So I understand, you went northwards from [[LOCATION:location_199|Kolomea]] to a town called Tluste?
 
 **A.**That's right.
 
@@ -235,7 +235,7 @@
 
 **A.**I went to the Dniester. I was trying to cross the Dniester. There were no facilities to cross. At the Dniester, I saw hundreds and hundreds of bodies floating in the water. There were children mostly, and men and women alike.
 
-**Q.**Well, you didn't cross the Dniester, so you went back, and you walked your way back to Hungary.
+**Q.**Well, you didn't cross the Dniester, so you went back, and you walked your way back to [[LOCATION:location_24|Hungary]].
 
 **A.**That's right. Yes, Sir.
 
@@ -245,7 +245,7 @@
 
 **Q.**When was it?
 
-**A.**When I arrived back in Hungary, it was either late October or very early November.
+**A.**When I arrived back in [[LOCATION:location_24|Hungary]], it was either late October or very early November.
 
 **Q.**You were arrested and put in a concentration camp?
 
@@ -257,15 +257,15 @@
 
 **Q.**But then you were able to prolong your stay outside the camp?
 
-**A.**Sometimes I was, sometimes I was not able. I spent close to thirty months in concentration camps, in different concentration camps in Hungary.
+**A.**Sometimes I was, sometimes I was not able. I spent close to thirty months in concentration camps, in different concentration camps in [[LOCATION:location_24|Hungary]].
 
-**Q.**After the Germans entered Hungary in March 1944, you were arrested?
+**Q.**After the Germans entered [[LOCATION:location_24|Hungary]] in March 1944, you were arrested?
 
-**A.**I was arrested April 15th, 1944. I was trapped by people who wore the Jewish "Magen David" sign, and they turned out to be Christians trapping the Jews who should go check with the Foreign Office.
+**A.**I was arrested April 15th, 1944. I was trapped by people who wore the Jewish "Magen David" sign, and they turned out to be Christians trapping the Jews who should go check with the [[ORGANIZATION:org_309|Foreign Office]].
 
-**Q.**With the Foreign Office?
+**Q.**With the [[ORGANIZATION:org_309|Foreign Office]]?
 
-**A.**Not the Foreign Office, the Foreign Police.
+**A.**Not the [[ORGANIZATION:org_309|Foreign Office]], the Foreign Police.
 
 **Q.**Then you were taken to the Majestic Hotel on the Schwabenberg?
 
@@ -311,7 +311,7 @@
 
 **Q.**Was that the only occasion on which you saw this man?
 
-**A.**No, I was taken from the Majestic on April the 17th, Monday, to the Rabbinical Seminary. From there, I have been taken to the Island of Csepel. There all the Hungarian Jewish newspapermen were arrested. Then Eichmann and some of his men came out, expressing their satisfaction over what they had seen in the crowded camp. That was in the Tsuk leather factory.
+**A.**No, I was taken from the Majestic on April the 17th, Monday, to the Rabbinical Seminary. From there, I have been taken to the Island of [[LOCATION:location_264|Csepel]]. There all the Hungarian Jewish newspapermen were arrested. Then Eichmann and some of his men came out, expressing their satisfaction over what they had seen in the crowded camp. That was in the Tsuk leather factory.
 
 **Q.**What did he do there?
 
@@ -327,11 +327,11 @@
 
 **Q.**Where was that?
 
-**A.**21 June 1944, we were smuggled out of Budapest to Kecskemet. That was the ghetto.
+**A.**21 June 1944, we were smuggled out of [[LOCATION:location_31|Budapest]] to Kecskemet. That was the ghetto.
 
 **Q.**Why do you say "smuggled out"?
 
-**A.**To the best of our knowledge, there was no deportation from Budapest those days, and we came from the Rabbinical Seminary at five o'clock in the morning. We were driven on side streets to the West Station of Budapest, and we reached there about seven o'clock in the morning. There were not too many people in the street.
+**A.**To the best of our knowledge, there was no deportation from [[LOCATION:location_31|Budapest]] those days, and we came from the Rabbinical Seminary at five o'clock in the morning. We were driven on side streets to the West Station of [[LOCATION:location_31|Budapest]], and we reached there about seven o'clock in the morning. There were not too many people in the street.
 
 **Q.**There you were received by a man whose name was?
 
@@ -349,9 +349,9 @@
 
 **A.**Yes. An SS uniform. Also Takacs wore an SS uniform.
 
-**Q.**Now, when this ghetto was about to be liquidated, a certain committee arrived from Budapest. Is that correct?
+**Q.**Now, when this ghetto was about to be liquidated, a certain committee arrived from [[LOCATION:location_31|Budapest]]. Is that correct?
 
-**A.**That is correct. When we entered the ghetto, all the papers we possessed were burned on an open fire in front of us, but some of the papers were owned by people who should be exempted according to their papers from the deportation - Bela Fabian, a member of parliament, who was the best- decorated Hungarian officer - and there were many others like him; and some members of the Jewish Council, the Judenrat of Budapest.
+**A.**That is correct. When we entered the ghetto, all the papers we possessed were burned on an open fire in front of us, but some of the papers were owned by people who should be exempted according to their papers from the deportation - Bela Fabian, a member of parliament, who was the best- decorated Hungarian officer - and there were many others like him; and some members of the Jewish Council, the Judenrat of [[LOCATION:location_31|Budapest]].
 
 And this commission came June 27th, Tuesday morning, and we had not been told that there was a commission here that will take people out of the deportation, but whoever can dash and rush to that site, we went there. I went there. I had no reason to be exempted from this deportation, but there was not much I was risking. I went to Zoeldi, and I told him that I am a Volksdeutscher, I spoke German, and I was hiding Jewish treasures, and that is why I'm here. He slapped my face. "Why did you do it?" I said I thought he was going to die, I had to tell him a story.
 
@@ -360,15 +360,15 @@ And this commission came June 27th, Tuesday morning, and we had not been told th
 
 **Witness Gordon:** I told him that I hid these jewels and Jewish valuables because I was thinking about myself. If he doesn't come back, they would belong to me. Of course, it was just a story.
 
-**Attorney General:** And then he told you to go with those people who were returned to Budapest?
+**Attorney General:** And then he told you to go with those people who were returned to [[LOCATION:location_31|Budapest]]?
 
-**Witness Gordon:** We did not return to Budapest, I was put into the labour camp in Kecskemet.
+**Witness Gordon:** We did not return to [[LOCATION:location_31|Budapest]], I was put into the labour camp in Kecskemet.
 
 **Q.**And you stayed there till your liberation by the Soviet troops?
 
-**A.**Not quite. I escaped from there, from Szegedin. I had been taken to Szeged to the hospital, from where I escaped on October 14, 1944. Then I went to Budapest, and I was a member of the underground until the liberation.
+**A.**Not quite. I escaped from there, from Szegedin. I had been taken to [[LOCATION:location_261|Szeged]] to the hospital, from where I escaped on October 14, 1944. Then I went to [[LOCATION:location_31|Budapest]], and I was a member of the underground until the liberation.
 
-**Q.**I believe you also testified in Hungary in the case of Marton Zoeldi.
+**Q.**I believe you also testified in [[LOCATION:location_24|Hungary]] in the case of Marton Zoeldi.
 
 **A.**Yes, Sir, I did.
 
@@ -454,7 +454,7 @@ And this commission came June 27th, Tuesday morning, and we had not been told th
 
 The two documents relate to a conference that took place at the beginning of April, on 3 or 4 April 1944, of all the "Juden-Referenten" - the directors of the Jewish sections in the German Foreign Ministry and in the German embassies in Europe.
 
-The first document is our No. 1186. This is a letter, dated 10 March 1944, from von Thadden to Eichmann, giving details of the conference, and stating that the agenda for the conference had been agreed upon with Eichmann. This was a meeting of all the consultants on "Aryanization" of the Head Office for Reich Security abroad and of all the Juden- Referenten of the German legations abroad. It says that the conference will take place in Krumhuebel in Silesia.
+The first document is our No. 1186. This is a letter, dated 10 March 1944, from von Thadden to Eichmann, giving details of the conference, and stating that the agenda for the conference had been agreed upon with Eichmann. This was a meeting of all the consultants on "Aryanization" of the Head Office for Reich Security abroad and of all the Juden- Referenten of the German legations abroad. It says that the conference will take place in [[LOCATION:location_133|Krumhuebel]] in [[LOCATION:location_103|Silesia]].
 
 **Judge Halevi:** Was there a special reason for that?
 
@@ -462,17 +462,17 @@ The first document is our No. 1186. This is a letter, dated 10 March 1944, from 
 
 **Presiding Judge:** This document will be marked T/1250.
 
-**Attorney General:** The Foreign Ministry asks all those invited to prepare their reports and their theses, and the Court will find, in the margin of the letter, a minute by von Thadden, dated 29 March 1944, that, owing to the events in the south-east, the Head Office for Reich Security would not be able to be represented at Krumhuebel by its advisers on "Aryanization" on the date specified.
+**Attorney General:** The Foreign Ministry asks all those invited to prepare their reports and their theses, and the Court will find, in the margin of the letter, a minute by von Thadden, dated 29 March 1944, that, owing to the events in the south-east, the Head Office for Reich Security would not be able to be represented at [[LOCATION:location_133|Krumhuebel]] by its advisers on "Aryanization" on the date specified.
 
-On 21 March 1944, the men in charge of the Jewish Department were occupied in a special action in the south-east. They were engaged in the extermination of the Jews of Hungary. But the conference took place without them.
+On 21 March 1944, the men in charge of the Jewish Department were occupied in a special action in the south-east. They were engaged in the extermination of the Jews of [[LOCATION:location_24|Hungary]]. But the conference took place without them.
 
-And here is the report of that conference. It is our No. 506. It is also PS 3319. It was submitted at Nuremberg.
+And here is the report of that conference. It is our No. 506. It is also PS 3319. It was submitted at [[LOCATION:location_39|Nuremberg]].
 
-I would draw the Court's attention, first of all, to the list of participants in that conference, which the Foreign Ministry prepared in conjunction with the Accused. This is to be found on the last pages. The Court will see the names of the lecturers: The opening speaker, Professor Dr. Six(this is the Defence witness), Ambassador Schleier, Dr. von Thadden, Professor Mahr, Dr. (Miss) Hauhsmann, Dr. Walz, Dr. Kutscher, Dr. Klassen, Dr. Matthias, Dr. Yanke, Dr. Meissner, and several others who represented Germany in France, Spain, Portugal, Switzerland, Italy, Sweden, Denmark, Romania, Bulgaria, Croatia, Slovakia and Turkey.
+I would draw the Court's attention, first of all, to the list of participants in that conference, which the Foreign Ministry prepared in conjunction with the Accused. This is to be found on the last pages. The Court will see the names of the lecturers: The opening speaker, Professor Dr. Six(this is the Defence witness), Ambassador Schleier, Dr. von Thadden, Professor Mahr, Dr. (Miss) Hauhsmann, Dr. Walz, Dr. Kutscher, Dr. Klassen, Dr. Matthias, Dr. Yanke, Dr. Meissner, and several others who represented [[LOCATION:location_2|Germany]] in [[LOCATION:location_30|France]], [[LOCATION:location_92|Spain]], [[LOCATION:location_217|Portugal]], [[LOCATION:location_53|Switzerland]], [[LOCATION:location_19|Italy]], [[LOCATION:location_144|Sweden]], [[LOCATION:location_22|Denmark]], [[LOCATION:location_129|Romania]], [[LOCATION:location_20|Bulgaria]], [[LOCATION:location_85|Croatia]], [[LOCATION:location_84|Slovakia]] and [[LOCATION:location_48|Turkey]].
 
 **Presiding Judge:** This document will be marked T/1251.
 
-**Attorney General:** In opening this well-attended conference, Professor Dr. Six, who was at that time already at the Foreign Ministry, begins by saying in his speech that the Fuehrer had laid down that the battle against Jewry had to be intensified, and, in particular, anti-Semitic propaganda had to be directed towards England and the United States. Anti-Jewish propaganda in neutral countries was difficult, but it was of the utmost importance, since, from the neutral countries, it was possible to radiate to England and the United States. (Ausstrahlungmoeglichkeiten).
+**Attorney General:** In opening this well-attended conference, Professor Dr. Six, who was at that time already at the Foreign Ministry, begins by saying in his speech that the Fuehrer had laid down that the battle against Jewry had to be intensified, and, in particular, anti-Semitic propaganda had to be directed towards [[LOCATION:location_43|England]] and the [[LOCATION:location_68|United States]]. Anti-Jewish propaganda in neutral countries was difficult, but it was of the utmost importance, since, from the neutral countries, it was possible to radiate to [[LOCATION:location_43|England]] and the [[LOCATION:location_68|United States]]. (Ausstrahlungmoeglichkeiten).
 
 On the second page, Dr. Six states...
 
@@ -488,18 +488,18 @@ On the second page, Dr. Six states...
 > gleichzeitig seine politische Rolle ausgespielt"
 > (European Jewry has already lost its biological and, at
 > the same time, its political role). Nevertheless,
-> there are still Jews left in England - so he says -
+> there are still Jews left in [[LOCATION:location_43|England]] - so he says -
 > "owing to its plutocratic structure."
 
 And, at the end of the page, Professor Dr. Six deals with Zionism. He says:
 
 > "Zionism means the return of the Jews to their homeland
-> in Palestine, in order to become there a political and
+> in [[LOCATION:location_57|Palestine]], in order to become there a political and
 > biological force once again. This question of a
-> renaissance in Palestine clashes at once with the Arab
+> renaissance in [[LOCATION:location_57|Palestine]] clashes at once with the Arab
 > problem. Jews were promised the return to their
 > homeland by the Balfour Declaration of 1917. The
-> Jewish element in Palestine had expanded and made much
+> Jewish element in [[LOCATION:location_57|Palestine]] had expanded and made much
 > progress at the expense of the Arab people."
 
 And here there is a sentence:
@@ -509,15 +509,15 @@ And here there is a sentence:
 > liquidation of the Jews in the east deprives the Jewish
 > People of its biological reserves).
 
-And here, again, comes the notorious libel. The Jew is connected with Bolshevism. In England, he is linked to high finance. I have already had an opportunity to mention to the Court that the Jew is the enemy of National Socialism in its twin aspects: As a communist, he is the enemy of Nazism; as a capitalist, he is the enemy of so-called socialism. Consequently, he is a perfect target for an attack on the two aspects of this name. Professor Six concludes:
+And here, again, comes the notorious libel. The Jew is connected with Bolshevism. In [[LOCATION:location_43|England]], he is linked to high finance. I have already had an opportunity to mention to the Court that the Jew is the enemy of National Socialism in its twin aspects: As a communist, he is the enemy of Nazism; as a capitalist, he is the enemy of so-called socialism. Consequently, he is a perfect target for an attack on the two aspects of this name. Professor Six concludes:
 
-> "Not only in Germany, but also on the international
+> "Not only in [[LOCATION:location_2|Germany]], but also on the international
 > scene, a solution to the Jewish Question must be
 > reached."
 
 Later on, von Thadden, in his speech, gives an account of the steps which world Jewry has taken in reaction against the German operation against European Jewry. ("Der Redner fuehrte dann aus, welche Gegenmassnahmen das Weltjudentum gegen die deutschen antijuedischen Massnahmen in Europa durchfuehrt.")
 
-At the end of his account, he reports on executive actions which, because of their secret nature, are not included in the minutes. There is nobody there of the Jewish Department, since we know that Eichmann, Krumey, Hunsche, Brunner, and all the gang were in Budapest, but there is a delegate of the Reichssicherheitshauptamt, SS Hauptsturmbannfuehrer Dr. Ballensiefen, and he reports on the attempts to carry out anti-Jewish activities in Hungary, in connection with the political events there.
+At the end of his account, he reports on executive actions which, because of their secret nature, are not included in the minutes. There is nobody there of the Jewish Department, since we know that Eichmann, Krumey, Hunsche, Brunner, and all the gang were in [[LOCATION:location_31|Budapest]], but there is a delegate of the Reichssicherheitshauptamt, SS Hauptsturmbannfuehrer Dr. Ballensiefen, and he reports on the attempts to carry out anti-Jewish activities in [[LOCATION:location_24|Hungary]], in connection with the political events there.
 
 Professor Dr. Mahr talks of the possibilities of anti-Jewish propaganda on the radio.
 
@@ -525,23 +525,23 @@ Dr. (Miss) Hauhsmann discusses the anti-Jewish activities that can be carried on
 
 Dr. Walz asks that the particular mentality of each nation to which the anti-Semitic propaganda is directed be taken into consideration.
 
-Dr. Kutscher says: "The Jews are the misfortune of all nations. A Jewish victory will be the end of all culture (for example, Russia)."
+Dr. Kutscher says: "The Jews are the misfortune of all nations. A Jewish victory will be the end of all culture (for example, [[LOCATION:location_10|Russia]])."
 
 **Judge Halevi:** How much longer do we have to hear about all those speeches? Surely this also appears in Mein Kampf? What is new about that?
 
-**Attorney General:** The novelty lies in the fact that, in April 1944, when the balance was moving towards the other side, when Germany was engaged in the massive Soviet counter- attack, when the invasion forces for Europe were getting ready in the British Isles - that was what preoccupied the Germans. It was for this purpose that they called this large European conference, in order to continue the struggle against the Jews - in co-operation with the Accused.
+**Attorney General:** The novelty lies in the fact that, in April 1944, when the balance was moving towards the other side, when [[LOCATION:location_2|Germany]] was engaged in the massive Soviet counter- attack, when the invasion forces for Europe were getting ready in the British Isles - that was what preoccupied the Germans. It was for this purpose that they called this large European conference, in order to continue the struggle against the Jews - in co-operation with the Accused.
 
 And now, Your Honour, we come to the precise recommendation of each expert on how to spread anti-Semitism in his country.
 
-The French delegate suggests how this can be done in France by exhibitions of photographs. There are problems in Portugal, for it is difficult to talk there of a purge in the German sense, but there the nation must be purged of the remnants of Jewish blood which still exists within the nation. From Switzerland comes a report that a healthy anti- Semitic instinct exists there within the population, but it has to be nurtured. While anti-Semitic propaganda must proceed with caution, and its German origin must not be revealed ("den deutschen Ursprung nicht verraten"), it is worthwhile considering revelations of scandals in which Jews are involved, dealing with Jewish personalities, the spreading of Jewish jokes.
+The French delegate suggests how this can be done in [[LOCATION:location_30|France]] by exhibitions of photographs. There are problems in [[LOCATION:location_217|Portugal]], for it is difficult to talk there of a purge in the German sense, but there the nation must be purged of the remnants of Jewish blood which still exists within the nation. From [[LOCATION:location_53|Switzerland]] comes a report that a healthy anti- Semitic instinct exists there within the population, but it has to be nurtured. While anti-Semitic propaganda must proceed with caution, and its German origin must not be revealed ("den deutschen Ursprung nicht verraten"), it is worthwhile considering revelations of scandals in which Jews are involved, dealing with Jewish personalities, the spreading of Jewish jokes.
 
-In Italy, the nation must be told that the Jews are active in the black market, and illustrated brochures ("illustrierte Broschueren") should be distributed.
+In [[LOCATION:location_19|Italy]], the nation must be told that the Jews are active in the black market, and illustrated brochures ("illustrierte Broschueren") should be distributed.
 
-In Sweden, there are complaints about the spreading of anti- Semitic propaganda. However, there are possibilities of bringing anti-Semitism to life, if the wave of Jewish immigration from Denmark were to be exploited. The difficulty is that it is not possible to broadcast any anti- Semitic propaganda on the Swedish radio. The delegate from Romania complained that the racial aspect and the anti- Semitic ideology had been neglected, and that they had concentrated solely on economic and material measures against the Jews.
+In [[LOCATION:location_144|Sweden]], there are complaints about the spreading of anti- Semitic propaganda. However, there are possibilities of bringing anti-Semitism to life, if the wave of Jewish immigration from [[LOCATION:location_22|Denmark]] were to be exploited. The difficulty is that it is not possible to broadcast any anti- Semitic propaganda on the Swedish radio. The delegate from [[LOCATION:location_129|Romania]] complained that the racial aspect and the anti- Semitic ideology had been neglected, and that they had concentrated solely on economic and material measures against the Jews.
 
 **Presiding Judge:** Very well - and so it went on from country to country.
 
-**Attorney General:** So it went on from country to country - the determination of the most effective measures for action, how to disseminate the "Protocols of the Elders of Zion." This is suggested for Turkey, on a scientific basis. It is also interesting to refer to the case of Slovakia. It is world-embracing. There is reference to Japan. On page 14, Consul Meissner talks about a solution of the Jewish Question in Japan and in the Far East. He points to the large number of Jews from Germany who had managed to escape there. There, too, they must be reached.
+**Attorney General:** So it went on from country to country - the determination of the most effective measures for action, how to disseminate the "Protocols of the Elders of Zion." This is suggested for [[LOCATION:location_48|Turkey]], on a scientific basis. It is also interesting to refer to the case of [[LOCATION:location_84|Slovakia]]. It is world-embracing. There is reference to [[LOCATION:location_104|Japan]]. On page 14, Consul Meissner talks about a solution of the Jewish Question in [[LOCATION:location_104|Japan]] and in the Far East. He points to the large number of Jews from [[LOCATION:location_2|Germany]] who had managed to escape there. There, too, they must be reached.
 
 We have the agenda here, with the breakfasts and lunches that were served, together with anti-Jewish films that were screened for the participants. "Les Corrupteurs" - that is the name of the film which was shown to the conference delegates. And the record of the proceedings, as the Court will notice later from the last page, goes to all the German embassies in Europe.
 

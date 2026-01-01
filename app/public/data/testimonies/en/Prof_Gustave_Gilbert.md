@@ -1,4 +1,4 @@
-# Testimony of Prof. Gustave Gilbert
+# Testimony of [[PERSON:witness_79|Prof. Gustave Gilbert]]
 
 **Session:** 55
 
@@ -16,11 +16,11 @@
 
 **A.**I am a qualified psychologist, having received the Doctorate at Columbia University in 1939. I also hold a diploma from the American Board of Examiners in Professional Psychology.
 
-**Q.**Were you in military service during the Second World War?
+**Q.**Were you in military service during the [[EVENT:event_383|Second World War]]?
 
-**A.**Yes, I was commissioned as a military psychologist with the rank of First Lieutenant, and after spending some time examining misfit soldiers, I was sent overseas as a military intelligence officer, because of my knowledge of German. At the cessation of hostilities, I was assigned to the International Military Tribunal in Nuremberg, where the major Nazi war criminals were about to be tried. That was the first trial of the major war criminals.
+**A.**Yes, I was commissioned as a military psychologist with the rank of First Lieutenant, and after spending some time examining misfit soldiers, I was sent overseas as a military intelligence officer, because of my knowledge of German. At the cessation of hostilities, I was assigned to the International Military Tribunal in [[LOCATION:location_39|Nuremberg]], where the major Nazi war criminals were about to be tried. That was the first trial of the major war criminals.
 
-**Q.**What was your function at the Nuremberg prison?
+**Q.**What was your function at the [[LOCATION:location_39|Nuremberg]] prison?
 
 **A.**It was, first of all, to make psychological examinations of all the defendants - Goering, Hoess, Ribbentrop and so on, in order to be informed of their mental state, in case any question of insanity arose, and also to keep watch over them - to be with them at all times, so that I would have my finger on the pulse of their morale and so on, and do everything that was possible to ensure the conduct of an orderly trial.
 
@@ -34,13 +34,13 @@
 
 **Q.**Did the fact that you revealed to them that you were a Jew have any effect on your subsequent talks with them?
 
-**A.**There was not really much, except in the case of Streicher and Rosenberg, who seemed to be a little nervous about it, but they reacted in rather a strange way: Streicher, for instance, decided that, since the Jews were fighting courageously to make a homeland in Palestine, he wanted to "lead" them, because he admired their courage.
+**A.**There was not really much, except in the case of Streicher and Rosenberg, who seemed to be a little nervous about it, but they reacted in rather a strange way: Streicher, for instance, decided that, since the Jews were fighting courageously to make a homeland in [[LOCATION:location_57|Palestine]], he wanted to "lead" them, because he admired their courage.
 
 Outside of such nonsense, there was really no appreciable effect. I behaved absolutely correctly - they appreciated it, and the study went on in a perfectly dignified professional manner. Perhaps I might add that there is ample evidence that I had the respect and cooperation of the defendants - perhaps Dr. Servatius himself can confirm this.
 
 **Q.**Let us continue. Did you give any official evidence before the International Military Tribunal in relation to your task?
 
-**A.**The only actual official testimony was in connection with the sanity hearing for Rudolf Hess. I testified - I gave the final testimony that Rudolf Hess was, in fact, sane; and this testimony appears in Volume I of the proceedings of the International Military Tribunal. Now, aside from that, of course, I had examined all of the defendants and was with them all through the trial.
+**A.**The only actual official testimony was in connection with the sanity hearing for [[PERSON:person_661|Rudolf Hess]]. I testified - I gave the final testimony that [[PERSON:person_661|Rudolf Hess]] was, in fact, sane; and this testimony appears in Volume I of the proceedings of the International Military Tribunal. Now, aside from that, of course, I had examined all of the defendants and was with them all through the trial.
 
 **Q.**Did you subject them to psychological tests?
 
@@ -48,7 +48,7 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **Q.**Did you keep in contact with the accused persons also after the trials had begun?
 
-**A.**Oh yes, I was in intimate daily contact with all of the Nazis on trial in Nuremberg; I was with them every day in the court, I spoke to them during the court intermissions and during the lunch hours, and had extensive conversations with them at night in their cells and over the long weekends and recesses from court. This went on from the beginning of the trial to the end of the trial, without losing a day.
+**A.**Oh yes, I was in intimate daily contact with all of the Nazis on trial in [[LOCATION:location_39|Nuremberg]]; I was with them every day in the court, I spoke to them during the court intermissions and during the lunch hours, and had extensive conversations with them at night in their cells and over the long weekends and recesses from court. This went on from the beginning of the trial to the end of the trial, without losing a day.
 
 **Q.**Did you keep notes of your conversations with these accused?
 
@@ -62,13 +62,13 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **Witness Gilbert:** That's right. These essays are in my possession, and most of it has not been published - hardly any of it, in fact.
 
-**Q.**Your diary is here with you, as I can see - the one you kept at Nuremberg.
+**Q.**Your diary is here with you, as I can see - the one you kept at [[LOCATION:location_39|Nuremberg]].
 
-**A.**Yes, these are my original diary notes, in their original binding, just as I kept them in Nuremberg. In fact, it just so happens that I had them locked in a trunk for the last ten years, and they only arrived by diplomatic pouch last night, so they are substantially as they were in Nuremberg.
+**A.**Yes, these are my original diary notes, in their original binding, just as I kept them in [[LOCATION:location_39|Nuremberg]]. In fact, it just so happens that I had them locked in a trunk for the last ten years, and they only arrived by diplomatic pouch last night, so they are substantially as they were in [[LOCATION:location_39|Nuremberg]].
 
-**Q.**Did you publish part of it in 1947, under the name Nuremberg Diary?
+**Q.**Did you publish part of it in 1947, under the name [[LOCATION:location_39|Nuremberg]] Diary?
 
-**A.**Yes, that is correct. The original edition of the Nuremberg Diary, which represents, I should say, about two- thirds of the material in my original diaries, was published in 1947.
+**A.**Yes, that is correct. The original edition of the [[LOCATION:location_39|Nuremberg]] Diary, which represents, I should say, about two- thirds of the material in my original diaries, was published in 1947.
 
 **Q.**Has this now appeared in a new edition?
 
@@ -88,7 +88,7 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **Presiding Judge:** Thank you very much. This will be marked T/1168.
 
-**Attorney General:** We shall come back to this diary of yours, but meanwhile I wanted to ask you a number of questions. When you were in Nuremberg, did you see Judge Musmanno there?
+**Attorney General:** We shall come back to this diary of yours, but meanwhile I wanted to ask you a number of questions. When you were in [[LOCATION:location_39|Nuremberg]], did you see Judge Musmanno there?
 
 **Witness Gilbert:** Oh yes. He wasn't Judge Musmanno then. He was Commander Musmanno of the Navy. I remember him very well.
 
@@ -98,7 +98,7 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **Q.**What was Judge Musmanno doing there?
 
-**A.**He was on two missions, as I recall. One was to investigate the death of Adolf Hitler. The other one pertained to naval military intelligence, and I don't think I'm free to speak about that. It's quite irrelevant to the trial.
+**A.**He was on two missions, as I recall. One was to investigate the death of [[PERSON:person_397|Adolf Hitler]]. The other one pertained to naval military intelligence, and I don't think I'm free to speak about that. It's quite irrelevant to the trial.
 
 **Q.**Did you introduce him, Judge Musmanno, to some of the accused?
 
@@ -108,7 +108,7 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **A.**Yes. Goering was one of them. Since Goering couldn't speak English, I remained for that interview as his interpreter.
 
-**Attorney General:** At this stage, I request the Court to rule, by virtue of its powers under Section 15 of the Nazis and Nazi Collaborators (Punishment) Act 5710-1950, that Professor Gilbert should be permitted to recount what he heard at Nuremberg from the following persons: Goering, Ribbentrop, Keitel, Frank, Oswald Pohl, Ohlendorf, Rudolf Hoess (the commandant of Auschwitz), and Kaltenbrunner. All these conversations are relevant to the subject under discussion; some of them are also linked to the evidence of Judge Musmanno and to the matters on which he testified, others are linked directly to the Accused, to persons with whom he was in contact, and with remarks which they made about him, with their mentality, with the Nazi personnel structure...
+**Attorney General:** At this stage, I request the Court to rule, by virtue of its powers under Section 15 of the Nazis and Nazi Collaborators (Punishment) Act 5710-1950, that Professor Gilbert should be permitted to recount what he heard at [[LOCATION:location_39|Nuremberg]] from the following persons: Goering, Ribbentrop, Keitel, Frank, [[PERSON:person_662|Oswald Pohl]], Ohlendorf, [[PERSON:person_405|Rudolf Hoess]] (the commandant of [[LOCATION:location_286|Auschwitz]]), and Kaltenbrunner. All these conversations are relevant to the subject under discussion; some of them are also linked to the evidence of Judge Musmanno and to the matters on which he testified, others are linked directly to the Accused, to persons with whom he was in contact, and with remarks which they made about him, with their mentality, with the Nazi personnel structure...
 
 **Presiding Judge:** With whose mentality?
 
@@ -140,9 +140,9 @@ Outside of such nonsense, there was really no appreciable effect. I behaved abso
 
 **Presiding Judge:** No, this is a legal argument. If it would be more comfortable for you to be seated, you remain where you are; if not, you may leave the witness box. Perhaps some member of the Prosecution, Mr. Bach, the Assistant State Attorney, will explain to you briefly what is going on here, as we did in the case of Judge Musmanno. For that we have a precedent.
 
-**Dr. Servatius:** If a psychological research is going to be presented here dealing with what the Nuremberg accused said and thought, I should have received, in the first place, the tests that were conducted here concerning the Accused himself.
+**Dr. Servatius:** If a psychological research is going to be presented here dealing with what the [[LOCATION:location_39|Nuremberg]] accused said and thought, I should have received, in the first place, the tests that were conducted here concerning the Accused himself.
 
-**Presiding Judge:** Dr. Servatius, pardon me. I have already said to the Attorney General that we shall deal separately with the question of the psychological tests. We now have here an application to hear evidence on what the witness heard from the Nuremberg accused whose names we have heard. This is the first question, irrespective of the psychological aspect of the matter. What is your reply to that?
+**Presiding Judge:** Dr. Servatius, pardon me. I have already said to the Attorney General that we shall deal separately with the question of the psychological tests. We now have here an application to hear evidence on what the witness heard from the [[LOCATION:location_39|Nuremberg]] accused whose names we have heard. This is the first question, irrespective of the psychological aspect of the matter. What is your reply to that?
 
 **Dr. Servatius:** I believe that such a question has already arisen here once, and it was settled by the Court. I believe that this is hearsay evidence, and I want to voice an objection, something which I have already done previously.
 
@@ -159,7 +159,7 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **Attorney General:** Now, Professor Gilbert, you say that you took Judge Musmanno to Goering and acted as translator. What was said in that conversation?
 
-**Witness Gilbert:** Well, Goering said more or less the same things that he had said to me, namely that he was sure that Hitler was dead and that his political testament was genuine. This was the political testament, I'm sure you all know, in which Adolf Hitler accused the Jews of starting a war and admitted ordering their extermination as punishment. There is psychology behind that, but we need not go into it. Then Goering, of course, was asked what he thought about this crime of extermination and he immediately said: "Well, this, of course, was not any business of mine, it was not in my jurisdiction, it was under the jurisdiction of Himmler and his boys, Heydrich, Eichmann and so on."
+**Witness Gilbert:** Well, Goering said more or less the same things that he had said to me, namely that he was sure that Hitler was dead and that his political testament was genuine. This was the political testament, I'm sure you all know, in which [[PERSON:person_397|Adolf Hitler]] accused the Jews of starting a war and admitted ordering their extermination as punishment. There is psychology behind that, but we need not go into it. Then Goering, of course, was asked what he thought about this crime of extermination and he immediately said: "Well, this, of course, was not any business of mine, it was not in my jurisdiction, it was under the jurisdiction of Himmler and his boys, Heydrich, Eichmann and so on."
 
 **Q.**Did you introduce Judge Musmanno to other accused persons?
 
@@ -175,7 +175,7 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **Q.**What led you to the conclusion that Eichmann was dead?
 
-**A.**Well, his own boss, Kaltenbrunner, told me he was dead. I remember this conversation very vividly, because it was the one day on which, I'm afraid, I lost a little of my professional aloofness. This was a day on which a survivor of Auschwitz testified how the children born in concentration camps were taken from their mothers and never seen again, and then, in the rush season of 1944, children were thrown alive into the furnaces of Auschwitz. This was too much, even for a psychologist, and I went to Kaltenbrunner at lunch that day, and I said: "Herr Kaltenbrunner, now do you really mean to tell me that you know nothing about these things?" And he said, "No, no, really. I didn't have anything to do with the extermination programme as such. This was done by Heydrich and Eichmann and the people in that context - Heydrich, Eichmann and the others involved in this chain of command, from Himmler on down. And," he added, "they're all dead."
+**A.**Well, his own boss, Kaltenbrunner, told me he was dead. I remember this conversation very vividly, because it was the one day on which, I'm afraid, I lost a little of my professional aloofness. This was a day on which a survivor of [[LOCATION:location_286|Auschwitz]] testified how the children born in concentration camps were taken from their mothers and never seen again, and then, in the rush season of 1944, children were thrown alive into the furnaces of [[LOCATION:location_286|Auschwitz]]. This was too much, even for a psychologist, and I went to Kaltenbrunner at lunch that day, and I said: "Herr Kaltenbrunner, now do you really mean to tell me that you know nothing about these things?" And he said, "No, no, really. I didn't have anything to do with the extermination programme as such. This was done by Heydrich and Eichmann and the people in that context - Heydrich, Eichmann and the others involved in this chain of command, from Himmler on down. And," he added, "they're all dead."
 
 **Q.**Is that to be found on page 163 of your book?
 
@@ -193,23 +193,23 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **A.**Yes, this can be found in the original diary - all of these notes that are in the public version can be found in the original diary which I kept at the time.
 
-**Q.**Did anyone else in the Nuremberg gaol talk to you about Eichmann when you were on your official mission?
+**Q.**Did anyone else in the [[LOCATION:location_39|Nuremberg]] gaol talk to you about Eichmann when you were on your official mission?
 
-**A.**Yes, the name came more and more into discussion, not so much amongst the main Nazi war criminals, but among the SS men of whom we had practically the entire military and police power in gaol in Nuremberg. There were many higher SS police officials, and I frequently ran across Eichmann's name there - at first, somewhat to my surprise, but more and more a clear picture emerged.
+**A.**Yes, the name came more and more into discussion, not so much amongst the main Nazi war criminals, but among the SS men of whom we had practically the entire military and police power in gaol in [[LOCATION:location_39|Nuremberg]]. There were many higher SS police officials, and I frequently ran across Eichmann's name there - at first, somewhat to my surprise, but more and more a clear picture emerged.
 
-**Q.**Did you speak to Oswald Pohl about Eichmann?
+**Q.**Did you speak to [[PERSON:person_662|Oswald Pohl]] about Eichmann?
 
-**A.**Yes. Oswald Pohl - I believe his title was Obergruppenfuehrer Pohl, the Chief of the WVHA - was also in Nuremberg, and I, of course, discussed the atrocities with him.
+**A.**Yes. [[PERSON:person_662|Oswald Pohl]] - I believe his title was [[PERSON:person_490|Obergruppenfuehrer Pohl]], the Chief of the WVHA - was also in [[LOCATION:location_39|Nuremberg]], and I, of course, discussed the atrocities with him.
 
 **Q.**What did he say to you?
 
 **A.**Well, he tried to get into a jurisdictional dispute about who had charge of the extermination programme. He, of course, disclaimed responsibility for himself, insisting that this was under Kaltenbrunner's jurisdiction, but he made it quite clear that Eichmann was involved. In other words, both Kaltenbrunner and Pohl tried to shove on to the other the responsibility for being in charge of the bureaucracy, but both agreed, automatically, that Eichmann was the one involved, at least one of those involved.
 
-**Q.**Pohl was kept in the witness wing in the Nuremberg gaol - is that correct?
+**Q.**Pohl was kept in the witness wing in the [[LOCATION:location_39|Nuremberg]] gaol - is that correct?
 
-**A.**Yes, in the witness wing there was the rest of the top hierarchy of Nazi Germany, and they were interrogated at times, called at times as witnesses by the defendants, sometimes by the prosecution; I had access to all of those - just as free access as I had to the top Nazis themselves.
+**A.**Yes, in the witness wing there was the rest of the top hierarchy of Nazi [[LOCATION:location_2|Germany]], and they were interrogated at times, called at times as witnesses by the defendants, sometimes by the prosecution; I had access to all of those - just as free access as I had to the top Nazis themselves.
 
-**Q.**Is that where you also met Ohlendorf and Rudolf Hoess?
+**Q.**Is that where you also met Ohlendorf and [[PERSON:person_405|Rudolf Hoess]]?
 
 **A.**Yes.
 
@@ -219,7 +219,7 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **Q.**You said that other people spoke to you about Eichmann. Who were they?
 
-**A.**Well, the main one was Rudolf Hoess, the Commandant of Auschwitz.
+**A.**Well, the main one was [[PERSON:person_405|Rudolf Hoess]], the Commandant of [[LOCATION:location_286|Auschwitz]].
 
 **Q.**What did Hoess say about Eichmann?
 
@@ -229,17 +229,17 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **A.**Well, I was starting to investigate something else. What I was really interested in was what makes these Nazis tick. So I was trying to find out what made Colonel Hoess tick, how could he do things like this? And in the orderly procedure of getting a case history on a subject, I asked Colonel Hoess to write an autobiography telling his entire history from childhood up to the present time.
 
-**Q.**Are you referring to that autobiography which was published under the title "Commandant of Auschwitz"?
+**Q.**Are you referring to that autobiography which was published under the title "Commandant of [[LOCATION:location_286|Auschwitz]]"?
 
-**A.**Oh, no - I am speaking of the original autobiography which Colonel Hoess wrote for me in Nuremberg, for purely psychological purposes, in his own handwriting.
+**A.**Oh, no - I am speaking of the original autobiography which Colonel Hoess wrote for me in [[LOCATION:location_39|Nuremberg]], for purely psychological purposes, in his own handwriting.
 
 **Q.**You have kept it in your possession until now, and it has not been published so far?
 
-**A.**That's right - that is one of the original written documents I had to confirm my conversations, and it hasn't been published except for excerpts which I used in analysing the case of Rudolf Hoess in my second book, The Psychology of Dictatorship.
+**A.**That's right - that is one of the original written documents I had to confirm my conversations, and it hasn't been published except for excerpts which I used in analysing the case of [[PERSON:person_405|Rudolf Hoess]] in my second book, The Psychology of Dictatorship.
 
-**Q.**Did Hoess write it before he wrote his autobiography in Poland?
+**Q.**Did Hoess write it before he wrote his autobiography in [[LOCATION:location_5|Poland]]?
 
-**A.**Oh, yes - definitely; he had not yet been brought to Poland to stand trial, and I was the first one, I believe, to ask him for his case history.
+**A.**Oh, yes - definitely; he had not yet been brought to [[LOCATION:location_5|Poland]] to stand trial, and I was the first one, I believe, to ask him for his case history.
 
 **Q.**I notice there is a date at the top - 10 April 1946. And Hoess ended it on 12 April. It took him two days to write - would that be correct?
 
@@ -255,7 +255,7 @@ We shall permit evidence by this witness about matters which he heard from those
 
 **Q.**Signed by him?
 
-**A.**Yes, this is Rudolf Hoess' signature, and this is exactly the document which he wrote for me.
+**A.**Yes, this is [[PERSON:person_405|Rudolf Hoess]]' signature, and this is exactly the document which he wrote for me.
 
 **Presiding Judge:** Did the witness receive this from the hands of Hoess?
 
@@ -291,7 +291,7 @@ Tell me, Professor Gilbert, did Hoess testify in Court?
 
 **A.**Yes. He was a witness for Kaltenbrunner.
 
-**Q.**He gave evidence, or at any rate evidence was led, showing that 2,500,000 men, women and children had been exterminated in the gas chambers at Auschwitz.
+**Q.**He gave evidence, or at any rate evidence was led, showing that 2,500,000 men, women and children had been exterminated in the gas chambers at [[LOCATION:location_286|Auschwitz]].
 
 **A.**Yes.
 
@@ -299,9 +299,9 @@ Tell me, Professor Gilbert, did Hoess testify in Court?
 
 **A.**Well, this was one of the main psychological problems at the trial. The atrocity evidence of the extermination and the films of the atrocities and concentration camps sometimes had a very shocking effect on the defendants themselves, and I was very anxious to find out just how genuine this was, and what their guilt reactions were from a psychological point of view.
 
-**Q.**Do you remember what Hans Frank said to you?
+**Q.**Do you remember what [[PERSON:person_492|Hans Frank]] said to you?
 
-**A.**Yes. In connection with the testimony of Rudolf Hoess, he stopped me in the hall on the way to lunch or from lunch and said: "Captain Gilbert, this was the lowest point of the trial. Just imagine a man sitting there and saying out of his own mouth: I murdered two and a half million men, women, and children." Oh yes, I remember the additional comment: "People will talk about this for a thousand years."
+**A.**Yes. In connection with the testimony of [[PERSON:person_405|Rudolf Hoess]], he stopped me in the hall on the way to lunch or from lunch and said: "Captain Gilbert, this was the lowest point of the trial. Just imagine a man sitting there and saying out of his own mouth: I murdered two and a half million men, women, and children." Oh yes, I remember the additional comment: "People will talk about this for a thousand years."
 
 **Q.**Do you recall the testimony of Keitel who, I believe, was the Chief of the German General Staff?
 
@@ -309,7 +309,7 @@ Tell me, Professor Gilbert, did Hoess testify in Court?
 
 **Q.**Do you remember any unusual reaction on the part of anyone else?
 
-**A.**Well, there were a number of them. We could, of course, go on and on, but I think we want to come back to the documents that form the picture that I gradually formed of the role of Adolf Eichmann.
+**A.**Well, there were a number of them. We could, of course, go on and on, but I think we want to come back to the documents that form the picture that I gradually formed of the role of [[PERSON:person_775|Adolf Eichmann]].
 
 **Q.**That is correct.
 
@@ -323,7 +323,7 @@ Now then, realizing that he was determined to try to blot out the memory of this
 
 **Q.**And then, what did you do?
 
-**A.**I therefore told him... I'm sorry. No, the next step was his clinching argument, namely, that it was technically impossible to exterminate two and a half million people inside of the three or three and a half years that Colonel Hoess was Commandant of Auschwitz. This seemed to be very convincing to some of the other Nazi leaders.
+**A.**I therefore told him... I'm sorry. No, the next step was his clinching argument, namely, that it was technically impossible to exterminate two and a half million people inside of the three or three and a half years that Colonel Hoess was Commandant of [[LOCATION:location_286|Auschwitz]]. This seemed to be very convincing to some of the other Nazi leaders.
 
 **Q.**What did you do, then?
 
@@ -452,7 +452,7 @@ Now then, realizing that he was determined to try to blot out the memory of this
 >
 >
 >
-> "In Birkenau there were five installations - two large
+> "In [[LOCATION:location_286|Birkenau]] there were five installations - two large
 > crematoria, each of which had a capacity for receiving
 > 2,000 persons in the course of 24 hours. That is to
 > say, it was possible in one gas chamber to put to death
@@ -478,14 +478,14 @@ Now then, realizing that he was determined to try to blot out the memory of this
 > 1944, when delays occurred in the arrival of trains,
 > and consequently five transports arrived together on
 > one day. The ashes of the burnt bodies were ground
-> into dust, which was poured into the Vistula in remote
+> into dust, which was poured into the [[LOCATION:location_162|Vistula]] in remote
 > places and swept away with the current.
 >
 >
 >
 > "On the basis of the figure of 2.5 million, which is
 > the number of people who - according to Eichmann - were
-> brought to Auschwitz for extermination, it may be said
+> brought to [[LOCATION:location_286|Auschwitz]] for extermination, it may be said
 > that, on the average, two transports arrived daily,
 > with a combined total of 4,000 persons, of whom twenty-
 > five per cent were fit for work, the balance of 3,000
@@ -517,15 +517,15 @@ Now then, realizing that he was determined to try to blot out the memory of this
 >
 >
 >
-> Nuremberg, 24 April 1946 (Signed) Rudolf Hoess
+> Nuremberg, 24 April 1946 (Signed) [[PERSON:person_405|Rudolf Hoess]]
 >
 >
 >
-> (At the bottom of the document): Hungary - 400,000;
-> Slovakia - 90,000; Greece - 65,000; Holland - 90,000;
-> France - 110,000; Belgium - 20,000; the region of the
-> Generalgouvernement and Upper Silesia - 250,000;
-> Germany and Terezin - 100,000. Total - 1,125,000."
+> (At the bottom of the document): [[LOCATION:location_24|Hungary]] - 400,000;
+> Slovakia - 90,000; [[LOCATION:location_26|Greece]] - 65,000; Holland - 90,000;
+> France - 110,000; [[LOCATION:location_21|Belgium]] - 20,000; the region of the
+> Generalgouvernement and Upper [[LOCATION:location_103|Silesia]] - 250,000;
+> Germany and [[LOCATION:location_34|Terezin]] - 100,000. Total - 1,125,000."
 
 **Presiding Judge:** Do you have the original of this document?
 
@@ -535,7 +535,7 @@ Now then, realizing that he was determined to try to blot out the memory of this
 
 **Q.**And, so far, it has not been published?
 
-**A.**It has not been published as such, but there is also a partial excerpt of it in my second book, in The Case of Rudolf Hoess.
+**A.**It has not been published as such, but there is also a partial excerpt of it in my second book, in The Case of [[PERSON:person_405|Rudolf Hoess]].
 
 **Attorney General:** Please submit this to the Court.
 
@@ -551,11 +551,11 @@ Now then, realizing that he was determined to try to blot out the memory of this
 
 **Witness Gilbert:** He was trying to reconstruct the total number of victims whom Colonel Eichmann had sent to him for extermination; and there seemed to be a discrepancy in the number he remembered and the number he had got from Colonel Eichmann.
 
-**Attorney General:** What was the mental condition of Rudolf Hoess at the time he wrote these words - at the time he was imprisoned in Nuremberg?
+**Attorney General:** What was the mental condition of [[PERSON:person_405|Rudolf Hoess]] at the time he wrote these words - at the time he was imprisoned in [[LOCATION:location_39|Nuremberg]]?
 
-**Witness Gilbert:** He was apathetic - as he always was, I gathered from the psychological examination; he was resigned to his death; he had no interest whatever in falsifying any testimony; what he had already told me in his cell in Nuremberg, in our conversations, he repeated again on the witness stand. It was all an automatic culmination of a career that was marked by death and must end in death, and he had no particular feelings about any of this - he just automatically wrote what he knew when asked.
+**Witness Gilbert:** He was apathetic - as he always was, I gathered from the psychological examination; he was resigned to his death; he had no interest whatever in falsifying any testimony; what he had already told me in his cell in [[LOCATION:location_39|Nuremberg]], in our conversations, he repeated again on the witness stand. It was all an automatic culmination of a career that was marked by death and must end in death, and he had no particular feelings about any of this - he just automatically wrote what he knew when asked.
 
-**Judge Halevi:** What was the date he testified at Nuremberg?
+**Judge Halevi:** What was the date he testified at [[LOCATION:location_39|Nuremberg]]?
 
 **Witness Gilbert:** It was in April of 1946 - if I may look in the diary I could give you the exact date...or Your Honours could find it there. Yes, April 15th, Your Honours.
 
@@ -607,7 +607,7 @@ But here, in these special circumstances, I have to put to the witness a questio
 
 Two documents, two affidavits have been produced here. If he is going to express his opinion only on these, the Court would be able to test that. But all the other conversations, which the witness conducted with the various accused persons there, cannot serve as a basis for his opinion where the facts have not been brought before the Court.
 
-With regard to the witness' statement - I was present at Nuremberg, and I am able to confirm the extent to which the accused men co-operated with him, and I can accept this as being correct. But the Court will also note that subsequently the accused men held conversations amongst themselves, in which they made sarcastic references to their discussions with the witness, and they even voiced a kind of mocking comment on the "soul examiner." They were under the impression that the witness was acting as an expert for a certain purpose, hence they also assumed that their words to him were intended for a certain purpose.
+With regard to the witness' statement - I was present at [[LOCATION:location_39|Nuremberg]], and I am able to confirm the extent to which the accused men co-operated with him, and I can accept this as being correct. But the Court will also note that subsequently the accused men held conversations amongst themselves, in which they made sarcastic references to their discussions with the witness, and they even voiced a kind of mocking comment on the "soul examiner." They were under the impression that the witness was acting as an expert for a certain purpose, hence they also assumed that their words to him were intended for a certain purpose.
 
 **Presiding Judge:** Dr. Servatius, I did not quite understand what you mean by facts that you have referred to in your argument. For example, these statements that were recorded by Hoess - are these facts in the sense in which you used the word in your argument?
 
@@ -621,7 +621,7 @@ With regard to the witness' statement - I was present at Nuremberg, and I am abl
 
 Decision No. 59
 
-We shall admit evidence from the witness about the external circumstances in which he heard the statements from the Nuremberg prisoners, and also on the mental condition of the prisoners at that time, but not about his conclusions concerning the credibility of their remarks.
+We shall admit evidence from the witness about the external circumstances in which he heard the statements from the [[LOCATION:location_39|Nuremberg]] prisoners, and also on the mental condition of the prisoners at that time, but not about his conclusions concerning the credibility of their remarks.
 
 **Attorney General:** Perhaps the Court will allow me to speak English at this stage?
 
@@ -630,7 +630,7 @@ We shall admit evidence from the witness about the external circumstances in whi
 
 **Attorney General:** In view of the Court's ruling, I will change my question, and I will ask you, Professor, whether you had any professional data on which to base any conclusions - I'm not asking you what the conclusion was - as to the veracity of Hoess' statement.
 
-**Witness Gilbert:** Yes, I did. I would like to point out that as a scientifically trained psychologist I never jump to conclusion merely from hearsay evidence. There are two forms of validation - one is consensual validation, that is what other people in the same situation say about it. I had ample validation of that kind from the other SS Gestapo men...
+**Witness Gilbert:** Yes, I did. I would like to point out that as a scientifically trained psychologist I never jump to conclusion merely from hearsay evidence. There are two forms of validation - one is consensual validation, that is what other people in the same situation say about it. I had ample validation of that kind from the other SS [[ORGANIZATION:org_344|Gestapo]] men...
 
 **Presiding Judge:** Perhaps it is desirable that you should know exactly the terms of the Court's decision.
 
@@ -648,7 +648,7 @@ We shall admit evidence from the witness about the external circumstances in whi
 
 **A.**Yes, I certainly understand that. It's one of the common guilt defences.
 
-**Q.**Would you say that Rudolf Hoess was in that particular state of mind when you were speaking to him?
+**Q.**Would you say that [[PERSON:person_405|Rudolf Hoess]] was in that particular state of mind when you were speaking to him?
 
 **A.**No, definitely not. As I said before, he was a man who was just automatically telling the facts as he knew them. It apparently meant nothing to him that he had murdered millions of people, he had no hesitation in describing everything in detail, and without any attempt to share blame, or to prepare a defence or anything, quite spontaneously - certainly not with any urging on my part - the name of Eichmann came into his statements again and again and again, and finally I realized that this man was a key figure in the extermination programme.
 
@@ -658,7 +658,7 @@ May I amplify a little further? By contrast, I saw that Kaltenbrunner was a liar
 
 **Witness Gilbert:** Oh, I'm sorry.
 
-**Attorney General:** Did Rudolf Hoess tell you anything more about Eichmann in his conversation with you?
+**Attorney General:** Did [[PERSON:person_405|Rudolf Hoess]] tell you anything more about Eichmann in his conversation with you?
 
 **Witness Gilbert:** Yes, the final statement that led to the conclusion which I'm not allowed to draw was...
 
@@ -714,13 +714,13 @@ May I amplify a little further? By contrast, I saw that Kaltenbrunner was a liar
 
 **Dr. Servatius:** It is clear that there is noticeable here the desire to hear evidence from this witness on the central theme in this trial, and that is: Is it possible to imagine that the Accused committed the acts with which he is charged? This is the question which must be resolved, in the light of documents and other testimonies from which the responsibility for these acts emerges. This is not a question which can be put to an expert.
 
-Furthermore, this expert served in the International Military Tribunal in Nuremberg as one of the prosecution staff, he acted as an expert on behalf of the prosecution, and, as it appears from Reitlinger's book The Final Solution, with which the Court is surely familiar, he was an expert who was most useful to the case made out by the Allies. It must also be pointed out that leading questions were put to this witness; for instance: Was psychological pressure on the Accused possible? All these are not matters which have to be put, and the replies to which must be heard, in Court. Accordingly, I ask that the witness should not be heard, that we should not hear his replies to these questions.
+Furthermore, this expert served in the International Military Tribunal in [[LOCATION:location_39|Nuremberg]] as one of the prosecution staff, he acted as an expert on behalf of the prosecution, and, as it appears from Reitlinger's book The [[EVENT:event_389|Final Solution]], with which the Court is surely familiar, he was an expert who was most useful to the case made out by the Allies. It must also be pointed out that leading questions were put to this witness; for instance: Was psychological pressure on the Accused possible? All these are not matters which have to be put, and the replies to which must be heard, in Court. Accordingly, I ask that the witness should not be heard, that we should not hear his replies to these questions.
 
 **Witness Gilbert:** May I take exception to one statement - I believe that Dr. Servatius said that I was there at the behest of the prosecution. If that is so, it is false. I was the official prison psychologist for the International Military Tribunal - neither at the behest of the defence counsel, nor the prosecution. I was on the prison staff and, of course, as objective as it is humanly possible to be in these circumstances.
 
 **Presiding Judge:** We have no alternative but to adjourn the session, in order to consider this matter.
 
-**Dr. Servatius:** May I be permitted, Your Honour, the Presiding Judge, to add one sentence, and to point out that the witness said that he acted in the service of the International Military Tribunal at Nuremberg. It may be assumed that his mission was restricted to the submission of reports concerning the mental condition of the accused. It cannot be supposed that the International Military Tribunal would have accepted the opinion of the witness in respect of the question of personal responsibility, and that on the basis of this opinion it condemned the accused men there.
+**Dr. Servatius:** May I be permitted, Your Honour, the Presiding Judge, to add one sentence, and to point out that the witness said that he acted in the service of the International Military Tribunal at [[LOCATION:location_39|Nuremberg]]. It may be assumed that his mission was restricted to the submission of reports concerning the mental condition of the accused. It cannot be supposed that the International Military Tribunal would have accepted the opinion of the witness in respect of the question of personal responsibility, and that on the basis of this opinion it condemned the accused men there.
 
 **Attorney General:** Naturally, I am not asking the witness to speak about guilt or innocence. We are referring to people who were found guilty by the Tribunal and whose sentences were severe. I am asking the witness: Is he able to create for himself a picture of the personalities of those individuals? And the relevance of this matter in regard to the Accused is, as I have already said, that I shall endeavour to prove to the Court that the personality of the Accused here is like the personality of the accused there.
 
@@ -742,15 +742,15 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 
-**Dr. Servatius:** No, I have none, but are the Prosecution's questions finished? If so - yes, I nevertheless have questions. Witness, you said that the principal accused men in Nuremberg declared in your hearing that a certain measure of guilt rested upon the Accused here, and this allegation gradually gained emphasis. Did I understand you correctly?
+**Dr. Servatius:** No, I have none, but are the Prosecution's questions finished? If so - yes, I nevertheless have questions. Witness, you said that the principal accused men in [[LOCATION:location_39|Nuremberg]] declared in your hearing that a certain measure of guilt rested upon the Accused here, and this allegation gradually gained emphasis. Did I understand you correctly?
 
 **Witness Gilbert:** Yes.
 
-**Q.**Was a common front of those who were accused in Nuremberg formed, so that no guilt should attach to any of them?
+**Q.**Was a common front of those who were accused in [[LOCATION:location_39|Nuremberg]] formed, so that no guilt should attach to any of them?
 
-**A.**Do you mean to say that the principal accused men at Nuremberg created a united front, in order to cast the blame on Eichmann?
+**A.**Do you mean to say that the principal accused men at [[LOCATION:location_39|Nuremberg]] created a united front, in order to cast the blame on Eichmann?
 
-**Q.**No, I asked whether there was created in Nuremberg - if I may use this expression - a conspiracy? Did they conspire not to tell the truth? Would it be true to say that Goering told them, this was a political matter and no one will be convicted here? Was that the slogan?
+**Q.**No, I asked whether there was created in [[LOCATION:location_39|Nuremberg]] - if I may use this expression - a conspiracy? Did they conspire not to tell the truth? Would it be true to say that Goering told them, this was a political matter and no one will be convicted here? Was that the slogan?
 
 **A.**No, it was a question of competence. It was clear to all that the extermination as such had nothing to do with the army but was exclusively in the hands of the SS.
 
@@ -758,7 +758,7 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **A.**Yes, this is what Goering tried to do but did not succeed at all. Because everybody tried to put his own case properly, and they did not want, because of Goering's self- serving views, to put the blame on others and exonerate him.
 
-**Q.**Is there not a chapter in your book Nuremberg Diary with the heading "United Front"?
+**Q.**Is there not a chapter in your book [[LOCATION:location_39|Nuremberg]] Diary with the heading "United Front"?
 
 **A.**Yes, Goering tried to do just this. You will see this at the very early stages of the trial, but it failed, he did not succeed.
 
@@ -793,13 +793,13 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **A.**Yes. I have already said, previously, that this was possible only in the case of consultation between the lawyer, the accused and the witness.
 
-**Q.**Would it be correct to say that, until Christmas 1945, supervision at Nuremberg was still very lax, so that the accused were all seated at one table, and the witnesses were also able to be in contact with them?
+**Q.**Would it be correct to say that, until Christmas 1945, supervision at [[LOCATION:location_39|Nuremberg]] was still very lax, so that the accused were all seated at one table, and the witnesses were also able to be in contact with them?
 
 **A.**Yes, that is correct.
 
-**Q.**Would it not be correct to say that they were all together in the same camp - I think it was in Neuendorf and in Luxenbourg, where they were not yet classified into who were to be the accused in the principal trial and the others, and did they not there have ample opportunity to arrange for their line of defence?
+**Q.**Would it not be correct to say that they were all together in the same camp - I think it was in [[LOCATION:location_225|Neuendorf]] and in Luxenbourg, where they were not yet classified into who were to be the accused in the principal trial and the others, and did they not there have ample opportunity to arrange for their line of defence?
 
-**A.**Yes, of course, some of them were together, I remember, for instance at Neuendorf. Not all of them, but some were there and talked with each other. But they knew nothing about the indictment, about documents, etc. But very soon they were brought to Nuremberg, where they were held in solitary confinement during the trial.
+**A.**Yes, of course, some of them were together, I remember, for instance at [[LOCATION:location_225|Neuendorf]]. Not all of them, but some were there and talked with each other. But they knew nothing about the indictment, about documents, etc. But very soon they were brought to [[LOCATION:location_39|Nuremberg]], where they were held in solitary confinement during the trial.
 
 **Q.**You said that neither the accused men nor the main witnesses who were together with them were aware of the indictment. But did the accused not regard the charges of crimes against peace as a political gentlemen's crime, and was it not the charge regarding the persecution of the Jews which worried them most?
 
@@ -843,9 +843,9 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **Presiding Judge:** Mr. Hausner, have you any further questions to the witness?
 
-**Attorney General:** Was Rudolf Hoess, the Commandant of Auschwitz, also amongst those who tried to evade personal responsibility and place it on others?
+**Attorney General:** Was [[PERSON:person_405|Rudolf Hoess]], the Commandant of [[LOCATION:location_286|Auschwitz]], also amongst those who tried to evade personal responsibility and place it on others?
 
-**Witness Gilbert:** Well, it was known that Rudolf Hoess was the Commandant of Auschwitz. Have I understood your question correctly?
+**Witness Gilbert:** Well, it was known that [[PERSON:person_405|Rudolf Hoess]] was the Commandant of [[LOCATION:location_286|Auschwitz]]. Have I understood your question correctly?
 
 **Attorney General:** Did he endeavour to shift the responsibility on to others?
 
@@ -877,13 +877,13 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **Presiding Judge:** [explains the meaning of Judge Halevi's question]
 
-**Witness Gilbert:** Oh, I would like to state that I don't really care what Kaltenbrunner believed, because I think he was a liar anyway. I mentioned this only because I wanted to explain why Justice Musmanno and I didn't discuss Eichmann - everybody thought he was dead, and there wasn't much to say about him.
+**Witness Gilbert:** Oh, I would like to state that I don't really care what Kaltenbrunner believed, because I think he was a liar anyway. I mentioned this only because I wanted to explain why [[PERSON:person_558|Justice Musmanno]] and I didn't discuss Eichmann - everybody thought he was dead, and there wasn't much to say about him.
 
 **Q.**What did you think about Mueller?
 
 **A.**I'm afraid I got no contact with Mueller. I can recall only one place where he is even mentioned, and I believe that is in Dr. Morgen's or Dr. Pohl's case... But Mueller is virtually a complete blank, and I cannot answer anything about what I could think about him.
 
-**Q.**You say that Kaltenbrunner's mentioning that Eichmann was dead is engraved in your memory in a special way, because on that day evidence had been given about the children who were thrown into the burning furnace at Auschwitz?
+**Q.**You say that Kaltenbrunner's mentioning that Eichmann was dead is engraved in your memory in a special way, because on that day evidence had been given about the children who were thrown into the burning furnace at [[LOCATION:location_286|Auschwitz]]?
 
 **A.**That is correct.
 
@@ -923,7 +923,7 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **Judge Halevi:** This is only a technical matter, to make arrangements to return the book to the witness, possibly at a later stage.
 
-**Attorney General:** Certainly. It was for this reason that I asked the witness, after he had left the United States without bringing the diary with him, to ensure that it would reach us here in good time.
+**Attorney General:** Certainly. It was for this reason that I asked the witness, after he had left the [[LOCATION:location_68|United States]] without bringing the diary with him, to ensure that it would reach us here in good time.
 
 **Judge Halevi:** It is simply fuller and more accurate than the book.
 
@@ -935,11 +935,11 @@ We shall not permit evidence tending to show that the Accused was capable, from 
 
 **Presiding Judge:** You will allow me to mark them as exhibits?
 
-**Witness Gilbert:** Certainly, anything that will serve the cause of justice. May I merely explain to the Court that the transcript of the proceedings in the Nuremberg Trial represented a kind of supplement to the diary, which weren't always summarized on the pages. Sometimes they were, and sometimes they weren't, but you don't need the substantiation of the testimony in the trial.
+**Witness Gilbert:** Certainly, anything that will serve the cause of justice. May I merely explain to the Court that the transcript of the proceedings in the [[LOCATION:location_39|Nuremberg]] Trial represented a kind of supplement to the diary, which weren't always summarized on the pages. Sometimes they were, and sometimes they weren't, but you don't need the substantiation of the testimony in the trial.
 
 **Presiding Judge:** The first volume is marked T/1171 and the second volume T/1172.
 
-There are, in the meantime, two questions I should like to ask you. Does your personal diary contain any account of what you heard from Goering when he was asked by Justice Musmanno - when you were present as an interpreter?
+There are, in the meantime, two questions I should like to ask you. Does your personal diary contain any account of what you heard from Goering when he was asked by [[PERSON:person_558|Justice Musmanno]] - when you were present as an interpreter?
 
 **Witness Gilbert:** No, I don't think so, Your Honour. These brief conversations when Musmanno was there were not part of my investigation, and they were of no importance to me, although of course they were important anyway.
 
@@ -951,7 +951,7 @@ There are, in the meantime, two questions I should like to ask you. Does your pe
 
 **A.**I think I may - I know I have it, but it is not with me.
 
-**Q.**You have it here in Jerusalem?
+**Q.**You have it here in [[LOCATION:location_44|Jerusalem]]?
 
 **A.**Yes, it is at the hotel now.
 

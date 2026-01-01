@@ -1,4 +1,4 @@
-# Testimony of Dr. Aharon Peretz
+# Testimony of [[PERSON:witness_37|Dr. Aharon Peretz]]
 
 **Session:** 28
 
@@ -10,9 +10,9 @@
 
 **Presiding Judge:** Doctor?
 
-**Witness Peretz:** Dr. Aharon Peretz.
+**Witness Peretz:** [[PERSON:witness_37|Dr. Aharon Peretz]].
 
-**Attorney General:** Do you live in Haifa, at 14 Rehov Netiv Haofakim?
+**Attorney General:** Do you live in [[LOCATION:location_127|Haifa]], at 14 Rehov Netiv Haofakim?
 
 **Witness Peretz:** Yes.
 
@@ -20,7 +20,7 @@
 
 **A.**Yes.
 
-**Q.**When the German-Soviet Russian war broke out, you were in Kovno?
+**Q.**When the German-Soviet Russian war broke out, you were in [[LOCATION:location_17|Kovno]]?
 
 **A.**That is right.
 
@@ -28,21 +28,21 @@
 
 **A.**That is right.
 
-**Q.**You were there until the liquidation of the ghetto in 1944, when you were transferred to the Stutthof camp?
+**Q.**You were there until the liquidation of the ghetto in 1944, when you were transferred to the [[LOCATION:location_197|Stutthof]] camp?
 
 **A.**That is right.
 
 **Q.**What were the first weeks of the German occupation like, from the point of view of the Jews?
 
-**A.**The Germans entered Kovno on 24 August 1941. Already in the early days they began something which we called pogroms. There was a reason for that. These small operations in those days were different from the "actions" which came afterwards, in their ferocity and their spontaneity. Then came the notorious pogroms in Slobodka, which was a suburb of Kovno, where there was the well- known Yeshivah. And then, in one night about one thousand people - Yeshivah students and heads of the Yeshivah - were killed. The civilians jumped from the Vilna bridge, and the Germans learned how to shoot at a target floating on the river. There they had to dig their own graves. This was the first pogrom.
+**A.**The Germans entered [[LOCATION:location_17|Kovno]] on 24 August 1941. Already in the early days they began something which we called pogroms. There was a reason for that. These small operations in those days were different from the "actions" which came afterwards, in their ferocity and their spontaneity. Then came the notorious pogroms in Slobodka, which was a suburb of [[LOCATION:location_17|Kovno]], where there was the well- known Yeshivah. And then, in one night about one thousand people - Yeshivah students and heads of the Yeshivah - were killed. The civilians jumped from the [[LOCATION:location_171|Vilna]] bridge, and the Germans learned how to shoot at a target floating on the river. There they had to dig their own graves. This was the first pogrom.
 
 **Q.**When was that?
 
-**A.**Three to four days after the occupation. That is to say, on 26 or 29 June and at the beginning of July. After that there was a pogrom in the streets of Kovno, where they assembled the Jews in a garage; they placed hose pipes into their mouths, and they burst from the water. There were 40 victims there. Thereafter they collected Jews at the cemetery and killed them there. Of course, at the time the Jews hid themselves in their houses. They removed them from their houses. At the beginning of July they collected the Jews from those streets; family by family, and took the men to the Seventh Fort.
+**A.**Three to four days after the occupation. That is to say, on 26 or 29 June and at the beginning of July. After that there was a pogrom in the streets of [[LOCATION:location_17|Kovno]], where they assembled the Jews in a garage; they placed hose pipes into their mouths, and they burst from the water. There were 40 victims there. Thereafter they collected Jews at the cemetery and killed them there. Of course, at the time the Jews hid themselves in their houses. They removed them from their houses. At the beginning of July they collected the Jews from those streets; family by family, and took the men to the Seventh Fort.
 
 **Q.**What was this Seventh Fort?
 
-**A.**Kovno was a fortified city from the times of the First World War. There were fortifications there, which were stone buildings with large courtyards. And the Fourth Fort, the Seventh Fort and the notorious Ninth Fort became a place of mass slaughter, not only for the Jews of Lithuania, but also for Jews from other countries. In the Seventh Fort they collected Jews, men only, who had to lie on the sand in the burning sun for several days. And then they removed group after group, they themselves dug pits, jumped into them and were shot. Only a few survived that place, and they later recounted the shocking events to us.
+**A.**Kovno was a fortified city from the times of the [[EVENT:event_384|First World War]]. There were fortifications there, which were stone buildings with large courtyards. And the Fourth Fort, the Seventh Fort and the notorious [[LOCATION:location_191|Ninth Fort]] became a place of mass slaughter, not only for the Jews of [[LOCATION:location_7|Lithuania]], but also for Jews from other countries. In the Seventh Fort they collected Jews, men only, who had to lie on the sand in the burning sun for several days. And then they removed group after group, they themselves dug pits, jumped into them and were shot. Only a few survived that place, and they later recounted the shocking events to us.
 
 **Q.**How many people were killed?
 
@@ -52,9 +52,9 @@
 
 **A.**At once, in the early days.
 
-**Q.**How many Jews were there in Kovno?
+**Q.**How many Jews were there in [[LOCATION:location_17|Kovno]]?
 
-**A.**There were more than 40,000 Jews in Kovno. When we entered the ghetto the number was already only 32,000.
+**A.**There were more than 40,000 Jews in [[LOCATION:location_17|Kovno]]. When we entered the ghetto the number was already only 32,000.
 
 **Q.**When did you enter the ghetto?
 
@@ -66,7 +66,7 @@
 
 A number of days after the closing of the ghetto, when we were hoping that there, within the fence, we would get some rest, to breathe, already in those early days the Aeltestenrat, the Council of Elders, received a request to gather people of the intelligentsia in order to sort out the archives in the city. They requested specially that these people should be young, intelligent, with an academic education, welldressed.
 
-Naturally it did not occur to us that we were being cheated, and we assembled the best people in the city. There were many such people who volunteered, since they thought that this would be interesting work, suitable to their training. More than 500 persons, 530 persons, left the ghetto, left their families, their wives - most of them were married. We waited for their return. We waited a day or two, but they did not come back. Afterwards we learned that they were taken out of the city of Kovno, and there all of them were shot. This was already the first blow, after the fence had been put up..
+Naturally it did not occur to us that we were being cheated, and we assembled the best people in the city. There were many such people who volunteered, since they thought that this would be interesting work, suitable to their training. More than 500 persons, 530 persons, left the ghetto, left their families, their wives - most of them were married. We waited for their return. We waited a day or two, but they did not come back. Afterwards we learned that they were taken out of the city of [[LOCATION:location_17|Kovno]], and there all of them were shot. This was already the first blow, after the fence had been put up..
 
 **Q.**And then you realized that this fence would not protect you?
 
@@ -105,7 +105,7 @@ Naturally it did not occur to us that we were being cheated, and we assembled th
 
 **A.**It came suddenly. This was in the small ghetto - and I was then still in the small ghetto, where there was both a hospital and an orphanage, and also an Home for the Aged and suddenly an order was received, a vehicle arrived suddenly with the whole Polizei Kommando, and they dispersed amongst the courtyards and the houses and chased out all the people into the street with their hands raised. We approached a field, and in this field stood tall, uniformed SS men, who began to classify the people; some of them had been placed on trucks, those who possessed the Jordanschein went to one side, and those who were without the Jordanschein went to another side. Suddenly a German arrived in a car and said "Alles hat gut geklappt, es hat eine halbe Stunde gedauert" (Everything has gone off well it has taken half-an-hour), and they sent all of us back home. We did not comprehend, and naturally all kinds of assumptions began to be made, as always happens in a group. The Jews were split into pessimists and optimists. The optimists said that an order from above had arrived here and we were saved - nothing more than that. The pessimists saw in this a rehearsal, for the Germans wanted to know whether the Jews would resist, whether the matter would go off smoothly. This "action" was actually a rehearsal - on that occasion they did not take anybody off to death.
 
-But, some days later, another zone of the ghetto was surrounded by the same commando and we watched through the fence. We were in the small ghetto and noticed that something was going on there. The men were away at work. Most of those who remained in the homes were women and children. They then sealed off this zone and later we saw that more than 1,500 persons climbed up the hill, where there was the notorious road to the Ninth Fort. When the men came home from work, they found their homes empty. This was a small "action." A week or two later, there was an "action" in the small ghetto, where there had previously been the trial "action." There was also a hospital there. They separated the population, some remained there, the children and the sick, and some were taken over the bridge to the other side. Those who remained were taken to the Ninth Fort. When we crossed the bridge and entered the large ghetto, naturally completely destitute, just as we were leaving the house, we noticed that the hospital was on fire. There they burned to death the sick together with a friend of mine, a doctor who was inside, and two nurses. The babies, of course with the nurses who were caring for them, were removed in trucks to the Ninth Fort.
+But, some days later, another zone of the ghetto was surrounded by the same commando and we watched through the fence. We were in the small ghetto and noticed that something was going on there. The men were away at work. Most of those who remained in the homes were women and children. They then sealed off this zone and later we saw that more than 1,500 persons climbed up the hill, where there was the notorious road to the [[LOCATION:location_191|Ninth Fort]]. When the men came home from work, they found their homes empty. This was a small "action." A week or two later, there was an "action" in the small ghetto, where there had previously been the trial "action." There was also a hospital there. They separated the population, some remained there, the children and the sick, and some were taken over the bridge to the other side. Those who remained were taken to the [[LOCATION:location_191|Ninth Fort]]. When we crossed the bridge and entered the large ghetto, naturally completely destitute, just as we were leaving the house, we noticed that the hospital was on fire. There they burned to death the sick together with a friend of mine, a doctor who was inside, and two nurses. The babies, of course with the nurses who were caring for them, were removed in trucks to the [[LOCATION:location_191|Ninth Fort]].
 
 **Q.**What happened to them in the Fort?
 
@@ -127,7 +127,7 @@ And, as the gynaecologist in the ghetto, I received an instruction from the Aelt
 
 Naturally, as a doctor, I was confronted with very serious medical problems, because to end a pregnancy in the sixth and seventh months involved a difficult operation. The conditions were very bad, for when we left the small ghetto they burned the hospital, and we did not have one. All the operations were performed under difficult conditions - in kitchens, in small attics, amidst terrible congestion, and understandably there were fatalities.
 
-But the head of the Jewish Council was at the same time a very well-known physician of Kovno, an internist; he understood these problems, and he told me that we were permitted to end a pregnancy on the grounds of danger to the woman's life, because anyhow the life of the woman was in danger and consequently "You have to terminate the pregnancy."
+But the head of the Jewish Council was at the same time a very well-known physician of [[LOCATION:location_17|Kovno]], an internist; he understood these problems, and he told me that we were permitted to end a pregnancy on the grounds of danger to the woman's life, because anyhow the life of the woman was in danger and consequently "You have to terminate the pregnancy."
 
 We terminated every pregnancy. There were women, I would say, who displayed signs of heroism and who, under no circumstances, wanted to end their pregnancy. And it goes without saying that, in such cases, we encouraged them, although I now feel myself to be guilty. For I, too, would encourage her - I would give her further strength. All kinds of outside events or news items, which described a setback for Hitler, would encourage the women to continue her pregnancy.
 
@@ -141,9 +141,9 @@ With every political event women would come and ask: "Perhaps I should wait some
 
 **Presiding Judge:** What was his name?
 
-**Witness Peretz:** Dr. Elkes, he was one of the best-known doctors in Lithuania, who died afterwards in the Dachau Ghetto, after they had removed us to Dachau.
+**Witness Peretz:** Dr. Elkes, he was one of the best-known doctors in [[LOCATION:location_7|Lithuania]], who died afterwards in the [[LOCATION:location_32|Dachau]] Ghetto, after they had removed us to [[LOCATION:location_32|Dachau]].
 
-**Attorney General:** Tell us something, Dr. Peretz, about the children in the Kovno Ghetto.
+**Attorney General:** Tell us something, Dr. Peretz, about the children in the [[LOCATION:location_17|Kovno]] Ghetto.
 
 **Witness Peretz:** I think that possibly the greatest tragedy the Jewish people underwent was the tragedy of the children. The children in the ghetto also used to play and laugh, and in their games the tragedy of the Jewish people was reflected. They used to play at graves, they would dig a pit, place a child in it, and call him Hitler. They used to play as if they were at the gate of the ghetto, some would be Germans and others Jews. The Germans would shout and strike the Jews. They used to play at funerals, and all such games.
 
@@ -159,7 +159,7 @@ There could be situations where the children go and you remain alive, and for th
 
 **Q.**What was the "children action"?
 
-**A.**This happened after a relatively quiet period in the ghetto. And we were not ready, nor were we expecting, any event. Suddenly our police in the ghetto, the Jewish police, received an order to appear the following morning, clean and polished, at a particular police station, under the pretext of receiving instructions in regard to air raids. Thus they took this police force away - the population in the ghetto didn't know about it. Early in the morning a car entered the ghetto and announced over a loudspeaker: "Anyone going outside will be put to death." This voice gradually became louder and reached all the alleys of the ghetto. Instinctively, and perhaps more because we knew that something had happened with the children in the neighbouring ghetto - Shavli - the mothers suddenly cried out "Children," they felt as if the danger to the children had arrived. Then some of the mothers, in houses where there were cellars - Malines as they were called - went down with the children into the Malines. Trucks playing music entered the ghetto; inside the trucks a gramophone played, apparently so that the cries of the children should not be heard. And in a moment Germans and Ukrainians spread out in pairs into all the courtyards and began to remove the children they found on their way. They put them into the trucks, sometimes together with old people, grandfathers and grandmothers. They transported them to a destination of which, at that time, we were not aware.
+**A.**This happened after a relatively quiet period in the ghetto. And we were not ready, nor were we expecting, any event. Suddenly our police in the ghetto, the [[ORGANIZATION:org_336|Jewish police]], received an order to appear the following morning, clean and polished, at a particular police station, under the pretext of receiving instructions in regard to air raids. Thus they took this police force away - the population in the ghetto didn't know about it. Early in the morning a car entered the ghetto and announced over a loudspeaker: "Anyone going outside will be put to death." This voice gradually became louder and reached all the alleys of the ghetto. Instinctively, and perhaps more because we knew that something had happened with the children in the neighbouring ghetto - [[LOCATION:location_177|Shavli]] - the mothers suddenly cried out "Children," they felt as if the danger to the children had arrived. Then some of the mothers, in houses where there were cellars - Malines as they were called - went down with the children into the Malines. Trucks playing music entered the ghetto; inside the trucks a gramophone played, apparently so that the cries of the children should not be heard. And in a moment Germans and Ukrainians spread out in pairs into all the courtyards and began to remove the children they found on their way. They put them into the trucks, sometimes together with old people, grandfathers and grandmothers. They transported them to a destination of which, at that time, we were not aware.
 
 **Q.**How many children were there?
 
@@ -173,7 +173,7 @@ The following day people stood in the streets and suddenly it was as if somethin
 
 A second mother clung to the truck and would not let it go; the truck departed and a dog came up to her and bit her. They were there with dogs. One mother came with two children - and this I saw from my window - and she asked the Germans to return one child to her. He took the girl by the shoulder and threw her down to her. There were scenes such as these all day.
 
-Afterwards I went out of my house near the hospital and went into the hospital. There, in the hospital, apart from the patients, sick children were lying. A group of three people came along, amongst them Dr. Boehmichen* *SS Hauptsturmfuehrer Dr. Boehmichen, Chief doctor in the Kovno Ghetto.} - as far as I remember, he was, so to speak, the person in charge of medical affairs in the ghetto and he informed us that he knew that children were hiding under the mattresses and under the hospital beds, and that he would be returning in an hour, and if we did not hand over the children - all the hospital staff would go together with them.
+Afterwards I went out of my house near the hospital and went into the hospital. There, in the hospital, apart from the patients, sick children were lying. A group of three people came along, amongst them Dr. Boehmichen* *SS Hauptsturmfuehrer Dr. Boehmichen, Chief doctor in the [[LOCATION:location_17|Kovno]] Ghetto.} - as far as I remember, he was, so to speak, the person in charge of medical affairs in the ghetto and he informed us that he knew that children were hiding under the mattresses and under the hospital beds, and that he would be returning in an hour, and if we did not hand over the children - all the hospital staff would go together with them.
 
 Needless to say a severe panic started in the hospital. There were huts there of patients with infectious diseases. The Germans were afraid to be infected and did not enter them. There were a number of children who were concealed inside the hospital. They were put in the huts for infectious diseases. They were put into the beds. Temperature charts were prepared for them. The Germans did not go in there. A German, who had remained with us, evidently of a lower rank, told his officers when they returned that he himself had gone through the rooms without finding anyone. They took two couples, there was an elderly doctor who was lying ill, together with another Jew - and left the hospital.
 
@@ -204,9 +204,9 @@ To my joy they didn't find the bunker and left the courtyard empty- handed. It w
 
 **A.**Yes. He took part in the "action" against the children. We came across such doctors on more than one occasion in our experience, especially in the concentration camps.
 
-**Attorney General:** Dr. Peretz, you mentioned the Jewish police. I understand that in Kovno the Jewish police were also not hated by the populace.
+**Attorney General:** Dr. Peretz, you mentioned the [[ORGANIZATION:org_336|Jewish police]]. I understand that in [[LOCATION:location_17|Kovno]] the [[ORGANIZATION:org_336|Jewish police]] were also not hated by the populace.
 
-**Witness Peretz:** The Jewish police in Kovno were not hated by the populace. For in most cases these were boys whom we knew, and these boys even helped the partisan movement which developed at the end of the days of the ghetto - they assisted them to get out, as much as they could. I wouldn't say that there weren't also a few low types amongst them, but not the majority. Some of them actually paid with their lives.
+**Witness Peretz:** The [[ORGANIZATION:org_336|Jewish police]] in [[LOCATION:location_17|Kovno]] were not hated by the populace. For in most cases these were boys whom we knew, and these boys even helped the partisan movement which developed at the end of the days of the ghetto - they assisted them to get out, as much as they could. I wouldn't say that there weren't also a few low types amongst them, but not the majority. Some of them actually paid with their lives.
 
 **Presiding Judge:** Mr Hausner, why don't you sit down?
 
@@ -214,17 +214,17 @@ To my joy they didn't find the bunker and left the courtyard empty- handed. It w
 
 **Presiding Judge:** That doesn't matter.
 
-**Attorney General:** [to the witness] One day did Jews from other countries arrive in Kovno?
+**Attorney General:** [to the witness] One day did Jews from other countries arrive in [[LOCATION:location_17|Kovno]]?
 
-**Witness Peretz:** At the end of 1941 an order was received to vacate a zone of the ghetto for Jews who were expected. Of course, the entire ghetto was in suspense to see who were these Jews coming to us in the ghetto. This zone remained vacant. But from time to time we saw columns of Jews passing through the main street of the ghetto which led to the Ninth Fort. These Jews, when they saw fellow Jews on the other side of the fence, would ask: "Ist noch weit der Lager?" (Is it still far to the camp?), for they had been told that they were taking them to a camp. We knew where this road led to.
+**Witness Peretz:** At the end of 1941 an order was received to vacate a zone of the ghetto for Jews who were expected. Of course, the entire ghetto was in suspense to see who were these Jews coming to us in the ghetto. This zone remained vacant. But from time to time we saw columns of Jews passing through the main street of the ghetto which led to the [[LOCATION:location_191|Ninth Fort]]. These Jews, when they saw fellow Jews on the other side of the fence, would ask: "Ist noch weit der Lager?" (Is it still far to the camp?), for they had been told that they were taking them to a camp. We knew where this road led to.
 
 **Q.**Where did it lead to?
 
-**A.**To the Ninth Fort, to the pits. This fact was subsequently confirmed conclusively by the brigade of Jews who worked for the Gestapo. Their task was mainly to sort out the personal effects of the Jews, and they brought with them the possessions of the Jews from foreign countries. Amongst these possessions they found papers, for example a summons to report to such and such a railway station.
+**A.**To the [[LOCATION:location_191|Ninth Fort]], to the pits. This fact was subsequently confirmed conclusively by the brigade of Jews who worked for the [[ORGANIZATION:org_344|Gestapo]]. Their task was mainly to sort out the personal effects of the Jews, and they brought with them the possessions of the Jews from foreign countries. Amongst these possessions they found papers, for example a summons to report to such and such a railway station.
 
 **Q.**Do you remember the towns from which they came?
 
-**A.**They were from Vienna, Berlin, Frankfurt-on-Main, but Dutch and Belgian Jews also arrived at the Ninth Fort. We also heard indirectly that they seemed to have refused to undress and that they struggled with the Germans. There, in their suitcases and amongst the personal effects they brought with them, they even had notices warning them to prepare for a hard winter, since they were bound for the "East." They even took along small stoves and warm clothing. On their suitcases the word "Israel" was written for a man, and the word "Sarah" for a woman, something which had not happened with us. We knew precisely - according to their effects- that they were from Western Europe. They had been told that they were being taken to work in the "East" and they were brought to Kovno.
+**A.**They were from [[LOCATION:location_3|Vienna]], [[LOCATION:location_1|Berlin]], [[LOCATION:location_98|Frankfurt]]-on-Main, but Dutch and Belgian Jews also arrived at the [[LOCATION:location_191|Ninth Fort]]. We also heard indirectly that they seemed to have refused to undress and that they struggled with the Germans. There, in their suitcases and amongst the personal effects they brought with them, they even had notices warning them to prepare for a hard winter, since they were bound for the "East." They even took along small stoves and warm clothing. On their suitcases the word "[[LOCATION:location_38|Israel]]" was written for a man, and the word "Sarah" for a woman, something which had not happened with us. We knew precisely - according to their effects- that they were from Western Europe. They had been told that they were being taken to work in the "East" and they were brought to [[LOCATION:location_17|Kovno]].
 
 **Q.**What did you do internally in order to strengthen Jewish life - the Jewish spirit?
 
@@ -248,9 +248,9 @@ To my joy they didn't find the bunker and left the courtyard empty- handed. It w
 
 **Q.**Describe the liquidation of the ghetto.
 
-**A.**In the last year, the Russian front was approaching and, of course, operations began on the Western front, and with both fronts coming nearer, the hopes of the Jews rose. For our entire situation was one of gaining time - perhaps only in this way we would also gain our lives. And then we began digging below the ground. We were somewhat naive. We thought that it would be possible to dig ourselves in under the ground or to lie hidden in the attics and to overcome this crisis and be saved. Hence dozens of the Malines were dug out, some of them quite well constructed, and we resolved that, at the moment when the liquidation would begin, in other words when the front line approached Kovno, we would go down into these cellars. A part of the population decided not to hide and to go wherever they were taken. And, indeed, the entire Council of Elders was taken away.
+**A.**In the last year, the Russian front was approaching and, of course, operations began on the Western front, and with both fronts coming nearer, the hopes of the Jews rose. For our entire situation was one of gaining time - perhaps only in this way we would also gain our lives. And then we began digging below the ground. We were somewhat naive. We thought that it would be possible to dig ourselves in under the ground or to lie hidden in the attics and to overcome this crisis and be saved. Hence dozens of the Malines were dug out, some of them quite well constructed, and we resolved that, at the moment when the liquidation would begin, in other words when the front line approached [[LOCATION:location_17|Kovno]], we would go down into these cellars. A part of the population decided not to hide and to go wherever they were taken. And, indeed, the entire Council of Elders was taken away.
 
-In the very last days Jews still tried to force their way through the fence. Eleven persons died through deceit; seemingly the guards took money, as if to allow them to leave, but, somewhere there, two Germans with a machine gun had concealed themselves and shot them to death. After this incident, Jews no longer tried to leave. Then they began removing the Jews from the ghetto to the railway station. It was not known where they were bound for. I personally, together with my family, went into the bunker. We did not expect to die, but to be saved. However, the Germans knew about this and, during their hardest days, when the Russians were already at the outskirts of Vilna, they still found time to search for all the Jews who were hiding inside the Malines.
+In the very last days Jews still tried to force their way through the fence. Eleven persons died through deceit; seemingly the guards took money, as if to allow them to leave, but, somewhere there, two Germans with a machine gun had concealed themselves and shot them to death. After this incident, Jews no longer tried to leave. Then they began removing the Jews from the ghetto to the railway station. It was not known where they were bound for. I personally, together with my family, went into the bunker. We did not expect to die, but to be saved. However, the Germans knew about this and, during their hardest days, when the Russians were already at the outskirts of [[LOCATION:location_171|Vilna]], they still found time to search for all the Jews who were hiding inside the Malines.
 
 **Judge Raveh:** What period are you speaking of now?
 
@@ -258,21 +258,21 @@ In the very last days Jews still tried to force their way through the fence. Ele
 
 I was among those groups who were found a few hours before the last transport was taken to the railway station. All the remaining bunkers, which they were unable to discover easily, were blown up in the course of time, and then about 2,000 people were killed inside these bunkers; people emerged alive from only two of the bunkers. Oshry, (incidentally he wrote a book) who was inside one of the bunkers, remained alive. But they were few. Most of the bunkers were blown up and many died when they collapsed.
 
-We were certain that we - the many thousands of people who had been gathered into this wooden building - that our end had come. We were already indifferent and had reconciled ourselves to it. They took us out on to the road and arranged us in rows. At that moment members of the SS passed by and removed individuals from the lines. These individuals totalled several hundreds. They were older, wounded from the explosions when they had been found in the bunkers, little children, women, old people, ragged, and they lined them up on one side. When they took them out and stood them on the side, a glimmer of hope arose again with those who remained in these ranks. And I remember a scene such pictures remain engraved in one's memory for a lifetime. I remained in line and a nurse who had worked with me for a long time stood at the side of the road. She was a midwife and had her little boy with her; they had been removed from the ranks and they stood outside. This was after the rain. There was a puddle of water, and she bent over to give the child some water from this puddle. In the middle of this scene we were ordered to move. We passed through the streets of Kovno. A few attempted to run away from the ranks. But neighbours were in the area who immediately informed on them and caused these people to be sent back to the ranks.
+We were certain that we - the many thousands of people who had been gathered into this wooden building - that our end had come. We were already indifferent and had reconciled ourselves to it. They took us out on to the road and arranged us in rows. At that moment members of the SS passed by and removed individuals from the lines. These individuals totalled several hundreds. They were older, wounded from the explosions when they had been found in the bunkers, little children, women, old people, ragged, and they lined them up on one side. When they took them out and stood them on the side, a glimmer of hope arose again with those who remained in these ranks. And I remember a scene such pictures remain engraved in one's memory for a lifetime. I remained in line and a nurse who had worked with me for a long time stood at the side of the road. She was a midwife and had her little boy with her; they had been removed from the ranks and they stood outside. This was after the rain. There was a puddle of water, and she bent over to give the child some water from this puddle. In the middle of this scene we were ordered to move. We passed through the streets of [[LOCATION:location_17|Kovno]]. A few attempted to run away from the ranks. But neighbours were in the area who immediately informed on them and caused these people to be sent back to the ranks.
 
 **Q.**Lithuanians?
 
-**A.**Yes. They brought us there to the railway station in Kovno and loaded us on to freight cars. We knew that the Red Army was nearby and we hoped that possibly they would block the way. But these waggons moved off and brought us to Germany, and our suffering continued for almost another year.
+**A.**Yes. They brought us there to the railway station in [[LOCATION:location_17|Kovno]] and loaded us on to freight cars. We knew that the Red Army was nearby and we hoped that possibly they would block the way. But these waggons moved off and brought us to [[LOCATION:location_2|Germany]], and our suffering continued for almost another year.
 
 When we left the ghetto, it was all in flames. We saw groups of people who had gathered at the ghetto cemetery where they had dug ditches and buried the people whom they had found dead. All the ghetto was full of broken fragments, feathers, furniture and desolation.
 
-**Attorney General:** Dr. Peretz do you know how many of the Jews of Kovno survived?
+**Attorney General:** Dr. Peretz do you know how many of the Jews of [[LOCATION:location_17|Kovno]] survived?
 
-**Witness Peretz:** In Kovno there were over 40,000 Jews. There remained alive approximately - I cannot say exactly - about two thousand persons.
+**Witness Peretz:** In [[LOCATION:location_17|Kovno]] there were over 40,000 Jews. There remained alive approximately - I cannot say exactly - about two thousand persons.
 
-**Q.**Is there anything special that you would like to add about the holocaust scenes in Kovno?
+**Q.**Is there anything special that you would like to add about the [[EVENT:event_386|holocaust]] scenes in [[LOCATION:location_17|Kovno]]?
 
-**A.**Naturally, as I have said, the most horrible scenes for us were those concerning the children. There was one other large "action." This was on 28 October, when they took 10,000 people to the Ninth Fort. There was a selection.
+**A.**Naturally, as I have said, the most horrible scenes for us were those concerning the children. There was one other large "action." This was on 28 October, when they took 10,000 people to the [[LOCATION:location_191|Ninth Fort]]. There was a selection.
 
 **Q.**What was the selection like?
 
@@ -284,7 +284,7 @@ They told the Council of Elders that they merely wanted to select the working pe
 
 **Witness Peretz:** The centre. But gradually we understood what his game was. He was separating the people with his finger to left or right. We saw that to the left side were passing the fitter people and the younger ones, fewer children. Jewish policemen from the ghetto were also taking them and accompanying them to this side. To the other side passed people who were more burdened with children, old people, ragged ones, those more weary and so on, and they were being received instead by the Germans and the Lithuanians who were beating them up - the attitude to them was quite different. We understood that the one side led to death and the other side to life.
 
-This was the power of this regime that could immediately separate the people into groups, and of course by this means all resistance was lessened, since each one hoped to remain alive after all. This section that went to its death was placed in the small ghetto which had previously been emptied of all people, and they slept there, and also on that night everyone sought a better place, a better corner. They believed that they would remain there, but at four o'clock in the morning columns of people began ascending the hill that led to the Ninth Fort.
+This was the power of this regime that could immediately separate the people into groups, and of course by this means all resistance was lessened, since each one hoped to remain alive after all. This section that went to its death was placed in the small ghetto which had previously been emptied of all people, and they slept there, and also on that night everyone sought a better place, a better corner. They believed that they would remain there, but at four o'clock in the morning columns of people began ascending the hill that led to the [[LOCATION:location_191|Ninth Fort]].
 
 **Attorney General:** How many were there?
 

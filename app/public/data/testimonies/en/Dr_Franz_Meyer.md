@@ -1,4 +1,4 @@
-# Testimony of Dr. Franz Meyer
+# Testimony of [[PERSON:witness_45|Dr. Franz Meyer]]
 
 **Session:** 17
 
@@ -10,33 +10,33 @@
 
 **Presiding Judge:** Please proceed, Mr. Bar-Or.
 
-**State Attorney Bar-Or:** You were born in Breslau, Germany, were you not?
+**State Attorney Bar-Or:** You were born in [[LOCATION:location_100|Breslau]], [[LOCATION:location_2|Germany]], were you not?
 
 **Witness Meyer:** Yes.
 
-**Q.**You finished the Gymnasium in Breslau in 1914?
+**Q.**You finished the Gymnasium in [[LOCATION:location_100|Breslau]] in 1914?
 
 **A.**In 1915.
 
-**Q.**Were you in the German army in the First World War?
+**Q.**Were you in the German army in the [[EVENT:event_384|First World War]]?
 
 **A.**Yes.
 
-**Q.**When did you return to Breslau - after the War or on completion of your military service?
+**Q.**When did you return to [[LOCATION:location_100|Breslau]] - after the War or on completion of your military service?
 
 **A.**No. My service was ended in the middle. I fell ill and they sent me back at the end of the year 1915. After that I went to University and thereafter they called me again to the army in 1917.
 
-**Q.**What were the studies in which you graduated at the University of Berlin?
+**Q.**What were the studies in which you graduated at the University of [[LOCATION:location_1|Berlin]]?
 
 **A.**I obtained a degree of Doctor of Philosophy in Science, but I also dealt with other subjects, Sociology, Economics, etc.
 
-**Q.**Dr. Meyer, were you active in the Zionist Organization in Germany?
+**Q.**Dr. Meyer, were you active in the Zionist Organization in [[LOCATION:location_2|Germany]]?
 
 **A.**Yes.
 
 **Q.**Since when?
 
-**A.**Even as a young man. I was amongst the first. I began to be active approximately during the period of 1913 in the Blau-Weiss.* {*First Jewish youth movement in Germany, founded in 1912.} Afterwards, when I began studying at the University, I was a member of the K. J. V.** {**Kartell Juedischer Verbindungen an association of Zionist university students' organizations in Germany.}
+**A.**Even as a young man. I was amongst the first. I began to be active approximately during the period of 1913 in the Blau-Weiss.* {*First Jewish youth movement in [[LOCATION:location_2|Germany]], founded in 1912.} Afterwards, when I began studying at the University, I was a member of the K. J. V.** {**Kartell Juedischer Verbindungen an association of Zionist university students' organizations in [[LOCATION:location_2|Germany]].}
 
 **Presiding Judge:** And Blau-Weiss already existed in the year 1913?
 
@@ -44,13 +44,13 @@
 
 **State Attorney Bar-Or:** I am speaking now of the years 1922- 1923. What form did your activities take?
 
-**Witness Meyer:** There was a programme in the Zionist Organization of Germany of a compulsory year. And I was an official or secretary in the Arbeiterfuersorgeamt, an institution which dealt with assistance to Jews of East Europe who came to Germany during the First World War.
+**Witness Meyer:** There was a programme in the Zionist Organization of [[LOCATION:location_2|Germany]] of a compulsory year. And I was an official or secretary in the Arbeiterfuersorgeamt, an institution which dealt with assistance to Jews of East Europe who came to [[LOCATION:location_2|Germany]] during the [[EVENT:event_384|First World War]].
 
-**Q.**All this activity was in Breslau?
+**Q.**All this activity was in [[LOCATION:location_100|Breslau]]?
 
-**A.**No. It was in Berlin.
+**A.**No. It was in [[LOCATION:location_1|Berlin]].
 
-**Q.**Did you return to Breslau?
+**Q.**Did you return to [[LOCATION:location_100|Breslau]]?
 
 **A.**Yes.
 
@@ -60,58 +60,58 @@
 
 **Q.**Did you continue then with your public activity?
 
-**A.**Yes, although I was at that time a partner in my father's factory. I was also a member of the Executive of the branch of the Zionist Organization. Afterwards I was also elected to the Jewish Community Council as a delegate and later as a member of the Executive.
+**A.**Yes, although I was at that time a partner in my father's factory. I was also a member of the Executive of the branch of the Zionist Organization. Afterwards I was also elected to the [[ORGANIZATION:org_315|Jewish Community Council]] as a delegate and later as a member of the Executive.
 
 **Q.**What happened to you in 1933? Did anything happen?
 
-**A.**Certainly. Something happened to all of us. With me it happened that approximately in February of that year the Chairman of the Zionist Organization in Germany, Mr. Kurt Blumenfeld, came to me in Breslau and asked me to move to Berlin and to become active within the framework of the Zionist Organization in Berlin in the office at Meineckestrasse, seeing that both he and the late Dr. Georg Landauer were then leaving Germany. He said to me that it was necessary for me to accept the responsibility for this work.
+**A.**Certainly. Something happened to all of us. With me it happened that approximately in February of that year the Chairman of the Zionist Organization in [[LOCATION:location_2|Germany]], Mr. [[PERSON:person_458|Kurt Blumenfeld]], came to me in [[LOCATION:location_100|Breslau]] and asked me to move to [[LOCATION:location_1|Berlin]] and to become active within the framework of the Zionist Organization in [[LOCATION:location_1|Berlin]] in the office at Meineckestrasse, seeing that both he and the late Dr. Georg Landauer were then leaving [[LOCATION:location_2|Germany]]. He said to me that it was necessary for me to accept the responsibility for this work.
 
 **Q.**Did you agree?
 
 **A.**Yes.
 
-**Q.**When did you move to Berlin?
+**Q.**When did you move to [[LOCATION:location_1|Berlin]]?
 
-**A.**Officially on 1 April of that year, but actually on that day, the day of the boycott, I was still in Breslau...
+**A.**Officially on 1 April of that year, but actually on that day, the day of the boycott, I was still in [[LOCATION:location_100|Breslau]]...
 
 **Q.**Are you referring to 1 April 1933?
 
-**A.**Yes. On that day I was in Breslau. It seems to me that previously I was on a visit to Berlin and thereafter I commuted between Breslau and Berlin and back. My family was in Breaslau. I returned there for weekends.
+**A.**Yes. On that day I was in [[LOCATION:location_100|Breslau]]. It seems to me that previously I was on a visit to [[LOCATION:location_1|Berlin]] and thereafter I commuted between [[LOCATION:location_100|Breslau]] and [[LOCATION:location_1|Berlin]] and back. My family was in Breaslau. I returned there for weekends.
 
 **Q.**What were your duties?
 
-**A.**I am afraid that I shall add to the confusion that has already appeared in the press as if everyone was a President or Director. Consequently I do not wish to exaggerate here. Perhaps I would only indicate the structure of the Zionist Organization at that time. After Mr. Blumenfeld left Berlin, the chairman in his stead was Dr. Siegfried Moses, at present the State Comptroller. I was the Acting Chairman or Geschaeftsfuehrender Vorsitzender, as they called it then. In addition to this I was the director of the Palestine Office in Berlin, which was then still a integral part of the Zionist Organization of Germany, and this was together with Mr. Arthur Rau, presently the legal adviser to the Bank Leumi here.
+**A.**I am afraid that I shall add to the confusion that has already appeared in the press as if everyone was a President or Director. Consequently I do not wish to exaggerate here. Perhaps I would only indicate the structure of the Zionist Organization at that time. After Mr. Blumenfeld left [[LOCATION:location_1|Berlin]], the chairman in his stead was Dr. Siegfried Moses, at present the State Comptroller. I was the Acting Chairman or Geschaeftsfuehrender Vorsitzender, as they called it then. In addition to this I was the director of the [[LOCATION:location_57|Palestine]] Office in [[LOCATION:location_1|Berlin]], which was then still a integral part of the Zionist Organization of [[LOCATION:location_2|Germany]], and this was together with Mr. Arthur Rau, presently the legal adviser to the Bank Leumi here.
 
 **Q.**Did you devote yourself in the years subsequent to 1 April 1933 to special work in the framework of the Zionist Organization?
 
-**A.**Yes. First of all it was my function to maintain contacts with the other Jewish organizations. Apart from the duties which I mentioned previously, I was chosen in the summer of 1933 as one of the members of the Executive Committee of the Representation of German Jewry - "Reichsvertretung" I served as one of the representatives of the Zionists. In those years the development of organizational affairs with us was such that the powers of the individual organizations gradually passed over to the centre, the Reichsvertretung, that is to say, that I was in the capacity of Chairman of the Committee for Emigration of Jews.
+**A.**Yes. First of all it was my function to maintain contacts with the other Jewish organizations. Apart from the duties which I mentioned previously, I was chosen in the summer of 1933 as one of the members of the Executive Committee of the Representation of German Jewry - "[[ORGANIZATION:org_303|Reichsvertretung]]" I served as one of the representatives of the Zionists. In those years the development of organizational affairs with us was such that the powers of the individual organizations gradually passed over to the centre, the [[ORGANIZATION:org_303|Reichsvertretung]], that is to say, that I was in the capacity of Chairman of the Committee for Emigration of Jews.
 
-My function was the same function, emigration to Palestine, that is to say that I still derived authority from the Jewish Agency and I was also the representative for all these matters within the establishment of the Reichsvertretung. In 1936 I moved from the management of Meineckestrasse, the centre of the Zionist Organization, to Kantstrasse, the centre of the Reichsvertretung, and I was the colleague of the late Dr. Otto Hirsch as one of the directors of the Reichsvertretung.
+My function was the same function, emigration to [[LOCATION:location_57|Palestine]], that is to say that I still derived authority from the [[ORGANIZATION:org_305|Jewish Agency]] and I was also the representative for all these matters within the establishment of the [[ORGANIZATION:org_303|Reichsvertretung]]. In 1936 I moved from the management of Meineckestrasse, the centre of the Zionist Organization, to Kantstrasse, the centre of the [[ORGANIZATION:org_303|Reichsvertretung]], and I was the colleague of the late Dr. [[PERSON:person_442|Otto Hirsch]] as one of the directors of the [[ORGANIZATION:org_303|Reichsvertretung]].
 
-**Q.**Did you come into contact with the Gestapo in those years
+**Q.**Did you come into contact with the [[ORGANIZATION:org_344|Gestapo]] in those years
 
 **A.**Yes.
 ---
 
-**Q.**Who was the first Gestapo man whom you recall from those meetings?
+**Q.**Who was the first [[ORGANIZATION:org_344|Gestapo]] man whom you recall from those meetings?
 
-**A.**Already at the beginning, when I came to Berlin, he was one of the veteran officials, if I am not mistaken; he had already been an official in the Weimar Republic under Naske. His name was Kuchmann. He continued in the service of all the Governments of all various kinds. At that time he was also the representative of the Gestapo, he came to us in the office and dealt with us. First of all he interested himself in what was happening with us, afterwards with control and with supervision of meetings and he demanded information; this was the way he worked.
+**A.**Already at the beginning, when I came to [[LOCATION:location_1|Berlin]], he was one of the veteran officials, if I am not mistaken; he had already been an official in the [[LOCATION:location_230|Weimar]] Republic under Naske. His name was Kuchmann. He continued in the service of all the Governments of all various kinds. At that time he was also the representative of the [[ORGANIZATION:org_344|Gestapo]], he came to us in the office and dealt with us. First of all he interested himself in what was happening with us, afterwards with control and with supervision of meetings and he demanded information; this was the way he worked.
 
 **Q.**I understand that there was frequent contact.
 
 **A.**Yes.
 
-**Q.**When you say "he interested himself in us," what are you referring to - the Reichsvertretung, the Zionist Organization, or to both?
+**Q.**When you say "he interested himself in us," what are you referring to - the [[ORGANIZATION:org_303|Reichsvertretung]], the Zionist Organization, or to both?
 
 **A.**I refer to the period in which I was engaged in the office of the Zionist Organization.
 
-**Q.**In the Palestine Office?
+**Q.**In the [[LOCATION:location_57|Palestine]] Office?
 
 **A.**Yes.
 
 **Q.**Do you remember anyone else?
 
-**A.**I was also invited to the central office of the Gestapo in Prinz Albrecht Strasse and there I encountered from time to time many officials whose names I did not know and they did not tell me who they were. I do remember the name of Assessor Freitag.
+**A.**I was also invited to the central office of the [[ORGANIZATION:org_344|Gestapo]] in Prinz Albrecht Strasse and there I encountered from time to time many officials whose names I did not know and they did not tell me who they were. I do remember the name of Assessor Freitag.
 
 **Q.**Did you see him on Prinz Albrecht Strasse?
 
@@ -157,7 +157,7 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Q.**Let us divide the answer. What were the matters that caused you to meet with Eichmann of your own will, and what where the things that you wanted from him?
 
-**A.**After I knew that he was located there, and I gained the impression then that he used to listen to the issues and wanted - as I then thought - to understand the situation with us, I then also passed on to him, in the course of such conversations, requests and complaints that had arisen. In general I also dealt within the framework of the Reichsvertretung with the training of Halutzim. They were spread all over Germany, also in places where there was a youth somewhat different from that of Berlin, where riots or other disturbances took place under the direction of local institutions. I told him that this could not go on if we were to continue with our work. And I asked him to intervene and to ensure that matters were settled.
+**A.**After I knew that he was located there, and I gained the impression then that he used to listen to the issues and wanted - as I then thought - to understand the situation with us, I then also passed on to him, in the course of such conversations, requests and complaints that had arisen. In general I also dealt within the framework of the [[ORGANIZATION:org_303|Reichsvertretung]] with the training of Halutzim. They were spread all over [[LOCATION:location_2|Germany]], also in places where there was a youth somewhat different from that of [[LOCATION:location_1|Berlin]], where riots or other disturbances took place under the direction of local institutions. I told him that this could not go on if we were to continue with our work. And I asked him to intervene and to ensure that matters were settled.
 
 **Q.**And he promised?
 
@@ -165,11 +165,11 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Q.**Why in fact didn't you turn to Kuchmann whom you knew previously?
 
-**A.**I felt - that I didn't know whether his position - I never heard what powers were possessed by this man who was opposite us - but I felt that the powers of Kuchmann were limited to matters of Berlin, and we were interested to deal as well with the questions which I previously mentioned. I thought that perhaps in this way it would be possible to influence other bodies with whom I had no contact.
+**A.**I felt - that I didn't know whether his position - I never heard what powers were possessed by this man who was opposite us - but I felt that the powers of Kuchmann were limited to matters of [[LOCATION:location_1|Berlin]], and we were interested to deal as well with the questions which I previously mentioned. I thought that perhaps in this way it would be possible to influence other bodies with whom I had no contact.
 
 **Q.**What were the things that he Eichmann wanted from you? What interested him at these meetings? Did he occasionally invite you?
 
-**A.**Yes. But this was also connected with a particular matter. Supposing we asked for a certain privilege for a person from outside Germany, an emissary from Palestine, to come to Berlin - then we submitted an application. In regard to such applications he would invite me in order to obtain information as to who and what the person was. Apart from this I had the impression at the time that he wanted to learn something, to become acquainted with details. Naturally each one of us knew that the affairs of the Jews were not so simple, and there were many matters which were difficult to explain even to ourselves, and I would not add an extra word. And he would ask me: "What is this?" And I had to explain it to him. For example, why the Orthodox were outside the framework of the official communities, what were the issues of the Zionist parties, the Poalei Zion, what was this and what was that.
+**A.**Yes. But this was also connected with a particular matter. Supposing we asked for a certain privilege for a person from outside [[LOCATION:location_2|Germany]], an emissary from [[LOCATION:location_57|Palestine]], to come to [[LOCATION:location_1|Berlin]] - then we submitted an application. In regard to such applications he would invite me in order to obtain information as to who and what the person was. Apart from this I had the impression at the time that he wanted to learn something, to become acquainted with details. Naturally each one of us knew that the affairs of the Jews were not so simple, and there were many matters which were difficult to explain even to ourselves, and I would not add an extra word. And he would ask me: "What is this?" And I had to explain it to him. For example, why the Orthodox were outside the framework of the official communities, what were the issues of the Zionist parties, the Poalei Zion, what was this and what was that.
 
 **Q.**Did he take a special interest in the affairs of these organizations?
 
@@ -201,23 +201,23 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Q.**Do you recollect the month of October 1938 in regard to operating against Polish Jews?
 
-**A.**Certainly. These were terrible events. Naturally in the Reichsvertretung we received all the information immediately. I don't remember the exact date. I only know that this was connected with the Sabbath day, for then our offices were obviously closed, and we immediately obtained from Rabbi Baeck his approval to open the office and deal with this matter. And on the same evening, after I had also telephoned to the late Dr. Hirsch, it was agreed that I would travel to Beuthen in Upper Silesia. I had connections with this district in particular, since I had dealt previously with the political questions of minority rights, which were about to be terminated in the year 1937. We made a special effort to obtain assistance to extend the date but we did not succeed.
+**A.**Certainly. These were terrible events. Naturally in the [[ORGANIZATION:org_303|Reichsvertretung]] we received all the information immediately. I don't remember the exact date. I only know that this was connected with the Sabbath day, for then our offices were obviously closed, and we immediately obtained from Rabbi Baeck his approval to open the office and deal with this matter. And on the same evening, after I had also telephoned to the late Dr. Hirsch, it was agreed that I would travel to [[LOCATION:location_119|Beuthen]] in Upper [[LOCATION:location_103|Silesia]]. I had connections with this district in particular, since I had dealt previously with the political questions of minority rights, which were about to be terminated in the year 1937. We made a special effort to obtain assistance to extend the date but we did not succeed.
 
 **Q.**You failed in this?
 
 **A.**Yes.
 
-**Q.**For this reason you examined the situation in Beuthen?
+**Q.**For this reason you examined the situation in [[LOCATION:location_119|Beuthen]]?
 
 **A.**Yes.
 
-**Q.**You went to Beuthen?
+**Q.**You went to [[LOCATION:location_119|Beuthen]]?
 
 **A.**Yes.
 
 **Q.**What did you find there?
 
-**A.**I travelled there by night train. I arrived in the morning. The expulsion of Jews from Poland had taken place in a most terrible way. They had taken these people from the trains, and had forced them to cross the border during the night through the forest that was on both sides of the border. They forced the people on with shots and with dogs. I received the first report from one of the men of the community in Beuthen, who had had the courage that night to go with the emblem of the Red Cross or another such organization in order to help the people there. And he even succeeded in getting to the scene of events and he told me what had happened there that night. I even found the rest of these refugees who had to return from the border to Beuthen. I found them in the synagogue and in other rooms of the community there in a terrible condition. And I heard from all of them the story of that night.
+**A.**I travelled there by night train. I arrived in the morning. The expulsion of Jews from [[LOCATION:location_5|Poland]] had taken place in a most terrible way. They had taken these people from the trains, and had forced them to cross the border during the night through the forest that was on both sides of the border. They forced the people on with shots and with dogs. I received the first report from one of the men of the community in [[LOCATION:location_119|Beuthen]], who had had the courage that night to go with the emblem of the Red Cross or another such organization in order to help the people there. And he even succeeded in getting to the scene of events and he told me what had happened there that night. I even found the rest of these refugees who had to return from the border to [[LOCATION:location_119|Beuthen]]. I found them in the synagogue and in other rooms of the community there in a terrible condition. And I heard from all of them the story of that night.
 
 **Presiding Judge:** In other words, the Poles chased them back?
 
@@ -227,17 +227,17 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Witness Meyer:** Yes.
 
-**Q.**During this period, in the years 1937 and 1938 you travelled outside of Germany frequently?
+**Q.**During this period, in the years 1937 and 1938 you travelled outside of [[LOCATION:location_2|Germany]] frequently?
 
 **A.**Yes. Then I was still able to do so. It seems to me that I was abroad for the last time in 1937. After that they took away my passport.
 
-**Q.**Do you remember this letter that you received from the State Police Central Office in Berlin dated 1 September 1938?
+**Q.**Do you remember this letter that you received from the State Police Central Office in [[LOCATION:location_1|Berlin]] dated 1 September 1938?
 
-**A.**Yes, of course. By chance I received such a letter. Usually they did not write letters. This means that there is not much material. But they wrote them to the Reichsvertretung.
+**A.**Yes, of course. By chance I received such a letter. Usually they did not write letters. This means that there is not much material. But they wrote them to the [[ORGANIZATION:org_303|Reichsvertretung]].
 
 **Q.**And in this letter they wrote that they would not extend your passport except for purposes of emigration?
 
-**A.**Yes, but this was not the whole truth, for on the other hand, they did not want me to leave Germany at this stage, after the events of November.
+**A.**Yes, but this was not the whole truth, for on the other hand, they did not want me to leave [[LOCATION:location_2|Germany]] at this stage, after the events of November.
 
 **Q.**November 1938?
 
@@ -251,7 +251,7 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Presiding Judge:** This will be T/91.
 
-**State Attorney Bar-Or:** You returned from Beuthen?
+**State Attorney Bar-Or:** You returned from [[LOCATION:location_119|Beuthen]]?
 
 **Witness Meyer:** Yes.
 
@@ -259,9 +259,9 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **A.**Yes. Do I have to relate this in general terms or what I...
 
-**Q.**When did you reach Berlin? More correctly, where did the news reach you of the death of vom Rath?
+**Q.**When did you reach [[LOCATION:location_1|Berlin]]? More correctly, where did the news reach you of the death of vom Rath?
 
-**A.**During those days I was not in Berlin but in Cologne in connection with my work.
+**A.**During those days I was not in [[LOCATION:location_1|Berlin]] but in [[LOCATION:location_135|Cologne]] in connection with my work.
 
 **Q.**In connection with your work?
 
@@ -269,13 +269,13 @@ My function was the same function, emigration to Palestine, that is to say that 
 
 **Q.**Was it there that this news reached you?
 
-**A.**Yes. I read this in the newspaper. I had to be there on the Tuesday of that week, and I returned from Colgne on the Wednesday morning. This was 9 November. And in the office of the Reichsvertretung they had already heard of cases where members of the Community Council had been arrested, and they did not know why. They had not yet heard the speech of Hitler, if I am not mistaken, or of Goebbels - this I am not able to recall - with which all the rioting started. But there were already rumours that something was in the air.
+**A.**Yes. I read this in the newspaper. I had to be there on the Tuesday of that week, and I returned from Colgne on the Wednesday morning. This was 9 November. And in the office of the [[ORGANIZATION:org_303|Reichsvertretung]] they had already heard of cases where members of the Community Council had been arrested, and they did not know why. They had not yet heard the speech of Hitler, if I am not mistaken, or of Goebbels - this I am not able to recall - with which all the rioting started. But there were already rumours that something was in the air.
 
-And I, for my part, already felt that this time it was very serious, and that night I did not sleep at home. I should say that I did not have an apartment at that time. We were in some boarding-house, and I moved to another apartment the same night. The apartment was not in a building connected to the street, but in a back building, as was customary in Berlin. And there I did not hear anything that night of what had taken place. But in the morning, when I left the building, I saw first of all one shop opposite my home where the windows were broken - but I still did not know what had happened. This could have been a case of robbery, or something like that. Would you like to hear the details?
+And I, for my part, already felt that this time it was very serious, and that night I did not sleep at home. I should say that I did not have an apartment at that time. We were in some boarding-house, and I moved to another apartment the same night. The apartment was not in a building connected to the street, but in a back building, as was customary in [[LOCATION:location_1|Berlin]]. And there I did not hear anything that night of what had taken place. But in the morning, when I left the building, I saw first of all one shop opposite my home where the windows were broken - but I still did not know what had happened. This could have been a case of robbery, or something like that. Would you like to hear the details?
 
 **Presiding Judge:** Dr. Meyer, it would be better to limit yourself.
 
-**Witness Meyer:** Afterwards Benno Cohn found me in a certain place, it is not important where, and told me what had occurred. Then I saw, firstly, the offices of the Zionist Organization, and the state they were in. Afterwards I went to the Reichsvertretung - and to my office - and there naturally we heard from all the places and from all the communities.
+**Witness Meyer:** Afterwards [[PERSON:person_424|Benno Cohn]] found me in a certain place, it is not important where, and told me what had occurred. Then I saw, firstly, the offices of the Zionist Organization, and the state they were in. Afterwards I went to the [[ORGANIZATION:org_303|Reichsvertretung]] - and to my office - and there naturally we heard from all the places and from all the communities.
 
 **State Attorney Bar-Or:** Did you see the synagogue on Fasanen Strasse?
 
@@ -285,9 +285,9 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **A.**The window of my room faced the synagogue, and I saw the fire bursting forth from the synagogue roof and afterwards smoke as well, and this lasted for hours.
 
-**Q.**You travelled once, on duty, to Vienna, is that correct?
+**Q.**You travelled once, on duty, to [[LOCATION:location_3|Vienna]], is that correct?
 
-**A.**Yes. I don't want to say that it was on duty, because I did not choose this opportunity. In February 1939 we suddenly received an invitation - more correctly an order, to appear in Vienna as a delegation of representatives of Jewish institutions.
+**A.**Yes. I don't want to say that it was on duty, because I did not choose this opportunity. In February 1939 we suddenly received an invitation - more correctly an order, to appear in [[LOCATION:location_3|Vienna]] as a delegation of representatives of Jewish institutions.
 
 **Q.**You went?
 
@@ -299,9 +299,9 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **Q.**Did you travel together with someone else or did you travel by yourself?
 
-**A.**I know that part of the delegation travelled by sleeping car to Vienna, despite the fact that there was already a ban on Jews travelling by sleeping car. But Mr. Heinrich Stahl, chairman of the community, had still managed to obtain the consent of the Gestapo, which gave him permission to use the carriage on this occasion. I think it was not a German carriage, but an international carriage.
+**A.**I know that part of the delegation travelled by sleeping car to [[LOCATION:location_3|Vienna]], despite the fact that there was already a ban on Jews travelling by sleeping car. But Mr. [[PERSON:person_445|Heinrich Stahl]], chairman of the community, had still managed to obtain the consent of the [[ORGANIZATION:org_344|Gestapo]], which gave him permission to use the carriage on this occasion. I think it was not a German carriage, but an international carriage.
 
-**Q.**You reached Vienna together?
+**Q.**You reached [[LOCATION:location_3|Vienna]] together?
 
 **A.**Yes.
 
@@ -311,7 +311,7 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **Q.**And what happened?
 
-**A.**There, at the gate, was an SS man, of course. We approached him and said: "We are the delegation from Berlin." He telephoned inside, and I still remember the grotesque situation where he did not know by which name to describe us. He stammered a little and said: "Here are the gentlemen from Berlin." He obviously wanted to use another expression.
+**A.**There, at the gate, was an SS man, of course. We approached him and said: "We are the delegation from [[LOCATION:location_1|Berlin]]." He telephoned inside, and I still remember the grotesque situation where he did not know by which name to describe us. He stammered a little and said: "Here are the gentlemen from [[LOCATION:location_1|Berlin]]." He obviously wanted to use another expression.
 ---
 
 **Q.**Did you go upstairs?
@@ -338,7 +338,7 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **A.**I think so.
 
-**Q.**Were there signs amongst your colleagues at this meeting in Vienna that there was this previous acquaintance with him?
+**Q.**Were there signs amongst your colleagues at this meeting in [[LOCATION:location_3|Vienna]] that there was this previous acquaintance with him?
 
 **A.**No, there was no attitude of anyone saying: "Yes, I have spoken to you."
 
@@ -374,31 +374,31 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **A.**Most terrible, most terrible... I immediately said: this is like an automatic factory, let us say a flour mill connected to some bakery. You put in at the one end a Jew who still has capital and has, let us say, a factory or a shop or an account in a bank, and he passes through the entire building, from counter to counter, from office to office - he comes out at the other end, he has no money, he has no rights, only a passport in which is written: You must leave this country within two weeks; if you fail to do so, you will go to a concentration camp.
 
-**Q.**Was this situation different from the situation in Berlin?
+**Q.**Was this situation different from the situation in [[LOCATION:location_1|Berlin]]?
 
-**A.**Completely different. Even if in Berlin they were not so considerate, nobody can say this; nevertheless there was some sort of recognition that there was some kind of body of people that had some sort of right to speak about their affairs. Here there was simply an order and an automatic implementation.
+**A.**Completely different. Even if in [[LOCATION:location_1|Berlin]] they were not so considerate, nobody can say this; nevertheless there was some sort of recognition that there was some kind of body of people that had some sort of right to speak about their affairs. Here there was simply an order and an automatic implementation.
 
-**Q.**Before you left Vienna, did you have another meeting with Eichmann?
+**Q.**Before you left [[LOCATION:location_3|Vienna]], did you have another meeting with Eichmann?
 
 **A.**Yes, in the afternoon.
 
 **Q.**What happened?
 
-**A.**He asked us then: "Well, what do you say about this?" At that time - I don't know whether today it would be possible to understand this - we still thought that it was possible to say to him: No. And we also said that such a thing, in our opinion, would be impossible to carry out in Berlin, under the conditions of German Jewry. We also argued that we were in favour of orderly emigration, namely that a person would leave with a passport, with an authorized passport and also with the visa of the country which would be admitting him, and if possible also with some money in his possession, so that he should not arrive as a pauper and a burden upon the foreign country, and also after a period of possible training and study etc. etc., as we had been doing all the preceding years.
+**A.**He asked us then: "Well, what do you say about this?" At that time - I don't know whether today it would be possible to understand this - we still thought that it was possible to say to him: No. And we also said that such a thing, in our opinion, would be impossible to carry out in [[LOCATION:location_1|Berlin]], under the conditions of German Jewry. We also argued that we were in favour of orderly emigration, namely that a person would leave with a passport, with an authorized passport and also with the visa of the country which would be admitting him, and if possible also with some money in his possession, so that he should not arrive as a pauper and a burden upon the foreign country, and also after a period of possible training and study etc. etc., as we had been doing all the preceding years.
 
 **Q.**Did you receive an answer?
 
-**A.**He said: "We shall talk about this in Berlin." Then he attacked us. Then there was another very awful incident where he insulted and rebuked Mr. Stahl who by chance put his hand into his coat pocket, and suddenly he shouted: "Take your hand out of your pocket, you old bag." And then he added another rude word, I don't recall exactly.
+**A.**He said: "We shall talk about this in [[LOCATION:location_1|Berlin]]." Then he attacked us. Then there was another very awful incident where he insulted and rebuked Mr. Stahl who by chance put his hand into his coat pocket, and suddenly he shouted: "Take your hand out of your pocket, you old bag." And then he added another rude word, I don't recall exactly.
 
-**Q.**Did you leave Vienna the next day?
+**Q.**Did you leave [[LOCATION:location_3|Vienna]] the next day?
 
-**A.**We left Vienna in the evening. Mr. Stahl remained there for a day or a day and a half, and we heard from him that he had met Kuchmann. The office of the Gestapo was in a completely different place - near the Donau Canal.
+**A.**We left [[LOCATION:location_3|Vienna]] in the evening. Mr. Stahl remained there for a day or a day and a half, and we heard from him that he had met Kuchmann. The office of the [[ORGANIZATION:org_344|Gestapo]] was in a completely different place - near the Donau Canal.
 
 **Q.**Is that where he found Kuchmann?
 
 **A.**Yes.
 
-**Q.**You recall another meeting with Eichmann in Berlin, isn't that so?
+**Q.**You recall another meeting with Eichmann in [[LOCATION:location_1|Berlin]], isn't that so?
 
 **A.**Yes.
 
@@ -412,7 +412,7 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **Q.**Who was with you?
 
-**A.**If I am not mistaken, I was alone, and I was given the honour of appearing there. Incidentally I was registered as the responsible person for the Jewish National Fund.
+**A.**If I am not mistaken, I was alone, and I was given the honour of appearing there. Incidentally I was registered as the responsible person for the [[ORGANIZATION:org_306|Jewish National Fund]].
 
 **Q.**Where was the meeting?
 
@@ -424,17 +424,17 @@ And I, for my part, already felt that this time it was very serious, and that ni
 
 **Q.**Was Eichmann there?
 
-**A.**He was there, and there was another person or other persons I don't remember. I recall that there was an officer older than Eichmann, who also served as chairman, but he did not open the discussion; but Eichmann sat next to him and began in this way to introduce me: This is one of the Jews who had the impudence to incite the people of Austria, the Jews of Vienna or Austria, I don't remember, and this is how he began then.
+**A.**He was there, and there was another person or other persons I don't remember. I recall that there was an officer older than Eichmann, who also served as chairman, but he did not open the discussion; but Eichmann sat next to him and began in this way to introduce me: This is one of the Jews who had the impudence to incite the people of [[LOCATION:location_14|Austria]], the Jews of [[LOCATION:location_3|Vienna]] or [[LOCATION:location_14|Austria]], I don't remember, and this is how he began then.
 
-Afterwards he said: "Whatever was decided, there will also be an office for the emigration of Jews in Berlin. There is a question of foreign exchange." We had also heard that in Vienna, contrary to what we had done all these years, the Jews of Austria were obliged to deliver to the Gestapo all their foreign currency that they had received as aid from Jewish institutions overseas such as the Joint or other such organizations. We did not do this, but had another plan: These organizations sent the money directly to the Funds in Palestine and in exchange for this we gave our German marks we had collected within the Reich to the coffers of the Reichsvertretung.
+Afterwards he said: "Whatever was decided, there will also be an office for the emigration of Jews in [[LOCATION:location_1|Berlin]]. There is a question of foreign exchange." We had also heard that in [[LOCATION:location_3|Vienna]], contrary to what we had done all these years, the Jews of [[LOCATION:location_14|Austria]] were obliged to deliver to the [[ORGANIZATION:org_344|Gestapo]] all their foreign currency that they had received as aid from Jewish institutions overseas such as the Joint or other such organizations. We did not do this, but had another plan: These organizations sent the money directly to the Funds in [[LOCATION:location_57|Palestine]] and in exchange for this we gave our German marks we had collected within the Reich to the coffers of the [[ORGANIZATION:org_303|Reichsvertretung]].
 
 **Q.**And what was the demand now?
 
-**A.**The demand was that he had heard that the Jewish National Fund had foreign currency and he insisted that I should sign a transfer of this currency over to the Gestapo.
+**A.**The demand was that he had heard that the [[ORGANIZATION:org_306|Jewish National Fund]] had foreign currency and he insisted that I should sign a transfer of this currency over to the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**Did you agree or refuse?
 
-**A.**No, I wanted to complain and to argue and to state: "We only collect marks." But he knew that there was something exceptional in fact - a kind of transfer of foreign currency of the Jewish National Fund from Germany, and then I managed to extricate myself from this mess by saying to the chairman: "You have the right to confiscate whatever you want but I ask your permission to telephone Duesseldorf." Then he asked me: "Why Duesseldorf?" Then I said: "There is a centre there for the metal industry and I have to cancel a transaction for pipes, where at a particular time the Jewish National Fund and also the Nir Company had ordered pipes from Germany..."
+**A.**No, I wanted to complain and to argue and to state: "We only collect marks." But he knew that there was something exceptional in fact - a kind of transfer of foreign currency of the [[ORGANIZATION:org_306|Jewish National Fund]] from [[LOCATION:location_2|Germany]], and then I managed to extricate myself from this mess by saying to the chairman: "You have the right to confiscate whatever you want but I ask your permission to telephone [[LOCATION:location_80|Duesseldorf]]." Then he asked me: "Why [[LOCATION:location_80|Duesseldorf]]?" Then I said: "There is a centre there for the metal industry and I have to cancel a transaction for pipes, where at a particular time the [[ORGANIZATION:org_306|Jewish National Fund]] and also the Nir Company had ordered pipes from [[LOCATION:location_2|Germany]]..."
 
 **Presiding Judge:** Dr. Meyer, there is no need to go into detail.
 
@@ -442,7 +442,7 @@ Afterwards he said: "Whatever was decided, there will also be an office for the 
 
 **Witness Meyer:** Then the man who presided said: "All right, we shall defer this point," and allowed me to leave. After this meeting I don't think that I saw Eichmann again.
 
-**Q.**When did you leave Berlin?
+**Q.**When did you leave [[LOCATION:location_1|Berlin]]?
 
 **A.**On 15 March 1939.
 
@@ -466,11 +466,11 @@ Afterwards he said: "Whatever was decided, there will also be an office for the 
 
 **Presiding Judge:** This will be T/92.
 
-**State Attorney Bar-Or:** And with the Court's permission, there is one other document about which I should like the witness to testify. Did you receive a letter from the State Police Central Office in Berlin dated 3 February 1939?
+**State Attorney Bar-Or:** And with the Court's permission, there is one other document about which I should like the witness to testify. Did you receive a letter from the State Police Central Office in [[LOCATION:location_1|Berlin]] dated 3 February 1939?
 
 **Witness Meyer:** Yes.
 
-**Q.**Did you get this letter from the Gestapo?
+**Q.**Did you get this letter from the [[ORGANIZATION:org_344|Gestapo]]?
 
 **A.**Yes.
 
@@ -492,21 +492,21 @@ The letter is handed to the Presiding Judge.
 
 **Dr. Servatius:** I have two questions to ask.
 
-[To the witness] This relates to the currency question in Vienna. Sir, do you know that there was a special arrangement there by which Jews had to hand over the foreign currency in their possession and that they were obliged to deliver it to a Fund and in this way to set up an independent Fund?
+[To the witness] This relates to the currency question in [[LOCATION:location_3|Vienna]]. Sir, do you know that there was a special arrangement there by which Jews had to hand over the foreign currency in their possession and that they were obliged to deliver it to a Fund and in this way to set up an independent Fund?
 
-**Witness Meyer:** I do not know of this. I am not an expert on Austrian affairs. It was forbidden to us to be in touch with the Jews there from the time of the invasion of Austria, and we did not receive any information directly. What we heard were rumors, and certainly not on details such as these, and I am unable to reply.
+**Witness Meyer:** I do not know of this. I am not an expert on Austrian affairs. It was forbidden to us to be in touch with the Jews there from the time of the invasion of [[LOCATION:location_14|Austria]], and we did not receive any information directly. What we heard were rumors, and certainly not on details such as these, and I am unable to reply.
 
 **Q.**Didn't you talk there with representatives of the Jews about the way in which this conveyor belt worked?
 
 **A.**Certainly. We had the opportunity to meet with these people. Afterwards Eichmann became very angry because we had done so, because there had been a general ban on coming into contact with them. But we thought that if we received an invitation to go there this also meant a natural opportunity for us to be able to speak to our brothers.
 
-**Q.**I have one more question. The Centre for Jewish Emigration in Berlin - when was this Office established? Were you still in Berlin then?
+**Q.**I have one more question. The [[ORGANIZATION:org_316|Centre for Jewish Emigration]] in [[LOCATION:location_1|Berlin]] - when was this Office established? Were you still in [[LOCATION:location_1|Berlin]] then?
 
-**A.**I shall begin at the end. I was still in Berlin. If I am not mistaken, we opened this office in the second week of the month of March, on the 12th or 14th March - I don't remember exactly. But at no time did I ever see the arrangements there. I was lucky in that I did not personally have to undergo this arrangement, since I had previously received the certificate I required, according to the previous arrangements.
+**A.**I shall begin at the end. I was still in [[LOCATION:location_1|Berlin]]. If I am not mistaken, we opened this office in the second week of the month of March, on the 12th or 14th March - I don't remember exactly. But at no time did I ever see the arrangements there. I was lucky in that I did not personally have to undergo this arrangement, since I had previously received the certificate I required, according to the previous arrangements.
 
 **Q.**Where was this centre located? Was this fact known to you?
 
-**A.**Yes, in Berlin, on Kurfuersten Strasse, in the building called the "Fraternity Building" (Brueder-Vereinshaus).
+**A.**Yes, in [[LOCATION:location_1|Berlin]], on Kurfuersten Strasse, in the building called the "Fraternity Building" (Brueder-Vereinshaus).
 
 **Dr. Servatius:** I do not have any more questions.
 
@@ -514,12 +514,12 @@ The letter is handed to the Presiding Judge.
 
 **State Attorney Bar-Or:** No, Your Honour.
 
-**Judge Halevi:** Did the "Central Office" in Vienna not require visas to other countries for emigration? How did they arrange this factory, this conveyor belt to other countries without visas?
+**Judge Halevi:** Did the "Central Office" in [[LOCATION:location_3|Vienna]] not require visas to other countries for emigration? How did they arrange this factory, this conveyor belt to other countries without visas?
 
-**Witness Meyer:** That was the centralized set-up. Perhaps this was the sole logic in this arrangement - a concentration of all the internal offices of Austria, and afterwards also of Germany, to which a Jew had to come in order to obtain all the confirmations: payment of taxes to the municipality, to the State, to hand over all his property and all kinds of papers that he needed to collect, and in addition to that he ultimately received there a certificate to the effect that there was no objection to his emigration.
+**Witness Meyer:** That was the centralized set-up. Perhaps this was the sole logic in this arrangement - a concentration of all the internal offices of [[LOCATION:location_14|Austria]], and afterwards also of [[LOCATION:location_2|Germany]], to which a Jew had to come in order to obtain all the confirmations: payment of taxes to the municipality, to the State, to hand over all his property and all kinds of papers that he needed to collect, and in addition to that he ultimately received there a certificate to the effect that there was no objection to his emigration.
 
 **Judge Halevi:** I am referring to an entry visa to another country.
 
-**Witness Meyer:** This did not interest them. They told them: "You must see to the way in which you are to leave the country." This was a question which hit us, for we asked "what will come out of this?" I was under the influence of the happenings at Beuthen and I said:"If they want people to cross the frontier into Hungary or Italy or any other country, what will be the outcome of this? This would only be a sudden one-time success, and afterwards these countries will close their borders even in the face of persons who previously were able to enter."
+**Witness Meyer:** This did not interest them. They told them: "You must see to the way in which you are to leave the country." This was a question which hit us, for we asked "what will come out of this?" I was under the influence of the happenings at [[LOCATION:location_119|Beuthen]] and I said:"If they want people to cross the frontier into [[LOCATION:location_24|Hungary]] or [[LOCATION:location_19|Italy]] or any other country, what will be the outcome of this? This would only be a sudden one-time success, and afterwards these countries will close their borders even in the face of persons who previously were able to enter."
 
 **Presiding Judge:** Thank you very much, Dr. Meyer, you have concluded

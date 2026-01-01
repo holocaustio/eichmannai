@@ -1,4 +1,4 @@
-# Testimony of Vali Zimmet
+# Testimony of [[PERSON:witness_74|Vali Zimmet]]
 
 **Session:** 19
 
@@ -8,9 +8,9 @@
 
 **A.**Walli Malka Zimet.
 
-**State Attorney Bar-Or:** Madam, in 1939, before the German entry into Czechoslovakia, you were living in Prague?
+**State Attorney Bar-Or:** Madam, in 1939, before the German entry into [[LOCATION:location_15|Czechoslovakia]], you were living in [[LOCATION:location_4|Prague]]?
 
-**Witness Zimet:** Yes, I lived in Prague.
+**Witness Zimet:** Yes, I lived in [[LOCATION:location_4|Prague]].
 
 **Q.**What was the nature of your work, at that time, on the eve of the entry of the Germans?
 
@@ -44,7 +44,7 @@
 
 **A.**A Jewish office.
 
-**Q.**You told the Court that, immediately upon the entry of the Germans into Czechoslovakia, they closed the offices and also those...
+**Q.**You told the Court that, immediately upon the entry of the Germans into [[LOCATION:location_15|Czechoslovakia]], they closed the offices and also those...
 
 **A.**Also those who worked there. Mrs. Steiner.
 
@@ -54,7 +54,7 @@
 
 **Q.**What happened to you afterwards?
 
-**A.**Afterwards they opened the community council, or rather they made the community council office larger than what it had been and opened the "Zentralstelle fuer Auswanderung" in Prague.
+**A.**Afterwards they opened the community council, or rather they made the community council office larger than what it had been and opened the "Zentralstelle fuer Auswanderung" in [[LOCATION:location_4|Prague]].
 
 **Q.**What do you mean by "they made the community office larger than what it had been?"
 
@@ -64,7 +64,7 @@
 
 **A.**Because they wanted to help with emigration.
 
-**Q.**Jewish emigration from Czechoslovakia?
+**Q.**Jewish emigration from [[LOCATION:location_15|Czechoslovakia]]?
 
 **A.**Yes.
 
@@ -126,7 +126,7 @@
 
 **Q.**Where did they prepare this?
 
-**A.**The kits were prepared, if it was for a place other than Palestine, in the community council office, and if it was for Palestine, in the Palestine Office.
+**A.**The kits were prepared, if it was for a place other than [[LOCATION:location_57|Palestine]], in the community council office, and if it was for [[LOCATION:location_57|Palestine]], in the [[LOCATION:location_57|Palestine]] Office.
 
 **Q.**Did they come to you with these kits?
 
@@ -148,11 +148,11 @@
 
 **A.**Lederer and Hahn were there, in the last room.
 
-**Q.**Were they the Gestapo representatives there?
+**Q.**Were they the [[ORGANIZATION:org_344|Gestapo]] representatives there?
 
-**A.**They were the Gestapo representatives.
+**A.**They were the [[ORGANIZATION:org_344|Gestapo]] representatives.
 
-**Q.**When one had passed by all these rooms and reached the rooms of the Gestapo, what happened?
+**Q.**When one had passed by all these rooms and reached the rooms of the [[ORGANIZATION:org_344|Gestapo]], what happened?
 
 **A.**The people went home, and either they were called a second time if something was not in order, or they subsequently received their exit permit (Durchlassschein). But, before that, they had to sign that they were handing over all their property, and that they had nothing left - a sort of emigration tax. If a person left, he did so without all his possessions except for a few kilograms.
 
@@ -182,9 +182,9 @@
 
 **Q.**What do you mean by "deported"? Where to?
 
-**A.**I came to Theresienstadt, and from there to Auschwitz.
+**A.**I came to [[LOCATION:location_124|Theresienstadt]], and from there to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**When did you reach Auschwitz?
+**Q.**When did you reach [[LOCATION:location_286|Auschwitz]]?
 
 **A.**In October 1944.
 

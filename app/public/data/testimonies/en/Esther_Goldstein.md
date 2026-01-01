@@ -1,4 +1,4 @@
-# Testimony of Esther Goldstein
+# Testimony of [[PERSON:witness_44|Esther Goldstein]]
 
 **Session:** 70
 
@@ -8,7 +8,7 @@
 
 **Witness Goldstein:** Yes.
 
-**Q.**In 1944, you were deported to Auschwitz from detention in Katzow, which is in Carpatho-Russia?
+**Q.**In 1944, you were deported to [[LOCATION:location_286|Auschwitz]] from detention in Katzow, which is in [[LOCATION:location_270|Carpatho-Russia]]?
 
 **A.**Yes.
 
@@ -28,7 +28,7 @@
 
 **A.**No.
 
-**Q.**I have here a set of photographs which are included in Exhibit T/1118. This is about the holocaust of Slovakian Jewry. With the Court's permission, I shall mark the photographs which the witness will be able to identify. May I approach the witness?
+**Q.**I have here a set of photographs which are included in Exhibit T/1118. This is about the [[EVENT:event_386|holocaust]] of Slovakian Jewry. With the Court's permission, I shall mark the photographs which the witness will be able to identify. May I approach the witness?
 
 **Presiding Judge:** Certainly.
 
@@ -56,11 +56,11 @@
 
 **Q.**Whom do you recognize in this photograph that I show you now?
 
-**A.**Kornfeld - a neighbour of ours; he was conscripted into an Hungarian labour camp, he came on leave, was injured, and was also taken away with us. Here is Mr. Kramer, the owner of a grocery store, and Mr. Roth - owner of an iron store. [The foregoing are marked in the album: Kornfeld - X, Kramer - XX, and Roth - XXX].
+**A.**Kornfeld - a neighbour of ours; he was conscripted into an Hungarian labour camp, he came on leave, was injured, and was also taken away with us. Here is Mr. [[PERSON:person_471|Kramer]], the owner of a grocery store, and Mr. Roth - owner of an iron store. [The foregoing are marked in the album: Kornfeld - X, [[PERSON:person_471|Kramer]] - XX, and Roth - XXX].
 
 **Q.**Where were these three photographs that I have just shown you taken?
 
-**A.**The photograph in which I appear, I remember, was taken after the selection in Auschwitz.
+**A.**The photograph in which I appear, I remember, was taken after the selection in [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Do you remember when the photograph was taken?
 
@@ -76,7 +76,7 @@
 
 **Q.**From the surroundings, does it tell you anything?
 
-**A.**That it is next to the railway station in Auschwitz, for they travelled together with us.
+**A.**That it is next to the railway station in [[LOCATION:location_286|Auschwitz]], for they travelled together with us.
 
 **Presiding Judge:** Do these photographs appear in the album?
 
@@ -130,7 +130,7 @@ Here is a picture of people in prisoner's garb. Can you identify anyone here?
 
 **Presiding Judge:** The two photographs will be marked T/1337, T/1338.
 
-**Attorney General:** Is this what a women's roll-call in Auschwitz looked like? Is that correct?
+**Attorney General:** Is this what a women's roll-call in [[LOCATION:location_286|Auschwitz]] looked like? Is that correct?
 
 **Witness Goldstein:** Correct, but that was not our camp.
 
@@ -140,7 +140,7 @@ Here is a picture of people in prisoner's garb. Can you identify anyone here?
 
 **Presiding Judge:** This photograph will be marked T/1339.
 
-**Attorney General:** [Shows a photograph to the witness] This is what women looked like when going out to work in Auschwitz, is that right?
+**Attorney General:** [Shows a photograph to the witness] This is what women looked like when going out to work in [[LOCATION:location_286|Auschwitz]], is that right?
 
 **Witness Goldstein:** Yes.
 
@@ -172,7 +172,7 @@ Here is a picture of people in prisoner's garb. Can you identify anyone here?
 
 **Witness Goldstein:** Yes, it is an electrified fence with high tension.
 
-**Q.**Was this the high tension electrified fence of Auschwitz?
+**Q.**Was this the high tension electrified fence of [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes.
 
@@ -206,7 +206,7 @@ Mrs. Goldstein, of all these people whom you have identified in these photograph
 
 **Q.**Of all those whom you recognized in the photographs?
 
-**A.**I know of one only, whose name was Kramer.
+**A.**I know of one only, whose name was [[PERSON:person_471|Kramer]].
 
 **Q.**Just that man?
 
@@ -244,7 +244,7 @@ Mrs. Goldstein, of all these people whom you have identified in these photograph
 
 **A.**No.
 
-**Q.**Were you in Camp C, in Birkenau?
+**Q.**Were you in Camp C, in [[LOCATION:location_286|Birkenau]]?
 
 **A.**Yes.
 
@@ -285,7 +285,7 @@ Mrs. Goldstein, of all these people whom you have identified in these photograph
 
 **A.**She also used to make selections.
 
-**Q.**There were Blockaelteste of various kinds in Auschwitz, I understand. There were good ones and evil ones?
+**Q.**There were Blockaelteste of various kinds in [[LOCATION:location_286|Auschwitz]], I understand. There were good ones and evil ones?
 
 **A.**Yes, but most of them were good.
 
@@ -307,7 +307,7 @@ Mrs. Goldstein, of all these people whom you have identified in these photograph
 
 **Q.**On what date did you arrive?
 
-**A.**We arrived in May 1944; we were there for three months, and in August we left Auschwitz.
+**A.**We arrived in May 1944; we were there for three months, and in August we left [[LOCATION:location_286|Auschwitz]].
 
 **Q.**All those who arrived with you did not get numbers?
 

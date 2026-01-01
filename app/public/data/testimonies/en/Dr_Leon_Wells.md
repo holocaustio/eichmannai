@@ -1,4 +1,4 @@
-# Testimony of Dr. Leon Wells
+# Testimony of [[PERSON:witness_35|Dr. Leon Wells]]
 
 **Session:** 22
 
@@ -20,7 +20,7 @@
 
 **A.**Yes.
 
-**Q.**You were born in Stojanow near Lvov in Poland on the 10th of March 1925?
+**Q.**You were born in [[LOCATION:location_164|Stojanow]] near [[LOCATION:location_99|Lvov]] in [[LOCATION:location_5|Poland]] on the 10th of March 1925?
 
 **A.**Yes.
 
@@ -64,7 +64,7 @@
 
 **Q.**Now, when the German-Soviet War broke out where were you?
 
-**A.**I was at this time in Lvov which is in East Poland.
+**A.**I was at this time in [[LOCATION:location_99|Lvov]] which is in East [[LOCATION:location_5|Poland]].
 
 **Q.**You were the second oldest child of your parents?
 
@@ -74,7 +74,7 @@
 
 **A.**I had two brothers and four sisters.
 
-**Q.**Did any of them survive Hitler's occupation of Galicia?
+**Q.**Did any of them survive Hitler's occupation of [[LOCATION:location_83|Galicia]]?
 
 **A.**No.
 
@@ -82,31 +82,31 @@
 
 **A.**I am the only survivor, not only of the immediate family but of the whole family including all cousins, uncles, which counted all of 76 members.
 
-**Q.**Now, at the time when Hitler entered Lvov, how many Jews were there?
+**Q.**Now, at the time when Hitler entered [[LOCATION:location_99|Lvov]], how many Jews were there?
 
-**A.**There were about 150,000 Jews in Lvov.
+**A.**There were about 150,000 Jews in [[LOCATION:location_99|Lvov]].
 
 **Q.**That was June 1941, and what happened immediately afterwards?
 
-**A.**30 June 1941, the German Army occupied Lvov. And three days later I was arrested together with my father and was taken to Pelczynska Street.
+**A.**30 June 1941, the German Army occupied [[LOCATION:location_99|Lvov]]. And three days later I was arrested together with my father and was taken to [[LOCATION:location_165|Pelczynska Street]].
 
 In reality, we thought only that we were going to work for cleaning work because of it was wartime, to clean out some stores.
 
 **Q.**Who arrested you? Do you know the unit which operated then?
 
-**A.**At this time I was arrested by the Ukrainian police which were working there with the SS. First we were taken to a police station - we and the others. The police station was not far from our house. It was the point where they brought together more people from different places. After a few hours of beating and torture -- some people had already died there due to these beatings -- we were taken to Pelczynska Street.
+**A.**At this time I was arrested by the Ukrainian police which were working there with the SS. First we were taken to a police station - we and the others. The police station was not far from our house. It was the point where they brought together more people from different places. After a few hours of beating and torture -- some people had already died there due to these beatings -- we were taken to [[LOCATION:location_165|Pelczynska Street]].
 
 **Q.**How old were you at that time?
 
 **A.**I was seventeen - sixteen. Sixteen. This was in the year 1941. At Pelczynska Strasse there were assembled about five thousand Jews were already assembled there when I arrived.
 
-**Q.**Before we continue, perhaps you can tell me, did you immediately after the War write the book in Polish by the name of The Death Brigade, Sonderkommando 1005, published in Lodz in 1946?
+**Q.**Before we continue, perhaps you can tell me, did you immediately after the War write the book in Polish by the name of The Death Brigade, Sonderkommando 1005, published in [[LOCATION:location_81|Lodz]] in 1946?
 
 **A.**I wrote it during the War. But it was handed over the second day after the War to the Polish Historical Commission, which published it a year later.
 
 **Q.**This contained the notes which you made continuously throughout the War?
 
-**A.**Yes. The original notes during the War were handed to Dr. Friedman, and he took it over, as the head of the Historical Commission to be published in Lodz. From these original papers, which I never rewrote then, only a part were published as Death Brigade. But these original papers contain the whole story of the whole time of the War.
+**A.**Yes. The original notes during the War were handed to Dr. Friedman, and he took it over, as the head of the Historical Commission to be published in [[LOCATION:location_81|Lodz]]. From these original papers, which I never rewrote then, only a part were published as Death Brigade. But these original papers contain the whole story of the whole time of the War.
 
 **Q.**I submit this book. It is in Polish and has not been translated.* {*It has been meanwhile been published in English as The Death Brigade (New York, 1963 & 1978)} We shall rely on a number of extracts which we shall translate.
 
@@ -118,11 +118,11 @@ In reality, we thought only that we were going to work for cleaning work because
 
 **Attorney General:** Now let's go back to what happened in the prison. I interrupted you while you were telling the Court about that.
 
-**Witness Wells:** When we were taken to the Pelczynska street, they started different kinds of mental cruelty to us. Like for example, they would take one man into a room and he would let out a scream. An SS man - there were only SS people - the Ukrainians left us after they had arrested us and gave us over at Pelczynka Street to these SS people. And after this scream, they had a scheme: a SS man came up with a white apron with blood on hand, and said, "Now the next man." They didn't really kill this man, they only killed a goose inside, which we found out later, but it was only to make believe that everybody would go in and get killed there.
+**Witness Wells:** When we were taken to the [[LOCATION:location_165|Pelczynska street]], they started different kinds of mental cruelty to us. Like for example, they would take one man into a room and he would let out a scream. An SS man - there were only SS people - the Ukrainians left us after they had arrested us and gave us over at Pelczynka Street to these SS people. And after this scream, they had a scheme: a SS man came up with a white apron with blood on hand, and said, "Now the next man." They didn't really kill this man, they only killed a goose inside, which we found out later, but it was only to make believe that everybody would go in and get killed there.
 
 **Presiding Judge:** The witness' book will be exhibit T/214.
 
-**Attorney General:** Will the Court permit this witness to sit down? He just arrived last night from the United States.
+**Attorney General:** Will the Court permit this witness to sit down? He just arrived last night from the [[LOCATION:location_68|United States]].
 
 **Presiding Judge:** Certainly, you may sit down any time you like. I was under the impression that you are strong, and you probably are. [The witness sits down]
 
@@ -155,7 +155,7 @@ And so all day, the trucks were being loaded with people and in addition to it t
 
 **Q.**What happened to you?
 
-**A.**This time they took these 150 people and started - among these 150 people was included I and my father - we had started to run in a circle and they started to beat us until we fell down - we could not move any more. At this time they left us and went away. My father and I came home on Friday night and I was in hiding all Saturday, and Sunday morning I was arrested again. My father was not arrested Sunday morning because when coming back from Pelczynska Street he started to get up blood from his lungs and when the SS came at this time to arrest him they saw blood coming out. They were good scared and got out from the house. They thought it's because of tuberculosis or something else. But it wasn't. It was from the lungs due to the beating on Friday night.
+**A.**This time they took these 150 people and started - among these 150 people was included I and my father - we had started to run in a circle and they started to beat us until we fell down - we could not move any more. At this time they left us and went away. My father and I came home on Friday night and I was in hiding all Saturday, and Sunday morning I was arrested again. My father was not arrested Sunday morning because when coming back from [[LOCATION:location_165|Pelczynska Street]] he started to get up blood from his lungs and when the SS came at this time to arrest him they saw blood coming out. They were good scared and got out from the house. They thought it's because of tuberculosis or something else. But it wasn't. It was from the lungs due to the beating on Friday night.
 
 **Q.**Then you were taken to work?
 
@@ -193,7 +193,7 @@ And so all day, the trucks were being loaded with people and in addition to it t
 
 **Q.**Were you able to hide for a long time?
 
-**A.**I was now hiding for quite a while and going through all sorts of other actions such as the bridge action in Lvov or the action in November...[they] didn't really get me.
+**A.**I was now hiding for quite a while and going through all sorts of other actions such as the bridge action in [[LOCATION:location_99|Lvov]] or the action in November...[they] didn't really get me.
 
 **Q.**What was the bridge action?
 
@@ -233,13 +233,13 @@ And so all day, the trucks were being loaded with people and in addition to it t
 
 **Q.**What was the Janowska Concentration Camp?
 
-**A.**It was on the outskirts of Lvov. It was a place which had sand mountains and it was a completely sandy place. A few barracks were put up there and the work consisted of, practically, carrying stones back and forth. By this time we were 140 people in this Concentration Camp.
+**A.**It was on the outskirts of [[LOCATION:location_99|Lvov]]. It was a place which had sand mountains and it was a completely sandy place. A few barracks were put up there and the work consisted of, practically, carrying stones back and forth. By this time we were 140 people in this Concentration Camp.
 
 **Presiding Judge:** In other words, carrying stones without purpose and uselessly.
 
 **Witness Wells:** Yes. The Chief at this time was Obersturmfuehrer Fritz Gebauer and we didn't have any conditions. We couldn't get any water. We used to get about a quart, which means about a litre of water a day, coffee water. From this we used to have to drink, wash ourselves and to keep ourselves, as the main motto was "sauber" (clean). It is obvious that there was sickness and that the standard of cleanliness was very low.
 
-The first day I came, I witnessed a case where six people were taken out of a group because they - so called - looked sick and so that we shouldn't get sick from them they were put out of the barracks. It was "for our good," so-called. These people couldn't move in the night because after eight o'clock it was forbidden to move around the barracks and anybody that moved would be shot. The temperature was at freezing point, because at May 2nd there are still, in Poland, some freezing cold nights and in the morning, all six people were frozen lying down where they were put out the night before: completely white like long balls of snow.
+The first day I came, I witnessed a case where six people were taken out of a group because they - so called - looked sick and so that we shouldn't get sick from them they were put out of the barracks. It was "for our good," so-called. These people couldn't move in the night because after eight o'clock it was forbidden to move around the barracks and anybody that moved would be shot. The temperature was at freezing point, because at May 2nd there are still, in [[LOCATION:location_5|Poland]], some freezing cold nights and in the morning, all six people were frozen lying down where they were put out the night before: completely white like long balls of snow.
 
 Two days later, early in the morning, eight of the strongest of us were picked out; and because - according to the words of Gebauer "they didn't look too clean," he ordered a big barrel of water to be brought, and they had to get undressed in the barrel of water and stand in this cold water for twenty-four hours - next morning we had to cut off ice from it. It was frozen.
 
@@ -247,19 +247,19 @@ Two days later, early in the morning, eight of the strongest of us were picked o
 
 **Witness Wells:** The men were frozen to death. That was finished. They were together with the ice.
 
-A week later SS Untersturmfuehrer Wilhaus joined the concentration camp. At this time a shooting competition was begun between Gebauer and Wilhaus: they would stand at their window, and while the people were marching to and fro with stones, they would shoot out of their windows, it would be like hitting them at the...aiming at the tip of a nose or a finger... After the shooting had finished, in the evening they would go around picking out what they called "kaput" people, those who were injured, and give them the last shot, because as injured people they were no good any more, and finish them off with a last shot.
+A week later SS [[PERSON:person_487|Untersturmfuehrer Wilhaus]] joined the concentration camp. At this time a shooting competition was begun between Gebauer and Wilhaus: they would stand at their window, and while the people were marching to and fro with stones, they would shoot out of their windows, it would be like hitting them at the...aiming at the tip of a nose or a finger... After the shooting had finished, in the evening they would go around picking out what they called "kaput" people, those who were injured, and give them the last shot, because as injured people they were no good any more, and finish them off with a last shot.
 
 Gebauer really had a name for enjoying strangling people, and so it happened that in my group a man who was working alongside me happened to look away, didn't look so very busy; Gebauer approached, took him and strangled him with his own hands on the spot right there.
 
-Wilhaus, on the other hand - who as far as we knew was the brother-in-law of SS General Katzmann (since Wilhaus' arrival in the camp Katzmann started to visit it very often, sometimes once or twice a week) - Wilhaus enjoyed more of shooting, so-called "sharp-shooting."
+Wilhaus, on the other hand - who as far as we knew was the brother-in-law of SS General [[PERSON:person_477|Katzmann]] (since Wilhaus' arrival in the camp [[PERSON:person_477|Katzmann]] started to visit it very often, sometimes once or twice a week) - Wilhaus enjoyed more of shooting, so-called "sharp-shooting."
 
-In March, there started the action in Lvov, which was so called, on poor people. Most of them - also women and children - some of these people were brought to our concentration camp in numbers of forty to fifty people a day.
+In March, there started the action in [[LOCATION:location_99|Lvov]], which was so called, on poor people. Most of them - also women and children - some of these people were brought to our concentration camp in numbers of forty to fifty people a day.
 
 **Q.**Did the number of 140 prisoners in this camp stay fixed or did it...
 
 **A.**A hundred and fifty people a day, on an average - the number increased by about twenty a day; because thirty people would normally be killed each day, or die... I shouldn't say "die," because - excuse me - because I really don't remember a single case of someone dying a normal death...
 
-At the end of April an action started in East Galicia. From every city a few hundreds or thousands of people were brought to the concentration camps. The normal segregation of fitness in these concentration camps was to put the people up for three days without any food - most of them started to eat grass because they would sit on grass lawns - and after three days they started to be checked out to see how fit they were to be taken into the concentration camp - the unfit ones were taken right out to the back of the concentration camp on the site and were shot.
+At the end of April an action started in East [[LOCATION:location_83|Galicia]]. From every city a few hundreds or thousands of people were brought to the concentration camps. The normal segregation of fitness in these concentration camps was to put the people up for three days without any food - most of them started to eat grass because they would sit on grass lawns - and after three days they started to be checked out to see how fit they were to be taken into the concentration camp - the unfit ones were taken right out to the back of the concentration camp on the site and were shot.
 
 **Q.**. What happened to the fit ones?
 
@@ -275,7 +275,7 @@ Typhus started to spread very quickly. And to clean out the typhus, they burned 
 
 **Attorney General:** Why was that Dr. Wells, why did you have to pretend that you were not sick?
 
-**Witness Wells:** Because it would happen like it happened to me after I collapsed after four days. I couldn't move anymore and during the reveille I collapsed. I collapsed and was taken in between the wires - the death wires. At this time we were between the wires, 182 people. I fell asleep, I lost consciousness and in one minute somebody kicked me in the side and it was Untersturmfuehrer Wilhaus. He asked my name, wrote it down and told us all to line up and to march. Two hours before I collapsed and I was unconscious, but this time I was somehow marching in this line. Fifty feet farther the burying brigade with their shovels joined our group and we knew that we were marching into the direction to be buried.
+**Witness Wells:** Because it would happen like it happened to me after I collapsed after four days. I couldn't move anymore and during the reveille I collapsed. I collapsed and was taken in between the wires - the death wires. At this time we were between the wires, 182 people. I fell asleep, I lost consciousness and in one minute somebody kicked me in the side and it was [[PERSON:person_487|Untersturmfuehrer Wilhaus]]. He asked my name, wrote it down and told us all to line up and to march. Two hours before I collapsed and I was unconscious, but this time I was somehow marching in this line. Fifty feet farther the burying brigade with their shovels joined our group and we knew that we were marching into the direction to be buried.
 
 When we got to the sand we found there was no grave prepared for us. We got undressed, again registered every name so to know for sure that no one disappeared on the marching road. Everybody got a shovel and we started to dig our own grave. When the grave was finished they started to read from these registration lists and by two walked down the grave, had to lay down side by side with their faces down and were shot.
 
@@ -297,17 +297,17 @@ After the evening parade, and again at the next morning parade, it was repeated 
 
 The next day I escaped and when I got home, I told only my family not to say anything and I passed out and was unconscious for the next nineteen days.
 
-At this time, I saw the first time what happened to my family by me being in the concentration camp. My father was completely grey, and my mother didn't have any more of her teeth. The reason for her teeth was that due to some people saying that Webber who was the Arbeitsleiter (Labour Commissionar) of Lvov at that time for a certain sum of money, he can get out somebody from the concentration camp under pretence of death - she took out all her golden teeth to sell them to collect some money to get me out.
+At this time, I saw the first time what happened to my family by me being in the concentration camp. My father was completely grey, and my mother didn't have any more of her teeth. The reason for her teeth was that due to some people saying that Webber who was the Arbeitsleiter (Labour Commissionar) of [[LOCATION:location_99|Lvov]] at that time for a certain sum of money, he can get out somebody from the concentration camp under pretence of death - she took out all her golden teeth to sell them to collect some money to get me out.
 
-I am afraid to stay home due to somebody maybe seeing me and start rumours that I escaped, and still endangered my family. Three days after I regained my consciousness, I left Lvov to wander around in small towns and especially to maybe join my other members of the family in Stojanow.
+I am afraid to stay home due to somebody maybe seeing me and start rumours that I escaped, and still endangered my family. Three days after I regained my consciousness, I left [[LOCATION:location_99|Lvov]] to wander around in small towns and especially to maybe join my other members of the family in [[LOCATION:location_164|Stojanow]].
 
 **Presiding Judge:** Which place?
 
-**Witness Wells:** Stojanow.
+**Witness Wells:** [[LOCATION:location_164|Stojanow]].
 
 **Presiding Judge:** Where is that?
 
-**Witness Wells:** Stojanow is 100 kms east of Lemberg (Lvov).
+**Witness Wells:** [[LOCATION:location_164|Stojanow]] is 100 kms east of Lemberg ([[LOCATION:location_99|Lvov]]).
 
 **Presiding Judge:** We will now interrupt your evidence, and we shall adjourn until tomorrow morning at nine o'clock.
 

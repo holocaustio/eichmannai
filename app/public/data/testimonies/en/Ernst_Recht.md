@@ -1,4 +1,4 @@
-# Testimony of Ernst Recht
+# Testimony of [[PERSON:witness_43|Ernst Recht]]
 
 **Session:** 44
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Ernst Recht.
+**Witness:** [[PERSON:witness_43|Ernst Recht]].
 
 **Presiding Judge:** Tell him that he may sit down.
 
@@ -34,11 +34,11 @@
 
 **A.**Fifty-nine.
 
-**Q.**Where were you at the outbreak of the Second World War in 1939?
+**Q.**Where were you at the outbreak of the [[EVENT:event_383|Second World War]] in 1939?
 
-**A.**In Prague.
+**A.**In [[LOCATION:location_4|Prague]].
 
-**Q.**What did you do in Prague?
+**Q.**What did you do in [[LOCATION:location_4|Prague]]?
 
 **A.**I was director of the big printing house "Haase," and at the same time director of two paper factories - the Lukavitz and Wolfsdorf paper factories.
 
@@ -50,11 +50,11 @@
 
 **A.**Yes.
 
-**Q.**Until when did you remain in Prague?
+**Q.**Until when did you remain in [[LOCATION:location_4|Prague]]?
 
 **A.**The whole time, the entire period of the occupation.
 
-**Q.**When Prague was liberated by the Russian army - were you there?
+**Q.**When [[LOCATION:location_4|Prague]] was liberated by the Russian army - were you there?
 
 **A.**Yes.
 
@@ -80,7 +80,7 @@
 
 **Q.**Can you give details in brief?
 
-**A.**The first regulation against the Jews was the earliest possible seizure of their homes. Not only this, but my home, which was in a villa, was taken away from me and given to Dr. Ruehe, Professor at the German University in Prague, and I still had to prepare it for those people, to whitewash and to decorate it. The second thing happened on Yom Kippur 1939, when the radio receivers had to be handed over. Then people were forced to have all valuables, gold and precious stones valued, and to deliver them at certain banks, against receipt. Most Jews lost their sources of income, most officials in the various enterprises lost their jobs.
+**A.**The first regulation against the Jews was the earliest possible seizure of their homes. Not only this, but my home, which was in a villa, was taken away from me and given to Dr. Ruehe, Professor at the German University in [[LOCATION:location_4|Prague]], and I still had to prepare it for those people, to whitewash and to decorate it. The second thing happened on Yom Kippur 1939, when the radio receivers had to be handed over. Then people were forced to have all valuables, gold and precious stones valued, and to deliver them at certain banks, against receipt. Most Jews lost their sources of income, most officials in the various enterprises lost their jobs.
 
 Luckily, I was found to be essential in the enterprise where I worked; Mr. Holub, at that time the trustee of the enterprise, stated to the Ministry of Labour and to its director, Mr. Fischer, that I was indispensible to the enterprise, despite the intervention by some of our employees who disliked the fact that I was still working there.
 
@@ -90,7 +90,7 @@ Luckily, I was found to be essential in the enterprise where I worked; Mr. Holub
 
 **Q.**And in the morning?
 
-**A.**In the morning I was officially unemployed, and as officially unemployed, I was forced to join the work effort, the mobilization for work, that is to say, I was then taken to the Community in Prague to do administrative work.
+**A.**In the morning I was officially unemployed, and as officially unemployed, I was forced to join the work effort, the mobilization for work, that is to say, I was then taken to the Community in [[LOCATION:location_4|Prague]] to do administrative work.
 
 **Q.**Did you regard this as punishment?
 
@@ -98,13 +98,13 @@ Luckily, I was found to be essential in the enterprise where I worked; Mr. Holub
 
 **Q.**So, was it a punishment?
 
-**A.**No, to be honest, it was different. After five or six transports had already been sent to Lodz, the Central Office for the Settlement of the Jewish Question, Prague, charged Mr. Kramer with the job of seizing the valuables left behind in the Jewish homes.
+**A.**No, to be honest, it was different. After five or six transports had already been sent to [[LOCATION:location_81|Lodz]], the Central Office for the Settlement of the Jewish Question, [[LOCATION:location_4|Prague]], charged Mr. [[PERSON:person_471|Kramer]] with the job of seizing the valuables left behind in the Jewish homes.
 
-**Q.**Who was Kramer?
+**Q.**Who was [[PERSON:person_471|Kramer]]?
 
-**A.**Salo Kramer from Maehrisch-Ostrau. He was the first so- called Head of the Trusteeship Office at the Council of Elders in Prague.
+**A.**Salo Kramer from Maehrisch-Ostrau. He was the first so- called Head of the Trusteeship Office at the Council of Elders in [[LOCATION:location_4|Prague]].
 
-**Q.**I should like you, please, to explain to the Court the meaning of this term "Trusteeship Office at the Council of Elders in Prague."
+**Q.**I should like you, please, to explain to the Court the meaning of this term "Trusteeship Office at the Council of Elders in [[LOCATION:location_4|Prague]]."
 
 **A.**I cannot explain what that was. Guenther ordered this institution to be set up and to be called the "Trusteeship Office."
 
@@ -114,22 +114,22 @@ Luckily, I was found to be essential in the enterprise where I worked; Mr. Holub
 
 **Q.**You did not know him before that?
 
-**A.**I did not know him before that, and I did not get to know him for a long time after that. Only after the deportation of all the full Jews (Volljuden) from Prague, and after engineer Blitz, who was a full Jew, was appointed Head of the Trusteeship Office in the summer of 1944, it was only after that that I met Guenther.
+**A.**I did not know him before that, and I did not get to know him for a long time after that. Only after the deportation of all the full Jews (Volljuden) from [[LOCATION:location_4|Prague]], and after engineer Blitz, who was a full Jew, was appointed Head of the Trusteeship Office in the summer of 1944, it was only after that that I met Guenther.
 
 **Q.**What I wanted you to explain to the Court was not the reason for the name, but the tasks, the functions, of the Trusteeship Office, what had to be done there?
 
 **A.**During the last months of 1945, I removed various things from the Trusteeship Office.
 
-**Q.**Mr. Recht, my question was what had to be done at that office. Please reply to my question. My question was simple: When you joined the Religious Community, or the Council of Elders, at the end of 1941 or the beginning of 1942, what did you find there, what was Kramer's job, and what was he authorized to do?
+**Q.**Mr. Recht, my question was what had to be done at that office. Please reply to my question. My question was simple: When you joined the Religious Community, or the Council of Elders, at the end of 1941 or the beginning of 1942, what did you find there, what was [[PERSON:person_471|Kramer]]'s job, and what was he authorized to do?
 
-**A.**The Jews who were to be deported were concentrated in a certain place in Prague, in the Exhibition Hall. There the keys to their homes, which were now empty, were taken from them. These keys were brought to the Central Office, and from there to the Trusteeship Office, which was then called "Kramer's Operation." There, there was first of all the key department. The key department would give an order to the so-called "stocktakers." These were sent to the empty homes, wrote everything down and brought the lists back. After this stocktaking, the lists were transferred to a department which packed the various objects in suitable form and prepared them for dispatch. From there, the files went to the Transport Department.
+**A.**The Jews who were to be deported were concentrated in a certain place in [[LOCATION:location_4|Prague]], in the Exhibition Hall. There the keys to their homes, which were now empty, were taken from them. These keys were brought to the Central Office, and from there to the Trusteeship Office, which was then called "[[PERSON:person_471|Kramer]]'s Operation." There, there was first of all the key department. The key department would give an order to the so-called "stocktakers." These were sent to the empty homes, wrote everything down and brought the lists back. After this stocktaking, the lists were transferred to a department which packed the various objects in suitable form and prepared them for dispatch. From there, the files went to the Transport Department.
 
-The Transport Department ordered from the Holland Transport Firm in Prague often twenty lorries per day which made four to six transports per lorry. This is where I worked at first as a labourer, and the Transport Department carried all these articles away. Most of the time, SS officers and SS N. C. O.'s were present at this operation. Sometimes twenty lorries a day would be ordered, and since the Holland Transport Firm did not have that many lorries, it had to borrow lorries from other firms, often lorries for 80 to 100 transports were ordered for one day. This is how the property from the Jewish homes was taken to the different warehouses (Lager).
+The Transport Department ordered from the Holland Transport Firm in [[LOCATION:location_4|Prague]] often twenty lorries per day which made four to six transports per lorry. This is where I worked at first as a labourer, and the Transport Department carried all these articles away. Most of the time, SS officers and SS N. C. O.'s were present at this operation. Sometimes twenty lorries a day would be ordered, and since the Holland Transport Firm did not have that many lorries, it had to borrow lorries from other firms, often lorries for 80 to 100 transports were ordered for one day. This is how the property from the Jewish homes was taken to the different warehouses (Lager).
 ---
 
 **Q.**When you say "Lager" - do you mean warehouses or camps? What do you mean?
 
-**A.**All the synagogues in Prague were turned into warehouses. All the gym halls of the Czech gymnastics organization "Sokol" were adapted as warehouses. Several apartment houses were also vacated and the apartments turned into depots.
+**A.**All the synagogues in [[LOCATION:location_4|Prague]] were turned into warehouses. All the gym halls of the Czech gymnastics organization "Sokol" were adapted as warehouses. Several apartment houses were also vacated and the apartments turned into depots.
 
 **Q.**Who managed these warehouses?
 
@@ -137,7 +137,7 @@ The Transport Department ordered from the Holland Transport Firm in Prague often
 
 **Q.**Did you know this office, which was headed by Guenther, also by another name? Did it have a different name before?
 
-**A.**Yes. At first it was called "Central Office for the Regulation of the Jewish Question in Bohemia and Moravia," that is to say Emigration Office.
+**A.**Yes. At first it was called "Central Office for the Regulation of the Jewish Question in [[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]]," that is to say Emigration Office.
 
 **Q.**Do you remember the name: Central Office (Zentralstelle)?
 
@@ -149,9 +149,9 @@ The Transport Department ordered from the Holland Transport Firm in Prague often
 
 **Q.**Who were the workers, the persons who did the actual clearing of the homes and transferring the contents to the warehouses, all the work which you have just described?
 
-**A.**As I said before, Jews were, of course, employed in this "Kramer Operation," and later in the Trusteeship Office. There were also many furniture depots where there were German storekeepers, but although there was a German storekeeper, many Jews also worked there under these storekeepers. I should like to point out that these German warehousemen were, of course, also appointed by the Central Office.
+**A.**As I said before, Jews were, of course, employed in this "[[PERSON:person_471|Kramer]] Operation," and later in the Trusteeship Office. There were also many furniture depots where there were German storekeepers, but although there was a German storekeeper, many Jews also worked there under these storekeepers. I should like to point out that these German warehousemen were, of course, also appointed by the Central Office.
 
-**Q.**Do you remember SS officers and SS personnel who were responsible for these activities of the "Kramer Operation"?
+**Q.**Do you remember SS officers and SS personnel who were responsible for these activities of the "[[PERSON:person_471|Kramer]] Operation"?
 
 **A.**Of course, The first operation head on behalf of Guenther was Guemmel. He was one of the most decent of all.
 
@@ -161,7 +161,7 @@ The Transport Department ordered from the Holland Transport Firm in Prague often
 
 **Q.**Were you a member of the Council of Elders?
 
-**A.**In 1943, the so-called full Jews (Volljuden) were deported from Prague. On Guenther's instructions, some forty to fifty full Jews still remained in Prague, among them the architects Blitz and Schalek. Architect Blitz was appointed Head of the Trusteeship Office, and architect Schalek was made his deputy.
+**A.**In 1943, the so-called full Jews (Volljuden) were deported from [[LOCATION:location_4|Prague]]. On Guenther's instructions, some forty to fifty full Jews still remained in [[LOCATION:location_4|Prague]], among them the architects Blitz and Schalek. Architect Blitz was appointed Head of the Trusteeship Office, and architect Schalek was made his deputy.
 
 **Q.**Who was then the Head of the Council of Elders?
 
@@ -177,11 +177,11 @@ The Transport Department ordered from the Holland Transport Firm in Prague often
 
 **Q.**Until when did they continue?
 
-**A.**They continued until almost the end of summer 1944. On that day the full Jews, the architect Blitz and the architect Schalek and several good friends of mine were deported from Prague.
+**A.**They continued until almost the end of summer 1944. On that day the full Jews, the architect Blitz and the architect Schalek and several good friends of mine were deported from [[LOCATION:location_4|Prague]].
 
 **Q.**Do you know where to?
 
-**A.**Guenther promised these people the best treatment in return for their services. And the best he could do was that this transport - maybe two carriages destined for Theresienstadt - never reached Theresienstadt, and I do not know where they went. That same day, after the departure of this transport, I was ordered by telephone to come to the Council of Elders, to the office of the Council which was in Meisen Street. When I arrived there, Dr. Kollek, Dr. Engel, Kraus and others were sitting next to Dr. Franz Friedmann. Dr. Friedmann informed me that I was being appointed a member of the new Council of Elders. This new Council of Elders consisted of Dr. Franz Friedmann as Elder of the Jews, Dr. Kollek as co-worker, and myself. Dr. Stefan Engel was named Secretary of the Council of Jews. On this occasion, Dr. Friedmann also informed me that I had been appointed Head of the Trusteeship Office.
+**A.**Guenther promised these people the best treatment in return for their services. And the best he could do was that this transport - maybe two carriages destined for [[LOCATION:location_124|Theresienstadt]] - never reached [[LOCATION:location_124|Theresienstadt]], and I do not know where they went. That same day, after the departure of this transport, I was ordered by telephone to come to the Council of Elders, to the office of the Council which was in Meisen Street. When I arrived there, Dr. Kollek, Dr. Engel, Kraus and others were sitting next to Dr. Franz Friedmann. Dr. Friedmann informed me that I was being appointed a member of the new Council of Elders. This new Council of Elders consisted of Dr. Franz Friedmann as Elder of the Jews, Dr. Kollek as co-worker, and myself. Dr. Stefan Engel was named Secretary of the Council of Jews. On this occasion, Dr. Friedmann also informed me that I had been appointed Head of the Trusteeship Office.
 
 **Q.**And from then on you were in closest contact with Guenther?
 
@@ -193,13 +193,13 @@ The Transport Department ordered from the Holland Transport Firm in Prague often
 
 And then this order was given a consecutive minute number, and on completion our minute was sent to the Central Office. The instructions I received from Guenther were sometimes secret, and then he told me so expressly, because the other functions were open and public and passed through the Central Office, and all the staff of the Central Office were allowed to know about them.
 
-When I was appointed as Head of the Trusteeship Office in 1944, when it was already late, the warehouses and their contents were, of course, no longer in the state they had been in after the deportation of the Jews. Therefore Guenther's instructions were very guarded. Thus, for instance, Guenther called me and said: "Recht, tomorrow people are coming from Berlin, a commission from Berlin, which is authorized to inspect the carpets in the warehouses." According to the lists we had, there were some 44,000 carpets in the warehouses in 1943. Guenther said: "Recht, put into the last room..." - this was in the Langegasse, in what had once been the Jewish Cafe Aschermann - "clear out the last room" - which was the sixth one, the last of a row of rooms. He ordered me to put into it the best carpets, to lock it up, and to put a cupboard outside the door, so that the existence of another room would not be noticed.
+When I was appointed as Head of the Trusteeship Office in 1944, when it was already late, the warehouses and their contents were, of course, no longer in the state they had been in after the deportation of the Jews. Therefore Guenther's instructions were very guarded. Thus, for instance, Guenther called me and said: "Recht, tomorrow people are coming from [[LOCATION:location_1|Berlin]], a commission from [[LOCATION:location_1|Berlin]], which is authorized to inspect the carpets in the warehouses." According to the lists we had, there were some 44,000 carpets in the warehouses in 1943. Guenther said: "Recht, put into the last room..." - this was in the Langegasse, in what had once been the Jewish Cafe Aschermann - "clear out the last room" - which was the sixth one, the last of a row of rooms. He ordered me to put into it the best carpets, to lock it up, and to put a cupboard outside the door, so that the existence of another room would not be noticed.
 
 If these details are of interest to the Court, I have more to add.
 
 **Q.**I have another question in connection with the secret orders: Do you remember a letter in connection with the book depot of the Trusteeship Office?
 
-**A.**That was not an instruction. It was a regulation which had been in force long before I took over the job. We had a very large collection of books there, about a million books. This was accessible to the public for the purchase of these books. The buyer of these books was Andre, the proprietor of the German bookshop in Prague. This firm had access to the warehouse, where it could there select for itself whatever it wanted, and could take the books against payment to the Central Office. In addition to this central warehouse, there was also a small depot. This was located in the Stupartgasse, and there were about 20,000-22,000 unique volumes, i.e., as the name implies, books of which there were no other copies. The public did not have access to this depot, and neither did Andre.
+**A.**That was not an instruction. It was a regulation which had been in force long before I took over the job. We had a very large collection of books there, about a million books. This was accessible to the public for the purchase of these books. The buyer of these books was Andre, the proprietor of the German bookshop in [[LOCATION:location_4|Prague]]. This firm had access to the warehouse, where it could there select for itself whatever it wanted, and could take the books against payment to the Central Office. In addition to this central warehouse, there was also a small depot. This was located in the Stupartgasse, and there were about 20,000-22,000 unique volumes, i.e., as the name implies, books of which there were no other copies. The public did not have access to this depot, and neither did Andre.
 
 One evening I was called to Guenther. He threw a letter in front of me, a letter from Andre, and said: Recht, read that!
 
@@ -223,7 +223,7 @@ Guenther said: "Who divulged this?" I replied: "Sturmbannfuehrer, I do not know.
 
 **Q.**Tell the Court what you call "besondere Auftraege" (special orders).
 
-**A.**As regards this special order by Andre, I should like to say that I told Guenther that I would not be able to find an explanation by next morning either, because most of the people who dealt with these matters had already been sent to Theresienstadt.
+**A.**As regards this special order by Andre, I should like to say that I told Guenther that I would not be able to find an explanation by next morning either, because most of the people who dealt with these matters had already been sent to [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Please answer my questions.
 
@@ -233,31 +233,31 @@ Guenther said: "Who divulged this?" I replied: "Sturmbannfuehrer, I do not know.
 
 **State Attorney Bar-Or:** I come back to my question: What happened with these special orders by Guenther?
 
-**Witness Recht:** There were orders, instructions, which were not disposed of by an ordinary file note. For instance, that this or that object has to be made ready for Police President Dr. Weimann in Prague at his order, or to be handed over to the movers. The same thing was done for others, such as Hunsche, Stahlecker, Rahm and others.
+**Witness Recht:** There were orders, instructions, which were not disposed of by an ordinary file note. For instance, that this or that object has to be made ready for Police President Dr. Weimann in [[LOCATION:location_4|Prague]] at his order, or to be handed over to the movers. The same thing was done for others, such as Hunsche, Stahlecker, Rahm and others.
 
 **Q.**Who was Dr. Weimann?
 
-**A.**The Police President of Prague.
+**A.**The Police President of [[LOCATION:location_4|Prague]].
 
 **Q.**Do you remember more names?
 
 **A.**I cannot remember.
 
-**Q.**When you speak of Hunsche, Stahlecker and others - did these people come to Prague?
+**Q.**When you speak of Hunsche, Stahlecker and others - did these people come to [[LOCATION:location_4|Prague]]?
 
-**A.**With the exception of Rahm and Weimann, who were of course in Prague - and Rahm was later in Theresienstadt - I knew those people by name only from these instructions.
+**A.**With the exception of Rahm and Weimann, who were of course in [[LOCATION:location_4|Prague]] - and Rahm was later in [[LOCATION:location_124|Theresienstadt]] - I knew those people by name only from these instructions.
 
 **Q.**Why do you think that these were special instructions? What was special about them?
 
 **A.**These were Guenther's associates or colleagues, who were treated by him with special preference. When such persons demanded something, that is to say demanded it from the Trustee Office, it was as if they had come to a department store and were ordering and selecting some object. They did not even have to take the trouble of coming to him, since they got what was best for them, and in this respect they could absolutely rely on Guenther.
 
-**Q.**Mr. Recht, this Trusteeship Office, which was attached to the Council of Elders in Prague - did it have to report to anybody?
+**Q.**Mr. Recht, this Trusteeship Office, which was attached to the Council of Elders in [[LOCATION:location_4|Prague]] - did it have to report to anybody?
 
 **A.**Of course. The Trusteeship Office was first and foremost subordinated to Guenther. It was really a Jewish institution, and the purpose of the whole thing was largely to camouflage it vis-a-vis the public. We also dealt with the emptying out of dwellings in the provincial towns. There were often incidents of friction, and there were often pleasant moments when Czechs came - in the provincial towns they were more open than in the capital - and said: "Why are taking this away, this cannot last for long, these people will surely come back."
 
-**Q.**I have before me an illustrated report entitled "Treuhandstelle beim Aeltestenrat der Juden in Prag" (Trusteeship Office at the Council of Elders in Prague), about 9,288 homes vacated by the Jews who lived there. When was this report produced and by whom?
+**Q.**I have before me an illustrated report entitled "Treuhandstelle beim Aeltestenrat der Juden in Prag" (Trusteeship Office at the Council of Elders in [[LOCATION:location_4|Prague]]), about 9,288 homes vacated by the Jews who lived there. When was this report produced and by whom?
 
-**A.**This report, which I myself submitted, was produced at Guenther's orders, as a kind of justification vis-a-vis Berlin for his instructions and orders, so that they should know about his work, what had been done in the past and what was being done at the time, and what still had to be done. These yearly, or half-yearly, reports, which were mostly prepared by the architect Schalek and the architect Blitz, with the help of several other assistants, constituted a kind of confirmation given periodically by the Trusteeship Office to the Central Office, whence they were forwarded to Berlin.
+**A.**This report, which I myself submitted, was produced at Guenther's orders, as a kind of justification vis-a-vis [[LOCATION:location_1|Berlin]] for his instructions and orders, so that they should know about his work, what had been done in the past and what was being done at the time, and what still had to be done. These yearly, or half-yearly, reports, which were mostly prepared by the architect Schalek and the architect Blitz, with the help of several other assistants, constituted a kind of confirmation given periodically by the Trusteeship Office to the Central Office, whence they were forwarded to [[LOCATION:location_1|Berlin]].
 
 **Q.**Look at this report, please. Is this the one?
 
@@ -265,9 +265,9 @@ Guenther said: "Who divulged this?" I replied: "Sturmbannfuehrer, I do not know.
 
 **Presiding Judge:** This will be marked T/855.
 
-**State Attorney Bar-Or:** This is the report of which I have spoken, which refers to about 10,000 homes. Where were these homes, in Prague only or also in the provincial towns in the vicinity of Prague?
+**State Attorney Bar-Or:** This is the report of which I have spoken, which refers to about 10,000 homes. Where were these homes, in [[LOCATION:location_4|Prague]] only or also in the provincial towns in the vicinity of [[LOCATION:location_4|Prague]]?
 
-**Witness Recht:** In Prague and also in the vicinity of Prague.
+**Witness Recht:** In [[LOCATION:location_4|Prague]] and also in the vicinity of [[LOCATION:location_4|Prague]].
 
 **Q.**In this report, there is mention of the work of different departments. Please explain to the Court what this is about.
 
@@ -288,7 +288,7 @@ Guenther said: "Who divulged this?" I replied: "Sturmbannfuehrer, I do not know.
 
 **Q.**What is the picture you have before you now?
 
-**A.**This picture shows one of the furniture warehouses, in one of the halls in Prague, the same as in most of the Sokol halls.
+**A.**This picture shows one of the furniture warehouses, in one of the halls in [[LOCATION:location_4|Prague]], the same as in most of the Sokol halls.
 
 **Q.**Please go on to the next picture. What do you see now?
 
@@ -306,7 +306,7 @@ Guenther said: "Who divulged this?" I replied: "Sturmbannfuehrer, I do not know.
 
 **A.**Only original paintings. There were a number of excellent paintings, e.g., from the collection of Pick, the great margarine producer at Tschaslau, from whom quite a number of outstanding pictures by first-rate painters were robbed and in part handed out or given away.
 
-Here is a picture showing a store of books. From the list at the front, it can be seen that we had at that time an official store of more than a million volumes, which were stored in the Meiselgasse in Prague in various stores, apart from the special store at the Stupartgasse.
+Here is a picture showing a store of books. From the list at the front, it can be seen that we had at that time an official store of more than a million volumes, which were stored in the Meiselgasse in [[LOCATION:location_4|Prague]] in various stores, apart from the special store at the Stupartgasse.
 
 This picture - typewriters. There was a special depot for objects of this kind. In my time, there were a large number of typewriters which were repaired and put at the disposal of the Central Office.
 
@@ -324,17 +324,17 @@ This picture - typewriters. There was a special depot for objects of this kind. 
 
 **Q.**Now give the report back to the Court.
 
-You told the Court of the impression Guenther wanted to make on the office of his superiors in Berlin. Does that appear from his report to them?
+You told the Court of the impression Guenther wanted to make on the office of his superiors in [[LOCATION:location_1|Berlin]]. Does that appear from his report to them?
 
-**A.**He said so himself. He said that he needed these reports in order to pass them on to Berlin, and that they had to be faultless.
+**A.**He said so himself. He said that he needed these reports in order to pass them on to [[LOCATION:location_1|Berlin]], and that they had to be faultless.
 
-**Q.**Did you know the SS staff employed by Guenther in connection with the Trusteeship Office in Prague?
+**Q.**Did you know the SS staff employed by Guenther in connection with the Trusteeship Office in [[LOCATION:location_4|Prague]]?
 
 **A.**I knew it well enough.
 
-**Q.**Can you tell the Court about Guenther's efforts, and how he succeeded in his efforts to retain this staff in Prague?
+**Q.**Can you tell the Court about Guenther's efforts, and how he succeeded in his efforts to retain this staff in [[LOCATION:location_4|Prague]]?
 
-**A.**Easily. Because he could provide proof of efficient work and results. I am convinced, and we all knew this, because he did not keep it a secret, neither did his officers. Among his people there were some very decent men, decent according to our notions. I will name especially Hauptsturmfuehrer Ullmann from Vienna, and he is worth naming; he was with me in my difficult and thankless work which was forced upon me; like Miss Matzke, he helped me in my hour of need more than once. Apart from the officers I have named, there were also civilians.
+**A.**Easily. Because he could provide proof of efficient work and results. I am convinced, and we all knew this, because he did not keep it a secret, neither did his officers. Among his people there were some very decent men, decent according to our notions. I will name especially Hauptsturmfuehrer Ullmann from [[LOCATION:location_3|Vienna]], and he is worth naming; he was with me in my difficult and thankless work which was forced upon me; like Miss Matzke, he helped me in my hour of need more than once. Apart from the officers I have named, there were also civilians.
 
 **Q.**I want to know who were the people who worked there. Was it necessary to employ all those SS people there, all that apparatus?
 
@@ -342,13 +342,13 @@ You told the Court of the impression Guenther wanted to make on the office of hi
 
 **Q.**Why were these people employed there?
 
-**A.**There were not only SS people there. There were so- called war Germans from Prague who worked as civilian clerks.
+**A.**There were not only SS people there. There were so- called war Germans from [[LOCATION:location_4|Prague]] who worked as civilian clerks.
 
 **Presiding Judge:** You must answer the questions fully. You were asked: Why were officials employed there who were not needed?
 
-**Witness Recht:** Guenther set up this staff, and for him it was like a visiting card. I am not just convinced of this, I learned it through experience, by working with them. He wanted to give the impression as if, without the Central Office and without Guenther, nothing could be done in Prague; everywhere things had to be done by the right people, if the work was to be done properly.
+**Witness Recht:** Guenther set up this staff, and for him it was like a visiting card. I am not just convinced of this, I learned it through experience, by working with them. He wanted to give the impression as if, without the Central Office and without Guenther, nothing could be done in [[LOCATION:location_4|Prague]]; everywhere things had to be done by the right people, if the work was to be done properly.
 
-**State Attorney Bar-Or:** Did you know the Commander of the Security Police in Prague during your time?
+**State Attorney Bar-Or:** Did you know the Commander of the Security Police in [[LOCATION:location_4|Prague]] during your time?
 
 **Witness Recht:** I knew him by name: Weimann.
 
@@ -370,25 +370,25 @@ You told the Court of the impression Guenther wanted to make on the office of hi
 
 **Presiding Judge:** Thank you very much, Mr. Recht, you have completed your evidence.
 
-**State Attorney Bar-Or:** With the permission of the Court, I shall continue with the Theresienstadt file. I turn to our document No. 995, a letter by Killinger which actually comes from Richter. Richter was the representative of the Accused in Bucharest, Romania, in the Judenreferat (Jewish Office) attached to the German legation there. The Court will find both signatures on document No. 995. It concerns the transmission of information from the Benzburg and Theresienstadt camps, about which the German authorities were informed by what is called here a V. M., a "Vertrauensmann" (secret agent). I submit this in connection with the, apparently successful, efforts to smuggle mail out of Theresienstadt about what was going on there.
+**State Attorney Bar-Or:** With the permission of the Court, I shall continue with the [[LOCATION:location_124|Theresienstadt]] file. I turn to our document No. 995, a letter by Killinger which actually comes from [[PERSON:person_417|Richter]]. [[PERSON:person_417|Richter]] was the representative of the Accused in [[LOCATION:location_71|Bucharest]], [[LOCATION:location_129|Romania]], in the Judenreferat (Jewish Office) attached to the German legation there. The Court will find both signatures on document No. 995. It concerns the transmission of information from the Benzburg and [[LOCATION:location_124|Theresienstadt]] camps, about which the German authorities were informed by what is called here a V. M., a "Vertrauensmann" (secret agent). I submit this in connection with the, apparently successful, efforts to smuggle mail out of [[LOCATION:location_124|Theresienstadt]] about what was going on there.
 
 **Presiding Judge:** This will be marked T/856.
 
-**State Attorney Bar-Or:** I now go on to document No. 994, a letter dated 23 December 1942 from Klingenfuss to the deputy of the Accused, Guenther, about the deportation of first generation issue of mixed marriages holding German nationality. This follows a conversation with the above- mentioned Richter on 17 November 1942 about a request by Klingenfuss in connection with those children of mixed marriages who were to be deported in the near future. And he writes: "I request that the local State Police Headquarters concerned be informed of the deportation operation. (Richter, SS Hauptsturmfuehrer)."
+**State Attorney Bar-Or:** I now go on to document No. 994, a letter dated 23 December 1942 from Klingenfuss to the deputy of the Accused, Guenther, about the deportation of first generation issue of mixed marriages holding German nationality. This follows a conversation with the above- mentioned [[PERSON:person_417|Richter]] on 17 November 1942 about a request by Klingenfuss in connection with those children of mixed marriages who were to be deported in the near future. And he writes: "I request that the local State Police Headquarters concerned be informed of the deportation operation. ([[PERSON:person_417|Richter]], SS Hauptsturmfuehrer)."
 
 **Presiding Judge:** This will be marked T/857.
 
 **State Attorney Bar-Or:** I pass on to document No. 162. It was submitted to the Court and marked T/292, in connection with the liquidation of the Jews of Bialystok. I draw your attention to document T/292 at this juncture, because here we learn for the first time about Mueller's request in this telegram, which is addressed to Reichsfuehrer-SS Himmler at his Feldkommandostelle (Field Command Post) in the East.
 
-Among other things, he asks that 10,000 Jews be sent away from Ghetto Theresienstadt. The marking of the telegram, which appears at the end, is IVB4a, and it is dated 16 December 1942. Only for the sake of completing the picture, I should like to draw the attention of the Court to one point. We shall at once see Himmler's reply to Mueller.
+Among other things, he asks that 10,000 Jews be sent away from Ghetto [[LOCATION:location_124|Theresienstadt]]. The marking of the telegram, which appears at the end, is IVB4a, and it is dated 16 December 1942. Only for the sake of completing the picture, I should like to draw the attention of the Court to one point. We shall at once see Himmler's reply to Mueller.
 
-The telegram also finds expression, eventually, in an express letter sent to the Reichsfuehrer-SS to his Field Command Post. This is our document No. 1581, a letter from IVB4a, signed this time by Kaltenbrunner. Here we have, in fact, a reasoned version of what had been said in the telegram. The difficulty they faced was, as they say, that it was necessary to deport Jews from Theresienstadt to the East, although these were actually Jews who could not be assigned to the work effort because of their age.
+The telegram also finds expression, eventually, in an express letter sent to the Reichsfuehrer-SS to his Field Command Post. This is our document No. 1581, a letter from IVB4a, signed this time by Kaltenbrunner. Here we have, in fact, a reasoned version of what had been said in the telegram. The difficulty they faced was, as they say, that it was necessary to deport Jews from [[LOCATION:location_124|Theresienstadt]] to the East, although these were actually Jews who could not be assigned to the work effort because of their age.
 
 **Presiding Judge:** This will be marked T/858.
 
-**State Attorney Bar-Or:** At the end he says: "I ask for permission to remove from Theresienstadt, in the first instance, 5,000 Jews over the age of 65, and to transport them to Auschwitz or to the Generalgouvernement. As in the case of previous transports, in the selection of Jews who may be considered for deportation care will be taken to include only those Jews who dispose of no special relations or connections, and who are not in possession of any high war decorations."
+**State Attorney Bar-Or:** At the end he says: "I ask for permission to remove from [[LOCATION:location_124|Theresienstadt]], in the first instance, 5,000 Jews over the age of 65, and to transport them to [[LOCATION:location_286|Auschwitz]] or to the [[LOCATION:location_152|Generalgouvernement]]. As in the case of previous transports, in the selection of Jews who may be considered for deportation care will be taken to include only those Jews who dispose of no special relations or connections, and who are not in possession of any high war decorations."
 
-I go on to document No. 1557, the reply from the Headquarters of the Reichsfuehrer-SS to these two applications. This reply by the Reichsfuehrer-SS, or on his behalf, is dated 16 February 1943. And what it says is interesting: "Deportation of Jews from Theresienstadt" - and someone added in handwriting "Jewish Workers." The letter says in brief that the Reichsfuehrer-SS does not wish Jews to be deported from Theresienstadt, since "The tendency to let the Jews live and die in peace in the Old Age Ghetto Theresienstadt would thereby be upset."
+I go on to document No. 1557, the reply from the Headquarters of the Reichsfuehrer-SS to these two applications. This reply by the Reichsfuehrer-SS, or on his behalf, is dated 16 February 1943. And what it says is interesting: "Deportation of Jews from [[LOCATION:location_124|Theresienstadt]]" - and someone added in handwriting "Jewish Workers." The letter says in brief that the Reichsfuehrer-SS does not wish Jews to be deported from [[LOCATION:location_124|Theresienstadt]], since "The tendency to let the Jews live and die in peace in the Old Age Ghetto [[LOCATION:location_124|Theresienstadt]] would thereby be upset."
 
 **Judge Halevi:** That is to say, Himmler was more moderate here than Kaltenbrunner.
 
@@ -396,7 +396,7 @@ I go on to document No. 1557, the reply from the Headquarters of the Reichsfuehr
 
 **Presiding Judge:** This document is marked T/859.
 
-**State Attorney Bar-Or:** I turn to our document No. 1187, a matter concerning individuals again. It is a letter by Guenther, the deputy of the Accused, to von Thadden at the Foreign Ministry, dated 15 November 1943, concerning the Jewish couple Jakob Israel Lucas. I draw attention to the last paragraph.
+**State Attorney Bar-Or:** I turn to our document No. 1187, a matter concerning individuals again. It is a letter by Guenther, the deputy of the Accused, to von Thadden at the Foreign Ministry, dated 15 November 1943, concerning the Jewish couple Jakob [[LOCATION:location_38|Israel]] Lucas. I draw attention to the last paragraph.
 
 **Presiding Judge:** This was an application by the Catholic nuncio?
 
@@ -404,7 +404,7 @@ I go on to document No. 1557, the reply from the Headquarters of the Reichsfuehr
 
 **Presiding Judge:** This document is marked T/860.
 
-**State Attorney Bar-Or:** And one more document, No. 1194, which was shown to the Accused and marked T/37(293). This is the first indication of preparations for a visit by the Red Cross, at first the German Red Cross, in the Theresienstadt camp. The letter is signed by Dr. Maurer and was sent from the office of the Commander of the Security Police and the Security Service in Prague on 23 June 1943. It says that on 28 July 1943 there will be an inspection of the Theresienstadt ghetto, with the permission of the Head Office for Reich Security, and that five persons are to take part in it. There will be someone from the Chancellery of the Fuehrer; there will be Generalhauptfuehrer Hartmann of the German Red Cross; and at the end it says that von Thadden of the Foreign Ministry and two representatives of the Head Office for Reich Security will take part. The inspection will be under the guidance of SS Standartenfuehrer Sowa and SS Obersturmbannfuehrer Eichmann.
+**State Attorney Bar-Or:** And one more document, No. 1194, which was shown to the Accused and marked T/37(293). This is the first indication of preparations for a visit by the Red Cross, at first the [[ORGANIZATION:org_352|German Red Cross]], in the [[LOCATION:location_245|Theresienstadt camp]]. The letter is signed by Dr. Maurer and was sent from the office of the Commander of the Security Police and the Security Service in [[LOCATION:location_4|Prague]] on 23 June 1943. It says that on 28 July 1943 there will be an inspection of the [[LOCATION:location_293|Theresienstadt ghetto]], with the permission of the Head Office for Reich Security, and that five persons are to take part in it. There will be someone from the Chancellery of the Fuehrer; there will be Generalhauptfuehrer Hartmann of the [[ORGANIZATION:org_352|German Red Cross]]; and at the end it says that von Thadden of the Foreign Ministry and two representatives of the Head Office for Reich Security will take part. The inspection will be under the guidance of SS Standartenfuehrer Sowa and SS Obersturmbannfuehrer Eichmann.
 
 **Judge Halevi:** The Red Cross people are Hauptfuehrer Hartmann and Oberfeldfuehrer Miehaus.
 
@@ -424,11 +424,11 @@ I go on to document No. 1557, the reply from the Headquarters of the Reichsfuehr
 
 **State Attorney Bar-Or:** The Court will be interested to know that the Accused, to whom this document was shown, refers to it in his statement on pages 2304 ff.
 
-I go on to document No. 1205, the Order of the Day of Ghetto Theresienstadt of 10 January 1943. It deals with transports to the East. I should like to read only the first passage, which says: "In accordance with instructions from the camp commandant's office, five transports of 2,000 persons each are to be dispatched to the East in the course of this month. The dates of departure have not yet been fixed; the first transport may leave already in the course of this week. The transports will be composed, in equal halves, of persons who arrived in the ghetto in transports from the Old Reich and the Ostmark, and of persons who arrived in transports from Bohemia and Moravia. There follow several exemptions from these transports.
+I go on to document No. 1205, the Order of the Day of Ghetto [[LOCATION:location_124|Theresienstadt]] of 10 January 1943. It deals with transports to the East. I should like to read only the first passage, which says: "In accordance with instructions from the camp commandant's office, five transports of 2,000 persons each are to be dispatched to the East in the course of this month. The dates of departure have not yet been fixed; the first transport may leave already in the course of this week. The transports will be composed, in equal halves, of persons who arrived in the ghetto in transports from the Old Reich and the Ostmark, and of persons who arrived in transports from [[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]]. There follow several exemptions from these transports.
 
 **Presiding Judge:** This document is marked T/862.
 
-**State Attorney Bar-Or:** I turn to document No. 1200. This is not an Order of the Day from Theresienstadt, but it is, in fact, an internal order from one of the departments in Theresienstadt. The administration of the Council of Elders was divided into certain departments, and the Court now has before it an internal order from the Health Department, which was headed by Dr. Erich Munk. On 21 August 1943, Munk here informs all gynecologists of the following:
+**State Attorney Bar-Or:** I turn to document No. 1200. This is not an Order of the Day from [[LOCATION:location_124|Theresienstadt]], but it is, in fact, an internal order from one of the departments in [[LOCATION:location_124|Theresienstadt]]. The administration of the Council of Elders was divided into certain departments, and the Court now has before it an internal order from the Health Department, which was headed by Dr. Erich Munk. On 21 August 1943, Munk here informs all gynecologists of the following:
 
 > "On the occasion of the two latest announcements of
 > births, SS Obersturmfuehrer Burger lets it be known

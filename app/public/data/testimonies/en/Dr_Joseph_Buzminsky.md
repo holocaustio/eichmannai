@@ -1,4 +1,4 @@
-# Testimony of Dr. Joseph Buzminsky
+# Testimony of [[PERSON:witness_103|Dr. Joseph Buzminsky]]
 
 **Session:** 24
 
@@ -8,7 +8,7 @@
 
 **Witness:** Josef Buzminsky.
 
-**Attorney General:** Do you live in Tel Aviv, 128 Rehov Ahad Ha- am?
+**Attorney General:** Do you live in [[LOCATION:location_42|Tel Aviv]], 128 Rehov Ahad Ha- am?
 
 **Witness Buzminsky:** Yes.
 
@@ -16,11 +16,11 @@
 
 **A.**Yes.
 
-**Q.**When the Second World War broke out were you in Przemysl?
+**Q.**When the [[EVENT:event_383|Second World War]] broke out were you in Przemysl?
 
 **A.**Yes.
 
-**Q.**You were saved thanks to a woman who hid you, who is now your wife, and who is a Polish woman living with you in Israel.
+**Q.**You were saved thanks to a woman who hid you, who is now your wife, and who is a Polish woman living with you in [[LOCATION:location_38|Israel]].
 
 **A.**Yes. We were fifteen people whom she saved.
 
@@ -78,7 +78,7 @@ In August, a month after the first operation there was a second operation. There
 
 **Q.**Where did these transports go, Dr. Buzminsky?
 
-**A.**All the deportations were to Belzec. From the first deportation, a few who had jumped from the train returned and they warned people in the second operation that the same thing awaited them. People began to hide themselves. But many went to the square in the normal manner.
+**A.**All the deportations were to [[LOCATION:location_154|Belzec]]. From the first deportation, a few who had jumped from the train returned and they warned people in the second operation that the same thing awaited them. People began to hide themselves. But many went to the square in the normal manner.
 
 **Q.**What is the meaning of "normal" - of their own free will?
 
@@ -121,7 +121,7 @@ After that they ordered them to get up and run away. And then they took out revo
 
 **Presiding Judge:** Were you also in this bunker?
 
-**Witness Buzminsky:** Yes. The SS men and the Gestapo stood in a row, and each one had a rod in his hand. Everyone who came out of the bunker received blows. Anyone who had the strength and managed to run - got his blows, but he managed to run. In the end he had to stand in line. The weak ones got their blows and were killed on the spot. Amongst them there was a girl, the daughter of a certain lawyer, who was ill. They brought us to the square, stood us in a line, took from us all the valuables that there were, and stood us up to kill us by shooting. I stood in line together with my brother and we deliberately tried to face the muzzles of their guns so that they would shoot us in the heart.
+**Witness Buzminsky:** Yes. The SS men and the [[ORGANIZATION:org_344|Gestapo]] stood in a row, and each one had a rod in his hand. Everyone who came out of the bunker received blows. Anyone who had the strength and managed to run - got his blows, but he managed to run. In the end he had to stand in line. The weak ones got their blows and were killed on the spot. Amongst them there was a girl, the daughter of a certain lawyer, who was ill. They brought us to the square, stood us in a line, took from us all the valuables that there were, and stood us up to kill us by shooting. I stood in line together with my brother and we deliberately tried to face the muzzles of their guns so that they would shoot us in the heart.
 
 **Attorney General:** Why?
 
@@ -147,7 +147,7 @@ Surrounding us were the SS men with dogs, and a group of men stood before the en
 
 **Q.**After some time you entered a bunker together with a number of people, and there a Polish woman hid you?
 
-**A.**I first returned to this Polish woman, for I had nowhere to go back to. She had been left on her own. They killed her father and transferred the remaining members of her family to Germany for labour. She remained with her small sister, aged 7, and when she saw me bleeding all over and broken, this woman, who had previously been my neighbour in the place where I lived, took me in, washed me and gave me a place where I could sleep.
+**A.**I first returned to this Polish woman, for I had nowhere to go back to. She had been left on her own. They killed her father and transferred the remaining members of her family to [[LOCATION:location_2|Germany]] for labour. She remained with her small sister, aged 7, and when she saw me bleeding all over and broken, this woman, who had previously been my neighbour in the place where I lived, took me in, washed me and gave me a place where I could sleep.
 
 **Q.**And you remained there until the Russian army reached Przemzl and liberated you?
 
@@ -159,7 +159,7 @@ Surrounding us were the SS men with dogs, and a group of men stood before the en
 
 **Q.**Is he police officer Goldman, who is sitting at my side?
 
-**A.**Yes. Normally a young man could not survive after 50 blows. And, generally, after 50 blows the young man would be dead. Since he survived 80 lashes, and he then ordered him to run and he ran, he let him remain alive. Thereafter I saw another member of the Gestapo, named Reisner, who came into the ghetto one evening in order to amuse himself with women. There he came across a Jewish lad about 18 years old and was about to shoot him. The lad attacked the Gestapo man, stabbed him with a knife, took his revolver away from him and fled. The Gestapo man was only wounded. They took him to hospital and took 50 Jews as hostages. The next day they caught the lad. They executed 25 of the hostages, and this young man, together with two others, as well as a dog, were hanged publicly in the ghetto.
+**A.**Yes. Normally a young man could not survive after 50 blows. And, generally, after 50 blows the young man would be dead. Since he survived 80 lashes, and he then ordered him to run and he ran, he let him remain alive. Thereafter I saw another member of the [[ORGANIZATION:org_344|Gestapo]], named Reisner, who came into the ghetto one evening in order to amuse himself with women. There he came across a Jewish lad about 18 years old and was about to shoot him. The lad attacked the [[ORGANIZATION:org_344|Gestapo]] man, stabbed him with a knife, took his revolver away from him and fled. The [[ORGANIZATION:org_344|Gestapo]] man was only wounded. They took him to hospital and took 50 Jews as hostages. The next day they caught the lad. They executed 25 of the hostages, and this young man, together with two others, as well as a dog, were hanged publicly in the ghetto.
 
 **Q.**Afterwards you returned to the bunker, and hid there and hence you were saved?
 
@@ -171,11 +171,11 @@ Surrounding us were the SS men with dogs, and a group of men stood before the en
 
 **Q.**By all means.
 
-**A.**When I was in the bunker, about three months before the liberation, we noticed a girl 6 or 7 years old playing in the yard. Men of the Gestapo and the SS arrived and surrounded the yard. This was a Polish family of eight souls. They began to beat the little girl with whips and they executed all of those who were in the yard. Afterwards my wife was informed that this was a Jewish girl whom this family had hidden and for this reason they executed the entire family.
+**A.**When I was in the bunker, about three months before the liberation, we noticed a girl 6 or 7 years old playing in the yard. Men of the [[ORGANIZATION:org_344|Gestapo]] and the SS arrived and surrounded the yard. This was a Polish family of eight souls. They began to beat the little girl with whips and they executed all of those who were in the yard. Afterwards my wife was informed that this was a Jewish girl whom this family had hidden and for this reason they executed the entire family.
 
-**Q.**Subsequently you married the woman who saved you and she is now with you in Israel - and she is your wife?
+**Q.**Subsequently you married the woman who saved you and she is now with you in [[LOCATION:location_38|Israel]] - and she is your wife?
 
-**A.**Yes, I married her and took care of her little sister who is now a doctor in Poland, and I am here, now, with my wife.
+**A.**Yes, I married her and took care of her little sister who is now a doctor in [[LOCATION:location_5|Poland]], and I am here, now, with my wife.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions to this witness?
 

@@ -1,4 +1,4 @@
-# Testimony of Leanna Neumann
+# Testimony of [[PERSON:witness_73|Leanna Neumann]]
 
 **Session:** 30
 
@@ -14,9 +14,9 @@ Neumann, Liona.
 
 **Q.**Where were you born?
 
-**A.**In Vienna.
+**A.**In [[LOCATION:location_3|Vienna]].
 
-**Q.**And lived in Vienna until the beginning of 1942?
+**Q.**And lived in [[LOCATION:location_3|Vienna]] until the beginning of 1942?
 
 **A.**Yes.
 
@@ -26,7 +26,7 @@ Neumann, Liona.
 
 **Q.**Who arrested you, who took you from your home?
 
-**A.**Motor cars drove up with Jewish orderlies sent by the Gestapo.
+**A.**Motor cars drove up with Jewish orderlies sent by the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**Where did they take you?
 
@@ -34,7 +34,7 @@ Neumann, Liona.
 
 **Q.**For how long did you stay at the Sperlgasse?
 
-**A.**We stayed there until the transport to Riga was complete.
+**A.**We stayed there until the transport to [[LOCATION:location_16|Riga]] was complete.
 
 **Q.**When was this?
 
@@ -52,7 +52,7 @@ Neumann, Liona.
 
 **A.**The Jewish Community supplied us with provisions, and we were allowed to keep the hand luggage, the other luggage remained at the railway station and in the Sperlgasse; we were told it would follow. We never saw it again.
 
-**Q.**How long did the journey take from Vienna to Riga?
+**Q.**How long did the journey take from [[LOCATION:location_3|Vienna]] to [[LOCATION:location_16|Riga]]?
 
 **A.**Six days.
 
@@ -60,9 +60,9 @@ Neumann, Liona.
 
 **A.**No, only what we had taken with us. No water. The waggons were sealed and we couldn't get out. It was very cold. We knocked the ice off the windows and sucked it in order to moisten our mouths.
 
-**Q.**When you arrived in Riga, what happened to your transport?
+**Q.**When you arrived in [[LOCATION:location_16|Riga]], what happened to your transport?
 
-**A.**We got off in Riga. The SS had been waiting for us and immediately started driving us off the train and beating us. Vehicles were ready; they said children and old people would be transported to the ghetto, the others would have to walk.
+**A.**We got off in [[LOCATION:location_16|Riga]]. The SS had been waiting for us and immediately started driving us off the train and beating us. Vehicles were ready; they said children and old people would be transported to the ghetto, the others would have to walk.
 
 **Q.**You walked, correct?
 
@@ -74,7 +74,7 @@ Neumann, Liona.
 
 **Q.**Do you know what happened to them?
 
-**A.**Yes, we learned later that they starved to death in "Jungfernhof" near Riga.
+**A.**Yes, we learned later that they starved to death in "Jungfernhof" near [[LOCATION:location_16|Riga]].
 
 **Q.**How many of you were there altogether in the transport?
 
@@ -84,7 +84,7 @@ Neumann, Liona.
 
 **A.**Many died and many froze to death during the journey because there was deep snow, and many fell and were shot on the way.
 
-**Q.**How many of your transport were taken to the forced labour camp in Riga?
+**Q.**How many of your transport were taken to the forced labour camp in [[LOCATION:location_16|Riga]]?
 
 **A.**About one thousand.
 
@@ -110,7 +110,7 @@ Neumann, Liona.
 
 **Q.**What was your job there?
 
-**A.**Clothing was brought there after all the "actions" that took place in Riga. Our fellow Jews had to strip before they were shot to death and buried at the Ninth Fort in a mass grave. Their clothing was collected and brought to the Jewish hospital for disinfection, and afterwards sent to the German clothing store.
+**A.**Clothing was brought there after all the "actions" that took place in [[LOCATION:location_16|Riga]]. Our fellow Jews had to strip before they were shot to death and buried at the [[LOCATION:location_191|Ninth Fort]] in a mass grave. Their clothing was collected and brought to the Jewish hospital for disinfection, and afterwards sent to the German clothing store.
 
 **Q.**Do you remember one particular horrible instance involving one of the Latvian Jews who worked with you?
 
@@ -118,7 +118,7 @@ Neumann, Liona.
 
 **Q.**What happened?
 
-**A.**How a man from Latvia began to scream holding up his little daughter's coat full of bullet holes and covered with blood. That was not the only case. Unfortunately, there were many cases like that.
+**A.**How a man from [[LOCATION:location_8|Latvia]] began to scream holding up his little daughter's coat full of bullet holes and covered with blood. That was not the only case. Unfortunately, there were many cases like that.
 
 **Q.**How long did you work there?
 
@@ -126,7 +126,7 @@ Neumann, Liona.
 
 **Q.**Were there any "actions" in your group at that time?
 
-**A.**Soon after our arrival in the ghetto, five days after we, the first group, reported for work, we were immediately sorted out, and of the one thousand who still were in the ghetto, perhaps only three hundred of our Vienna group were left.
+**A.**Soon after our arrival in the ghetto, five days after we, the first group, reported for work, we were immediately sorted out, and of the one thousand who still were in the ghetto, perhaps only three hundred of our [[LOCATION:location_3|Vienna]] group were left.
 
 **Q.**What happened to the others?
 
@@ -140,13 +140,13 @@ Neumann, Liona.
 
 **A.**Yes. The younger ones formed a group. We knew that bad times were ahead. We drew strength from the hope that we would live to see the day when we would reach our homeland.
 
-**Q.**After that you were in Kaiserwald, isn't that so?
+**Q.**After that you were in [[LOCATION:location_195|Kaiserwald]], isn't that so?
 
-**A.**My father had earlier been taken to Kaiserwald, and we were transported to the Strassenhof labour camp through the Kaiserwald.
+**A.**My father had earlier been taken to [[LOCATION:location_195|Kaiserwald]], and we were transported to the Strassenhof labour camp through the [[LOCATION:location_195|Kaiserwald]].
 
-**Q.**Do you remember anything in Kaiserwald, Strassenhof that impressed you particularly?
+**Q.**Do you remember anything in [[LOCATION:location_195|Kaiserwald]], Strassenhof that impressed you particularly?
 
-**A.**When we arrived in Strassenhof, we met women of the Vilna Ghetto; there were four blocks, three for women and one for men. We were sent to work outside, some to Strassenhof. Despite the hard work we had to do, construction work, unloading gravel and stones from barges, we didn't get a night's rest. We were too hungry to sleep anyway. At night we were chased out of our beds into the cold and rain outside for a roll call. We had to lie on the ground in the wet, run three steps, and lie down again on the ground.
+**A.**When we arrived in Strassenhof, we met women of the [[LOCATION:location_171|Vilna]] Ghetto; there were four blocks, three for women and one for men. We were sent to work outside, some to Strassenhof. Despite the hard work we had to do, construction work, unloading gravel and stones from barges, we didn't get a night's rest. We were too hungry to sleep anyway. At night we were chased out of our beds into the cold and rain outside for a roll call. We had to lie on the ground in the wet, run three steps, and lie down again on the ground.
 
 **Q.**Were there cases of people who froze to death?
 
@@ -156,15 +156,15 @@ Neumann, Liona.
 
 **A.**With their clothes on. There was a cable factory in the camp where some Jewish labourers were working. Some way or other, acts of sabotage were committed and naturally the Jews were blamed. They were hanged on the parade ground in the ghetto.
 
-**Q.**Later you were in Stutthof, weren't you?
+**Q.**Later you were in [[LOCATION:location_197|Stutthof]], weren't you?
 
-**A.**Excuse me please, before that there still were the "actions" in Strassenhof, first the sick and then the last remaining children were taken away. A few days later they took those aged 28 and above, they were declared old, the handsomest men and the most beautiful women in the full bloom of life, and they killed them, too. The rest were taken to Germany, to Stutthof.
+**A.**Excuse me please, before that there still were the "actions" in Strassenhof, first the sick and then the last remaining children were taken away. A few days later they took those aged 28 and above, they were declared old, the handsomest men and the most beautiful women in the full bloom of life, and they killed them, too. The rest were taken to [[LOCATION:location_2|Germany]], to [[LOCATION:location_197|Stutthof]].
 
 **Q.**When you say "were taken," who took them?
 
 **A.**The SS.
 
-**Q.**At that time you were transported to Stutthof, is that right? The camp there was surrounded by an electrified barbed wire fence?
+**Q.**At that time you were transported to [[LOCATION:location_197|Stutthof]], is that right? The camp there was surrounded by an electrified barbed wire fence?
 
 **A.**Yes.
 
@@ -178,15 +178,15 @@ Neumann, Liona.
 
 **Q.**Which countries?
 
-**A.**The Stutthof concentration camp was divided up. The men lived in several separate blocks. We women were even prevented from living together with other women. We weren't allowed to leave our blocks except for roll call. They were from Russia and from Poland, Bible scholars too, and from Hungary - they came later to Stutthof.
+**A.**The [[LOCATION:location_197|Stutthof]] concentration camp was divided up. The men lived in several separate blocks. We women were even prevented from living together with other women. We weren't allowed to leave our blocks except for roll call. They were from [[LOCATION:location_10|Russia]] and from [[LOCATION:location_5|Poland]], Bible scholars too, and from [[LOCATION:location_24|Hungary]] - they came later to [[LOCATION:location_197|Stutthof]].
 
 **Q.**Bible scholars, non-Jews?
 
-**A.**They were from Denmark, non-Jews, political prisoners.
+**A.**They were from [[LOCATION:location_22|Denmark]], non-Jews, political prisoners.
 
-**Q.**Were there people from Lithuania?
+**Q.**Were there people from [[LOCATION:location_7|Lithuania]]?
 
-**A.**From Kovno. After I had been in Stutthof a week, I fell ill with typhoid and I was hospitalized in the Revierhaus most of them, all the doctors and nurses there were from Kovno.
+**A.**From [[LOCATION:location_17|Kovno]]. After I had been in [[LOCATION:location_197|Stutthof]] a week, I fell ill with typhoid and I was hospitalized in the Revierhaus most of them, all the doctors and nurses there were from [[LOCATION:location_17|Kovno]].
 
 **Presiding Judge:** Jews?
 
@@ -196,11 +196,11 @@ Neumann, Liona.
 
 **A.**Yes.
 
-**Attorney General:** Jews from Hungary were also there?
+**Attorney General:** Jews from [[LOCATION:location_24|Hungary]] were also there?
 
-**Witness Neumann:** Yes, they came from Auschwitz.
+**Witness Neumann:** Yes, they came from [[LOCATION:location_286|Auschwitz]].
 
-**Q.**When were you evacuated from Stutthof?
+**Q.**When were you evacuated from [[LOCATION:location_197|Stutthof]]?
 
 **A.**On 6 August.
 
@@ -210,7 +210,7 @@ Neumann, Liona.
 
 **Q.**Where to?
 
-**A.**I spent nine months in Stutthof, then we were taken by train to the Baltic Sea. There we were placed on freight ships, kind of tankers, the decks were pulled shut over us.
+**A.**I spent nine months in [[LOCATION:location_197|Stutthof]], then we were taken by train to the [[LOCATION:location_183|Baltic Sea]]. There we were placed on freight ships, kind of tankers, the decks were pulled shut over us.
 
 **Presiding Judge:** From which port?
 
@@ -231,9 +231,9 @@ Neumann, Liona.
 
 **Q.**Where did you reach the mainland?
 
-**A.**With the last piece of bread, 200 gr., which we got as our last ration we spent nine days before reaching Luebeck.
+**A.**With the last piece of bread, 200 gr., which we got as our last ration we spent nine days before reaching [[LOCATION:location_198|Luebeck]].
 
-**Q.**What happened in Luebeck?
+**Q.**What happened in [[LOCATION:location_198|Luebeck]]?
 
 **A.**The ship was not given permission to land, because we sailed with a yellow flag, which meant quarantine, sick people. Then we turned round and the crew wanted to get rid of us at all costs; then we encountered the big "ship of millions," which was sunk with Jews; they, too, did not want to take us, but they lowered coffee down to us.
 
@@ -259,7 +259,7 @@ Neumann, Liona.
 
 **Q.**The Germans opened fire, didn't they?
 
-**A.**When we approached the other ship one of the sailors lowered the yellow flag and advised us to keep quiet and not to reveal that we were Jews, but to say we were refugees from Danzig. But when he himself went aboard the other ship he announced that we were Jews, so the crew which had no captain - he was on shore - manned the machine guns.
+**A.**When we approached the other ship one of the sailors lowered the yellow flag and advised us to keep quiet and not to reveal that we were Jews, but to say we were refugees from [[LOCATION:location_113|Danzig]]. But when he himself went aboard the other ship he announced that we were Jews, so the crew which had no captain - he was on shore - manned the machine guns.
 
 **Q.**Did they open fire?
 

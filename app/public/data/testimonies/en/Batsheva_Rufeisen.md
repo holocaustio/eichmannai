@@ -1,4 +1,4 @@
-# Testimony of Batsheva Rufeisen
+# Testimony of [[PERSON:witness_19|Batsheva Rufeisen]]
 
 **Session:** 26
 
@@ -6,39 +6,39 @@
 
 **Presiding Judge:** What is your name?
 
-**Witness:** Hela Batsheva Rufeisen.
+**Witness:** Hela [[PERSON:witness_19|Batsheva Rufeisen]].
 
 **Attorney General:** You are a member of the settlement Bustan Hagalil?
 
 **Witness Rufeisen:** Correct.
 
-**Q.**On the outbreak of the Second World War, you were in Cracow until the ghetto was set up. You didn't enter the ghetto and acted as courier on behalf of the underground of the Zionist youth movements then operating in Cracow?
+**Q.**On the outbreak of the [[EVENT:event_383|Second World War]], you were in Cracow until the ghetto was set up. You didn't enter the ghetto and acted as courier on behalf of the underground of the Zionist youth movements then operating in Cracow?
 
 **A.**Correct.
 
-**Q.**And you maintained liaison between Dolek Liebeskind in Cracow and the underground command in Warsaw?
+**Q.**And you maintained liaison between Dolek Liebeskind in Cracow and the underground command in [[LOCATION:location_93|Warsaw]]?
 
 **A.**Yes, I was the contact.
 
 **Q.**What instructions did you obtain, from time to time, from the underground in Cracow?
 
-**A.**I came to Cracow in the period after the deportations from the Warsaw Ghetto had begun. I went out on a mission for my movement in order to be in touch with the leadership then located in Cracow. In Warsaw the "action" was at its height. The Jews rushed from the small ghetto to the large ghetto without knowing where it would be possible still to remain alive a little longer. Our group at that time immediately lost its apartment owing to the fact that the side of the street with even numbers on Nalevki Street was cut off from the ghetto. Our people remained without a roof over their heads and with difficulty we found cover inside a cellar. Together with us there was also a totally paralysed girl whom we took out of a hospital, since the inmates of hospitals were the first to go to the "action." I was helpless, without a roof over the heads of our people and almost without food - the fighting force was then only in its infancy.
+**A.**I came to Cracow in the period after the deportations from the [[LOCATION:location_93|Warsaw]] Ghetto had begun. I went out on a mission for my movement in order to be in touch with the leadership then located in Cracow. In [[LOCATION:location_93|Warsaw]] the "action" was at its height. The Jews rushed from the small ghetto to the large ghetto without knowing where it would be possible still to remain alive a little longer. Our group at that time immediately lost its apartment owing to the fact that the side of the street with even numbers on Nalevki Street was cut off from the ghetto. Our people remained without a roof over their heads and with difficulty we found cover inside a cellar. Together with us there was also a totally paralysed girl whom we took out of a hospital, since the inmates of hospitals were the first to go to the "action." I was helpless, without a roof over the heads of our people and almost without food - the fighting force was then only in its infancy.
 
 **Q.**To which places did you go as an emissary of the undergound?
 
-**A.**On underground missions I travelled mainly from Warsaw to Cracow and from Cracow to Warsaw. In additon to this I also went to other places. I went to Rzeszow in order to rent an apartment there and to maintain it as a centre of refuge for people who operated in the forests in the neighbourhood.
+**A.**On underground missions I travelled mainly from [[LOCATION:location_93|Warsaw]] to Cracow and from Cracow to [[LOCATION:location_93|Warsaw]]. In additon to this I also went to other places. I went to Rzeszow in order to rent an apartment there and to maintain it as a centre of refuge for people who operated in the forests in the neighbourhood.
 
-**Q.**Did you go to Sanok?
+**Q.**Did you go to [[LOCATION:location_153|Sanok]]?
 
-**A.**I went to warn Sanok and to call the people to join the revolt.
+**A.**I went to warn [[LOCATION:location_153|Sanok]] and to call the people to join the revolt.
 
-**Q.**Did you also go to Lvov?
+**Q.**Did you also go to [[LOCATION:location_99|Lvov]]?
 
-**A.**I went to Lvov as well in order to be in contact with the Jews in the ghetto and also to seek a rescue route, an outlet to Hungary.
+**A.**I went to [[LOCATION:location_99|Lvov]] as well in order to be in contact with the Jews in the ghetto and also to seek a rescue route, an outlet to [[LOCATION:location_24|Hungary]].
 
 **Q.**You conveyed arms and ammunition and documents, such as Aryan papers, labour certificates, and you delivered all these to Dolek Liebeskind and to Draenger?
 
-**A.**I conveyed many documents and certificates to Warsaw and I didn't always succeed. Once they even caught me with these papers, but I managed to destroy them. I transferred the arms successfully.
+**A.**I conveyed many documents and certificates to [[LOCATION:location_93|Warsaw]] and I didn't always succeed. Once they even caught me with these papers, but I managed to destroy them. I transferred the arms successfully.
 
 **Q.**Did you transfer the explosives used to manufacture bombs for the attack on Cafe Cyganeria?
 
@@ -56,21 +56,21 @@
 
 **A.**Yes.
 
-**Q.**This was the name mentioned by Yitzhak Zuckerman. By what name was Zuckerman known in the underground?
+**Q.**This was the name mentioned by [[PERSON:person_495|Yitzhak Zuckerman]]. By what name was Zuckerman known in the underground?
 
 **A.**Antek.
 
-**Q.**You continued your activities in communications until beginning of 1943 when you were arrested while leaving the Warsaw Ghetto?
+**Q.**You continued your activities in communications until beginning of 1943 when you were arrested while leaving the [[LOCATION:location_93|Warsaw]] Ghetto?
 
 **A.**Yes, that is correct.
 
 **Q.**What happened to you?
 
-**A.**At that time I had come to Warsaw in order to obtain money. Then Szymszon Draenger was captured in Cracow and Laban also, and we had information that with the aid of money we would be able to rescue them from prison. But we had no money. There was still a small band of people who had remained in the underground. I went to Warsaw and managed to secure this money. I tried to get out with a group of Jewish workers. When I reached the checkpoint, it turned out that the policeman was especially cruel and the whole group began to go back one by one, for each of us had something, a little money in order to buy food outside. And I remained there and was arrested by the policeman. He began making a thorough search and in my haversack on my back he found my identity certificate. Then an argument began as to whether I was a Jewess or a non-Jewess.
+**A.**At that time I had come to [[LOCATION:location_93|Warsaw]] in order to obtain money. Then Szymszon Draenger was captured in Cracow and Laban also, and we had information that with the aid of money we would be able to rescue them from prison. But we had no money. There was still a small band of people who had remained in the underground. I went to [[LOCATION:location_93|Warsaw]] and managed to secure this money. I tried to get out with a group of Jewish workers. When I reached the checkpoint, it turned out that the policeman was especially cruel and the whole group began to go back one by one, for each of us had something, a little money in order to buy food outside. And I remained there and was arrested by the policeman. He began making a thorough search and in my haversack on my back he found my identity certificate. Then an argument began as to whether I was a Jewess or a non-Jewess.
 
 **Q.**Which policeman was this?
 
-**A.**A German policeman Schutzpolizei. I had one address with me, that of Linka Dozhivrotzki; she was in Auschwitz at that time, and I was supposed to obtain help for her. At the last moment I managed to throw the address into the oven.
+**A.**A German policeman Schutzpolizei. I had one address with me, that of Linka Dozhivrotzki; she was in [[LOCATION:location_286|Auschwitz]] at that time, and I was supposed to obtain help for her. At the last moment I managed to throw the address into the oven.
 
 **Presiding Judge:** Where was the oven?
 
@@ -88,17 +88,17 @@
 
 **A.**Yes.
 
-**Q.**On 8 May 1943, together with an underground group you passed through the sewage canals and reached the Aryan side of Warsaw?
+**Q.**On 8 May 1943, together with an underground group you passed through the sewage canals and reached the Aryan side of [[LOCATION:location_93|Warsaw]]?
 
 **A.**Yes.
 
-**Q.**You remained hidden for some time and afterwards you were sent with a group of Jews of foreign nationality to Bergen- Belsen and you remained there until you were liberated by the American Army?
+**Q.**You remained hidden for some time and afterwards you were sent with a group of Jews of foreign nationality to [[LOCATION:location_212|Bergen]]- [[LOCATION:location_212|Belsen]] and you remained there until you were liberated by the American Army?
 
 **A.**Yes.
 
 **Presiding Judge:** How did you join this group of foreign nationals?
 
-**Witness Rufeisen:** I simply had no strength. I was crushed. After I had seen the Warsaw Ghetto in flames, and not one of my dear ones remained, there was no longer anything to fight for. At any rate I was broken. There was also little hope that I would be taken into the forest. Although this was what I wanted...
+**Witness Rufeisen:** I simply had no strength. I was crushed. After I had seen the [[LOCATION:location_93|Warsaw]] Ghetto in flames, and not one of my dear ones remained, there was no longer anything to fight for. At any rate I was broken. There was also little hope that I would be taken into the forest. Although this was what I wanted...
 
 **Q.**That was not my question. My question was: How was it that they attached you to this group of foreign nationals?
 

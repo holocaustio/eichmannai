@@ -1,4 +1,4 @@
-# Testimony of Abraham Aviel
+# Testimony of [[PERSON:witness_12|Abraham Aviel]]
 
 **Session:** 29
 
@@ -8,7 +8,7 @@
 
 **A.**Avraham Aviel.
 
-**Attorney General:** You live in Tel Aviv, at 23 Rehov Halevanon?
+**Attorney General:** You live in [[LOCATION:location_42|Tel Aviv]], at 23 Rehov Halevanon?
 
 **Witness Aviel:** Yes.
 
@@ -16,7 +16,7 @@
 
 **A.**Yes.
 
-**Q.**You were born in Poland?
+**Q.**You were born in [[LOCATION:location_5|Poland]]?
 
 **A.**Yes.
 
@@ -26,11 +26,11 @@
 
 **Q.**Where was it? In what district?
 
-**A.**It was in the district of Lida.
+**A.**It was in the district of [[LOCATION:location_189|Lida]].
 
 **Q.**Perhaps you can tell us where it was, in which region?
 
-**A.**It was in the Nowogorodek region, between Grodno and Vilna.
+**A.**It was in the Nowogorodek region, between [[LOCATION:location_188|Grodno]] and [[LOCATION:location_171|Vilna]].
 
 **Q.**What was the name of the village where you were born?
 
@@ -66,11 +66,11 @@
 
 **Q.**I shall not weary the Court with this aspect - we have heard other witnesses on this subject; I should like to go on to the operations of the Einsatzgruppen. Describe to us what happened after Hanukka* {*The Hanukka festival ended on December 22, 1941.} of that year?
 
-**A.**One fine day a group of Germans in special uniforms arrived from Lida on motorcycles. They went from house to house and searched for people who were strangers, who were not from Radun. They discovered about forty Jewish refugees who had been living in Radum for some time. They took them outside the town to a hill half a kilometre away. We heard shots. Afterwards, some minutes later, the Germans returned and gave us instructions, an order, to bury them. I was amongst those who went there, since we lived at the end of the ghetto which was close to the spot where the disaster had happened. I ran, together with the other Jews, to bury them, and this was the first time I had seen so much blood that had been shed. Since there was frost and the ground was frozen, we buried them in the snow.
+**A.**One fine day a group of Germans in special uniforms arrived from [[LOCATION:location_189|Lida]] on motorcycles. They went from house to house and searched for people who were strangers, who were not from Radun. They discovered about forty Jewish refugees who had been living in Radum for some time. They took them outside the town to a hill half a kilometre away. We heard shots. Afterwards, some minutes later, the Germans returned and gave us instructions, an order, to bury them. I was amongst those who went there, since we lived at the end of the ghetto which was close to the spot where the disaster had happened. I ran, together with the other Jews, to bury them, and this was the first time I had seen so much blood that had been shed. Since there was frost and the ground was frozen, we buried them in the snow.
 
 **Q.**What happened afterwards, on 7 May 1942?
 
-**A.**All the time we were still able to walk around freely inside the ghetto. While it was forbidden to leave the limits of the ghetto, for this meant mortal danger, inside the ghetto we moved around without restriction. After this night of 7 May we saw, when we rose in the morning, that the ghetto was closed. It was impossible to go outside to work; those who possessed special work permits were also not able to leave. This came suddenly - we did not expect it. They kept us, shut up in this way, on the Thursday, Friday and Saturday. On Sunday morning, in the early hours, they collected a group of Jews, mostly young ones or those possessing a high potential for labour, about one hundred people in all. They supplied them with spades for digging. I especially recall that these were spades with very long handles. They were given an order to walk. They walked in the direction of Grodno, in a direction West of the town.
+**A.**All the time we were still able to walk around freely inside the ghetto. While it was forbidden to leave the limits of the ghetto, for this meant mortal danger, inside the ghetto we moved around without restriction. After this night of 7 May we saw, when we rose in the morning, that the ghetto was closed. It was impossible to go outside to work; those who possessed special work permits were also not able to leave. This came suddenly - we did not expect it. They kept us, shut up in this way, on the Thursday, Friday and Saturday. On Sunday morning, in the early hours, they collected a group of Jews, mostly young ones or those possessing a high potential for labour, about one hundred people in all. They supplied them with spades for digging. I especially recall that these were spades with very long handles. They were given an order to walk. They walked in the direction of [[LOCATION:location_188|Grodno]], in a direction West of the town.
 
 **Q.**Was any member of your family amongst them.
 
@@ -127,7 +127,7 @@
 
 **Q.**Who arrived on the motorcycles?
 
-**A.**Germans arrived from the direction of Lida in battledress, equipped with automatic weapons, actually dressed as if they were at the battle front. Their uniforms were different from those we had seen. It was more or less the same uniform as worn by those who had come to kill the forty refugees from Lida. I went outside. At the entrance to the house I saw that a crowd of Jews were walking from the end of the ghetto and were being forced along the road leading to Grodno - the same direction in which the groups had gone with the spades. We knew that this wasn't going to end well. At that moment several Germans entered the house. One stood at the exit while the remainder spread out into the rooms and began chasing out those who hadn't managed to conceal themselves. Each one passing through the opening would receive a blow on the head from a rubber truncheon, and would fall down. I didn't want to receive a blow. I jumped quickly on my own, bent down and managed to get out without receiving this blow, and I joined the crowd that was being led in the direction along which the earlier groups had gone.
+**A.**Germans arrived from the direction of [[LOCATION:location_189|Lida]] in battledress, equipped with automatic weapons, actually dressed as if they were at the battle front. Their uniforms were different from those we had seen. It was more or less the same uniform as worn by those who had come to kill the forty refugees from [[LOCATION:location_189|Lida]]. I went outside. At the entrance to the house I saw that a crowd of Jews were walking from the end of the ghetto and were being forced along the road leading to [[LOCATION:location_188|Grodno]] - the same direction in which the groups had gone with the spades. We knew that this wasn't going to end well. At that moment several Germans entered the house. One stood at the exit while the remainder spread out into the rooms and began chasing out those who hadn't managed to conceal themselves. Each one passing through the opening would receive a blow on the head from a rubber truncheon, and would fall down. I didn't want to receive a blow. I jumped quickly on my own, bent down and managed to get out without receiving this blow, and I joined the crowd that was being led in the direction along which the earlier groups had gone.
 
 **Q.**Tell us more about what was happening on that road.
 
@@ -159,9 +159,9 @@
 
 **Q.**What did your mother say?
 
-**A.**Say: "Hear O Israel." Let us die as Jews.
+**A.**Say: "Hear O [[LOCATION:location_38|Israel]]." Let us die as Jews.
 
-**Q.**And so the congregation walked on, saying "Hear O Israel?"
+**Q.**And so the congregation walked on, saying "Hear O [[LOCATION:location_38|Israel]]?"
 
 **A.**Yes. I repeated it after her, but unwillingly. I felt an inner resistance to it. They brought us to the marketplace in the centre of the village, they forced us to kneel with our heads bent downwards. We were not allowed to raise our heads. Whoever did so received either a bullet in the head or blows with sticks. Of course, on our way there we saw that anyone who slackened his pace was shot on the spot. We sat in the centre of the village for about an hour, perhaps more - I cannot estimate the time accurately. They addressed us. I didn't follow what they were saying to us there. I was thinking: how is it possible to escape, how is it possible to get out of this? Afterwards they made us stand up and led us outside the town towards the cemetery a kilometre and a half away.
 
@@ -177,7 +177,7 @@ When we neared the cemetery, roughly about a hundred metres away, they took us o
 
 **Q.**Which of your brothers? Pinhas?
 
-**A.**My brother, Pinhas. I peered to see if he had remained alive, and I noticed that he was there. At that moment there welled up within me the desire to join him, for there had always been the idea that at least one of us would remain and would be privileged to "ueberleben," (to come through alive) so that he would be able to tell the story if he survived. I didn't consider it very long - I said goodbye to my mother. I began jumping over the heads of those sitting near me. I jumped and fell, jumped and fell. I didn't care what would happen. And so, I don't know how, by some miracle they didn't notice me. I managed to reach the edge of the road at the rim of the ditch. I lay down and was afraid to get up and continue lest they notice me. Standing near me at that moment was Zelig, the carpenter of the town. He was a skilled worker and worked for the Germans in the Gestapo. He held a special certificate providing that he had to remain alive, he and his family.
+**A.**My brother, Pinhas. I peered to see if he had remained alive, and I noticed that he was there. At that moment there welled up within me the desire to join him, for there had always been the idea that at least one of us would remain and would be privileged to "ueberleben," (to come through alive) so that he would be able to tell the story if he survived. I didn't consider it very long - I said goodbye to my mother. I began jumping over the heads of those sitting near me. I jumped and fell, jumped and fell. I didn't care what would happen. And so, I don't know how, by some miracle they didn't notice me. I managed to reach the edge of the road at the rim of the ditch. I lay down and was afraid to get up and continue lest they notice me. Standing near me at that moment was Zelig, the carpenter of the town. He was a skilled worker and worked for the Germans in the [[ORGANIZATION:org_344|Gestapo]]. He held a special certificate providing that he had to remain alive, he and his family.
 
 **Q.**A work permit?
 
@@ -233,7 +233,7 @@ When we neared the cemetery, roughly about a hundred metres away, they took us o
 
 **Witness Aviel:** It was a region of forests.
 
-The first operation the Jewish partisans carried out against the Gestapo was roughly two weeks after the slaughter, an operation by young Jews. Some of them have survived. In Haifa there is a man named Rogowski who took part in this operation. They went out and, at a short distance from the pit, they laid an ambush for the gendarmerie which was in the village, for the Gestapo head of the town - if I am not mistaken he was called Kopke; they managed to wound and also to kill some of them. One Lithuanian lad, was called Yudka the Lithuanian, who was also a member of this group, was the only one to fall in this engagement. Later on, on 10 Heshvan, when we were walking...
+The first operation the Jewish partisans carried out against the [[ORGANIZATION:org_344|Gestapo]] was roughly two weeks after the slaughter, an operation by young Jews. Some of them have survived. In [[LOCATION:location_127|Haifa]] there is a man named Rogowski who took part in this operation. They went out and, at a short distance from the pit, they laid an ambush for the gendarmerie which was in the village, for the [[ORGANIZATION:org_344|Gestapo]] head of the town - if I am not mistaken he was called Kopke; they managed to wound and also to kill some of them. One Lithuanian lad, was called Yudka the Lithuanian, who was also a member of this group, was the only one to fall in this engagement. Later on, on 10 Heshvan, when we were walking...
 
 **Q.**In what year?
 
@@ -256,7 +256,7 @@ When we were about one metre distant they pointed the muzzles of their rifles at
 **A.**Yes. It was the scene of quite serious partisan resistance. It began with the Jews. Afterwards we were joined by Russians who had been prisoners and who were with the peasants. We also had arms, part of which we had bought and part we had seized. My father still remained in the vicinity of the village of Dowgaliszuk, so that he could be a contact in case of need. He also had difficulties in walking at that time. I set out for Puszcza with a party of seven men. I came to fetch him on two occasions, but he still did not want to go. Only afterwards, about a fortnight later, I heard that all in that area had been killed, after they were betrayed.
 ---
 
-**Q.**Later, by circuitous routes, you came to Carpatho- Russia, from there to Hungary and then to Austria, to Yugoslavia, to Italy; you tried to reach Palestine, but you were exiled to Cyprus and you came from Cyprus to Israel?
+**Q.**Later, by circuitous routes, you came to [[LOCATION:location_270|Carpatho]]- [[LOCATION:location_10|Russia]], from there to [[LOCATION:location_24|Hungary]] and then to [[LOCATION:location_14|Austria]], to [[LOCATION:location_25|Yugoslavia]], to [[LOCATION:location_19|Italy]]; you tried to reach [[LOCATION:location_57|Palestine]], but you were exiled to [[LOCATION:location_190|Cyprus]] and you came from [[LOCATION:location_190|Cyprus]] to [[LOCATION:location_38|Israel]]?
 
 **A.**Yes.
 

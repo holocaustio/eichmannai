@@ -1,4 +1,4 @@
-# Testimony of Avraham Gordon
+# Testimony of [[PERSON:witness_106|Avraham Gordon]]
 
 **Session:** 54
 
@@ -6,15 +6,15 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Avraham Gordon.
+**Witness:** [[PERSON:witness_106|Avraham Gordon]].
 
 **Presiding Judge:** Please reply to Mr. Bach's questions.
 
-**State Attorney Bach:** Mr. Gordon, were you born in Hungary?
+**State Attorney Bach:** Mr. Gordon, were you born in [[LOCATION:location_24|Hungary]]?
 
 **Witness Gordon:** Yes.
 
-**Q.**In Budapest?
+**Q.**In [[LOCATION:location_31|Budapest]]?
 
 **A.**Yes.
 
@@ -24,15 +24,15 @@
 
 **Q.**Where were you in 1944?
 
-**A.**I was in Budapest. I was at school in the sixth grade of the Gymnasium ( Secondary School) - this corresponds to the tenth grade in Israeli terms.
+**A.**I was in [[LOCATION:location_31|Budapest]]. I was at school in the sixth grade of the Gymnasium ( Secondary School) - this corresponds to the tenth grade in Israeli terms.
 
 **Q.**Do you remember 19 March 1944?
 
-**A.**It was a Sunday, the day on which the German army occupied Hungary and also entered Budapest.
+**A.**It was a Sunday, the day on which the German army occupied [[LOCATION:location_24|Hungary]] and also entered [[LOCATION:location_31|Budapest]].
 
 **Q.**How did this affect your studies?
 
-**A.**In the following two weeks our studies went on, and thereafter, a general closure of all the schools in Hungary was declared. We finished the school year and after that classes were stopped and also the air-raids began. This was the reason given for ceasing all teaching in Hungary that year.
+**A.**In the following two weeks our studies went on, and thereafter, a general closure of all the schools in [[LOCATION:location_24|Hungary]] was declared. We finished the school year and after that classes were stopped and also the air-raids began. This was the reason given for ceasing all teaching in [[LOCATION:location_24|Hungary]] that year.
 
 **Q.**Did the studies of all pupils cease?
 
@@ -44,7 +44,7 @@
 
 **Q.**Were you living with your family?
 
-**A.**Yes. I was staying in the district of Buda, Quarter No. 1.
+**A.**Yes. I was staying in the district of [[LOCATION:location_271|Buda]], Quarter No. 1.
 
 **Q.**Who were the members of your family?
 
@@ -110,17 +110,17 @@
 
 **A.**They also sent us to so-called outside jobs. We worked both at the Eden Hotel and also at the sanatorium, and once or twice I was also sent to work in the building of the Hungarian Political Police. The building of the Hungarian Political Police was near the Majestic Hotel.
 
-**Q.**Mr. Gordon, did you see Adolf Eichmann at the time you were working there?
+**Q.**Mr. Gordon, did you see [[PERSON:person_775|Adolf Eichmann]] at the time you were working there?
 
-**A.**No. during the time I worked on the Schwabenberg, I did not see Adolf Eichmann.
+**A.**No. during the time I worked on the Schwabenberg, I did not see [[PERSON:person_775|Adolf Eichmann]].
 
-**Q.**Did you see Adolf Eichmann at all while you were working in that service?
+**Q.**Did you see [[PERSON:person_775|Adolf Eichmann]] at all while you were working in that service?
 
 **A.**Yes.
 
 **Q.**When?
 
-**A.**After the middle of May 1944, we received an order; we were classified - they sorted out about fifteen Jews - about ten young people and five adults - and we were transferred to a particular place, which was called the "Rose Hill" in one of the districts of Buda, and we were taken to a villa, which as it turned out afterwards, was the private residence of Adolf Eichmann. Previously, before the War, this villa belonged to a Jewish industrialist, the owner of the Tungsram and Orion factories.
+**A.**After the middle of May 1944, we received an order; we were classified - they sorted out about fifteen Jews - about ten young people and five adults - and we were transferred to a particular place, which was called the "Rose Hill" in one of the districts of [[LOCATION:location_271|Buda]], and we were taken to a villa, which as it turned out afterwards, was the private residence of [[PERSON:person_775|Adolf Eichmann]]. Previously, before the War, this villa belonged to a Jewish industrialist, the owner of the Tungsram and Orion factories.
 
 **Q.**What was his name?
 
@@ -172,11 +172,11 @@
 
 **Q.**And all the time with the rest of your companions?
 
-**A.**No. Although the group did not change, in the middle of this period, when the deportations began from the suburbs of Budapest, from Ujpest, Kispest and so on, there were also some Jews from these localities who came to work. And in the middle of this period they suddenly stopped coming. And then we understood that they had been deported.
+**A.**No. Although the group did not change, in the middle of this period, when the deportations began from the suburbs of [[LOCATION:location_31|Budapest]], from Ujpest, Kispest and so on, there were also some Jews from these localities who came to work. And in the middle of this period they suddenly stopped coming. And then we understood that they had been deported.
 
-**Q.**You told us about Slawik. How did you know that this villa served as a residence for Adolf Eichmann?
+**Q.**You told us about Slawik. How did you know that this villa served as a residence for [[PERSON:person_775|Adolf Eichmann]]?
 
-**A.**First of all, the engineer in charge of us told us that one of the Gestapo commanders from Budapest, whose name was Adolf Eichmann, lived there, and Slawik also mentioned his name.
+**A.**First of all, the engineer in charge of us told us that one of the [[ORGANIZATION:org_344|Gestapo]] commanders from [[LOCATION:location_31|Budapest]], whose name was [[PERSON:person_775|Adolf Eichmann]], lived there, and Slawik also mentioned his name.
 
 **Q.**Did you also see Eichmann?
 
@@ -216,7 +216,7 @@
 
 **Q.**How many floors were there in the villa altogether?
 
-**A.**I would say one floor, but in Israel this would be referred two as two floors. There was a ground floor and another floor.
+**A.**I would say one floor, but in [[LOCATION:location_38|Israel]] this would be referred two as two floors. There was a ground floor and another floor.
 
 **Q.**And where did he reside?
 
@@ -313,7 +313,7 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 **State Attorney Bach:** Perhaps you would explain what you were doing, and whenever you come to a particular place, mark it with a letter, so that the Court may know what you are referring to.
 
-**Witness Gordon:** [Pointing to the sketch he has made] The entrance to this building was on Apostol Street - that was the name of the street where Eichmann lived. I don't remember the exact number, but I think it was No. 13. Here is the entrance to the front garden - the building begins here - this is the front of the house, the main entrance. In order to reach the place where we were working, we had to pass on this side and to go in through the back entrance. This is the entrance to a small cellar - it was not really a cellar. We had to go down a few steps. On the right hand side there was a door, and that is where the toolshed was. This is the garden of the villa. This lay in the direction of the Danube. It was a very large garden. I don't think that there are gardens of this kind in Israel. Our task was to prepare some rows of trenches. I have not sketched in all the trenches. Here, roughly, is the set of trenches, the place I am speaking of is this entrance here. One had to go down two or three steps. The corridor is narrow and the entrance on this side - that is the place I am talking about. Here is the toolshed.
+**Witness Gordon:** [Pointing to the sketch he has made] The entrance to this building was on [[LOCATION:location_272|Apostol Street]] - that was the name of the street where Eichmann lived. I don't remember the exact number, but I think it was No. 13. Here is the entrance to the front garden - the building begins here - this is the front of the house, the main entrance. In order to reach the place where we were working, we had to pass on this side and to go in through the back entrance. This is the entrance to a small cellar - it was not really a cellar. We had to go down a few steps. On the right hand side there was a door, and that is where the toolshed was. This is the garden of the villa. This lay in the direction of the [[LOCATION:location_110|Danube]]. It was a very large garden. I don't think that there are gardens of this kind in [[LOCATION:location_38|Israel]]. Our task was to prepare some rows of trenches. I have not sketched in all the trenches. Here, roughly, is the set of trenches, the place I am speaking of is this entrance here. One had to go down two or three steps. The corridor is narrow and the entrance on this side - that is the place I am talking about. Here is the toolshed.
 
 **Q.**Would you please mark this with the letter "A"?
 
@@ -331,9 +331,9 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 **Witness Gordon:** [Does so].
 
-**Q.**Were these orchards in the direction of the Danube?
+**Q.**Were these orchards in the direction of the [[LOCATION:location_110|Danube]]?
 
-**A.**Both the building and the orchard led towards the Danube. It was a slope, a decline in the direction of the Danube. This is the orchard. The building and the fruit orchard did not have a common fence. In order to get to the orchard, one had to pass along a narrow path.
+**A.**Both the building and the orchard led towards the [[LOCATION:location_110|Danube]]. It was a slope, a decline in the direction of the [[LOCATION:location_110|Danube]]. This is the orchard. The building and the fruit orchard did not have a common fence. In order to get to the orchard, one had to pass along a narrow path.
 
 **Presiding Judge:** Please explain why it was necessary to go around this shed?
 
@@ -359,7 +359,7 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 **State Attorney Bach:** Do you know anything at all about this boy, where he came from?
 
-**Witness Gordon:** We knew about him. He didn't tell us, but it was said that he had escaped from the zone of Carpatho- Russia, the region of Munkacs. He fled to Budapest and was accepted for work on the Schwabenberg.
+**Witness Gordon:** We knew about him. He didn't tell us, but it was said that he had escaped from the zone of [[LOCATION:location_270|Carpatho]]- [[LOCATION:location_10|Russia]], the region of Munkacs. He fled to [[LOCATION:location_31|Budapest]] and was accepted for work on the Schwabenberg.
 
 **Q.**You told us that you saw Eichmann and Slawik coming together towards the shed. How was the Accused dressed?
 
@@ -518,13 +518,13 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 **A.**After the car arrived I saw how the body of this boy was placed in the back seat. As it looked to us, it appeared that they placed the body under the back seat. Then the chauffeur drove off and returned about half an hour later and ordered us to carry on working. He came up to us - we were then in a larger group, working together. I don't remember what we were actually doing at the time, but he came up to us and spoke to us, expressly in Hungarian. He was a Swabian who knew Hungarian.
 
-**Presiding Judge:** From Transylvania?
+**Presiding Judge:** From [[LOCATION:location_108|Transylvania]]?
 
 **Witness Gordon:** No. The Swabians lived in an area near the Austrian frontier. This was a Hungarian sect, speaking German.
 
 **Judge Halevi:** Are you speaking about Slawik?
 
-**Witness Gordon:** I am speaking of Teitel. He said to us: "I threw the carcass into the Danube. You will all suffer the same fate as that boy."
+**Witness Gordon:** I am speaking of Teitel. He said to us: "I threw the carcass into the [[LOCATION:location_110|Danube]]. You will all suffer the same fate as that boy."
 
 **State Attorney Bach:** This Teitel - where was he when Eichmann and Slawik were inside the shed?
 
@@ -556,7 +556,7 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 **Q.**Did you subsequently see your other comrades who worked with you on that day?
 
-**A.**Yes, I saw one of them, the one who worked with me, called Bruck, in 1945, in Budapest. He survived, but later on I met him once in the street and we spoke about this incident.
+**A.**Yes, I saw one of them, the one who worked with me, called Bruck, in 1945, in [[LOCATION:location_31|Budapest]]. He survived, but later on I met him once in the street and we spoke about this incident.
 
 **Q.**I am referring specifically to the days following this incident. Did you continue working in the same place?
 
@@ -596,7 +596,7 @@ Your Honour, the exhibit, which was previously submitted by me, has already been
 
 After several minutes we saw that same SS soldier, who had called Kolbach, accompanying Kolbach and putting him into a car. To me it seemed to be the same amphibious car - and he drove away in it. A brother-in-law of Kolbach, also an engineer, whose name was Hegedus, was working with us. He was very frightened, and understood immediately that they were taking his brother-in-law, Kolbach, up to the Schwabenberg, to the Majestic Hotel.
 
-We waited for a further half hour and then we were allowed to go home. Hegedus came to me, since I lived in the same quarter of Buda and could speak German, and asked me to go up with someone to the Schwabenberg, to the Eden Hotel, in order to speak to Buehring. Buehring was the liaison officer between the Jews and the Germans. He asked me to find out from Buehring what had happened to Kolbach. When I think of it, it was somewhat of a crazy thing to do to go there, but despite that we went.
+We waited for a further half hour and then we were allowed to go home. Hegedus came to me, since I lived in the same quarter of [[LOCATION:location_271|Buda]] and could speak German, and asked me to go up with someone to the Schwabenberg, to the Eden Hotel, in order to speak to Buehring. Buehring was the liaison officer between the Jews and the Germans. He asked me to find out from Buehring what had happened to Kolbach. When I think of it, it was somewhat of a crazy thing to do to go there, but despite that we went.
 
 **Q.**But you did so?
 
@@ -604,7 +604,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Presiding Judge:** Did you go there alone, or with Hegedus?
 
-**Witness Gordon:** No, I went there with another boy who also lived in Buda. We went to the Eden Hotel. Between the Eden Hotel and the Majestic Hotel there was a small bridge, and on it stood a sentry. We went up to the sentry and asked him to call Mr. Buehring. He had the rank, it seemed to me, of Oberscharfuehrer - something like that - a sergeant. Buehring came out, they called him. I told him about Engineer Hegedus whom he knew, and he also knew Kolbach, and we said that we thought Kolbach had been taken in error and was now already at the Majestic Hotel. This Buehring generally behaved towards us in a very decent and honest manner, he never shouted, and he treated us in a humane way. He promised to find out about this. We went home, it was very late, and we never saw Kolbach again. I, at any rate, never saw him again.
+**Witness Gordon:** No, I went there with another boy who also lived in [[LOCATION:location_271|Buda]]. We went to the Eden Hotel. Between the Eden Hotel and the Majestic Hotel there was a small bridge, and on it stood a sentry. We went up to the sentry and asked him to call Mr. Buehring. He had the rank, it seemed to me, of Oberscharfuehrer - something like that - a sergeant. Buehring came out, they called him. I told him about Engineer Hegedus whom he knew, and he also knew Kolbach, and we said that we thought Kolbach had been taken in error and was now already at the Majestic Hotel. This Buehring generally behaved towards us in a very decent and honest manner, he never shouted, and he treated us in a humane way. He promised to find out about this. We went home, it was very late, and we never saw Kolbach again. I, at any rate, never saw him again.
 
 **State Attorney Bach:** Did Buehring or anyone else inform you definitely of his fate?
 
@@ -616,11 +616,11 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **A.**Where did it take place?
 
-**A.**I remember this incident, and I can also remember the approximate date. I am positive that, on this occasion, the Jews who used to come from the suburbs of Budapest were already no longer there. By that time we were eight to ten persons, no more.
+**A.**I remember this incident, and I can also remember the approximate date. I am positive that, on this occasion, the Jews who used to come from the suburbs of [[LOCATION:location_31|Budapest]] were already no longer there. By that time we were eight to ten persons, no more.
 
 **A.**Of your Jewish comrades?
 
-**A.**Of the fifteen of us who were taken from the suburbs of Budapest.
+**A.**Of the fifteen of us who were taken from the suburbs of [[LOCATION:location_31|Budapest]].
 
 **Q.**There were then only eight or nine of them?
 
@@ -628,7 +628,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Q.**What was the reason that the others no longer came?
 
-**A.**We knew that the Jews of the environs of Budapest had been deported.
+**A.**We knew that the Jews of the environs of [[LOCATION:location_31|Budapest]] had been deported.
 
 **Q.**That is to say, there were still eight or nine of you working there?
 
@@ -668,7 +668,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Q.**Mr. Gordon, after that incident occurred, the one which you previously described concerning Salomon, did you also talk about it to other persons?
 
-**A.**First of all I spoke about it to my family, after I returned home. At the beginning I was reluctant to tell my parents for I did not want them to be unduly worried. But I told my brother who was also working on the Schwabenberg but who had not come to work on Apostol Street.
+**A.**First of all I spoke about it to my family, after I returned home. At the beginning I was reluctant to tell my parents for I did not want them to be unduly worried. But I told my brother who was also working on the Schwabenberg but who had not come to work on [[LOCATION:location_272|Apostol Street]].
 
 **Q.**How long after the event did you tell your brother?
 
@@ -703,11 +703,11 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Presiding Judge:** Mr. Bach, perhaps we shall first let the witness explain.
 
-**Witness Gordon:** I made this statement to the Police at Eilat. There was a policeman there who was very far removed from all these events, and I was obliged to explain to him, not only my evidence, but the whole background. I became tired from this, and when he read back my statement to me I apparently did not pay attention to what he had written. And later on I corrected this again, in Bureau 06. Possibly this amounted to negligence on my part for not paying attention to it.
+**Witness Gordon:** I made this statement to the Police at [[LOCATION:location_273|Eilat]]. There was a policeman there who was very far removed from all these events, and I was obliged to explain to him, not only my evidence, but the whole background. I became tired from this, and when he read back my statement to me I apparently did not pay attention to what he had written. And later on I corrected this again, in Bureau 06. Possibly this amounted to negligence on my part for not paying attention to it.
 
 **State Attorney Bach:** I think perhaps there is an error here. Defence Counsel was misled through no fault of his. It is really written here "Shana" (a year) and this has been translated into "Jahr." But I believe that there is a printer's error here. I have requested that the original manuscript be brought here and I will then place it at the Court's disposal.
 
-**Presiding Judge:** The witness can tell us. Did you see this statement that you made at the time in Eilat?
+**Presiding Judge:** The witness can tell us. Did you see this statement that you made at the time in [[LOCATION:location_273|Eilat]]?
 
 **Witness Gordon:** I made my statement and I saw it, but it is possible that owing to my weariness I didn't pay attention to the last sentence.
 
@@ -733,7 +733,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **A.**It is difficult for me to speak in the name of others. I can only tell you of my personal feeling. And if the feeling of the others was the same as mine, well - we were all terrified, we experienced a sense of shame and helplessness.
 
-**Q.**Did you know of the existence of a Jewish Council in Budapest?
+**Q.**Did you know of the existence of a Jewish Council in [[LOCATION:location_31|Budapest]]?
 
 **A.**Yes - this fact was known to us.
 
@@ -741,7 +741,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **A.**We informed the engineer who was in charge of us - we thought that he ought to deal with this matter.
 
-**Q.**Was this the only experience of bloodshed which you had in Hungary, or did you witness other events of the same kind?
+**Q.**Was this the only experience of bloodshed which you had in [[LOCATION:location_24|Hungary]], or did you witness other events of the same kind?
 
 **A.**No, sir, this was the first murder I had seen in my life and that is a fact which I remember so well. After that I witnessed many murders, especially in the last three months.
 
@@ -759,7 +759,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Presiding Judge:** The intention was to show you that he was concerned for your safety, and that he wanted you to enter the trenches when the air attack began.
 
-**Witness Gordon:** When the bombing began, we apparently expressed our joy every time we saw the American and British bombers, we rejoiced because this was bringing the end of the war closer, and possibly someone even expressed this openly and in a loud voice. That was the reason - to deprive us of the joy of seeing the oil burning in Budapest. This apparently was the reason why he told us to get into the trenches, and not because he was concerned for our safety.
+**Witness Gordon:** When the bombing began, we apparently expressed our joy every time we saw the American and British bombers, we rejoiced because this was bringing the end of the war closer, and possibly someone even expressed this openly and in a loud voice. That was the reason - to deprive us of the joy of seeing the oil burning in [[LOCATION:location_31|Budapest]]. This apparently was the reason why he told us to get into the trenches, and not because he was concerned for our safety.
 
 **Dr. Servatius:** Would it not have been more logical or more correct, in view of Eichmann's character as you described it just now, for him to have said: "Come here, I will deal with you now, and give you special treatment for expressing your joy at the air-raid" and not for him to tell you to get into the trenches?
 
@@ -777,7 +777,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 **Dr. Servatius:** I think it is of importance.
 
-**Presiding Judge:** Is this statement made at the Eilat police station?
+**Presiding Judge:** Is this statement made at the [[LOCATION:location_273|Eilat]] police station?
 
 **State Attorney Bach:** Yes, on 15 June 1960.
 
@@ -785,7 +785,7 @@ We waited for a further half hour and then we were allowed to go home. Hegedus c
 
 I understand this is the place: "Then, when I saw him, it seemed to me that he was 40 years of age or older than that. I was 17. I described the incident of Salomon to my brother Aaron a year after the event. Aaron is now in Kibbutz Kfar Hahoresh."
 
-**State Attorney Bach:** Mr. Gordon, were you living with your brother in Budapest?
+**State Attorney Bach:** Mr. Gordon, were you living with your brother in [[LOCATION:location_31|Budapest]]?
 
 **Witness Gordon:** Yes.
 
@@ -889,7 +889,7 @@ I understand this is the place: "Then, when I saw him, it seemed to me that he w
 
 **Q.**To release you on account of the incident?
 
-**A.**Yes. After I had returned to work on the Schwabenberg - this was after we had already been ordered to go to concentration points, to Jewish buildings in Budapest. I went to our family doctor and obtained a false certificate from him that I was suffering from tuberculosis. I sent the certificate to the Jewish Council, and by this means I no longer reported for work.
+**A.**Yes. After I had returned to work on the Schwabenberg - this was after we had already been ordered to go to concentration points, to Jewish buildings in [[LOCATION:location_31|Budapest]]. I went to our family doctor and obtained a false certificate from him that I was suffering from tuberculosis. I sent the certificate to the Jewish Council, and by this means I no longer reported for work.
 
 **Q.**My question was: Did you tell anyone else about the case of the murder of the boy? Did you inform this engineer?
 
@@ -903,9 +903,9 @@ I understand this is the place: "Then, when I saw him, it seemed to me that he w
 
 **A.**I don't know what he did. I didn't ask him afterwards.
 
-**Q.**And when you were concentrated into special buildings, the Jews in Budapest generally, did you believe that the deportation of the Jews from Budapest was drawing near?
+**Q.**And when you were concentrated into special buildings, the Jews in [[LOCATION:location_31|Budapest]] generally, did you believe that the deportation of the Jews from [[LOCATION:location_31|Budapest]] was drawing near?
 
-**A.**By that time the Jews had already been taken from the suburbs of Budapest, and we knew it was only a question of time before we, too, would be deported.
+**A.**By that time the Jews had already been taken from the suburbs of [[LOCATION:location_31|Budapest]], and we knew it was only a question of time before we, too, would be deported.
 
 **Q.**Did you do anything in order to prepare for this eventuality?
 
@@ -944,7 +944,7 @@ I understand this is the place: "Then, when I saw him, it seemed to me that he w
 
 **A.**Also the voice of the boy. He cried, he pleaded. It sounded as if they were kicking him. I heard the sound of something heavy.
 
-**Q.**Regarding that statement you made at Eilat, in what language were you speaking?
+**Q.**Regarding that statement you made at [[LOCATION:location_273|Eilat]], in what language were you speaking?
 
 **A.**I spoke Hebrew.
 
@@ -974,7 +974,7 @@ I understand this is the place: "Then, when I saw him, it seemed to me that he w
 
 **Q.**But approximately a year after the event?
 
-**A.**Even after less than a year I was together with him. We met after the War - after the liberation of Budapest - and met for a second time in March 1945.
+**A.**Even after less than a year I was together with him. We met after the War - after the liberation of [[LOCATION:location_31|Budapest]] - and met for a second time in March 1945.
 
 **Q.**What is your present occupation?
 

@@ -5,6 +5,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useAIAssistant } from '../../components/AIAssistant';
+import { parseEntityMarkers } from '../../components/EntityLink';
 
 interface Witness {
   id: string;
@@ -234,6 +235,14 @@ export default function WitnessDetailClient() {
     loadTestimony();
   }, [language, witness, setContext]);
 
+  // Helper to render text with entity links (only for English)
+  const renderTextWithEntities = (text: string, isEnglish: boolean, key: string) => {
+    if (!isEnglish) {
+      return text;
+    }
+    return parseEntityMarkers(text, key);
+  };
+
   // Parse and render markdown
   const renderMarkdown = (content: string) => {
     const lines = content.split('\n');
@@ -293,7 +302,7 @@ export default function WitnessDetailClient() {
           elements.push(
             <div key={i} className="mt-4 mb-2" dir={dir}>
               <span className="text-amber-500 font-semibold">{speaker}:</span>
-              {rest && <span className={`text-stone-300 ${isEnglish ? 'ml-2' : 'mr-2'}`}>{rest}</span>}
+              {rest && <span className={`text-stone-300 ${isEnglish ? 'ml-2' : 'mr-2'}`}>{renderTextWithEntities(rest, isEnglish, `spk-${i}`)}</span>}
             </div>
           );
           continue;
@@ -306,7 +315,7 @@ export default function WitnessDetailClient() {
         elements.push(
           <div key={i} className="mt-3 mb-1 flex gap-3" dir="ltr">
             <span className="text-amber-500 font-bold shrink-0">Q.</span>
-            <span className="text-stone-300">{text}</span>
+            <span className="text-stone-300">{renderTextWithEntities(text, isEnglish, `q-${i}`)}</span>
           </div>
         );
         continue;
@@ -318,7 +327,7 @@ export default function WitnessDetailClient() {
         elements.push(
           <div key={i} className="mt-3 mb-1 flex gap-3" dir="ltr">
             <span className="text-amber-500 font-bold shrink-0">A.</span>
-            <span className="text-stone-300">{text}</span>
+            <span className="text-stone-300">{renderTextWithEntities(text, isEnglish, `a-${i}`)}</span>
           </div>
         );
         continue;
@@ -376,7 +385,7 @@ export default function WitnessDetailClient() {
       const cleanText = trimmed.replace(/\*\*/g, '');
       elements.push(
         <p key={i} className="text-stone-300 my-1 leading-relaxed" dir={dir}>
-          {cleanText}
+          {renderTextWithEntities(cleanText, isEnglish, `p-${i}`)}
         </p>
       );
     }

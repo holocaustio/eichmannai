@@ -3,48 +3,48 @@
 
 ---
 
-**District Court of Jerusalem**
+**District Court of [[LOCATION:location_44|Jerusalem]]**
 
-Before His Honour Judge Moshe Landau (Presiding)  
-His Honour Judge Benjamin Halevi  
+Before His Honour Judge [[PERSON:person_778|Moshe Landau]] (Presiding)  
+His Honour Judge [[PERSON:person_779|Benjamin Halevi]]  
 His Honour Judge Yitzchak Raveh
 
 ---
 
-IN THE DISTRICT COURT OF JERUSALEM
+IN THE DISTRICT COURT OF [[LOCATION:location_44|JERUSALEM]]
 Criminal Case No. 40/61
-Before His Honour JUDGE MOSHE LANDAU (Presiding)
-His Honour JUDGE BENJAMIN HALEVI
+Before His Honour JUDGE [[PERSON:person_778|MOSHE LANDAU]] (Presiding)
+His Honour JUDGE [[PERSON:person_779|BENJAMIN HALEVI]]
 His Honour JUDGE YITZCHAK RAVEH
 For the Prosecution: THE ATTORNEY GENERAL
 The Accused: ADOLF, son of Karl Adolf, EICHMANN
 JUDGMENT
 The references in the Judgment are to the official record in Hebrew.
-Adolf Eichmann has been brought to trial in this Court on charges of unsurpassed
+[[PERSON:person_775|Adolf Eichmann]] has been brought to trial in this Court on charges of unsurpassed
 gravity - charges of crimes against the Jewish People, crimes against humanity, and
 war crimes. The period of the crimes ascribed to him, and their historical background,
-is that of the Hitler regime in Germany and in Europe, and the counts of the
+is that of the Hitler regime in [[LOCATION:location_2|Germany]] and in Europe, and the counts of the
 indictment encompass the catastrophe which befell the Jewish People during that
 period - a story of bloodshed and suffering which will be remembered to the end of
 time.
-This is not the first time that the Holocaust has been discussed in court proceedings.
-It was dealt with extensively at the International Military Tribunal at Nuremberg during
+This is not the first time that the [[EVENT:event_386|Holocaust]] has been discussed in court proceedings.
+It was dealt with extensively at the International Military Tribunal at [[LOCATION:location_39|Nuremberg]] during
 the Trial of the Major War Criminals, and also at several of the trials which followed;
 but this time it has occupied the central place in the Court proceedings, and it is this
 fact which has distinguished this trial from those which preceded it. Hence also the
 trend noticed during and around the trial, to widen its range. The desire was felt understandable in itself - to give, within the trial, a comprehensive and exhaustive
-historical description of events which occurred during the Holocaust, and in so doing,
+historical description of events which occurred during the [[EVENT:event_386|Holocaust]], and in so doing,
 to emphasize also the inconceivable feats of heroism performed by ghetto-fighters,
 by those who mutinied in the camps, and by Jewish partisans.
 There are also those who sought to regard this trial as a forum for the clarification of
-questions of great import, some of which arose from the Holocaust, while others, of
+questions of great import, some of which arose from the [[EVENT:event_386|Holocaust]], while others, of
 long standing but which have now emerged once again in more acute form, because
 of the unprecedented sufferings which were visited upon the Jewish People and the
 world as a whole in the middle of the Twentieth Century.
 How could this happen in the light of day, and why was it just the German people
 from which this great evil sprang? Could the Nazis have carried out their evil designs
 without the help given them by other peoples in whose midst the Jews dwelt? Would
-it have been possible to avert the Holocaust, at least in part, if the Allies had
+it have been possible to avert the [[EVENT:event_386|Holocaust]], at least in part, if the Allies had
 displayed a greater will to assist the persecuted Jews? Did the Jewish People in the
 lands of freedom do all in its power to rally to the rescue of its brethren and to sound
 the alarm for help? What are the psychological and social causes of the group-hatred
@@ -69,7 +69,7 @@ from the court procedure. Not only is any pretension to overstep these limits
 forbidden to the court - it would certainly end in complete failure. The court does not
 have at its disposal the tools required for the investigation of general questions of the
 kind referred to above. For example, in connection with the description of the
-historical background of the Holocaust, a great amount of material was brought
+historical background of the [[EVENT:event_386|Holocaust]], a great amount of material was brought
 before us in the form of documents and evidence, collected most painstakingly, and
 certainly in a genuine attempt to delineate as complete a picture as possible. Even so,
 all this material is but a tiny fraction of all that is extant on this subject. According to
@@ -80,10 +80,10 @@ questions of principle which are outside the realm of law, no one has made us ju
 of them, and therefore no greater weight is to be attached to our opinion on them
 than to that of any person devoting study and thought to these questions. These
 prefatory remarks do not mean that we are unaware of the great educational value,
-implicit in the very holding of this trial, for those who live in Israel as well as for those
+implicit in the very holding of this trial, for those who live in [[LOCATION:location_38|Israel]] as well as for those
 beyond the confines of this state. To the extent that this result has been achieved in
 the course of the proceedings, it is to be welcomed. Without a doubt, the testimony
-given at this trial by survivors of the Holocaust, who poured out their hearts as they
+given at this trial by survivors of the [[EVENT:event_386|Holocaust]], who poured out their hearts as they
 stood in the witness box, will provide valuable material for research workers and
 historians, but as far as this Court is concerned, they are to be regarded as byproducts of the trial.
 3. Before we deal with the case itself, we desire to express our appreciation to the
@@ -122,7 +122,7 @@ Section 1(a) of the Law provides:
 constituting a crime against the Jewish People;
 (2) during the period of the Nazi regime, carried out an act constituting a crime
 against humanity, in a hostile country;
-(3) during the period of the Second World War, carried out an act constituting a war
+(3) during the period of the [[EVENT:event_383|Second World War]], carried out an act constituting a war
 crime, in a hostile country;
 is liable to the death penalty."
 The three above-mentioned classes of crimes - crime against the Jewish People,
@@ -131,17 +131,17 @@ crime against humanity, war crime - are defined in Section 1(b) (see infra) Sect
 post or exercised any function, in a hostile organization, in a hostile country, is liable
 to imprisonment for a term not exceeding seven years."
 "A hostile organization" is defined in Section 3(b) (see infra). Section 16 defines the
-terms "the period of the Nazi regime," "the period of the Second World War," and "a
+terms "the period of the Nazi regime," "the period of the [[EVENT:event_383|Second World War]]," and "a
 hostile country."
 5. In Criminal Appeal 22/52, Honigman v. Attorney General (7 Piske Din 296, 303),
 Justice Cheshin stated:
 
-"The Law in question is designed to make it possible to try in Israel Nazis, their
+"The Law in question is designed to make it possible to try in [[LOCATION:location_38|Israel]] Nazis, their
 associates and their collaborators for the murder of the Jewish People...and for
 crimes against humanity as a whole...this particular legislation is totally different from
 any other usual legislation in criminal codes: The Law is retroactive and extraterritorial..."
 Indeed, the expressions "in a hostile country," "during the period of the Nazi regime"
-and "during the period of the Second World War," which define the application of the
+and "during the period of the [[EVENT:event_383|Second World War]]," which define the application of the
 Law in point of place and in point of time, indicate unequivocally that the crimes are
 "foreign crimes" and that the Law has retroactive application. These two elements do
 indeed diverge from the characteristics of usual criminal legislation which generally
@@ -149,7 +149,7 @@ looks to the future and not - or at least not only - to the past; to the home co
 not - or at least not only - abroad; but these elements necessarily derive from the
 very object of the Law for the Punishment of Nazis and their Collaborators.
 6. Under Sections 6 and 7 of the Criminal Code Ordinance, 1936, the ordinary
-jurisdiction of the courts of Israel extends to any act committed in whole or in part
+jurisdiction of the courts of [[LOCATION:location_38|Israel]] extends to any act committed in whole or in part
 within the boundaries of the state or within the three nautical miles territorial coastal
 limit, but Section 3(b) adds that nothing in the Ordinance shall derogate from the
 "liability of any persons to be tried and punished for any offence according to the
@@ -160,7 +160,7 @@ committed abroad is the Criminal Law Amendment (Foreign Offences) Law, 57161955.
 7. The question as to whether the Israeli legislator may enact a criminal law with
 retroactive effect was considered in the first criminal case heard in this District Court
 after the establishment of the State and in the first appeal lodged with the Supreme
-Court of Israel, Criminal Appeal 1/48, Sylvester v. Attorney General (Pesakim I, 513,
+Court of [[LOCATION:location_38|Israel]], Criminal Appeal 1/48, Sylvester v. Attorney General (Pesakim I, 513,
 528). Justice Smoira, the first President of the Supreme Court, said in his judgment,
 inter alia:
 "As regards the distinction between retroactive laws and ex post facto laws... I now
@@ -192,7 +192,7 @@ Blackstone's definition that I hold that it cannot be said that the act of which
 appellant was accused was `an action indifferent in itself, and only subsequently the
 legislator declared it for the first time to have been a crime.' The legislation with
 retrospective effect, here dealt with, has not created a new crime which had not
-hitherto been known in the Occupied Area of Jerusalem, and it cannot therefore be
+hitherto been known in the Occupied Area of [[LOCATION:location_44|Jerusalem]], and it cannot therefore be
 said that the person who commits the act of which the appellant is accused did not
 have a criminal intent (mens rea), because he did not and could not know that the act
 he was doing was a criminal act. On the contrary, it stands to reason that he who has
@@ -208,7 +208,7 @@ crimes against humanity in general, and the Jewish People in particular. Not one
 the crimes defined in the Law in question was, in the words of Blackstone, "an
 indifferent action when committed, and subsequently declared for the first time by the
 legislator to have been a crime." Neither has the retroactive legislation herein dealt
-with "created a new crime which had not hitherto been known" in Germany or
+with "created a new crime which had not hitherto been known" in [[LOCATION:location_2|Germany]] or
 German-occupied territories. On the contrary, all the above_mentioned crimes
 constituted crimes under the laws of all civilized nations, including the German
 people, before and after the Nazi regime, while the "law"; and criminal decrees of
@@ -218,7 +218,7 @@ It cannot be said that the perpetrators of the crimes defined in the Law in ques
 "could not have a mens rea because they did not and could not know that what they
 were doing was a criminal act" (ibid). The extensive measures taken by the Nazis to
 efface the traces of their crimes, such as the disinterment of the dead bodies of the
-murdered and their cremation into ashes, or the destruction of the Gestapo archives
+murdered and their cremation into ashes, or the destruction of the [[ORGANIZATION:org_344|Gestapo]] archives
 before the collapse of the Reich, clearly prove that the Nazis knew well the criminal
 character of their enormities. A law that authorizes the punishment of Nazis and their
 collaborators does not "conflict," through its retroactive application, "with the rules of
@@ -233,14 +233,14 @@ boundaries of the state and before its establishment, against persons who were n
 Israeli citizens, and by a person who acted in the course of duty on behalf of a
 foreign country ("Act of State") conflicts with international law and exceeds the
 powers of the Israeli legislator;
-(b) that the prosecution of the Accused in Israel upon his abduction from a foreign
+(b) that the prosecution of the Accused in [[LOCATION:location_38|Israel]] upon his abduction from a foreign
 country conflicts with international law and exceeds the jurisdiction of the Court.
 9. Before entering upon an analysis of these two contentions and the legal questions
 involved, we will clarify the relation between them.
 These two contentions are independent of each other. The first contention, which
 negates the jurisdiction of the Court to try the Accused for offences against the Law
 in question, is not bound up with, or conditional upon, the circumstances under which
-he was brought to Israel. Even had the Accused come to this country of his own free
+he was brought to [[LOCATION:location_38|Israel]]. Even had the Accused come to this country of his own free
 will, say as a tourist under an assumed name, and had he been arrested here upon
 the verification of his true identity, the first contention of Counsel that the Israeli Court
 has no jurisdiction to try him for any offences against the Law in question would still
@@ -248,18 +248,18 @@ stand. The second, additional, contention is that no matter what the jurisdictio
 Israeli Court is to try offences attributed to the Accused in ordinary circumstances,
 that jurisdiction is in any case negated by reason of the special circumstances
 connected with the abduction of the Accused in a foreign country and his prosecution
-in Israel. We will therefore deal with these two questions seriatim.
-10. The first contention of Counsel that Israel Law is in conflict with international law,
+in [[LOCATION:location_38|Israel]]. We will therefore deal with these two questions seriatim.
+10. The first contention of Counsel that [[LOCATION:location_38|Israel]] Law is in conflict with international law,
 and that therefore it cannot vest jurisdiction in this Court, raises the preliminary
-question as to the validity of international law in Israel and as to whether, in the event
+question as to the validity of international law in [[LOCATION:location_38|Israel]] and as to whether, in the event
 of a conflict between it and the laws of the land, it is to be preferred to the laws of the
-land. The law in force in Israel resembles that which is in force in England in this
+land. The law in force in [[LOCATION:location_38|Israel]] resembles that which is in force in [[LOCATION:location_43|England]] in this
 regard. See Oppenheim (Lauterpacht), International Law, 8th Ed., 1955, para. 21a, p.
 39:
 "As regards Great Britain, the following points must be noted: (a) All such rules of
 customary international law as are either universally recognized or have, at any rate,
 received the assent of this country are per se part of the law of the land. To that
-extent there is still valid in England the common law doctrine, to which Blackstone
+extent there is still valid in [[LOCATION:location_43|England]] the common law doctrine, to which Blackstone
 gave expression in a striking passage, that the Law of Nations is part of the law of the
 land."
 But on the other hand (p. 41):
@@ -278,25 +278,25 @@ See also - Croft v. Dunphy (1933) A.C. 156 (p. 164):
 acknowledged principles of international law, is binding upon and must be enforced
 by the courts of this country, for in these courts the legislation of the Imperial
 Parliament cannot be challenged as ultra vires (Mortensen v. Peters)."
-And also - Polites v. Commonwealth of Australia (1945) 70 C.L.R. 60 (Annual Digest,
+And also - Polites v. Commonwealth of [[LOCATION:location_56|Australia]] (1945) 70 C.L.R. 60 (Annual Digest,
 1943-1945, Case No. 61):
 "The Commonwealth Parliament can legislate on these matters in breach of
 international law, taking the risk of international complications. This is recognized as
-being the position in Great Britain... The position is the same in the United States of
+being the position in Great Britain... The position is the same in the [[LOCATION:location_68|United States]] of
 America... It must be held that legislation otherwise within the power of the
 Commonwealth Parliament does not become invalid because it conflicts with a rule of
 international law, though every effort should be made to construe Commonwealth
 statutes so as to avoid breaches of international law and of international comity."
-As regards Israel, the Deputy President, Justice Cheshin, said in Criminal Appeal
+As regards [[LOCATION:location_38|Israel]], the Deputy President, Justice Cheshin, said in Criminal Appeal
 174/54 (10 Piske Din, 5,p.17):
 "As regards the question of the adoption by the national law of the principles of
 international law, we may safely rely on Blackstone's view in his Commentaries on
-the Laws of England (Book IV, Chap. 5):
-`In England...the law of nations...is...adopted in its full extent by the common law, and
+the Laws of [[LOCATION:location_43|England]] (Book IV, Chap. 5):
+`In [[LOCATION:location_43|England]]...the law of nations...is...adopted in its full extent by the common law, and
 is held to be part of the law of the land...without which it must cease to be a part of
 the civilized world.'
-And that is the case in other countries, such as the U.S.A., France, Belgium, and
-Switzerland, where the usages of international law have been acknowledged as part
+And that is the case in other countries, such as the U.S.A., [[LOCATION:location_30|France]], [[LOCATION:location_21|Belgium]], and
+[[LOCATION:location_53|Switzerland]], where the usages of international law have been acknowledged as part
 of the law of the land..."
 With respect to statutory law, Justice Agranat said in High Court Case 279/51 (6
 Piske Din 945, p. 966):
@@ -325,7 +325,7 @@ his comprehensive oral pleadings, and have failed to find any foundation for the
 contention that Israeli law is in conflict with the principles of international law. On the
 contrary, we have reached the conclusion that the Law in question conforms to the
 best traditions of the law of nations.
-The power of the State of Israel to enact the Law in question or Israel's "right to
+The power of the State of [[LOCATION:location_38|Israel]] to enact the Law in question or [[LOCATION:location_38|Israel]]'s "right to
 punish" is based, with respect to the offences in question, from the point of view of
 international law, on a dual foundation: The universal character of the crimes in
 question and their specific character as being designed to exterminate the Jewish
@@ -341,17 +341,17 @@ try crimes under international law is universal.
 13. This universal authority, namely the authority of the "forum deprehensionis" (the
 court of the country in which the accused is actually held in custody) was already
 mentioned in the Corpus Juris Civilis (see: C. 3, 15, "ubi de criminibus agi oportet"),
-and the towns of northern Italy had already in the Middle Ages taken to trying specific
+and the towns of northern [[LOCATION:location_19|Italy]] had already in the Middle Ages taken to trying specific
 types of dangerous criminals ("banniti, vagabundi, assassini") who happened to be
 within their area of jurisdiction, without regard to the place in which the crimes in
 question were committed (see Donnedieu de Vabres Les Principes Modernes du
 Droit Penal International, 1928, p. 136). Maritime nations have also since time
 immemorial enforced the principle of universal jurisdiction in dealing with pirates,
 whose crime is known in English law as "piracy jure gentium." See Blackstone,
-Commentaries on the Laws of England, Book IV, Chap. 5 "Of Offences against the
+Commentaries on the Laws of [[LOCATION:location_43|England]], Book IV, Chap. 5 "Of Offences against the
 Law of Nations," p. 68:
 "The principal offences against the law of nations, animadverted on as such by the
-municipal laws of England, are of three kinds... 3. Piracy."
+municipal laws of [[LOCATION:location_43|England]], are of three kinds... 3. Piracy."
 p. 71:
 "Lastly, the crime of piracy, or robbery and depredation upon the high seas, is an
 offence against the universal law of society; a pirate being, according to Sir Edward
@@ -485,11 +485,11 @@ crime defined in the "Convention for the prevention and punishment of genocide"
 which was adopted by the United Nations Assembly on 9 December 1948. The
 "crime against humanity" and the "war crime" are defined on the pattern of crimes of
 identical designations defined in the Charter of the International Military Tribunal
-(which is the Statute of the Nuremberg Court) annexed to the Four- Power
+(which is the Statute of the [[LOCATION:location_39|Nuremberg]] Court) annexed to the Four- Power
 Agreement of 8 August 1945 on the subject of the trial of the principal war criminals
-(the London Agreement), and also in Law No. 10 of the Control Council of Germany
+(the [[LOCATION:location_67|London]] Agreement), and also in Law No. 10 of the Control Council of [[LOCATION:location_2|Germany]]
 of 20 December 1945. The offence of "membership of a hostile organization" is
-defined by the pronouncement in the judgment of the Nuremberg Tribunal, according
+defined by the pronouncement in the judgment of the [[LOCATION:location_39|Nuremberg]] Tribunal, according
 to its Charter, declaring the organizations in question to be "criminal organizations,"
 and is also patterned on the Control Council Law No. 10. For purposes of comparison,
 we shall set forth in what follows the parallel articles and clauses side by side.
@@ -518,7 +518,7 @@ Section 1(b) of the Israeli Law also provides:
 enslavement, starvation or deportation and other inhumane acts committed against
 any civilian population, and persecution on national, racial, religious or political
 grounds."
-Article 6 of the Charter of the Nuremberg Tribunal provides, inter alia:
+Article 6 of the Charter of the [[LOCATION:location_39|Nuremberg]] Tribunal provides, inter alia:
 "The following acts, or any of them, are crimes coming within the jurisdiction of the
 Tribunal for which there shall be individual responsibility:
 (c) Crimes against humanity: namely murder, extermination, enslavement,
@@ -541,7 +541,7 @@ war or persons on the seas; killing of hostages; plunder of public or private pr
 wanton destruction of cities, towns or villages, and devastation not justified by military
 necessity."
 
-Article 6 of the Nuremberg Tribunal Charter provides:
+Article 6 of the [[LOCATION:location_39|Nuremberg]] Tribunal Charter provides:
 "(b) War crimes, namely violation of the laws of customs of war. Such violations shall
 include, but not be limited to: murder, ill-treatment or deportation to slave labour or for
 any other purpose, of civilian population of or in occupied territory, murder or illtreatment of prisoners of war or persons on the seas, killing of hostages, plunder of
@@ -662,7 +662,7 @@ with respect to the crime in question: If the United Nations failed to give thei
 to universal jurisdiction by each country to try a crime of genocide committed outside
 its boundaries, but has expressly provided that, in the absence of an international
 criminal tribunal, those accused of this crime shall be tried by "a competent court of
-the country in whose territory the act was committed," how may Israel try the
+the country in whose territory the act was committed," how may [[LOCATION:location_38|Israel]] try the
 Accused for a crime that constitutes "genocide"?
 21. In order to answer this objection, we must direct attention to the distinction
 between the rules of customary and the rules of conventional international law, a
@@ -807,10 +807,10 @@ competence of the domestic courts has been excluded under Article 6 of the prese
 Convention. There was no need to stipulate these jurisdictional powers which all
 states possess unless particular provisions of international law prohibit or limit the
 exercise."
-This Convention may be contrasted with four Geneva Conventions of 12 August
+This Convention may be contrasted with four [[LOCATION:location_52|Geneva]] Conventions of 12 August
 1949:
 
-(Geneva Conventions for (1) the Amelioration of the Condition of the Wounded and
+([[LOCATION:location_52|Geneva]] Conventions for (1) the Amelioration of the Condition of the Wounded and
 Sick in Armed Forces in the Field, (2) of the Wounded, Sick and Shipwrecked
 Members of Armed Forces at Sea, (3) Relative to the Treatment of Prisoners at War,
 (4) Relative to the Protection of Civilian Persons in Time of War).
@@ -846,9 +846,9 @@ sovereign state may exercise its existing powers within the limits of customary
 international law, and there is nothing in the adherence of a state to the Convention
 to waive powers which are not mentioned in Article 6. It is in conformity with this view
 that the Law for the Prevention and Punishment of Genocide, 5710-1950, provided in
-section 5 that "any person who committed an act outside of Israel which is an offence
-under this law may be tried and punished in Israel as though he committed the act
-inside Israel."
+section 5 that "any person who committed an act outside of [[LOCATION:location_38|Israel]] which is an offence
+under this law may be tried and punished in [[LOCATION:location_38|Israel]] as though he committed the act
+inside [[LOCATION:location_38|Israel]]."
 This Law does not apply with retroactive effect and does not therefore pertain to the
 offences dealt with in this case. Our view as to the universality of jurisdiction is not
 based on this Law or on this interpretation of Article 6 of the Convention, but derives
@@ -858,12 +858,12 @@ international law.
 The significance and relevance of the Convention to this case lies in the confirmation
 of the international nature of the crime, a confirmation which was unanimously given
 by the United Nations Assembly and which was adhered to, among other peoples, by
-the German people as well (in 1954 the German Federal Republic adhered to the
+the German people as well (in 1954 the [[ORGANIZATION:org_311|German Federal Republic]] adhered to the
 Convention and enacted a law - BGBL II, 729 - which gave effect to the Convention
-in Germany and added to the German criminal law article 220A against genocide Voelkermord - a crime defined according to Article 2 of the Convention). The "crime
+in [[LOCATION:location_2|Germany]] and added to the German criminal law article 220A against genocide Voelkermord - a crime defined according to Article 2 of the Convention). The "crime
 against the Jewish People" under section 1 of the Israeli Law constitutes a crime of
 "genocide" within the meaning of Article 2 of the Convention, and inasmuch as it is a
-crime under the law of nations, Israel's legislative authority and judicial jurisdiction in
+crime under the law of nations, [[LOCATION:location_38|Israel]]'s legislative authority and judicial jurisdiction in
 this matter is based upon the law of nations.
 26. As to the crimes defined in Article 6 of the Charter of the International Military
 Tribunal, that Tribunal said in its judgment on "the principal war criminals" (IMT, Vol.
@@ -873,15 +873,15 @@ but in the view of the Tribunal, as will be shown, it is the expression of inter
 law existing at the time of its creation, and to that extent is itself a contribution to
 international law."
 As regards the crimes defined in Control Council Law No. 10, which was taken as a
-basis, among other cases, for twelve important cases tried by the United States
-Military Tribunals in Nuremberg, it was stated in the judgment passed on the "Jurists"
+basis, among other cases, for twelve important cases tried by the [[LOCATION:location_68|United States]]
+Military Tribunals in [[LOCATION:location_39|Nuremberg]], it was stated in the judgment passed on the "Jurists"
 ("Justice Case," Trials of War Criminals, Vol. III, 954 ff (p. 968) that:
 "The IMT Charter, the IMT Judgment, and Control Council Law 10 are merely `great
 new cases in the book of international law.' ...Surely C.C. Law 10, which was enacted
 by the authorized representatives of the four greatest powers on earth, is entitled to
 judicial respect when it states: `Each of the following acts is recognized as a crime.'
 Surely the requisite international approval and acquiescence is established when 23
-states, including all of the great powers, have approved the London Agreement and
+states, including all of the great powers, have approved the [[LOCATION:location_67|London]] Agreement and
 the IMT Charter, without dissent from any state. Surely the IMT Charter must be
 deemed declaratory of the principles of international law, in view of its recognition as
 such by the General Assembly of the United Nations."
@@ -914,20 +914,20 @@ violator of the rules of international law could be punished only by the authori
 officials of that state. The law is universal, but such a state reserves unto itself the
 exclusive power within its boundaries to apply or withhold sanctions... Applying these
 principles, it appears that the power to punish violators of international law in
-Germany is not solely dependent on the enactment of rules of substantive penal law
-applicable only in Germany... Only by giving consideration to the extraordinary and
-temporary situation in Germany can the procedure here be harmonized with
+[[LOCATION:location_2|Germany]] is not solely dependent on the enactment of rules of substantive penal law
+applicable only in [[LOCATION:location_2|Germany]]... Only by giving consideration to the extraordinary and
+temporary situation in [[LOCATION:location_2|Germany]] can the procedure here be harmonized with
 established principles of national sovereignty.
-In Germany an international body (the Control Council) has assumed and exercised
+In [[LOCATION:location_2|Germany]] an international body (the Control Council) has assumed and exercised
 the power to establish judicial machinery for the punishment of those who have
 violated the rules of the common international law, a power which no international
 authority without consent could assume or exercise within a state having a national
 government presently in the exercise of its sovereign powers."
-It is clear from these pronouncements that the contention that the Nuremberg
-International Military Tribunal and the tribunals which were established in Germany
+It is clear from these pronouncements that the contention that the [[LOCATION:location_39|Nuremberg]]
+International Military Tribunal and the tribunals which were established in [[LOCATION:location_2|Germany]]
 by virtue of the Control Council Law No. 10 derive their jurisdiction from the
-capitulation and lack of sovereignty of Germany at that time, is true only with respect
-to the direct exercise of criminal territorial jurisdiction in Germany, such as was
+capitulation and lack of sovereignty of [[LOCATION:location_2|Germany]] at that time, is true only with respect
+to the direct exercise of criminal territorial jurisdiction in [[LOCATION:location_2|Germany]], such as was
 exercised by the above-mentioned tribunals, but it has adopted for itself substantive
 rules of universal validity in the law under discussion, the rules of international law on
 the subject of "war crimes" and "crimes against humanity". The judgment proceeds to
@@ -940,13 +940,13 @@ It is hardly necessary to add that the "crime against the Jewish People," which
 constitutes the crime of "genocide" is nothing but the gravest type of "crime against
 humanity" (and all the more so because both under Israeli law and under the
 Convention a special intention is requisite for its commission of a "crime against
-humanity"). Therefore, all that has been said in the Nuremberg principles on the
+humanity"). Therefore, all that has been said in the [[LOCATION:location_39|Nuremberg]] principles on the
 "crime against humanity" applies a fortiori to the "crime against the Jewish People." If
 authority is needed for this, we find it in the same judgment, which says:
 "As the prime illustration of a crime against humanity under C.C. Law 10, which by
 reason of its magnitude and its international repercussions has been recognized as a
 violation of common international law, we cite `genocide'..."
-It is not necessary to recapitulate in Jerusalem, fifteen years after Nuremberg, the
+It is not necessary to recapitulate in [[LOCATION:location_44|Jerusalem]], fifteen years after [[LOCATION:location_39|Nuremberg]], the
 grounds for the legal rule on the "crime against humanity," for these terms are written
 in blood, in the torrents of the blood of the Jewish People which was shed. "That
 
@@ -976,34 +976,34 @@ of international law, is not limited by the prohibition of retroactive effect.
 It is indeed difficult to find a more convincing instance of just retroactive legislation
 than the legislation providing for the punishment of war criminals and criminals
 against humanity and against the Jewish People, and all the reasons justifying the
-Nuremberg judgments justify eo ipse the retroactive legislation of the Israel legislator.
+[[LOCATION:location_39|Nuremberg]] judgments justify eo ipse the retroactive legislation of the [[LOCATION:location_38|Israel]] legislator.
 We have already referred to the decisive ground of the existence of a `criminal intent'
-(mens rea), and this ground recurs in all the Nuremberg judgments. The Accused in
-this case is charged with the implementation of the plan for the "Final Solution of the
+(mens rea), and this ground recurs in all the [[LOCATION:location_39|Nuremberg]] judgments. The Accused in
+this case is charged with the implementation of the plan for the "[[EVENT:event_389|Final Solution]] of the
 Jewish Question." Can anyone in his right mind doubt the absolute criminality of such
 acts? As stated in the judgment in the case of "Operations Units" (p. 459):
 "...There is (not) any taint of ex-post-facto-ism in the law of murder."
-The Netherlands Law of 10 July 1947 which amends the preceding law (of 22
+The [[LOCATION:location_23|Netherlands]] Law of 10 July 1947 which amends the preceding law (of 22
 October 1943) may serve as an example of municipal retroactive legislation, in that it
 added Article 27(A) which provides:
 "He who during the time of the present war and while in the forces of service of the
 enemy state is guilty of a war crime or any crime against humanity as defined in Art.
-6 under (b) or (c) of the Charter belonging to the London Agreement of 8th August,
+6 under (b) or (c) of the Charter belonging to the [[LOCATION:location_67|London]] Agreement of 8th August,
 1945...shall, if such crime contains at the same time the elements of an act
-punishable according to Netherlands law, receive the punishment laid down for such
+punishable according to [[LOCATION:location_23|Netherlands]] law, receive the punishment laid down for such
 act."
 
 On the strength of such retroactive adoption of the definition of crimes according to
-the Nuremberg Charter, the Higher S.S. and Police Leader in Holland, Rauter, was
+the [[LOCATION:location_39|Nuremberg]] Charter, the Higher S.S. and Police Leader in Holland, Rauter, was
 sentenced to death by a Special Tribunal, and his appeal was dismissed by the
 Special Court of Cassation (see LRTWC XIV pp. 89 ff). The double contention nullum
 crimen, nulla poena sine lege was dismissed by the Court of Cassation on the
-grounds that the Netherlands legislator had abrogated this rule (which is expressly
-laid down in sec. 1 of the Netherlands Criminal Law) with respect to crimes of this
+grounds that the [[LOCATION:location_23|Netherlands]] legislator had abrogated this rule (which is expressly
+laid down in sec. 1 of the [[LOCATION:location_23|Netherlands]] Criminal Law) with respect to crimes of this
 kind, and that indeed that rule was not adequate for these crimes. On p. 120 (ibid.) it
 is stated:
 "From what appears above, it follows that neither Art. 27(A) of the Extraordinary
-Penal Law Decree nor Art. 6 of the Charter of London to which the said Netherlands
+Penal Law Decree nor Art. 6 of the Charter of [[LOCATION:location_67|London]] to which the said [[LOCATION:location_23|Netherlands]]
 provision of law refers, had, as the result of an altered conception with regard to the
 unlawfulness thereof, declared after the event to be a crime an act thus far
 permitted;...these provisions have only further defined the jurisdiction as well as the
@@ -1025,12 +1025,12 @@ important interests of justice are concerned.
 generally accepted principles of international law, the criminal...character of which
 was already established beyond doubt at the time they were committed, should not
 be considered punishable on the sole ground that a previous threat of punishment
-was lacking. It is for this reason that neither the London Charter of 1945 nor the
-judgment of the International Military Tribunal (at Nuremberg) in the case of the Major
+was lacking. It is for this reason that neither the [[LOCATION:location_67|London]] Charter of 1945 nor the
+judgment of the International Military Tribunal (at [[LOCATION:location_39|Nuremberg]]) in the case of the Major
 German War Criminals have accepted this plea which is contrary to the international
-concept of justice, and which has since been also rejected by the Netherlands
+concept of justice, and which has since been also rejected by the [[LOCATION:location_23|Netherlands]]
 legislator, as appears from Art. 27(A) of the Extraordinary Penal Law Decree."
-The courts in Germany, too, have rejected the contention that the crimes of the Nazis
+The courts in [[LOCATION:location_2|Germany]], too, have rejected the contention that the crimes of the Nazis
 were not prohibited at the time, and that their perpetrators did not have the requisite
 criminal intent. It is stated in the judgment of the Supreme Federal Tribunal 1 St/R
 563/51 that the expulsions of the Jews, the object of which was the death of the
@@ -1077,7 +1077,7 @@ only the state in whose behalf the `organ' (ruler or official) had acted is resp
 for the violation, through such act, of international law, while the perpetrator himself is
 not responsible (with the two exceptions of espionage and war treason).
 The theory of `act of state' was repudiated by the International Military Tribunal at
-Nuremberg, when it said (pp. 222-223):
+[[LOCATION:location_39|Nuremberg]], when it said (pp. 222-223):
 "It was submitted that international law is concerned with the actions of sovereign
 states, and provides no punishment for individuals; and further, that where the act in
 question is an act of state, those who carry it out are not personally responsible, but
@@ -1086,8 +1086,8 @@ are protected by the doctrine of the sovereignty of the state. In the opinion of
 Tribunal, both these submissions must be rejected. That international law imposes
 duties and liabilities upon individuals as well as upon states has long been
 recognized. In the recent case of Ex Parte Quirin (1942), 317 U.S. 1, before the
-Supreme Court of the United States, persons were charged during the war with
-landing in the United States for purposes of spying and sabotage. The late Chief
+Supreme Court of the [[LOCATION:location_68|United States]], persons were charged during the war with
+landing in the [[LOCATION:location_68|United States]] for purposes of spying and sabotage. The late Chief
 Justice Stone, speaking for the court, said:
 "`From the very beginning of its history, this court has applied the law of war as
 including that part of the law of nations which prescribes for the conduct of war, the
@@ -1122,8 +1122,8 @@ Learned Counsel (ibid.) are inadmissible. The precedents adduced as authorities 
 this theory, e.g., Schooner Exchange v. McFaddon (1812) 7 Cranch 116, the
 memorandum of the American Secretary of State on the subject of the "Caroline," i.e.,
 People v. McLeod (See Moore, Digest of International Law II, paragraph 175), and
-other precedents, do not fit the realities in Nazi Germany. A state that plans and
-implements a "Final Solution" cannot be treated as par in parem, but only as a gang
+other precedents, do not fit the realities in Nazi [[LOCATION:location_2|Germany]]. A state that plans and
+implements a "[[EVENT:event_389|Final Solution]]" cannot be treated as par in parem, but only as a gang
 of criminals. In the judgment on "The Jurists," it is said (p. 984):
 
 "The very essence of the prosecution case is that the laws, the Hitlerian decrees and
@@ -1150,7 +1150,7 @@ criminal character for which the morally responsible officer of state should be 
 penally liable."
 The contention of Learned Counsel that it is not the Accused but the state on whose
 behalf he had acted that is responsible for his criminal acts, is only true in its second
-part. It is true that under international law Germany bears not only moral, but also
+part. It is true that under international law [[LOCATION:location_2|Germany]] bears not only moral, but also
 legal, responsibility for all the crimes that were committed as its own `Acts of State,'
 including the crimes attributed to the Accused. But that responsibility does not detract
 one iota from the personal responsibility of the Accused for his acts. See OppenheimLauterpacht, paragraph 156 b:
@@ -1178,7 +1178,7 @@ as it decreed individual responsibility for war crimes proper and for what it de
 positive enactment, are binding, by their very nature, upon human beings as such."
 The repudiation of the contention as to an `Act of State' is one of the principles of
 international law that were acknowledged by the Charter and Judgment of the
-Nuremberg Tribunal, and were unanimously affirmed by the United Nations Assembly
+[[LOCATION:location_39|Nuremberg]] Tribunal, and were unanimously affirmed by the United Nations Assembly
 in its Resolution of 11 December 1946. In the formulation (on the directions of the
 Assembly in its Resolution No. II 177) by the International Law Commission of the
 United Nations, of these acknowledged principles, this principle appears as Principle
@@ -1195,16 +1195,16 @@ for the Prevention and Punishment of Genocide expressly provides in Art 4:
 punished whether they are constitutionally responsible rulers or private individuals."
 This article affirms a principle acknowledged by all civilized nations, in the words of
 the International Court of Justice in its Advisory Opinion referred to, and inasmuch as
-Germany, too, has adhered to this Convention, it is possible that even according to
+[[LOCATION:location_2|Germany]], too, has adhered to this Convention, it is possible that even according to
 Kelsen, who requires an international Convention or the consent of the state
 concerned, there is no longer any ground for pleading an 'Act of State.' But the
-rejection of this plea does not depend on the affirmation of this principle by Germany,
+rejection of this plea does not depend on the affirmation of this principle by [[LOCATION:location_2|Germany]],
 for the plea had already been invalidated by the law of nations.
 For these reasons we dismiss the contention as to 'Act of State.'
 29. In his written submissions (Volume I, pp. 550-552), learned Counsel has based
 himself on the strict interpretation of the term `crime against humanity' given by the
-Nuremberg International Tribunal according to Art 6(1) of the Charter, which excludes
-from its jurisdiction many crimes of this kind which had been committed by Germany
+[[LOCATION:location_39|Nuremberg]] International Tribunal according to Art 6(1) of the Charter, which excludes
+from its jurisdiction many crimes of this kind which had been committed by [[LOCATION:location_2|Germany]]
 before the outbreak of the War. In its judgment on the Major War Criminals, the
 Tribunal said (p. 254):
 "To constitute Crimes against Humanity, the acts relied on before the outbreak of war
@@ -1235,30 +1235,30 @@ January 1933. See H. Meyerowitz, La Repression par les Tribunaux Allemands des
 Crimes contre l'Humanite, 1960, p. 233.
 No great practical importance attaches to this question for the purpose of this case,
 seeing that most of the crimes attributed to the Accused were committed during the
-War or in connection with it (according to the Nuremberg judgment, Hitler's invasions
-of Austria and Czechoslovakia constitute "crimes within the jurisdiction of the
+War or in connection with it (according to the [[LOCATION:location_39|Nuremberg]] judgment, Hitler's invasions
+of [[LOCATION:location_14|Austria]] and [[LOCATION:location_15|Czechoslovakia]] constitute "crimes within the jurisdiction of the
 Tribunal," within the meaning of the proviso to Art. 6(c) [of the Charter]; see ibid., Vol.
 22, pp. 643, 662). At all events, it seems to us, in the light of the general definition in
 Control Council Law No. 10, of "a crime against humanity," that the proviso to Art. 6(c)
 of the Charter does not limit the substantive nature of a "crime against humanity"
-under international law, but has only limited the jurisdiction of the Nuremberg Tribunal
+under international law, but has only limited the jurisdiction of the [[LOCATION:location_39|Nuremberg]] Tribunal
 to try crimes of this kind which are bound up with "war crimes" or "crimes against
 peace." See also Oppenheim-Lauterpacht (7th ed.) II, para. 257, p. 579, note (5) and
 authorities there cited.
 30. We have discussed at length the international character of the crimes in question
-because this offers the broadest possible, though not the only, basis for Israel's
+because this offers the broadest possible, though not the only, basis for [[LOCATION:location_38|Israel]]'s
 jurisdiction according to the law of nations. No less important from the point of view of
-international law is the special connection the State of Israel has with such crimes,
-seeing that the People of Israel (Am Yisrael) - the Jewish People (Ha'am Ha'Yehudi to use the term in the Israel legislation) constituted the target and the victim of most
+international law is the special connection the State of [[LOCATION:location_38|Israel]] has with such crimes,
+seeing that the People of [[LOCATION:location_38|Israel]] (Am Yisrael) - the Jewish People (Ha'am Ha'Yehudi to use the term in the [[LOCATION:location_38|Israel]] legislation) constituted the target and the victim of most
 of the crimes in question.
-The State of Israel's "right to punish" the Accused derives, in our view, from two
+The State of [[LOCATION:location_38|Israel]]'s "right to punish" the Accused derives, in our view, from two
 cumulative sources: a universal source (pertaining to the whole of mankind) which
 vests the right to prosecute and punish crimes of this order in every state within the
 family of nations; and a specific or national source which gives the victim nation the
 right to try any who assault its existence.
 This second foundation of penal jurisdiction conforms, according to the
 acknowledged terminology, to the protective principle (the competence reelle). In
-England, which until a short time ago was considered a country that does not rely on
+[[LOCATION:location_43|England]], which until a short time ago was considered a country that does not rely on
 such jurisdiction (see still in "Harvard Research in International Law, Jurisdiction with
 Respect to Crime," 1935, AJIL, Vol. 35 (Suppl.) 544) where it was stated in Joyce v.
 D.P.P. (1946) A.C. 347 (p. 372):
@@ -1283,7 +1283,7 @@ point," a legal connection that links the punisher with the punished. The State 
 insofar as international law does not contain rules contradicting this, punish only
 persons and acts which concern it more than they concern other States" (author's
 italics).
-Learned Counsel summed up his pleadings against the jurisdiction of the Israel
+Learned Counsel summed up his pleadings against the jurisdiction of the [[LOCATION:location_38|Israel]]
 legislator by stressing (Session 5, Vol. 1, pp.56-59) that under international law there
 must be a connection between the state and the person who committed the crime,
 and that, in the absence of an "acknowledged linking point," it was ultra vires for the
@@ -1332,14 +1332,14 @@ safety of the prosecuting State."
 Between these two extreme views is the view of Dahm (ibid.). Notwithstanding the
 difference of opinion as to the closeness of the requisite link, the very term
 "connection" or "linking point" is useful for the elucidation of the problem before us.
-The question is: What is the special connection between the State of Israel and the
+The question is: What is the special connection between the State of [[LOCATION:location_38|Israel]] and the
 offences attributed to the Accused, and whether this connection is sufficiently close to
-form a foundation for Israel's right of punishment against the Accused. This is no
+form a foundation for [[LOCATION:location_38|Israel]]'s right of punishment against the Accused. This is no
 merely technical question but a wide and universal one; for the principles of
 international law are wide and universal principles and not articles in an express code.
 33. When the question is presented in its wider form, as stated above, it seems to us
-that there can be no doubt what the answer will be. The "linking point" between Israel
-and the Accused (and for that matter between Israel and any person accused of a
+that there can be no doubt what the answer will be. The "linking point" between [[LOCATION:location_38|Israel]]
+and the Accused (and for that matter between [[LOCATION:location_38|Israel]] and any person accused of a
 crime against the Jewish People under this law) is striking in the "crime against the
 Jewish People," a crime that postulates an intention to exterminate the Jewish
 People in whole or in part. Indeed, even without such specific definition - and it must
@@ -1349,33 +1349,33 @@ most of the Nazi crimes of this kind were perpetrated against the Jewish People;
 viewed in the light of the definition of "crime against the Jewish People," as defined in
 the Law, constitutes in effect an attempt to exterminate the Jewish People, or a
 partial extermination of the Jewish People. If there is an effective link (and not
-necessarily identity) between the State of Israel and the Jewish People, then a crime
+necessarily identity) between the State of [[LOCATION:location_38|Israel]] and the Jewish People, then a crime
 intended to exterminate the Jewish People has an obvious connection with the State
-of Israel.
-34. The connection between the State of Israel and the Jewish People needs no
-explanation. The State of Israel was established and recognized as the State of the
+of [[LOCATION:location_38|Israel]].
+34. The connection between the State of [[LOCATION:location_38|Israel]] and the Jewish People needs no
+explanation. The State of [[LOCATION:location_38|Israel]] was established and recognized as the State of the
 Jews. The proclamation of 5 Iyar 5708 (14 May 1948) (Official Gazette No. 1) opens
-with the words: "It was in the Land of Israel that the Jewish People was born," dwells
-on the history of the Jewish People from ancient times until the Second World War,
+with the words: "It was in the Land of [[LOCATION:location_38|Israel]] that the Jewish People was born," dwells
+on the history of the Jewish People from ancient times until the [[EVENT:event_383|Second World War]],
 refers to the Resolution of the United Nations Assembly of 29 November 1947 which
-calls for the establishment of a Jewish State in the Land of Israel, determines the
+calls for the establishment of a Jewish State in the Land of [[LOCATION:location_38|Israel]], determines the
 
 "natural right of the Jewish People to be, like every other people, self-governing, in its
 sovereign state." It would appear that there is no need for any further proof of the
-obvious connection between the Jewish People and the State of Israel: This is the
+obvious connection between the Jewish People and the State of [[LOCATION:location_38|Israel]]: This is the
 sovereign state of the Jewish People.
-Moreover, the Declaration of the Establishment of the State of Israel makes mention
+Moreover, the Declaration of the Establishment of the State of [[LOCATION:location_38|Israel]] makes mention
 of the specific tragic link between the Nazi crimes which form the subject of the Law
 in question, and the establishment of the state:
 "The catastrophe which recently befell the Jewish People - the massacre of millions
 of Jews in Europe - was another clear demonstration of the urgency of solving the
-problem of its homelessmess by re- establishing in the Land of Israel the Jewish
+problem of its homelessmess by re- establishing in the Land of [[LOCATION:location_38|Israel]] the Jewish
 State, which would open the gates of the homeland wide to every Jew, and confer
 upon the Jewish People the status of a fully privileged member of the comity of
-nations. "Survivors of the Nazi Holocaust in Europe, as well as Jews from other parts
-of the world, continued to migrate to the Land of Israel, undaunted by difficulties,
+nations. "Survivors of the Nazi [[EVENT:event_386|Holocaust]] in Europe, as well as Jews from other parts
+of the world, continued to migrate to the Land of [[LOCATION:location_38|Israel]], undaunted by difficulties,
 restrictions and dangers, and never ceased to claim their right to a life of dignity,
-freedom and honest toil in their national homeland. "In the Second World War, the
+freedom and honest toil in their national homeland. "In the [[EVENT:event_383|Second World War]], the
 Jewish community of this country contributed its full share to the struggle of the
 freedom- and peace-loving nations against the forces of Nazi wickedness and, by the
 blood of its soldiers and its war effort, gained the right to be reckoned among the
@@ -1385,11 +1385,11 @@ not ignore.
 In the light of the recognition by the United Nations of the right of the Jewish People
 to establish their State, and in the light of the recognition of the established Jewish
 State by the family of nations, the connection between the Jewish People and the
-State of Israel constitutes an integral part of the law of nations.
+State of [[LOCATION:location_38|Israel]] constitutes an integral part of the law of nations.
 The massacre of millions of Jews by the Nazi criminals that very nearly led to the
 extinction of the Jewish People in Europe, was one of the tremendous causes for the
 establishment of the State of the survivors. The State cannot be cut off from its roots
-which also lie deep within the Holocaust of European Jewry.
+which also lie deep within the [[EVENT:event_386|Holocaust]] of European Jewry.
 Half of the citizens of the State have immigrated from Europe in recent years, some
 before and some after the Nazi massacre. There is hardly one of them who has not
 lost parents, brothers and sisters, and many lost their spouses and their offspring in
@@ -1397,7 +1397,7 @@ the Nazi hell.
 Under these circumstances, which are without precedent in the annals of any other
 nation, can there be any one who would contend that there is no sufficient "linking
 point" between the crime of the extermination of the Jews of Europe and the State of
-Israel?
+[[LOCATION:location_38|Israel]]?
 35. Learned Counsel contends that in the absence of a "recognized linking point"
 only the principle of territoriality is valid with respect to the crimes attributed to the
 Accused. On this principle, at least eighteen countries may try the Accused for the
@@ -1411,20 +1411,20 @@ has no right to inflict such punishment because those persons were not extermina
 on its territory.
 But the people is one and the crime is one: The crime attributed to the Accused is
 "the killing of millions of Jews with intent to exterminate the Jewish People." The
-Jewish population now residing in the State of Israel, or the Jewish "Yishuv" which
-lived in Palestine before the establishment of the State, too, is part of the Jewish
+Jewish population now residing in the State of [[LOCATION:location_38|Israel]], or the Jewish "Yishuv" which
+lived in [[LOCATION:location_57|Palestine]] before the establishment of the State, too, is part of the Jewish
 People whom the Accused sought, according to the indictment, to exterminate.
 Although that part of the people was rescued, it was in danger of extermination, as
 the history of the World War shows. At all events, the extermination of European
 Jewry which was carried out with intent to annihilate the Jewish People, was directed
 not only against those Jews who were exterminated, but against the entire Jewish
-People, including the Jewish "Yishuv" in Palestine. To argue that there is no
+People, including the Jewish "Yishuv" in [[LOCATION:location_57|Palestine]]. To argue that there is no
 connection, is like cutting away the roots and branches of a tree and saying to its
 trunk: I have not hurt you.
-Indeed, this crime very deeply concerns the vital interests of the State of Israel, and
+Indeed, this crime very deeply concerns the vital interests of the State of [[LOCATION:location_38|Israel]], and
 pursuant to the "protective principle," this State has the right to punish the criminals.
 In terms of Dahm's thesis, the acts in question referred to in this Law of the State of
-Israel "concern Israel more than they concern other states," and therefore, according
+[[LOCATION:location_38|Israel]] "concern [[LOCATION:location_38|Israel]] more than they concern other states," and therefore, according
 to this author's thesis, too, there exists a "linking point." The punishment of Nazi
 criminals does not derive from the arbitrariness of a country "abusing" its sovereignty,
 but is a legitimate and reasonable exercise of a right in penal jurisdiction.
@@ -1435,20 +1435,20 @@ any criminal could commit his outrages without fear of being punished by the peo
 outraged. Hitler and his associates exploited the defenceless position of the Jewish
 People in its dispersion, in order to perpetrate the total murder of that People in cold
 blood. It was also in order to provide some measure of redress for the terrible
-injustice of the Holocaust that the sovereign state of the Jews, which enables the
-survivors of the Holocaust to defend its existence by the means at the disposal of a
+injustice of the [[EVENT:event_386|Holocaust]] that the sovereign state of the Jews, which enables the
+survivors of the [[EVENT:event_386|Holocaust]] to defend its existence by the means at the disposal of a
 state, was established on the recommendation of the United Nations. One of the
 means therefor is the punishment of the murderers who did Hitler's contemptible
 work. It is for this reason that the Law in question has been enacted.
 36. Counsel contended that the protective principle cannot apply to this case
 because that principle is designed to protect only an existing state, its security and its
-interests, while the State of Israel had not existed at the time of the commission of
+interests, while the State of [[LOCATION:location_38|Israel]] had not existed at the time of the commission of
 the crime. He further submitted that the same contention applies to the principle of
 "passive personality" which stemmed from the protective principle, and of which
 some states have made use for the protection of their citizens abroad through their
 penal legislation. Counsel pointed out that, in view of the absence of a sovereign
-Jewish State at the time of the Holocaust, the victims of the Nazis were not, at the
-time they were murdered, citizens of the State of Israel.
+Jewish State at the time of the [[EVENT:event_386|Holocaust]], the victims of the Nazis were not, at the
+time they were murdered, citizens of the State of [[LOCATION:location_38|Israel]].
 
 In our view, learned Counsel errs when he examines the protective principle in this
 retroactive Law according to the time of the commission of the crimes, as is the case
@@ -1457,12 +1457,12 @@ specified period which had terminated five years before its enactment. The prote
 interest of the State recognized by the protective principle is, in this case, the interest
 existing at the time of the enactment of the Law, and we have already dwelt on the
 importance of the moral and protective task which this Law is designed to achieve in
-the State of Israel.
+the State of [[LOCATION:location_38|Israel]].
 37. The retroactive application of the Law to a period precedent to the establishment
-of the State of Israel is not, in respect to the Accused (and, for that matter, to any
+of the State of [[LOCATION:location_38|Israel]] is not, in respect to the Accused (and, for that matter, to any
 accused under this Law), a problem different from that of the usual retrospectivity on
 which we have already dwelt above. Goodhart states in his "The Legality of the
-Nuremberg Trial," Juridical Review, April 1946, (p. 8), inter alia:
+[[LOCATION:location_39|Nuremberg]] Trial," Juridical Review, April 1946, (p. 8), inter alia:
 "Many of the national courts now functioning in the liberated countries have been
 established recently, but no one has argued that they are not competent to try the
 cases that arose before their establishment... No defendant can complain that he is
@@ -1481,7 +1481,7 @@ establishment of the State, and that "in spite of the changes in sovereignty, th
 subsisted a continuity of law." "I cannot see," said President Smoira, "why that
 community in the country against whom the crime was committed should not demand
 the punishment of the offender solely because that community is now governed by
-the Government of Israel, instead of by the Mandatory Power."
+the Government of [[LOCATION:location_38|Israel]], instead of by the Mandatory Power."
 This was said with respect to a crime committed in the country, but there is no reason
 to assume that the law would be different with respect to foreign offences. Had the
 Mandatory legislator enacted at the time an extraterritorial law for the punishment of
@@ -1493,29 +1493,29 @@ legislate: The Israeli legislator is empowered to amend or supplement the Mandat
 legislation retroactively by enacting laws applicable to criminal acts which were
 committed prior to the establishment of the State.
 Indeed, this retroactive law is designed to supplement a gap in the laws of Mandatory
-Palestine, and the interests protected by this law existed also during the period of the
-Jewish National Home. The Balfour Declaration and the Palestine Mandate given by
+[[LOCATION:location_57|Palestine]], and the interests protected by this law existed also during the period of the
+Jewish National Home. The Balfour Declaration and the [[LOCATION:location_57|Palestine]] Mandate given by
 
 the League of Nations to Great Britain constituted an international recognition of the
 Jewish People (see N. Feinberg, "The Recognition of the Jewish People in
 International Law," Jewish Yearbook of International Law 1948, p. 15, and authorities
-there cited), the historical link of the Jewish People with the Land of Israel and their
+there cited), the historical link of the Jewish People with the Land of [[LOCATION:location_38|Israel]] and their
 right to reestablish their National Home in that country. The Jewish People actually
 made use of that right, and the National Home has grown and developed until it
 reached a sovereign status.
 During the period preceding the establishment of the sovereign State, the Jewish
 National Home may be seen as reflecting the rule nasciturus pro jam nato habetur
-(see Feinberg, ibid.). The Jewish "Yishuv" in Palestine constituted during that period
+(see Feinberg, ibid.). The Jewish "Yishuv" in [[LOCATION:location_57|Palestine]] constituted during that period
 a "state-on-the-way," which in due time reached a sovereign status. The lack of
 sovereignty made it impossible for the Jewish "Yishuv" in the country to enact a
 criminal law against the Nazi crimes at the time of their commission, but these crimes
 were also directed against that "Yishuv" which constituted an integral part of the
 Jewish People, and the enactment with retroactive application of the Law in question
-by the State of Israel answered the need which had already existed previously.
+by the State of [[LOCATION:location_38|Israel]] answered the need which had already existed previously.
 The historical facts explain the background of the legislation in question; but it seems
 to us that, from a legal point of view, the power of the new State to enact retroactive
 legislation does not depend on that background alone, and is not conditioned by the
-continuity of law between Palestine and the State of Israel. Let us take an extreme
+continuity of law between [[LOCATION:location_57|Palestine]] and the State of [[LOCATION:location_38|Israel]]. Let us take an extreme
 example and assume that the Gypsy survivors - an ethnic group or a nation who
 were also, like the Jewish People, victims of the "crime of genocide" - would have
 gathered after the War and established a sovereign state in any part of the world. It
@@ -1534,9 +1534,9 @@ racialism, the Nazis singled out Jews from all other citizens in all the countri
 domination, and carried the Jews to their death solely because of their racial
 affiliation. Even as the Jewish People constituted the object against which the crime
 was directed, so it is now the competent subject to place on trial those who assailed
-its existence. The fact that this People changed after the Holocaust from object to
+its existence. The fact that this People changed after the [[EVENT:event_386|Holocaust]] from object to
 subject, and from the victim of a racial crime to the wielder of authority to punish the
-criminals, is a great historic right that cannot be dismissed. The State of Israel, the
+criminals, is a great historic right that cannot be dismissed. The State of [[LOCATION:location_38|Israel]], the
 sovereign State of the Jewish People, performs through its legislation the task of
 carrying into effect the right of the Jewish People to punish the criminals who killed its
 sons with intent to put an end to the survival of this people. We are convinced that
@@ -1545,21 +1545,21 @@ this power conforms to existing principles of the law of nations.
 For all these reasons we have dismissed the first submission of Counsel against the
 jurisdiction of this Court.
 39. We should add that the well-known judgment of the International Court of Justice
-at The Hague in the "Lotus Case" ruled that the principle of territoriality does not limit
+at [[LOCATION:location_49|The Hague]] in the "Lotus Case" ruled that the principle of territoriality does not limit
 the power of the state to try crimes and, moreover, any argument against such power
 must point to a specific rule in international law which negates that power. We have
 not guided ourselves by this rule which devolves, as it were, the "onus of proof" upon
 him who contends against such power, but have preferred to base ourselves on
-positive grounds which establish the jurisdiction of the State of Israel.
+positive grounds which establish the jurisdiction of the State of [[LOCATION:location_38|Israel]].
 40. The second contention of learned Counsel for the Defence was that the trial in
-Israel of the Accused, following upon his capture in a foreign land, is in conflict with
+[[LOCATION:location_38|Israel]] of the Accused, following upon his capture in a foreign land, is in conflict with
 international law and takes away the jurisdiction of the Court. Counsel pleaded that
-the Accused, who had resided in Argentina under an assumed name, was kidnapped
-on 11 May 1960 by the agents of the State of Israel, and was forcibly brought to
-Israel. He requested that two witnesses be heard in proof of his contention that the
+the Accused, who had resided in [[LOCATION:location_41|Argentina]] under an assumed name, was kidnapped
+on 11 May 1960 by the agents of the State of [[LOCATION:location_38|Israel]], and was forcibly brought to
+[[LOCATION:location_38|Israel]]. He requested that two witnesses be heard in proof of his contention that the
 kidnappers of the Accused acted on orders they received from the Government of
-Israel or its representatives, a contention to which learned Counsel attached
-considerable importance, in an effort to prove that he was brought to Israel's area of
+[[LOCATION:location_38|Israel]] or its representatives, a contention to which learned Counsel attached
+considerable importance, in an effort to prove that he was brought to [[LOCATION:location_38|Israel]]'s area of
 jurisdiction in violation of international law. He summed up his contentions by
 submitting that the Court ought not to lend its support to an illegal act of the State,
 and that in these circumstances the Court has no jurisdiction to try the Accused.
@@ -1567,18 +1567,18 @@ On the other hand, the learned Attorney General pleaded that the jurisdiction of
 Court was based upon the Nazis and Nazi Collaborators (Punishment) Law which
 applied to the Accused and to the acts attributed to him in the indictment; that it is the
 duty of the Court to do no other than try such crimes; and that in accordance with
-established judicial precedents in England, the United States and Israel, the Court is
+established judicial precedents in [[LOCATION:location_43|England]], the [[LOCATION:location_68|United States]] and [[LOCATION:location_38|Israel]], the Court is
 not to enter into the circumstances of the arrest of the Accused and of his
 transference to the area of jurisdiction of the State, these questions having no
 bearing on the jurisdiction of the Court to try the Accused for the offences for which
 he is being prosecuted, but only on the foreign relations of the State. The Attorney
 General added that, with reference to the circumstances of the arrest of the Accused
-and his transference to Israel, the Republic of Argentina had lodged a complaint with
+and his transference to [[LOCATION:location_38|Israel]], the Republic of [[LOCATION:location_41|Argentina]] had lodged a complaint with
 the Security Council of the United Nations, which resolved on 23 June 1960 as
 follows (document S/4349) (Exhibit T/1):
 "The Security Council,
-Having examined the complaint that the transfer of Adolf Eichmann to the territory of
-Israel constitutes a violation of the sovereignty of the Argentine Republic,
+Having examined the complaint that the transfer of [[PERSON:person_775|Adolf Eichmann]] to the territory of
+[[LOCATION:location_38|Israel]] constitutes a violation of the sovereignty of the Argentine Republic,
 Considering that the violation of the sovereignty of a Member State is incompatible
 with the Charter of the United Nations,
 Having regard to the fact that reciprocal respect for and the mutual protection of the
@@ -1595,24 +1595,24 @@ condoning the odious crimes of which Eichmann is accused,
 1. Declares that acts such as that under consideration, which affect the sovereignty
 of a Member State and therefore cause international friction, may, if repeated,
 endanger international peace and security;
-2. Requests the Government of Israel to make appropriate reparation in accordance
+2. Requests the Government of [[LOCATION:location_38|Israel]] to make appropriate reparation in accordance
 with the Charter of the United Nations and the rules of international law;
-3. Expresses the hope that the traditionally friendly relations between Argentina and
-Israel will be advanced."
+3. Expresses the hope that the traditionally friendly relations between [[LOCATION:location_41|Argentina]] and
+[[LOCATION:location_38|Israel]] will be advanced."
 Pursuant to this Resolution, the two governments reached an agreement on the
 settlement of the dispute between them, and on 3 August 1960 issued the following
 joint communique (T/4):
-"Los Gobiernos de la Republica Argentina e Israel, animados por el proposito de dar
+"Los Gobiernos de la Republica [[LOCATION:location_41|Argentina]] e [[LOCATION:location_38|Israel]], animados por el proposito de dar
 cumplimiento a la resolucion del Consejo de Seguridad del dia 23 de Junio de 1960
 en cuanto expresa la esperanza de que mejoren las relaciones tradicionalmente
 amistosas entre ambos paises, resuelven considerar concluido el incidente originado
 en la accion cometida por nacionales israelies en perjuicio de derechos
-fundamentales del Estado argentino" (The Governments of Argentina and Israel,
+fundamentales del Estado argentino" (The Governments of [[LOCATION:location_41|Argentina]] and [[LOCATION:location_38|Israel]],
 actuated by an intention to put into effect the resolution of the Security Council of 23
 June 1960, insofar as it gives expression to the hope for the improvement of the
 relations of traditional friendship between the two countries, resolve to view as settled
-the incident which was caused in the wake of the action of citizens of Israel which
-violated the basic rights of the State of Argentina).
+the incident which was caused in the wake of the action of citizens of [[LOCATION:location_38|Israel]] which
+violated the basic rights of the State of [[LOCATION:location_41|Argentina]]).
 By our Decision No. 3 of 17 April 1961 (Session 6, Vol. I, p. 60), we dismissed
 Counsel's objections to the jurisdiction of the Court, and ruled that there is no need to
 hear the witnesses summoned with reference to his second contention. The following
@@ -1620,17 +1620,17 @@ are the reasons for our ruling:
 41. It is an established rule of law that a person standing trial for an offence against
 the laws of a state may not oppose his being tried by reason of the illegality of his
 arrest, or of the means whereby he was brought to the area of jurisdiction of the state.
-The courts in England, the United States and Israel have ruled continuously that the
+The courts in [[LOCATION:location_43|England]], the [[LOCATION:location_68|United States]] and [[LOCATION:location_38|Israel]] have ruled continuously that the
 circumstances of the arrest and the mode of bringing of the accused into the area of
 the state have no relevance to his trial, and they consistently refused in all cases to
 enter into an examination of these circumstances.
 The principle was first established in Ex parte Susanna Scott (1829) 9 B. & C. 446;
-109 E.R. 106. The applicant was charged in England with the misdemeanour of
+109 E.R. 106. The applicant was charged in [[LOCATION:location_43|England]] with the misdemeanour of
 
 perjury. A British police officer, in executing the warrant of arrest, specifically
-addressed to him by Lord Chief Justice Tenterden, arrested the applicant in Belgium.
-The applicant appealed to the British Ambassador in Belgium, who refused to
-intervene, and the police officer brought her to England, where an order was issued
+addressed to him by Lord Chief Justice Tenterden, arrested the applicant in [[LOCATION:location_21|Belgium]].
+The applicant appealed to the British Ambassador in [[LOCATION:location_21|Belgium]], who refused to
+intervene, and the police officer brought her to [[LOCATION:location_43|England]], where an order was issued
 for her imprisonment pending her trial. She then filed an application for her release by
 way of abeas corpus. Lord Chief Justice Tenterden dismissed the application, saying:
 "I consider the present question to be the same as if the party were now brought into
@@ -1659,13 +1659,13 @@ you are here; you are charged with having committed a crime, and you must stand
 your trial. We leave you to settle with the party who may have done an illegal act in
 bringing you into this position; settle that with him'."
 In Ex parte Elliott, 1 All E.R. 373, the court heard an application for habeas corpus of
-a British soldier who deserted his unit in 1946, was arrested in 1948 in Belgium by
+a British soldier who deserted his unit in 1946, was arrested in 1948 in [[LOCATION:location_21|Belgium]] by
 two British military officers escorted by two Belgian police officers, was transferred by
-the British military authorities to England, and was there held in custody pending his
+the British military authorities to [[LOCATION:location_43|England]], and was there held in custody pending his
 trial for desertion. Counsel for applicant pleaded inter alia that the British authorities
-in Belgium had no power to arrest the applicant, and that he was arrested contrary to
+in [[LOCATION:location_21|Belgium]] had no power to arrest the applicant, and that he was arrested contrary to
 Belgian law. Lord Goddard dismissed the application, saying in his judgment (p. 376):
-"The point with regard to the arrest in Belgium is entirely false. If a person is arrested
+"The point with regard to the arrest in [[LOCATION:location_21|Belgium]] is entirely false. If a person is arrested
 abroad and he is brought before a court in this country charged with an offence which
 that court has jurisdiction to hear, it is no answer for him to say, he being then in
 lawful custody in this country: `I was arrested contrary to the laws of the State of A or
@@ -1677,15 +1677,15 @@ The Lord Chief Justice concluded his pronouncement on this issue by saying (p. 3
 "We have no power to go into the question, once a prisoner is in lawful custody in this
 country, of the circumstances in which he may have been brought here. The
 
-circumstances in which the applicant may have been arrested in Belgium are no
+circumstances in which the applicant may have been arrested in [[LOCATION:location_21|Belgium]] are no
 concern of this court."
-42. The principle is also acknowledged in Palestine judicial precedent. In the
+42. The principle is also acknowledged in [[LOCATION:location_57|Palestine]] judicial precedent. In the
 application for habeas corpus by Isaac Katz (on behalf of Chaim Novik against the
-General Officer Commanding the Polish Forces in Palestine, High Court of Justice
-71/44 (Palestine Law Reports, Vol. 11, p. 355), Advocate Olshan (as he then was)
+General Officer Commanding the Polish Forces in [[LOCATION:location_57|Palestine]], High Court of Justice
+71/44 ([[LOCATION:location_57|Palestine]] Law Reports, Vol. 11, p. 355), Advocate Olshan (as he then was)
 submitted that Novik, who was tried for desertion by a Polish military tribunal, was
 brought before that exterritorial tribunal without any decision by a civil court of
-Palestine, as is required under the Allied Forces Act, was directly surrendered to the
+[[LOCATION:location_57|Palestine]], as is required under the Allied Forces Act, was directly surrendered to the
 Polish forces and was tried. The Chief Justice dismissed the application on the
 ground that (p. 358) "Provided the Court Martial is properly constituted, and provided
 the accused, who is before it, is subject to its jurisdiction, the circumstances in which
@@ -1693,11 +1693,11 @@ he was arrested and arrived before the Court are not relevant to the question of
 jurisdiction of the Court."
 In the appeal of Mahmoud Hassan Yassin, known as Afuna v. Attorney General,
 Criminal Appeal 14/42 (PLR, Vol. 9, p. 63), the Supreme Court heard the case of a
-"fugitive criminal" who was arrested in Syria by a Palestine Police Sergeant, was
+"fugitive criminal" who was arrested in [[LOCATION:location_47|Syria]] by a [[LOCATION:location_57|Palestine]] Police Sergeant, was
 forcibly returned to the country, and was sentenced to death by the Court of Criminal
 Assizes. Counsel for appellant pleaded that by reason of the non- enforcement of the
-extradition agreement obtaining between the two countries, his client's arrest in Syria
-and forcible transfer to Palestine were unlawful and the Jerusalem court had no
+extradition agreement obtaining between the two countries, his client's arrest in [[LOCATION:location_47|Syria]]
+and forcible transfer to [[LOCATION:location_57|Palestine]] were unlawful and the [[LOCATION:location_44|Jerusalem]] court had no
 jurisdiction to convict him. The Court of Appeal dismissed the contention on the
 ground that:
 "In our opinion, the law is correctly stated in volume 4 of Moore's Digest of
@@ -1713,9 +1713,9 @@ to complain of the violation of its rights.'
 point."
 The precedent quoted in Moore (ibid.) and referred to in that judgment as "an
 American (State) case" is no other than Ker v. Illinois, 119, U.S. 436, the leading
-case in the United States Supreme Court on this issue. At all events, it must be
+case in the [[LOCATION:location_68|United States]] Supreme Court on this issue. At all events, it must be
 stressed that the American ruling, as summed up by Moore, was in this case
-expressly "adopted" by the Supreme Court of Palestine.
+expressly "adopted" by the Supreme Court of [[LOCATION:location_57|Palestine]].
 43. Before we proceed, in the wake of this "adoption," to American judicial precedent,
 we would dwell briefly on the import of the judgments we have hitherto surveyed from
 the point of view of international law. The question which presents itself from this
@@ -1740,7 +1740,7 @@ to a case where the accused pleaded violation of international law (ibid., p. 28
 Lord Reading had expressed a reservation on this issue in R. v. Garrett (1917), 86
 L.J. (K.B.) 894, 898.
 44. American judicial precedent on this issue is more unequivocal (and this is
-apparently the reason why the Supreme Court of Palestine, in Criminal Appeal 14/42,
+apparently the reason why the Supreme Court of [[LOCATION:location_57|Palestine]], in Criminal Appeal 14/42,
 (Afuna v. A.G.) preferred to base themselves on this established rule as summed up
 in Moore's book, rather than on Ex parte Scott (see p. 66 of that judgment). American
 judgments expressly establish that it makes no difference whether or not the
@@ -1757,7 +1757,7 @@ That principle was well explained by Travers, author of the well-known work Droi
 Penal International, in his article: "Des arrestations au cas de venue involontaire sur
 le territoire," 13 Revue de Droit International Prive et de Droit Penal International
 (1917), 627 et seq.
-The learned author, who supports that doctrine as established in the United States,
+The learned author, who supports that doctrine as established in the [[LOCATION:location_68|United States]],
 says (p. 643):
 "Mais - et c'est un point que nous tenons a mettre en relief - si l'Etat, dont les agents
 ont ete fautifs, peut, par courtoisie internationale et pour eviter toute tension de
@@ -1775,16 +1775,16 @@ etrangere; il n'en est pas le representant.
 concessions qu'il juge convenables; est libre de ratifier tous actes irreguliers. Son
 silence constitue, tout au moins, une presomption de ratification."
 Considerable importance attaches to this pronouncement for the present case, in
-view of the settlement of the dispute between Argentina and Israel. Whatever we may
-think of the general legal problem, now that the Governments of Argentina and Israel
+view of the settlement of the dispute between [[LOCATION:location_41|Argentina]] and [[LOCATION:location_38|Israel]]. Whatever we may
+think of the general legal problem, now that the Governments of [[LOCATION:location_41|Argentina]] and [[LOCATION:location_38|Israel]]
 have issued their joint communique of 3 August 1960 to the effect that both
 governments have decided to view as liquidated the "incident" whereby the
-sovereignty of Argentina was violated, the Accused in this case can certainly retain
-no right to base himself on the "violated sovereignty" of the State of Argentina. The
-indictment in this case was presented after Argentina had forgiven Israel for that
+sovereignty of [[LOCATION:location_41|Argentina]] was violated, the Accused in this case can certainly retain
+no right to base himself on the "violated sovereignty" of the State of [[LOCATION:location_41|Argentina]]. The
+indictment in this case was presented after [[LOCATION:location_41|Argentina]] had forgiven [[LOCATION:location_38|Israel]] for that
 violation of her sovereignty, so that there no longer subsisted any violation of
 international law. In these circumstances, the Accused cannot presume to be
-speaking on behalf of Argentina and cannot claim rights which that sovereign state
+speaking on behalf of [[LOCATION:location_41|Argentina]] and cannot claim rights which that sovereign state
 has waived. As Travers said in summing up his article (p. 646):
 "Les Etats etant seuls juges des exigences de leur droit de souverainete, le vice,
 existant en ce cas, ne peut etre invoque que par le gouvernement lese. Il ne saurait
@@ -1794,21 +1794,21 @@ another state and laid down an express ruling on this matter was the American
 judgment (1835) in State v. Brewster 7, Vt. 118, given by the Supreme Court of the
 State of Vermont. The respondent, a foreigner, who was found guilty of theft by one
 of the courts of that state, pleaded before the Supreme Court of the State that he was
-forcibly and against his will carried from Canada, the country of his domicile, by
+forcibly and against his will carried from [[LOCATION:location_55|Canada]], the country of his domicile, by
 citizens of Vermont and brought to that state to be placed on trial, and that in these
 circumstances the court had no jurisdiction to try him. The Supreme Court dismissed
 the respondent's contention on the following grounds:
 "The respondent, although a foreigner, is, if guilty, equally subject to our jurisdiction
-with our own citizens. His escape into Canada did not purge the offence, nor oust our
+with our own citizens. His escape into [[LOCATION:location_55|Canada]] did not purge the offence, nor oust our
 jurisdiction. Being retaken and brought in fact within our jurisdiction, it is not for us to
 inquire by what means, or in what precise manner, he may have been brought within
 the reach of justice. It becomes then immaterial, whether the prisoner was brought
-out of Canada with the assent of the authorities of that country or not. If there were
+out of [[LOCATION:location_55|Canada]] with the assent of the authorities of that country or not. If there were
 anything improper in the transaction, it was not that the prisoner was entitled to
 protection on his own account. The illegality, if any, consists in a violation of the
 sovereignty of an independent nation. If that nation complain, it is a matter which
 concerns the political relations of the two countries, and in that aspect is a subject not
-within the constitutional powers of this court. Whether the authorities of Canada
+within the constitutional powers of this court. Whether the authorities of [[LOCATION:location_55|Canada]]
 would have surrendered the prisoners, upon due application, is a question of national
 comity, resting in discretion. The power to do so will not be questioned. If they have
 
@@ -1834,14 +1834,14 @@ countries. At all events, the accused has no right to oppose his trial, since in
 accordance with international law he is subject to the laws of the state which he
 violated. In that brief judgment of 1835 are embodied all the foundations requisite for
 the resolution of the question at issue in the present case.
-46. On 6 December 1886 the United States Supreme Court gave "twin" judgments,
-namely in United States v. Rauscher (1886), 119 U.S. 407 (30 L. Ed. 425) and Ker v.
+46. On 6 December 1886 the [[LOCATION:location_68|United States]] Supreme Court gave "twin" judgments,
+namely in [[LOCATION:location_68|United States]] v. Rauscher (1886), 119 U.S. 407 (30 L. Ed. 425) and Ker v.
 Illinois (1886), 119 U.S. 436 (30 L. Ed. 421), which laid down basic rulings for cases
 of "fugitive offenders." It is hardly necessary to add that, as regards the legal issue
 under discussion, the same rule applies to a "foreign offender" as to a "fugitive
 offender" (see Chandler v. U.S. (1949), 171 F 2d 921, Gillars v. U.S. (1950), 182 F
 2d 962). In U.S. v. Rauscher, the Court heard the case of a fugitive offender who was
-extradited to the United States by Great Britain under an extradition agreement of
+extradited to the [[LOCATION:location_68|United States]] by Great Britain under an extradition agreement of
 1842 between the two countries. The judgment laid down the principle that (p. 432) "The weight of authority and of sound principle are in favor of the proposition that a
 person who has been brought within the jurisdiction of the court by virtue of
 proceedings under an extradition treaty can only be tried for one of the offenses
@@ -1874,12 +1874,12 @@ applicant in Ker v. Illinois pleaded that he was kidnapped by an agent of the Un
 States in a sovereign country (Peru), was forcibly brought to the State of Illinois, was
 tried for theft and found guilty of embezzlement. The Supreme Court of Illinois
 rejected his contention against the jurisdiction of the court that convicted him, and the
-United States Supreme Court refused to interfere with that decision, saying (p. 424):
+[[LOCATION:location_68|United States]] Supreme Court refused to interfere with that decision, saying (p. 424):
 "The question of how far his forcible seizure in another country, and transfer by
 violence, force or fraud to this country, could be made available to resist trial in the
 state court, for the offense now charged upon him is one which we do not feel called
 upon to decide, for in that transaction we do not see that the Constitution, or laws, or
-treaties, of the United States guarantee him any protection. There are authorities of
+treaties, of the [[LOCATION:location_68|United States]] guarantee him any protection. There are authorities of
 the highest respectability which hold that such forcible abduction is no sufficient
 reason why the party should not answer when brought within the jurisdiction of the
 court which has the right to try him for such an offense, and presents no valid
@@ -1887,16 +1887,16 @@ objection to this trial in such a court. Among the authorities which support the
 proposition are the following: Ex parte Scott, 9 Barn & C. 446 (1829);... State v.
 Brewster, 7 Vt. 118 (1835)..."
 Counsel for applicant sought to base himself indirectly on the extradition treaty
-between the United States and Peru (which had not been given effect to in the case)
+between the [[LOCATION:location_68|United States]] and Peru (which had not been given effect to in the case)
 by pleading that any extradition treaty between two countries limits the powers of the
 two countries with respect to any fugitive offender who found asylum in either of
 these countries, by giving the offender a positive right, valid in both countries, to
 remain in the land of his asylum, unless duly and lawfully extradited to the country
-demanding his extradition pursuant to the extant treaty. The United States Supreme
+demanding his extradition pursuant to the extant treaty. The [[LOCATION:location_68|United States]] Supreme
 Court squarely dismissed that contention when it said (p. 424):
 "There is no language in this treaty, or in any other treaty made by this country on the
 subject of extradition, of which we are aware, which says in terms that a party fleeing
-from the United States to escape punishment for crime becomes thereby entitled to
+from the [[LOCATION:location_68|United States]] to escape punishment for crime becomes thereby entitled to
 an asylum in the country to which he has fled; indeed, the absurdity of such a
 proposition would at once prevent the making of a treaty of that kind. It will not be for
 a moment contended that the Government of Peru could not have ordered Ker out of
@@ -1905,7 +1905,7 @@ the country on his arrival, or at any period of his residence there.
 asylum in that country is quite a different thing from the right in him to demand and
 insist upon security in such an asylum.
 
-"In the case of United States v. Rauscher, just decided, and considered with this, the
+"In the case of [[LOCATION:location_68|United States]] v. Rauscher, just decided, and considered with this, the
 effect of extradition proceedings under a treaty was very fully considered; and it was
 there held that, when a party was duly surrendered, by proper proceedings, under
 the Treaty of 1842 with Great Britain, he came to this country clothed with the
@@ -1917,11 +1917,11 @@ extradition proceedings... But it is quite a different case when the plaintiff i
 comes to this country in the manner in which he was brought here, clothed with no
 rights which a proceeding under the treaty could have given him, and no duty which
 this country owes to Peru or to him under the treaty."
-These principles have been applied by the courts of the United States in a
+These principles have been applied by the courts of the [[LOCATION:location_68|United States]] in a
 continuous and consistent line of precedents until today. See, the following, among
 others: Mahon v. Justice, 127 U.S. 700 (32 L.E. 283); Lascelles v. Georgia (1892),
 148 U.S. 537 (37 L.E. 549); Pettibone v. Nichols (1906), 203 U.S. 192 (51 L.E. 148);
-Frisbie v. Collins (1952), 342 U.S. 519 (96 L.E. 591); United States v. Sobell (1957),
+Frisbie v. Collins (1952), 342 U.S. 519 (96 L.E. 591); [[LOCATION:location_68|United States]] v. Sobell (1957),
 244 F. 2d 520 (524).
 47. An analysis of these judgments reveals that the doctrine is not confined to the
 infringement of municipal laws, as distinct from international law, but the principle is
@@ -1937,31 +1937,31 @@ See also Hackworth, Digest of International Law (Department of State Publication
 "Whatever be the right of the State from which he has been withdrawn, the prisoner
 is not entitled to his release from custody merely by reason of the irregular process
 by which he was brought into the State of prosecution."
-In United States v. Unverzagt (1924), 299 Fed. 1015, (1017) the accused pleaded
+In [[LOCATION:location_68|United States]] v. Unverzagt (1924), 299 Fed. 1015, (1017) the accused pleaded
 that he was abducted from British Columbia by American officials. The District Court
 dismissed his application for habeas corpus, stating (p. 1017):
-"The defendant states he is a citizen of the United States. He is now before the
-courts of the United States. Canada is not making any application to this court in his
-behalf or its behalf because of any unlawful acts charged, and if Canada or British
+"The defendant states he is a citizen of the [[LOCATION:location_68|United States]]. He is now before the
+courts of the [[LOCATION:location_68|United States]]. [[LOCATION:location_55|Canada]] is not making any application to this court in his
+behalf or its behalf because of any unlawful acts charged, and if [[LOCATION:location_55|Canada]] or British
 Columbia desire to protest, the question undoubtedly is a political matter, which must
 be conducted through diplomatic channels. The defendant cannot before the court
 invoke the right of asylum in British Columbia."
 In Ex parte Lopez (1934) 6 F.Supp. 342, the court heard the application for habeas
-corpus by a man who was abducted from Mexico to the United States and there
-charged with an offence under United States laws. The Government of Mexico
-interfered in the judicial proceedings on the ground that Mexico's sovereignty was
+corpus by a man who was abducted from [[LOCATION:location_132|Mexico]] to the [[LOCATION:location_68|United States]] and there
+charged with an offence under [[LOCATION:location_68|United States]] laws. The Government of [[LOCATION:location_132|Mexico]]
+interfered in the judicial proceedings on the ground that [[LOCATION:location_132|Mexico]]'s sovereignty was
 violated through the abduction, and asked that the applicant be surrendered to them
-with a view to their holding him in custody in Mexico pending the hearing of the
+with a view to their holding him in custody in [[LOCATION:location_132|Mexico]] pending the hearing of the
 
 application for extradition (if any) under the extradition treaty between the two
 countries. The District Court, basing itself on Ker. v. Illinois and subsequent
 precedents, dismissed the applicant's application and also, relying on State v.
-Brewster (supra), rejected Mexico's intervention, saying:
-"The intervention of the government of Mexico raises serious questions, involving the
+Brewster (supra), rejected [[LOCATION:location_132|Mexico]]'s intervention, saying:
+"The intervention of the government of [[LOCATION:location_132|Mexico]] raises serious questions, involving the
 claimed violation of its sovereignty, which may well be presented to the Executive
-Department of the United States, but of which this court has no jurisdiction. State v.
+Department of the [[LOCATION:location_68|United States]], but of which this court has no jurisdiction. State v.
 Brewster, 7 Vt. 121."
-See also United States v. Insull (1934) 8 Federal Suppl. 310 (313).
+See also [[LOCATION:location_68|United States]] v. Insull (1934) 8 Federal Suppl. 310 (313).
 48. The Anglo-Saxon doctrine was accepted by continental jurists as well. We have
 already referred above to the views of Travers. See also Dahm, Voelkerrecht (1958),
 who says, basing himself on Ex parte Elliott, Ex parte Lopez, U.S. v. Insull, and Afuna
@@ -1977,7 +1977,7 @@ upon his visit, cash was missing from the till. The owner of the cafe suspected 
 accused and called in two village constables, and together with them pursued the
 accused until they apprehended him across the border. The Belgian government
 lodged an official protest with the French government against the arrest which was
-effected in Belgium by French policemen and demanded the return of the accused.
+effected in [[LOCATION:location_21|Belgium]] by French policemen and demanded the return of the accused.
 The Court of Avesnes decided to release the accused on the ground that:
 "The arrest, effected by French officers on foreign territory, could have no legal effect
 whatsoever, and was completely null and void. This nullity being of a public nature,
@@ -2011,7 +2011,7 @@ without first obtaining the consent of the State or States whose rights have bee
 violated by such measures."
 In his observations on that article the author says (p.624):
 "...It is frankly conceded that the present article is in part of the nature of legislation,"
-and adds (p. 628): "In Great Britain, the United States, and perhaps elsewhere, the
+and adds (p. 628): "In Great Britain, the [[LOCATION:location_68|United States]], and perhaps elsewhere, the
 national law is not in accord with this article in cases in which a person has been
 brought within the State or a place subject to its authority by recourse to measures in
 violation of customary international law."
@@ -2047,16 +2047,16 @@ international law of this kind constitutes an international tort to which the us
 Schwarzenberger, Manual of International Law, 1960, I 162) (a) "The commission of an international tort involves the duty to make reparations";
 (b) "By consent or acquiescence, an international claim in tort may be waived and, in
 this way, the breach of any international obligation be healed."
-Through the joint decision of the Governments of Argentina and Israel of 3 August
+Through the joint decision of the Governments of [[LOCATION:location_41|Argentina]] and [[LOCATION:location_38|Israel]] of 3 August
 1960 "to view as settled the incident which was caused through the action of citizens
-of Israel that has violated the basic rights of the State of Argentina," the country
+of [[LOCATION:location_38|Israel]] that has violated the basic rights of the State of [[LOCATION:location_41|Argentina]]," the country
 whose sovereignty was violated has waived its claims, including the claim for the
 return of the Accused, and any violation of international law which might have been
 linked with the incident in question has been "cured."
 Therefore, according to the principles of international law, no doubt can be cast on
-the jurisdiction of Israel to bring the Accused to trial after 3 August 1960. After that
+the jurisdiction of [[LOCATION:location_38|Israel]] to bring the Accused to trial after 3 August 1960. After that
 date, no cause remains on the score of a violation of international law which could
-have been adduced by him in support of any contention against his trial in Israel.
+have been adduced by him in support of any contention against his trial in [[LOCATION:location_38|Israel]].
 We have said above that, in our view, so far as this case is concerned, it is
 immaterial how this controversy is to be determined, and we might add that even the
 slight doubt as to the import of English judicial precedent which was raised by
@@ -2066,7 +2066,7 @@ pleadings, had been made the subject of negotiations between the two countries
 concerned, and had been settled by their mutual consent.
 Therefore, Counsel had not in effect any foundation in international law for his
 contention, even if the premise be true that the Accused was abducted by agents of
-the State of Israel. Insofar as Argentina's sovereignty had been impaired, "the
+the State of [[LOCATION:location_38|Israel]]. Insofar as [[LOCATION:location_41|Argentina]]'s sovereignty had been impaired, "the
 incident has been settled," and thereupon the episode of the kidnapping of the
 Accused descended from the level of international law to the level of municipal law (in
 the sense of the distinction between the two as made by Morgenstern, Dickinson and
@@ -2074,10 +2074,10 @@ O'Higgins). Following upon the settlement of the incident between the two countr
 prior to the bringing of the Accused to trial, the judgment may be based without
 hesitation on the whole chain of British, Palestinian and American continuous judicial
 precedents, beginning from Ex parte Scott to Frisbie v. Collins et seq.
-If the violation of Argentina's sovereignty is excluded from consideration, then the
+If the violation of [[LOCATION:location_41|Argentina]]'s sovereignty is excluded from consideration, then the
 abduction of the Accused is not different from any unlawful abduction, whether it
 constituted a contravention of Argentine law or Israeli law or both. Thus, after the
-enactment of the Federal Kidnaping Act, the United States Supreme Court ruled
+enactment of the Federal Kidnaping Act, the [[LOCATION:location_68|United States]] Supreme Court ruled
 unanimously in Frisbie v. Collins (1952) 342 U.S. 512 (96 L. Ed. 541), p. 545):
 "This Court has never departed from the rule announced in Ker v. Illinois, 119 US
 436, 444, that the power of a court to try a person for crime is not impaired by the fact
@@ -2107,25 +2107,25 @@ On the solid ground of municipal law, the Accused can have no argument against t
 jurisdiction of the Court, while his contention based on the "violation of international
 law" is untenable because such ground did not exist, at all events, at the time when
 he was put on trial.
-51. The fact that the Accused had no immunity, following upon Argentina's assent to
-view the incident as settled, may also be deduced from United States ex rel. Donnelly
-v. Mulligan, (1935) 76 F (2d) 511. The appellant was extradited from France to the
-United States and, before the thirty day period of immunity prescribed in the
+51. The fact that the Accused had no immunity, following upon [[LOCATION:location_41|Argentina]]'s assent to
+view the incident as settled, may also be deduced from [[LOCATION:location_68|United States]] ex rel. Donnelly
+v. Mulligan, (1935) 76 F (2d) 511. The appellant was extradited from [[LOCATION:location_30|France]] to the
+[[LOCATION:location_68|United States]] and, before the thirty day period of immunity prescribed in the
 extradition treaty between the two countries, had elapsed, the appellant was arrested
-anew for extradition to Canada. In their first decision (74 F (2d) 220), the Court of
+anew for extradition to [[LOCATION:location_55|Canada]]. In their first decision (74 F (2d) 220), the Court of
 Appeals decided to release, pursuant to the ruling in U.S. v. Rauscher. Subsequent
 to that decision, the President of the French Republic issued an order authorizing the
-United States to surrender the appellant to Canada. When the case came to be
-reheard, the Court of Appeals decided that the new order of France had deprived the
+[[LOCATION:location_68|United States]] to surrender the appellant to [[LOCATION:location_55|Canada]]. When the case came to be
+reheard, the Court of Appeals decided that the new order of [[LOCATION:location_30|France]] had deprived the
 appellant of his immunity under the above-mentioned extradition treaty. Stating its
 reasons for the judgment, the Court said inter alia (p. 512):
-"The appellant cannot complain if France acted under the treaty, nor can he complain
+"The appellant cannot complain if [[LOCATION:location_30|France]] acted under the treaty, nor can he complain
 if it acted independent of the treaty as an act of international comity. The French
 decree consents to his re-extradition; moreover, it may be regarded as a consent
 given independently of the treaty and as an act of international comity. If under the
-treaty, it is conclusive upon the appellant. France had the right to give or withhold the
-asylum accorded him as it saw fit. And it has withheld asylum for the purpose of reextradition to Canada. The appellant cannot question this action on the part of
-France."
+treaty, it is conclusive upon the appellant. [[LOCATION:location_30|France]] had the right to give or withhold the
+asylum accorded him as it saw fit. And it has withheld asylum for the purpose of reextradition to [[LOCATION:location_55|Canada]]. The appellant cannot question this action on the part of
+[[LOCATION:location_30|France]]."
 page 513:
 "Extradition treaties are for the benefit of the contracting parties and are a means of
 providing for their social security and protection against criminal acts, and it is for this
@@ -2133,7 +2133,7 @@ providing for their social security and protection against criminal acts, and it
 reason that rights of asylum and immunity belong to the state of refuge and not to the
 criminal."
 If the immunity of that appellant which was assured by the extradition treaty whereby
-France surrendered him to the United States was taken away through France's
+[[LOCATION:location_30|France]] surrendered him to the [[LOCATION:location_68|United States]] was taken away through [[LOCATION:location_30|France]]'s
 assent and the withdrawal of her protection of him, there is all the less reason for the
 present Accused, who was never protected by the principle of U.S. v. Rauscher, to
 claim personal immunity (for this is what his contention against jurisdiction really
@@ -2162,13 +2162,13 @@ the State which extradited such person:
 other than that for which he was extradited; (b) Surrender such person to another
 State for prosecution or punishment..."
 Also section 24 of the Extradition Law 5714-1954:
-"Persons extradited to Israel"
-"Where a person is extradited to Israel by a foreign country, such person shall not be
+"Persons extradited to [[LOCATION:location_38|Israel]]"
+"Where a person is extradited to [[LOCATION:location_38|Israel]] by a foreign country, such person shall not be
 held in custody or prosecuted for any other offence he committed prior to his
 extradition, nor be extradited to another country for an offence committed prior to his
 extradition, unless such foreign country had given its consent in writing to such action,
-or if such person failed to leave Israel within sixty days after having been enabled,
-upon his extradition, so to do, or if he left Israel upon his extradition and returned
+or if such person failed to leave [[LOCATION:location_38|Israel]] within sixty days after having been enabled,
+upon his extradition, so to do, or if he left [[LOCATION:location_38|Israel]] upon his extradition and returned
 thereto of his own free will."
 Kelsen was right, therefore, when he stated in his General Theory of Law and State
 (1949) p. 237, that: "Extradition treaties establish duties and rights of the contracting
@@ -2182,14 +2182,14 @@ right'."
 The words "entitled to invoke in their own right" are directed against the views of
 Lauterpacht, in 64 Law Quarterly Review (1948) p. 100. There is no doubt that
 Schwarzenberger represents the dominant view and the rule of law in force on this
-issue. It is also acknowledged on the continent of Europe, including Germany: see
+issue. It is also acknowledged on the continent of Europe, including [[LOCATION:location_2|Germany]]: see
 Dahm (ibid.), pp. 279-280, and is in actual usage and application in the judicial
 decisions of most countries (see ibid., note 26).
 52. On the subject of the want of immunity of a fugitive offender in his own right, as
 distinct from an immunity ensuing from a contractual commitment between sovereign
-countries, we find some interesting observations in Chandler v. United States (1949)
+countries, we find some interesting observations in Chandler v. [[LOCATION:location_68|United States]] (1949)
 171 F. 2d 921, where it is said (p. 935):
-"Nor was Chandler's arrest in Germany a violation of any `right of asylum' conferred
+"Nor was Chandler's arrest in [[LOCATION:location_2|Germany]] a violation of any `right of asylum' conferred
 by international law. In the absence of treaty a State may, without violating any
 recognized international obligation, decline to surrender to a demanding State a
 fugitive offender against the laws of the latter... Particularly as regards fugitive
@@ -2223,10 +2223,10 @@ grant by any country of asylum to a person accused of a major crime of this type
 
 the prevention of his prosecution, constitute an abuse of the sovereignty of the
 country, contrary to its obligation under international law (see OppenheimLauterpacht, ibid., Vol. 2, p. 588).
-See also the Resolution passed in Mexico City in March 1945 by the "Inter- American
+See also the Resolution passed in [[LOCATION:location_132|Mexico]] City in March 1945 by the "Inter- American
 Conference on the problem of War and Peace," also the article by H. Silving, "In Re
 Eichmann: A Dilemma of Law and Morality," in 55 AJIL (1961) 307, p. 324.
-In the Note addressed on 8 June 1960 by Argentina to Israel, which was published
+In the Note addressed on 8 June 1960 by [[LOCATION:location_41|Argentina]] to [[LOCATION:location_38|Israel]], which was published
 by the Security Council in Security Council Official Records, Suppl. for April, May and
 June 1960, p. 24, document S/4334, the Argentinian nation expressed:
 "its most emphatic condemnation of the mass crimes committed by the agents of
@@ -2238,22 +2238,22 @@ having conceived and directed the cold_blooded execution of a vast plan of
 extermination, should have entered and settled in Argentine territory under a false
 name and false documents, in obviously irregular circumstances in no way covered
 by the conditions for territorial asylum or refuge, does not justify the gratuitous
-assertion that many Nazis live in Argentina."
-The question as to whether or not other Nazis reside in Argentina has no relevance
+assertion that many Nazis live in [[LOCATION:location_41|Argentina]]."
+The question as to whether or not other Nazis reside in [[LOCATION:location_41|Argentina]] has no relevance
 to this case, and if we cite from the above-mentioned Note, it is only to show that the
-position taken by the Government of Argentina is that Argentina has not given asylum
+position taken by the Government of [[LOCATION:location_41|Argentina]] is that [[LOCATION:location_41|Argentina]] has not given asylum
 or refuge to the Accused who entered her territory and settled therein "under a false
 name and false documents," in "obviously irregular" circumstances which do not in
 any way tally with "conditions for territorial asylum or refuge."
 That position conforms to the principles of international law and the Resolution of the
 Inter-American Conference referred to above. The Accused is not a "political"
-criminal, and Argentina has given him no right of "refuge" in her territory, and all that
+criminal, and [[LOCATION:location_41|Argentina]] has given him no right of "refuge" in her territory, and all that
 has been said in our precedents on the subject of the want of the right of refuge of a
 "political criminal" applies to the Accused a fortiori.
 See also Criminal Appeal 2/41 Youssef Sa'id Abou Durrah v. Attorney General (PLR
-Vol. 8, p. 43) in which the appellant was extradited by Transjordan to Palestine under
+Vol. 8, p. 43) in which the appellant was extradited by Transjordan to [[LOCATION:location_57|Palestine]] under
 the Extradition Agreement of 1934 between the two governments, was charged with
-murder and sentenced to death by the Court of Criminal Assizes in Jerusalem.
+murder and sentenced to death by the Court of Criminal Assizes in [[LOCATION:location_44|Jerusalem]].
 Counsel for appellant pleaded (a) that the extradition was effected contrary to the
 provisions of the Extradition Agreement; (b) that the offence was "political" (and
 therefore not "extraditable"). The Supreme Court decided (pp. 44-45):
@@ -2265,28 +2265,28 @@ country are not entitled to try the man for an offence different from that on wh
 extradition was obtained. "Finally, it is said that this is a political offence. Under the
 law of this country, murder is murder pure and simple, whatever the motives may be
 
-which inspired it. We know of nothing in the criminal law of this country or of England
+which inspired it. We know of nothing in the criminal law of this country or of [[LOCATION:location_43|England]]
 that creates a special offence called political murder. In any case, even supposing it
 were a political murder, nothing prevents the man, if he is within the jurisdiction of this
 country, from being tried for it."
 To sum up, the contention of the Accused against the jurisdiction of the Court by
-reason of his abduction from Argentina is in essence nothing but a plea for immunity
+reason of his abduction from [[LOCATION:location_41|Argentina]] is in essence nothing but a plea for immunity
 by a fugitive offender on the strength of the refuge given him by a sovereign state.
 That contention does not avail the Accused for two reasons:
 (a) According to the established rule of law, there is no immunity for a fugitive
 offender save in the one and only case where he has been extradited by the country
 of asylum to the country applying for extradition by reason of a specific offence,
 which is not the offence for which he is being tried. The Accused was not
-surrendered to Israel by Argentina, and the State of Israel is not bound by any
-agreement with Argentina to try the Accused for any other specific offence, or not to
+surrendered to [[LOCATION:location_38|Israel]] by [[LOCATION:location_41|Argentina]], and the State of [[LOCATION:location_38|Israel]] is not bound by any
+agreement with [[LOCATION:location_41|Argentina]] to try the Accused for any other specific offence, or not to
 try him for the offences tried in this case.
 (b) The rights of asylum and immunity belong to the country of asylum and not to the
 offender, and the Accused cannot compel a foreign sovereign country to give him
 protection against its will. The Accused was a wanted war criminal when he escaped
-to Argentina by concealing his true identity. It was only after he was captured and
-brought to Israel that his identity has been revealed, and after negotiations between
-the two governments, the Government of Argentina waived its demand for his return
-and declared that it viewed the incident as settled. The Government of Argentina
+to [[LOCATION:location_41|Argentina]] by concealing his true identity. It was only after he was captured and
+brought to [[LOCATION:location_38|Israel]] that his identity has been revealed, and after negotiations between
+the two governments, the Government of [[LOCATION:location_41|Argentina]] waived its demand for his return
+and declared that it viewed the incident as settled. The Government of [[LOCATION:location_41|Argentina]]
 thereby refused definitively to give the Accused any sort of protection. The Accused
 has been brought to trial before a court of a state which accuses him of grave
 offences against its laws. The Accused has no immunity against this trial and must
@@ -2298,30 +2298,30 @@ connected with the whole range of legal issues dealt with above, namely the plea
 prescription under Argentine law. The Attorney General had already mentioned
 (Session 4, Vol. I, p. 49) that a competent Argentinian court had decided on 18 July
 1960 to dismiss the application for the extradition of one Jan Durcansky, who was
-wanted by Czechoslovakia as a war criminal, on the ground that the period for
+wanted by [[LOCATION:location_15|Czechoslovakia]] as a war criminal, on the ground that the period for
 prescription under Argentine law - fifteen years from the time of the commission of
 the crime - had elapsed. Counsel pleaded in his summing up (Session 114, Vol. IV,
 pp. 43-44) that with respect to the crimes attributed to the Accused, the period of
 prescription of fifteen years had elapsed on "5 May 1960, shortly before his capture,"
 and that therefore it would be just "to place the Accused in the same position as
 though he had been duly and properly extradited," after the period of prescription, by
-Argentina to Israel, to quash the case and set him free in accordance with the
+[[LOCATION:location_41|Argentina]] to [[LOCATION:location_38|Israel]], to quash the case and set him free in accordance with the
 Argentine law of prescription.
 
 This surprising contention is thoroughly untenable, and the short reply to it is that,
-even had the Accused been extradited by Argentina to Israel, pursuant to the
+even had the Accused been extradited by [[LOCATION:location_41|Argentina]] to [[LOCATION:location_38|Israel]], pursuant to the
 hypothetical premise of Counsel, the Argentine law of prescription would not avail
-him in Israel. That law could have been of help to him only in Argentina itself to the
+him in [[LOCATION:location_38|Israel]]. That law could have been of help to him only in [[LOCATION:location_41|Argentina]] itself to the
 end of preventing (assuming the Durcansky precedent to be applicable to this case)
-his extradition to Israel or to any other country. But once his extradition was
-completed, no country (neither Israel nor any other country) would have heeded the
+his extradition to [[LOCATION:location_38|Israel]] or to any other country. But once his extradition was
+completed, no country (neither [[LOCATION:location_38|Israel]] nor any other country) would have heeded the
 law of prescription of a foreign country and given the Accused immunity - and this is
 in effect what he is asking for - because a foreign country had surrendered him
 contrary to its laws. See Criminal Appeal 2/41 (Abou Durrah v. A.G.) above.
 The Extradition Law 5714-1954 contains many provisions, including those in section
 8(2), on the subject of prescription "according to the laws of the applying country; but
 there is only one section which lays down exclusively the law on "how to deal with a
-person extradited to Israel," namely section 24, which establishes the "speciality"
+person extradited to [[LOCATION:location_38|Israel]]," namely section 24, which establishes the "speciality"
 principle (see supra). To put it in another way: Apart from the speciality principle
 which gives the person extradited immunity against his being charged with another
 offence which he committed prior to extradition, the extradited person has no
@@ -2333,7 +2333,7 @@ observations of Sir Francis Piggott, in Extradition (1910), p. 170 et seq (which
 observations may shed further light on statements made in preceding sections of this
 judgment), as follows:
 "The point which has been so much insisted on in the preliminary discussions, that
-the Act, except in s. 19, does not deal with the surrender of fugitives to England by
+the Act, except in s. 19, does not deal with the surrender of fugitives to [[LOCATION:location_43|England]] by
 foreign countries, must now be considered...
 The constitutional principle, cardinal to the subject, is that legislation is only
 necessary in connexion with treaties when the law of the land would be interfered
@@ -2357,7 +2357,7 @@ us by the foreign country, which in any way interferes with the law. The restric
 restriction on trial after they are surrendered."
 Section 3(1) of the English Extradition Act, which forbids extradition of a fugitive
 offender where the extradition offence is of a political character, is parallel to Section
-2(2) of the Israel Extradition Law, and what has been explained by the learned author
+2(2) of the [[LOCATION:location_38|Israel]] Extradition Law, and what has been explained by the learned author
 on this subject also applies to the question of prescription under Section 8(2): All
 these conditions and limitations in the Extradition Law are, as it were, "one way"
 arrangements, namely they operate only in the country to which application is made,
@@ -2366,14 +2366,14 @@ the application which tries him for offences against its laws.
 See also R. v. Corrigan (1931) 1 K.B. 527; 22 Cr.A.R.106, where the Court of
 Criminal Appeals stresses that section 19 of the English Extradition Act creates a
 statutory departure from the Court's usual jurisdiction, so that an accused who has
-not proved beyond doubt that he was indeed extradited to England in accordance
-with the Extradition Treaty in force with France, could not rely on this exception. It is
+not proved beyond doubt that he was indeed extradited to [[LOCATION:location_43|England]] in accordance
+with the Extradition Treaty in force with [[LOCATION:location_30|France]], could not rely on this exception. It is
 there stated on p. 533:
 "It must always be borne in mind that the burden of proving such facts as will
 establish his contention in law rests upon the accused, who was before the Central
 Criminal Court...in lawful custody upon the lawful committal of a metropolitan
 magistrate... The burden was upon him to show beyond reasonable doubt that such
-facts existed as would render his trial by the law of England illegal and improper."
+facts existed as would render his trial by the law of [[LOCATION:location_43|England]] illegal and improper."
 Therefore, any plea which assumed that the trial of a fugitive offender or a foreign
 offender, whether he arrived in the country of his own free will, or was extradited to
 that country, or was forcibly carried to it, is based on any discretion - is mistaken. The
@@ -2415,7 +2415,7 @@ remains a matter for careful consideration by the Court, depending upon the pers
 who gave the evidence or the affidavit, whether he was a partner to the crime, the
 special interest he could have had in diverting blame from himself to the Accused, the
 lack of opportunity for cross-examination by the Accused, etc. (c) Evidence taken
-from witnesses abroad, by courts in Germany, Austria and Italy, in accordance with
+from witnesses abroad, by courts in [[LOCATION:location_2|Germany]], [[LOCATION:location_14|Austria]] and [[LOCATION:location_19|Italy]], in accordance with
 requests for taking evidence on commission addressed to them by this Court.
 Amongst these were witnesses whose previous affidavits or records of evidence
 were submitted to us by the Prosecution, and these were regarded as witnesses for
@@ -2425,7 +2425,7 @@ Other witnesses were interrogated abroad at the request of the Defence without t
 previous submission by the Prosecution of any affidavit or evidence given by such a
 witness. All these witnesses were interrogated by courts of law according to detailed
 questionnaires which had been first approved by this Court, and all of them (except
-the witnesses Hoettl, Novak and Slawik, whose testimony was taken in Austria) in the
+the witnesses Hoettl, Novak and Slawik, whose testimony was taken in [[LOCATION:location_14|Austria]]) in the
 presence of representatives of both parties, with the addition of questions which
 arose from the replies to the questions in the questionnaire. These were witnesses
 who could not come here to give evidence, because they were in detention abroad or
@@ -2447,8 +2447,8 @@ submitted to us and from which the Accused's activities during the period of the
 Reich appear in their true light through letters, memoranda, and official minutes
 recorded at the time of action or close to it. Although the files of the Accused's
 Section are missing, because those were burned by the Accused and his colleagues
-at the end of the World War together with the rest of the files of the Gestapo
-Headquarters in Berlin (T/37, p. 307), nevertheless, the remnants of the files of other
+at the end of the World War together with the rest of the files of the [[ORGANIZATION:org_344|Gestapo]]
+Headquarters in [[LOCATION:location_1|Berlin]] (T/37, p. 307), nevertheless, the remnants of the files of other
 offices also constitute important proof. These documents were submitted with a
 statement of their sources, and in most cases their authenticity is not in dispute. In
 those instances in which the Defence denied the authenticity of some of these
@@ -2456,7 +2456,7 @@ documents, we shall decide the matter in its proper place as we proceed.
 (e) Finally, we have before us in evidence the detailed Statement made by the
 Accused to Superintendent Less of the Israeli police, which extends to over 3,500
 printed columns (exhibit T/37), and in addition various notes which he wrote while in
-detention in Israel before his trial. There is no doubt that the Statement was given by
+detention in [[LOCATION:location_38|Israel]] before his trial. There is no doubt that the Statement was given by
 the Accused of his own free will, and the same applies to the written notes. Nor does
 the Accused deny this, but in regard to a number of passages in the Statement which
 might incriminate him, he argued that he had made a mistake at the time in saying
@@ -2471,7 +2471,7 @@ Accused's evidence in Court, the Attorney General elicited from him that he had 
 fact made, at the time, some of the statements recorded in the Sassen document,
 and these therefore became part of his evidence before us, to the extent that he
 admitted to them, either fully or with reservations.
-55. The persecution of the Jews by Hitler's Germany developed in three principal
+55. The persecution of the Jews by Hitler's [[LOCATION:location_2|Germany]] developed in three principal
 stages. The first stage was from the rise of Hitler to power in 1933 until the outbreak
 of the World War in 1939; the second stage from 1939 to mid_1941, and the third
 and final stage from mid-1941 to the collapse of the Third Reich in May 1945. We
@@ -2495,12 +2495,12 @@ organizations.
 In the final part of the judgment we shall deal with the arguments put forward by the
 Defence by which the Accused sought to justify his deeds.
 THE FIRST STAGE
-THE PERSECUTION OF THE JEWS IN GERMANY
+THE PERSECUTION OF THE JEWS IN [[LOCATION:location_2|GERMANY]]
 56. Extreme anti-Semitism was from the outset a main tenet in the programme of the
-National Socialist Party. Paragraph four of the programme declares that a Jew
+[[ORGANIZATION:org_368|National Socialist Party]]. Paragraph four of the programme declares that a Jew
 cannot be a citizen of the German state, since he does not belong to the German
 people. Paragraph eight demands that all those who are not Germans and
-immigrated into Germany after 2 August 1914 shall be compelled to leave Reich
+immigrated into [[LOCATION:location_2|Germany]] after 2 August 1914 shall be compelled to leave Reich
 territory immediately (T/1403).
 With the rise of Hitler to power, the persecution of the Jews became official policy
 and took on quasi-legal form through laws and regulations published by the
@@ -2515,7 +2515,7 @@ the state, and to close off their sources of livelihood.
 The trends became sharper as the years went on, until the outbreak of the War.
 Already before German Jewry suffered the first large-scale shock on 1 April 1933,
 when Jewish businesses were boycotted, arrests of Jews had begun and Jews were
-sent to concentration camps. Mr. Benno Cohn, one of the leaders of the Jewish
+sent to concentration camps. Mr. [[PERSON:person_424|Benno Cohn]], one of the leaders of the Jewish
 Community, who gave evidence about this period, told of women who received by
 post urns containing the ashes of their husbands who had been killed in the
 concentration camps, accompanied by a letter which read as follows:
@@ -2527,7 +2527,7 @@ with a few exceptions. Licenses held by Jews to engage in the liberal profession
 were cancelled (Session 14, Vol. I, p. 214). Jewish artists were forbidden to appear
 before non-Jews (Session 14, Vol. I, p. 216). Books by Jewish writers were burned in
 public.
-In September 1935 the Nuremberg Race Laws were published (The Citizenship Law
+In September 1935 the [[LOCATION:location_39|Nuremberg]] Race Laws were published (The Citizenship Law
 and the Law for the Protection of German Blood and Honour), which turned the Jews
 into citizens of an inferior grade and forbade marriage and sexual relations between
 
@@ -2539,13 +2539,13 @@ expulsion against Jews. Thousands of Jews of Polish nationality living in German
 cities were arrested simultaneously, transported by rail to the Polish border in the
 region of Zbaszyn and cruelly expelled and forced to cross the border (Session 14,
 Vol. I, p. 207; Session 17, Vol. I p. 226). Amongst them was the witness Zyndel
-Grynszpan, who had been living in Hanover since 1911, with his wife and two of his
+Grynszpan, who had been living in [[LOCATION:location_115|Hanover]] since 1911, with his wife and two of his
 children. Another of his sons, Hirsch Feivel Grynszpan, shot the Counsellor of the
-German Embassy in Paris, vom Rath. After this act, the wave of persecution swelled
+German Embassy in [[LOCATION:location_61|Paris]], vom Rath. After this act, the wave of persecution swelled
 up against the Jews in general.
 On 9 November 1938 news came that vom Rath had died of his wounds, and
 immediately the signal was given for pogroms against the Jews on the same night
-(the eve of 10 November 1938), known as "Crystal Night." In the cities of Germany
+(the eve of 10 November 1938), known as "Crystal Night." In the cities of [[LOCATION:location_2|Germany]]
 organized gangs burst into Jewish shops and apartments on orders from above,
 committed acts of violence against Jews, destroyed and plundered everything that
 fell into their hands. One hundred and ninety-one synagogues went up in flames and
@@ -2553,7 +2553,7 @@ another seventy-six synagogues were demolished. The day after, throughout the
 Reich, there began the arrests of thousands of male Jews, who were brought to
 concentration camps.
 On 12 November 1938, Goering, who was in charge of the Four Year Plan, issued an
-order for the payment by the Jews of Germany of a billion marks as "expiation
+order for the payment by the Jews of [[LOCATION:location_2|Germany]] of a billion marks as "expiation
 money." This order was carried out by levying twenty-five per cent of the value of
 Jewish property (T/634). He also issued a second order on the same day forbidding
 Jews, inter alia, to maintain retail establishments and to work as independent
@@ -2564,7 +2564,7 @@ unrealistic prices (T/79). Simultaneously with the persecution of the Jews as
 individuals came the control by the German state over their autonomous institutions.
 In March 1938, their status as public bodies was withdrawn from the Jewish
 communities, which thereby lost their authority to levy taxes, and on 4 July 1939 the
-Jews were organized compulsorily in the "Reich Association of the Jews in Germany"
+Jews were organized compulsorily in the "Reich Association of the Jews in [[LOCATION:location_2|Germany]]"
 (Reichsvereinigung) which was placed under the control of the Minister of the Interior
 (T/81).
 The minister was also authorized to disband existing Jewish organizations or to
@@ -2577,7 +2577,7 @@ Association was "to promote the emigration of the Jews." In fact, during that pe
 the Reich Government regarded as a desirable solution the emigration of the Jews
 
 from Reich territory and from the territories which had meanwhile been annexed to
-the Reich (Austria and the Bohemia-Moravia Protectorate).
+the Reich ([[LOCATION:location_14|Austria]] and the [[LOCATION:location_88|Bohemia]]-[[LOCATION:location_89|Moravia]] Protectorate).
 Actually, this had been the trend already from the beginning of the National Socialist
 regime; but whereas in the first years this trend found expression, to some extent, in
 the encouragement of voluntary emigration, accompanied by the granting of certain
@@ -2586,31 +2586,31 @@ changed afterwards to forced emigration under pressure and was accompanied by
 the robbing of the emigrants' property (Session 15, Vol. I, p. 226).
 Thus the German Foreign Ministry notifies its representatives abroad on 8 July 1938
 that the transfer of Jewish property abroad is not to be facilitated. And on 8
-December 1938 the American Ambassador in Berlin reports a statement by the
+December 1938 the American Ambassador in [[LOCATION:location_1|Berlin]] reports a statement by the
 German Minister for Foreign Affairs, Ribbentrop, who said that:
-"The Jews in Germany without exception were pickpockets, murderers and thieves.
+"The Jews in [[LOCATION:location_2|Germany]] without exception were pickpockets, murderers and thieves.
 The property they possessed was acquired illegally. The German Government has
 therefore decided to equate their status with the criminal element of the population.
 The property they acquired illegally will be taken from them." (T/115).
 In accordance with this, it became official policy first of all to put pressure upon Jews
 without means to emigrate from the Reich (T/123, at the end of page 2). This policy
-was first put into practice in Austria and the Protectorate, and introduced only later in
+was first put into practice in [[LOCATION:location_14|Austria]] and the Protectorate, and introduced only later in
 the territory of the Old Reich. This policy is bound up with the Centres for Jewish
-Emigration in Vienna, Prague and Berlin, in the organization of which the Accused
+Emigration in [[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_1|Berlin]], in the organization of which the Accused
 played a decisive part. Accordingly, we shall interrupt at this point the description of
 the general background of the first stage and survey the Accused's biography to the
-point at which he appears as the person in charge of the Emigration Centre in Vienna.
+point at which he appears as the person in charge of the Emigration Centre in [[LOCATION:location_3|Vienna]].
 Biographical details of the Accused up to his entry into the SD.
 59. Particulars of the Accused's youth are known to us from his Statement made
 before Superintendent Less (T/37) and from memoirs which he also wrote while
-under detention in Israel (T/44).
-Adolf Eichmann (full name: Otto Adolf Eichmann - T/37, p. 3), born in 1906 in
-Solingen in the Rhineland in Germany, the first-born son of his father Adolf Karl
+under detention in [[LOCATION:location_38|Israel]] (T/44).
+[[PERSON:person_775|Adolf Eichmann]] (full name: Otto [[PERSON:person_775|Adolf Eichmann]] - T/37, p. 3), born in 1906 in
+Solingen in the Rhineland in [[LOCATION:location_2|Germany]], the first-born son of his father Adolf Karl
 Eichmann, and his mother, Maria, nee Schefferling. His father, a devout Evangelical
 Christian, was a bookkeeper in the local electricity company.
-In 1914 the family moved to Austria, to the town of Linz, where the father continued
+In 1914 the family moved to [[LOCATION:location_14|Austria]], to the town of [[LOCATION:location_72|Linz]], where the father continued
 to work as commercial manager in the electricity company in that town. The Accused
-grew up in Linz, went to elementary school there, and after that studied for four years
+grew up in [[LOCATION:location_72|Linz]], went to elementary school there, and after that studied for four years
 at high school. He then attended a vocational school, which he also left after two
 years, without completing his studies. In the meantime his father lost his money in
 business, at which he tried his hand without success. Amongst other things he set up
@@ -2619,52 +2619,52 @@ Accused later became a salesman in an electricity supplies firm, and finally a
 travelling agent for the Austrian Socony Vacuum Company.
 
 At first the Accused joined the "Front-Fighters" Association, an Austrian nationalistic
-organization. In 1932 he joined the National Socialist Party under the influence of his
-acquaintance, Ernst Kaltenbrunner, who was later to become the head of the Head
+organization. In 1932 he joined the [[ORGANIZATION:org_368|National Socialist Party]] under the influence of his
+acquaintance, [[PERSON:person_438|Ernst Kaltenbrunner]], who was later to become the head of the Head
 Office for Reich Security. In the same year, he also entered the Austrian SS
 (Schutzstaffeln der NSDAP).
 In 1933 he was dismissed from his post in the Socony Vacuum Company, and shortly
-afterwards, with Hitler's rise to power, he left Austria for Germany. In November 1933,
+afterwards, with Hitler's rise to power, he left [[LOCATION:location_14|Austria]] for [[LOCATION:location_2|Germany]]. In November 1933,
 he enlisted for military service in the Austrian SS unit in exile and underwent military
-training in the SS camps in Lechfeld and Dachau, in Bavaria. After attaining the rank
+training in the SS camps in Lechfeld and [[LOCATION:location_32|Dachau]], in [[LOCATION:location_228|Bavaria]]. After attaining the rank
 of Scharfuehrer (Corporal), he volunteered, in October 1934, for service at the Head
-Office of the Security Service (SD) in Berlin.
+Office of the Security Service (SD) in [[LOCATION:location_1|Berlin]].
 The Structure of the SD and the RSHA
 60. Before we continue to describe the Accused's career, we shall review in brief the
 complicated structure of the SD and the other organizations in which the Accused
 was active in the course of the years.
 The SD, or to use its full name, the "Security Service of the Reichsfuehrer-SS," was
 originally the intelligence service of the SS and later of the entire National Socialist
-Party. At its head stood Reinhard Heydrich. In 1936 Heydrich was appointed also to
+Party. At its head stood [[PERSON:person_582|Reinhard Heydrich]]. In 1936 Heydrich was appointed also to
 head the Security Police, which was a state organization comprising the State Secret
-Police (Gestapo) with its local Gestapo offices, and the Criminal Police (T/93). This
+Police ([[ORGANIZATION:org_344|Gestapo]]) with its local [[ORGANIZATION:org_344|Gestapo]] offices, and the [[ORGANIZATION:org_338|Criminal Police]] (T/93). This
 appointment was given to Heydrich by Himmler in his capacity as head of the entire
-German police, within the framework of the Ministry of the Interior. Himmler took
+German police, within the framework of the [[ORGANIZATION:org_301|Ministry of the Interior]]. Himmler took
 upon himself the position of head of the German police, which he united with his
 original post as leader of the SS; hence his full title: "Reichsfuehrer-SS and Head of
 the German Police."
 The unification of the central institutions of the SD with the Security Police was
 completed by an order from Himmler on 27 September 1939 (T/96), creating the
 Head Office for Reich Security (Reichssicherheitshauptamt, henceforth the RSHA),
-with Heydrich in charge. It had six (later seven) offices. The Gestapo was merged
-into this new setup as Department IV of the RSHA, headed by Heinrich Mueller. The
-task of Department IV was defined as "combating opponents." The Criminal Police
+with Heydrich in charge. It had six (later seven) offices. The [[ORGANIZATION:org_344|Gestapo]] was merged
+into this new setup as Department IV of the RSHA, headed by [[PERSON:person_737|Heinrich Mueller]]. The
+task of Department IV was defined as "combating opponents." The [[ORGANIZATION:org_338|Criminal Police]]
 was transformed into Department V and the intelligence duties of the SD were
 transferred to Departments II, III, VI in the RSHA (T/647, T/99; see also the
 comparative table of division of duties, at the end of exhibit T/99. This table was
-erroneously attached to the main document T/99 at the principal Nuremberg Trial,
+erroneously attached to the main document T/99 at the principal [[LOCATION:location_39|Nuremberg]] Trial,
 because it clearly relates to the time when the RSHA was set up at the end of 1939,
 whereas the main document relates to the period after March 1941). This unification
-was effective only at the Centre in Berlin.
-In the field, the activities of the Gestapo, the Criminal Police and the SD were
-co_ordinated by Commanders of the Security Police and SD (IdS) and in the
-conquered areas by the Senior Commander of the Security Police and SD (BdS)
+was effective only at the Centre in [[LOCATION:location_1|Berlin]].
+In the field, the activities of the [[ORGANIZATION:org_344|Gestapo]], the [[ORGANIZATION:org_338|Criminal Police]] and the SD were
+co_ordinated by Commanders of the [[ORGANIZATION:org_327|Security Police and SD]] (IdS) and in the
+conquered areas by the Senior Commander of the [[ORGANIZATION:org_327|Security Police and SD]] (BdS)
 (T/83, T/95). These acted as representatives of the head of the RSHA, and it was
 from the RSHA that they took their orders. As has been said, Heydrich was the head
 
 of the RSHA when it was founded. He held this position until his death in June 1942.
 In December 1942, Kaltenbrunner was appointed in his place.
-Formally the RSHA was affiliated to the Ministry of the Interior, and Himmler himself
+Formally the RSHA was affiliated to the [[ORGANIZATION:org_301|Ministry of the Interior]], and Himmler himself
 also acted within the framework of that ministry, in terms of his authority as head of
 the German police. In August 1943, Himmler was also appointed to the post of
 Minister of the Interior (T/1428). At the same time, the RSHA was also one of the
@@ -2672,25 +2672,25 @@ twelve main offices of the SS, which included, amongst others, the SS EconomicAd
 Police (Ordnungspolizei), headed by Daluege.
 As leader of the SS, Himmler controlled all these twelve main offices. The RSHA as a
 whole became an SS institution also in terms of personnel, by virtue of the fact that in
-November 1939 all officials of the Gestapo and the Criminal Police received SS titles
+November 1939 all officials of the [[ORGANIZATION:org_344|Gestapo]] and the [[ORGANIZATION:org_338|Criminal Police]] received SS titles
 in accordance with their ranks (T/83, p. 2). In the Reich districts, and later also in the
 conquered areas, Himmler appointed Senior SS and Police Commanders who acted
 as his personal representatives. Their duty was to co-ordinate in their areas the
 activities of the Order Police, the Security Police and the SD, in addition to the armed
 SS and general SS units (T/98).
-The Accused in the SD - until his arrival in Vienna
-61. As stated above, the Accused came to the Head Office of the SD in Berlin in
+The Accused in the SD - until his arrival in [[LOCATION:location_3|Vienna]]
+61. As stated above, the Accused came to the Head Office of the SD in [[LOCATION:location_1|Berlin]] in
 October 1934. At first he worked in the Department for Research into the
 Freemasons, but after a few months, at the beginning of 1935, he was moved to
 Department II 112 - "Jews," and from then on, until the end of the Third Reich, he
 never ceased to be engaged in combating the Jews. He worked in this Department in
-Berlin for about three years, until March 1938, and was appointed "Referent"
+[[LOCATION:location_1|Berlin]] for about three years, until March 1938, and was appointed "Referent"
 (Specialist Officer) for Zionist affairs.
 The Department dealt in intelligence work, in close co-operation with the parallel
-"Jewish Department" in the Gestapo (II 4 B), which had the authority to take
+"Jewish Department" in the [[ORGANIZATION:org_344|Gestapo]] (II 4 B), which had the authority to take
 executive action (T/107; T/123, p. 2). He did well at this work, and at the end of 1937
 was promoted to officer's rank (Untersturmfuehrer). In a personal report of the year
-1937 (included in T/55 (3)), written by Dieter Wisliceny, who was then his superior, it
+1937 (included in T/55 (3)), written by [[PERSON:person_436|Dieter Wisliceny]], who was then his superior, it
 is stated:
 "Eichmann has acquired comprehensive knowledge of the methods of organization
 and ideology of the opponent, Jewry... His National Socialist outlook is the basis for
@@ -2702,30 +2702,30 @@ superiors for permission to continue studying the language with a rabbi was reje
 (T/55 (11)). He learned to read Yiddish to the extent of being able to understand the
 newspaper Haint (T/44, p. 49). At this point we may mention also the legend
 cultivated by the Accused himself that he had been born in the Templar Colony in
-Sarona in Palestine (Session 16, Vol. I, p. 254; Session 41, Vol. II, p. 738).
+[[LOCATION:location_123|Sarona]] in [[LOCATION:location_57|Palestine]] (Session 16, Vol. I, p. 254; Session 41, Vol. II, p. 738).
 
 The Accused wrote an instructional booklet on Zionist affairs for SS men (T/ 44, p.
 41), and lectured to SS and army commanders on "the World Zionist organization, its
 structure and aims," and also on "the New Zionist organization" (T/44, p. 48). In 1937,
-he was sent to the National Socialist Party rally in Nuremberg to make contacts with
+he was sent to the [[ORGANIZATION:org_368|National Socialist Party]] rally in [[LOCATION:location_39|Nuremberg]] to make contacts with
 persons from abroad, in order to stimulate anti-Jewish propaganda (T/121).
-In November 1937, he travelled to Palestine and Egypt, together with his superior,
+In November 1937, he travelled to [[LOCATION:location_57|Palestine]] and Egypt, together with his superior,
 Hagen, on an espionage mission, chiefly amongst the Jews. He was instructed, inter
-alia, to establish contact with the Mufti of Jerusalem, Hajj Amin al-Husseini. Their
-boat anchored at Haifa, and the Accused went ashore. From there the journey
+alia, to establish contact with the Mufti of [[LOCATION:location_44|Jerusalem]], [[PERSON:person_680|Hajj Amin al-Husseini]]. Their
+boat anchored at [[LOCATION:location_127|Haifa]], and the Accused went ashore. From there the journey
 continued to Egypt. While they were there, they requested an entry permit to
-Palestine, but came up against difficulties on the part of the British authorities, and
-therefore had to be satisfied with information given to them in Cairo by their
+[[LOCATION:location_57|Palestine]], but came up against difficulties on the part of the British authorities, and
+therefore had to be satisfied with information given to them in [[LOCATION:location_131|Cairo]] by their
 informants. A detailed report of their journey has been submitted to us (T/124). We
 shall quote two passages which illustrate its general tenor.
 With regard to the proposal to increase emigration opportunities for German Jews by
 way of capital transfer in the form of goods, the report states:
 "Since the above-mentioned emigration of 50,000 Jews per year would chiefly
-strengthen Jewry in Palestine, this plan is out of the question, in view of the fact that
+strengthen Jewry in [[LOCATION:location_57|Palestine]], this plan is out of the question, in view of the fact that
 it is the policy of the Reich to avoid the creation of an independent Jewish State in
-Palestine."
+[[LOCATION:location_57|Palestine]]."
 We now move from high policy to trivial matters. With regard to a German who
-sought to obtain an agency in Palestine for the German Aviation Company, the report
+sought to obtain an agency in [[LOCATION:location_57|Palestine]] for the German Aviation Company, the report
 mentions "his unsuitability from a professional and personal point of view and
 because of his personal philosophy," and that it is typical of the man's true political
 attitude that "the travel agency which he manages sends greetings to all its Jewish
@@ -2744,9 +2744,9 @@ to this" (es bleibt mir nichts anderes uebrig). (Supra, p. 346.)
 62. As stated above, during this period of his service in the Head Office of the SD,
 the Accused was engaged in pure intelligence work. His contacts with Jews were
 only for the purpose of this work. Thus, the witness Cohn remembers the presence of
-the Accused as an observer at a Zionist meeting in Berlin in 1937 (Session 15, Vol. I,
-p. 220-221), and the witness Dr. Franz Meyer, who was at the time acting chairman
-of the Zionist organization in Germany, tells us that the Accused sought detailed
+the Accused as an observer at a Zionist meeting in [[LOCATION:location_1|Berlin]] in 1937 (Session 15, Vol. I,
+p. 220-221), and the witness [[PERSON:witness_45|Dr. Franz Meyer]], who was at the time acting chairman
+of the Zionist organization in [[LOCATION:location_2|Germany]], tells us that the Accused sought detailed
 
 information from him about various Jewish organizations. Of the Accused's behaviour
 up to the end of 1937, Dr. Meyer says:
@@ -2755,18 +2755,18 @@ cold, correct." (Session 17, Vol. I, p. 266.)
 Interesting evidence of the Accused's attitude towards the solution of the Jewish
 Question at that time is to be found in document T/111, in which he noted down for
 himself some points for a memorandum which he had to prepare. It says there:
-"In at least another ten years there will be only about 60,000 Jews left in Germany, if
+"In at least another ten years there will be only about 60,000 Jews left in [[LOCATION:location_2|Germany]], if
 the present trend continues. After the emigration of those without means will come
 the turn of the capitalists, who by then will lose their capital gradually as a result of
 economic measures, assisted by State Police measures" (Stapomassnahmen).
 In simple words: The Jews would all be compelled to emigrate, but the capitalists
 would emigrate only after they had been robbed of their capital by terrorist measures.
-The Accused's activities in the Central Offices for Emigration in Vienna, Prague and
-Berlin
-63. After the annexation of Austria to the Reich in March 1938, the Accused was sent
-to Vienna to deal with the forced emigration of Austrian Jewry. It was his duty to
+The Accused's activities in the Central Offices for Emigration in [[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and
+[[LOCATION:location_1|Berlin]]
+63. After the annexation of [[LOCATION:location_14|Austria]] to the Reich in March 1938, the Accused was sent
+to [[LOCATION:location_3|Vienna]] to deal with the forced emigration of Austrian Jewry. It was his duty to
 administer the Central Office for the Emigration of Austrian Jews. His superior there
-was the Security Police and SD Commander, Stahlecker (later one of the Operations
+was the [[ORGANIZATION:org_327|Security Police and SD]] Commander, Stahlecker (later one of the Operations
 Units' commanders). At this point, the Accused ceased, in effect, to be engaged in
 intelligence work, although from the personnel point of view he always remained an
 SD man (T/37, 1544 et seq., Session 90, Vol. IV, p.xxxx14), and he began to deal
@@ -2781,17 +2781,17 @@ Accused sought in his Statement before Superintendent Less and his evidence in
 Court, to describe them as an idyll of fair co-operation between him and the leaders
 of the Jewish Community, with both sides striving towards a common aim in a spirit of
 mutual understanding. He also takes credit for the release of these Jewish leaders
-after they had been arrested by the Gestapo, and the re-opening of the Jewish
-institutions which had been closed down by the Gestapo (T/37, p. 97 et seq.; Session
+after they had been arrested by the [[ORGANIZATION:org_344|Gestapo]], and the re-opening of the Jewish
+institutions which had been closed down by the [[ORGANIZATION:org_344|Gestapo]] (T/37, p. 97 et seq.; Session
 90, Vol. IV, p.xxxx8 et seq.). He does, however, admit that the general line was that
 of forced emigration, but asserts that he was not responsible for this line, which was
 determined from above.
 This is the claim made by the Accused. But witnesses and the documents speak
 otherwise and contradict his version. Dr. Meyer, whose testimony we have just
 mentioned, saw the Accused again during his Viennese period, when the leaders of
-German Jewry were summoned to Vienna in February 1939, in order to become
+German Jewry were summoned to [[LOCATION:location_3|Vienna]] in February 1939, in order to become
 acquainted there with the methods of operation of the Central Office for Emigration,
-with the view to copying them in Berlin. And this is how the witness describes that
+with the view to copying them in [[LOCATION:location_1|Berlin]]. And this is how the witness describes that
 meeting (Session 17, Vol. I, p. 268):
 
 "... I immediately told my friends that I do not know whether I am meeting the same
@@ -2800,7 +2800,7 @@ here was a minor official, what they call a `clerk_bureaucrat' who carries out d
 writes reports, and so on. Now, here was this man with the attitude of an autocrat
 controlling life and death; he received us impudently and crudely..."
 And this is the impression gained by the witness after seeing the arrangements at the
-Vienna Central Office for Emigration and speaking with the Jewish leaders there
+[[LOCATION:location_3|Vienna]] Central Office for Emigration and speaking with the Jewish leaders there
 (Session 17, Vol. I, p. 269):
 "This is like an automatic factory, like a flour mill connected to some bakery. You put
 in at the one end a Jew who still has capital and has, let us say, a factory or a shop
@@ -2809,12 +2809,12 @@ counter, from office to office, and he comes out at the other end without any mo
 without any rights, with only a passport in which is written: "You must leave the
 country within a two weeks, if you fail to do so, you will go to a concentration camp!"
 Another German Jewish communal worker, Mr. Aaron Lindenstrauss, confirms this
-statement in a description of the same visit to Vienna (Session 15, Vol. I, p. 234):
-"...I still remember that these officials of the Jewish Community and the Palestine
+statement in a description of the same visit to [[LOCATION:location_3|Vienna]] (Session 15, Vol. I, p. 234):
+"...I still remember that these officials of the Jewish Community and the [[LOCATION:location_57|Palestine]]
 Office seemed to me like disciplined soldiers who stood to attention all the time and
 dared not utter a word..."
 Further confirmation of this is found in a letter written by the Accused, when he was
-still in the early stages of his work in Vienna, to his friend and colleague, Hagen
+still in the early stages of his work in [[LOCATION:location_3|Vienna]], to his friend and colleague, Hagen
 (T/130):
 "At any rate, I keep these gentlemen here on the run, this you can believe me..."
 And again:
@@ -2822,29 +2822,29 @@ And again:
 consulting me. That is as it should be, because then much better control is possible."
 These were not just empty words, for in fact this is how the affairs of the Jewish
 institutions were administered, as evidenced by the memoranda prepared by Dr.
-Loewenherz, Chairman of the Jewish Community in Vienna, and the chief
+[[PERSON:person_414|Loewenherz]], Chairman of the Jewish Community in [[LOCATION:location_3|Vienna]], and the chief
 representative of Austrian Jewry in negotiations with the Accused (T/148, T/152, etc.).
-64. The Jews of Austria lived in an atmosphere of terror ever since the entry of Hitler
-into Vienna. Mr. Fleischmann, one of the Jewish leaders in Vienna at the time, tells
+64. The Jews of [[LOCATION:location_14|Austria]] lived in an atmosphere of terror ever since the entry of Hitler
+into [[LOCATION:location_3|Vienna]]. Mr. Fleischmann, one of the Jewish leaders in [[LOCATION:location_3|Vienna]] at the time, tells
 us how he was compelled by the SS to scrub the pavement (Session 17, Vol. I, p.
 260).
 But the Accused did not content himself with the general feeling of fear for the
-advancement of his aim - to "purge" Vienna and the whole of Austria of Jews in the
+advancement of his aim - to "purge" [[LOCATION:location_3|Vienna]] and the whole of [[LOCATION:location_14|Austria]] of Jews in the
 shortest possible time. He added threats of his own in order to increase the pressure
 on the leaders who came to him on behalf of the Jewish Community.
 It has not been proved to us that he took part in organizing the Crystal Night pogroms,
-on the eve of 10 November 1938, in Austria (behind which were the Gestapo and the
+on the eve of 10 November 1938, in [[LOCATION:location_14|Austria]] (behind which were the [[ORGANIZATION:org_344|Gestapo]] and the
 SD), though the very same night information about the events was transmitted to him
 through service channels (T/138, T/140, N/34). But it is a fact that he exploited for his
 own purposes the panic which reigned amongst the Jews because of these events,
 in order to speed up the process of forced emigration. Mr. Fleischmann described the
-speech made by the Accused to the Jews who crowded into the Palestine Office in
-Vienna on the day following Crystal Night:
+speech made by the Accused to the Jews who crowded into the [[LOCATION:location_57|Palestine]] Office in
+[[LOCATION:location_3|Vienna]] on the day following Crystal Night:
 
 "He (the Accused) spoke about the unsatisfactory rate of the disappearance of Jews
-from Vienna. He said that entirely different ways and measures would have to be
+from [[LOCATION:location_3|Vienna]]. He said that entirely different ways and measures would have to be
 used, and that he would see to that." (Session 17, Vol. I, p. 262.) And so we read in
-the general report describing the activities of Dr. Loewenherz about a conversation
+the general report describing the activities of Dr. [[PERSON:person_414|Loewenherz]] about a conversation
 which took place in March 1939, when the Accused said to him, "that the number of
 applications for emigration had gone down considerably in the last few days, and if
 the number of applications did not go up within two days, he would propose the
@@ -2852,8 +2852,8 @@ adoption of measures which could take on the same form for everyone as in
 November 1938" (T/154, p. 9; Session 90, Vol. IV, pp.xxxx15, 16; with regard to the
 authentication of the report, see Mr. Zidon's affidavit, T/37 (233)).
 A similar threat was uttered by the Accused to the representatives of German Jewry
-after their visit to Vienna, when it displeased him that, while there, they contacted the
-Jews of Vienna of their own accord.
+after their visit to [[LOCATION:location_3|Vienna]], when it displeased him that, while there, they contacted the
+Jews of [[LOCATION:location_3|Vienna]] of their own accord.
 " "If this happens again, you will go to the Konzertlager" (instead of
 Konzentrationslager - concentration camp). (Session 15, Vol. I, p. 228.)
 The Accused also takes credit for having organized the financial arrangements
@@ -2870,13 +2870,13 @@ T/135). This fund was also supported by gifts in foreign exchange obtained by
 Austrian Jews from their brethren abroad, with the Accused's encouragement, in
 order to make mass emigration possible (T/152, para. 3). (Of course, the reference
 here is to emigration during the first stage, i.e., overseas).
-The communal property of the Jewish organizations in Austria was also concentrated
+The communal property of the Jewish organizations in [[LOCATION:location_14|Austria]] was also concentrated
 in the hands of the state (T/147). The Accused's absolute control over the funds
-which were gathered in this way becomes apparent from Dr. Loewenherz'
+which were gathered in this way becomes apparent from Dr. [[PERSON:person_414|Loewenherz]]'
 memoranda and from his final report (T/154).
-65. It is true that the Accused set the Jewish organizations in Vienna functioning
-again after they had been closed down by the Gestapo immediately after the
-annexation of Austria to the Reich. But this was nothing else but the beginning of the
+65. It is true that the Accused set the Jewish organizations in [[LOCATION:location_3|Vienna]] functioning
+again after they had been closed down by the [[ORGANIZATION:org_344|Gestapo]] immediately after the
+annexation of [[LOCATION:location_14|Austria]] to the Reich. But this was nothing else but the beginning of the
 system of "indirect rule" which the Accused developed so cleverly - a system which
 saved the German ruler manpower and turned the Jewish organizations against their
 will into an instrument in the hands of the ruler, for the realization of his sinister plans
@@ -2886,34 +2886,34 @@ succeeded in bringing about the emigration of a considerable part of Austrian Je
 (close to 150,000 persons - T/185, p. 4). At a meeting presided over by Goering
 immediately after the Crystal Night, Heydrich boasts of the activity of the Central
 
-Office for Emigration in Vienna which had succeeded until then in bringing about the
+Office for Emigration in [[LOCATION:location_3|Vienna]] which had succeeded until then in bringing about the
 emigration of 50,000 Austrian Jews (T/114, pp. 19-22). At the same meeting it was
 agreed to set up a similar office also in the area of the Old Reich.
 The practical result was an instruction from Goering to the Minister of the Interior,
 dated 24 January 1939, to set up the Reich Central Office for Jewish Emigration
 (T/125). The directives contained in this letter show that the experience gained in the
-Central Office for Emigration in Vienna under the Accused's direction was now used
+Central Office for Emigration in [[LOCATION:location_3|Vienna]] under the Accused's direction was now used
 for the setting up of this central authority. Its administration was entrusted by Goering
 to Heydrich himself as head of the Security Police. Heydrich, in turn, put Mueller, the
-head of the Gestapo, in charge of the Central Office (T/116).
+head of the [[ORGANIZATION:org_344|Gestapo]], in charge of the Central Office (T/116).
 The Accused argues that at that period he was not active in this central authority. But
 Mr. Cohn and Mr. Meyer gave evidence that already in March 1939 the Accused
-visited Berlin and told the Jewish representatives there, after their visit to Vienna, that
-in Berlin, too, a Central Office for Emigration would be set up along the lines of the
-Central Office in Vienna, and he demanded of them, in the harsh style which he had
+visited [[LOCATION:location_1|Berlin]] and told the Jewish representatives there, after their visit to [[LOCATION:location_3|Vienna]], that
+in [[LOCATION:location_1|Berlin]], too, a Central Office for Emigration would be set up along the lines of the
+Central Office in [[LOCATION:location_3|Vienna]], and he demanded of them, in the harsh style which he had
 developed in the meantime, that they co-operate with this Central Office (Session 15,
 Vol. I, pp. 228-230; Session 17, Vol. I, p. 268).
 It appears, therefore, that the Accused, as the emigration expert, already began to
 deal, in fact, with matters belonging to the Reich Central Office for Jewish Emigration
-in Berlin a short time after its establishment, though it is possible that in the spring of
+in [[LOCATION:location_1|Berlin]] a short time after its establishment, though it is possible that in the spring of
 1939 he had not yet been formally appointed to direct the affairs of this Centre. From
 the Chart N/2, which he himself drew up, it appears that he received the formal
 appointment at the beginning of October 1939 (see also T/43, p. 5).
-66. In the meantime, Hitler established his domination over Bohemia and Moravia first, in the autumn of 1938, over Sudetenland, and later, in March 1939, also over
+66. In the meantime, Hitler established his domination over [[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]] first, in the autumn of 1938, over [[LOCATION:location_74|Sudetenland]], and later, in March 1939, also over
 the interior of the country - and the Protectorate was set up there. Thus the Jews of
-Bohemia and Moravia also were caught in the trap. The Accused moved from Vienna
-to Prague, together with his superior, Stahlecker, and was given the task of setting up
-there also a Central Office for Emigration like the one in Vienna.
+[[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]] also were caught in the trap. The Accused moved from [[LOCATION:location_3|Vienna]]
+to [[LOCATION:location_4|Prague]], together with his superior, Stahlecker, and was given the task of setting up
+there also a Central Office for Emigration like the one in [[LOCATION:location_3|Vienna]].
 We heard from Dr. Paul Meretz, who was then chairman of the Czech Zionist
 Organization, about the activity of this Central Office in the short period from its
 establishment to the outbreak of war. Here, too, great pressure was exercised upon
@@ -2925,7 +2925,7 @@ rest of his property, so that he left the country bare of all his property, with
 exception of baggage weighing a few kilogrammes (Session 19, Vol. I, p. 294-295,
 and see also the evidence of Mrs. Walli Zimet, supra, p. 297).
 67. After the outbreak of war, in the autumn of 1939, the Accused was recalled to
-Berlin. In the meantime he had risen to the rank of Hauptsturmfuehrer (Captain). To
+[[LOCATION:location_1|Berlin]]. In the meantime he had risen to the rank of Hauptsturmfuehrer (Captain). To
 conclude our survey of this period, of the setting-up of the Central Offices for
 Emigration, we quote from personnel reports about the Accused - first from one of the
 reports contained in exhibit T/55 (3):
@@ -2937,28 +2937,28 @@ And from another, later, report, signed by the head of the Personnel Department 
 the RSHA (contained in exhibit T/55 (12)), in which he proposes that the Accused be
 promoted:
 "on the basis of the exceptionally fine achievements of Eichmann, who had already
-distinguished himself by purging the Ostmark (Austria) of Jews, when he was in
+distinguished himself by purging the Ostmark ([[LOCATION:location_14|Austria]]) of Jews, when he was in
 charge of the Central Office for Jewish Emigration. Thanks to Eichmann's work,
 tremendous assets were secured for the German Reich. Similarly, Eichmann's work
 was excellent in the Protectorate, where he displayed striking initiative and the
 requisite stubbornness."
 If we translate these words of praise into ordinary language, we can agree, on the
 basis of the evidence before us, that the Accused played a major role in forcing the
-Jews to emigrate, especially from Austria and the Protectorate area, while robbing
+Jews to emigrate, especially from [[LOCATION:location_14|Austria]] and the Protectorate area, while robbing
 them of their private property and that of their institutions. These Jews, in tens of
 thousands, were thus saved a much more bitter fate, but the Attorney General is right
 in emphasizing that it was not in order to rescue them that the Accused carried out
 his work, but because at that time he, too, did not yet know what fate was in store for
 those who did not manage to escape in time.
-Thus the Accused returned to Berlin, crowned with success in the eyes of his
+Thus the Accused returned to [[LOCATION:location_1|Berlin]], crowned with success in the eyes of his
 superiors, and especially of his commander, Heydrich. It is not surprising, therefore,
 that from then on central responsibilities were placed upon him in regard to the battle
 against the opponent - Jewry.
 THE SECOND STAGE
 FROM THE OUTBREAK OF THE WORLD WAR TO MID-1941
-68. When war broke out in early September 1939, and Poland was immediately
-divided between Germany and the Soviet Union, persecution of the Jews reached a
-new stage which was continued until Hitler attacked the Soviet Union in June 1941.
+68. When war broke out in early September 1939, and [[LOCATION:location_5|Poland]] was immediately
+divided between [[LOCATION:location_2|Germany]] and the [[LOCATION:location_6|Soviet Union]], persecution of the Jews reached a
+new stage which was continued until Hitler attacked the [[LOCATION:location_6|Soviet Union]] in June 1941.
 At this stage, there are various conflicting attitudes in regard to this matter amongst
 the German rulers. It soon became evident that there was no hope of "purging" the
 German-ruled territory of its Jews by emigration across the seas, after masses of
@@ -2969,7 +2969,7 @@ by all means.
 over to the Germans, over two million souls, and the first wave of mass murders and
 other atrocities was set loose, carried out mainly by the SS Operations Units of the
 time, who entered Polish towns and villages in the wake of the advancing army. We
-heard about these atrocities from the witnesses Ada Lichtmann, Zvi Pachter and
+heard about these atrocities from the witnesses Ada Lichtmann, [[PERSON:witness_99|Zvi Pachter]] and
 others (see also T/358). This was the first implementation of Hitler's threat in his
 speech to the Reichstag on 30 January 1939 (T/117):
 
@@ -2977,7 +2977,7 @@ speech to the Reichstag on 30 January 1939 (T/117):
 the nations once again into a world war, then the result will not be a Bolshevized
 world and thereby a victory for the Jews, but the annihilation of the Jewish race in
 Europe."
-This trend is confirmed by the testimony of Lahousen, of the German counterespionage, at the trial of the major war criminals at Nuremberg. He said there that,
+This trend is confirmed by the testimony of Lahousen, of the German counterespionage, at the trial of the major war criminals at [[LOCATION:location_39|Nuremberg]]. He said there that,
 already in September 1939, Hitler decided upon the massacre of Polish Jewry (N/109,
 N/109a).
 The truth seems to be - and the Attorney General did not contend otherwise - that
@@ -3013,10 +3013,10 @@ Superintendent Less ("I cannot recall that I took part in this consultation. Of 
 there can be no doubt of it, since my name appears there"; p. 3151). In Court, after
 he had had time to realize the serious implication of this matter, he tried to exclude
 himself from this meeting, by denying the correctness of the document, and using the
-excuse that at the time he had not yet been transferred to Berlin (Session 88, Vol. IV
+excuse that at the time he had not yet been transferred to [[LOCATION:location_1|Berlin]] (Session 88, Vol. IV
 p.xxxx32; Session 91, Vol. IV p.xxxx9). We do not accept this excuse.
 In either case, whether the regular place of residence of the Accused on that day was
-Berlin or not, he was already handling the affairs of the Reich Central Office for
+[[LOCATION:location_1|Berlin]] or not, he was already handling the affairs of the Reich Central Office for
 
 Jewish Emigration, and his presence at this consultation was natural, even though he
 held the lowest rank of all the participants.
@@ -3025,23 +3025,23 @@ directives which Heydrich announced were to be acted upon within a short time:
 (a) the concentration of the Jews in ghettos in the large cities, "in order to have better
 control, and later for evacuation" (T/164, p. 4);
 (b) the setting up of Councils of Jewish Elders;
-(c) the deportation of Jews from the Reich to Poland (the area of the
-Generalgouvernement) on freight trains.
+(c) the deportation of Jews from the Reich to [[LOCATION:location_5|Poland]] (the area of the
+[[LOCATION:location_152|Generalgouvernement]]) on freight trains.
 71. From amongst these objectives, the Accused was to be charged with a central
-task of organizing transports from the Reich to Poland, as we shall see presently. In
+task of organizing transports from the Reich to [[LOCATION:location_5|Poland]], as we shall see presently. In
 the meantime, he continued to direct the activities of the Central Office for Emigration
-in Vienna, Prague and Berlin, through the organization of emigration overseas (T/798
+in [[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_1|Berlin]], through the organization of emigration overseas (T/798
 of 19.12.39, section 5). After the outbreak of war, emigration possibilities became
 limited. During the first few months, an opening for emigration still remained via
-Russia and Japan, and also via Sweden (T/665, p. 4).
+[[LOCATION:location_10|Russia]] and [[LOCATION:location_104|Japan]], and also via [[LOCATION:location_144|Sweden]] (T/665, p. 4).
 The Nisko Chapter
 72. The first transports dealt with by the Accused were connected with the Nisko Plan,
 which he himself devised as far back as September 1939, together with Stahlecker,
 and he supervised its implementation in person. Nisko is situated on the San river in
-the Radom district of what was the area of the Generalgouvernement, not far from
+the [[LOCATION:location_170|Radom]] district of what was the area of the [[LOCATION:location_152|Generalgouvernement]], not far from
 the border.
 The idea of the Accused, according to his Statement, was to set up a kind of Jewish
-state in the Radom district, after the evacuation of the Poles from that area. But from
+state in the [[LOCATION:location_170|Radom]] district, after the evacuation of the Poles from that area. But from
 the very beginning his intention was not a permanent settlement, but a temporary
 concentration of the Jews, prior to their deportation to another place. This is what he
 notes in exhibit T/43, p. 4:
@@ -3059,7 +3059,7 @@ Heydrich supported this plan, and in October 1939 the Accused began to carry it 
 The first transport of 1,000 men was sent from Moravska Ostrava to Nisko, as a sort
 of pioneer corps intended to prepare the place for those who would follow them. The
 
-witnesses Max Burger (Session 19, Vol. I, p. 299) and Dr. Hugo Kratky (Session 20,
+witnesses [[PERSON:witness_63|Max Burger]] (Session 19, Vol. I, p. 299) and Dr. Hugo Kratky (Session 20,
 Vol. I, p. 309) were with this transport, and from their description it transpires clearly
 that the talk about a grandiose plan is far removed from the grim reality - the Accused
 acted with complete disregard for the health and life of the deportees. They relate
@@ -3077,22 +3077,22 @@ About a quarter of the number of those transported were expelled on the followin
 morning towards the East, on foot, with the warning that anyone returning would be
 shot. Dr. Kratky was one of those. We heard from him about the misery which he and
 his friends suffered, as they walked a distance of 120-150 kilometres through the
-forests, until they reached Lublin, and thence still further towards the East. Of the fate
+forests, until they reached [[LOCATION:location_35|Lublin]], and thence still further towards the East. Of the fate
 which befell those who remained in the camp, we heard from Mr. Burger (Session 19,
 Vol. I, p. 300).
 After the camp was set up, additional transports of Jews arrived from Moravska
-Ostrava and from Vienna. Some of them were not even permitted to enter the camp,
+Ostrava and from [[LOCATION:location_3|Vienna]]. Some of them were not even permitted to enter the camp,
 but were driven on immediately, without the luggage they had brought with them. A
 transport of one thousand extremely old Jews arrived. The cold was unusual that
 winter and touched 40 degrees below zero.
 In the spring of 1940, the whole plan was liquidated, because of the objections of
-Hans Frank, the Governor General of Poland (Generalgouvernement area), who did
+[[PERSON:person_492|Hans Frank]], the Governor General of [[LOCATION:location_5|Poland]] ([[LOCATION:location_152|Generalgouvernement]] area), who did
 not want additional Jews in his territory. The survivors from amongst the deportees
 were returned to where they had come from. Of the one thousand people who started
 off with Burger and Dr. Kratky from Moravska Ostrava, three hundred returned there.
 The others were expelled or escaped across the border, into Russian territory, and
 most of them were caught there by the Germans after the German-Russian war
-broke out. The Accused ordered that those who returned to Vienna from Nisko
+broke out. The Accused ordered that those who returned to [[LOCATION:location_3|Vienna]] from Nisko
 should be registered in the police records as "returning from vocational training"
 (Umschichtung) (T/801). The responsibility for the entire operation, including all the
 human suffering which went with it, falls directly upon the Accused.
@@ -3104,9 +3104,9 @@ who are a danger to the Reich and to the community of the German people." In thi
 office, as "Reich Commissioner for the consolidation of the German people," Himmler
 immediately began expelling the Jews, and part of the Polish population, en masse,
 
-from the areas annexed to the Reich in the East (the Warthe District, East Prussia,
-Upper Eastern Silesia, and Western Prussia (T/206).
-The deported Jews were sent to the Generalgouvernement area, between the Vistula
+from the areas annexed to the Reich in the East (the Warthe District, East [[LOCATION:location_91|Prussia]],
+Upper Eastern [[LOCATION:location_103|Silesia]], and Western [[LOCATION:location_91|Prussia]] (T/206).
+The deported Jews were sent to the [[LOCATION:location_152|Generalgouvernement]] area, between the [[LOCATION:location_162|Vistula]]
 and the Bug, and in their stead "people of German origin" (Volksdeutsche) were
 brought from the Baltic countries and from Volhynia. This plan for resettlement
 (Umsiedlung) caused a kind of "organized" migration of peoples, which was
@@ -3123,12 +3123,12 @@ The property of the deportees was, of course, stolen from them for the benefit o
 Reich. For this purpose, Goering set up a special office, and as usual a highsounding name was given, to cover its real aim: "The Trusteeship Office East"
 (T/205).
 At a meeting held on 8 January 1940, presided over by the Accused, it is reported by
-the official in charge in the Generalgouvernement area, that it had happened that
+the official in charge in the [[LOCATION:location_152|Generalgouvernement]] area, that it had happened that
 people were held in locked carriages for eight days without being permitted to satisfy
 their physiological needs. One hundred persons froze to death while being
-transported (T/171). In Hans Frank's diary we read (T/253, p. 28) that during that
+transported (T/171). In [[PERSON:person_492|Hans Frank]]'s diary we read (T/253, p. 28) that during that
 period
-"Freight trains loaded with people rolled daily to the Generalgouvernement, including
+"Freight trains loaded with people rolled daily to the [[LOCATION:location_152|Generalgouvernement]], including
 carriages crammed to the top with dead bodies."
 The Accused contends that such cases happened even before he took over, and that
 he was appointed to avoid similar "mishaps." Yet he admits that
@@ -3152,7 +3152,7 @@ is no longer any mention of any consideration for women and children.
 with by Section IVD4 as from this period.
 74. The Accused maintains, in respect of this stage as well, the contention which he
 repeats over and over again later in connection with the deportation at the stage of
-the Final Solution, namely that he dealt with transport matters only, and that other
+the [[EVENT:event_389|Final Solution]], namely that he dealt with transport matters only, and that other
 authorities participated in these deportations.
 But here a distinction must be made between expulsion of the Jews and expulsion of
 the Poles. Actions against Poles were more complicated; there, for instance, it was
@@ -3163,20 +3163,20 @@ Centres" (Umwandererzentralen) (T/166, p. 7).
 As far as the Jews were concerned, no such problem existed; they were to be seized
 in their places of residence and taken to the places of deportation. The Accused
 admits transporting them, and as far as their seizure is concerned, this was eminently
-a matter within the province of the local Security Police and SD branches (see for
+a matter within the province of the local [[ORGANIZATION:org_327|Security Police and SD]] branches (see for
 instance, T/1405, at the top of p. 7), and these branches were under the direct
 supervision of the Accused in his capacity as Special Referent in this matter.
 The Deportation of the Jews of Stettin
 75. At the same time, the Jews of Stettin were being deported to the
-Generalgouvernement area. This action (as well as similar action against the Jews of
-Schneidemuehl) was out of the ordinary at this stage in the development of affairs,
+[[LOCATION:location_152|Generalgouvernement]] area. This action (as well as similar action against the Jews of
+[[LOCATION:location_163|Schneidemuehl]]) was out of the ordinary at this stage in the development of affairs,
 because here, for the first time, Jews of German nationality were deported from the
 Old Reich, and not from territories in the East recently annexed to the Reich.
 The first indication of this we find in the minutes of the above meeting dated 30
 January 1940 (exhibit T/166), at which Heydrich stated that "in the middle of
 February, one thousand Jews will be deported from Stettin, since their apartments
 are urgently required for reasons connected with the war economy, and they, too, will
-be sent to the Generalgouvernement area" (see p.7 supra).
+be sent to the [[LOCATION:location_152|Generalgouvernement]] area" (see p.7 supra).
 The deportation from Stettin was carried out during one single night in the early hours
 of 13 February 1940. The Jews were taken from their apartments. They were allowed
 to take one suitcase with them. Every head of family had to sign a waiver in respect
@@ -3185,7 +3185,7 @@ One thousand three hundred persons were evacuated; amongst them children and
 old people. If anyone was unable to walk, he was taken to the railway station on a
 stretcher.
 Twenty- four hours later, the first corpses were removed from the train. The
-deportees were taken to Lublin, and from there all of them - men, women and
+deportees were taken to [[LOCATION:location_35|Lublin]], and from there all of them - men, women and
 children - were taken on foot to villages at a distance of 26-30 kilometres from the
 town. The temperature was 22 degrees below zero and the snow was deep. During
 this march, which lasted fourteen hours, seventy-two persons fell by the way, and
@@ -3202,41 +3202,41 @@ deportation, this was his reaction:
 with which these deportations and expulsions were ordered to be carried out. Only
 fifteen days elapsed from the day the order was given until the expulsion was carried
 out." (Session 76, Vol. IV, pp. xxxx116-120.)
-The deportation of Jews from the Reich to the Generalgouvernement area again
+The deportation of Jews from the Reich to the [[LOCATION:location_152|Generalgouvernement]] area again
 aroused resistance from Frank. In March 1940, Goering responded to his pressure
 and prohibited further deportations without his and Frank's consent (T/383). But in a
 later document (T/384), we see that at the beginning of 1941, and until March 1941,
 once again Jews were deported from Eastern Territories annexed to the Reich, and
-also from Vienna, to the Generalgouvernement area. The Accused bears
-responsibility for all the deportations to the Generalgouvernement area described
+also from [[LOCATION:location_3|Vienna]], to the [[LOCATION:location_152|Generalgouvernement]] area. The Accused bears
+responsibility for all the deportations to the [[LOCATION:location_152|Generalgouvernement]] area described
 above, because of the role of "central direction" which he played in this matter, in
 accordance with the appointment he had received from Heydrich. When crossexamined by the Attorney General, he finally admits and says, in connection with the
 Stettin deportation (Session 98, Vol. IV, p.xxxx15):
 "This was divided into a number of parts, this was not one independent matter. A
 number of authorities participated. As far as I was competent to do so, I had to carry
 this out."
-The Madagascar Plan
+The [[EVENT:event_392|Madagascar Plan]]
 76. This was a plan for the total deportation of the Jews from German-ruled territory,
 which occupied the Accused considerably sometime later in the year 1940. The idea
 of deporting European Jewry to this far-off island and isolating them there was not a
 brainchild of the Accused. This idea had already been floating around in the world of
 anti-Semitic thought for a number of years. Already when he was in Department II
-112 at the SD Head Office, in March 1938, the Accused was commissioned to
+112 at the [[ORGANIZATION:org_319|SD Head Office]], in March 1938, the Accused was commissioned to
 examine the possibilities latent in this idea (T/111).
-When the armistice was signed with France, the idea received a new impetus
-towards realization, for here the chance offered itself of obtaining Madagascar for this
+When the armistice was signed with [[LOCATION:location_30|France]], the idea received a new impetus
+towards realization, for here the chance offered itself of obtaining [[LOCATION:location_114|Madagascar]] for this
 purpose from the French in the peace treaty which was to be drawn up. Until this idea
-was shelved, the Madagascar Plan was sometimes referred to by the German rulers
-as the "Final Solution" of the Jewish Question.
+was shelved, the [[EVENT:event_392|Madagascar Plan]] was sometimes referred to by the German rulers
+as the "[[EVENT:event_389|Final Solution]]" of the Jewish Question.
 In a memorandum written by Luther of the German Ministry for Foreign Affairs, in
 August 1942 (T/196), we read that the first initiative for the preparation of the actual
 plan originated there in July 1940. Luther continues (p. 2, supra):
 
-"The Madagascar Plan was received by the Head Office for Reich Security with
+"The [[EVENT:event_392|Madagascar Plan]] was received by the Head Office for Reich Security with
 enthusiasm. The Foreign Ministry is of the opinion that this is the only office capable,
 because of its experience and technically, to implement the evacuation of the Jews
 on a large scale and to guarantee control of the evacuees. Therefore, the competent
-department worked out a detailed plan for the evacuation of the Jews to Madagascar
+department worked out a detailed plan for the evacuation of the Jews to [[LOCATION:location_114|Madagascar]]
 and their settlement there, and the plan was approved by the Reichsfuhrer-SS."
 The "competent department" mentioned here was that of the Accused. His assistant,
 Dannecker, worked out, together with him, the detailed plan which is before us
@@ -3250,8 +3250,8 @@ plan materialized, everything would have been in perfect order to the satisfacti
 the Germans and the Jews; hence, his great disappointment when a change in
 political circumstances caused the plan to be shelved.
 Here, too, the Accused's version is far from the truth. Of course, even deportation to
-Madagascar would have been preferable to the physical extermination which later
-befell European Jewry. But here again, the Madagascar Plan must be viewed in
+[[LOCATION:location_114|Madagascar]] would have been preferable to the physical extermination which later
+befell European Jewry. But here again, the [[EVENT:event_392|Madagascar Plan]] must be viewed in
 terms of the pre-extermination period. It is sufficient to glance through the details of
 the written plan, in order to discover its true significance: The deportation of four
 million Jews - the whole of Jewry at that time under the rule of the Hitler regime within four years into exile, and their complete isolation from the outer world.
@@ -3275,9 +3275,9 @@ would be confiscated when they left their places of residence and would be
 transferred to "a central settlement fund," while the rest would be raised by imposing
 a tax on Jewish citizens in the countries of the Western Powers, payment to be
 guaranteed by the peace treaty (p. 13). The Jews of the West would also pay for the
-transport of the deportees to Madagascar, as "reparations for damage caused to the
+transport of the deportees to [[LOCATION:location_114|Madagascar]], as "reparations for damage caused to the
 
-German nation by the Jews economically and otherwise as a result of the Versailles
+German nation by the Jews economically and otherwise as a result of the [[LOCATION:location_94|Versailles]]
 Treaty" (p. 11).
 This was the RSHA version of the "Jewish State" plan, the very same plan which the
 Accused dared mention in one and the same breath with the name of Herzl from
@@ -3285,23 +3285,23 @@ whom, so he says, he drew his inspiration. In fact, there is a direct line leadi
 the forced emigration organized by the Central Office for Emigration set up by the
 Accused, via the Nisko Plan, to this plan for isolating the Jews in a slave state - a line
 of increasing severity.
-The Expulsion of the Jews of Baden
+The Expulsion of the Jews of [[LOCATION:location_185|Baden]]
 77. In October 1940, another expulsion took place, this time westward. All the Jews
-of the district of Baden and the Saar Palatinate (Saarpfalz), 7,450 in all, were
-deported to the area of unoccupied France. This was done in accordance with the
+of the district of [[LOCATION:location_185|Baden]] and the Saar Palatinate ([[LOCATION:location_232|Saarpfalz]]), 7,450 in all, were
+deported to the area of unoccupied [[LOCATION:location_30|France]]. This was done in accordance with the
 proposal of the governors of those districts. In the report found in the files of the
 German Foreign Ministry (T/674), we read of the customary cruelty in carrying out
 this deportation. All Jews, young and old (the report mentions a man 92 years old),
 were taken out of their beds at dawn. They were given a respite of a quarter of an
 hour to two hours to get ready for the journey. They had to leave all their belongings
-behind, and this is how they were taken to France. They were put into the Gurs camp
+behind, and this is how they were taken to [[LOCATION:location_30|France]]. They were put into the [[LOCATION:location_221|Gurs]] camp
 at the foot of the Pyrenees under the worst possible conditions (Session 41, Vol. II, p.
 699).
 The Accused's Section IVD4 participated in the execution of this deportation, too, by
 organizing the transport of the Jews in sealed carriages. Moreover, the Accused
 personally played an additional part at a critical moment, when the French had to be
 convinced that they should allow the entry of the trains into the unoccupied area of
-France - something which they were not obliged to permit by the terms of the
+[[LOCATION:location_30|France]] - something which they were not obliged to permit by the terms of the
 armistice (T/37, p. 143; T/637). In his testimony, he told the Court how he succeeded
 in convincing the French station master at the border railway station that these were
 German military transports, and thus succeeded in casting the Jews across the
@@ -3314,7 +3314,7 @@ affairs" (T/99). In November 1941, he reached the rank of Obersturmbannfuhrer
 Here, we must review briefly the organizational side of the handling of Jewish affairs
 within the framework of the RSHA, as it developed in the course of time. At the
 beginning, there were two aspects to this, intelligence work and executive measures.
-At the SD Head Office, intelligence work in connection with Jewish affairs was in the
+At the [[ORGANIZATION:org_319|SD Head Office]], intelligence work in connection with Jewish affairs was in the
 hands of the Accused's old Department II 112, and with the setting up of the RSHA,
 this Department was brought within the new framework as Section IIB2. Additional
 duties of intelligence against Jews abroad were carried out by Section VIH2 of the
@@ -3322,10 +3322,10 @@ RSHA, "Judaism and Anti-Semitism", headed by Hagen, the Accused's former
 colleague (T/99, pp. 24, 26 and T/647).
 
 As mentioned above, in December 1939, the Accused was transferred to Department
-IV of the RSHA, that is the Gestapo, which was the office which occupied itself with
+IV of the RSHA, that is the [[ORGANIZATION:org_344|Gestapo]], which was the office which occupied itself with
 executive police duties (T/170). Thus, the gradual transformation of the Accused from
 an intelligence officer to an executive officer, which began with his activities at the
-Central Office for Emigration in Vienna, was completed.
+Central Office for Emigration in [[LOCATION:location_3|Vienna]], was completed.
 In January 1940, his department was absorbed within the regular framework of
 Department IV as Section IVD4, "Emigration and Evacuation" (T/647). Jewish affairs,
 as such were still handled in another section of Department IV, namely Section IVD3,
@@ -3348,7 +3348,7 @@ previously within the jurisdiction of Section IIA5 (T/99, p. 8). This change-ove
 dictated by the circumstances, since confiscation of property and cancellation of
 nationality mainly affected the Jews. The intelligence side was now represented by
 Section VIIB2, "Judaism," headed by one Ballensiefen (see exhibit T/104 in extenso,
-which appears in vol. 38 of the Nuremberg Documents, German edition, at p. 60 et
+which appears in vol. 38 of the [[LOCATION:location_39|Nuremberg]] Documents, German edition, at p. 60 et
 seq.).
 In the last stage, in 1944, the Accused's Section was given a new designation, IVA4
 (T/55 (14), evidence of Huppenkothen, p. 14). In the meantime, the handling of
@@ -3356,26 +3356,26 @@ church matters was also transferred to his Section (T/37, pp. 261/2).
 The person directly in charge of the Accused from the time he joined Department IV
 was the head of the department, SS Gruppenfuhrer and Police Lt. General Mueller,
 but it is not disputed that, in fact, the Accused had direct access to Mueller, thus bypassing the head of the Group.
-THE THIRD STAGE - THE FINAL SOLUTION
-FROM THE INVASION OF RUSSIA TO THE WANNSEE CONFERENCE
-79. On 22 June 1941 Hitler began the war against the Soviet Union. At the same time,
+THE THIRD STAGE - THE [[EVENT:event_389|FINAL SOLUTION]]
+FROM THE INVASION OF [[LOCATION:location_10|RUSSIA]] TO THE [[EVENT:event_387|WANNSEE CONFERENCE]]
+79. On 22 June 1941 Hitler began the war against the [[LOCATION:location_6|Soviet Union]]. At the same time,
 came the transition of the third and final stage in the persecution of the Jews within
 the area of German influence, namely the stage of total extermination. From then
 onwards, all German actions against Jews in their places of abode, and their
 
 deportation to the East, were aimed towards extermination, which was by now
-regarded by all German authorities dealing with Jewish affairs as the Final Solution of
+regarded by all German authorities dealing with Jewish affairs as the [[EVENT:event_389|Final Solution]] of
 the Jewish Question.
 The order for extermination was given by Hitler himself at a time close to the date of
-the invasion of Russia. We do not know if the original order was ever put in writing. At
-the Wannsee Conference - upon which we shall dwell later - Heydrich speaks of the
+the invasion of [[LOCATION:location_10|Russia]]. We do not know if the original order was ever put in writing. At
+the [[EVENT:event_387|Wannsee Conference]] - upon which we shall dwell later - Heydrich speaks of the
 extermination order in disguised language ("the evacuation of the Jews to the East")
 as having been confirmed by the Fuehrer as a possible solution instead of emigration
 (T/186, p. 5). Also Luther, a Foreign Ministry official, states in a memorandum T/196,
 quoting Heydrich, that the order for "evacuation to the East" was Hitler's order.
 The first victims of the total extermination were the Jews, who were murdered en
 masse by shooting by the RSHA Operations Units. These Units were set up already
-before the invasion of Russia, and launched upon their murderous activities as soon
+before the invasion of [[LOCATION:location_10|Russia]], and launched upon their murderous activities as soon
 as the invasion began, in the rear of the advancing German army. We shall come
 back later to the activities of these groups (paras. 120-121). At this stage, we shall
 first describe the actions taken against the Jews within the Reich itself and within
@@ -3383,21 +3383,21 @@ other countries of Europe in the area of German influence, outside Eastern Europ
 In general, no direct extermination actions were committed within those countries and
 on German soil, but their Jews were rounded up and deported to the East, there to
 find their death.
-80. The implementation of the "Final Solution," in the sense of total extermination, is
+80. The implementation of the "[[EVENT:event_389|Final Solution]]," in the sense of total extermination, is
 to a certain extent connected with the stoppage of emigration of Jews from territories
 under German influence. In his Statement T/37, the Accused says (on p. 171):
-"As soon as the war against Russia began, Himmler forbade all emigration, even
+"As soon as the war against [[LOCATION:location_10|Russia]] began, Himmler forbade all emigration, even
 when opportunities existed for it." (See also the Accused's Memoirs, T/44 at pp. 93,
 101.)
-Mr. Max Plaut, in his affidavit, T/665, also puts the date of the prohibition of
-emigration at the outbreak of war against Russia (p. 4 supra). In fact, the final order
+Mr. [[PERSON:person_555|Max Plaut]], in his affidavit, T/665, also puts the date of the prohibition of
+emigration at the outbreak of war against [[LOCATION:location_10|Russia]] (p. 4 supra). In fact, the final order
 for the cessation of emigration seems to have been given by Himmler only in October
 1941 (see T/394; T/395). All emigration of Jews was prohibited as from that date,
 except in special, individual cases. But it is correct that from the outbreak of war with
-Russia, practical emigration possibilities for Jews from German-influenced territories
+[[LOCATION:location_10|Russia]], practical emigration possibilities for Jews from German-influenced territories
 were limited to such an extent that during the months until October 1941 emigration
 proceeded only in "a tiny trickle" (see T/683). From the evidence given by Mrs.
-Henschel, it appears that the last transport of emigrants from Germany left for Lisbon
+Henschel, it appears that the last transport of emigrants from [[LOCATION:location_2|Germany]] left for [[LOCATION:location_224|Lisbon]]
 on 15 October 1941, or one day earlier (Session 37, Vol. II, p. 668).
 Heydrich's Appointment by Goering
 81. We have stressed the connection between the cessation of emigration and the
@@ -3418,7 +3418,7 @@ To the extent that the competence of other central authorities be involved in th
 matter, they should be asked to co-operate.
 I also order you to supply me shortly with a general proposal in regard to preliminary
 organizational, substantive and material steps to be taken for the implementation of
-the desired Final Solution of the Jewish Question"
+the desired [[EVENT:event_389|Final Solution]] of the Jewish Question"
 The letter, dated 24 January 1939, is document T/125, mentioned above, wherein
 Heydrich was appointed to head the Reich Central Office for Jewish Emigration.
 In the above memorandum by Luther (T/196), Heydrich is quoted as saying that this
@@ -3426,7 +3426,7 @@ letter of appointment, too, was given to Heydrich by Goering in accordance with 
 order from Hitler (supra, p. 5).
 A comparison of the two documents (T/179 and T/125) shows that this time (in
 document T/179) reference is made to "a general solution of the Jewish question
-within the area under German influence in Europe" and to "the desired Final Solution
+within the area under German influence in Europe" and to "the desired [[EVENT:event_389|Final Solution]]
 of the Jewish Question." These expressions were missing in the previous document
 (T/125). The principal material difference lies in the word "evacuation," which appears
 in T/179 and does not appear in T/125. But in T/179, as well, there is no mention of
@@ -3451,7 +3451,7 @@ Ribbentrop. It read (T/682):
 
 "Sturmbannfuehrer Eichmann of the RSHA telephoned me and informed me
 confidentially that he (Heydrich) received a cable from the Fuehrer's headquarters,
-according to which the Fuehrer agreed that the Jews in Germany bear a
+according to which the Fuehrer agreed that the Jews in [[LOCATION:location_2|Germany]] bear a
 distinguishing mark. Eichmann asked my opinion as to whether this could be applied
 to Jews of foreign nationality..."
 Already on 1 September 1941 (T/635) a "Police Regulation in Regard to the Marking
@@ -3475,8 +3475,8 @@ Regulation or of the executive orders...are punishable on principle by protectiv
 custody" - that is, by deporting the Jew to a concentration camp. The instructions,
 which were phrased in extreme language according to T/209, were passed on to their
 recipients in secret, with special emphasis that they were not to be made public.
-The First Expulsions within the Framework of the "Final Solution"
-83. On 10 October 1941 a meeting held in Prague was attended, amongst others, by
+The First Expulsions within the Framework of the "[[EVENT:event_389|Final Solution]]"
+83. On 10 October 1941 a meeting held in [[LOCATION:location_4|Prague]] was attended, amongst others, by
 Heydrich (to whom in the meantime had been entrusted - in addition to his tasks as
 head of the Head Office for Reich Security - effective rule in the Protectorate) and the
 Accused. A memorandum of this meeting has been preserved and was submitted to
@@ -3486,57 +3486,57 @@ question in the Protectorate and the territory of the Old Reich, but measures al
 taken were also mentioned. The main points may be summed up thus:
 (a) The date for the beginning of evacuation had already been set earlier for 15
 October 1941.
-(b) Reference was made to difficulties with the authorities in Lodz (the Lodz Ghetto
+(b) Reference was made to difficulties with the authorities in [[LOCATION:location_81|Lodz]] (the [[LOCATION:location_81|Lodz]] Ghetto
 was intended to be one of the main places of reception for deported Jews).
 
-(c) 50,000 Jews were to be sent to Minsk and Riga.
-(d) "SS Brigadefuehrer Nebe and Rasch could also receive Jews in camps for
+(c) 50,000 Jews were to be sent to [[LOCATION:location_18|Minsk]] and [[LOCATION:location_16|Riga]].
+(d) "SS Brigadefuehrer [[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]] could also receive Jews in camps for
 Communist detainees within the operations areas. This had already begun, as was
 reported by SS Sturmbannfuehrer Eichmann."
-In connection with paragraphs (c) and (d), we shall see presently that Riga was the
-centre for Operations Unit A, commanded by Stahlecker, that Nebe commanded
-Operations Unit B (with Minsk as its centre), and that Rasch was commander of
+In connection with paragraphs (c) and (d), we shall see presently that [[LOCATION:location_16|Riga]] was the
+centre for Operations Unit A, commanded by Stahlecker, that [[PERSON:person_510|Nebe]] commanded
+Operations Unit B (with [[LOCATION:location_18|Minsk]] as its centre), and that [[PERSON:person_476|Rasch]] was commander of
 Operations Unit C.
-(e) Terezin (Theresienstadt) was decided upon as the place for the concentration of
+(e) [[LOCATION:location_34|Terezin]] ([[LOCATION:location_124|Theresienstadt]]) was decided upon as the place for the concentration of
 Jews from the Protectorate, and the memorandum includes many details in
 connection with the carrying out of the concentration and the administration of the
 ghetto to be set up there. (We shall devote a separate chapter to this later on.)
-(f) Gypsies were to be transferred to Riga.
+(f) Gypsies were to be transferred to [[LOCATION:location_16|Riga]].
 At the end of the memorandum, there is a remark:
 "Since the Fuehrer's wish is that, by the end of the year, the Jews be removed, to the
 extent possible, from the German area, all pending problems are to be solved
 immediately. Even the problem of transportation is not to present difficulties in this
 matter."
-First, Jews were expelled to Lodz. On 30 September 1941, Brunner, one of the
+First, Jews were expelled to [[LOCATION:location_81|Lodz]]. On 30 September 1941, Brunner, one of the
 Accused's assistants, who at the time was in charge of the Central Office for Jewish
-Emigration in Vienna, informs Dr. Loewenherz that:
+Emigration in [[LOCATION:location_3|Vienna]], informs Dr. [[PERSON:person_414|Loewenherz]] that:
 "because of the need of the Aryan population to change their residences, due to air
-raids, some of the Jews from the Old Reich, from the Protectorate and Vienna must
-be removed to Lodz."
+raids, some of the Jews from the Old Reich, from the Protectorate and [[LOCATION:location_3|Vienna]] must
+be removed to [[LOCATION:location_81|Lodz]]."
 A quota of 5,000 people was fixed. They were permitted to take with them luggage
 up to 50 kilogrammes and 100 Reichsmark only. Thus, from 15 October up to 2
-November 1941, 5,002 people were deported (Loewenherz Report, T/154, pp. 35, 36
+November 1941, 5,002 people were deported ([[PERSON:person_414|Loewenherz]] Report, T/154, pp. 35, 36
 of the original).
 We have received a series of documents (T/200, dated 9.10.41; T/243, dated
 11.10.41; T/222, dated 19.10.41, and T/244 - the date is not clear, but appears to be
 22.10.41), all of which show that as from 15 October 1941, 20,000 Jews, including
-5,000 Jews of Vienna, were deported from the Reich to the Lodz Ghetto, and also
+5,000 Jews of [[LOCATION:location_3|Vienna]], were deported from the Reich to the [[LOCATION:location_81|Lodz]] Ghetto, and also
 5,000 Gypsies. As far as we know, these were the first expulsions from Reich
-territory after Hitler issued the order for the Final Solution.
-The Loewenherz Report (T/154) also describes the deportations to Riga and Minsk.
-Dr. Loewenherz received information on this from Brunner on 27.10.41, and on
-25.11.41, 28.11.41 and 2.12.41, 3,000 Jews were deported from Vienna to Riga and
-Minsk.
-Amongst the deportees from Vienna to Riga was the witness Liona Neumann
+territory after Hitler issued the order for the [[EVENT:event_389|Final Solution]].
+The [[PERSON:person_414|Loewenherz]] Report (T/154) also describes the deportations to [[LOCATION:location_16|Riga]] and [[LOCATION:location_18|Minsk]].
+Dr. [[PERSON:person_414|Loewenherz]] received information on this from Brunner on 27.10.41, and on
+25.11.41, 28.11.41 and 2.12.41, 3,000 Jews were deported from [[LOCATION:location_3|Vienna]] to [[LOCATION:location_16|Riga]] and
+[[LOCATION:location_18|Minsk]].
+Amongst the deportees from [[LOCATION:location_3|Vienna]] to [[LOCATION:location_16|Riga]] was the witness [[PERSON:person_519|Liona Neumann]]
 (Session 30, Vol. I, p. 508), who was deported in January 1942.
 84. The documents submitted to us illustrate the method of carrying out these
-expulsions to Riga and Minsk, as follows:
+expulsions to [[LOCATION:location_16|Riga]] and [[LOCATION:location_18|Minsk]], as follows:
 
 (a) T/714, on 24 October 1941, the head of the Order Police (Ordnungspolizei) in
-Berlin (General Daluege) writes to the commanders of the Order Police of the Reich
-in Vienna, Prague and Riga that, during the period 1 November 1941 - 4 December
-1941, the Security Police will expel 50,000 Jews from the Old Reich, from Austria and
-the Protectorate, to the East to the vicinity of Riga and Minsk, and continues:
+[[LOCATION:location_1|Berlin]] (General Daluege) writes to the commanders of the Order Police of the Reich
+in [[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_16|Riga]] that, during the period 1 November 1941 - 4 December
+1941, the Security Police will expel 50,000 Jews from the Old Reich, from [[LOCATION:location_14|Austria]] and
+the Protectorate, to the East to the vicinity of [[LOCATION:location_16|Riga]] and [[LOCATION:location_18|Minsk]], and continues:
 "According to what has been agreed with the head of the SD and the Security Police,
 the Order Police undertakes to guard the deportation trains by posting an
 escort...details should be worked out in co-operation with the local SD authorities.
@@ -3544,7 +3544,7 @@ The duty of the escorting guards ends with the handing over of the transports in
 order at the places of destination to the competent authorities of the Security
 Police ..."
 (b) Document T/720 shows, by way of example, how the plan was carried out at the
-local level. On 11 November 1941, the Nuremberg Gestapo office sends to its
+local level. On 11 November 1941, the [[LOCATION:location_39|Nuremberg]] [[ORGANIZATION:org_344|Gestapo]] office sends to its
 affiliated authorities organizational instructions for the evacuation of Jews on 29
 November 1941. The instructions were given in reliance upon a decree by the
 Reichsfuehrer-SS (Himmler) dated 31 October 1941, bearing the reference number
@@ -3563,10 +3563,10 @@ taken away, except a watch and a wedding ring.
 (c) Document T/719 includes three letters dated 27.11.41, 3.12.41 and 11.12.41 sent
 from the Accused's office and signed by Heydrich and Mueller. They contain
 instructions to prevent the irregular transfer of property by Jewish evacuees.
-(d) In document T/302 (December 1941), the local authority in Duesseldorf informs
+(d) In document T/302 (December 1941), the local authority in [[LOCATION:location_80|Duesseldorf]] informs
 the Accused's Section - for the attention of the Accused or his deputy, and the
-commander of the SD and Security Police, Operations Unit A in Riga, that on 11
-December 1941 a train with 1,007 Jews left the Duesseldorf railway station for Riga.
+commander of the SD and Security Police, Operations Unit A in [[LOCATION:location_16|Riga]], that on 11
+December 1941 a train with 1,007 Jews left the [[LOCATION:location_80|Duesseldorf]] railway station for [[LOCATION:location_16|Riga]].
 Handwritten notes are attached to this document which cannot fail to stir the heart of
 the reader. They show the composition of the transport, according to age, sex and
 profession. 1,007 personal tragedies found their expression in lines - one line per
@@ -3576,7 +3576,7 @@ The document is continued in exhibit T/303 dated 26 December 1941, in which
 Police Captain Salitter, the commander of this transport, reports on the journey, up to
 the handing over of the unheated train at its destination in a temperature of 12
 degrees below zero on the night of 13-14 December. According to the report, there
-were in Riga previously 35,000 Jews who had been transferred to the ghetto, and he
+were in [[LOCATION:location_16|Riga]] previously 35,000 Jews who had been transferred to the ghetto, and he
 continues:
 
 "Now, from what I have heard, there are in this ghetto only 2,500 male Jews
@@ -3594,11 +3594,11 @@ these regulations - "the legal trick," to use the expression of Counsel for the 
 - lies in the fact that this "legal" arrangement was used also against Jews expelled
 from the Reich territory, as if they moved their places of residence of their own will to
 the place to which they were expelled.
-The Wannsee Conference
+The [[EVENT:event_387|Wannsee Conference]]
 86. Now we pass on, in chronological order, to the central event in the history of the
-Final Solution which, on the one hand, sums up the events of the period from the
+[[EVENT:event_389|Final Solution]] which, on the one hand, sums up the events of the period from the
 beginning of the German-Russian war, and, on the other, serves as a starting point
-for all the events which follow - that is the Wannsee Conference.
+for all the events which follow - that is the [[EVENT:event_387|Wannsee Conference]].
 On 29 November 1941, identically phrased, but personally styled invitations went out
 from the Accused's office, signed by Heydrich, to a number of persons of the rank of
 State Secretary, or holding similar ranks. Two such invitations were submitted to us,
@@ -3612,26 +3612,26 @@ concerned with the operations yet to be carried out in connection with this fina
 solution, I propose to bring up these problems as a subject for joint discussion,
 especially because of the fact that, since 15 October 1941, Jews are being
 evacuated in regular transports from the Reich territory, including the Protectorate of
-Bohemia and Moravia - to the East."
+[[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]] - to the East."
 The date set for the conference is 9 December 1941, and the letter concludes with a
 list of the other persons to whom an identical invitation was extended.
 Special invitations were sent to Buehler (State Secretary in the
-Generalgouvernement area) and to Krueger (Senior Commanding Officer of the SS
-and the Police in the Generalgouvernement). It transpires from document T/182, that
+[[LOCATION:location_152|Generalgouvernement]] area) and to [[PERSON:person_474|Krueger]] (Senior Commanding Officer of the SS
+and the Police in the [[LOCATION:location_152|Generalgouvernement]]). It transpires from document T/182, that
 Heydrich instructed the Accused to invite them, too, after learning from a
-conversation with Krueger that "from measures taken in the area of the
-Generalgouvernement lately in this sphere, it can be seen with increasing clarity that
+conversation with [[PERSON:person_474|Krueger]] that "from measures taken in the area of the
+[[LOCATION:location_152|Generalgouvernement]] lately in this sphere, it can be seen with increasing clarity that
 the Governor General (Frank) aspires to take upon himself the entire handling of the
 Jewish Question."
 
 At the last moment, the conference was deferred - perhaps because of the outbreak
-of war with the United States - and on 8 January 1942 new invitations were sent for
+of war with the [[LOCATION:location_68|United States]] - and on 8 January 1942 new invitations were sent for
 20 January 1942.
 87. At this conference, State Secretaries and S.S. officers and senior officials of the
 same rank, or near that rank, participated, representing Reich and Party offices, the
 official in charge of the Four-Year-Plan (Goering's office), the Foreign Ministry and of
-the Ministry of the Interior, the Ministry of Justice, the Ministry for the Eastern
-Occupied Territories and the Governor General in Poland. Offices controlled by
+the [[ORGANIZATION:org_301|Ministry of the Interior]], the [[ORGANIZATION:org_314|Ministry of Justice]], the Ministry for the Eastern
+Occupied Territories and the Governor General in [[LOCATION:location_5|Poland]]. Offices controlled by
 Himmler were represented by a representative of the Race and Resettlement Head
 Office, and by Heydrich, Mueller, and the Accused, as well as by the Commander of
 the SD and the Security Police in the Government General, and by the Commander
@@ -3649,12 +3649,12 @@ And he continues:
 additional possible solution, after prior appropriate approval by the Fuehrer. But
 these operations are to be regarded only as passing possibilities. The results of these
 practical experiences are already being collected, since they are invaluable in view of
-the approaching Final Solution of the Jewish Question" (supra, p. 5).
+the approaching [[EVENT:event_389|Final Solution]] of the Jewish Question" (supra, p. 5).
 A statistical survey follows, in which the number of Jews throughout Europe (also
 including countries not under German rule) is estimated at eleven million; and now
 come the decisive sentences:
 "Under suitable direction, the Jews should be brought to the East in the course of the
-Final Solution, for use as labour. In large labour gangs, with the sexes separated, the
+[[EVENT:event_389|Final Solution]], for use as labour. In large labour gangs, with the sexes separated, the
 Jews capable of work will be transported to those areas and set to road-building, in
 the course of which, without doubt, a large part of them (ein Grossteil) will fall away
 through natural losses. The surviving remnant, surely those with the greatest powers
@@ -3669,40 +3669,40 @@ information, inter alia:
 (a) Europe will be combed from the West to the East, giving priority to the Reich and
 the Protectorate.
 
-(b) A "ghetto for the aged" will be set up in Terezin, which will also take Jewish war
+(b) A "ghetto for the aged" will be set up in [[LOCATION:location_34|Terezin]], which will also take Jewish war
 invalids and those who hold medals for distinguished service.
-(c) "The 'Central Authority' (Federfuehrung) for the handling of the Final Solution of
+(c) "The 'Central Authority' (Federfuehrung) for the handling of the [[EVENT:event_389|Final Solution]] of
 the Jewish Question will be in the hands of the Reichsfuehrer-SS and the head of the
 German Police (the head of the Security Police and the SD - viz. Heydrich himself),
 without regard to geographical borders" (supra, p. 3).
-(d) "In regard to the handling of the Final Solution in the territories occupied by us
+(d) "In regard to the handling of the [[EVENT:event_389|Final Solution]] in the territories occupied by us
 and those under our influence, it has been suggested that the officials dealing with
 the matter at the Foreign Ministry contact the authorized Referent of the Security
 Police and the SD" (viz., the Accused) (supra at p.9).
 88. Not one of those present expressed any reservations to what Heydrich said. On
 the contrary, there was a complete consensus of opinion. The contribution to the
-discussion made by Buehler, representing the Generalgouvernement, is worthy of
+discussion made by Buehler, representing the [[LOCATION:location_152|Generalgouvernement]], is worthy of
 mention:
-"He (Buehler) stated that the Generalgouvernement would be glad if the Final
-Solution of this Question were launched in the area of the Generalgouvernement,
+"He (Buehler) stated that the [[LOCATION:location_152|Generalgouvernement]] would be glad if the Final
+Solution of this Question were launched in the area of the [[LOCATION:location_152|Generalgouvernement]],
 since transport was not a serious problem there and labour considerations were not
 likely to disturb the smooth running of such an action. Jews must be removed from
-the Generalgouvernement area as quickly as possible, since it was here that the Jew
+the [[LOCATION:location_152|Generalgouvernement]] area as quickly as possible, since it was here that the Jew
 represented a blatant danger as the carrier of diseases, and he was always upsetting
 the country's economy by continuous profiteering. Moreover, out of the two and a half
 million Jews to be handled, most were unfit for work" (supra, p. 14).
 And this is how the discussion ended:
 "In conclusion, various types of possible solutions were discussed, and the attitude
-taken (by representatives of the Ministry for the Eastern Occupied Territories and of
-the Generalgouvernement) was that they themselves would immediately make
-certain preparations to bring about the Final Solution in the areas concerned. At the
+taken (by representatives of the [[ORGANIZATION:org_334|Ministry for the Eastern Occupied Territories]] and of
+the [[LOCATION:location_152|Generalgouvernement]]) was that they themselves would immediately make
+certain preparations to bring about the [[EVENT:event_389|Final Solution]] in the areas concerned. At the
 same time, the creation of unrest amongst the population should be avoided" (supra,
 p. 15).
 When the Accused was asked in cross-examination in this Court what was the
 meaning of the words "various types of possible solutions" discussed towards the
 end of the conference, he answered simply: "Various ways of killing were discussed"
 (Session 106, Vol. IV, p. xxxx11).
-According to the Accused, his role at the Wannsee Conference was threefold: (a)
+According to the Accused, his role at the [[EVENT:event_387|Wannsee Conference]] was threefold: (a)
 sending invitations in accordance with particulars given to him by Heydrich; (b)
 supplying Heydrich with material for the preparation of his opening speech; (c) taking
 the minutes.
@@ -3710,19 +3710,19 @@ When the conference was over, Heydrich, Mueller and the Accused remained behind
 for a chat "by the fireside." When asked why he, too, was asked to join in this intimate
 gathering, he replied that Heydrich gave him instructions in connection with the
 preparation of the minutes.
-But the Wannsee Conference carried a more important meaning also for the Accused
+But the [[EVENT:event_387|Wannsee Conference]] carried a more important meaning also for the Accused
 personally, for it was there that his position as the authorized Referent of the RSHA
-in matters connected with the Final Solution of the Jewish Question was confirmed in
+in matters connected with the [[EVENT:event_389|Final Solution]] of the Jewish Question was confirmed in
 
 the presence of representatives of all the other authorities. This much we gather also
 from a letter sent by Heydrich to Luther (T/186) at the end of February 1942. He
 notes there with satisfaction that the basic policy for the practical implementation of
-the Final Solution had now been laid down with the full consent of all the authorities
+the [[EVENT:event_389|Final Solution]] had now been laid down with the full consent of all the authorities
 concerned, and he invites Luther to send his representative to a discussion on details
 of implementation. He requests that Luther's representative contact "my authorized
 Referent, SS Obersturmbannfuehrer Eichmann" for this purpose.
-The Implementation of the Final Solution after the Wannsee Conference
-89. We shall now review the implementation of the Final Solution in various countries
+The Implementation of the [[EVENT:event_389|Final Solution]] after the [[EVENT:event_387|Wannsee Conference]]
+89. We shall now review the implementation of the [[EVENT:event_389|Final Solution]] in various countries
 and begin with those countries in which Jews were rounded-up, brought to assembly
 points, and expelled to places of mass extermination in the East. We shall go from
 country to country and note briefly the background of events, emphasizing certain
@@ -3730,15 +3730,15 @@ facts, the description of which is necessary to lay the ground for the evaluatio
 Accused's responsibility, which will be made later on. We wish to emphasize at this
 point again that we are neither require or able to take upon ourselves the task of the
 historian, and those matters of which we will mention will be made, out of the whole
-complicated web of events of the years of the Holocaust, will necessarily be
+complicated web of events of the years of the [[EVENT:event_386|Holocaust]], will necessarily be
 fragmentary, and they are not cited here for the purpose of exhaustive historical
 description.
-90. Again, we begin with Germany itself, because the actions there served as the
+90. Again, we begin with [[LOCATION:location_2|Germany]] itself, because the actions there served as the
 prototype for what happened in the other countries from which Jews were expelled to
 the East, both in regard to the anti-Jewish legislation which preceded the expulsion,
 and also in regard to the carrying out of the expulsions themselves, naturally with
 changes necessitated by special conditions in each country.
-Of the later anti-Jewish legislation in Germany, mention should be made of:
+Of the later anti-Jewish legislation in [[LOCATION:location_2|Germany]], mention should be made of:
 (a) The order for the marking of Jewish apartments, issued in March [1942] (T/640),
 in order to complete the isolation of the Jews from the rest of the population. As with
 other anti-Jewish decrees of this kind, this order was not published in the usual way,
@@ -3748,7 +3748,7 @@ for Jews only.
 birds), according to special instructions published on 15 May 1942 (T/642).
 (c) Regulation No. 11 "legalized" the robbery of Jewish property only if the expulsion
 was to a place beyond the Reich borders. When the expulsion was to a place within
-the Reich - for instance Terezin, or in the case of a Jew who had died before crossing
+the Reich - for instance [[LOCATION:location_34|Terezin]], or in the case of a Jew who had died before crossing
 the borders of the Reich - other ways were found, so that everything should proceed
 in a proper and orderly manner. One of the ways is described in detail in a circular
 issued by the Accused's Section, signed by Suhr, the Section's expert in such
@@ -3776,7 +3776,7 @@ competent to deal with crimes committed by Jews (T/643). This completed, also
 according to the letter of the "law," the process of putting the Jew outside the pale of
 the law, which had been a matter of practice long before this.
 How expulsions from Reich territory were carried out during the period after the
-Wannsee Conference, we shall illustrate by a Duesseldorf Gestapo file submitted to
+[[EVENT:event_387|Wannsee Conference]], we shall illustrate by a [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] file submitted to
 us (exhibits T/1395-1398). The first document in this file (T/1395) is a circular dated
 31 January 1942, issued by the Accused's office and bearing his signature. The
 reference number is IVB4-2093/42g (391), which henceforth is the special marking
@@ -3784,11 +3784,11 @@ for all transports of Jews from the Reich. The circular includes instructions de
 certain categories of Jews, such as foreign nationals, which are not to be included in
 the deportations.
 For the time being, the purpose of the circular is to fix the number of people to be
-expelled. According to the circular, the Duesseldorf office collects the necessary data
+expelled. According to the circular, the [[LOCATION:location_80|Duesseldorf]] office collects the necessary data
 and transfers them to the Accused's office on 9 February 1942. Then, file T/1395
 includes "instructions for the technical implementation of the evacuation of Jews to
-the Generalgouvernement (Trawniki near Lublin)." The part played by the local
-Gestapo authorities was defined thus:
+the [[LOCATION:location_152|Generalgouvernement]] (Trawniki near [[LOCATION:location_35|Lublin]])." The part played by the local
+[[ORGANIZATION:org_344|Gestapo]] authorities was defined thus:
 "The rounding-up and arrest of individuals to be evacuated, the transport of these
 Jews in special trains of the Reich Railways according to a timetable laid down by the
 Head Office for Reich Security, in co- ordination with the Ministry of Transport, and
@@ -3797,17 +3797,17 @@ Each train will carry one thousand Jews. Each person is permitted to take with h
 fifty Reichsmark, one suitcase, a complete outfit (good shoes), bedding, food for two
 weeks, eating utensils (a plate or a pot) and a spoon. The document continues:
 "The Commander of the Security Police and the SD in Cracow is responsible for the
-reception of the evacuees in the Generalgouvernement, and for this purpose he will
-avail himself of the units of the Commander of the SS and the Police in the Lublin
+reception of the evacuees in the [[LOCATION:location_152|Generalgouvernement]], and for this purpose he will
+avail himself of the units of the Commander of the SS and the Police in the [[LOCATION:location_35|Lublin]]
 district...the departure of a deportation train is to be communicated immediately by
 means of the attached form...to the Head Office for Reich Security, Section IVB4, (b)
 to the Commander of the Security Police and the SD, SS Oberfuehrer Dr.
-Schoengarth, in Cracow, (c) to the Commander of the SS and the Police in the Lublin
+Schoengarth, in Cracow, (c) to the Commander of the SS and the Police in the [[LOCATION:location_35|Lublin]]
 district, SS Brigadefuehrer Globocnik.
 
 The arrival and orderly reception of transports at the place of destination, will be
 reported by the receiving authority (Commander of the SS and the Police in the
-Lublin district) to the Head Office for Reich Security, Section IVB4, by means of the
+[[LOCATION:location_142|Lublin district]]) to the Head Office for Reich Security, Section IVB4, by means of the
 attached form... On the completion of the operation, a general report containing
 numerical data (division according to sex, age and profession) is to be supplied to the
 Head Office for Reich Security by both the forwarding authority and the receiving
@@ -3820,7 +3820,7 @@ Accused's Section for the transfer of money from evacuated Jews to its own direc
 disposal (T/734). Perhaps this device was rather aimed against other Reich
 authorities which might benefit from Jewish property than against the Jews
 themselves, for they lost their property in any case.
-The procedure used was an instruction to the Reich Association of Jews in Germany,
+The procedure used was an instruction to the [[ORGANIZATION:org_376|Reich Association of Jews]] in [[LOCATION:location_2|Germany]],
 to ensure that each evacuated Jew "contribute" not less than twenty-five per cent of
 his cash to the Special Account "W." The Accused in his testimony explained
 (Session 77, Vol. IV, p.xxxx71) that the account was used to finance the expulsion of
@@ -3828,14 +3828,14 @@ the Jewish "contributors" themselves. Even if this explanation is correct, the b
 left over after the expulsion was completed in any case finally passed into the hands
 of the RSHA, all the accounts of the Association of Jews having been blocked in
 favour of the RSHA from the outset (T/665, p. 9).
-This is the directive transmitted by the Accused's office to the District Gestapo at
-Duesseldorf, which in turn writes on 17 March 1942 to its local branches, conveying
+This is the directive transmitted by the Accused's office to the District [[ORGANIZATION:org_344|Gestapo]] at
+[[LOCATION:location_80|Duesseldorf]], which in turn writes on 17 March 1942 to its local branches, conveying
 to them instructions requiring action by them. On 10 April 1942, a telephone message
 is received from the Accused's office stating that a transport is likely to leave
-Duesseldorf on 22 April 1942. Accordingly, the action is planned in Dusseldorf: The
+[[LOCATION:location_80|Duesseldorf]] on 22 April 1942. Accordingly, the action is planned in Dusseldorf: The
 timetable, the men to handle the matter and their duties are fixed along the lines of
-the instructions issued at Nuremberg (T/620), as mentioned above. The Gestapo
-man at Duesseldorf is charged with additional tasks before the transport leaves:
+the instructions issued at [[LOCATION:location_39|Nuremberg]] (T/620), as mentioned above. The [[ORGANIZATION:org_344|Gestapo]]
+man at [[LOCATION:location_80|Duesseldorf]] is charged with additional tasks before the transport leaves:
 He must see to it that two execution officers are present to hand the confiscation
 orders to the Jews; he has to meet with the local railway authorities to co-ordinate
 sub-transports from various points; he also has to overcome difficulties made by the
@@ -3852,40 +3852,40 @@ not to endanger the implementation of the tasks the Jewish organizations were
 required to carry out, and their liquidation. These communal workers are only to be
 evacuated gradually.
 The required reports sent to the Accused's office (for his attention or that of his
-deputy), as well as to Lublin and to Cracow, are dated 22 April 1942. They state that
-a train carrying 941 Jews left Duesseldorf on the same day for Izbica (in the Lublin
+deputy), as well as to [[LOCATION:location_35|Lublin]] and to Cracow, are dated 22 April 1942. They state that
+a train carrying 941 Jews left [[LOCATION:location_80|Duesseldorf]] on the same day for [[LOCATION:location_291|Izbica]] (in the [[LOCATION:location_35|Lublin]]
 district), and that the commander of the transport holds the amount of 47,050
 Reichsmark (941 multiplied by 50). The detailed report, as required in the above
 circular, is forwarded to the Accused's office on 29 April 1942.
 92.There is much material in file T/1395 in connection with belongings, money and
 bank deposits confiscated from evacuated Jews. Before his evacuation, every Jew
-completed a very detailed "property declaration form" (T/650), and the Gestapo
-handed over these declarations to the Chief Finance Authority at Duesseldorf. It
+completed a very detailed "property declaration form" (T/650), and the [[ORGANIZATION:org_344|Gestapo]]
+handed over these declarations to the Chief Finance Authority at [[LOCATION:location_80|Duesseldorf]]. It
 transpired that Regulation No. 11 did not apply to 91 Jews, and they were given
 confiscation orders.
 93. Already on 21 May 1942 the Accused's Section demands figures in connection
 with an additional transport, this time directed in part to the East and in part to
-Terezin. The Duesseldorf office replies on 27 May that 154 Jews can be evacuated
-from its district to the East and 1,735 to Terezin. The handling of this transport is
+[[LOCATION:location_34|Terezin]]. The [[LOCATION:location_80|Duesseldorf]] office replies on 27 May that 154 Jews can be evacuated
+from its district to the East and 1,735 to [[LOCATION:location_34|Terezin]]. The handling of this transport is
 continued in file exhibit T/1396, in which there are new instructions dated 4 June
-1942, in connection with evacuation to the East (Izbica near Lublin). These
+1942, in connection with evacuation to the East ([[LOCATION:location_291|Izbica]] near [[LOCATION:location_35|Lublin]]). These
 instructions do not differ from the former instructions, and once again the reference
 number is IVB4-2093/42g (391).
-On 18 June 1942, the Duesseldorf Gestapo informs the Accused's office that 142
+On 18 June 1942, the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] informs the Accused's office that 142
 Jews were evacuated, as part of a larger transport of a total of 1,003 Jews, collected
-from other districts in Western Germany. The handling of this transport was identical
+from other districts in Western [[LOCATION:location_2|Germany]]. The handling of this transport was identical
 with the handling of the previous transport; only this time the inmates of a Jewish
-hospital for the mentally sick in the town of Seyn near Koblenz were also evacuated,
-as stated in a cable dated 1 June 1942 and signed by the Koblenz Gestapo. The
+hospital for the mentally sick in the town of Seyn near [[LOCATION:location_236|Koblenz]] were also evacuated,
+as stated in a cable dated 1 June 1942 and signed by the [[LOCATION:location_236|Koblenz]] [[ORGANIZATION:org_344|Gestapo]]. The
 expulsion of the mentally sick Jews is also mentioned by Dr. Plaut in his affidavit
 T/665 on pp. 14-16. There is no doubt that these patients were taken directly to
-extermination in one of the extermination camps in the Lublin area.
-94. The evacuation of Jews destined for Terezin is described in file T/1397 of the
-same Duesseldorf Gestapo office, and since this is the first time that we come across
+extermination in one of the extermination camps in the [[LOCATION:location_35|Lublin]] area.
+94. The evacuation of Jews destined for [[LOCATION:location_34|Terezin]] is described in file T/1397 of the
+same [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] office, and since this is the first time that we come across
 a transport of this kind, we shall again mention a number of details here.
 On 3 July 1942 the Accused's office sends a circular dated 15 May 1942, signed by
 the Accused's deputy Guenther, comprising directives connected with evacuation to
-Terezin. The categories of evacuees are:
+[[LOCATION:location_34|Terezin]]. The categories of evacuees are:
 (a) Jews above the age of 65, and sick people above the age of 55, together with
 their spouses and children under the age of 14;
 (b) Jews who are war invalids or hold medals for distinguished service, with their
@@ -3893,23 +3893,23 @@ spouses and children up to the age of 14;
 
 (c) Jewish spouses of mixed marriages, in cases where the marriages no longer exist;
 (d) unmarried offspring of mixed marriages who are considered as Jews.
-The man responsible for the reception of the evacuated Jews at the Terezin Ghetto
-will be "the Commander of Security Police and SD Office, the Central Office for
-Jewish Emigration, Prague." A note about the transport is to be sent to :
+The man responsible for the reception of the evacuated Jews at the [[LOCATION:location_34|Terezin]] Ghetto
+will be "the Commander of [[ORGANIZATION:org_327|Security Police and SD]] Office, the Central Office for
+Jewish Emigration, [[LOCATION:location_4|Prague]]." A note about the transport is to be sent to :
 (a) the office of the Accused;
 (b) Commander of the Security Police and the SD, the Central Office for Jewish
-Emigration, Prague;
-(c) the Terezin Ghetto.
+Emigration, [[LOCATION:location_4|Prague]];
+(c) the [[LOCATION:location_34|Terezin]] Ghetto.
 The Commander of the Security Police and the SD, Central Office for Jewish
-Emigration, Prague, has to inform the Accused about the arrival and reception of the
+Emigration, [[LOCATION:location_4|Prague]], has to inform the Accused about the arrival and reception of the
 transport.
 On 21 July 1942, 965 Jews were evacuated. and on 25 July 1942, 978 Jews - 1,943
 Jews in all, over and above the estimated number included in the above-mentioned
-letter of 27 May 1942. On 4 August 1942, the Duesseldorf Gestapo informs the
+letter of 27 May 1942. On 4 August 1942, the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] informs the
 Accused's office about changes in the number, since thirteen Jews committed suicide,
 five died and six escaped. In the concluding report, dated 15 August 1942, the total
 number included in the first transport is given, and it is reported that 694 were
-included in the second transport, making a total of 1,659 Jews evacuated to Terezin.
+included in the second transport, making a total of 1,659 Jews evacuated to [[LOCATION:location_34|Terezin]].
 "Contributions" to the Special Account "W" reached the amount of 160,000
 Reichsmark.
 95. File T/1398 deals with those persons who survived previous evacuation and were
@@ -3918,7 +3918,7 @@ The file begins with a cable sent from the Accused's office on 21 May 1943, this
 signed by Kaltenbrunner, the head of the RSHA. Once again, it bears the special
 reference number for all transports from the Reich, IVB4a - 2093/42g (391).
 The cable reports that, according to an order by Himmler, all Jews are to be
-evacuated from the Reich and the Protectorate to the East and to Terezin by 30 June
+evacuated from the Reich and the Protectorate to the East and to [[LOCATION:location_34|Terezin]] by 30 June
 1943 at the very latest.
 The cable confirms the previous instructions regarding the categories of evacuees,
 but there is a further tightening up, in order to complete the evacuation operation.
@@ -3929,43 +3929,43 @@ Jewish organizations and the communities are to be evacuated and thus,
 These institutions are in fact being liquidated. In their stead - as far as is necessary
 for those Jews remaining - in order to fulfil the orders of the authorities, an
 
-organization of Jews living in mixed marriages will be set up in Berlin, which will
+organization of Jews living in mixed marriages will be set up in [[LOCATION:location_1|Berlin]], which will
 employ only the remaining spouses of mixed marriages."
-Technical instructions for transport to Auschwitz and Terezin are given, and a special
-postscript appears in the cable for Katowice and Lodz:
+Technical instructions for transport to [[LOCATION:location_286|Auschwitz]] and [[LOCATION:location_34|Terezin]] are given, and a special
+postscript appears in the cable for [[LOCATION:location_178|Katowice]] and [[LOCATION:location_81|Lodz]]:
 "On the evacuation of Jews employed by the Schmelt (Forced Labour organization)
-and of the Jews in the Lodz Ghetto (our emphasis), Obersturmbannfuehrer Eichmann,
+and of the Jews in the [[LOCATION:location_81|Lodz]] Ghetto (our emphasis), Obersturmbannfuehrer Eichmann,
 my Referent, will decide on the spot."
-On 25 May 1943, the Duesseldorf Gestapo sends information (following the usual
-pattern, to Berlin, Prague and Terezin) that on that day 32 Jews were evacuated to
-Terezin. The changes which took place in the meantime in the economic situation of
+On 25 May 1943, the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] sends information (following the usual
+pattern, to [[LOCATION:location_1|Berlin]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_34|Terezin]]) that on that day 32 Jews were evacuated to
+[[LOCATION:location_34|Terezin]]. The changes which took place in the meantime in the economic situation of
 the Jews who remained, finds expression in a minute of 6 July 1943, which states
 that 22 Jews (out of the 32 evacuated) did not have the permitted 50 marks and
 could not deposit them.
-The file of the Duesseldorf Gestapo contains no material in connection with the
-evacuation to Auschwitz, in pursuance of the above cable of 21 May 1943, and we
+The file of the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]] contains no material in connection with the
+evacuation to [[LOCATION:location_286|Auschwitz]], in pursuance of the above cable of 21 May 1943, and we
 do not know if this material was lost or if such evacuation did not take place, because
 there were no Jews left for evacuation in that district. But there is in file T/1398 one
-more list of nine Jews evacuated to Terezin on 9 September 1943, and it seems that
+more list of nine Jews evacuated to [[LOCATION:location_34|Terezin]] on 9 September 1943, and it seems that
 this completed the operation, leaving in that district only couples living in mixed
 marriages and offspring of those categories who were not subject to evacuation.
-96. In connection with expulsions of Jews from the Reich, Austria and the
-Protectorate to the East and to Terezin, we wish to point out two more special
+96. In connection with expulsions of Jews from the Reich, [[LOCATION:location_14|Austria]] and the
+Protectorate to the East and to [[LOCATION:location_34|Terezin]], we wish to point out two more special
 phenomena:
-(a) The expulsion to Terezin was called technically "change of residence" (T/850),
-and the plundering of the property of the Jews expelled to Terezin sometimes took on
+(a) The expulsion to [[LOCATION:location_34|Terezin]] was called technically "change of residence" (T/850),
+and the plundering of the property of the Jews expelled to [[LOCATION:location_34|Terezin]] sometimes took on
 a special form. Exhibit T/854, which was submitted to us, is a sample of "a Home
 Purchase Contract." Such contracts were made, nominally, between the Association
 of Jews and the candidate for expulsion. The candidate transferred his property to
 the Association (in the case of T/854 over 200,000 Reichsmark) and, in consideration,
-the Association undertook to grant him housing in Terezin, as well as food and
+the Association undertook to grant him housing in [[LOCATION:location_34|Terezin]], as well as food and
 medical care for life.
 The transfer of property to the Association of Jews amounted to confiscation,
 because, as has been stated, the accounts of the Association were blocked in favour
 of the RSHA, and when the Association was liquidated in 1943, final ownership was
 vested in the RSHA. This also applied to property of public institutions first
-transferred to the Association and to the huge "emigration funds" in Vienna and
-Prague which were fed, in the last analysis, from the property of the Jewish
+transferred to the Association and to the huge "emigration funds" in [[LOCATION:location_3|Vienna]] and
+[[LOCATION:location_4|Prague]] which were fed, in the last analysis, from the property of the Jewish
 communities (vide, for instance, the original document T/154 at p. 44).
 To demonstrate the authority of the Accused's Section over the public property of
 German Jewry, we shall mention here also exhibit T/681, containing a list of Jewish
@@ -3973,11 +3973,11 @@ communities to be merged in the Association of Jews, and an order dated 27 May
 1941, signed by the Accused, ordering that one of the communities mentioned in the
 
 list be, in fact, so merged. All the communities mentioned are in the Province of
-Baden, from which the Jews were evacuated already in 1940, as will be remembered.
+[[LOCATION:location_185|Baden]], from which the Jews were evacuated already in 1940, as will be remembered.
 Exhibits T/745, T/746 and N/27 testify to the transfer of the Jewish hospital in
 Nordrach to a Nazi institution by the name of Lebensborn in the autumn of 1942. In
 letter T/746 it is stated that:
-"...the property belongs to the Reich Association of Jews, which is subject to the
+"...the property belongs to the [[ORGANIZATION:org_376|Reich Association of Jews]], which is subject to the
 authority of Obersturmbannfuehrer Eichmann in Department IV of the RSHA, as
 being an institution of the Security Police."
 Therefore the application for the transfer of the property is addressed to the Accused.
@@ -3991,7 +3991,7 @@ not relate in detail. The conclusion reached at the stage of the final evacuatio
 be seen in circular T/761, dated 5 March 1943, emanating from the Accused's office
 and signed by Kaltenbrunner. The circular gives a list of countries, nationality of
 which will not exclude the Jew from the application of the general decrees. In 1944,
-Hungary was also added to the list.
+[[LOCATION:location_24|Hungary]] was also added to the list.
 In connection with property, the circular reads as follows:
 "Since it has not been possible to reach final agreement with the various foreign
 governments in connection with the handling of the property of Jews of foreign
@@ -4008,7 +4008,7 @@ taken until then:
 "Since there have been a number of extensions of the dates set at the time - with the
 implied or explicit consent of this office - for foreign governments in regard to the
 return of their Jewish nationals to their countries, no further consent is to be given for
-any more extensions or concessions. At the present stage of the Final Solution of the
+any more extensions or concessions. At the present stage of the [[EVENT:event_389|Final Solution]] of the
 Jewish Question within the Reich, there are now on Reich territory only Jews who
 have entered into mixed marriages (Jewish-German) and a number of Jews of
 foreign nationality. To the extent that you have agreed to the evacuation of Jews of
@@ -4017,8 +4017,8 @@ presumed that in most cases action for their repatriation was taken by the count
 
 concerned. In order that we may reach a complete solution in this respect, a final
 date must be set for the governments concerned to carry out the repatriation."
-There follows a list of the countries concerned, namely: Italy, Switzerland, Spain,
-Portugal, Denmark, Sweden, Finland, Hungary, Romania and Turkey. The letter
+There follows a list of the countries concerned, namely: [[LOCATION:location_19|Italy]], [[LOCATION:location_53|Switzerland]], [[LOCATION:location_92|Spain]],
+[[LOCATION:location_217|Portugal]], [[LOCATION:location_22|Denmark]], [[LOCATION:location_144|Sweden]], Finland, [[LOCATION:location_24|Hungary]], [[LOCATION:location_129|Romania]] and [[LOCATION:location_48|Turkey]]. The letter
 concludes with a proposal to grant exit visas to nationals of these countries only up to
 31 July 19 July 1943, and to equate their status with that of Jews of German
 nationality as from 3 August 1943.
@@ -4030,14 +4030,14 @@ German rule. The German Foreign Ministry also sends copies of this circular on 1
 October 1943 to its branches in the occupied territories and to embassies in the
 countries concerned (T/786). The gist of the circular is that all Jews who are subjects
 of the countries mentioned are to be evacuated within a few days. Men above the
-age of 14 are to be sent to Buchenwald, and women and children up to the age of 14
+age of 14 are to be sent to [[LOCATION:location_33|Buchenwald]], and women and children up to the age of 14
 to Ravensbrueck.
-97. Such is the pattern of evacuation from the Old Reich, Austria and the
+97. Such is the pattern of evacuation from the Old Reich, [[LOCATION:location_14|Austria]] and the
 Protectorate, and the only difference - which is merely formal - between the
 implementation in these various parts of the Reich is that the executive instruments in
 the Old Reich were the various State Police authorities (Stapostellen,
-Stapoleitstellen), whilst in Austria and the Protectorate there were the Central Offices
-for Jewish Emigration in Vienna and Prague (see T/737, p. 1). The difference is not
+Stapoleitstellen), whilst in [[LOCATION:location_14|Austria]] and the Protectorate there were the Central Offices
+for Jewish Emigration in [[LOCATION:location_3|Vienna]] and [[LOCATION:location_4|Prague]] (see T/737, p. 1). The difference is not
 material, because all these authorities are affiliated to Department IV of the RSHA
 and received their instructions in regard to Jewish affairs from the Accused's Section.
 98. Outside the Reich, the RSHA, and within it the Accused's Section, acted through
@@ -4046,7 +4046,7 @@ Police (BdS) or to local diplomatic representatives, or within a similar adminis
 framework, as explained by the Accused on page 151 et seq. of his Statement T/37.
 In spite of the fact that these Advisers were subordinate to the BdS or to the local
 diplomatic representative, they received their substantive orders from headquarters in
-Berlin, and especially from the Accused's Section, to which they were directly
+[[LOCATION:location_1|Berlin]], and especially from the Accused's Section, to which they were directly
 subordinate. This is admitted by the Accused in his Statement, at p. 412, when asked
 about the status of these Advisers:
 "Q. ...They belonged to your Section IVB4?
@@ -4076,59 +4076,59 @@ because of the complete domination by the Germans over that country. We do not
 intend to go into these matters at length. Here, too, we shall follow our usual plan and
 point out, in connection with each country, only those matters which in our opinion
 are required for the evaluation of the Accused's responsibility.
-100. In Vichy France it was Abetz, Hitler's Ambassador, who first proposed measures
+100. In [[LOCATION:location_211|Vichy]] [[LOCATION:location_30|France]] it was Abetz, Hitler's Ambassador, who first proposed measures
 against the Jews as early as August 1940. But Heydrich, jealous of the authority of
 the RSHA, immediately demands that the Security Police unit in the country be
 brought in (T/388). In fact, the handling of Jewish affairs is handed over to Advisers
 from the Accused's Section, first Dannecker, and then Roethke and Brunner. The first
 document written by Dannecker, in T/389, is dated 28 January 1941 and contains a
 proposal to set up concentration camps for Jews of foreign nationality, of whom there
-were many in France.
+were many in [[LOCATION:location_30|France]].
 Indeed, we see that in October 1941 over seven thousand Jews had already been
-placed in the concentration camps of Drancy, Pithiviers and Beaune-la-Rolande,
+placed in the concentration camps of [[LOCATION:location_207|Drancy]], Pithiviers and [[LOCATION:location_209|Beaune-la-Rolande]],
 most of them stateless Jews. In a memorandum dated 22 February 1942 (exhibit
 T/400), Dannecker describes the continuation of preparations for evacuation, with the
-help of the Judenpolizei of the Vichy Government and stresses the central role which
-he demands for himself in all activities against the Jews of France.
-On 11 June 1942, a consultation was held in the Accused's Section in Berlin,
-attended by the Advisers on Jewish Affairs in Paris, Brussels and The Hague. It was
+help of the Judenpolizei of the [[LOCATION:location_211|Vichy]] Government and stresses the central role which
+he demands for himself in all activities against the Jews of [[LOCATION:location_30|France]].
+On 11 June 1942, a consultation was held in the Accused's Section in [[LOCATION:location_1|Berlin]],
+attended by the Advisers on Jewish Affairs in [[LOCATION:location_61|Paris]], [[LOCATION:location_45|Brussels]] and [[LOCATION:location_49|The Hague]]. It was
 decided that the evacuations would include 15,000 Jews from Holland, 10,000 from
-Belgium and 100,000 from France (including the unoccupied territory) - see T/419.
+[[LOCATION:location_21|Belgium]] and 100,000 from [[LOCATION:location_30|France]] (including the unoccupied territory) - see T/419.
 Dannecker prepares detailed instructions concerning the categories of Jews to be
 evacuated, and methods of carrying out the evacuation (T/425, dated 26 June 1942).
 On 1 July 1942, a conversation takes place between the Accused and Dannecker, in
-which Himmler's order for the evacuation with all speed of all Jews from France is
+which Himmler's order for the evacuation with all speed of all Jews from [[LOCATION:location_30|France]] is
 mentioned. There will be no difficulty in implementing the evacuation in the occupied
-part of France, but when it comes to the unoccupied part, the Vichy Government
+part of [[LOCATION:location_30|France]], but when it comes to the unoccupied part, the [[LOCATION:location_211|Vichy]] Government
 
 begins to make difficulties; therefore pressure must be put on it. In the meantime,
 transports will begin from the occupied territory. The proposed rate of three weekly
 transports of one thousand Jews each is to be increased considerably within a short
-time (T/428). Dannecker continues preparations for transports to Auschwitz (T/429)
+time (T/428). Dannecker continues preparations for transports to [[LOCATION:location_286|Auschwitz]] (T/429)
 and agrees with representatives of the French police that the latter carry out, on 16
-July 1942, a round-up of thousands of stateless Jews in Paris for the transports
+July 1942, a round-up of thousands of stateless Jews in [[LOCATION:location_61|Paris]] for the transports
 (T/440). On 1 July 1942, Dannecker fixes the places from which the first transports
 will be dispatched (minutes, attached to T/429, of a conversation with the Security
 Police officials).
-The first train was due to leave the city of Bordeaux on 15 July, but it transpired that
-not enough Jews had been made ready to fill this train. Therefore, the Paris office
+The first train was due to leave the city of [[LOCATION:location_79|Bordeaux]] on 15 July, but it transpired that
+not enough Jews had been made ready to fill this train. Therefore, the [[LOCATION:location_61|Paris]] office
 cancelled the train (T/435). This enraged the Accused, as is evident from document
 T/436, which was signed by Roethke and is worthy of quotation, as evidence of the
 Accused's driving power and his status in the eyes of his subordinates:
-On 14.7.42...SS Obersturmbannfuehrer Dr. Eichmann, Berlin, telephoned. He wanted
+On 14.7.42...SS Obersturmbannfuehrer Dr. Eichmann, [[LOCATION:location_1|Berlin]], telephoned. He wanted
 to know why the train scheduled for 15 July 1942 was cancelled. I answered that
 originally the `wearers of the Star' in the provincial towns as well were to be arrested,
 but because of a new agreement made with the French Government, only stateless
 Jews were to be arrested in the meantime. The train scheduled for 15 July 1942 had
 to be cancelled, because, according to information received from the SD unit in
-Bordeaux, there were only 150 stateless Jews in Bordeaux. Because of the short
+[[LOCATION:location_79|Bordeaux]], there were only 150 stateless Jews in [[LOCATION:location_79|Bordeaux]]. Because of the short
 time at our disposal, we could not find other Jews for this train. Eichmann pointed out
 that this was a matter of prestige.
 This matter had necessitated drawn-out negotiations with the Reich Ministry of
-Transport, which had been successfully concluded, and now Paris caused the
+Transport, which had been successfully concluded, and now [[LOCATION:location_61|Paris]] caused the
 cancellation of the train. A thing like this had never happened to him. The whole
 business was 'disgraceful.' He would not inform Gruppenfuehrer Mueller of this at
-once, in order not to disgrace himself. He would have to consider whether France
+once, in order not to disgrace himself. He would have to consider whether [[LOCATION:location_30|France]]
 should not be dropped altogether, as far as evacuation was concerned. I requested
 that this should not be done and added that it was not the fault of our office if this
 train had had to be cancelled...the following trains would leave according to plan."
@@ -4139,17 +4139,17 @@ and the remainder from the unoccupied territory (T/452).
 Notice of each transport was sent to the Accused's Section and to the place of
 destination. Many such reports were submitted to us (T/444, T/447 (1)-(18), T/455,
 T/457, T/461, etc.), which refer to the period from July 1942 to March 1943. Most of
-the transports were directed to Auschwitz, and in such cases notices were sent to the
-Accused's office, to the Inspector of Concentration Camps in Oranienburg, and to the
-Auschwitz camp. A number of transports were sent "in the direction of Cholm" (for
-instance, T/1421, T/1422), which was a railway junction near Lublin, and in these
+the transports were directed to [[LOCATION:location_286|Auschwitz]], and in such cases notices were sent to the
+Accused's office, to the Inspector of Concentration Camps in [[LOCATION:location_134|Oranienburg]], and to the
+[[LOCATION:location_286|Auschwitz]] camp. A number of transports were sent "in the direction of Cholm" (for
+instance, T/1421, T/1422), which was a railway junction near [[LOCATION:location_35|Lublin]], and in these
 cases the notices were sent to the Accused's Section and to Commanders of the SD
-and Security Police in Cracow and Lublin.
+and Security Police in Cracow and [[LOCATION:location_35|Lublin]].
 
 We heard the testimony of Professor Wellers (Session 32, Vol. II, pp. 579-591), who
-was arrested in December 1941, held at the Drancy camp from June 1942, and sent
-on to Auschwitz in June 1944. He described the round-up of the Jews and the
-expulsion from the Drancy camp to the East. An especially horrifying chapter was the
+was arrested in December 1941, held at the [[LOCATION:location_207|Drancy]] camp from June 1942, and sent
+on to [[LOCATION:location_286|Auschwitz]] in June 1944. He described the round-up of the Jews and the
+expulsion from the [[LOCATION:location_207|Drancy]] camp to the East. An especially horrifying chapter was the
 expulsion of 4,000 children, separated from their parents and sent off to
 extermination, accompanied by heart-rending scenes described to this Court by the
 witness. In the documents, this chapter is reflected in an enquiry from Dannecker to
@@ -4158,36 +4158,36 @@ the Accused on 10 July 1942, asking what was to be done with these 4,000 childre
 between himself and the Accused (T/439):
 "The question of the deportation of children was discussed with
 Obersturmbannfuehrer Eichmann. He decided that, as soon as transports could
-again be dispatched to the Generalgouvernement area, transports of children would
+again be dispatched to the [[LOCATION:location_152|Generalgouvernement]] area, transports of children would
 be able to roll" (Er entschied, dass sobald der Abtransport in das
 Generalgouvernment wieder moeglich ist, Kindertransporte rollen koennen).
 On 13 August 1942, Guenther, of the Accused's Section, sends a cable (T/443),
-saying that the children can be included in the transports to Auschwitz.
-In France, as in other countries, the Germans acted as it is written: "Thou hast
+saying that the children can be included in the transports to [[LOCATION:location_286|Auschwitz]].
+In [[LOCATION:location_30|France]], as in other countries, the Germans acted as it is written: "Thou hast
 murdered, and thou hast also inherited." The looting of the victim's property was
-carried out here by a special unit, set up for this purpose by Alfred Rosenberg (see
+carried out here by a special unit, set up for this purpose by [[PERSON:person_430|Alfred Rosenberg]] (see
 report T/508 and the evidence of Professor Wellers, who was employed by the
 Germans in this unit - Session 32, Vol. II, p. 588). Nor did the Accused leave out the
-Jews who escaped to the Principality of Monaco in Southern France. His Section
-requested the Foreign Ministry to intervene with the Government of Monaco, so that
+Jews who escaped to the Principality of [[LOCATION:location_28|Monaco]] in Southern [[LOCATION:location_30|France]]. His Section
+requested the Foreign Ministry to intervene with the Government of [[LOCATION:location_28|Monaco]], so that
 the latter extradite the Jews from that territory (exhibits T/492-495).
 According to a summary dated 21 July 1943, the number of Jews evacuated had
 increased to 52,000 (T/488). Two factors hindered the speeding-up of evacuations:
-(a) Collaboration by the Vichy Government in evacuating Jews of French nationality
+(a) Collaboration by the [[LOCATION:location_211|Vichy]] Government in evacuating Jews of French nationality
 became halfhearted; (b) the Italians refused to collaborate in the part of Southern
-France they had conquered, and even permitted Jews to find shelter in territories
-occupied by them. The Accused's Section and his representatives in France went to
+[[LOCATION:location_30|France]] they had conquered, and even permitted Jews to find shelter in territories
+occupied by them. The Accused's Section and his representatives in [[LOCATION:location_30|France]] went to
 some trouble to remove the obstacles. (See, for instance, exhibit T/613 - a letter
 marked IVB4, signed by Mueller, mentioning current negotiations carried on by the
 Accused with the German Foreign Ministry to put an end to interference by the
 Italians.)
-In connection with Belgium, it was planned, as already stated, in the Accused's office
+In connection with [[LOCATION:location_21|Belgium]], it was planned, as already stated, in the Accused's office
 on 11 June 1942 that 10,000 Jews be evacuated (T/419). On 1 August 1942, the
 Accused instructed the representative of the Chief of the Security Police and the SD
-in Brussels (Ehlers, who was the first Adviser on Jewish Affairs in Belgium) to
+in [[LOCATION:location_45|Brussels]] (Ehlers, who was the first Adviser on Jewish Affairs in [[LOCATION:location_21|Belgium]]) to
 evacuate stateless Jews (T/513). By 15 September 1942, 10,000 such Jews were
 evacuated. By 11 November 1942, the number of those evacuated reached 15,000
-(T/515). A decisive date in the fate of the Jews of Belgium was the night of 4
+(T/515). A decisive date in the fate of the Jews of [[LOCATION:location_21|Belgium]] was the night of 4
 September 1943. In the plan for action of the Security Police for a round-up to be
 carried out that night (T/519), it is stated:
 
@@ -4200,13 +4200,13 @@ In the Belgian Government's report (T/520), the round-up is described as follows
 at that time that they would never be molested. A promise to this effect was made by
 General von Falkenhausen...on the initiative of Queen Elizabeth, who was supported
 by Cardinal van Roy. In spite of these undertakings, on the night between the 3rd
-and 4th of September 1943, Gestapo men and Flemish collaborators broke into the
-apartments of Belgian Jews in Antwerp and removed them forcibly from their homes,
+and 4th of September 1943, [[ORGANIZATION:org_344|Gestapo]] men and Flemish collaborators broke into the
+apartments of Belgian Jews in [[LOCATION:location_46|Antwerp]] and removed them forcibly from their homes,
 to be taken in trucks to the Dossin barracks in Malines. From this date onwards, there
-began the Jew-hunts all over the country, although the pace was slower in Brussels,
-because there the Gestapo did not have the same influence upon the other German
+began the Jew-hunts all over the country, although the pace was slower in [[LOCATION:location_45|Brussels]],
+because there the [[ORGANIZATION:org_344|Gestapo]] did not have the same influence upon the other German
 administration services as they enjoyed in other places."
-From Malines, the Jews were evacuated to Auschwitz. The number of Jews
+From Malines, the Jews were evacuated to [[LOCATION:location_286|Auschwitz]]. The number of Jews
 evacuated from Malines was 25,437, of whom 1,276 survived (p. 30 of T/520).
 101. Of the Accused's activities in Holland, we hear for the first time in December
 1941, when the question arises as to the attitude to be adopted towards Jews who
@@ -4214,11 +4214,11 @@ were members of a Dutch pro-German association. He was of the opinion that they,
 too, should not be allowed to emigrate, but their evacuation could be postponed, so
 that "their turn will come last" (T/528).
 The Adviser on Jewish Affairs in Holland is Zoepf, one of the Accused's men. We
-have already mentioned, in connection with France, that at a meeting held in the
+have already mentioned, in connection with [[LOCATION:location_30|France]], that at a meeting held in the
 Accused's Section on 11 June 1942 (T/419), it was decided to evacuate 15,000 Jews
 for the time being from Holland. On 24 September 1942, Rauter, Senior
 Commanding Officer of the SS and the Police in Holland, reports to Himmler that
-20,000 Dutch Jews were "put on the march" to Auschwitz (T/531), adding that "on 15
+20,000 Dutch Jews were "put on the march" to [[LOCATION:location_286|Auschwitz]] (T/531), adding that "on 15
 October, Dutch Jewry will be declared outlawed." (Himmler marks this report with the
 words "very good.") The witness Dr. Melkman describes to us in detail the large-scale
 round- ups which took place as a result of this plan (Session 34, Vol. II, 613-614).
@@ -4249,33 +4249,33 @@ Dutch Gulden (T/571). Here, too, Rosenberg's special unit was active in the robb
 of the property (T/508, p. 9).
 102. Expulsions from Scandinavian Countries began at the end of 1942 and
 continued throughout 1943. The Accused's Section sends a cable on 25 November
-1942 (signed by Guenther) to the Commander of the Security Police in Oslo, ordering
-the immediate evacuation of Norwegian Jews via Stettin to Auschwitz. The cable
+1942 (signed by Guenther) to the Commander of the Security Police in [[LOCATION:location_219|Oslo]], ordering
+the immediate evacuation of Norwegian Jews via Stettin to [[LOCATION:location_286|Auschwitz]]. The cable
 contains the usual instructions regarding the categories of the evacuees (nationality,
 mixed marriages, etc.) and the loss of Norwegian nationality on crossing the border.
-The very same day, a message is sent from Oslo to Stettin that 700-900 Jews would
+The very same day, a message is sent from [[LOCATION:location_219|Oslo]] to Stettin that 700-900 Jews would
 sail the next day. Arrests are carried out on the same day and, in fact, 532 Jews are
-deported from Oslo to Stettin, arriving at Stettin on 30 November 1942 and at
-Auschwitz on 1 December 1942 (exhibit T/591).
+deported from [[LOCATION:location_219|Oslo]] to Stettin, arriving at Stettin on 30 November 1942 and at
+[[LOCATION:location_286|Auschwitz]] on 1 December 1942 (exhibit T/591).
 The second wave was from 25 to 26 February 1943, and this time 158 Jews are
-expelled from Oslo via Stettin. The Accused's office (over his signature) instructs the
-local Gestapo office in Oslo to transfer these Jews to Berlin, "where they will be
-attached en bloc to one of the next transports of Jews to Auschwitz" (T/592). We
+expelled from [[LOCATION:location_219|Oslo]] via Stettin. The Accused's office (over his signature) instructs the
+local [[ORGANIZATION:org_344|Gestapo]] office in [[LOCATION:location_219|Oslo]] to transfer these Jews to [[LOCATION:location_1|Berlin]], "where they will be
+attached en bloc to one of the next transports of Jews to [[LOCATION:location_286|Auschwitz]]" (T/592). We
 heard from Mrs. Samuel how a similar number of Jews were saved by escaping to
-Sweden (Session 36, Vol. II, p. 649). In Norway, 64 Jews in all remained, all of them
+[[LOCATION:location_144|Sweden]] (Session 36, Vol. II, p. 649). In [[LOCATION:location_29|Norway]], 64 Jews in all remained, all of them
 Jewish spouses of mixed marriages, and they were concentrated in one camp. The
-Swedish Government made efforts over an extended period to secure their transfer
-to Sweden, inter alia by granting them Swedish nationality. Already on 1 March 1943
+[[ORGANIZATION:org_346|Swedish Government]] made efforts over an extended period to secure their transfer
+to [[LOCATION:location_144|Sweden]], inter alia by granting them Swedish nationality. Already on 1 March 1943
 (T/593), the Accused's Section, in a letter bearing his signature, strongly objected to
 these attempts, and on 2 October 1944, his Section finally rejected (over Guenther's
-signature) the Swedish request to have the 64 Jews transferred to Sweden (T/605).
-A total of 750 Jews was evacuated from Norway, and only 13 remained alive.
-103. In Denmark the action was concentrated over a few days at the end of
+signature) the Swedish request to have the 64 Jews transferred to [[LOCATION:location_144|Sweden]] (T/605).
+A total of 750 Jews was evacuated from [[LOCATION:location_29|Norway]], and only 13 remained alive.
+103. In [[LOCATION:location_22|Denmark]] the action was concentrated over a few days at the end of
 September and the beginning of October 1943. Most of the action failed, due to a
 `leakage' on the German side and the active assistance of all sections of the Danish
 people, from the King down to simple citizens, as was related by the witness Melchior
-in his testimony (Session 35, Vol. II, pp. 627-641). Only 202 Jews of Copenhagen fell
-into German hands at the time and were sent to Germany on 3 October 1943 (T/582).
+in his testimony (Session 35, Vol. II, pp. 627-641). Only 202 Jews of [[LOCATION:location_102|Copenhagen]] fell
+into German hands at the time and were sent to [[LOCATION:location_2|Germany]] on 3 October 1943 (T/582).
 The order for expulsion came from Himmler, through the RSHA and the Accused's
 Section, as appears from the affidavits made by von Thadden (T/584) and Mildner
 
@@ -4284,36 +4284,36 @@ Head of the Security Police, for the attention of the Accused (T/580); from a re
 T/582, sent to the RSHA with a copy to the Accused's Section; and documents
 T/587-588, which also reflect the activity of the Accused in the matter of Danish
 Jewry.
-According to reports by the Danish Government (T/589), the total number of those
-deported was about 475. They were all sent to Terezin, and thanks to the continuous
+According to reports by the [[ORGANIZATION:org_345|Danish Government]] (T/589), the total number of those
+deported was about 475. They were all sent to [[LOCATION:location_34|Terezin]], and thanks to the continuous
 interest taken by Danish institutions, their fate there was better than that of all other
-inmates. The number of those who died in Terezin was 53.
-104. From Western and Northern Europe, we move to Central, Southern and SouthEastern Europe. We shall deal first with Slovakia which was, by the grace of Hitler,
+inmates. The number of those who died in [[LOCATION:location_34|Terezin]] was 53.
+104. From Western and Northern Europe, we move to Central, Southern and SouthEastern Europe. We shall deal first with [[LOCATION:location_84|Slovakia]] which was, by the grace of Hitler,
 an autonomous state. Wisliceny acted as "Adviser on Jewish Affairs" in this country
 on behalf of the RSHA and the Accused's Section, being formally attached to Ludin,
-the German Ambassador in Bratislava.
-Three periods can be discerned in the fate of the Jews of Slovakia:
+the German Ambassador in [[LOCATION:location_73|Bratislava]].
+Three periods can be discerned in the fate of the Jews of [[LOCATION:location_84|Slovakia]]:
 (a) The first period was that of "relocation and Aryanization," about which we heard
 from the witness Dr. Abeles. About the meaning of relocation we read in document
 T/1076, dated 22 October 1941:
 "The Slovakian Minister of the Interior...is planning the concentrated settlement of
-Jews in certain places in Slovakia, thereby achieving the complete evacuation of
+Jews in certain places in [[LOCATION:location_84|Slovakia]], thereby achieving the complete evacuation of
 Jews from large areas, as well as the evacuation of the capital. This will be done by
 the setting up of ghettos - suggested by the German Counsellor, following the
-example of the Generalgouvernement."
+example of the [[LOCATION:location_152|Generalgouvernement]]."
 Concerning Aryanization, Dr. Abeles stated (Session 49, Vol. II. p. 888):
 "It was the large Jewish firms which were Aryanized, primarily industrial firms, part of
 which were owned by Jews."
 (b) The second decisive stage, that of evacuation, begins on 16 February 1942
-(T/1078). On 13 March 1942, the German Embassy in Bratislava is informed that the
+(T/1078). On 13 March 1942, the German Embassy in [[LOCATION:location_73|Bratislava]] is informed that the
 Accused will arrive "for preliminary discussion of the evacuation of 20,000 Jews from
-Slovakia" (T/1079), and on 20 March 1942 (T/1080), the Foreign Ministry transmits to
+[[LOCATION:location_84|Slovakia]]" (T/1079), and on 20 March 1942 (T/1080), the Foreign Ministry transmits to
 the German Embassy a detailed plan coming from the Head of the Security Police
 and the SD.
 The Slovak Government is to pay the German Government the sum of 500
 Reichsmark for every Jew received. The Germans justify this demand by the low
 work productivity of the Jews, "not yet trained for new trades," and by the fact that
-Jewish property in Slovakia is worth three billion Slovakian Crowns. On 29 April 1942,
+Jewish property in [[LOCATION:location_84|Slovakia]] is worth three billion Slovakian Crowns. On 29 April 1942,
 Ludin reports that the plan was confirmed by the Slovak Government, that three
 trains had already been dispatched, and that after the evacuation of 20,000 "labour
 Jews" the evacuation of the remainder (some 70,000 Jews (T/1081)) could be
@@ -4323,22 +4323,22 @@ again a number of times in documents submitted, and for the last time in documen
 
 T/1087, dated 2 May 1942, in which the Foreign Ministry defines the attitude of the
 German Government as follows:
-"The Reich Government undertakes responsibility that Jews removed from Slovakia
+"The Reich Government undertakes responsibility that Jews removed from [[LOCATION:location_84|Slovakia]]
 and received by them will remain in the Eastern areas forever, and will not be given
-any opportunity to return to Slovakia. No claim is put forward by the Germans in
+any opportunity to return to [[LOCATION:location_84|Slovakia]]. No claim is put forward by the Germans in
 regard to the property of these Jews of Slovakian nationality, except the demand for
 the payment of 500 Reichsmark in exchange for each Jew received. The Reich
-Government is to receive (abzunehmen) from Slovakia, during the month of May this
+Government is to receive (abzunehmen) from [[LOCATION:location_84|Slovakia]], during the month of May this
 year, 20,000 additional Jews, fit for labour, and send them to the East. The details
 will be arranged as heretofore."
 On 15 May 1942, the Accused's Section (over Guenther's signature) reports on the
 situation to the Foreign Ministry: 20,000 Jews - most of them fit for labour - were
-evacuated to Auschwitz and to Lublin, and on 4 May the evacuation of 20,000
-additional Jews to Lublin began, and it is intended to carry on the evacuation at the
+evacuated to [[LOCATION:location_286|Auschwitz]] and to [[LOCATION:location_35|Lublin]], and on 4 May the evacuation of 20,000
+additional Jews to [[LOCATION:location_35|Lublin]] began, and it is intended to carry on the evacuation at the
 rate of from 20,000 to 25,000 persons per month (T/1089). At the end of May, the
-embassy in Bratislava receives word that the Accused will pay a visit there, in order
+embassy in [[LOCATION:location_73|Bratislava]] receives word that the Accused will pay a visit there, in order
 "to discuss problems connected with the operation of the evacuation of Jews from
-Slovakia now in progress." The visit took place, and when in Bratislava, the Accused
+[[LOCATION:location_84|Slovakia]] now in progress." The visit took place, and when in [[LOCATION:location_73|Bratislava]], the Accused
 also met Mach, the Slovak Minister of the Interior (T/37, p. 2879 etc.).
 This stage of the evacuation was concluded at the end of June 1942, and at a
 consultation held at the office of Prime Minister Tuka, Wisliceny announced that the
@@ -4350,44 +4350,44 @@ of evacuations (T/1106, dated 13.4.43; letter signed by the Accused, dated 8.1.4
 T/1110; and the Foreign Ministry reply, dated 14.1.44, T/1111). The answer to this
 request came in a letter dated 7 February 1944, signed by the Accused (T/1112): For
 understandable reasons, he objects to visits by strangers to the camps in the East,
-and proposes instead a visit to the "Ghetto for the Aged" at Terezin, which always
+and proposes instead a visit to the "Ghetto for the Aged" at [[LOCATION:location_34|Terezin]], which always
 served to mislead foreigners, as will be mentioned later.
-Evacuations from Slovakia were renewed once again after the outbreak of revolts
+Evacuations from [[LOCATION:location_84|Slovakia]] were renewed once again after the outbreak of revolts
 there in the autumn of 1944. From a report dated 9 December 1944 (T/1130), it is
 learned that Operations Units arrested nearly 10,000 Jews, and that 7,000 were
 taken to German concentration camps.
 The summary is to be found in the testimonies of Dr. Abeles and Dr. Steiner
 (Sessions 49 and 50, Vol. II). Dr. Steiner testified that from September 1944 to March
-1945 over 12,000 Jews were expelled, some of them to Terezin and Sachsenhausen.
+1945 over 12,000 Jews were expelled, some of them to [[LOCATION:location_34|Terezin]] and Sachsenhausen.
 According to his statement, over 70,000 out of the 90,000 Slovakian Jews were
 exterminated, that is some eighty per cent (Session 50, Vol. II. p. 912). 105. The
-second "puppet state" to be set up by the Germans was Croatia.
+second "puppet state" to be set up by the Germans was [[LOCATION:location_85|Croatia]].
 Anti-Jewish laws were published there already in 1941 (T/889), and on 25 February
 1942, Artukovic, the Croatian Minister of the Interior, delivered a speech in parliament,
 
 calling for the purging of the state of its Jews (T/891). Evacuations began in the year
 1943. On behalf of the Accused's Section (T/907 and p. 1142 of his Statement T/37),
 Abromeit dealt with these matters in co-operation with Helm, the Police Attache at the
-German Embassy in Zagreb. The concentration of Jews in preparation for the
+German Embassy in [[LOCATION:location_78|Zagreb]]. The concentration of Jews in preparation for the
 expulsion was carried out by the Croatians (Ustachis) themselves. The Croatian
 Government consented to pay to the Reich thirty Reichsmark for each evacuated
 Jew (T/903). On 19 January 1943, an agreement was drawn up between Helm and
 Abromeit, on the one hand, and the Croatian Government on the other (T/907). Helm
 and Abromeit divided the work between them, leaving Helm to supervise activities
 within the state, while Abromeit was responsible for the evacuation of Jews across
-the borders of Croatia.
+the borders of [[LOCATION:location_85|Croatia]].
 On 4 March 1943 Helm cables the Foreign Ministry that the evacuation of 2,000 men
 is imminent and requests that the Accused be informed (T/908). On 10 April 1943,
 the Accused's Section enquires (signed by Guenther) when the evacuation will begin
 (T/910). The evacuation is carried out. On 15 July 1943, the RSHA enquires from the
 Police Attache about 800 Jews who, according to rumours, are still in concentration
 camps, and demands action for their evacuation to the East (T/916). A further letter
-sent by the Accused's Section during the same period deals with 400 Jews in Croatia
-for whom the Jewish Agency made efforts to obtain immigration permits to Palestine.
+sent by the Accused's Section during the same period deals with 400 Jews in [[LOCATION:location_85|Croatia]]
+for whom the [[ORGANIZATION:org_305|Jewish Agency]] made efforts to obtain immigration permits to [[LOCATION:location_57|Palestine]].
 Immigration permits for 75 children from amongst these 400 Jews were already
 confirmed. The Accused's Section issues an order to prevent the immigration to
-Palestine of the 400 Jews, by their early evacuation to the East.
-A part of Croatia was under Italian occupation. The Italians rounded up and arrested
+[[LOCATION:location_57|Palestine]] of the 400 Jews, by their early evacuation to the East.
+A part of [[LOCATION:location_85|Croatia]] was under Italian occupation. The Italians rounded up and arrested
 the Jews in the area, but did not deport them from the country (T/905-906). After the
 Badoglio coup, the RSHA took action in this area as well, and Abromeit was ordered
 to see to the evacuation of the Jews who still remained there (T/919, dated 16.9.43).
@@ -4395,33 +4395,33 @@ For this purpose, a special Operations Unit of the RSHA, commanded by Krumey,
 was sent there in October (T/920, dated 15.10.43).
 According to an official Yugoslav report (T/892, p. 9), only 1,500 out of 30,000
 Croatian Jews remained alive.
-106. As far as Serbia is concerned, we must go back to an earlier period, to the year
+106. As far as [[LOCATION:location_109|Serbia]] is concerned, we must go back to an earlier period, to the year
 1941, to describe an event which is fraught with meaning for the evaluation of the
 Accused's general attitude, as well as for the evaluation of his evidence before us. In
-April 1941, Germany attacked Yugoslavia, and Serbia became German-occupied
-territory. In the autumn of 1941, 8,000 male Jews were rounded up in Belgrade. A
+April 1941, [[LOCATION:location_2|Germany]] attacked [[LOCATION:location_25|Yugoslavia]], and [[LOCATION:location_109|Serbia]] became German-occupied
+territory. In the autumn of 1941, 8,000 male Jews were rounded up in [[LOCATION:location_138|Belgrade]]. A
 series of documents was submitted to us describing the fate of these Jews. On 8
-September 1941, the representative of the German Foreign Ministry in Belgrade,
-Benzler, proposed sending them to one of the islands in the Danube delta. This
+September 1941, the representative of the German Foreign Ministry in [[LOCATION:location_138|Belgrade]],
+Benzler, proposed sending them to one of the islands in the [[LOCATION:location_110|Danube]] delta. This
 proposal is not accepted. Benzler continues his efforts to deport the Jews, and his
-next proposal is to send them to the Generalgouvernement area or to Russia. On the
+next proposal is to send them to the [[LOCATION:location_152|Generalgouvernement]] area or to [[LOCATION:location_10|Russia]]. On the
 cable containing this proposal (exhibit T/874, dated 12.9.41), there is a note dated 13
 September in the handwriting of Rademacher, at that time the Foreign Ministry
 Adviser on Jewish Affairs, which reads as follows:
 According to information from Sturmbannfuehrer Eichmann RSHA IVDVI" (the
-reference is undoubtedly to IVB4) "there is no possibility to take them to Russia or to
+reference is undoubtedly to IVB4) "there is no possibility to take them to [[LOCATION:location_10|Russia]] or to
 
-the Generalgouvernement. Even Jews from Germany cannot be accommodated
+the [[LOCATION:location_152|Generalgouvernement]]. Even Jews from [[LOCATION:location_2|Germany]] cannot be accommodated
 there. Eichmann proposes to kill them by shooting" (Eichmann schlaegt Erschiessen
 vor).
-In the year 1948, Rademacher was questioned at Nuremberg in connection with this
+In the year 1948, Rademacher was questioned at [[LOCATION:location_39|Nuremberg]] in connection with this
 document and said (T/875, p. 3) that he made this note while reporting on the matter
 to Luther (his superior in the German Foreign Ministry); and he continues:
 "I still remember distinctly that I was sitting opposite him (Luther), when I telephoned
 the Head Office for Reich Security, and that I wrote down in my own handwriting key
 words from Eichmann's reply and passed them over to Luther during the telephone
 conversation. Eichmann said words to the effect that the army were responsible for
-order in Serbia and that it would just have to kill the rebellious Jews by shooting. In
+order in [[LOCATION:location_109|Serbia]] and that it would just have to kill the rebellious Jews by shooting. In
 reply to my further question, he repeated simply: 'Kill by shooting' (Erschiessen) and
 hung up."
 The Accused categorically denied before us that he had said these words. According
@@ -4454,18 +4454,18 @@ Accused did not succeed in reversing this assumption, because his denials, both 
 his Statement and in his evidence in Court, lacked credibility, and we are convinced
 that the Accused expressed himself as written in T/874.
 
-The Foreign Ministry informed Belgrade on 5 October 1941 (T/880) that a special
-representative of the RSHA would reach Belgrade shortly to settle the matter. This
+The Foreign Ministry informed [[LOCATION:location_138|Belgrade]] on 5 October 1941 (T/880) that a special
+representative of the RSHA would reach [[LOCATION:location_138|Belgrade]] shortly to settle the matter. This
 representative was to have been the Accused himself (T/881), but it was finally
 decided to send two other men in his stead. One of them was Suhr, who is known to
 us as a member of the staff of his Section. He was accompanied by Rademacher,
 who submitted the report on the results of this journey.
 It transpired that it was not a matter of 8,000 male Jews, but only of 4,000, and it was
 decided that 500 of them were needed by the German State Police to maintain health
-services and order in the Belgrade Ghetto. The rest "would be shot by the end of this
+services and order in the [[LOCATION:location_138|Belgrade]] Ghetto. The rest "would be shot by the end of this
 week, thus solving the problem raised by the Embassy" (T/883).
-Already in April 1941, a Special Operations Group of the Security Police, headed by
-a man by the name of Fuchs, was sent to operate in this country. In Belgrade, Krauss
+Already in April 1941, a Special [[ORGANIZATION:org_339|Operations Group]] of the Security Police, headed by
+a man by the name of Fuchs, was sent to operate in this country. In [[LOCATION:location_138|Belgrade]], Krauss
 and Helm were in command of one of the sub-units of this Group. On 16 May 194l,
 heads of departments of the RSHA were informed accordingly (T/887). We have
 before us declarations about the murderous activities of this Group (T/893-896). It set
@@ -4474,30 +4474,30 @@ the camp prisoners were taken off to the East. The official Yugoslav report (T/8
 also describes the death of the Jews in the Sajmiste camp by disease, evacuation
 and gassing. This report states that of the 47,000 Serbian Jews, there were only
 slightly more than 5,000 survivors.
-The ordinary lines of command in dealing with the Jews of Serbia did not become
+The ordinary lines of command in dealing with the Jews of [[LOCATION:location_109|Serbia]] did not become
 quite clear to us, in contrast to the situation in other countries dealt with in this
-chapter. Fuchs, who commanded the Special Operations Group there, says in his
+chapter. Fuchs, who commanded the Special [[ORGANIZATION:org_339|Operations Group]] there, says in his
 affidavit (T/894) that it was known to him that "a Standartenfuhrer, named Eichmann,
 specially appointed by the Head Office for Reich Security," used to transmit
 instructions to them in connection with the handling of the Jews. There is, however,
 no clear evidence that the Accused used to issue or transmit directives to this
-Operations Group right from the commencement of its activities in April 1941 (except
+[[ORGANIZATION:org_339|Operations Group]] right from the commencement of its activities in April 1941 (except
 for the proposal he put forward in connection with the 8,000 detainees, about whom
 we have already spoken at length.)
 On the other hand, it appears from the affidavit of Meisner, Senior Commander of
-Police in Serbia from 1942, that a special Department for Jewish Affairs was attached
+Police in [[LOCATION:location_109|Serbia]] from 1942, that a special Department for Jewish Affairs was attached
 to one Schefer, Senior Commander of the Security Police (BdS), who was active in
-Serbia in Meisner's days, and that this department received its orders from the RSHA.
-It has not been proved that in Serbia there was an Adviser on Jewish Affairs who
+[[LOCATION:location_109|Serbia]] in Meisner's days, and that this department received its orders from the RSHA.
+It has not been proved that in [[LOCATION:location_109|Serbia]] there was an Adviser on Jewish Affairs who
 belonged directly to the Accused's Section, but it is to be assumed - and thus we find
-- that the instructions to the Jewish Department attached to the BdS in Belgrade were
+- that the instructions to the Jewish Department attached to the BdS in [[LOCATION:location_138|Belgrade]] were
 transmitted to them through the Accused's Section, in accordance with the usual
 RSHA routine.
-107. The northern part of Greece was a German military- occupied territory, named
-"Salonika-Aegaeis." In July 1942, the Accused's Section already shows interest in the
-marking of Greek Jews (T/955, signed by Suhr). Wisliceny was sent to Greece in
-January 1943 "to prepare and carry out the deportation of the Jews from the Salonika
-region as planned within the framework of the Final Solution of the Jewish Question
+107. The northern part of [[LOCATION:location_26|Greece]] was a German military- occupied territory, named
+"[[LOCATION:location_101|Salonika]]-Aegaeis." In July 1942, the Accused's Section already shows interest in the
+marking of Greek Jews (T/955, signed by Suhr). Wisliceny was sent to [[LOCATION:location_26|Greece]] in
+January 1943 "to prepare and carry out the deportation of the Jews from the [[LOCATION:location_101|Salonika]]
+region as planned within the framework of the [[EVENT:event_389|Final Solution]] of the Jewish Question
 in Europe" (T/959, dated 25.1.43, a letter from IVB4 signed by Guenther). Actual
 
 operations begin in 1943 with the carrying out of the marking. Basic "legislative"
@@ -4508,25 +4508,25 @@ In accordance with the well-tried method, Merten appoints the Jewish community a
 trustee for all Jewish property in March 1943 (Order No. VII, dated 13.3.43, attached
 to Merten's second testimony of 7.6.61), and Wisliceny on 15 March 1943 completes
 the robbery by giving further instructions (T/965). Already in February 1943, the Jews
-of Salonika are concentrated in a ghetto (report of 26 February 1943 sent through the
+of [[LOCATION:location_101|Salonika]] are concentrated in a ghetto (report of 26 February 1943 sent through the
 German Foreign Ministry to the Accused, T/970), and the expulsion of 56,000 Jews
-from this area to the Generalgouvernement area (T/971) began on 15 March 1943
+from this area to the [[LOCATION:location_152|Generalgouvernement]] area (T/971) began on 15 March 1943
 and was completed at the end of May 1943 (Wisliceny's declaration, T/992, p. 4).
 Already in March 1943, the Accused also interested himself in the deportation of the
-Jews who lived in Italian-occupied territory, especially those in Athens (T/991), but for
-the time being without results. After the coup in Italy, action did begin in Athens as
-well, but in the meantime most of the Jews of Athens had succeeded in hiding or
+Jews who lived in Italian-occupied territory, especially those in [[LOCATION:location_87|Athens]] (T/991), but for
+the time being without results. After the coup in [[LOCATION:location_19|Italy]], action did begin in [[LOCATION:location_87|Athens]] as
+well, but in the meantime most of the Jews of [[LOCATION:location_87|Athens]] had succeeded in hiding or
 escaping, so that only 1,200 Jews remained there. But the 1,200 Jews of the Island
 of Rhodes still fell into the hands of the murderers in June 1944 (declaration by Lentz,
 T/999).
-As a result of the deportation, the Jewish population of Greece decreased from
+As a result of the deportation, the Jewish population of [[LOCATION:location_26|Greece]] decreased from
 77,000 to 10,000 (T/953). 108. As far as we know, the RSHA and the German
-Foreign Ministry both began to show keen interest in the Jews of Bulgaria in
+Foreign Ministry both began to show keen interest in the Jews of [[LOCATION:location_20|Bulgaria]] in
 November 1942. A letter, signed by the Accused, dated 17 January 1942, to the
 Foreign Ministry (T/928) deserves special mention. It says:
 "I must add once again that sufficient possibilities exist for the reception of Jews from
-Bulgaria. I therefore consider it appropriate to approach the Bulgarian Government
-once again, with the aim of transferring all the Jews from Bulgaria to the Reich now,
+[[LOCATION:location_20|Bulgaria]]. I therefore consider it appropriate to approach the [[ORGANIZATION:org_356|Bulgarian Government]]
+once again, with the aim of transferring all the Jews from [[LOCATION:location_20|Bulgaria]] to the Reich now,
 as part of the process of the general solution of the European Jewish problem. The
 Police Attache in Sophia will take care of the technical implementation of the
 deportation."
@@ -4534,79 +4534,79 @@ Dannecker is sent to Sophia in December 1942 as "Assistant to the Police Attache
 to handle Jewish Affairs" (letter from the Accused's Section, signed by Mueller, dated
 10.12.42, T/931). Dannecker reaches an agreement with Belev, the Bulgarian
 Commissioner for Jewish Affairs, on 22 February 1942 for the deportation of 20,000
-Jews "to the Eastern areas of Germany" (T/938), and 15 March 1943 is set as the
+Jews "to the Eastern areas of [[LOCATION:location_2|Germany]]" (T/938), and 15 March 1943 is set as the
 date for the beginning of the deportation (T/936, letter signed by Guenther from the
 Accused's office, dated 9.3.43).
 On 5 April 1943, the RSHA receives a report that until then over 4,000 Jews had
-been evacuated from Thrace and over 7,000 from Macedonia. On the other hand, the
-Bulgarians objected to the evacuation of Jews from the old part of Bulgaria (T/941),
-and they themselves mobilized 6,000 Jews from this area for work in Bulgaria. The
+been evacuated from [[LOCATION:location_254|Thrace]] and over 7,000 from [[LOCATION:location_255|Macedonia]]. On the other hand, the
+Bulgarians objected to the evacuation of Jews from the old part of [[LOCATION:location_20|Bulgaria]] (T/941),
+and they themselves mobilized 6,000 Jews from this area for work in [[LOCATION:location_20|Bulgaria]]. The
 Accused's office, in a letter dated 17 May 1943 (T/942, signed by Guenther), objects
-to this change of policy on the part of the Bulgarian Government and demands
+to this change of policy on the part of the [[ORGANIZATION:org_356|Bulgarian Government]] and demands
 intervention by the German Foreign Ministry to ensure the renewal of deportations to
 the East; but later, the Bulgarian authorities are content with transferring the Jews
 
 from Sophia to the provinces (report dated 7.6.43, T/943). We know of no further
-deportations across the borders of Bulgaria.
-109. In Italy, the position of the Jews in the national economy was impaired under the
+deportations across the borders of [[LOCATION:location_20|Bulgaria]].
+109. In [[LOCATION:location_19|Italy]], the position of the Jews in the national economy was impaired under the
 Fascist regime, but until the Badoglio coup in September 1943, they were not
 physically hurt (Mrs. Campagnano's evidence, Session 36, Vol. II, p. 656). During this
 period, the efforts of the RSHA and the Accused's Section were chiefly directed to
 removing obstacles put in their way by the Italians in the territories occupied by the
-latter, namely Southern France, Dalmatia, and Southern Greece.
-The road towards execution of the Final Solution against the Jews of Italy was
+latter, namely Southern [[LOCATION:location_30|France]], Dalmatia, and Southern [[LOCATION:location_26|Greece]].
+The road towards execution of the [[EVENT:event_389|Final Solution]] against the Jews of [[LOCATION:location_19|Italy]] was
 cleared in September 1943, when the Germans established their domination over the
-greater part of Italy. SS men began carrying out arrests (Mrs. Campagnano's
+greater part of [[LOCATION:location_19|Italy]]. SS men began carrying out arrests (Mrs. Campagnano's
 evidence, supra, pp. 656, 657). The detainees were concentrated in camps in
-Northern Italy and were deported across the Italian border (Vitale's declaration,
+Northern [[LOCATION:location_19|Italy]] and were deported across the Italian border (Vitale's declaration,
 T/633).
-An order was given by Himmler in October 1943 to arrest the 8,000 Jews of Rome
-and transfer them to Northern Italy for extermination (T/615). This task was given to
+An order was given by Himmler in October 1943 to arrest the 8,000 Jews of [[LOCATION:location_51|Rome]]
+and transfer them to Northern [[LOCATION:location_19|Italy]] for extermination (T/615). This task was given to
 the witness for the Defence, Kappler, who headed the local unit of the Security Police
 and the SD, and the Accused's assistant, Dannecker, who had already shown
-particular energy in other countries, was sent to Rome to assist him. Arrests were
+particular energy in other countries, was sent to [[LOCATION:location_51|Rome]] to assist him. Arrests were
 carried out on 17 October 1943, but the results disappointed the Germans, for only
 1,259 Jews were caught, and after the release of the children of mixed marriages and
 foreign nationals, only 1,007 remained for deportation. Further arrests followed
-(evidence of Kappler, p. 38), and the detainees were sent to Northern Italy.
+(evidence of Kappler, p. 38), and the detainees were sent to Northern [[LOCATION:location_19|Italy]].
 Kappler contends in his testimony, given in this trial, that not he, but Dannecker alone,
-carried out the operation in Rome. He does not deny the truth of the report on the
+carried out the operation in [[LOCATION:location_51|Rome]]. He does not deny the truth of the report on the
 action, signed by himself, but claims that he did not draft it (supra, p. 33). We do not
 need to decide exactly which part was played by each of these two men. It is clear to
-us that both Kappler and Dannecker took part in the action in Rome on 17 October
+us that both Kappler and Dannecker took part in the action in [[LOCATION:location_51|Rome]] on 17 October
 1943, that both of them acted in accordance with RSHA directives, and that
 Dannecker received his instructions from the Accused's Section.
-After Mussolini's release, the Italian Government, which was under Hitler's orders,
+After Mussolini's release, the [[ORGANIZATION:org_354|Italian Government]], which was under Hitler's orders,
 decided to concentrate all the Jews in Italian concentration camps. In all, 7,500 Jews
-were deported from Italy, and only just above 600 of them returned (Vitale's
+were deported from [[LOCATION:location_19|Italy]], and only just above 600 of them returned (Vitale's
 declaration, T/633).
-110. Romania
+110. [[LOCATION:location_129|Romania]]
 Dr. Loewenstein Lavi gave evidence about mass extermination actions taken against
-the Jews of Romania in the year 1941 (Session 48, Vol. 11, p. 870):
-"During the conquest of Bessarabia and Northern Bukovina, an almost complete
+the Jews of [[LOCATION:location_129|Romania]] in the year 1941 (Session 48, Vol. 11, p. 870):
+"During the conquest of [[LOCATION:location_258|Bessarabia]] and Northern Bukovina, an almost complete
 extermination took place... from the beginning of June 1941 to September 1941,
-160,000 were killed in Bessarabia. Then this was followed by a second wave in
-Bukovina...the survivors were transported to Transnistria."
+160,000 were killed in [[LOCATION:location_258|Bessarabia]]. Then this was followed by a second wave in
+Bukovina...the survivors were transported to [[LOCATION:location_256|Transnistria]]."
 
 The RSHA Operation Group D was active in this area. On 9 July 1941, one of the
-Operation Units belonging to this Group reports from Czernowitz that 100 "Jewish
+Operation Units belonging to this Group reports from [[LOCATION:location_201|Czernowitz]] that 100 "Jewish
 Communists" were killed (T/1000). The Operation Group sends information in August
-1941 about the killing of 3,106 more Jews in Czernowitz and the Dniester area (T/319,
+1941 about the killing of 3,106 more Jews in [[LOCATION:location_201|Czernowitz]] and the Dniester area (T/319,
 p. 11).
-Most of those deported to Transnistria were also exterminated, so that in this period,
+Most of those deported to [[LOCATION:location_256|Transnistria]] were also exterminated, so that in this period,
 until mid-1942, between 250,000-300,000 Jews lost their lives (pp. 872 and 876 of Dr.
 Loewenstein's evidence). On 18 June 1942, the Romanian Central Office of Statistics
-estimates that 290,000 Jews remained in Romania (excluding Transnistria) (T/1018).
+estimates that 290,000 Jews remained in [[LOCATION:location_129|Romania]] (excluding [[LOCATION:location_256|Transnistria]]) (T/1018).
 An agreement was concluded between the Germans and the Romanians on 30
 August 1941 in regard to the administration of the area between the Dniester and
-Bug rivers (Transnistria) and the area between the Bug and the Dnieper rivers
+Bug rivers ([[LOCATION:location_256|Transnistria]]) and the area between the Bug and the Dnieper rivers
 (T/1002). With regard to the Jews, it is stated:
-"Deportation of Jews from Transnistria: Their deportation across the Bug is not
+"Deportation of Jews from [[LOCATION:location_256|Transnistria]]: Their deportation across the Bug is not
 possible at the moment. For this reason, they should be concentrated in
 concentration camps and put to work until it is possible to move them to the East
 after the [military] operations are completed."
 Nonetheless, the Romanians tried to send Jews who were concentrated in
-Transnistria across the Bug river into German-occupied territory. A letter sent by the
+[[LOCATION:location_256|Transnistria]] across the Bug river into German-occupied territory. A letter sent by the
 Accused's office, signed by him on 14 April 1941 (T/1013), shows that the RSHA and
 the German Ministry for Eastern Occupied Territories object to this attempt. In his
 letter the Accused says inter alia:
@@ -4622,7 +4622,7 @@ In conclusion, he states that if the Romanians continue the deportations,
 The import of these last words becomes clear from a handwritten note on document
 T/1014, that 28,000 Jews had been exterminated, and on p. 3074 of his Statement
 T/37 the Accused says:
-"This is clear. If these Jews from Romania were marched here illegally now...then the
+"This is clear. If these Jews from [[LOCATION:location_129|Romania]] were marched here illegally now...then the
 appropriate authorities of the Eastern Administration made use of his (Himmler's)
 orders and dealt with the matter in their own way through their units."
 "Q. By exterminating them?
@@ -4630,48 +4630,48 @@ orders and dealt with the matter in their own way through their units."
 The Romanian gendarmerie reports from March to June 1943 (T/1010-1012) should
 also be mentioned in this connection in regard to the killing of Jews by the SS police.
 
-Richter, one of the Accused's men, acts against the Jews in other parts of Romania
+[[PERSON:person_417|Richter]], one of the Accused's men, acts against the Jews in other parts of [[LOCATION:location_129|Romania]]
 as an Adviser for Jewish Affairs attached to Ambassador Killinger. Two conversations
 take place on 12 December 1941 and on 23 January 1942 between him and Mihai
 Antonescu, the Romanian Deputy Prime Minister (T/1004, T/1008). The introduction
-of anti-Jewish legislation and the prohibition of the emigration of Jews from Romania
+of anti-Jewish legislation and the prohibition of the emigration of Jews from [[LOCATION:location_129|Romania]]
 were the subjects discussed at these talks.
-The evacuation of the Jews from Romania is mentioned for the first time in a letter
+The evacuation of the Jews from [[LOCATION:location_129|Romania]] is mentioned for the first time in a letter
 from the Accused's office, signed by Mueller, on 26 July 1942 (T/1021). The
 evacuation was to begin on 10 September 1942, and the plan was to deport them to
-the Lublin region,
+the [[LOCATION:location_35|Lublin]] region,
 "where those who are fit will be put to work, while the rest is to undergo the special
 treatment" (T/1023).
 In a memorandum by the German Foreign Ministry, dated 17 August 1942, it is stated
 (T/1027):
 "According to a request made by Marshal Antonescu, authority was given by the
-Deputy Prime Minister, Mihai Antonescu, for the evacuation of Jews from Romania to
+Deputy Prime Minister, [[PERSON:person_604|Mihai Antonescu]], for the evacuation of Jews from [[LOCATION:location_129|Romania]] to
 be carried out by German units..."
 The German Foreign Ministry informs the Accused on 17 September 1942 that the
-German Embassy contacted the Romanian Government, expressing the opinion that
-preparatory negotiations were over, and demanding that the Romanian Government
+German Embassy contacted the [[ORGANIZATION:org_343|Romanian Government]], expressing the opinion that
+preparatory negotiations were over, and demanding that the [[ORGANIZATION:org_343|Romanian Government]]
 state its final attitude (T/1032). Talks were held between the RSHA representative
 and the representative of the German Railways on 26 and 28 September 1942, in
-connection with the transport of 200,000 Jews from Romania in the direction of Lvov the final destination was to be Belzec (T/1284). A change occurred, however, in
-October 1942. A further conversation took place between Mihai Antonescu and
-Richter on 22 October, in which it became clear to Richter that Marshal Antonescu
+connection with the transport of 200,000 Jews from [[LOCATION:location_129|Romania]] in the direction of [[LOCATION:location_99|Lvov]] the final destination was to be [[LOCATION:location_154|Belzec]] (T/1284). A change occurred, however, in
+October 1942. A further conversation took place between [[PERSON:person_604|Mihai Antonescu]] and
+[[PERSON:person_417|Richter]] on 22 October, in which it became clear to [[PERSON:person_417|Richter]] that Marshal Antonescu
 had rejected the evacuation (T/1039).
 The Accused's Section is active during the following months, with a view to
-preventing the immigration of Jews from Romania to Palestine (see, for example,
+preventing the immigration of Jews from [[LOCATION:location_129|Romania]] to [[LOCATION:location_57|Palestine]] (see, for example,
 T/1048, dated 3.3.42, signed by the Accused; T/1049, dated 10.3.43, signed by
 Guenther; and T/1054, dated 3.5.43, signed by the Accused). But Guenther, the
 Accused's deputy, on 22 May 1943 once again requests the Foreign Ministry to
-suggest to the Romanian Government the evacuation of the Jews of Transnistria to
+suggest to the [[ORGANIZATION:org_343|Romanian Government]] the evacuation of the Jews of [[LOCATION:location_256|Transnistria]] to
 the East (T/1057). However, Marshal Antonescu does not yield to German pressure,
 and there were no more deportations from Romanian territory.
 The Accused, his Section and his men, and also the German Foreign Ministry had
 therefore, of necessity, to limit their future activities to the prevention of emigration
-from Romania. Dr. Safran, the former Chief Rabbi of Romania, in his declaration
+from [[LOCATION:location_129|Romania]]. Dr. Safran, the former Chief Rabbi of [[LOCATION:location_129|Romania]], in his declaration
 (T/1072) describes how the assistance of the churches, the Red Cross and neutral
 countries was mobilized, in order to bring about the change in Marshal Antonescu's
 attitude. This is how about half of Romanian Jewry was saved from extermination at
 the hands of the Germans.
-Hungary
+[[LOCATION:location_24|Hungary]]
 
 111. The last act in the tragedy of European Jewry under the Hitler regime is the
 catastrophe which befell Hungarian Jewry. This chapter calls for a special place in
@@ -4681,130 +4681,130 @@ hand of fate which erased most of its members suddenly from the Book of Life wit
 a few weeks. The Hungarian chapter is different from those which preceded it in
 other countries, also so far as the Accused's activities are concerned, as will be
 explained presently.
-At the beginning of the Second World War, Hungarian Jewry numbered 480,000
+At the beginning of the [[EVENT:event_383|Second World War]], Hungarian Jewry numbered 480,000
 souls, and increased during the war years to 800,000, due to the annexation of
-additional areas to Hungary. The official policy of the Hungarian Government was
+additional areas to [[LOCATION:location_24|Hungary]]. The official policy of the [[ORGANIZATION:org_329|Hungarian Government]] was
 anti-Semitic even before the War broke out, and it became intensified especially after
-Hungary entered the War on the side of Germany in 1941. Racial legislation on the
-Nuremberg pattern was introduced, as well as laws aimed at ousting Jews from the
+[[LOCATION:location_24|Hungary]] entered the War on the side of [[LOCATION:location_2|Germany]] in 1941. Racial legislation on the
+[[LOCATION:location_39|Nuremberg]] pattern was introduced, as well as laws aimed at ousting Jews from the
 economic life of the country. In the summer of 1941, a mass deportation of stateless
-Jews from Hungary to Galicia was carried out, and 12,000 of them were killed by the
+Jews from [[LOCATION:location_24|Hungary]] to [[LOCATION:location_83|Galicia]] was carried out, and 12,000 of them were killed by the
 Germans at Kamenets-Podolski.
-From 1940, male Jews were mobilized to work for the Hungarian army, and 60,00080,000 Jews were sent to work in the German-occupied areas in Galicia and the
-Ukraine in the years 1941-1942. Of these, some 45,000-50,000 died (evidence of
+From 1940, male Jews were mobilized to work for the Hungarian army, and 60,00080,000 Jews were sent to work in the German-occupied areas in [[LOCATION:location_83|Galicia]] and the
+[[LOCATION:location_12|Ukraine]] in the years 1941-1942. Of these, some 45,000-50,000 died (evidence of
 Pinhas Freudiger, Session 51, Vol. III, pp. 932), but in spite of this, the storm had not
-yet hit Hungary itself, and this land appeared to be a haven of safety for the few
-refugees, survivors of the Holocaust, who reached Hungary from Slovakia and
-Poland.
-As the Red Army approached the gates of Hungary in March 1944 through the
-Carpathian Mountains, Hitler decided to establish his domination in Hungary. He
+yet hit [[LOCATION:location_24|Hungary]] itself, and this land appeared to be a haven of safety for the few
+refugees, survivors of the [[EVENT:event_386|Holocaust]], who reached [[LOCATION:location_24|Hungary]] from [[LOCATION:location_84|Slovakia]] and
+[[LOCATION:location_5|Poland]].
+As the Red Army approached the gates of [[LOCATION:location_24|Hungary]] in March 1944 through the
+Carpathian Mountains, Hitler decided to establish his domination in [[LOCATION:location_24|Hungary]]. He
 summoned the Regent, Horthy, and by the use of threats extorted from him an
 agreement to replace the Kalai government, which was inclined to desert the Axis, by
-another government which would do the Germans' bidding. Hungary was seized by
+another government which would do the Germans' bidding. [[LOCATION:location_24|Hungary]] was seized by
 the German army on 19 March 1944, and the SS units appeared on the scene
 together with the army. Hungarian sovereignty became a "farce" from that day, as
-Horthy said in his evidence at Nuremberg (T/1246), and the Germans became
+Horthy said in his evidence at [[LOCATION:location_39|Nuremberg]] (T/1246), and the Germans became
 masters of the state. The hour had arrived for which the Germans had waited, to
-implement the Final Solution also against the Jews of Hungary. Veesenmayer, whom
-Hitler later appointed Reich Plenipotentiary in Hungary, writes, as far back as 10
+implement the [[EVENT:event_389|Final Solution]] also against the Jews of [[LOCATION:location_24|Hungary]]. Veesenmayer, whom
+Hitler later appointed Reich Plenipotentiary in [[LOCATION:location_24|Hungary]], writes, as far back as 10
 December 1943, in a report to the German Foreign Ministry:
 "It appears for a variety of reasons that the order of the day is to get a firm hold on
 the Jewish problem (ein gruendliches Anpacken). The liquidation of this problem is a
-prerequisite for involving Hungary in the war conducted by the Reich for its defence
+prerequisite for involving [[LOCATION:location_24|Hungary]] in the war conducted by the Reich for its defence
 and existence" (T/1144, p. 28).
 From a letter, T/1136, dated 25 September 1942, to the German Foreign Ministry, in
-reply to a proposal to deal separately with the Jews who escaped to Hungary, we
+reply to a proposal to deal separately with the Jews who escaped to [[LOCATION:location_24|Hungary]], we
 learn about the Accused's own attitude. He objects to this proposal because
 "experience shows that the preparation and implementation of partial actions require
 the same effort as comprehensive plans geared to cover, as far as possible, all the
 
 Jews of that country. Therefore, I do not regard it appropriate to set in motion the
 whole machinery of evacuation for the sake of resettlement (Aussiedlung) of those
-Jews who escaped at the time to Hungary, and afterwards, without any progress in
-the Solution of the Jewish Question in Hungary, the action will be held up again. For
-these reasons, I believe that it is preferable to defer this action until Hungary is ready
+Jews who escaped at the time to [[LOCATION:location_24|Hungary]], and afterwards, without any progress in
+the Solution of the Jewish Question in [[LOCATION:location_24|Hungary]], the action will be held up again. For
+these reasons, I believe that it is preferable to defer this action until [[LOCATION:location_24|Hungary]] is ready
 to include the Hungarian Jews also within the framework of these measures."
 This "strategic" approach to the matter, shown by the Accused, was fully justified by
-later events. The turn of Hungarian Jewry came after the Final Solution had been
+later events. The turn of Hungarian Jewry came after the [[EVENT:event_389|Final Solution]] had been
 carried out almost to the end in the other countries in which the Accused and his men
 had been active. Now they were free to concentrate on the implementation of the
 task which still lay before them - the extermination of Hungarian Jewry.
-So the Accused left his Berlin office and moved to the scene of action himself, with
+So the Accused left his [[LOCATION:location_1|Berlin]] office and moved to the scene of action himself, with
 most of his assistants, and the "Eichmann Special Operations Unit" set up its
-headquarters in Budapest. There he appeared at the head of the Security Police and
+headquarters in [[LOCATION:location_31|Budapest]]. There he appeared at the head of the Security Police and
 Order Police column, which had been formed a few days earlier in the Mauthausen
-camp, and entered Hungary on 19 March 1944, immediately after Horthy's surrender.
+camp, and entered [[LOCATION:location_24|Hungary]] on 19 March 1944, immediately after Horthy's surrender.
 The Accused brought with him Himmler's order for the expulsion of all the Jews from
-Hungary, after combing the country from East to West, and their deportation to
-Auschwitz (Session 103, Vol. IV, p.xxxx3). The Accused did his utmost to carry out
-the order, and if in the end about a third of the Jews of Hungary, and in particular the
-Jews of Budapest, were saved, that was in spite of his obstinate efforts to complete
+[[LOCATION:location_24|Hungary]], after combing the country from East to West, and their deportation to
+[[LOCATION:location_286|Auschwitz]] (Session 103, Vol. IV, p.xxxx3). The Accused did his utmost to carry out
+the order, and if in the end about a third of the Jews of [[LOCATION:location_24|Hungary]], and in particular the
+Jews of [[LOCATION:location_31|Budapest]], were saved, that was in spite of his obstinate efforts to complete
 the operation to the very last Jew.
-He found loyal collaborators in Hungary, who were with him heart and soul: Endre,
-the State Secretary in the Hungarian Ministry of the Interior, a fanatical anti-Semite,
+He found loyal collaborators in [[LOCATION:location_24|Hungary]], who were with him heart and soul: Endre,
+the State Secretary in the Hungarian [[ORGANIZATION:org_301|Ministry of the Interior]], a fanatical anti-Semite,
 was his chief collaborator, and with him Baky and Ferenczy of the Hungarian
 gendarmerie. A personal friendship also developed between Endre and the Accused.
-112. The first week after the German entry into Hungary saw the implementation of
+112. The first week after the German entry into [[LOCATION:location_24|Hungary]] saw the implementation of
 anti-Jewish laws which were published in quick succession, and aimed, on the
 German model, at ousting the Jews from economic life, robbing them of their property,
 confiscating their homes, limiting their freedom, and rounding them up in readiness
 for deportation. The Jews in the provinces were thrown into ghettos from 16 April
-1944, and in mid-May deportations to Auschwitz began. They continued at a feverish
+1944, and in mid-May deportations to [[LOCATION:location_286|Auschwitz]] began. They continued at a feverish
 pace until 9 July 1944.
 During this period of less than two months, 434,351 Jews were deported in 147 trains
 of sealed freight cars, about 3,000 men, women and children to each train, and the
 average was two to three trains daily. Ferenczy's report on 9 July 1944, which gives
 this total (T/1166) provides the information that:
 "The Jewish community has now been evacuated from all regions of the country,
-except from the capital Budapest. For the time being, only labour service men of the
+except from the capital [[LOCATION:location_31|Budapest]]. For the time being, only labour service men of the
 Honved (Hungarian armed forces) are in the country."
-The Auschwitz gas chambers were working to full capacity, and could hardly cope
+The [[LOCATION:location_286|Auschwitz]] gas chambers were working to full capacity, and could hardly cope
 with the pace of the transports (T/37, p. 1321).
 
 From the minutes of a meeting which took place in Munkacs between representatives
-of the Hungarian gendarmerie and the German Gestapo, we learn about the
+of the Hungarian gendarmerie and the German [[ORGANIZATION:org_344|Gestapo]], we learn about the
 transport conditions. The Hungarian officer remarks:
 "If necessary, one hundred people can be put into a single freight car. They can be
 packed like salt herrings, for the Germans need strong people. Those who cannot
-hold out will fall. Fashionable ladies are not needed there in Germany."
+hold out will fall. Fashionable ladies are not needed there in [[LOCATION:location_2|Germany]]."
 Thus, Veesenmeyer reports on 25 May 1944 on "the increased exploitation of the
 railway waggons" (staerkere Belegung der Waggons), enabling a much quicker
-completion of the programme of evacuation from Carpatho-Russia (T/1193).
+completion of the programme of evacuation from [[LOCATION:location_270|Carpatho-Russia]] (T/1193).
 Mr. Ze'ev Sapir gave evidence about the deportation of Jews from Munkacs. His
 community, 103 souls, were loaded into one freight car without food and without
-water for the whole three-day journey to Auschwitz (Session 53, Vol. III, pp. 971-972).
-When the late Dr. Kasztner and the witness Hansi Brand came to the Accused to tell
+water for the whole three-day journey to [[LOCATION:location_286|Auschwitz]] (Session 53, Vol. III, pp. 971-972).
+When the late Dr. Kasztner and the witness [[PERSON:person_674|Hansi Brand]] came to the Accused to tell
 him that a hundred people had been loaded into one freight car, this is how the
 Accused reacted:
 "He told us we were not to worry, because this only concerned Jews from CarpathoRussia, whose families were blessed with many children. These children, therefore,
 did not need so much air and so much room, and nothing would happen to them."
 (Session 58, Vol. III, p. 1048.)
 113. The Allies landed in Normandy on 6 June 1944. Important personages,
-including the King of Sweden and the Pope, intervened with Horthy to stop the
-deportations. Budapest was bombed heavily from the air. Under the impact of these
+including the King of [[LOCATION:location_144|Sweden]] and the Pope, intervened with Horthy to stop the
+deportations. [[LOCATION:location_31|Budapest]] was bombed heavily from the air. Under the impact of these
 events, Horthy gathered courage and ordered that deportations be stopped at the
 beginning of July (T/1212; T/1113, the Kasztner Report - pp. 57, 69). This step came
 too late to save the Jews in the provinces, but it did, for the time being, foil the plan
-for the evacuation of the Jews of Budapest. That the plan for this operation was
+for the evacuation of the Jews of [[LOCATION:location_31|Budapest]]. That the plan for this operation was
 ready, we read in the report prepared by von Thadden, of the German Foreign
-Ministry, who visited Budapest at the end of May 1944. The information about the
+Ministry, who visited [[LOCATION:location_31|Budapest]] at the end of May 1944. The information about the
 plan of action against the Jews was provided for him by the Accused's office (T/1194,
 p. 3).
 Later, in a memorandum prepared by him for his superiors (T/1195), he describes a
-plan to evacuate all Budapest Jews within 24 hours in the middle or at the end of July
+plan to evacuate all [[LOCATION:location_31|Budapest]] Jews within 24 hours in the middle or at the end of July
 in one huge operation, for which auxiliary help would be mobilized, including all the
 postmen and the chimney sweeps. The intention was to collect all the Jews of
-Budapest together on an island in the Danube, and to deport them from there.
+[[LOCATION:location_31|Budapest]] together on an island in the [[LOCATION:location_110|Danube]], and to deport them from there.
 The Accused could not reconcile himself to the cessation order, and on 14 July 1944
-he tried to deport another 1,500 Jews, imprisoned in the Kistarcsa camp, near
-Budapest. This came to the knowledge of the Jewish leaders, and they managed to
+he tried to deport another 1,500 Jews, imprisoned in the [[LOCATION:location_262|Kistarcsa]] camp, near
+[[LOCATION:location_31|Budapest]]. This came to the knowledge of the Jewish leaders, and they managed to
 inform Horthy about this action. The latter ordered the return of the train carrying
-these Jews before it crossed the Hungarian border (evidence of Dr. Alexander Brody,
+these Jews before it crossed the Hungarian border (evidence of Dr. [[PERSON:person_652|Alexander Brody]],
 Session 52, Vol. III, pp. 957-958).
 This setback enraged the Accused, who organized the transport anew, in spite of
 Horthy. SS men under the command of Novak, of Eichmann's unit, appeared in the
 
-Kistarcsa camp on 19 July 1944. Novak informed the Hungarian commander of the
+[[LOCATION:location_262|Kistarcsa]] camp on 19 July 1944. Novak informed the Hungarian commander of the
 camp that the very same 1,500 who had been brought back on 14 July would be
 expelled again, because "Eichmann will not tolerate his orders to be countermanded,
 not even by the Regent of the state himself (Evidence of Dr. Brody, supra, p. 957).
@@ -4815,47 +4815,47 @@ Accused resorted to a ruse. He assembled all of them in his office, where they w
 kept by his assistant, Hunsche, for the whole day on various pretexts, and were sent
 home only when word was received that the train had crossed the border (evidence
 of Freudiger, Session 52, pp. 947-948). About those events, as seen through the
-eyes of the deportees themselves, who were returned to Kistarcsa and deported a
-second time, this time reaching Auschwitz, we learn from the witness Elisheva
+eyes of the deportees themselves, who were returned to [[LOCATION:location_262|Kistarcsa]] and deported a
+second time, this time reaching [[LOCATION:location_286|Auschwitz]], we learn from the witness Elisheva
 Szenes (Session 53,Vol. III, p. 961 seq.).
 In his evidence, the Accused claims (Session 104, Vol. IV, p.xxxx6) that all he
 remembers is "that a train left and returned." On further cross-examination by the
 Attorney General, he seeks refuge behind the naive question: If all this be correct,
 where did the trucks come from, in which the Jews were taken the second time from
-the Kistarcsa camp? (supra, p. xxxx8). When he is reminded that trucks could be
+the [[LOCATION:location_262|Kistarcsa]] camp? (supra, p. xxxx8). When he is reminded that trucks could be
 obtained from the Hungarian gendarmerie, again he remembers nothing at all.
-We have no doubt that the Kistarcsa incident occurred, as testified by the witnesses
+We have no doubt that the [[LOCATION:location_262|Kistarcsa]] incident occurred, as testified by the witnesses
 for the Prosecution. Witness for the Defence, Grell, who at the time served as an
-adviser at the German Embassy in Budapest, also confirms in his declaration (T/691,
+adviser at the German Embassy in [[LOCATION:location_31|Budapest]], also confirms in his declaration (T/691,
 p. 8) that he heard about the Accused's resorting to some stratagem in order to
-deport the inmates of some camp to Germany. We are convinced that the Accused
+deport the inmates of some camp to [[LOCATION:location_2|Germany]]. We are convinced that the Accused
 remembers his victory over Horthy quite well. The whole incident is very significant as
-proof of the Accused's position in Hungary, and the traits of obstinacy and cunning
+proof of the Accused's position in [[LOCATION:location_24|Hungary]], and the traits of obstinacy and cunning
 which characterized his actions.
 114. On 14 August, the Hungarian Minister of the Interior informed the Accused that
 the Council of Ministers had decided to propose 25 August to Horthy as the date for
-the commencement of the evacuation of the Jews of Budapest. The Accused was not
+the commencement of the evacuation of the Jews of [[LOCATION:location_31|Budapest]]. The Accused was not
 satisfied with this, and at his request the Minister of the Interior agreed to advance
 the date of the evacuation to 20 August (T/1217; T/1218). In his evidence he explains
 that his demand for the speeding-up of the evacuation was apparently due to an
 approach from the Ministry of Transport in connection with timetables (Session 86,
 Vol. IV, p. xxxx18). The plot failed once more because of the resistance of Horthy,
-who ordered instead that the Jews of Budapest be collected in camps outside the
-capital, but that they were not to be deported to Germany.
+who ordered instead that the Jews of [[LOCATION:location_31|Budapest]] be collected in camps outside the
+capital, but that they were not to be deported to [[LOCATION:location_2|Germany]].
 In Veesenmayer's report to the German Foreign Ministry on 24 August 1944 (T/1219),
 he adds that "Eichmann will report the matter to the RSHA and will request that he
 and his unit be withdrawn, since they have now become superfluous."
 115. The situation again changed radically in mid-October 1944. The Germans
 intervened again, to avoid Horthy's surrender to the Allies, and forced him to appoint
-Szalasi, the extremist leader of the "Arrow Cross," as prime minister. This again
+Szalasi, the extremist leader of the "[[ORGANIZATION:org_366|Arrow Cross]]," as prime minister. This again
 
 opened the way for the deportation of Jews from the country. Horthy submitted to the
 Germans on 16 October (evidence of von dem Bach-Zelewski, p. 13). Two days later,
-the Accused returns to Budapest and starts negotiations for the handing over of more
+the Accused returns to [[LOCATION:location_31|Budapest]] and starts negotiations for the handing over of more
 Jews to the Germans. Veesenmayer's cable to the German Foreign Ministry, on the
 same day, states that the Accused "began negotiations with the Hungarian
 authorities for the deportation of 50,000 able-bodied Jews on foot (im Fusstreck) to
-work in Germany" (T/1234).
+work in [[LOCATION:location_2|Germany]]" (T/1234).
 Veesenmayer cables again on the same day (T/1235), reporting the results of the
 negotiations between the Accused and the Hungarian Minister of the Interior: The
 minister will attempt to obtain consent for the handing over of the 50,000 male Jews.
@@ -4864,29 +4864,29 @@ Veesenmayer adds that,
 successfully, Eichmann intends to ask for another 50,000 Jews, in order to achieve
 the final aim of complete evacuation of the Hungarian area, while having due regard
 for the attitude taken on principle by Szalasi."
-(Szalasi, it follows from the same cable, demanded that the Arrow Cross themselves
-deal with the Jews within Hungary proper.)
-The idea of marching the Jews from Budapest to the Austrian frontier, some 220
+(Szalasi, it follows from the same cable, demanded that the [[ORGANIZATION:org_366|Arrow Cross]] themselves
+deal with the Jews within [[LOCATION:location_24|Hungary]] proper.)
+The idea of marching the Jews from [[LOCATION:location_31|Budapest]] to the Austrian frontier, some 220
 kilometres distance, emerged because Allied bombing had destroyed the railway line.
-This march of tens of thousands of Budapest Jews began on 10 November 1944.
-Mrs. Aviva Fleischmann, who took part in the march, told us about this operation, and
-Dr. Arye Breszlauer, who was employed by the Swiss Embassy in Budapest, saw the
+This march of tens of thousands of [[LOCATION:location_31|Budapest]] Jews began on 10 November 1944.
+Mrs. [[PERSON:person_677|Aviva Fleischmann]], who took part in the march, told us about this operation, and
+Dr. Arye Breszlauer, who was employed by the Swiss Embassy in [[LOCATION:location_31|Budapest]], saw the
 marchers on their way and also wrote a report on the subject at the time (Session 61,
 Vol. III, p. 1102; T/1237).
-The Arrow Cross men assembled all the Jews from the special Jewish houses.
+The [[ORGANIZATION:org_366|Arrow Cross]] men assembled all the Jews from the special Jewish houses.
 Those taken were not only adults - mostly women, as many men were away from
 home on work service - but also children and old people. Thousands of Jews were
 crammed into the yard of a brick factory which was used as the assembly point for
 the marchers. There they were kept, terribly crowded, in the open and in the rain.
 From there, they started to march in large groups. Witness Mrs. Fleischmann spent
 only one night at the factory, but others stayed there two or three days until they set
-out on their way. The escort consisted of Arrow Cross men, who behaved cruelly
+out on their way. The escort consisted of [[ORGANIZATION:org_366|Arrow Cross]] men, who behaved cruelly
 towards the Jews, robbed them of all their valuables, clothes, blankets and the
 provisions they had taken with them.
 Thus they marched for seven or eight days, without food for days on end. They slept
 in stables, in pigsties or even in the open, during cold November nights. No medical
 help was afforded them. Those who fell by the way from exhaustion were shot by the
-Arrow Cross men or died by the roadside. The survivors were handed over to
+[[ORGANIZATION:org_366|Arrow Cross]] men or died by the roadside. The survivors were handed over to
 German SS men at the Austrian frontier.
 Twenty-five thousand Jews had been dispatched in this manner by 22 November
 1944. Veesenmayer estimated the total number of Jews thus brought to the frontier
@@ -4899,7 +4899,7 @@ Accused's reply was simply: "You saw nothing!"; that is to say, he ignored the m
 completely and ordered Krumey also to close his eyes to it (Evidence of Krumey, on
 pp. 15, 16). The witness Juettner, who was an SS General, describes the sight of the
 marchers as shocking. He approached Winkelmann, the Higher SS and the Police
-Leader in Hungary, but Winkelmann said that in this matter he was helpless, since
+Leader in [[LOCATION:location_24|Hungary]], but Winkelmann said that in this matter he was helpless, since
 this was in the hands of the Accused's unit, and the Accused did not take orders from
 him [Winkelmann]. Juettner then approached the Accused's office. A young officer
 was sent over to him from the Accused's office to explain to him that he [Juettner]
@@ -4911,12 +4911,12 @@ whether one of them or someone else secured this order to stop the march. It sho
 be stated that Szalasi, on his part, also ordered the stopping of the march (See
 Veesenmayer's cable of 21.11.44, T/1242).
 116. We wish to mention two more matters from the Hungarian chapter.
-(a) At the beginning of June 1944, Blaschke, the Mayor of Vienna, requested
-Kaltenbrunner to supply him with labourers for war work in Vienna. Kaltenbrunner
+(a) At the beginning of June 1944, Blaschke, the Mayor of [[LOCATION:location_3|Vienna]], requested
+Kaltenbrunner to supply him with labourers for war work in [[LOCATION:location_3|Vienna]]. Kaltenbrunner
 replies in the affirmative on 30 June 1944 (the reference on this letter is IVB4b - the
 Accused's Section, managed in his absence by his deputy, Guenther). He writes
 there that, in the meantime, four transports with some 12,000 Jews will be sent and
-will arrive shortly at the Vienna-Strasshof camp. He adds that, according to his
+will arrive shortly at the [[LOCATION:location_3|Vienna]]-[[LOCATION:location_266|Strasshof]] camp. He adds that, according to his
 estimate, about thirty per cent of the Jews will be fit for work, and that they can be
 employed, provided that they can be withdrawn at any moment. As to the wives and
 children of those Jews, who are not fit for work, they will all be kept ready for special
@@ -4924,17 +4924,17 @@ action (fuer eine Sonderaktion), and will therefore be removed in the future, bu
 stay in the camp in the meantime, under constant guard also during the day.
 Kaltenbrunner asks Blaschke to discuss further details with the representative of the
 State Police and with SS Obersturmbannfuehrer Krumey of the Special Operations
-Unit in Hungary (i.e., the Accused's unit) (T/1211). The meaning of the words "special
+Unit in [[LOCATION:location_24|Hungary]] (i.e., the Accused's unit) (T/1211). The meaning of the words "special
 action" need not be explained: All those Jews were to be taken away and
 exterminated, but in the meantime, those fit for work would be employed at the
-pleasure of the Mayor of Vienna, and their wives and children would wait with them
+pleasure of the Mayor of [[LOCATION:location_3|Vienna]], and their wives and children would wait with them
 as prisoners until their turn came to die.
 The Accused made use of this order by Kaltenbrunner, which he had to obey, to
 mislead the Hungarian-Jewish leaders and to extort money from them. From the
-report of the Jewish Relief and Rescue Committee in Budapest written by the late Dr.
+report of the Jewish Relief and Rescue Committee in [[LOCATION:location_31|Budapest]] written by the late Dr.
 Kasztner, it is apparent that the Accused made a show of agreeing to the request put
 to him by Jewish communal leaders to save Jewish lives by allowing the transfer of
-15,000 Hungarian Jews to Austria, in order to "put them on ice." In consideration for
+15,000 Hungarian Jews to [[LOCATION:location_14|Austria]], in order to "put them on ice." In consideration for
 this simulated concession, he demanded a large sum of money from them, alleging
 that this was needed for food for these Jews and for the care of the sick (see T/1113,
 pp. 49, 50).
@@ -4944,15 +4944,15 @@ of deceit. He says: "It is possible that I painted a bright picture for Kasztner
 104, Vol. IV, p.xxxx6).
 If some of these Jews were finally saved from the fate which was in store for them,
 this was not thanks to the Accused, but because extermination by gassing at
-Auschwitz was stopped in October or November 1944. There is proof here of the
+[[LOCATION:location_286|Auschwitz]] was stopped in October or November 1944. There is proof here of the
 deceitful methods to which the Accused resorted in regard to his victims.
 Mention should also be made of another remark by the Accused to Dr. Kasztner, to
 the effect that there should be no Jews from the Carpathians or from Siebenbuergen
-amongst the Jews to be sent to Austria, because they were "elements of much
+amongst the Jews to be sent to [[LOCATION:location_14|Austria]], because they were "elements of much
 greater ethnic value and more fertile, and he was not interested in keeping them
-alive." These words were confirmed by witness Mrs. Hansi Brand (Session 58, Vol. III,
+alive." These words were confirmed by witness Mrs. [[PERSON:person_674|Hansi Brand]] (Session 58, Vol. III,
 p. 11052).
-(b) We listened to long testimony from Mr. Joel Brand and his wife, Mrs. Hansi Brand.
+(b) We listened to long testimony from Mr. [[PERSON:person_663|Joel Brand]] and his wife, Mrs. [[PERSON:person_674|Hansi Brand]].
 Also documents were submitted to us about negotiations carried on between Jewish
 communal leaders and Himmler's agents concerning a barter of Jewish lives against
 goods required by the Germans, especially trucks. We do not intend to follow all the
@@ -4960,19 +4960,19 @@ details of these complicated negotiations, which are now a matter of history, bu
 only make a few comments on the Accused's contentions regarding these
 negotiations.
 The Accused alleged that Becher, Himmler's chief agent for economic affairs in
-Hungary - in particular responsible for robbing Hungarian Jews of their property trespassed into his domain, by handling matters of Jewish emigration which were
+[[LOCATION:location_24|Hungary]] - in particular responsible for robbing Hungarian Jews of their property trespassed into his domain, by handling matters of Jewish emigration which were
 reserved for the Accused, he being the expert on the subject. Moreover, Becher
-pressed him (the Accused) to step up deportations to Auschwitz, in order to force the
+pressed him (the Accused) to step up deportations to [[LOCATION:location_286|Auschwitz]], in order to force the
 Jews to hurry up with the supply of the goods. But actually, Becher dealt with these
 matters only in a small way - the emigration of a few thousand Jews. Becher's
 interference angered the Accused, for here - so he explains - comes an outsider and
 interferes in a field in which the Accused had become expert over the course of many
 years - namely Jewish emigration - and what is more, presses him to increase the
-pace of the despicable work of deporting Jews to Auschwitz.
+pace of the despicable work of deporting Jews to [[LOCATION:location_286|Auschwitz]].
 That is why he, the Accused, thought up a far-reaching plan for the emigration of a
 million Jews, in order to have the better of Becher in this competition. And here the
 unbelievable happened: He is informed by Mueller, to whom he put the plan, that it
-has been authorized by his superiors. He therefore sends Brand to Istanbul; and now
+has been authorized by his superiors. He therefore sends Brand to [[LOCATION:location_139|Istanbul]]; and now
 he understands the feelings of Brand, who is bitter about the failure of his mission,
 because of his arrest by the British Intelligence Service, and the Allies' refusal to
 respond to the proposal for the supply of goods. He further alleged that he stipulated
@@ -4986,7 +4986,7 @@ explanation as follows:
 
 "If, later on, an obstacle was put in the way of this transaction abroad, this caused me
 sorrow at the time, and I permit myself to say that I can very well understand Joel
-Brand's fury and pain. I only hope that Joel Brand, too, in the light of the documents
+Brand's fury and pain. I only hope that [[PERSON:person_663|Joel Brand]], too, in the light of the documents
 which now prove to him that I was not the man who carried out the extermination,
 understands on his part my own fury and my anger...." (supra)
 We are of the opinion that this whole effort to appear now before this Court as the
@@ -4998,28 +4998,28 @@ prepare an alibi for himself or wanted to show what he could achieve by obtainin
 essential goods for the Reich.
 In any case, all these were matters of general high policy, entirely beyond the sphere
 of activity of the Accused, who concentrated all his efforts on the implementation of
-the Final Solution. On receiving the order to conduct negotiations with the Jews, he
+the [[EVENT:event_389|Final Solution]]. On receiving the order to conduct negotiations with the Jews, he
 carried it out. There is proof that when Brand did not return and the whole matter
-collapsed, the Accused expressed satisfaction (the evidence of Hansi Brand; report
+collapsed, the Accused expressed satisfaction (the evidence of [[PERSON:person_674|Hansi Brand]]; report
 by Wisliceny, T/85, p. 21).
 The most that can be said is that the Accused conducted the negotiations as he was
 ordered, in the same way as, in accordance with orders received, he allowed the
-departure of 1,700 Jews from Hungary to Bergen-Belsen, and later on from there to
-Switzerland. But it is sheer hypocrisy to come now and testify that his reactions to the
-failure of the negotiations were sorrow, fury and anger, like the feelings of Joel Brand.
-This entire version was invented by the Accused only after he had read Joel Brand's
+departure of 1,700 Jews from [[LOCATION:location_24|Hungary]] to [[LOCATION:location_212|Bergen-Belsen]], and later on from there to
+[[LOCATION:location_53|Switzerland]]. But it is sheer hypocrisy to come now and testify that his reactions to the
+failure of the negotiations were sorrow, fury and anger, like the feelings of [[PERSON:person_663|Joel Brand]].
+This entire version was invented by the Accused only after he had read [[PERSON:person_663|Joel Brand]]'s
 book, from which he thought he could find something to hold on to, in order to show
 himself in a more favourable light. To this end, he also exploited an error made by
-Joel Brand, in connection with the 100,000 Jews whom the Accused allegedly agreed
+[[PERSON:person_663|Joel Brand]], in connection with the 100,000 Jews whom the Accused allegedly agreed
 to release as soon as the barter agreement was concluded, and even before the
-goods were supplied. In the detailed report drawn up by Mr. Moshe Sharett (Shertok)
-after his conversation with Brand in Aleppo (T/1176), there is no mention of such a
+goods were supplied. In the detailed report drawn up by Mr. [[PERSON:person_667|Moshe Sharett]] (Shertok)
+after his conversation with Brand in [[LOCATION:location_277|Aleppo]] (T/1176), there is no mention of such a
 promise, but Brand is quoted as saying that only a few thousand would be released
 immediately (supra, p. 4).
 Incidentally, it seems to us - although Brand's evidence is borne out by that of his
 wife, and we do not doubt the subjective sincerity of both these witnesses - that
 Brand was mistaken in regard to one further detail, namely that the Accused
-promised him to blow up the extermination installations at Auschwitz the moment an
+promised him to blow up the extermination installations at [[LOCATION:location_286|Auschwitz]] the moment an
 agreement was concluded. This, too, is not mentioned in Mr. Sharett's report, and it
 is inconceivable that Brand would not report two such important promises to Mr.
 Sharett or that Mr. Sharett would not have noted them in writing, had they been
@@ -5050,12 +5050,12 @@ Himmler) and received, from or through Mueller, authority to conduct the negotia
 We learn from the documents the kind of plans the Accused was concerned with,
 after Brand's departure. He was not engaged in preparations for the emigration of
 100,000 Jews, as he had the temerity to allege in his evidence, but in the deportation
-of all Hungarian Jewry to Auschwitz at an accelerated pace, that is to say, the
+of all Hungarian Jewry to [[LOCATION:location_286|Auschwitz]] at an accelerated pace, that is to say, the
 extermination of those Jews who still remained in German hands and who were to be
 the subject of barter against goods. He is already preparing the evacuation of the
-Jews from Budapest at this very same time, that is, the second half of May 1944.
+Jews from [[LOCATION:location_31|Budapest]] at this very same time, that is, the second half of May 1944.
 This we learn from von Thadden's report mentioned above (T/1194).
-117. With regard to all the Accused's activities in Hungary, he reverts to his usual
+117. With regard to all the Accused's activities in [[LOCATION:location_24|Hungary]], he reverts to his usual
 tactics of shifting responsibility to other authorities, until his Counsel has to put the
 question to him:
 "Witness, what else remained of your activities, because I do not know what there
@@ -5095,9 +5095,9 @@ future take over the command within the camps, as well as the technical
 arrangements for loading the Jews on to trains. The Hungarian gendarmerie were left
 to attend only to external security and security within the camps (supra, pp. 1, 2; see
 also T/1164, para. 2). Escorting the trains remained a function carried out by the
-Germans all the time, within Hungary as well. German Security Police men also
+Germans all the time, within [[LOCATION:location_24|Hungary]] as well. German Security Police men also
 prevented Jews from being rescued from the assembly camps through the call-up for
-labour service in Hungary; they arrested Jews who had received such call-up notices,
+labour service in [[LOCATION:location_24|Hungary]]; they arrested Jews who had received such call-up notices,
 confiscated their papers and handed them over to the Accused (T/1161, para. 2;
 T/1163, para. 8).
 From all these details, a true picture emerges of the Accused's activities in
@@ -5107,7 +5107,7 @@ of the Hungarian gendarmerie, because only they knew the local conditions and ha
 the large amount of manpower required to carry out these operations. It is also true
 that the gendarmerie remained loyal to Regent Horthy, and this occasionally made it
 difficult for the Accused to carry on his activities when Horthy showed signs of
-independence and rebellion against the Germans. But the incident of the Kistarcsa
+independence and rebellion against the Germans. But the incident of the [[LOCATION:location_262|Kistarcsa]]
 train shows that the Accused succeeded in having his own way, even in the face of
 an explicit order from Horthy.
 As to the German side, the Accused tried to shift responsibility in two directions: to
@@ -5116,8 +5116,8 @@ Higher SS and Police Leader, and to Geschke of the BdS. Veesenmayer was
 undoubtedly very active in Jewish affairs. For instance, documents were submitted to
 us showing that in April 1944 he conducted negotiations with the Hungarian
 authorities for the handing over of 50,000 "Jews for labour" to the Reich (N/73;
-T/1181; N/75, and others). He put pressure on the Hungarian Government regarding
-the expulsion of the Jews of Budapest (declaration by Lakatos, N/106, p. 4).
+T/1181; N/75, and others). He put pressure on the [[ORGANIZATION:org_329|Hungarian Government]] regarding
+the expulsion of the Jews of [[LOCATION:location_31|Budapest]] (declaration by Lakatos, N/106, p. 4).
 Obviously, the German Embassy did not engage in the actual rounding-up and
 deportation of the Jews. Veesenmayer's duty in such matters was only to report to
 
@@ -5139,7 +5139,7 @@ Advisers on Jewish Affairs on behalf of Section IVB4 of the RSHA in various
 countries and the BdS in each country. The position held by the Accused, as head of
 a Special Operations Unit, added independence to his status as special
 representative of Himmler and of the head of the RSHA, Kaltenbrunner, as he
-received his order directly from Berlin.
+received his order directly from [[LOCATION:location_1|Berlin]].
 In fact, there is no indication in the evidence that the Accused received any
 substantive instructions from Geschke or Winkelmann, except in the evidence given
 by the Accused himself, which is not trustworthy in this matter as well.
@@ -5149,17 +5149,17 @@ obvious reasons they were trying to keep themselves as remote as possible from a
 connection with actions against Jews, or even from knowledge of them, and their
 statements in this matter are unreliable.
 From what has been stated above, a clear picture emerges of the Accused's
-activities in Hungary. On the German side, which was dominant and made the
+activities in [[LOCATION:location_24|Hungary]]. On the German side, which was dominant and made the
 decisions, the Accused was the chief stimulating force in implementing the Final
-Solution in Hungary. Here, in the field itself, he acted with increased energy, initiative
+Solution in [[LOCATION:location_24|Hungary]]. Here, in the field itself, he acted with increased energy, initiative
 and daring, and stubborn determination to complete the work, in spite of all the
 difficulties in his way. The measure of his responsibility for the catastrophe which
-befell the Jews of Hungary must be evaluated accordingly.
+befell the Jews of [[LOCATION:location_24|Hungary]] must be evaluated accordingly.
 118. In connection with the Hungarian chapter, we will have to deal with the Attorney
-General's contention that, while in Budapest, the Accused took part in the murder of
+General's contention that, while in [[LOCATION:location_31|Budapest]], the Accused took part in the murder of
 a Jewish youth named Solomon, who was engaged in forced labour in the garden of
 the house in which the Accused lived. One of the witnesses for the Prosecution, Mr.
-Avraham Gordon, testified on this matter that the Accused and his servant Slawik
+[[PERSON:witness_106|Avraham Gordon]], testified on this matter that the Accused and his servant Slawik
 beat the boy to death in a tool shed at the house.
 This charge does not appear as a special count of murder in the indictment, but the
 Attorney General wanted to bring this incident as proof of the Accused's cruelty and
@@ -5173,13 +5173,13 @@ impression made on us by Mr. Gordon's evidence is positive, we do not consider i
 safe to find facts against the Accused on the basis of this evidence alone, without
 any corroborative evidence as to the details of the incident.
 Eastern Europe
-119. We must now go back and consider the stage of the Final Solution, from its
-beginning in mid-1941, and turn to Eastern Europe - Poland, the Baltic countries and
-Soviet Russia - the valley of death in which millions of Jews were slaughtered by the
+119. We must now go back and consider the stage of the [[EVENT:event_389|Final Solution]], from its
+beginning in mid-1941, and turn to Eastern Europe - [[LOCATION:location_5|Poland]], the Baltic countries and
+Soviet [[LOCATION:location_10|Russia]] - the valley of death in which millions of Jews were slaughtered by the
 order of Hitler. This is where the Jews, who had been hunted down for this purpose in
 the other European countries, crammed into trains and brought to the East, were
 done to death in many different ways. Documents were submitted describing the
-Holocaust in the East, but the bulk of the evidence consisted of statements by
+[[EVENT:event_386|Holocaust]] in the East, but the bulk of the evidence consisted of statements by
 witnesses, "brands plucked from the fire," who followed each other in the witness box
 for days and weeks on end. They spoke simply, and the seal of truth was on their
 words. But there is no doubt that even they themselves could not find the words to
@@ -5196,7 +5196,7 @@ the sufferings of the individual, then the sum total of the suffering of the mil
 human understanding, and who are we to try to give it adequate expression? This is
 a task for the great writers and poets.
 Perhaps it is symbolic that even the author, who himself went through the hell named
-Auschwitz, could not stand the ordeal in the witness box and collapsed. Moreover,
+[[LOCATION:location_286|Auschwitz]], could not stand the ordeal in the witness box and collapsed. Moreover,
 this part of the indictment is not in dispute in this case. The witnesses who gave
 evidence about this part were hardly questioned at all by Counsel for the Defence,
 and at a certain stage in the proceedings he even requested that the Court therefore
@@ -5216,18 +5216,18 @@ events described.
 place at which the mass butchery was carried out. The murderers used shooting,
 asphyxiation by gas, fire, and such other cruel methods of killing as came to their
 minds. As has been mentioned already (section 69), the slaughter began by mass
-shootings to death right at the beginning of the war against Poland in September
+shootings to death right at the beginning of the war against [[LOCATION:location_5|Poland]] in September
 1939, even before the order for total extermination was given by Hitler in 1941.
 Since the Accused's connection with killings in the East at this early stage is not
 evident, we shall pass over the descriptions of this period and come to the slaughters
 carried out by the Operations Units, which were set up on the eve of Hitler's war
-against Russia, and acted in the rear of the advancing German army and in coordination with the army. The witness Avraham Aviel testified to the mass murder of
-the Jews of his native village of Dowgaliszuk, near Radom, between Grodno and
-Vilna, in May 1942 (Session 29, Vol. I, pp. 496-497):
-"Germans arrived from the direction of Lida in battledress, equipped with automatic
+against [[LOCATION:location_10|Russia]], and acted in the rear of the advancing German army and in coordination with the army. The witness [[PERSON:person_513|Avraham Aviel]] testified to the mass murder of
+the Jews of his native village of Dowgaliszuk, near [[LOCATION:location_170|Radom]], between [[LOCATION:location_188|Grodno]] and
+[[LOCATION:location_171|Vilna]], in May 1942 (Session 29, Vol. I, pp. 496-497):
+"Germans arrived from the direction of [[LOCATION:location_189|Lida]] in battledress, equipped with automatic
 weapons, actually dressed as if they were at the battle front... I went outside. At the
 entrance to the house, I saw that a crowd of Jews were walking from the end of the
-ghetto and were being forced along the road leading to Grodno... At that moment,
+ghetto and were being forced along the road leading to [[LOCATION:location_188|Grodno]]... At that moment,
 several Germans entered the house. One stood at the exit while the others spread
 out into the rooms and began chasing out those who hadn't managed to conceal
 themselves. Each one passing through the opening would receive a blow on the
@@ -5252,7 +5252,7 @@ and as they mounted the embankment, rounds of shots were heard, and they fell in
 the pit. I saw one case of a Jewish girl who put up a struggle;, she did not want,
 under any circumstances, to undress. They struck her and she too was shot. Children,
 women, family after family. Each family went up together."
-The witness Rivka Yoselewska (Session 30, Vol. I, p. 516) gave evidence of the
+The witness [[PERSON:person_514|Rivka Yoselewska]] (Session 30, Vol. I, p. 516) gave evidence of the
 atrocities committed by an Operations Unit against the Jews of the village of Powost
 
 in the Pinsk district, about the same time as that to which the testimony of the witness
@@ -5279,7 +5279,7 @@ head about... I heard a shot but didn't move. He turned me around, reloaded his
 pistol. Then he turned me around and shot. I fell into the pit and felt nothing."
 The witness continues this tale of horror and relates how with the last ounce of
 strength she rose up from the grave, from amongst the corpses heaped above her.
-The Accused saw with his own eyes near Minsk a slaughter of this kind at the edge
+The Accused saw with his own eyes near [[LOCATION:location_18|Minsk]] a slaughter of this kind at the edge
 of a pit, as he describes it in his Statement to the police (T/37, p. 211 et seq.):
 "Young marksmen...were shooting into the pit... I can still see a woman, her arms
 behind her, and then my knees gave way, and I left the place...
@@ -5288,15 +5288,15 @@ A. The pit was full."
 And on his way back, he saw blood spurting as if from a fountain out of another pit
 which had already been covered over (supra, p. 215).
 This was the fate which befell the Jews whom he sent to the Operations Units
-commanded by Nebe and Rasch, knowing full well that their end would be death at
+commanded by [[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]], knowing full well that their end would be death at
 the hands of the Operations Units (Session 98, Vol. IV, pp. xxxx29-31). We also
-know from the testimonies of Eliezer Karstadt (Session 29, Vol. I, p. 490) and Haim
+know from the testimonies of [[PERSON:witness_40|Eliezer Karstadt]] (Session 29, Vol. I, p. 490) and Haim
 Behrendt (Session 29, Vol. I, p. 503) that Jews were deported from German cities to
-Riga and Minsk (Behrendt himself was deported from Berlin to Minsk in November
+[[LOCATION:location_16|Riga]] and [[LOCATION:location_18|Minsk]] (Behrendt himself was deported from [[LOCATION:location_1|Berlin]] to [[LOCATION:location_18|Minsk]] in November
 1941), there to be slaughtered in mass actions immediately on arrival, or a few
 months later. We also heard from the witness Dr. Peretz about the deportation of
-Jews from Vienna, Berlin, Frankfurt, Holland and Belgium at the end of 1941 to the
-Kovno Ghetto, where they were immediately taken to the Ninth Fort - the place of
+Jews from [[LOCATION:location_3|Vienna]], [[LOCATION:location_1|Berlin]], [[LOCATION:location_98|Frankfurt]], Holland and [[LOCATION:location_21|Belgium]] at the end of 1941 to the
+[[LOCATION:location_17|Kovno]] Ghetto, where they were immediately taken to the [[LOCATION:location_191|Ninth Fort]] - the place of
 mass executions (Session 28, Vol. I, p. 481).
 
 121. The Operations Units were set up according to an agreement between Heydrich
@@ -5311,23 +5311,23 @@ steps for the execution of their plans as regards the civil population" (viz., t
 population), as we read in an order signed by General von Brauchitsch, dated 2 May
 1941 (T/175, p. 3). Four Operations Units were set up, and the occupied areas from
 north to south were divided amongst them. Stahlecker, whom we already came
-across in Vienna and Prague as the Accused's superior, commanded Group A in the
-north; and Nebe, Rasch and Ohlendorf commanded the other Groups during the first
+across in [[LOCATION:location_3|Vienna]] and [[LOCATION:location_4|Prague]] as the Accused's superior, commanded Group A in the
+north; and [[PERSON:person_510|Nebe]], [[PERSON:person_476|Rasch]] and Ohlendorf commanded the other Groups during the first
 period (T/312). Reports on the activities of the Operations Units have been submitted
 to us.
 In one of the many reports which reached the Accused at this time - a report dated 11
 September 1941 - we read:
 "In Kamenets-Podolski, 23,400 Jews were killed by shooting within three days by the
 Group of the Senior Commander of the SS and the Police." (T/322)
-A report from Operations Group A, in January 1942, about the actions in the north,
+A report from [[ORGANIZATION:org_339|Operations Group]] A, in January 1942, about the actions in the north,
 states:
-"Estonia has already been purged of its Jews. In Latvia, there are Jews left only in
-Riga and in Duenaburg. The number of Jews left in Riga - 29,500 - was reduced to
+"[[LOCATION:location_9|Estonia]] has already been purged of its Jews. In [[LOCATION:location_8|Latvia]], there are Jews left only in
+[[LOCATION:location_16|Riga]] and in Duenaburg. The number of Jews left in [[LOCATION:location_16|Riga]] - 29,500 - was reduced to
 2,500 by an action carried out by the Senior Commander of the SS and the Ostland
 Police." (T/337)
 On 15 October 1941, Stahlecker reports the killing of 118,430 Jews to date in the
 area of Group A alone (T/304). In two days, 29-30 September 1941, 33,771 Jews
-were killed in Kiev (T/327). So the bloodshed continued month after month across the
+were killed in [[LOCATION:location_13|Kiev]] (T/327). So the bloodshed continued month after month across the
 length and breadth of the Eastern Occupied Territories. In connection with a later
 period - the four months from August to November 1942 - a report sent by Himmler to
 Hitler about the execution of 363,211 Jews, was submitted to us. This account is
@@ -5338,7 +5338,7 @@ SD (T/414).
 Gas Killings
 122. Hundreds of thousands, and perhaps a million, Jews were slaughtered by the
 Operations Units by shooting, but this system alone could not have achieved the
-Final Solution, which meant the extermination of millions, were it not for an additional
+[[EVENT:event_389|Final Solution]], which meant the extermination of millions, were it not for an additional
 method, which made possible even more efficient mass killings, and also in a "tidier"
 way for those who actually dealt in the business of murder. This was the system of
 mass killing by means of gas. In his Statement to the police, the Accused mentions
@@ -5348,15 +5348,15 @@ the first use of gas in the Eastern Occupied Territories, as follows:
 in a more elegant manner'." (T/37, p. 2339)
 This system appeared at first in the form of vans, in which the victims were
 asphyxiated by exhaust gases from the engine. Evidence was given before us of the
-existence of a mobile unit which transferred such vans in 1942 to Belgrade and to
-various places in Russia, and which murdered Jews in them (T/309). This system of
+existence of a mobile unit which transferred such vans in 1942 to [[LOCATION:location_138|Belgrade]] and to
+various places in [[LOCATION:location_10|Russia]], and which murdered Jews in them (T/309). This system of
 killing Jews was also used by the Operations Units (see T/216, declaration of Blobel,
-p. 4). The system was extensively and regularly used in the Chelmno (Kulmhof)
+p. 4). The system was extensively and regularly used in the [[LOCATION:location_168|Chelmno]] ([[LOCATION:location_290|Kulmhof]])
 extermination camp in the Warthe district. Only four Jews survived this camp, and
-three of them - residents of Israel - gave evidence in Court about the Chelmno camp
+three of them - residents of [[LOCATION:location_38|Israel]] - gave evidence in Court about the [[LOCATION:location_168|Chelmno]] camp
 (T/1297, remark on p. 4 of the Hebrew version).
-The witness Michael Podchlewnik was taken to Chelmno at the end of 1941 from the
-nearby village of Kolo. He relates that, together with other Jews, he was put into a
+The witness [[PERSON:witness_64|Michael Podchlewnik]] was taken to [[LOCATION:location_168|Chelmno]] at the end of 1941 from the
+nearby village of [[LOCATION:location_283|Kolo]]. He relates that, together with other Jews, he was put into a
 building, at one time a manor house, and locked in the cellar. Then he goes on
 (Session 65, Vol. III, p.1190):
 "A truck came with people... I heard somebody come out and say: `You are now
@@ -5382,34 +5382,34 @@ the two children and wanted them to shoot me. The an SS man came up to me and
 said: `You still have strength enough, you can go on working.' He hit me twice with
 his stick and dragged me away to continue working."
 During a later period, at the end of 1943 and in 1944, two other witnesses, Mordechai
-Zurawski and Shim'on Srebrnik, were held in Chelmno. At that time, the victims were
+Zurawski and Shim'on Srebrnik, were held in [[LOCATION:location_168|Chelmno]]. At that time, the victims were
 still being killed in gas vans, but their bodies were burned in crematoria after the
 removal of their gold teeth (Srebrnik's evidence, Session 66, Vol. III, p. 1198), and
 the bones left unburnt were ground in a grinding machine (Zurawski's evidence,
 Session 65, Vol. III, p. 1193).
 Jews from the surrounding area, from towns and villages of the Warthe district and
-especially from the Lodz Ghetto, which was also part of the Warthe district, were
+especially from the [[LOCATION:location_81|Lodz]] Ghetto, which was also part of the Warthe district, were
 
-brought to Chelmno for extermination. These were Jews not only from Lodz itself, but
-also from other countries, who had been first assembled in Lodz. We have already
-described the deportations of Jews from the Reich to Lodz, organized by the
+brought to [[LOCATION:location_168|Chelmno]] for extermination. These were Jews not only from [[LOCATION:location_81|Lodz]] itself, but
+also from other countries, who had been first assembled in [[LOCATION:location_81|Lodz]]. We have already
+described the deportations of Jews from the Reich to [[LOCATION:location_81|Lodz]], organized by the
 Accused and his Section. The witness Srebrnik mentions Czech and German Jews
 (Session 66, Vol. III, p. 1199), and according to the official Polish report, Jews from
-Germany, Austria, France, Belgium, Luxemburg and Holland were exterminated in
-Chelmno (T/1297, p. 3 of the Hebrew translation). The total number of Jews killed in
-Chelmno, young and old, is estimated in this report at 300,000 (supra, p.3; 22).
-The Accused visited Chelmno and saw the victims being crammed into the gas vans,
+[[LOCATION:location_2|Germany]], [[LOCATION:location_14|Austria]], [[LOCATION:location_30|France]], [[LOCATION:location_21|Belgium]], Luxemburg and Holland were exterminated in
+[[LOCATION:location_168|Chelmno]] (T/1297, p. 3 of the Hebrew translation). The total number of Jews killed in
+[[LOCATION:location_168|Chelmno]], young and old, is estimated in this report at 300,000 (supra, p.3; 22).
+The Accused visited [[LOCATION:location_168|Chelmno]] and saw the victims being crammed into the gas vans,
 the removal of the corpses from the vans, and the removal of teeth from the corpses
 (T/37, p. 176).
-123. Like Chelmno in the Warthe area, three camps were set up in the
-Generalgouvernement area. Their only function was the extermination of Jews. They
-were: Treblinka, near the railway line from Warsaw to Bialystok; Sobibor, to the east
-of Lublin; and Belzec, in Eastern Galicia. In each of these camps hundreds of
+123. Like [[LOCATION:location_168|Chelmno]] in the Warthe area, three camps were set up in the
+[[LOCATION:location_152|Generalgouvernement]] area. Their only function was the extermination of Jews. They
+were: [[LOCATION:location_173|Treblinka]], near the railway line from [[LOCATION:location_93|Warsaw]] to Bialystok; Sobibor, to the east
+of [[LOCATION:location_35|Lublin]]; and [[LOCATION:location_154|Belzec]], in [[LOCATION:location_167|Eastern Galicia]]. In each of these camps hundreds of
 thousands of Jews were put to death, asphyxiated by gas. We heard witnesses,
-survivors of these camps (except Belzec), and official reports were submitted to us
-from Polish Government Main Commission for the Investigation of Nazi Crimes,
+survivors of these camps (except [[LOCATION:location_154|Belzec]]), and official reports were submitted to us
+from [[ORGANIZATION:org_304|Polish Government]] Main Commission for the Investigation of Nazi Crimes,
 which examined the facts and reached reliable conclusions.
-From the evidence about Treblinka, this seems to have been the extermination
+From the evidence about [[LOCATION:location_173|Treblinka]], this seems to have been the extermination
 process: The Jews destined for extermination were brought in overcrowded freight
 trains which entered the camp gate. To mislead the Jews to the very last minute, the
 place was given the form of a sham railway station, with a timetable, and arrows
@@ -5425,7 +5425,7 @@ undress. The men undressed in the courtyard, and the women were taken to another
 hut where their hair was shorn. In this naked state, the victims were led along a
 narrow path called by the Germans "the path to heaven" (Himmelstrasse), to a
 building partitioned into cells measuring seven by seven metres and 1.90 metres high.
-Eliahu Rosenberg stated in evidence (Session 66, p. 1213-1214):
+[[PERSON:person_697|Eliahu Rosenberg]] stated in evidence (Session 66, p. 1213-1214):
 "In the Himmelstrasse, SS men... stood there with dogs, with whips and bayonets.
 The people walked past in silence... They did not know where they were going. When
 they entered the gas chambers, two Ukrainians stood next to the entrance - one was
@@ -5457,20 +5457,20 @@ probably from an orphanage:
 "The children were in fact almost asphyxiated. We had to remove their clothing, and
 they were led - that is we led them - into the Lazarett. There the SS men ... shot
 them." (Session 66, p. xxxx62.)
-The Treblinka extermination camp began to function in July 1942. A revolt of the
+The [[LOCATION:location_173|Treblinka]] extermination camp began to function in July 1942. A revolt of the
 Jewish forced labourers broke out in August 1943, and afterwards the camp was
-gradually liquidated. The Polish Government Main Commission estimates the number
+gradually liquidated. The [[ORGANIZATION:org_304|Polish Government]] Main Commission estimates the number
 of those killed there during this period at over 700,000. The victims were from
-Warsaw and from other cities in Central Poland, from Bialystok, Grodno and
-Volkovysk, from Germany, Austria, Czechoslovakia, Belgium and Greece (T/1304, p.
+[[LOCATION:location_93|Warsaw]] and from other cities in Central [[LOCATION:location_5|Poland]], from Bialystok, [[LOCATION:location_188|Grodno]] and
+Volkovysk, from [[LOCATION:location_2|Germany]], [[LOCATION:location_14|Austria]], [[LOCATION:location_15|Czechoslovakia]], [[LOCATION:location_21|Belgium]] and [[LOCATION:location_26|Greece]] (T/1304, p.
 10 of the Hebrew translation; and T/1305, minutes of the evidence of a Polish railway
 worker named Zawetzky).
-The Accused visited Treblinka. In his Statement T/37, p. 229, he describes the sham
+The Accused visited [[LOCATION:location_173|Treblinka]]. In his Statement T/37, p. 229, he describes the sham
 railway station and the naked Jews being led to the gas chambers along paths
 surrounded by barbed wire and calls this sight "the most terrible thing I ever saw in
 my life."
 124. We shall now quote a description by a German of the extermination in the
-Belzec camp, which was very similar to that of Treblinka. The writer is an SS officer
+[[LOCATION:location_154|Belzec]] camp, which was very similar to that of [[LOCATION:location_173|Treblinka]]. The writer is an SS officer
 named Gerstein, whose conscience gave him no peace, and who, in 1942, tried to
 reveal the truth about extermination camps to the world. The description from which
 we are about to quote was written by him immediately after the War and handed by
@@ -5479,11 +5479,11 @@ later in another context. Here we shall only say that Gerstein's words are confi
 in detail by the evidence which we heard, so that these testimonies corroborate each
 other. We accept Gerstein's statement as a true description of what he saw with his
 own eyes. He writes (T/1309):
-"On the following morning, we left for Belzec. A small special railway station, with two
+"On the following morning, we left for [[LOCATION:location_154|Belzec]]. A small special railway station, with two
 platforms at the foot of a yellow limestone hill, immediately north of the road and the
 
-Lublin-Lemberg railway line. To the south, near the road, there are a number of
-service buildings bearing the sign: 'Local Branch of the Armed SS, Belzec'...no dead
+[[LOCATION:location_35|Lublin]]-Lemberg railway line. To the south, near the road, there are a number of
+service buildings bearing the sign: 'Local Branch of the Armed SS, [[LOCATION:location_154|Belzec]]'...no dead
 were seen that day, but in the air all around, even on the road, there was a
 nauseating smell.
 "Near the small railway station, there was a large hut marked 'Cloakroom,' with a
@@ -5546,7 +5546,7 @@ see that he is scared because I am a witness to the mishap. Yes, I can see
 everything, and I wait. My stopwatch records everything. Fifty minutes, seventy
 minutes, no ignition. The people in the gas chambers wait in vain. We hear them cry.
 'Like in a synagogue,' says SS Sturmbannfuehrer Professor Dr. Pfannenstiel,
-Professor of Hygiene at the University of Marburg on the Lahn, after listening through
+Professor of Hygiene at the University of [[LOCATION:location_36|Marburg]] on the Lahn, after listening through
 the wooden door. Captain Wirth is furious. He brings the whip down eleven or twelve
 times on the face of the Ukrainian who is helping Heckenholt. "After two hours and
 forty-nine minutes - my stopwatch recorded everything - the diesel engine began to
@@ -5559,47 +5559,47 @@ dead. At the other end, Jewish labourers open the wooden doors...the dead stand
 erect like basalt columns, for there is no room to fall or to collapse. Even in death,
 one can recognize the families, holding hands. It is only with difficulty that they can
 be separated to make room in the chambers for the next transport...
-From the report by the Polish Commission which investigated the Belzec camp
+From the report by the [[ORGANIZATION:org_331|Polish Commission]] which investigated the [[LOCATION:location_154|Belzec]] camp
 (T/1316), it becomes clear that this camp was a place mainly for the extermination of
-Jews from south- eastern Poland, but Jews from Czechoslovakia, Austria, Romania,
-Hungary and Germany were also brought there for extermination (p. 13 of the
-Hebrew translation). The Commission estimated the number of those killed at Belzec
+Jews from south- [[LOCATION:location_161|eastern Poland]], but Jews from [[LOCATION:location_15|Czechoslovakia]], [[LOCATION:location_14|Austria]], [[LOCATION:location_129|Romania]],
+[[LOCATION:location_24|Hungary]] and [[LOCATION:location_2|Germany]] were also brought there for extermination (p. 13 of the
+Hebrew translation). The Commission estimated the number of those killed at [[LOCATION:location_154|Belzec]]
 as at least 600,000 (supra, p. 15).
 125. Evidence about the Sobibor camp revealed a picture similar to that of the
-Treblinka and Belzec camps. Here, Jews from eastern Poland and from Germanoccupied territories in Soviet Russia, as well as from Czechslovakia, Slovakia,
-Austria and Germany were exterminated (evidence of Dov Freiberg, Session 64,
-Vol.III, pp. 1169; and the Polish Commission Report, T/1293, on page 78 of the
+[[LOCATION:location_173|Treblinka]] and [[LOCATION:location_154|Belzec]] camps. Here, Jews from [[LOCATION:location_161|eastern Poland]] and from Germanoccupied territories in Soviet [[LOCATION:location_10|Russia]], as well as from Czechslovakia, [[LOCATION:location_84|Slovakia]],
+[[LOCATION:location_14|Austria]] and [[LOCATION:location_2|Germany]] were exterminated (evidence of [[PERSON:witness_21|Dov Freiberg]], Session 64,
+Vol.III, pp. 1169; and the [[ORGANIZATION:org_331|Polish Commission]] Report, T/1293, on page 78 of the
 Hebrew translation). This camp was liquidated after the revolt of the Jewish prisoners
-which broke out there in October 1943. The Polish Commission estimates the
+which broke out there in October 1943. The [[ORGANIZATION:org_331|Polish Commission]] estimates the
 number of victims in this camp as at least 250,000 (supra, p. 7).
 
-126. The Majdanek camp was a large concentration camp in Lublin, and also a place
-where Jews were exterminated by shooting and gassing. Witness Joseph Reznik
+126. The [[LOCATION:location_281|Majdanek]] camp was a large concentration camp in [[LOCATION:location_35|Lublin]], and also a place
+where Jews were exterminated by shooting and gassing. Witness [[PERSON:witness_56|Joseph Reznik]]
 gave evidence (Session 64, Vol. III, p.1160) about the mass slaughter in November
-1943, when Jews were shot in the "fifth field" at Majdanek. The Polish Commission
+1943, when Jews were shot in the "fifth field" at [[LOCATION:location_281|Majdanek]]. The [[ORGANIZATION:org_331|Polish Commission]]
 Report (T/1289, p. 5 of the Hebrew translation) gives the number of Jews killed on
 one single day - 3 November 1943, as 18,000. Gas chambers were also set up at
-Majdanek (supra, pp. 3, 5). Jews from Poland, Slovakia, Czechoslovakia and from
+[[LOCATION:location_281|Majdanek]] (supra, pp. 3, 5). Jews from [[LOCATION:location_5|Poland]], [[LOCATION:location_84|Slovakia]], [[LOCATION:location_15|Czechoslovakia]] and from
 western and southern Europe were brought to this camp (supra, p. 16). The
-Commission estimates the total number of Jewish victims in Majdanek at 200,000 (p.
-118). Majdanek camp had branches, one of which was Trawniki camp, already
-mentioned as the destination for deportations of Jews from Germany.
-127. The Auschwitz-Birkenau camp was the largest of the extermination camps. Like
-Majdanek, this comprised a concentration camp where prisoners were worked to
+Commission estimates the total number of Jewish victims in [[LOCATION:location_281|Majdanek]] at 200,000 (p.
+118). [[LOCATION:location_281|Majdanek]] camp had branches, one of which was Trawniki camp, already
+mentioned as the destination for deportations of Jews from [[LOCATION:location_2|Germany]].
+127. The [[LOCATION:location_286|Auschwitz-Birkenau]] camp was the largest of the extermination camps. Like
+[[LOCATION:location_281|Majdanek]], this comprised a concentration camp where prisoners were worked to
 death, and had buildings for immediate physical extermination. We shall deal first
-with the second aspect of Auschwitz- Birkenau. On the extermination process, we
-shall quote from the notes made by the camp commander, Rudolf Hoess, when he
-was in Nuremberg Prison, and handed to us by the witness, Professor Gilbert, who
+with the second aspect of [[LOCATION:location_286|Auschwitz]]- [[LOCATION:location_286|Birkenau]]. On the extermination process, we
+shall quote from the notes made by the camp commander, [[PERSON:person_405|Rudolf Hoess]], when he
+was in [[LOCATION:location_39|Nuremberg]] Prison, and handed to us by the witness, Professor Gilbert, who
 received them from Hoess himself. Professor Gilbert was serving, at the time, as a
 psychologist in the American army, and it was his duty to observe the prisoners in
-Nuremberg Prison.
-After Hoess had testified at Nuremberg that the Accused told him that over two
-million Jews were exterminated at Auschwitz (see T/1357, p. 2), Goering maintained
+[[LOCATION:location_39|Nuremberg]] Prison.
+After Hoess had testified at [[LOCATION:location_39|Nuremberg]] that the Accused told him that over two
+million Jews were exterminated at [[LOCATION:location_286|Auschwitz]] (see T/1357, p. 2), Goering maintained
 in a conversation with Professor Gilbert that this was technically impossible (Session
 35, Vol. III, p. 1005). Then Professor Gilbert proposed asking Hoess himself about
 this matter, and that was done. In answer to the question, Hoess made notes which
 are undoubtedly an authentic description (T/1170), and tally with what we have heard
-from witnesses in regard to Auschwitz. He explains that the freight trains carrying the
+from witnesses in regard to [[LOCATION:location_286|Auschwitz]]. He explains that the freight trains carrying the
 Jews destined for extermination reached a special platform in the camp, near the
 extermination structures. The Accused's Section, which dispatched them, sent word
 in advance, and the trains were marked with certain figures and letters, to avoid their
@@ -5624,7 +5624,7 @@ special aperture. This vaporized immediately and did its work. Death came from
 corpses were taken for burning, after the women's hair was cut off and gold teeth
 were removed.
 There were five crematoria there, in which it was possible to burn up to ten thousand
-corpses per day. The ashes were ground into dust and were thrown into the Vistula
+corpses per day. The ashes were ground into dust and were thrown into the [[LOCATION:location_162|Vistula]]
 river and washed away with the current. Hoess calculated that if the average number
 of bodies cremated daily for 27 months was 3,000, the number of people killed
 totalled about two and a half million. In his opinion, one and a half million, at most,
@@ -5632,21 +5632,21 @@ were exterminated, but he adds that he has no evidence with which to prove his
 figure, and we shall refrain from deciding which is the correct figure.
 As stated above, this horrifying description, given by the master butcher himself, in
 the language of a dry office report, has been fully confirmed by witnesses who
-testified before us (see the evidence of Yehuda Bakon, Session 68, Vol. 111, p.
+testified before us (see the evidence of [[PERSON:person_705|Yehuda Bakon]], Session 68, Vol. 111, p.
 1246-1248); the evidence of Nachum Hoch, Session 71, Vol. III, p. 1291-xxxx).
-The Jews exterminated at Auschwitz-Birkenau were brought there from all over
+The Jews exterminated at [[LOCATION:location_286|Auschwitz-Birkenau]] were brought there from all over
 Europe, and mainly from central, western and southern Europe, and amongst them
 were Jews from the German Reich (including annexed territories in the East), from
-the Czech-Bohemian Protectorate, France, Belgium, Holland, Italy, Greece, Romania,
-Croatia, Hungary, Slovakia, and also the Generalgouvernement area (see the above
+the Czech-Bohemian Protectorate, [[LOCATION:location_30|France]], [[LOCATION:location_21|Belgium]], Holland, [[LOCATION:location_19|Italy]], [[LOCATION:location_26|Greece]], [[LOCATION:location_129|Romania]],
+[[LOCATION:location_85|Croatia]], [[LOCATION:location_24|Hungary]], [[LOCATION:location_84|Slovakia]], and also the [[LOCATION:location_152|Generalgouvernement]] area (see the above
 note by Hoess, T/1170; and the evidence of Rajewski in the Hoess trial, T/1356).
-128. Not all the Jews who were sent to Auschwitz were killed immediately. We have
+128. Not all the Jews who were sent to [[LOCATION:location_286|Auschwitz]] were killed immediately. We have
 seen that on their arrival in the camp a "selection" was generally carried out, and
 those who appeared fit for work were put to hard labour until their strength gave out.
 And if a person did not die from hard labour or as a result of torture at the hands of
 the slavedrivers, then he was finally killed by gas, or by the injection of poison into his
 veins (T/90, p. 11). The witness Ze'ev Sapir described a selection carried out in
-Auschwitz thus (Session 53, Vol. III, p. 57):
+[[LOCATION:location_286|Auschwitz]] thus (Session 53, Vol. III, p. 57):
 "A. I arrived there together with my parents.
 "Q. Did you also have brothers and a sister?
 "A. I arrived there with my four brothers and one sister.
@@ -5668,9 +5668,9 @@ the left.
 "Q. Did you see them again, after this?
 "A. No, I did not see them at all, after this."
 Living Conditions in the Camps
-129. We heard evidence about the reign of terror in Auschwitz in the shadow of the
+129. We heard evidence about the reign of terror in [[LOCATION:location_286|Auschwitz]] in the shadow of the
 smoke going up from the crematoria, and in the many camps connected with
-Auschwitz. There was evidence, similar in content, about conditions in the Majdanek
+[[LOCATION:location_286|Auschwitz]]. There was evidence, similar in content, about conditions in the [[LOCATION:location_281|Majdanek]]
 camp in the East and in the many labour and concentration camps scattered
 throughout eastern Europe. The system was uniform, with local variations, according
 to the sadistic inventiveness of the commanders and of the guards, who had the lives
@@ -5682,7 +5682,7 @@ was to exterminate the Jew by making him work under inhuman conditions until the
 last drop of strength had been squeezed out of him. This applied also to the few who
 were kept alive in the extermination camps, to be employed for a time in the camp,
 until they, too, went the way of their exterminated brethren.
-We heard the following about the Majdanek camp from Yisrael Gutman (Session 63,
+We heard the following about the [[LOCATION:location_281|Majdanek]] camp from Yisrael Gutman (Session 63,
 Vol. III, p. 1154):
 "There stood very long huts, stables for horses, and this was where we were
 housed... There was a notice on the hut that it could hold fifty-two horses...we were
@@ -5698,7 +5698,7 @@ a valued possession. And, on one of the early nights, one of these clogs was sto
 from me, and at these roll-calls, at 4.30 in the morning - I had to stand with one foot
 bare - and the weather was extremely cold at the time. Some days later, I ran a high
 temperature."
-Dr. Aharon Beilin describes the living conditions in the Auschwitz camp:
+[[PERSON:witness_26|Dr. Aharon Beilin]] describes the living conditions in the [[LOCATION:location_286|Auschwitz]] camp:
 "It was terribly overcrowded, sixteen of us lay on a ledge which was intended, more
 or less, for six people. We would only lie on our side, for if one of us wanted to turn
 over, everyone had to turn over. If someone got down during the night in order to
@@ -5725,7 +5725,7 @@ dressed like us, with wooden shoes which used to slip in the snow and the mud. A
 in this way one could visualize the picture which I am unable to describe - and I do
 not know whether others would be able to describe - how women walked for a whole
 night, stumbling and pulling these waggons."
-And this is what Yitzhak Zuckerman said about forced labour of Jews from Warsaw in
+And this is what [[PERSON:person_495|Yitzhak Zuckerman]] said about forced labour of Jews from [[LOCATION:location_93|Warsaw]] in
 the Kampinos camp (Session 25, Vol. I, p. 409):
 "We were taken before dawn - a community of several hundred Jews, a weakened
 community...men who had not had enough to eat for a long time... When we arrived,
@@ -5734,7 +5734,7 @@ to twelve hours, standing in the water almost up to our necks. Afterwards we wer
 taken back and had to sleep in the same clothes. It was Spring, cold, very cold. The
 same thing happened the next morning - the food was meagre - a beverage they
 called coffee, 15 or 20 deka of bread, and I need hardly add that, after two years of
-life in the Warsaw Ghetto, these Jews who had come to work populated the
+life in the [[LOCATION:location_93|Warsaw]] Ghetto, these Jews who had come to work populated the
 Kampinos cemetery already in the first few weeks - they died."
 Witnesses described cruel corporal punishments - the "Stehbunker" (standing cell), a
 narrow cell, where a man could not turn around nor move his hands. People were
@@ -5742,7 +5742,7 @@ kept standing there for ten to twelve hours and more, and when they emerged,
 tortured and dazed, they had to go back to work immediately. They related how a
 man was hanged in the presence of his comrades during roll-call, because of some
 potatoes he had taken to still his hunger. They told of endless tortures, such as
-marksmanship competitions among SS men, using live men as targets. Dov Freiberg
+marksmanship competitions among SS men, using live men as targets. [[PERSON:witness_21|Dov Freiberg]]
 says in evidence (Session 64, Vol. III, p. 1171-1172 ):
 "I can talk about one of the many days that passed. We were then working in the
 sorting camp [in Sobibor]. We began sorting out the piles that had been heaped up in
@@ -5754,7 +5754,7 @@ lad climbed up though the rafters, moving along on his hands. He was not agile
 enough, fell down and broke his limbs. For falling down, he received twenty-five
 strokes of the whip and Beri [Paul's dog] dealt with him. This appealed to Paul, and
 
-he went and called other Germans. I remember Oberscharfuehrer Michel, Schteufel.
+he went and called other Germans. I remember [[PERSON:person_688|Oberscharfuehrer Michel]], Schteufel.
 He called out to them: 'I have discovered parachutists amongst the Jews. Do you
 want to see?' They burst out laughing, and he began sending people up, one after
 the other, to go on to the rafters. I went over it twice - I was fairly agile; and whoever
@@ -5772,8 +5772,8 @@ and suffering to which we listened, in order to prove that the reign of terror i
 camps was bound to break a man's spirit, as well as his mental and physical powers
 of resistance.
 130. We have listened to much evidence on living conditions in the ghettos in the
-East. From Lodz to Vilna, Kovno, Bialystok, Riga in the north, and Cracow, Przemysl,
-Kolomea and Lvov in the south, to the largest of them all, the Warsaw Ghetto, into
+East. From [[LOCATION:location_81|Lodz]] to [[LOCATION:location_171|Vilna]], [[LOCATION:location_17|Kovno]], Bialystok, [[LOCATION:location_16|Riga]] in the north, and Cracow, Przemysl,
+[[LOCATION:location_199|Kolomea]] and [[LOCATION:location_99|Lvov]] in the south, to the largest of them all, the [[LOCATION:location_93|Warsaw]] Ghetto, into
 which some half a million Jews were crammed.
 The witness Zivia Lubetkin gave a description of the life of the Jews in this ghetto,
 which can apply to the other ghettos as well. She spoke of the economic decrees
@@ -5808,23 +5808,23 @@ that this was a method of torture, of terror, of making our lives worthless."
 The witness also gave evidence about the terrible sanitary conditions resulting from
 tremendous congestion, the typhus epidemic which broke out, and the hunger which
 struck down hundreds of victims daily.
-Such were the conditions of Jewish life in the Warsaw Ghetto until the large "actions"
+Such were the conditions of Jewish life in the [[LOCATION:location_93|Warsaw]] Ghetto until the large "actions"
 which began in July 1942, when Jews were rounded up en masse and deported to
-Treblinka for extermination.
-Dr. Meir Mark Dworzecki and Dr. Aharon Peretz, in their evidence, spoke about
+[[LOCATION:location_173|Treblinka]] for extermination.
+Dr. Meir Mark Dworzecki and [[PERSON:witness_37|Dr. Aharon Peretz]], in their evidence, spoke about
 medical aspects of Jewish life in the ghetto. The rations given to the Jews had a
 value of 170- 200 calories per day, whereas a person who is not working needs
 2,300 calories and a working man needs 3,000-5,000 calories. Dr. Dworzecki carried
 out research on this subject and found that, with these rations, all inhabitants of the
-Vilna Ghetto would starve to death within a month or two. This did not happen,
+[[LOCATION:location_171|Vilna]] Ghetto would starve to death within a month or two. This did not happen,
 because the ghetto residents succeeded in smuggling food into the ghetto, sufficient
 to provide 800-1,000 calories per soul per day. He further calculated that, even with
-the aid of smuggled food, the inmates of the Warsaw Ghetto would have died of
+the aid of smuggled food, the inmates of the [[LOCATION:location_93|Warsaw]] Ghetto would have died of
 starvation to the very last man within eight years.
-A passage from the diary of Hans Frank is worth mentioning here (T/253, p. 44). It
-relates to a meeting of the heads of the Generalgouvernement in Cracow on 24
+A passage from the diary of [[PERSON:person_492|Hans Frank]] is worth mentioning here (T/253, p. 44). It
+relates to a meeting of the heads of the [[LOCATION:location_152|Generalgouvernement]] in Cracow on 24
 August 1942, when the subject on the agenda was "The absorption and feeding plan
-for the Generalgouvernement." The directive of the Main Department for Nutrition
+for the [[LOCATION:location_152|Generalgouvernement]]." The directive of the Main Department for Nutrition
 and Agriculture stated there that,
 "The supply of necessities, previously geared to an estimated Jewish population of
 one million, now concerns only an estimated number of 300,000 Jews still working for
@@ -5838,13 +5838,13 @@ concentration camps.
 We heard evidence about children in the ghetto, about the dashing of a child's head
 against the pavement before his mother's eyes (evidence of Noah Zabludowicz,
 Session 21, Vol. I, pp. 335); about children torn from their mothers' arms and taken
-off for extermination; about the children in Lodz who were thrown from hospital
+off for extermination; about the children in [[LOCATION:location_81|Lodz]] who were thrown from hospital
 balconies into trucks which came to round up the sick and the children, in order to
-deport them for extermination (evidence of Henryk Ross, Session 23, Vol. I, p. 380);
+deport them for extermination (evidence of [[PERSON:witness_50|Henryk Ross]], Session 23, Vol. I, p. 380);
 about mass kidnapping of children in the "Children's Action" (evidence of Peretz,
-Session 28, Vol. I, p. 479); and about whole orphanages evacuated from Warsaw,
+Session 28, Vol. I, p. 479); and about whole orphanages evacuated from [[LOCATION:location_93|Warsaw]],
 
-and the children and their teachers taken to Treblinka (the evidence of Dr. Adolf
+and the children and their teachers taken to [[LOCATION:location_173|Treblinka]] (the evidence of Dr. Adolf
 Berman, Session 26, Vol. I, p. 426-427).
 131. The extermination of the Jews was connected everywhere with the plunder of
 their property, down to their clothes and personal belongings which they brought with
@@ -5852,34 +5852,34 @@ them on their way to extermination, and including all their other possessions. A
 finally, the murderers did not stop short of violating the corpses by removing the gold
 teeth from the victims' mouths.
 Enormous quantities of clothing and personal belongings of the victims were
-accumulated in Auschwitz in stores known as "Canada." The witness Gedalia BenZvi, who worked in those stores, testified that twenty railway trucks, full of such
-articles, were sent every week from Auschwitz to Germany. This continued during his
+accumulated in [[LOCATION:location_286|Auschwitz]] in stores known as "[[LOCATION:location_55|Canada]]." The witness Gedalia BenZvi, who worked in those stores, testified that twenty railway trucks, full of such
+articles, were sent every week from [[LOCATION:location_286|Auschwitz]] to [[LOCATION:location_2|Germany]]. This continued during his
 entire stay there of about one year (Session 71, Vol. III, pp. xxxx-xxxx).
 The seventh count of the indictment lists the objects which were found in six
-"Canada" stores, found unburnt when the camp was liberated: 348,820 men's suits,
+"[[LOCATION:location_55|Canada]]" stores, found unburnt when the camp was liberated: 348,820 men's suits,
 836,255 women's suits, and 38,000 pairs of men's shoes. These figures were taken
-from the official bulletin of the Polish Government Main Commission for the
+from the official bulletin of the [[ORGANIZATION:org_304|Polish Government]] Main Commission for the
 Investigation of Nazi Crimes (T/204, p. 44 in the English translation), which is a
 reliable description. And thus it was in the other extermination camps. Kalman
-Teigman, who worked on the sorting of the belongings of those killed in Treblinka,
+Teigman, who worked on the sorting of the belongings of those killed in [[LOCATION:location_173|Treblinka]],
 stated in evidence (Session 66, Vol. III, p. 1207):
 "[There was] an enormous quantity. There were actually heaps outside on the ground,
 several storeys high...clothes, personal possessions, children's toys, everything...
 medicines and instruments, everything."
 Exhibit T/1385 contains detailed directions about how to use the property plundered
-in the district of Lublin and in Auschwitz, from jewellery to spectacles, fountain pens,
+in the district of [[LOCATION:location_35|Lublin]] and in [[LOCATION:location_286|Auschwitz]], from jewellery to spectacles, fountain pens,
 children's clothes and prams - nothing was forgotten. The document says that in
 future all these were to be referred to as "the property of thieves, receivers of stolen
 property and hoarders."
 In exhibit T/1387, a letter addressed to Himmler by the Economic-Administrative
 Head Office, the destination of each kind of article is stated. Money, jewellery, gold
 teeth, etc. are to go to the Reichsbank, to the account of the Economic-Administrative
-Head Office; articles of clothing are to be sold to public institutions in Germany;
+Head Office; articles of clothing are to be sold to public institutions in [[LOCATION:location_2|Germany]];
 watches to SS men and submarine crews, etc. (see also T/1386, T/1387). Exhibit
 T/1389 is the final report by Globocnik, Commander of the SS and the Police in the
-Lublin area, dated 18 January 1944, on "the economic aspect of Reinhard
+[[LOCATION:location_35|Lublin]] area, dated 18 January 1944, on "the economic aspect of Reinhard
 Operation." This was the name given to the extermination of Polish Jewry in the
-camps of the Lublin area.
+camps of the [[LOCATION:location_35|Lublin]] area.
 We shall quote from this report only the final figures for textiles, plundered from the
 victims: 1901 railway trucks of clothing, underwear, bed feathers and rags, valued at
 26 million marks; more goods of the same kind in stores were valued at 20 million
@@ -5894,30 +5894,30 @@ connection with all those crimes committed by the Germans in eastern Europe.
 Certainly, such activity has been proved in regard to victims from the other countries
 in Europe who had been rounded up there and deported to the East by the Accused
 and his subordinates, to be killed there immediately or sometime later - for instance,
-as regards the Stettin Jews who were taken to the vicinity of Lublin and there were
+as regards the Stettin Jews who were taken to the vicinity of [[LOCATION:location_35|Lublin]] and there were
 mixed with the local population, later to meet the same fate as their brethren.
 Certainly the Accused's activities were amongst the causes of their death and their
 suffering before their death. The same applies to the Jews sent by the Accused from
-the Reich to the Lodz Ghetto, to Nebe and to Rasch, to Riga, Minsk, etc., and above
-all, to the masses of Jews he sent to Auschwitz and to extermination camps in the
-Generalgouvernement area.
+the Reich to the [[LOCATION:location_81|Lodz]] Ghetto, to [[PERSON:person_510|Nebe]] and to [[PERSON:person_476|Rasch]], to [[LOCATION:location_16|Riga]], [[LOCATION:location_18|Minsk]], etc., and above
+all, to the masses of Jews he sent to [[LOCATION:location_286|Auschwitz]] and to extermination camps in the
+[[LOCATION:location_152|Generalgouvernement]] area.
 But what about the crimes perpetrated against the Jews of the East, in their home
 towns - their subjection to inhuman living conditions in camps and in ghettos, the
 plunder of their property, and their murder?
 To give a precise answer to this question, attention must be paid to the way the
 Germans divided the eastern territories which fell into their hands during the War
-years. They annexed to the Reich vast areas of western and northern Poland; the
-areas previously known as the Polish Corridor, namely western Prussia, the Poznan
-district and additional parts of western Poland, including Lodz (Litzmannstadt), which
+years. They annexed to the Reich vast areas of western and northern [[LOCATION:location_5|Poland]]; the
+areas previously known as the Polish Corridor, namely western [[LOCATION:location_91|Prussia]], the [[LOCATION:location_105|Poznan]]
+district and additional parts of western [[LOCATION:location_5|Poland]], including [[LOCATION:location_81|Lodz]] ([[LOCATION:location_158|Litzmannstadt]]), which
 were known as the Warthe district (Warthegau); and all the area which was Upper
-Silesia before World War I. But, in addition, they also annexed nearby stretches in
-western Poland, so that Auschwitz itself came within the Reich; and parts of Poland
-to the north, bordering on East Prussia and including Zichenau (Ciechanow) and
-Bialystok and district. In what was left of Poland up to the demarcation line with
-Soviet Russia in the East, the Generalgouvernement district was set up, under the
-rule of Hans Frank, who was given extensive administrative autonomy.
-After additional conquests, which came with the outbreak of the war with Russia,
-eastern Galicia and Lvov were annexed to the Generalgouvernement area. As for the
+[[LOCATION:location_103|Silesia]] before World War I. But, in addition, they also annexed nearby stretches in
+western [[LOCATION:location_5|Poland]], so that [[LOCATION:location_286|Auschwitz]] itself came within the Reich; and parts of [[LOCATION:location_5|Poland]]
+to the north, bordering on East [[LOCATION:location_91|Prussia]] and including [[LOCATION:location_82|Zichenau]] ([[LOCATION:location_156|Ciechanow]]) and
+Bialystok and district. In what was left of [[LOCATION:location_5|Poland]] up to the demarcation line with
+Soviet [[LOCATION:location_10|Russia]] in the East, the [[LOCATION:location_152|Generalgouvernement]] district was set up, under the
+rule of [[PERSON:person_492|Hans Frank]], who was given extensive administrative autonomy.
+After additional conquests, which came with the outbreak of the war with [[LOCATION:location_10|Russia]],
+[[LOCATION:location_167|eastern Galicia]] and [[LOCATION:location_99|Lvov]] were annexed to the [[LOCATION:location_152|Generalgouvernement]] area. As for the
 remaining territories conquered in the East, to the extent that they were transferred
 from military to civilian rule, Rosenberg was appointed as Reich Minister for the
 Eastern Occupied Territories. His subordinates were Lohse in the north, in charge of
@@ -5928,7 +5928,7 @@ orders were given for the Solution of the Jewish Question, and that the authorit
 that region, headed by the Reich Governor, Greiser, dealt with the matter
 independently, without the participation of the Accused's Section, IVB4.
 We do not accept this argument. It is possible that Greiser showed activity and
-enthusiasm of his own in bringing about the Final Solution, but one cannot conclude
+enthusiasm of his own in bringing about the [[EVENT:event_389|Final Solution]], but one cannot conclude
 from this that the Warthe district was outside the jurisdiction of the Accused's Section
 in the RSHA. We have already spoken about deportations during the year 1939-1940
 from the areas annexed to the Reich in the East and including the Warthe district,
@@ -5943,23 +5943,23 @@ Statement to Superintendent Less (T/37, p. 3083):
 "Q. And as far as Jewish matters were concerned, were these also subject to the
 authority of your Section?
 "A. This is quite clear, yes."
-As to the Lodz Ghetto - the second largest of all the ghettos, also situated in the
+As to the [[LOCATION:location_81|Lodz]] Ghetto - the second largest of all the ghettos, also situated in the
 Warthe district - we have mentioned Kaltenbrunner's cable dated 30 June 1943 (from
-the files of the Duesseldorf Gestapo). He there gives notice of a visit to be paid by the
-Accused to the Lodz Ghetto in connection with the deportation of Jews from there.
+the files of the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]]). He there gives notice of a visit to be paid by the
+Accused to the [[LOCATION:location_81|Lodz]] Ghetto in connection with the deportation of Jews from there.
 Then, at a later stage, it seems at the beginning of 1944, the Accused's name
-appears as Kaltenbrunner's representative at talks about liquidating the Lodz Ghetto
+appears as Kaltenbrunner's representative at talks about liquidating the [[LOCATION:location_81|Lodz]] Ghetto
 and turning it into a concentration camp, to be handed over to the EconomicAdministrative Head Office (T/247).
 In another document (T/248) also, we read that the Accused took part in the
-preparation of a report on economic enterprises in the Lodz Ghetto, together with
+preparation of a report on economic enterprises in the [[LOCATION:location_81|Lodz]] Ghetto, together with
 Horn, the manager of OSTI. From these documents, we learn that the Accused held
-sway over the affairs of the Lodz Ghetto, since he was the person handling Jewish
+sway over the affairs of the [[LOCATION:location_81|Lodz]] Ghetto, since he was the person handling Jewish
 affairs on behalf of the RSHA.
 134. As to other areas annexed to the Reich in the East , the Accused himself admits
 that his powers there were not different from those in the Old Reich. He confirms the
 contents of the statement made by Friedel (T/293, pp. 16, 21), the man in charge of
 the ghetto in Bialystok, that the evacuation of the Jews from the Bialystok Ghetto to
-Treblinka in February 1943 was carried out by Guenther, the Accused's permanent
+[[LOCATION:location_173|Treblinka]] in February 1943 was carried out by Guenther, the Accused's permanent
 deputy. This is what he says on the subject (Session 100, Vol. IV, p.xxxx9):
 "Bialystok was within the Reich territory, that is the territories in the East annexed to
 the Reich. As far as I know, the order for deportation in regard to all those Eastern
@@ -5969,21 +5969,21 @@ prepare the action."
 Session 28, Vol. I, p. 468-473). The deportation of 30,000 Jews from Bialystok is also
 mentioned in Mueller's cable of 16 December 1942, bearing the reference number of
 the Accused's Section (T/292).
-Similarly, in relation to Ciechanow: The Accused transmits to the local Gestapo
+Similarly, in relation to [[LOCATION:location_156|Ciechanow]]: The Accused transmits to the local [[ORGANIZATION:org_344|Gestapo]]
 station Himmler's order for the execution by hanging of seven Jews "in the presence
 
 of members of their race." The report on the carrying out of these hangings is to be
 sent to the Accused's Section (T/200; see also T/201).
-The Accused's Activities in the Generalgouvernement Area
+The Accused's Activities in the [[LOCATION:location_152|Generalgouvernement]] Area
 135. Were the Accused and his Section active against the Jewish inhabitants of the
-Generalgouvernement, and to what extent? We do not include in this question the
+[[LOCATION:location_152|Generalgouvernement]], and to what extent? We do not include in this question the
 actual acts of extermination in the camps in the East, for these we shall discuss
-separately later. The Accused alleges that within the Generalgouvernement matters
+separately later. The Accused alleges that within the [[LOCATION:location_152|Generalgouvernement]] matters
 were run according to special orders from Himmler, of which he, the Accused, had no
 knowledge. This is not an easy question, for, on the one hand, many special factors
 are connected with it - factors which did not exist in other countries - whilst, on the
 other hand, the evidence brought before us in connection with the
-Generalgouvernement area and the measures adopted against the millions of Jews
+[[LOCATION:location_152|Generalgouvernement]] area and the measures adopted against the millions of Jews
 who lived there at the time of the Germans' entry into the area is rather scanty.
 Amongst the factors mentioned, the one to be stressed particularly is the very
 existence of autonomous rule in that area, with a government of its own, headed by
@@ -5991,7 +5991,7 @@ Frank. This in itself was an unfailing source of friction between Frank, who jea
 guarded his prerogatives as all-powerful ruler in the area entrusted to him, and the
 Reich authorities, who strove to centralize power in their own hands. This competition
 was especially noticeable between Frank and Himmler and his representative in the
-Generalgouvernement area, Krueger, Senior commander of the SS and the Police,
+[[LOCATION:location_152|Generalgouvernement]] area, [[PERSON:person_474|Krueger]], Senior commander of the SS and the Police,
 who served at the same time also as State Secretary for Security Affairs in the Frank
 government.
 In Frank's diary (T/253), we read his statement to his government on 16 December
@@ -6001,59 +6001,59 @@ framework of the Reich..." (p. 22)
 but on the other hand, on 21 September 1942, he still emphasized:
 "...all the main departments, having the interest of the Reich at heart, must pay
 attention to the fact that the sole responsibility for what is happening in this area, in
-the land of the Generalgouvernement, has not been denied to us by a single person
+the land of the [[LOCATION:location_152|Generalgouvernement]], has not been denied to us by a single person
 to date...to my regret, I notice here and there perhaps a cautious trend in another
 direction. They think that now perhaps it is possible, gradually, to relax the complete
-and close links which exist with the Generalgouvernement, by a closer relationship
+and close links which exist with the [[LOCATION:location_152|Generalgouvernement]], by a closer relationship
 with central authorities in the Reich... May I therefore remind you, Messrs. Directors
 of the main departments, as well as the gentlemen from the State Secretariat for
 Security Matters again and again, that in the unitary and complete administration of
 this area there has not been the slightest change." (p. 27)
-At another meeting, on 25 January 1943, he protests strongly at the fact that Krueger
+At another meeting, on 25 January 1943, he protests strongly at the fact that [[PERSON:person_474|Krueger]]
 executed Himmler's order without informing him (Frank). He adds that this is a typcial
 example of the way police actions are executed in accordance with the
 Reichsfuehrer's order, "about which I have had no knowledge, in contradiction to the
 Fuehrer's order, and to which I have not given my consent" (p. 31). Yet, Frank
 explains that the responsibility for the extermination of the Jews does not lie with the
-government of the Generalgouvernement area, since "the order to exterminate the
+government of the [[LOCATION:location_152|Generalgouvernement]] area, since "the order to exterminate the
 Jews came from higher authorities" (p. 29).
 
 Perhaps, in order to overcome Frank's isolationist aspirations, it was necessary for
 Himmler from time to time to exert his authority by issuing orders for police actions
-against Jews directly to his representative Krueger, and not via Heydrich and the
-RSHA. Krueger, for his part, would act through the police and SS commanders, such
-as Globocnik in the Lublin district and Katzmann in Galicia, neither of whom belonged
+against Jews directly to his representative [[PERSON:person_474|Krueger]], and not via Heydrich and the
+RSHA. [[PERSON:person_474|Krueger]], for his part, would act through the police and SS commanders, such
+as Globocnik in the [[LOCATION:location_142|Lublin district]] and [[PERSON:person_477|Katzmann]] in [[LOCATION:location_83|Galicia]], neither of whom belonged
 to the RSHA establishment.
 An important fact pointing in this direction is that the final report of 30 June 1943 on
-"The Solution of the Jewish Question in Galicia," which states that 434,329 Jews had
-been exterminated (T/215), came from Katzmann and was submitted by him to
-Krueger. This proves that these actions were carried out in accordance with orders
-transmitted in the line of command from Himmler to Krueger to Katzmann, and we
+"The Solution of the Jewish Question in [[LOCATION:location_83|Galicia]]," which states that 434,329 Jews had
+been exterminated (T/215), came from [[PERSON:person_477|Katzmann]] and was submitted by him to
+[[PERSON:person_474|Krueger]]. This proves that these actions were carried out in accordance with orders
+transmitted in the line of command from Himmler to [[PERSON:person_474|Krueger]] to [[PERSON:person_477|Katzmann]], and we
 have no evidence of RSHA participation through a line of command from Himmler to
 Heydrich (Eichmann) to the BdS, Cracow.
-As against this, it should be said that, at any rate as from the Wannsee Conference,
-Heydrich's general authority in connection with the Final Solution was recognized,
-without territorial limitations. The representative of the Generalgouvernement, State
+As against this, it should be said that, at any rate as from the [[EVENT:event_387|Wannsee Conference]],
+Heydrich's general authority in connection with the [[EVENT:event_389|Final Solution]] was recognized,
+without territorial limitations. The representative of the [[LOCATION:location_152|Generalgouvernement]], State
 Secretary Buehler, who participated in the conference, also fully admitted this
 authority when saying that:
 "The centralizing authority for the Solution of the Jewish Question in the
-Generalgouvernement area lies in the hands of the Head of the Security Police and
-the SD, and his actions are supported by the Generalgouvernement authorities."
+[[LOCATION:location_152|Generalgouvernement]] area lies in the hands of the Head of the Security Police and
+the SD, and his actions are supported by the [[LOCATION:location_152|Generalgouvernement]] authorities."
 (T/185, p. 15)
-Buehler was invited to the Wannsee Conference, in order to clarify this very question
+Buehler was invited to the [[EVENT:event_387|Wannsee Conference]], in order to clarify this very question
 (see T/182), and as already stated, Heydrich won the day, when the representative of
 "the opponent" surrendered without a fight and admitted his authority.
 136. There is no doubt that, side by side with the special orders sent from time to
-time to the Generalgouvernement directly from Himmler, and perhaps also from
+time to the [[LOCATION:location_152|Generalgouvernement]] directly from Himmler, and perhaps also from
 Hitler's Chancellery, there existed the authority of the RSHA, and therefore also the
-authority of the Accused, concerning the Generalgouvernement area. This authority
+authority of the Accused, concerning the [[LOCATION:location_152|Generalgouvernement]] area. This authority
 could be exercised through the Commander of the Security Police and the SD (BdS)
-in the Generalgouvernement and its subordinate local police authorities.
+in the [[LOCATION:location_152|Generalgouvernement]] and its subordinate local police authorities.
 Perhaps in practice a large measure of freedom of action was left in the hands of the
 local police, if only because of the large scale of the actions perpetrated there against
 Jews. But the Accused admits the fact that such an authority was possessed by the
 RSHA, when asked by the Superintendent Less if he had prepared orders to the
-Security Police in Poland as well, based on Heydrich's directives of 21 September
+Security Police in [[LOCATION:location_5|Poland]] as well, based on Heydrich's directives of 21 September
 1939 (these are the directives concerning the concentration of Jews in towns etc.,
 mentioned above):
 "If during the course of time there was any ambiguity, then of course the BdS was
@@ -6061,58 +6061,58 @@ permitted to turn to the RSHA with a request for an explanation, a directive or 
 decision; and then the official in charge...gave the suitable information." (T/37, p.
 3148)
 Elsewhere, he explains that this authority was exercised only in regard to "matters
-beyond the horizon of the Generalgouvernement" (Session 99, Vol. IV, p. xxxx20),
+beyond the horizon of the [[LOCATION:location_152|Generalgouvernement]]" (Session 99, Vol. IV, p. xxxx20),
 
 and in his Statement to the police, he describes these matters, with which he himself
 was authorized to deal, as of national importance to the Reich (reichswichtig) (T/37, p.
 3128) - for instance the treatment of Jews of foreign nationality in the area of the
-Generalgouvernement.
+[[LOCATION:location_152|Generalgouvernement]].
 We have before us the Accused's letter dated 18 February 1942 (T/267), in which he
-informs the Foreign Ministry that the inhabitants of the Warsaw Ghetto are to be
+informs the Foreign Ministry that the inhabitants of the [[LOCATION:location_93|Warsaw]] Ghetto are to be
 immediately separated from the rest of the population, and he therefore proposes to
 treat Jews, nationals of neutral countries, in the same say as Jewish ex-Polish
 nationals. In a memorandum to the German Foreign Ministry dated April 1942 (T/268),
 we read that the Accused, as representative of the Head of the Security Police and
 the SD, stated that in future foreign nationals would be included in the measures
-taken by the Security Police within the Warsaw Ghetto to ensure public order, for
+taken by the Security Police within the [[LOCATION:location_93|Warsaw]] Ghetto to ensure public order, for
 instance, to halt epidemics (in other words, the extermination of these Jews).
-Here, it is to be remembered that the large "actions" in the Warsaw Ghetto began in
+Here, it is to be remembered that the large "actions" in the [[LOCATION:location_93|Warsaw]] Ghetto began in
 July 1942. It transpires from a later document (T/270 dated 3.9.42) that the Foreign
 Ministry supported the attitude of the Accused in this matter. Here, therefore, the
 Accused appears as a decision-maker on behalf of the RSHA in matters concerning
-the Warsaw Ghetto, and he certainly had authority to carry out his decisions. This is
+the [[LOCATION:location_93|Warsaw]] Ghetto, and he certainly had authority to carry out his decisions. This is
 proof of the fact that he implemented the authority which was granted to him as a
-result of the Wannsee Conference.
+result of the [[EVENT:event_387|Wannsee Conference]].
 We also refer to document T/310, signed by Kaltenbrunner, dated 5 March 1943, with
 the designation of the Accused's Section. This document is based on a draft
 prepared by the Accused and his assistant Hunsche (T/271), and its contents are
 once again instructions that the measures taken are to be applied also against those
-Jews of foreign nationality of certain countries who live in the Generalgouvernement
+Jews of foreign nationality of certain countries who live in the [[LOCATION:location_152|Generalgouvernement]]
 area and in occupied areas in the East. The letter is also addressed to the
-Commander of the Security Police and the SD in the Generalgouvernement, and
-notice of it is given to the Senior Commander of the SS and the Police, Krueger (see
+Commander of the Security Police and the SD in the [[LOCATION:location_152|Generalgouvernement]], and
+notice of it is given to the Senior Commander of the SS and the Police, [[PERSON:person_474|Krueger]] (see
 also T/784, a letter dated 23 September 1943, on the same subject, signed by
 Mueller and also bearing the reference IVB4).
 But the Accused's Section deals not only with general instructions in the
-Generalgouvernement area, but also with individual cases. We have documents
+[[LOCATION:location_152|Generalgouvernement]] area, but also with individual cases. We have documents
 before us concerning a number of cases in which Section IVB4 occupied itself with
-cases of Jews of foreign nationality in the Generalgouvernement area, in answer to
+cases of Jews of foreign nationality in the [[LOCATION:location_152|Generalgouvernement]] area, in answer to
 questions referred to the RSHA by the German Foreign Ministry. For instance, the
 Accused's Section orders the transfer of a Jew of foreign nationality and his family
-from the Warsaw Ghetto to a concentration camp (T/355).
+from the [[LOCATION:location_93|Warsaw]] Ghetto to a concentration camp (T/355).
 The Section deals with a request by the Argentine Embassy to prevent the transfer of
-one of its nationals living in the Generalgouvernement area to a concentration camp.
-This last-mentioned case, of Gershon Willner, is worthy of mention also for another
+one of its nationals living in the [[LOCATION:location_152|Generalgouvernement]] area to a concentration camp.
+This last-mentioned case, of [[PERSON:person_523|Gershon Willner]], is worthy of mention also for another
 reason, for the cynical language used by the Accused when, on 9 July 1942, he
 reports that this Jew died on 12 April 1942 of weakness of the heart muscle "in spite
 of large quantities of tonics administered to him" (T/437).
 
 The Argentine Embassy applied for the first time on 17 April 1942 (T/346). On 4 June
 1942, the Commander of the Security Police in Cracow (KdS) sent word that they are
-about to transfer Willner to Auschwitz. It was proved by the evidence of (Gershon
-Willner's brother-in-law) Aaron Silbermann (Session 30, Vol. I, p. 525), that Willner
+about to transfer Willner to [[LOCATION:location_286|Auschwitz]]. It was proved by the evidence of (Gershon
+Willner's brother-in-law) [[PERSON:person_522|Aaron Silbermann]] (Session 30, Vol. I, p. 525), that Willner
 was a man in good health who never had any heart trouble, and that he died in
-Auschwitz. Notification of his death was received by his family on 25 June 1942. A
+[[LOCATION:location_286|Auschwitz]]. Notification of his death was received by his family on 25 June 1942. A
 copy of a letter from the representative of the Foreign Ministry attached to the
 Governor General of Cracow was submitted to us (T/346). From this letter it appears
 that Willner was still alive early in June 1942.
@@ -6123,7 +6123,7 @@ a message which he received from Cracow, is not plausible, because undoubtedly h
 knew the value of the tale about "administration of tonics," to which he put his
 signature.
 Exhibits T/356, T/357 testify to another case of a Jew of foreign nationality, an
-inhabitant of the Generalgouvernement area, who was sent with his family to a
+inhabitant of the [[LOCATION:location_152|Generalgouvernement]] area, who was sent with his family to a
 concentration camp, according to information sent to the Foreign Ministry by the
 Accused's Section.
 We also have before us a letter (T/266) dated 17 September 1942, signed by Mueller,
@@ -6132,39 +6132,39 @@ has ordered the issue of directives to the Commander of the Security Police and 
 SD in Cracow that Jews employed by the Beskides Oil Company are to be evacuated
 only to the extent that replacements are available. It appears that these orders were
 given by the Accused's Section, and hence this is further confirmation that this
-Section was authorized to decide the fate of Jews in the Generalgouvernement area
+Section was authorized to decide the fate of Jews in the [[LOCATION:location_152|Generalgouvernement]] area
 whenever the necessity for such special instructions arose. Mueller's letter gives the
 impression that it was written in the ordinary course of business, and not as an
 isolated, unusual case.
 137. Evidence was also submitted in connection with the transport of Jews of the
-Generalgouvernement area by rail to extermination camps. This included an
+[[LOCATION:location_152|Generalgouvernement]] area by rail to extermination camps. This included an
 exchange of letters between Ganzenmueller, the State Secretary in the German
 Ministry of Transport, and Wolff, the head of Himmler's personal staff. Ganzenmueller
-informs Wolff on 28 July 1942 about a timetable of trains from Warsaw to Treblinka
-(one train per day, 5,000 Jews each) and from Przemysl to Belzec (one train per
+informs Wolff on 28 July 1942 about a timetable of trains from [[LOCATION:location_93|Warsaw]] to [[LOCATION:location_173|Treblinka]]
+(one train per day, 5,000 Jews each) and from Przemysl to [[LOCATION:location_154|Belzec]] (one train per
 week, each 5,000 Jews).
 He adds that the running of these trains was decided upon together with the
 Commander of the Security Police in Cracow, and that information was sent to
 Globocnik (T/251). To this, Wolff replies on 13 August 1942, expressing joy - also in
 the name of Himmler - at the fact that a train leaves daily with 5,000 "of the Chosen
-People" to Treblinka, and requests the assistance of Ganzenmueller in the matter
+People" to [[LOCATION:location_173|Treblinka]], and requests the assistance of Ganzenmueller in the matter
 also in future (T/252). As the Accused himself testifies (Session 100, Vol. IV, p.
 xxxx17 and top of p. 18), this was after the death of Heydrich, when Himmler himself
 was acting as Head of the Security Police and the SD. It is possible that on this
 
 occasion Himmler acted in this capacity, and that therefore this matter also passed
 through the RSHA channels.
-On the other hand, we have before us the minutes of a conference held in Berlin on
+On the other hand, we have before us the minutes of a conference held in [[LOCATION:location_1|Berlin]] on
 26 and 28 September 1942, about the evacuation of 600,000 Jews within the
-Generalgouvernement area, and 200,000 Romanian Jews to the
-Generalgouvernement area (T/1284). There is no list of those who participated in the
+[[LOCATION:location_152|Generalgouvernement]] area, and 200,000 Romanian Jews to the
+[[LOCATION:location_152|Generalgouvernement]] area (T/1284). There is no list of those who participated in the
 conference. It concerns urgent transports proposed by the Head of the Security
-Police and the SD between Warsaw and Treblinka, and between Lemberg and
-Belzec.
+Police and the SD between [[LOCATION:location_93|Warsaw]] and [[LOCATION:location_173|Treblinka]], and between Lemberg and
+[[LOCATION:location_154|Belzec]].
 In his Statement to Superintendent Less, the Accused says (T/37, p. 3545) that
 possibly Novak, one of his own Section, took part in this conference, but almost in the
 same breath he contends (pp. 3540, 3544) that his Section never dealt with
-deportations within the Generalgouvernement area, and in his evidence in Court he
+deportations within the [[LOCATION:location_152|Generalgouvernement]] area, and in his evidence in Court he
 reiterates this more strongly (Session 100, Vol. IV, p. xxxx15 et seq.). But we do not
 believe this denial, for in our opinion the fact that the Head of the Security Police and
 of the SD was concerned with the matter is decisive, and therefore it is logical that
@@ -6173,10 +6173,10 @@ Jewish affairs - participated at this meeting on behalf of the RSHA.
 The Accused was right in assuming, as he did in his Statement to Superintendent
 Less, that the suitable man for this was Novak, the expert in matters of transport in
 Section IVB4. It is to be noted that negotiations on general policy in this matter took
-place in Berlin, and not in Cracow, which was the seat of the Eastern Railways
-management, and that questions of transportation within the Generalgouvernement
+place in [[LOCATION:location_1|Berlin]], and not in Cracow, which was the seat of the Eastern Railways
+management, and that questions of transportation within the [[LOCATION:location_152|Generalgouvernement]]
 area were discussed at one and the same conference with matters of transport from
-Romania, which were, without dispute, within the competence of the Accused's
+[[LOCATION:location_129|Romania]], which were, without dispute, within the competence of the Accused's
 Section.
 The Commander of the Security Police in Cracow, mentioned in letter T/251, is also a
 member of the RSHA. The allegation by the Accused, in his Statement to
@@ -6185,32 +6185,32 @@ Globocnik's authority, is unfounded. In T/25, we see that Globocnik only receive
 notice of matters which had been agreed upon by others, and naturally such notice
 had to be given to him, as he was receiving the transports of Jews in the
 extermination camps.
-Novak himself, in his evidence for the Defence taken for his trial in Vienna (p. 8)
+Novak himself, in his evidence for the Defence taken for his trial in [[LOCATION:location_3|Vienna]] (p. 8)
 admits that he did negotiate with the management of Eastern Railways, although he
-denies contact with the authorities of the Generalgouvernement.
-Ludwig Rajewski, who gave evidence at the trial of Hoess in Poland, worked in the
-Registry Office in Auschwitz. In his evidence (T/1356), he said that Jews from the
-Generalgouvernement area also arrived at Auschwitz and mentions these transports
+denies contact with the authorities of the [[LOCATION:location_152|Generalgouvernement]].
+Ludwig Rajewski, who gave evidence at the trial of Hoess in [[LOCATION:location_5|Poland]], worked in the
+Registry Office in [[LOCATION:location_286|Auschwitz]]. In his evidence (T/1356), he said that Jews from the
+[[LOCATION:location_152|Generalgouvernement]] area also arrived at [[LOCATION:location_286|Auschwitz]] and mentions these transports
 together with transports from Bialystok. This is an important fact, since the Accused's
 Section undoubtedly dealt with the Jews of Bialystok (see supra, para. 134). Here lies
 the proof that the Accused's Section had a hand also in the deportation of Jews from
-the Generalgouvernement area to Auschwitz. From the evidence of Mrs. Rivka Kuper
+the [[LOCATION:location_152|Generalgouvernement]] area to [[LOCATION:location_286|Auschwitz]]. From the evidence of Mrs. Rivka Kuper
 
 (Session 26, Vol. I, pp. 431-433), we also learn about the deportation of Jews from
-the Generalgouvernement area (Cracow) to Auschwitz.
+the [[LOCATION:location_152|Generalgouvernement]] area (Cracow) to [[LOCATION:location_286|Auschwitz]].
 To conclude this chapter, we find that the Accused and his Section were also
-authorized to deal with matters concerning the Final Solution of the Jewish Question
-within the area of the Generalgouvernement, and that according to the evidence they
+authorized to deal with matters concerning the [[EVENT:event_389|Final Solution]] of the Jewish Question
+within the area of the [[LOCATION:location_152|Generalgouvernement]], and that according to the evidence they
 were also active, in fact, in this matter from time to time, although it would be true to
 say that the Accused's main activity was not here but elsewhere, whilst in the
-Generalgouvernement area there existed other channels of command, wherein the
+[[LOCATION:location_152|Generalgouvernement]] area there existed other channels of command, wherein the
 Accused had no part.
 138. Also in regard to the activity of the Accused concerning Jews in the Eastern
-Occupied Territories, the Wannsee Conference is a safe point of reference, for there
+Occupied Territories, the [[EVENT:event_387|Wannsee Conference]] is a safe point of reference, for there
 the representative of the Rosenberg ministry, set up to run these areas, was also
 present. Since there Heydrich's authority received recognition by all those present,
 without territorial limits, it obviously applied to those areas as well, and with it the
-authority of the Accused as Referent for the Final Solution of the Jewish Question.
+authority of the Accused as Referent for the [[EVENT:event_389|Final Solution]] of the Jewish Question.
 Heydrich himself jealously guarded his authority in the Eastern Territories as is seen
 from his letter (T/301), in which he demands that his representatives be given the
 right to participate in the decision as to who is a Jew, for the purposes of applying
@@ -6220,7 +6220,7 @@ of the "Brown File." These were detailed directives drafted by the Ministry for 
 Eastern Occupied Territories, to arrange certain matters connected with the
 administration of these territories (T/296). It seems that these directives were
 prepared separately for the Reich Ostland Administration (the Baltic countries) and
-for the Administration of the Ukraine. The Ukrainian draft was passed on to other
+for the Administration of the [[LOCATION:location_12|Ukraine]]. The Ukrainian draft was passed on to other
 authorities concerned, amongst them Himmler, for them to state their point of view.
 The approach to Himmler is explained by the fact that on 17 July 1941 Hitler decided
 that police security measures in the Eastern Occupied Territories should be in the
@@ -6265,7 +6265,7 @@ dealing with the matter itself, that is the Accused, as was stated by Heydrich.
 We, therefore, find that the directives attached to the letter T/298 were composed by
 the Accused or in his Section. The general policy of these directives testifies to
 exceeding harshness in the treatment of Jews, as compared with the policy outlined
-in the proposals by the Ministry for the Eastern Occupied Territories. Whilst the
+in the proposals by the [[ORGANIZATION:org_334|Ministry for the Eastern Occupied Territories]]. Whilst the
 ministry proposed that, in taking measures against the Jews, economic
 considerations should come first, the Accused's directives insist that no such
 considerations should be allowed to interfere with the implementation of the Final
@@ -6282,41 +6282,41 @@ consent to the introduction of the new method for the extermination of Jews. Thi
 further proof of the fact that the Accused's scope of activity also included the said
 areas in the East.
 The Accused also dealt with the matter of Jews of foreign nationality in these areas,
-as he did in the Generalgouvernement area. The instructions included in the abovementioned letters T/310 and T/784, were also addressed to the Commanders of the
-Security Police and the SD in Ostland and in the Ukraine. He also dealt with
+as he did in the [[LOCATION:location_152|Generalgouvernement]] area. The instructions included in the abovementioned letters T/310 and T/784, were also addressed to the Commanders of the
+Security Police and the SD in Ostland and in the [[LOCATION:location_12|Ukraine]]. He also dealt with
 individual cases of such foreign nationals. A long struggle developed for the life of the
 
-Jewess Jenny Cozzi, of Italian nationality, who lived in the Riga Ghetto (T/348-T/353).
+Jewess Jenny Cozzi, of Italian nationality, who lived in the [[LOCATION:location_194|Riga Ghetto]] (T/348-T/353).
 Influential Italian circles intervened on her behalf, but to no avail: The chapter was
 sealed with a short and ominous statement by the Accused, dated 25 September
 1943 (T/354), saying that,
 "In view of the changes which, in the meantime, have taken place in the political
-situation in Italy" (the reference is to the Badoglio coup) "I refrain from going any
+situation in [[LOCATION:location_19|Italy]]" (the reference is to the Badoglio coup) "I refrain from going any
 further into the matter. I have given instructions that the Jewess Cozzi should be
-housed, for the time being, in the Riga concentration camp."
+housed, for the time being, in the [[LOCATION:location_16|Riga]] concentration camp."
 139. A further question arises with regard to the Accused's activities in the East, as to
 whether he was directly connected with the murders committed by the Operations
-Units, apart from the handing over of Jews to Nebe and Rasch, of whom we have
+Units, apart from the handing over of Jews to [[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]], of whom we have
 already spoken. The Accused denied the existence of any connection of this kind
 (T/37, p. 1119).
 At the same time, he admitted that he was present at a gathering of Operations Units'
-men on the eve of the war against Russia, and, as will appear later (Section 163), the
+men on the eve of the war against [[LOCATION:location_10|Russia]], and, as will appear later (Section 163), the
 Operations Units' task in regard to the extermination of the Jews was discussed there.
 Here, therefore, one can see the first contact between the Accused and the
 Operations Units. This contact continued through the receipt of reports on the
 activities of the Operations Units from June 1941 onwards. At a date not later than
-September 1941, the Accused himself visited Minsk, on orders from Mueller, and saw
+September 1941, the Accused himself visited [[LOCATION:location_18|Minsk]], on orders from Mueller, and saw
 an Operations Unit in action at the pits (Section 120 and Section 166 infra), and on
 his return he reported to Mueller on what he had seen.
 We know from Ohlendorf's sworn affidavit (T/312) that the Operations Units were
 under the command of Heydrich, in his capacity as head of the RSHA, and the
 question arises as to whether the line of command between Heydrich and the
 commanders of the Operations Units passed through the Accused.
-On this point, evidence against the Accused was given by Justice Musmanno, who
-testified to conversations which he had at the time in Nuremberg with Schellenberg,
+On this point, evidence against the Accused was given by [[PERSON:person_558|Justice Musmanno]], who
+testified to conversations which he had at the time in [[LOCATION:location_39|Nuremberg]] with Schellenberg,
 of the RSHA, in the course of his investigations about Hitler's final fate. He heard
 from Schellenberg that the latter had been present, together with the Accused, at the
-above gathering, when Heydrich and Streckenbach, head of the Personnel
+above gathering, when Heydrich and [[PERSON:person_475|Streckenbach]], head of the Personnel
 Department of the RSHA, gave instructions to the men of the Operations Units
 (Session 39, Vol. II, pp. 712-713). Schellenberg added that the Accused personally
 supervised the activities of the Operations Units in regard to the extermination of
@@ -6351,7 +6351,7 @@ those who had authority from time to time to decide upon the continuation of the
 activities of the Operations Units.
 At a later date, we find further activity on the part of the Accused, with regard to the
 Operations Units. The reference is to the letter T/310, dated 5 March 1943, which we
-have already mentioned in discussing the Generalgouvernement area. This letter,
+have already mentioned in discussing the [[LOCATION:location_152|Generalgouvernement]] area. This letter,
 which referred, as it will be remembered, to the fate of Jews of foreign nationality, is
 also addressed to Operations Units B and D. This is proof that at that time the
 Accused's Section also dealt with transmitting instructions to the Operations Units.
@@ -6370,23 +6370,23 @@ and to what extent? In our view, this question is only of secondary importance,
 because the legal and moral responsibility of a person who delivers the victim to his
 death is, in our opinion, no less, and maybe even greater, than the liability of the one
 who does the victim to death. But the question has been raised, and it is our duty to
-discuss it. We shall therefore consider separately the camps in the East (Treblinka,
-Majdanek, Sobibor, Belzec) and Auschwitz.
+discuss it. We shall therefore consider separately the camps in the East ([[LOCATION:location_173|Treblinka]],
+[[LOCATION:location_281|Majdanek]], Sobibor, [[LOCATION:location_154|Belzec]]) and [[LOCATION:location_286|Auschwitz]].
 With regard to the extermination camps in the East, it appears that they were set up
-by the SS and Police Commander in the Lublin region, Globocnik, under a special
+by the SS and Police Commander in the [[LOCATION:location_35|Lublin]] region, Globocnik, under a special
 order which he received direct from Himmler, or Hitler himself, in the second half of
 
 1941. Later, after Heydrich's death, the extermination operation in these camps and
 the plunder of the victims' property there was known as "Operation Reinhard," from
 Heydrich's first name. These camps were first put into operation at various dates in
-the first half of 1942. They were actually set functioning by Kriminalrat Christian Wirth,
+the first half of 1942. They were actually set functioning by Kriminalrat [[PERSON:person_694|Christian Wirth]],
 who had already specialized in the killing by gas of human beings, by exterminating
 mentally sick persons. This is the same Wirth who was mentioned by Gerstein in his
-statement about his visit to the Belzec camp, quoted above. Apparently, Wirth used
+statement about his visit to the [[LOCATION:location_154|Belzec]] camp, quoted above. Apparently, Wirth used
 to receive his orders directly from Hitler's Chancellery (uehrerkanzlei) which had
 posted him for duty to Globocnik.
 These facts were established before us, inter alia, by the affidavit of Morgen in the
-Trial of the Major War Criminals at Nuremberg (N/95). We should not be inclined to
+Trial of the Major War Criminals at [[LOCATION:location_39|Nuremberg]] (N/95). We should not be inclined to
 base our findings solely upon this affidavit, without further corroboration, because
 Morgen's purpose was to represent the whole of the SS as having had nothing to do
 with the extermination operations, and this tendency of his was likely to colour the
@@ -6410,22 +6410,22 @@ reference there was only to the economic aspect of the operation.
 Further proof that it was Globocnik who administered the whole of "Operation
 Reinhard" is found in the final report which he submitted to Himmler (exhibit T/1389).
 In a report dated 4 November 1943, he speaks of "`Operation Reinhard' which was
-conducted in the Generalgouvernement area," and from a report of 10 January 1944
+conducted in the [[LOCATION:location_152|Generalgouvernement]] area," and from a report of 10 January 1944
 it is clear that "Operation Reinhard" also included the extermination which was
 referred to there as Aussiedlung which, it was stated, had been completed.
 The deportation of Jews to Globcnik's camps did not have to be reported to
-Oranienburg, i.e. to Group D of the Economic- Administrative Head Office, which was
+[[LOCATION:location_134|Oranienburg]], i.e. to Group D of the Economic- Administrative Head Office, which was
 responsible for the administration of the concentration camps as from March 1942
 (see T/1278). For example, from exhibit T/1399 - directives issued by the Accused's
-Section for the evacuation of Jews to Izbica, near Lublin - it appears that the
+Section for the evacuation of Jews to [[LOCATION:location_291|Izbica]], near [[LOCATION:location_35|Lublin]] - it appears that the
 departure of the transport had to be reported to the Accused's Section, to the BdS in
 
 Cracow, and to Globocnik, and the arrival of the transports had to be reported solely
 to the Accused's Section (see also T/737).
 These extermination camps were at no time under the supervision of the EconomicAdministrative Head Office. Nor, until October 1943, when the EconomicAdministrative Head Office took over the responsibility for the remaining labour
 camps, was there any connection of this kind with regard to the labour camps in the
-Lublin area. In our opinion, the fact that Globocnik's camps were independent of the
-Economic-Administrative Head Office, is irrelevant to the question as to whether
+[[LOCATION:location_35|Lublin]] area. In our opinion, the fact that Globocnik's camps were independent of the
+[[ORGANIZATION:org_367|Economic-Administrative Head Office]], is irrelevant to the question as to whether
 there was any direct administrative connection between these camps and the RSHA
 and the Accused's Section.
 So far, the Accused's contention that the extermination in the camps in the East was
@@ -6436,7 +6436,7 @@ dispatching Jews to these camps is, of course, a separate matter which is, in fa
 in dispute.
 142. The question as to whether the Accused also participated in what was
 happening inside the camps becomes complicated because of his statements that
-from time to time he used to visit Globocnik and also saw the Treblinka camp under
+from time to time he used to visit Globocnik and also saw the [[LOCATION:location_173|Treblinka]] camp under
 construction in the autumn of 1941 (apparently in the presence of Wirth himself), and
 again later when it was functioning. He describes the purpose of his visits to the East
 as being purely to collect information for Heydrich and Mueller, who were interested
@@ -6455,38 +6455,38 @@ and that these authorizations were given to Globocnik at the latter's request. B
 language of the letters does not suggest the granting of ex post facto approval. On
 this subject the Accused says (T/37, p. 240) that Heydrich dictated to him the text of
 the letter to Globocnik in the following terms:
-"I authorize you to bring another 150,000 Jews to the Final Solution."
+"I authorize you to bring another 150,000 Jews to the [[EVENT:event_389|Final Solution]]."
 (Later on he says that he thinks the number was 250,000.)
 The Accused does not remember whether the letter was written by Heydrich on the
 letterhead of the Reichsfuehrer-SS and Head of the German Police, or on Heydrich's
 own letterhead, as head of the Security Police and the SD. But in the same place (p.
 240), he confirms that the letter was written by Heydrich, as the person so authorized
 
-on the basis of the Wannsee Conference, i.e., not in the name of Himmler, but by
+on the basis of the [[EVENT:event_387|Wannsee Conference]], i.e., not in the name of Himmler, but by
 virtue of his own authority. Therefore, two serious questions arise:
 (1) If it is true that Globocnik acted according to a special order from Himmler, why
 did he request the retrospective authorization, not from him but from Heydrich? And if,
-indeed, Heydrich acted by virtue of the authority granted to him at the Wannsee
+indeed, Heydrich acted by virtue of the authority granted to him at the [[LOCATION:location_76|Wannsee]]
 Conference, does it not follow that Globocnik's activities in the extermination camps
 he administered were also under the supervision of Heydrich, as head of the RSHA?
 And if this is so, then this matter, too, automatically comes within the scope of the
 Accused's activity, since he was the RSHA Referent for matters concerned with the
-Final Solution.
+[[EVENT:event_389|Final Solution]].
 The Accused has no convincing reply to this question. When the Attorney General
-asked him if it was not correct that the Final Solution of the Jewish Question in the
-Generalgouvernement was carried out by the RSHA, he replied:
+asked him if it was not correct that the [[EVENT:event_389|Final Solution]] of the Jewish Question in the
+[[LOCATION:location_152|Generalgouvernement]] was carried out by the RSHA, he replied:
 "No, that is not correct, Globocnik was not on the staff of the Head Office for Reich
 Security. On this matter an agreement was reached between the Security Police and
-the SD and Krueger, and they both received their orders from Himmler. This is how I
+the SD and [[PERSON:person_474|Krueger]], and they both received their orders from Himmler. This is how I
 remember the matter the whole time, I never heard any other description."
 But when a specific question was put to him,
-"If this is so, why is it that, some months after the Wannsee Conference, on two or
+"If this is so, why is it that, some months after the [[EVENT:event_387|Wannsee Conference]], on two or
 three occasions Globocnik asked Heydrich for retroactive orders to cover the killing of
 150,000 or a quarter of a million Jews?"
 The Accused had no other answer but:
 "I was not then familiar with these matters regarding complicated orders from above.
 I do not know and cannot furnish information about this. The fact is that the SS and
-police commanders in the Generalgouvernement who carried out these actions were
+police commanders in the [[LOCATION:location_152|Generalgouvernement]] who carried out these actions were
 not subordinate to the Security Police but to the Senior Commander of the SS and
 Police in Cracow." (Session 99, Vol. IV, pp. xxxx23-24)
 We therefore come back to our problem: If this is so, why did the authorization come
@@ -6512,27 +6512,27 @@ retroactive validity, on each occasion strengthened afresh Globocnik's readiness
 would not have asked for them. Insofar as the Accused took part in the preparation of
 these letters and their transmission to Globocnik, he, too, was active in regard to the
 continuation of the slaughter in the camps in the East.
-143.The Auschwitz-Birkenau camp was administered by Group D of the EconomicAdministrative Head Office, directed by Gluecks, to whom Hoess, the first
+143.The [[LOCATION:location_286|Auschwitz-Birkenau]] camp was administered by Group D of the EconomicAdministrative Head Office, directed by Gluecks, to whom Hoess, the first
 commander of the camp, who carried out most of the extermination activities there,
 was subordinate. The Accused argues that he had no influence on what was done
-inside the Auschwitz camp. He would dispatch transports of Jews to Auschwitz in
+inside the [[LOCATION:location_286|Auschwitz]] camp. He would dispatch transports of Jews to [[LOCATION:location_286|Auschwitz]] in
 accordance with the orders received, after information had come from the abovementioned Group D, that the camps were able to receive additional Jews.
-At the same time, he admits that he visited Auschwitz about five times, and that, at
-the time of the deportations from Hungary, he checked directly with Hoess the
+At the same time, he admits that he visited [[LOCATION:location_286|Auschwitz]] about five times, and that, at
+the time of the deportations from [[LOCATION:location_24|Hungary]], he checked directly with Hoess the
 reception possibilities of the camp (Session 93, Vol. IV, p. xxxx25). He also admits
-that on one of his visits to Auschwitz he witnessed with his own eyes the mass
+that on one of his visits to [[LOCATION:location_286|Auschwitz]] he witnessed with his own eyes the mass
 burning of bodies on an iron grating within a pit 100 or even 180 metres long (T/37, p.
 227).
 The statement made by Hoess himself gives a different picture of the Accused's
-activities in regard to the Auschwitz camp (see his evidence before the International
-Tribunal at Nuremberg - T/1357; his evidence at his own trial in Poland - T/1356; and
+activities in regard to the [[LOCATION:location_286|Auschwitz]] camp (see his evidence before the International
+Tribunal at [[LOCATION:location_39|Nuremberg]] - T/1357; his evidence at his own trial in [[LOCATION:location_5|Poland]] - T/1356; and
 his memoirs - T/90). He states that, in the summer of 1941, Himmler informed him
-that Auschwitz was destined to be the main centre for extermination of the Jews, and
+that [[LOCATION:location_286|Auschwitz]] was destined to be the main centre for extermination of the Jews, and
 that the Accused would visit him shortly in order to give him additional information
 about this. The Accused arrived to see Hoess shortly afterwards, and together they
-chose Birkenau as the extermination place and also conferred together about the
+chose [[LOCATION:location_286|Birkenau]] as the extermination place and also conferred together about the
 extermination methods. (At this point, Hoess describes the introduction of Zyklon B
-gas at Auschwitz. We shall devote our attention to this matter later in a separate
+gas at [[LOCATION:location_286|Auschwitz]]. We shall devote our attention to this matter later in a separate
 chapter of this Judgment.)
 From Hoess' description, it appears that the Accused gave instructions on various
 matters connected with what was happening within the camp. For example, he says
@@ -6542,13 +6542,13 @@ Accused that all the Jews arriving in the camp should be exterminated immediatel
 and not used for labour - lest a mishap occur, such as a mass escape.
 The Accused strenuously denies all these things. According to his version, the
 process of extermination was already a fait accompli at the time that he first visited
-Hoess at Auschwitz. To this end he attempts to put the date of his first visit at a later
+Hoess at [[LOCATION:location_286|Auschwitz]]. To this end he attempts to put the date of his first visit at a later
 date, to the spring of 1942 (see the timetable attached to the arguments in the written
 summing- up of Counsel for the Defence). But this attempt is contradicted by what he
 said in his Statement before Superintendent Less (p. 378), namely that his first visit
-to Auschwitz took place four weeks after Heydrich had informed him of Hitler's
+to [[LOCATION:location_286|Auschwitz]] took place four weeks after Heydrich had informed him of Hitler's
 decision to exterminate the Jews physically, i.e. (according to his account), in the
-autumn of 1941 at the latest. And at that time the extermination of Jews in Auschwitz
+autumn of 1941 at the latest. And at that time the extermination of Jews in [[LOCATION:location_286|Auschwitz]]
 had not yet begun.
 
 It is reasonable to assume that during this visit, the Accused told Hoess of what he
@@ -6567,13 +6567,13 @@ hair, and of his statement about the view expressed by the Accused. But in our
 opinion there is sufficient proof in Hoess' statements, as supported by other evidence,
 of the following facts: The Jews who reached the camp were divided into "Transport
 Jews" (Transportjuden) and others, such as Jews in protective custody.
-All the Jews dispatched to Auschwitz by Section IVB4 of the RSHA - the Accused's
+All the Jews dispatched to [[LOCATION:location_286|Auschwitz]] by Section IVB4 of the RSHA - the Accused's
 Section - were "Transport Jews" (T/90, p. 12). Every such transport reached the
 camp in accordance with information from the Accused's Section and was marked
 with a fixed code number, viz. IVB4 with some figures added, according to the
 country from which the Jews came (see the evidence of Rajewski, T/1356, p. 19 of
 the Hebrew translation). No registration at all was made of these Jews in the camp
-(evidence of Raya Kagan, Session 70, Vol. III, p. 1276), but immediately upon arrival
+(evidence of [[PERSON:person_713|Raya Kagan]], Session 70, Vol. III, p. 1276), but immediately upon arrival
 there, they passed through the selection conducted by SS doctors, and those who
 were unfit for work were dispatched on the spot to the gas chambers.
 The execution of those who were found fit for work, and who did not die from the hard
@@ -6582,10 +6582,10 @@ discretion of the camp administration, until they, too, fell victims to one of t
 selections carried out periodically amongst the prisoners. From 1943 onwards, the
 registration of deaths of Jews who were not sent immediately to the gas chambers
 was also discontinued (Session 70, p. 1269).
-As stated above, the Auschwitz camp belonged organizationally to the EconomicAdministrative Head Office, which also controlled the forced labour of the camp
+As stated above, the [[LOCATION:location_286|Auschwitz]] camp belonged organizationally to the EconomicAdministrative Head Office, which also controlled the forced labour of the camp
 prisoners.
 145. It follows, therefore, that every trainload of "Transport Jews" reached the
-Auschwitz camp with its passengers condemned to death by a general decree given
+[[LOCATION:location_286|Auschwitz]] camp with its passengers condemned to death by a general decree given
 in respect of the transport as a whole by the Accused's Section. The moment the
 Jews passed through the camp gates, they came within the power of the camp
 administration, which had to carry out the death sentence. At the same time, it had
@@ -6595,7 +6595,7 @@ and other work. This we see, for example, from a cable to Himmler signed by Muel
 and marked IVB4a, dated 16 December 1942, in which Mueller refers to Himmler's
 order for the increase of the labour force in the concentration camps and reports the
 
-dispatch of 45,000 Jews to Auschwitz, including persons unfit for work, elderly people
+dispatch of 45,000 Jews to [[LOCATION:location_286|Auschwitz]], including persons unfit for work, elderly people
 and children. He calculates that "if a suitable criterion is used, the selection of the
 Jews on their arrival will produce at least 10,000 to 15,000 labourers out of the total
 of 45,000 (T/292). This is in accordance with the statement made by Hoess that the
@@ -6603,13 +6603,13 @@ percentage of persons fit for work was approximately twenty-five per cent.
 It has also been proved that it was within the Accused's competence to give
 instructions in advance that a specific transport should not be taken off for immediate
 extermination, but only after some time had elapsed, as laid down by him. This is
-what happened to a transport from Terezin which was deported to the Families'
-Camp in Auschwitz, with instructions that the people in this transport were to be
-executed six months later (see below, the chapter on Terezin).
-146. Amongst the Jews who reached Auschwitz camp as detainees and not as
+what happened to a transport from [[LOCATION:location_34|Terezin]] which was deported to the Families'
+Camp in [[LOCATION:location_286|Auschwitz]], with instructions that the people in this transport were to be
+executed six months later (see below, the chapter on [[LOCATION:location_34|Terezin]]).
+146. Amongst the Jews who reached [[LOCATION:location_286|Auschwitz]] camp as detainees and not as
 "Transport Jews" were such as had, allegedly, committed criminal offences, such as
 the making of a telephone call or contravening the curfew. We heard from the witness
-Raya Kagan, who worked in the registration office at Auschwitz, that this group
+[[PERSON:person_713|Raya Kagan]], who worked in the registration office at [[LOCATION:location_286|Auschwitz]], that this group
 received better treatment, because they were exempted from the selections (Session
 70, Vol. III, p. 1272). Jews in "protective custody" (Schutzhaftjuden) reached the
 camp by virtue of individual orders issued by Section IVC2 of the RSHA, which dealt
@@ -6619,14 +6619,14 @@ made by his Section, and Section IVC2 only issued the formal order.
 From exhibit T/103 it appears that matters of release from concentration camps were
 also within the competence of the RSHA (supra, p. 9, para. 11(f)). But as Raya
 Kagan testified, as far as the Jews were concerned, this was only theoretical,
-because a Jew, once he entered Auschwitz, never came out again (Session 70, Vol.
+because a Jew, once he entered [[LOCATION:location_286|Auschwitz]], never came out again (Session 70, Vol.
 III, p. xx21; see also the Accused's account in his Statement T/37, pp. 223-224). The
 Accused was not authorized to give orders himself for the carrying out of the death
-sentence by way of punishment of Jews in Auschwitz and in other concentration
+sentence by way of punishment of Jews in [[LOCATION:location_286|Auschwitz]] and in other concentration
 camps. Apparently, this authority was reserved to Himmler himself, and to Mueller
 (see T/202, p. 1, end). But notification of the carrying out of the execution of Jews
 was transmitted to the Section of the Accused (T/37, p. 2101).
-147. With regard to the Chelmno extermination camp, proof has been adduced
+147. With regard to the [[LOCATION:location_168|Chelmno]] extermination camp, proof has been adduced
 before us that it was administered by a special unit commanded by one Bothmann
 (see T/1297, p. 12, of the Hebrew translation; T/1299). We do not have before us
 proof of any administrative connection between this unit and the Accused's Section.
@@ -6637,12 +6637,12 @@ of all traces of slaughter which had taken place in every locality. Apparently, 
 was afraid that the advancing Red Army might discover the graves, and he thought
 that the disposal of the bodies would be sufficient to efface the eternal shame. The
 task was allotted to a special unit known as No. 1005, commanded by
-Standartenfuehrer Paul Blobel.
+Standartenfuehrer [[PERSON:person_449|Paul Blobel]].
 
 The testimonies we heard on this subject, especially from two witnesses, Dr. Leon
 Wells (Weliczker) and Avraham Karasik, conjured up visions of hell which were
 amongst the most horrifying parts of all the evidence submitted by the Prosecution. In
-June 1943, Dr. Wells was taken off to work in this unit in eastern Galicia. He
+June 1943, Dr. Wells was taken off to work in this unit in [[LOCATION:location_167|eastern Galicia]]. He
 describes the work as follows (Session 23, Vol. I, p. 370):
 "We used to uncover all the graves where there were people who had been killed
 during the past three years, take out the bodies, pile them up in tiers and burn these
@@ -6653,26 +6653,26 @@ nobody could recognize that there ever was a grave there."
 He described the grinding machine as something like a big concrete mixer, with steel
 balls inside. They would put the bones into the machine and the steel balls would
 crush them (supra, p. 371). We have already recalled above a similar description by
-the witness Zurawski (Chelmno camp).
+the witness Zurawski ([[LOCATION:location_168|Chelmno]] camp).
 This unit was occupied not only with dead bodies, but also with living human beings
 who were taken to the pyre, shot there, and cast into the flames. Dr. Wells describes
 that, at the time of mass murder by machine guns, not all the victims were invariably
 killed by the bullets, and so it happened that people still alive met death in the flames.
 He estimates the number of those killed in this way, and whose death he witnessed
 himself, at 30,000, the last remnant of the Jews in that territory. This was during the
-last stage of the extermination of East Galician Jewry, by order of Katzmann,
+last stage of the extermination of East Galician Jewry, by order of [[PERSON:person_477|Katzmann]],
 Commander of the SS and the Police. Dr. Wells estimates the number of bodies
 burned by this unit at several hundred thousand (supra, p. 51).
 The witness Karasik gave similar evidence about the work of Unit 1005 in another
-region, in the vicinity of Bialystok and Eastern Prussia (Session 28, p. 12).
+region, in the vicinity of Bialystok and Eastern [[LOCATION:location_91|Prussia]] (Session 28, p. 12).
 Hoess states in his memoirs (exhibit T/90, p. 6) that, some time after Himmler's visit
 in the summer of 1942, Standartenfuehrer Blobel "of the Eichmann Service Unit"
 arrived and brought with him Himmler's order for the opening of all the mass graves
-in Auschwitz and the burning of the bodies. He also states that Blobel received
+in [[LOCATION:location_286|Auschwitz]] and the burning of the bodies. He also states that Blobel received
 instructions from Eichmann to show him the crematorium which had been set up in
-the Chelmno extermination camp. T/218 is the report on Hoess' journey to Chelmno,
+the [[LOCATION:location_168|Chelmno]] extermination camp. T/218 is the report on Hoess' journey to [[LOCATION:location_168|Chelmno]],
 accompanied by another two SS officers. In that report as well, mention is made of a
-grinding machine which was to be sent to Auschwitz. Hoess states also that from
+grinding machine which was to be sent to [[LOCATION:location_286|Auschwitz]]. Hoess states also that from
 time to time he had to supply Jews for work with Unit 1005, because when the work
 was finished in each section, all the Jews who had been employed in the unit were
 shot.
@@ -6680,13 +6680,13 @@ Wisliceny says of Blobel's unit that it "was formally placed under Eichmann" (T/
 9).
 The Accused denied that he was Blobel's superior. According to him, the only
 connection between his Section and Blobel was that Blobel himself and some of his
-men were housed in the building of Section IVB4 while they were in Berlin, and his
+men were housed in the building of Section IVB4 while they were in [[LOCATION:location_1|Berlin]], and his
 Section dealt with them only from an administrative aspect (T/37, pp. 264, 390, 3044).
 He also mentions strained personal relations between himself and Blobel.
 
 We find that the evidence is not sufficient to place the responsibility for the activities
 of Blobel's unit on the Accused. As against Hoess' statement, it should be pointed out
-that Blobel himself, in the declaration which he made at Nuremberg (T/216), says in
+that Blobel himself, in the declaration which he made at [[LOCATION:location_39|Nuremberg]] (T/216), says in
 regard to his work as commander of Unit 1005:
 "I was under the control of Department IV, under the former Gruppenfuehrer Mueller.
 In the autumn I received instructions, as the person charged by Mueller, to travel to
@@ -6694,7 +6694,7 @@ the Eastern Occupied Territories, to cover up the traces of the mass graves from
 time that executions had been carried out by the Operations Units."
 The Accused's name is not mentioned by Blobel, and also in the nature of things it
 does not necessarily follow that the Section of the Accused, which was occupied with
-carrying out the Final Solution, should also be engaged in the special operation of
+carrying out the [[EVENT:event_389|Final Solution]], should also be engaged in the special operation of
 covering up the traces. Accordingly, the Accused will have the benefit of the doubt in
 this matter.
 149. We have heard much testimony about the dreadful suffering which befell the
@@ -6703,22 +6703,22 @@ were evacuated. The exhausted and starving prisoners were marched westwards for
 many days, in the cold and snow, by SS guards. In those days, on the eve of
 liberation, tens of thousands of the survivors of the camps fell on the roads and in the
 fields, all along the way, from the camps in the north (evidence of Dr. Dworzecki,
-Karstadt, Ben-Zvi, Mrs. Neumann) to Auschwitz, which was evacuated in the middle
-of January 1945, when its last prisoners were led to other camps inside Germany
+Karstadt, Ben-Zvi, Mrs. Neumann) to [[LOCATION:location_286|Auschwitz]], which was evacuated in the middle
+of January 1945, when its last prisoners were led to other camps inside [[LOCATION:location_2|Germany]]
 (evidence of Professor Wellers, Sapir, Gutman, Bakon, Dr. Beilin and Mrs. Kagan).
 It is not clear to us that the Accused was personally concerned with the evacuation of
-the camps and with what happened in them during this last stage, except for BergenBelsen. The report of the International Red Cross representative of April 1945 (T/865)
+the camps and with what happened in them during this last stage, except for BergenBelsen. The report of the [[ORGANIZATION:org_310|International Red Cross]] representative of April 1945 (T/865)
 makes it clear that the control of Jewish prisoners in this camp, and also in the
-Terezin Ghetto, remained with the Accused until the end. Accordingly, he bears at
-least part of the responsibility for what happened in Bergen-Belsen towards the end
+[[LOCATION:location_34|Terezin]] Ghetto, remained with the Accused until the end. Accordingly, he bears at
+least part of the responsibility for what happened in [[LOCATION:location_212|Bergen-Belsen]] towards the end
 of the Nazi regime, and for the conditions in which the camp prisoners were found by
 their liberators.
 150. We must devote special consideration to two camps, both because of their
 special character and also because of the close connection which the Accused had
-with the administration of these camps: Terezin (Theresienstadt) and Bergen-Belsen.
-The Terezin Ghetto
-Terezin was originally set up as a ghetto for the concentration of the Jews of the
-Protectorate, following upon the conference held in Prague on 10 October 1941 and
+with the administration of these camps: [[LOCATION:location_34|Terezin]] ([[LOCATION:location_124|Theresienstadt]]) and [[LOCATION:location_212|Bergen-Belsen]].
+The [[LOCATION:location_34|Terezin]] Ghetto
+[[LOCATION:location_34|Terezin]] was originally set up as a ghetto for the concentration of the Jews of the
+Protectorate, following upon the conference held in [[LOCATION:location_4|Prague]] on 10 October 1941 and
 presided over by Heydrich (T/294). This we have already mentioned above in
 connection with the first deportations from the Reich after Hitler had given his order
 for the extermination of the Jews. In his Statement T/37, at p. 117, the Accused
@@ -6726,48 +6726,48 @@ stated that it was he who suggested to Heydrich the idea of concentrating the Je
 of the Protectorate in this manner, thus rescuing Heydrich from an awkward situation
 after the latter had publicly announced that the Protectorate would be purged of Jews
 within eight weeks. Within a short time, additional functions were allocated to the
-Terezin Ghetto.
+[[LOCATION:location_34|Terezin]] Ghetto.
 
-At the Wannsee Conference, Heydrich speaks of Terezin as a "ghetto for the aged"
+At the [[EVENT:event_387|Wannsee Conference]], Heydrich speaks of [[LOCATION:location_34|Terezin]] as a "ghetto for the aged"
 to which Jews above the age of sixty_five are to be sent, as well as war invalids and
 holders of distinguished service medals, together with their spouses and children up
-to the age of fourteen. Jews of these categories were indeed sent to Terezin, as well
+to the age of fourteen. Jews of these categories were indeed sent to [[LOCATION:location_34|Terezin]], as well
 as other privileged groups, such as descendants of mixed marriages - as is apparent
-from the documents of the Duesseldorf Gestapo, dated July 1942 (T/1397).
+from the documents of the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]], dated July 1942 (T/1397).
 When Kaltenbrunner, in a letter dated February 1943, - reference IVB4 - seeks
-permission from Himmler to evacuate Jews over the age of sixty from Terezin to
-Auschwitz, he received the following surprising reply:
-"The Reichsfuehrer is not interested in the dispatch of Jews from Terezin, because
-this would interfere with the aim that the aged Jews in Terezin Ghetto should be able
+permission from Himmler to evacuate Jews over the age of sixty from [[LOCATION:location_34|Terezin]] to
+[[LOCATION:location_286|Auschwitz]], he received the following surprising reply:
+"The Reichsfuehrer is not interested in the dispatch of Jews from [[LOCATION:location_34|Terezin]], because
+this would interfere with the aim that the aged Jews in [[LOCATION:location_34|Terezin]] Ghetto should be able
 to live and die in peace." (T/858; T/859)
 We do not know what lay behind Himmler's reply. He certainly cannot be suspected
 of any human feelings towards Jews, of whatever age. In fact, sick and old people
-were deported from Terezin to Auschwitz at an earlier date (see, for example, T/848),
+were deported from [[LOCATION:location_34|Terezin]] to [[LOCATION:location_286|Auschwitz]] at an earlier date (see, for example, T/848),
 and also later (evidence of Mrs. Henschel, Session 37, Vol. II, p. 674; evidence of Mr.
 Ansbacher, Session 38, Vol. II, pp. 683-684). Mr. Ansbacher describes the
-deportation of old people from Terezin to Auschwitz as follows:
+deportation of old people from [[LOCATION:location_34|Terezin]] to [[LOCATION:location_286|Auschwitz]] as follows:
 "Generally, people arrived there already at the end of their strength. There were
 those who were already dying, and the SS nevertheless shouted that the number had
 to be complete and that they should be put inside the freight cars." (Session 38, Vol.
 II, p. 690.)
-151. The truth is that the Terezin Ghetto was established for large-scale propaganda
+151. The truth is that the [[LOCATION:location_34|Terezin]] Ghetto was established for large-scale propaganda
 purposes and for camouflage, so that it could be shown to foreign visitors to convince
 them that rumours about the extermination of Jews and the way they were maltreated
 in the camps were nothing but "atrocity propaganda." In the language of the Accused
 (T/37, p. 245), this was "only Himmler's exterior signboard (Aushaengeschild) for
 people abroad, and nothing else," and on the same page he called Himmler's idea of
-transforming Terezin into a ghetto for the aged "a devilish idea."
+transforming [[LOCATION:location_34|Terezin]] into a ghetto for the aged "a devilish idea."
 We find full confirmation of this in the documents. Exhibit T/734 is a report of a
 consultation on 6 March 1942 in Section IVB4 of the RSHA, presided over by the
-Accused, when he himself explained that the transports to Terezin were made in
+Accused, when he himself explained that the transports to [[LOCATION:location_34|Terezin]] were made in
 order to "keep up appearances for the outside world." In exhibit T/537 (memorandum
-by Zoepf on a conversation he had with the Accused), Terezin is described simply as
+by Zoepf on a conversation he had with the Accused), [[LOCATION:location_34|Terezin]] is described simply as
 the "propaganda camp."
 The witness Ansbacher told us of the severe hunger, the frightful overcrowding, the
-diseases and general atmosphere of desolation which prevailed in Terezin, and the
+diseases and general atmosphere of desolation which prevailed in [[LOCATION:location_34|Terezin]], and the
 pictures of life in the ghetto (T/651-T/663) show all this to the full. In a single month
 (October 1942), more than three thousand persons died there (declaration by Seidl,
-the first commander of Terezin, T/842, second record of proceedings, p. 5).
+the first commander of [[LOCATION:location_34|Terezin]], T/842, second record of proceedings, p. 5).
 But, when foreign representatives visited the camp, such as the representatives of
 the Red Cross, the appearance of the ghetto changed beyond recognition. In his
 evidence, Mr. Ansbacher states (supra, p. 692):
@@ -6778,70 +6778,70 @@ the houses on the outside, they prepared large signs which read: 'Central
 School'...'Ghetto Theatre'... They prepared a special play hall...they constructed
 beautiful toys...they brought the children there in little beds with a heart carved on
 them, really like some palace."
-In 1942, the Terezin Ghetto population reached close to 60,000 souls (declaration of
+In 1942, the [[LOCATION:location_34|Terezin]] Ghetto population reached close to 60,000 souls (declaration of
 Seidl, supra, p. 4). From time to time the population would be "thinned out" by
 deportations, to make possible the reception of new Jews in the ghetto, so that
-Terezin in fact became an assembly point for deportation to Auschwitz, as Seidl says
+[[LOCATION:location_34|Terezin]] in fact became an assembly point for deportation to [[LOCATION:location_286|Auschwitz]], as Seidl says
 on page 8. He mentions February 1942 as the date of the first deportation from
-Terezin to Auschwitz (supra, third record of proceedings, p. 18), and estimates the
+[[LOCATION:location_34|Terezin]] to [[LOCATION:location_286|Auschwitz]] (supra, third record of proceedings, p. 18), and estimates the
 number of persons thus deported during the period of his service there (December
 1941 to July 1943) at 50,000.
-In the autumn of 1944, again more than 20,000 persons were deported from Terezin
-to Auschwitz (testimony of Viteslav Diamant, Session 45, Vol. II, p. 808). When the
-witness Mrs. Salzberger reached Terezin at the end of January 1945, she found only
+In the autumn of 1944, again more than 20,000 persons were deported from [[LOCATION:location_34|Terezin]]
+to [[LOCATION:location_286|Auschwitz]] (testimony of Viteslav Diamant, Session 45, Vol. II, p. 808). When the
+witness Mrs. Salzberger reached [[LOCATION:location_34|Terezin]] at the end of January 1945, she found only
 6,000 people there. On the eve of the collapse of the Reich, the number again
 increased, because thousands of prisoners from other camps were transferred there.
-When they reached Auschwitz, some of the deportees from Terezin were housed in a
-special "Families' Camp" (evidence of Yehuda Bakon, Session 68, Vol. III, p. 12442;
-evidence of Hoess in Poland, T/1356, p. 52 on the eleventh day of the trial). The
+When they reached [[LOCATION:location_286|Auschwitz]], some of the deportees from [[LOCATION:location_34|Terezin]] were housed in a
+special "Families' Camp" (evidence of [[PERSON:person_705|Yehuda Bakon]], Session 68, Vol. III, p. 12442;
+evidence of Hoess in [[LOCATION:location_5|Poland]], T/1356, p. 52 on the eleventh day of the trial). The
 Accused ordered "Special Treatment after six months" for them, and during their stay
-in Auschwitz, they had to write letters to Terezin according to a prescribed text, to
+in [[LOCATION:location_286|Auschwitz]], they had to write letters to [[LOCATION:location_34|Terezin]] according to a prescribed text, to
 inform their friends that all was well with them (testimony of Hoess, supra). On this
 subject, the witness Bakon relates that he and others with him were also obliged, in
 January 1944, to write postcards bearing the date 25 March 1944 (Session 68, Vol.
 III, p. 1244).
-In February and March 1945, the construction of gas chambers at Terezin was begun
+In February and March 1945, the construction of gas chambers at [[LOCATION:location_34|Terezin]] was begun
 (evidence of Engelstein, Session 45, Vol. II, p. 815), but work was abandoned before
 its completion, and these chambers did not reach the stage of being used.
 152. The Accused was competent to give instructions on all matters connected with
-the administration of the Terezin Ghetto, and he also used this authority in practice
+the administration of the [[LOCATION:location_34|Terezin]] Ghetto, and he also used this authority in practice
 and closely supervised what was happening there, to the point of intervening in
 current administrative matters. A sort of "local government" of the Jews was set up in
 the ghetto, in the form of a Council of Elders, which was, of course, subordinate to
 the commander of the camp (Seidl, and after him Rahm). The commander, on his
 part, used to receive his instructions from the Central Office for Jewish Emigration in
-Prague, headed by Hans Guenther (the brother of Rolf Guenther, the Accused's
+[[LOCATION:location_4|Prague]], headed by [[PERSON:person_467|Hans Guenther]] (the brother of [[PERSON:person_446|Rolf Guenther]], the Accused's
 permanent deputy).
-From an administrative point of view, the Central Office in Prague was attached to
+From an administrative point of view, the Central Office in [[LOCATION:location_4|Prague]] was attached to
 the office of the Commander of the Security Police (BdS) on the spot, but in fact, the
 Central Office was attached to the Accused's Section in the RSHA. The Accused's
-competence in regard to Terezin stands out clearly in all the testimonies as well as
+competence in regard to [[LOCATION:location_34|Terezin]] stands out clearly in all the testimonies as well as
 
 the "Orders of the Day" and the various memoranda of the Council of Elders which
 have been preserved.
-Rahm, who followed Seidl as commander of Terezin, gave evidence in his trial that
+Rahm, who followed Seidl as commander of [[LOCATION:location_34|Terezin]], gave evidence in his trial that
 the Accused himself told him that, from the point of view of technical administration,
-he was responsible to the BdS in Prague, but from a political point of view, to the
-RSHA in Berlin, and on questions of policy, he, Rahm, would receive instructions
+he was responsible to the BdS in [[LOCATION:location_4|Prague]], but from a political point of view, to the
+RSHA in [[LOCATION:location_1|Berlin]], and on questions of policy, he, Rahm, would receive instructions
 from Moes, one of the officials working with the Accused in Section IVB4 (T/864).
 In his evidence, the Accused tried to limit his competence to matters of state
 importance (Session 98, Vol. IV, p.xxxx5), but this cannot be accepted as an
 accurate description of the scope of his powers. He not only decided upon the
-transfer of Jews of foreign nationality from Terezin to Bergen-Belsen (T/851), but the
+transfer of Jews of foreign nationality from [[LOCATION:location_34|Terezin]] to [[LOCATION:location_212|Bergen-Belsen]] (T/851), but the
 above-mentioned Moes appointed the Council of Elders in the ghetto. The Accused
-organized the "Jewish Police" within the ghetto (T/37, p. 2028); approaches were
-made to him for permission to send letters from Terezin, and his interest even
+organized the "[[ORGANIZATION:org_336|Jewish Police]]" within the ghetto (T/37, p. 2028); approaches were
+made to him for permission to send letters from [[LOCATION:location_34|Terezin]], and his interest even
 reached the matter of deciding what type of beds should be provided for the
 inhabitants of the ghetto (T/346).
-The Accused visited Terezin frequently. According to the evidence of Mr. Diamant,
+The Accused visited [[LOCATION:location_34|Terezin]] frequently. According to the evidence of Mr. Diamant,
 which we accept as correct, in spite of the Accused's denial, the Accused personally
-took part in a selection in Terezin, which preceded the deportation to Auschwitz in the
+took part in a selection in [[LOCATION:location_34|Terezin]], which preceded the deportation to [[LOCATION:location_286|Auschwitz]] in the
 autumn of 1944 (Session 45, Vol. II, p. 808). The Accused contends that during that
-period he was in Hungary, but the fact is that he used to travel quite often from there
-to Berlin and to other places.
-We shall discuss the instructions for the prevention of births in the Terezin Ghetto in
+period he was in [[LOCATION:location_24|Hungary]], but the fact is that he used to travel quite often from there
+to [[LOCATION:location_1|Berlin]] and to other places.
+We shall discuss the instructions for the prevention of births in the [[LOCATION:location_34|Terezin]] Ghetto in
 a special section devoted to this subject.
-153. The camp for Jews in Bergen-Belsen was set up because of the desire of the
+153. The camp for Jews in [[LOCATION:location_212|Bergen-Belsen]] was set up because of the desire of the
 German Foreign Ministry to concentrate Jews of foreign nationality in an "Exchange
 Camp," with a view to their being exchanged for German prisoners in the hands of
 the Allied Powers. Accordingly, the Foreign Ministry, in a letter dated 2 March 1943
@@ -6858,7 +6858,7 @@ and this disturbs von Thadden, because such an attitude towards the prisoners is
 likely to defeat the purpose of the camp (T/789). The history of the camp shows that
 there was a sound basis for this anxiety.
 The camp was set up at the beginning of July 1943. Seidl, who until then had been
-the commander of Terezin, was transferred to Bergen-Belsen (T/842, third record of
+the commander of [[LOCATION:location_34|Terezin]], was transferred to [[LOCATION:location_212|Bergen-Belsen]] (T/842, third record of
 proceedings, p. 26). During the same period, a conference took place at the
 Accused's Section with the Advisers on Jewish Affairs, at which representatives of
 
@@ -6868,13 +6868,13 @@ Jews with contacts abroad who could be considered for exchange, and also Jews of
 repute (T/554).
 Questions reached the Accused's Section (T/555) and instructions were sent out
 from it (T/557, T/558) in relation to the categories of Jews to be sent to BergenBelsen. On 27 January 1944, the Accused's Section (over his signature) orders the
-transfer to Bergen-Belsen of all Jews holding Argentinian nationality (T/500), and on
+transfer to [[LOCATION:location_212|Bergen-Belsen]] of all Jews holding Argentinian nationality (T/500), and on
 29 February 1944 (over Guenther's signature) the Jews of foreign nationality in
-Greece (T/997). Seidl also testified (T/842, third record of proceedings, p. 27) that the
+[[LOCATION:location_26|Greece]] (T/997). Seidl also testified (T/842, third record of proceedings, p. 27) that the
 letters which had been written by the camp prisoners were collected together on the
 spot and sent to the Section of the Accused.
-In the autumn of 1944, a representative of the International Red Cross applied to the
-Foreign Ministry for permission to visit Bergen-Belsen (T/799). Von Thadden
+In the autumn of 1944, a representative of the [[ORGANIZATION:org_310|International Red Cross]] applied to the
+Foreign Ministry for permission to visit [[LOCATION:location_212|Bergen-Belsen]] (T/799). Von Thadden
 promised to look into the matter, but in an internal memorandum, he wrote that there
 would be serious hesitations on the part of the RSHA about such a visit. A similar
 request was presented to the Accused in April 1945 by a representative of the Red
@@ -6883,20 +6883,20 @@ Cross (T/865), but,
 Reich authorities responsible for sanitation and health were fighting it with all the
 means at their disposal. He promised me that he would tour this camp with me in a
 few days' time. This visit did not take place, because I could no longer find Eichmann
-in Berlin."
-The witness Melkman (Session 34, Vol. II, p. 618) was in Bergen-Belsen from 15
+in [[LOCATION:location_1|Berlin]]."
+The witness Melkman (Session 34, Vol. II, p. 618) was in [[LOCATION:location_212|Bergen-Belsen]] from 15
 February 1944 until 9 April 1945. His evidence makes it clear why the Accused
 opposed visits by foreigners to the camp. This is what the witness said:
-"When I came to Bergen-Belsen, the living conditions at first were no worse than
-those in Westerbork, perhaps a little better... In the course of time, the situation at
-Bergen-Belsen became worse, and the situation deteriorated terribly, until it received
+"When I came to [[LOCATION:location_212|Bergen-Belsen]], the living conditions at first were no worse than
+those in [[LOCATION:location_214|Westerbork]], perhaps a little better... In the course of time, the situation at
+[[LOCATION:location_212|Bergen-Belsen]] became worse, and the situation deteriorated terribly, until it received
 this horrible and awful name, as many more people arrived. At first the camp was
 intended only for some thousands, but in the end there were tens of thousands there.
 There was no food. The sanitary conditions - it is almost impossible to describe them.
 In a hut for 400 people, there was one toilet, and this was always out of order.
 Everybody suffered from diarrhoea... In the end there were tens of thousands of
 people. The dead lay in the roadway... I also entered the concentration camp of the
-women who had arrived at Auschwitz, I think that this was in November 1944. And
+women who had arrived at [[LOCATION:location_286|Auschwitz]], I think that this was in November 1944. And
 there I saw terrible things - women who fell upon some barrel where a few remnants
 of food still remained... There were even instances of cannibalism there."
 Dr. Chen (Session 71, Vol. III) and Mr. Hoter-Yishai (Session 73, Vol. III, pp. 13491350) gave evidence of the terrible situation prevailing in the camp when the
@@ -6907,8 +6907,8 @@ submitted to us (T/1347-T/1355), and a film was shown to us which had also been
 taken after the liberation of the camp.
 
 It is clear from the documents we have mentioned that the RSHA, and within it the
-Accused's Section, controlled the fate of the Jewish prisoners in the Bergen-Belsen
-camp. In this regard, therefore, there is a resemblance between Terezin and BergenBelsen.
+Accused's Section, controlled the fate of the Jewish prisoners in the [[LOCATION:location_212|Bergen-Belsen]]
+camp. In this regard, therefore, there is a resemblance between [[LOCATION:location_34|Terezin]] and BergenBelsen.
 154. We have also touched, in passing (for example, in the Hungarian chapter), on
 the transportation conditions when the victims were expelled from their homes and
 sent to the concentration camps and to other deportation places. We shall now add
@@ -6919,17 +6919,17 @@ drinking water, and at times no water at all for days on end, the most terrible 
 conditions (one pail per truck to take care of physiological needs), not less than 70 to
 100 people and even more in each truck.
 In this matter, the line of increasing harshness is clearly recognizable from the
-documents: In T/37 (the instruction for evacuation to the Generalgouvernement area)
+documents: In T/37 (the instruction for evacuation to the [[LOCATION:location_152|Generalgouvernement]] area)
 of March 1942, it is still stated that it is forbidden to dispatch more than 1,000 Jews in
 each train. Compare this with exhibit T/765, dated 20 February 1943 (instructions for
-evacuation to Auschwitz) where we read that every train must transport at least 1,000
+evacuation to [[LOCATION:location_286|Auschwitz]]) where we read that every train must transport at least 1,000
 Jews. At a conference in his Section on 9 September 1942, the Accused told his
 officials that there was room only for 700 people on the trains, but 1,000 Jews would
 have to be transported in them. When Superintendent Less put this statement to the
 Accused, he replied:
 "Mr. Superintendent, this does not alter the fact that I was the person authorized and
 responsible for this - this is clear." (T/37, p. 774)
-And so he continued right up to the deportations from Hungary, when 100 people and
+And so he continued right up to the deportations from [[LOCATION:location_24|Hungary]], when 100 people and
 more were packed tightly into a single truck.
 The police who accompanied the transports were generally members of the Order
 Police. But the Order Police were not responsible for the overcrowding in the trucks,
@@ -6940,11 +6940,11 @@ say that the very process of transporting people under such conditions was the f
 stage in the extermination of the deportees.
 Thus, it often happened that when a transport reached its destination, or was still at
 one of the intermediate stations, the bodies of persons who had died en route were
-taken out of the trucks. This applies not only to the period of the Final Solution, but
+taken out of the trucks. This applies not only to the period of the [[EVENT:event_389|Final Solution]], but
 also to the second stage, when Jews were deported from the Warthe zone, etc., and
 Stettin under disastrous conditions of transportation.
 155. We shall now devote some comments to the activity of the Accused in regard to
-the prevention of the immigration of Jews into Palestine and the prevention of their
+the prevention of the immigration of Jews into [[LOCATION:location_57|Palestine]] and the prevention of their
 emigration to other countries overseas. These matters are connected with the
 chapter of desperate attempts made by Jewish institutions and individuals to save
 Jewish lives from the Nazis, and the degree to which the various governments
@@ -6955,16 +6955,16 @@ Court cannot take this task upon itself. We shall content ourselves with a state
 of the facts, which were proved before us, relating to the Accused's activity in this
 matter.
 The first hint of the Accused's attitude to the question of aliyah (immigration) to
-Palestine is found in a comment in a report submitted by him, together with Hagen,
-on their joint journey to Palestine in 1937 (T/124). As will be remembered, in the
+[[LOCATION:location_57|Palestine]] is found in a comment in a report submitted by him, together with Hagen,
+on their joint journey to [[LOCATION:location_57|Palestine]] in 1937 (T/124). As will be remembered, in the
 report he says that the plan for the emigration of 50,000 Jews
 "...is out of the question, in view of the fact that it is the policy of the Reich to avoid
-the creation of an independent Jewish state in Palestine."
+the creation of an independent Jewish state in [[LOCATION:location_57|Palestine]]."
 Mention has previously been made that during this journey he was going to meet the
-Mufti, Hajj Amin al-Husseini, in Palestine, but at the time the meeting did not take
+Mufti, [[PERSON:person_680|Hajj Amin al-Husseini]], in [[LOCATION:location_57|Palestine]], but at the time the meeting did not take
 place.
-During the period of the Final Solution, there were two contributory factors in German
-policy preventing immigration into Palestine: First, the pact signed between the Nazis
+During the period of the [[EVENT:event_389|Final Solution]], there were two contributory factors in German
+policy preventing immigration into [[LOCATION:location_57|Palestine]]: First, the pact signed between the Nazis
 and certain Arab leaders, headed by the Mufti; and second, the desire to complete
 the extermination of all the Jews within the area of German influence without leaving
 any remnant. With regard to emigration to other countries, the second factor operated
@@ -6974,18 +6974,18 @@ of German influence. Deviations from this general line were permitted solely bec
 of overriding considerations of high policy.
 The Accused was faithful to the official line, as will be shown from the documents
 which follow, in addition to those which we have already mentioned in the sections on
-Romania and Croatia:
+[[LOCATION:location_129|Romania]] and [[LOCATION:location_85|Croatia]]:
 (a) On 11 May 1942, the Accused requests the German Foreign Ministry to prevent
-Jewish emigration from Romania via Hungary, Croatia and Italy "by taking
+Jewish emigration from [[LOCATION:location_129|Romania]] via [[LOCATION:location_24|Hungary]], [[LOCATION:location_85|Croatia]] and [[LOCATION:location_19|Italy]] "by taking
 appropriate measures," and the reason he gives is that:
 "Since, in general, Jews of means are under discussion, there is a danger that in the
-end only the mass of Jews without means will remain in Romania." (T/1016)
-(b) The Accused also fought the immigration of children into Palestine. On 3 March
-1943, he seeks to prevent the immigration of one thousand children via Bulgaria and
-Turkey (T/1048). And again Guenther, of his Section, takes action against the
-immigration of four thousand children (T/950, dated 2.4.43). On 9 April 1943 Richter,
-from Budapest, informs the Accused (T/1050) that he has taken steps to prevent the
-transport of the children via Bulgaria, and he writes as follows:
+end only the mass of Jews without means will remain in [[LOCATION:location_129|Romania]]." (T/1016)
+(b) The Accused also fought the immigration of children into [[LOCATION:location_57|Palestine]]. On 3 March
+1943, he seeks to prevent the immigration of one thousand children via [[LOCATION:location_20|Bulgaria]] and
+[[LOCATION:location_48|Turkey]] (T/1048). And again Guenther, of his Section, takes action against the
+immigration of four thousand children (T/950, dated 2.4.43). On 9 April 1943 [[PERSON:person_417|Richter]],
+from [[LOCATION:location_31|Budapest]], informs the Accused (T/1050) that he has taken steps to prevent the
+transport of the children via [[LOCATION:location_20|Bulgaria]], and he writes as follows:
 "The President of the Jewish Centre has been officially informed that he has to act
 against the departure of the transport of the Jewish children, since on our part we
 shall take steps to halt the transport on Bulgarian territory and direct it elsewhere."
@@ -7005,47 +7005,47 @@ possible technically to enable the five thousand Jewish children to leave the Ea
 Occupied Territories, because of the implementation of our activities against the
 Jews.
 "3. In spite of what has been said in paragraph 1, as far as the need becomes
-apparent to agree to the departure of Jewish children from Romania or from other
+apparent to agree to the departure of Jewish children from [[LOCATION:location_129|Romania]] or from other
 Balkan countries, importance is attached to the fact that this, too, should not be done
 without a quid pro quo, but in accordance with the procedure outlined in paragraph
 2."
 In this connection, we shall mention an additional memorandum of the Foreign
 Ministry of May 1944, a year later. There it is stated (T/1258):
 "Secret information has come from the RSHA that five thousand Jewish children, who
-could be considered for departure, are still to be found only in the Lodz Ghetto. But
+could be considered for departure, are still to be found only in the [[LOCATION:location_81|Lodz]] Ghetto. But
 this ghetto will be closed down shortly, in accordance with the instructions of the
 Reichsfuehrer-SS."
-(d) In Hungary, the diplomatic representatives of a number of neutral countries strove
+(d) In [[LOCATION:location_24|Hungary]], the diplomatic representatives of a number of neutral countries strove
 devotedly to rescue Jews, both by granting them letters of protection, and also by
 assisting their emigration. These humanitarian efforts are linked with the names of
-men of noble spirit - Raoul Wallenberg of Sweden and Lutz of Switzerland. The
+men of noble spirit - [[PERSON:person_656|Raoul Wallenberg]] of [[LOCATION:location_144|Sweden]] and Lutz of [[LOCATION:location_53|Switzerland]]. The
 Accused takes action to thwart these efforts. On 24 April 1944, he writes to his
-Section in Berlin as follows (T/1216):
+Section in [[LOCATION:location_1|Berlin]] as follows (T/1216):
 "We have seen to it that the [German] Embassy here will also do everything to delay
 the emigration efforts, and finally, after the continued evacuation of the Jews, will
 stop the emigration efforts completely."
 And he requests,
 "the phrasing of the German Government's consent which had been given at the
 outset, with more clarity and sharpness on this point. It should be said that emigration
-to Palestine...does not meet with Germany's approval."
+to [[LOCATION:location_57|Palestine]]...does not meet with [[LOCATION:location_2|Germany]]'s approval."
 (e) The consent of the Reich Government, mentioned in the previous paragraph,
 referred to the proposals for Jewish emigration which had come from the
-governments of Sweden, Switzerland, and the United States. In reply to these
+governments of [[LOCATION:location_144|Sweden]], [[LOCATION:location_53|Switzerland]], and the [[LOCATION:location_68|United States]]. In reply to these
 proposals, Hitler agreed to the emigration of several thousand Hungarian Jews, on
-condition that Horthy should hand over the rest of the Jews of Hungary (especially
-the Jews of Budapest) to the Germans (see T/1214, para. 5; N/85). And here the
+condition that Horthy should hand over the rest of the Jews of [[LOCATION:location_24|Hungary]] (especially
+the Jews of [[LOCATION:location_31|Budapest]]) to the Germans (see T/1214, para. 5; N/85). And here the
 Accused reaches the extreme limit in his struggle against the rescue efforts.
 Veesenmayer writes in a cable dated 25 July 1944 (T/1215, para. 2):
 "SS Obersturmbannfuehrer Eichmann, head of the Jewish Operations Units of the
 SD here, has taken the stand that, as far as he knows, in no circumstances does the
-Reichsfuehrer agree to the emigration of Hungarian Jews to Palestine. The Jews in
+Reichsfuehrer agree to the emigration of Hungarian Jews to [[LOCATION:location_57|Palestine]]. The Jews in
 question are without exception important biological material, many of them veteran
 
-Zionists, whose emigration to Palestine is most undesirable. Having regard to the
+Zionists, whose emigration to [[LOCATION:location_57|Palestine]] is most undesirable. Having regard to the
 Fuehrer's decision, of which he had been informed, he is about to submit a report to
 the Reichsfuehrer-SS and, if necessary, he will seek a new decision from the Fuehrer.
 Furthermore, it has been agreed with Eichmann that, to the extent that assent will be
-given to additional evacuations of Jews from Budapest, these are to be carried out as
+given to additional evacuations of Jews from [[LOCATION:location_31|Budapest]], these are to be carried out as
 far as possible suddenly, and with such speed that the Jews in question will already
 have been deported before the completion of the formalities."
 It is also stated there that, in the event of permission being given for emigration to the
@@ -7064,28 +7064,28 @@ We shall return to this subject of his attitude in another context.
 the Mufti, Hajj Amin al- Husseini.
 It has been proved to us that the Mufti, too, aimed at the implementation of the Final
 Solution, viz., the extermination of European Jewry, and there is no doubt that, had
-Hitler succeeded in conquering Palestine, the Jewish population of Palestine as well
+Hitler succeeded in conquering [[LOCATION:location_57|Palestine]], the Jewish population of [[LOCATION:location_57|Palestine]] as well
 would have been subject to total extermination, with the support of the Mufti.
 Memoranda sent by the Mufti to the German Foreign Ministry, Ribbentrop (T/1260,
-T/1261), and to the satellite governments of Romania and Bulgaria (T/1263, T/1264),
+T/1261), and to the satellite governments of [[LOCATION:location_129|Romania]] and [[LOCATION:location_20|Bulgaria]] (T/1263, T/1264),
 have been submitted to us, containing the insistent demand that all Jewish
-immigration into Palestine be prevented.
+immigration into [[LOCATION:location_57|Palestine]] be prevented.
 In the memorandum to the Bulgarian Foreign Minister, dated 6 May 1943 (T/1263, p.
 3), it says:
 "I take the liberty of drawing your attention to the fact that it would be indeed
 appropriate and advantageous if the Jews were to be prevented from emigrating from
 your country, and if they were sent to a place where they would be placed under strict
-control, as for example Poland."
+control, as for example [[LOCATION:location_5|Poland]]."
 It is unnecessary to make any comment upon the phrase "strict control," when the
 subject under reference is Polish Jewry in the year 1943.
 In his notes, exhibit T/89, dated 26 July 1946, Wisliceny quotes the Accused as
-saying that the Mufti visited his office in Berlin at the end of 1941 or the beginning of
+saying that the Mufti visited his office in [[LOCATION:location_1|Berlin]] at the end of 1941 or the beginning of
 1942. The Accused gave him an account of the Solution of the Jewish Question in
 Europe, and the Mufti was duly impressed. The Mufti told the Accused that Himmler
 had agreed to his request that a member of the Accused's Section should come to
-Jerusalem to serve as personal adviser to him (the Mufti) upon the latter's return to
+[[LOCATION:location_44|Jerusalem]] to serve as personal adviser to him (the Mufti) upon the latter's return to
 
-Jerusalem after the victory of the Axis Powers. The Accused asked Wisliceny if he
+[[LOCATION:location_44|Jerusalem]] after the victory of the Axis Powers. The Accused asked Wisliceny if he
 would like to take this task upon himself, and he, Wisliceny, declined to consider the
 suggestion.
 In his Statement, the Accused admitted that he had met the Mufti, though not in his
@@ -7105,7 +7105,7 @@ On the other hand, we cannot determine decisive findings with regard to the Accu
 on the basis of the notes appearing in the Mufti's diary which were submitted to us.
 Discussions with Regard to the Descendants of Mixed Marriages
 157. Nazi legislation defined in paragraph 5 of Regulation No. 1 under the Citizenship
-Law (one of the Nuremberg Laws) who was to be regarded as a Jew (T/68). The Nazi
+Law (one of the [[EVENT:event_388|Nuremberg Laws]]) who was to be regarded as a Jew (T/68). The Nazi
 legislator had no doubts that a person who had three Jewish grandparents was to be
 regarded as a Jew, whereas a person having only one Jewish grandparent was not
 regarded as a Jew. Special instructions existed with regard to half-Jews, but we do
@@ -7115,16 +7115,16 @@ down that Jews were to be evacuated, and they defined who was a Jew for this
 purpose in accordance with paragraph 5 above (see, for example, T/713, T/664,
 T/730, T/737).
 The evacuation orders issued by the Accused's Section also deal with this subject.
-For example, in the instructions for the evacuation of Jews to Terezin, dated 20
+For example, in the instructions for the evacuation of Jews to [[LOCATION:location_34|Terezin]], dated 20
 February 1943 (T/850), we see that various categories of descendants of mixed
 marriages (in the language of the indictment before us, children of mixed marriages)
-who were regarded as Jews, were to be evacuated to Terezin and not to the East.
+who were regarded as Jews, were to be evacuated to [[LOCATION:location_34|Terezin]] and not to the East.
 But, in the meantime, the question of how to deal with borderline cases concerning
 children of mixed marriages did not cease to occupy the experts on race theory and
 the Nazi jurists.
 In exhibit T/526, dated 19 September 1941, a person named Stiller, who worked in
 the German administration in Holland, reports on a conversation with Loesener, the
-Referent for Jewish Affairs in the German Ministry of the Interior. According to
+Referent for Jewish Affairs in the German [[ORGANIZATION:org_301|Ministry of the Interior]]. According to
 
 Loesener, there are circles which recommend making the existing regulations more
 stringent, and especially that half-Jews should be regarded as Jews for all purposes.
@@ -7139,11 +7139,11 @@ SS circles were angry with him because of this. In this connection he mentions t
 name of the Accused as that of one of the most fanatical and vicious Jew-haters.
 In the statements of Stiller and Loesener, we see adequate proof of the Accused's
 attitude on the question under discussion.
-In the minutes of the Wannsee Conference (T/185), the debate on the treatment of
+In the minutes of the [[EVENT:event_387|Wannsee Conference]] (T/185), the debate on the treatment of
 children of mixed marriages of the first and second degree occupies considerable
 space, and extreme views are expressed, including a proposal for sterilization; but
 the discussion on this question was not concluded. On 6 March 1942, a month and a
-half after the Wannsee Conference, a meeting takes place in the Accused's office,
+half after the [[EVENT:event_387|Wannsee Conference]], a meeting takes place in the Accused's office,
 attended by representatives of the various ministries and offices. The entire the
 meeting was devoted to the question of the treatment of children of mixed marriages.
 The list of the participants does not include the name of the Accused, but that of
@@ -7164,34 +7164,34 @@ legislation, as it existed until then, or in the implementation of the plan for 
 sterilization of the children of mixed marriages.
 On 30 January 1942, a meeting took place in the Ministry for Eastern Occupied
 Territories (T/299), attended also by Suhr, one of the officials in the Accused's
-Section. All the participants assumed that the Nuremberg Laws did not apply in the
+Section. All the participants assumed that the [[EVENT:event_388|Nuremberg Laws]] did not apply in the
 East, and the debate turned on the question as to how the term "Jew" should be
 defined in the East. Heydrich also intervened in this debate (T/301), but again it has
 not been proved to us that matters went beyond discussion and correspondence and
 ever reached any final conclusion.
 
 Sterilization and the Prevention of Births
-158. As we have seen, a suggestion had already been made at the Wannsee
+158. As we have seen, a suggestion had already been made at the [[LOCATION:location_76|Wannsee]]
 Conference that the children of mixed marriages be sterilized. But the Nazis' interest
 in sterilization went far beyond this. Rudolf Brandt, one of Himmler's men, testified to
 this in his affidavit dated 19 October 1946 (T/816):
 "Himmler was especially interested in the development of a cheap, quick method of
 sterilization which could be used against enemies of the German Reich, such as
 Russians, Poles and Jews. It was hoped thereby not only to defeat, but also to
-destroy the enemy. Germany would be able to exploit the working capacity of the
+destroy the enemy. [[LOCATION:location_2|Germany]] would be able to exploit the working capacity of the
 sterilized persons, while averting the danger that they might multiply."
 Brandt, in his declaration, describes some of the shameful acts by which Nazi doctors
-desecrated the name of medical science: At Auschwitz and Ravensbrueck,
+desecrated the name of medical science: At [[LOCATION:location_286|Auschwitz]] and Ravensbrueck,
 experimental sterilizations were carried out on women. Many thousands of women,
 and especially Jewesses and Gypsies, were sterilized. According to Brandt's
-statement, at Auschwitz men, too, were sterilized for experimental purposes. Two of
+statement, at [[LOCATION:location_286|Auschwitz]] men, too, were sterilized for experimental purposes. Two of
 the victims of these experiments have given evidence before us.
 According to a letter (T/1379), dated 4 July 1942, sent to the Accused's Section for
 the attention of Guenther, a telephone conversation took place between Fischer, one
 of Himmler's adjutants, and Guenther. Fischer attaches to his letter photographs
 which apparently relate to experiments which are to be carried out. Fischer also
 requests Guenther's close co-operation in this matter with the office of Pohl, the chief
-of the Economic-Administrative Head Office. In his Statement to the police (T/37, p.
+of the [[ORGANIZATION:org_367|Economic-Administrative Head Office]]. In his Statement to the police (T/37, p.
 2237 et seq.), the Accused denies all knowledge of the matter and expresses his
 astonishment at the fact that Guenther's name appears on the letter, which had been
 sent from Himmler's office. In his testimony before us, he surmised that apparently
@@ -7201,7 +7201,7 @@ On 10 July 1942, a letter (T/1377) was sent to Professor Klauberg (or Glauberg),
 whose name became infamous in connection with sterilization experiments on
 Jewesses. The subject of this letter is: The experimental sterilization of one thousand
 Jewesses in Ravensbrueck. A copy of this letter was sent to the RSHA for
-information. The words "SS Sturmbannfuehrer Guenther, IVB4, Jewish Department"
+information. The words "SS [[PERSON:person_484|Sturmbannfuehrer Guenther]], IVB4, Jewish Department"
 appear typed on this document, but above that, the words "SS Gruppenfuehrer
 Mueller" were written by hand (see T/37 (178).
 We have come to the conclusion that on this subject the Accused should be given
@@ -7209,13 +7209,13 @@ the benefit of the doubt. Mention of Mueller's name in exhibit T/1377 shows that
 not at all impossible that this matter was handled at a higher level. Because of this
 doubt, we do not find that the Accused and his Section took part in the
 implementation of the sterilization programme or in its preparation.
-159. We know of the prevention of births from the Kovno Ghetto and from Terezin. Dr.
-Peretz (Session 28, Vol. I, p. 478) testified about Kovno. There the Germans
+159. We know of the prevention of births from the [[LOCATION:location_17|Kovno]] Ghetto and from [[LOCATION:location_34|Terezin]]. Dr.
+Peretz (Session 28, Vol. I, p. 478) testified about [[LOCATION:location_17|Kovno]]. There the Germans
 published an order in July 1942 for the termination of all pregnancies except those in
 the eighth or ninth months. A woman whose pregnancy was not terminated in spite of
 the order was liable to the death penalty.
 
-With regard to Terezin, we shall quote a statement, dated 21 August 1843, sent by Dr.
+With regard to [[LOCATION:location_34|Terezin]], we shall quote a statement, dated 21 August 1843, sent by Dr.
 Munk, director of the health services in the ghetto, to the chief medical officer and all
 the gynaecologists there, which reads as follows:
 "As a consequence of the two latest notifications of births, SS Obersturmbannfuehrer
@@ -7229,9 +7229,9 @@ on official instructions." (T/863)
 On this subject, Rahm (who succeeded Seidl as camp commander) stated at his trial
 (T/864):
 "Until about March 1944, I knew nothing about the prohibition according to which
-women in the ghetto were forbidden to bear children... Then Eppstein [head of the
+women in the ghetto were forbidden to bear children... Then [[LOCATION:location_125|Eppstein]] [head of the
 Jewish Council] told me that he thought that - in accordance with what had been
-agreed between himself and Eichmann - the general prohibition in force in Germany
+agreed between himself and Eichmann - the general prohibition in force in [[LOCATION:location_2|Germany]]
 concerning artificial abortions did not apply to Jews, and that this agreement was
 exploited by Eichmann, in oder to force Jewish women in the ghetto to have
 abortions...and when Guenther came to visit me, I asked him about it, and he
@@ -7241,20 +7241,20 @@ about it from Eichmann directly."
 It should be mentioned that this same Burger, who was mentioned in Dr. Munk's
 statement, was one of the Accused's men (T/37, p. 1478). In this matter of the
 prevention of births, our conclusion is that it has not been proved that the Accused
-was involved in giving the order in the Kovno Ghetto, of which Dr. Peretz spoke. In
+was involved in giving the order in the [[LOCATION:location_17|Kovno]] Ghetto, of which Dr. Peretz spoke. In
 the "Brown File" on Easter Occupied Territories, in the drafting of which the Accused
 participated, we have also not found instructions with regard to the prevention of
-births amongst the Jews. But with regard to Terezin, the Accused's responsibility for
+births amongst the Jews. But with regard to [[LOCATION:location_34|Terezin]], the Accused's responsibility for
 the order given there for the termination of pregnancy, and for its implementation, has
 been proved fully.
 160. The Prosecution adduced evidence with regard to a specially horrible chapter
 with which the Accused's name is also connected. The reference is to the collection
-of skeletons in the Institute of Anatomy at the University of Strasbourg.
+of skeletons in the Institute of Anatomy at the University of [[LOCATION:location_289|Strasbourg]].
 One of the pseudo-scientific institutions of the Nazi period was called "The Ancestral
 Heritage." Its president was Himmler and its director a man called Sievers. The task
 of the institution was "to investigate the area, spirit, activity and inheritance of the
 Indo-German group of the Nordic race" (T/1362). Under the auspices of this
-institution, Professor Hirt of the University of Strasbourg carried out examinations of
+institution, Professor Hirt of the University of [[LOCATION:location_289|Strasbourg]] carried out examinations of
 skeletons and skulls.
 On 9 February 1942, Sievers submits to Brandt, who belonged to Himmler's personal
 staff, a memorandum proposing that examinations of this kind be also carried out on
@@ -7263,41 +7263,41 @@ his approval to Hirt's research work (N/18). In order to secure Jews, alive and 
 Sievers approaches Gluecks, the official in charge of concentration camps, who
 
 refers him to the Accused. A conversation takes place between Sievers and the
-Accused. Sievers requests the Accused "to create suitable conditions in Auschwitz"
+Accused. Sievers requests the Accused "to create suitable conditions in [[LOCATION:location_286|Auschwitz]]"
 for carrying out the examinations in accordance with Himmler's instructions, and the
 Accused replies that he needs to have a letter from Himmler or from his personal
-staff (evidence of Sievers at the trial of the doctors at Nuremberg, T/1370, p. 5776).
+staff (evidence of Sievers at the trial of the doctors at [[LOCATION:location_39|Nuremberg]], T/1370, p. 5776).
 On 2 November 1942, Sievers again approaches Brandt and supplies him with a
 draft for such a letter from Brandt to Section IVB4, for the attention of the Accused
 (T/1264). On 28 April 1943, a conversation takes place between Sievers and
 Guenther, and Sievers makes the following note in his diary on the content of the
 conversations:
-"Examinations are now possible in the concentration camp of Auschwitz...discussion
+"Examinations are now possible in the concentration camp of [[LOCATION:location_286|Auschwitz]]...discussion
 about the procedure." (T/1367).
 On 21 June 1943, Sievers informs the Accused's Section that the research work in
-Auschwitz has been completed and that the people examined (79 Jews, 30
+[[LOCATION:location_286|Auschwitz]] has been completed and that the people examined (79 Jews, 30
 Jewesses, two Poles, and four other persons) are to be transferred to the Natzweiler
 concentration camp (T/1366). In August 1943, about eighty detainees were sent from
-Auschwitz to Natzweiler, and Kramer, who was then the commander of this camp,
-approached Professor Hirt in Strasbourg, in accordance with the instructions he had
+[[LOCATION:location_286|Auschwitz]] to Natzweiler, and [[PERSON:person_471|Kramer]], who was then the commander of this camp,
+approached Professor Hirt in [[LOCATION:location_289|Strasbourg]], in accordance with the instructions he had
 received. Hirt gave him a quantity of gas and explained to him how he was to execute
-these people. Kramer carried out this assignment in a matter of days and sent the
-bodies to Strasbourg (evidence of Kramer at the trial of the doctors, (T/1371)).
-Evidence was also given at Nuremberg by a witness called Henripierre (T/1369), with
-regard to the visit of an SS officer to Strasbourg. Henripierre also related that bodies
+these people. [[PERSON:person_471|Kramer]] carried out this assignment in a matter of days and sent the
+bodies to [[LOCATION:location_289|Strasbourg]] (evidence of [[PERSON:person_471|Kramer]] at the trial of the doctors, (T/1371)).
+Evidence was also given at [[LOCATION:location_39|Nuremberg]] by a witness called Henripierre (T/1369), with
+regard to the visit of an SS officer to [[LOCATION:location_289|Strasbourg]]. Henripierre also related that bodies
 arrived in three consignments - 30 women, 30 men, and another 26 men. It was clear
 that these persons had just been killed, and the witness described what was done
-with the bodies in the Anatomy Institute at Strasbourg. In a letter dated 5 September
+with the bodies in the Anatomy Institute at [[LOCATION:location_289|Strasbourg]]. In a letter dated 5 September
 1944, Sievers requests Brandt to instruct him what to do with the collection of
-skeletons, in view of the danger that Strasbourg might be occupied by the Allied
+skeletons, in view of the danger that [[LOCATION:location_289|Strasbourg]] might be occupied by the Allied
 armies (T/1368). We do not know Brandt's reply, but when the Allies conquered
-Strasbourg, bodies and parts of bodies were found there, and in regard to some of
+[[LOCATION:location_289|Strasbourg]], bodies and parts of bodies were found there, and in regard to some of
 them it was stated "apparently Jews." (T/1372)
 With regard to this chapter of events, the Accused testified (Session 79, Vol. IV, pp.
 xxxx12-15), that he does not remember Sievers' visit, he does not deny receipt of the
 letter T/1365, and the conclusion is that he really has no comment to make except in
 relation to the documents, and the matter was not within his competence.
-Sievers and Kramer were accomplices in the crime of executing the victims, and their
+Sievers and [[PERSON:person_471|Kramer]] were accomplices in the crime of executing the victims, and their
 evidence requires corroboration, but there is sufficient corroboration, both in the
 evidence of Henripierre and also in the documents submitted. It is clear that Sievers
 twice visited the Accused's office - the first time shortly before 1 November 1942 (and
@@ -7309,13 +7309,13 @@ fact that in a document (T/1366) a letter (not submitted to us) is mentioned whi
 sent from the Accused's Section on 25 September 1942.
 
 The Accused himself, or through his permanent deputy, gave instructions to the
-concentration camp at Auschwitz, first of all to place the detainees at the disposal of
+concentration camp at [[LOCATION:location_286|Auschwitz]], first of all to place the detainees at the disposal of
 Professor Hirt in the required numbers, and then to transfer them to Natzweiler - all
 this, knowing for certain that the end of these detainees would be their execution (in
 the letter of 6.11.42, T/1365, it is specifically stated: "Subject: The Establishment of a
-Collection of Skeletons in the Anatomy Institute at Strasbourg"). It is correct that, in
+Collection of Skeletons in the Anatomy Institute at [[LOCATION:location_289|Strasbourg]]"). It is correct that, in
 this matter, the Accused requested and received specific orders from Himmler's staff.
-161. With regard to the number of victims of the Final Solution, the indictment does
+161. With regard to the number of victims of the [[EVENT:event_389|Final Solution]], the indictment does
 not mention exact totals but speaks of millions of Jews exterminated, mostly in the
 extermination camps, and hundreds of thousands by the Operations Units. Only in
 regard to limited operations were more precise figures mentioned, when the evidence,
@@ -7328,10 +7328,10 @@ complete. Therefore, we shall not attempt to give specific figures even approxim
 but confine ourselves to a general finding, that the extermination of millions has been
 proved, and that, according to demographic calculations made by Professor Baron, in
 his evidence before us, on the basis of the sources mentioned in his testimony, there
-is no doubt that the total number of victims of the Final Solution was about six million
+is no doubt that the total number of victims of the [[EVENT:event_389|Final Solution]] was about six million
 (Session 13, Vol. I, pp. 183-185).
 Professor Baron also gave particulars of the destruction in various countries. Of
-Polish Jewry, which before the Second World War numbered some 3,300,000 souls,
+Polish Jewry, which before the [[EVENT:event_383|Second World War]] numbered some 3,300,000 souls,
 there was left at the end of the War a remnant of some 70,000; and this is not the
 only country where the Jewish community was completely wiped out. There is also
 confirmation of the total figure of six million from the Accused himself, and he
@@ -7345,7 +7345,7 @@ definite on this point.
 162. We now propose to establish more precisely what was the part played by the
 Accused in the extermination operations. We have already touched upon this central
 topic in some of the earlier sections, when giving a description of the background of
-the events, especially in Hungary and Eastern Europe. In other sections, in which we
+the events, especially in [[LOCATION:location_24|Hungary]] and Eastern Europe. In other sections, in which we
 described the expulsions of the Jews and all that was connected therewith, in the
 Reich itself and in the other European countries, the part played by the Accused is
 clearly seen from the very description of activities carried out there by his
@@ -7360,13 +7360,13 @@ prove specific activity on the part of the Accused, i.e., the introduction of th
 of gas-killing, and the supply of gas to the extermination camps.
 163. First, let us elucidate the date at which the Accused was informed that an order
 for complete extermination had been given by Hitler, for clearly we can place upon
-him responsibility for participating in the implementation of the Final Solution of the
+him responsibility for participating in the implementation of the [[EVENT:event_389|Final Solution]] of the
 Jewish Question only from the moment when he began to act in the full knowledge
-that the signal had been given for carrying out the Final Solution. The Accused
+that the signal had been given for carrying out the [[EVENT:event_389|Final Solution]]. The Accused
 contends that Heydrich informed him of the matter orally, and that on the same
-occasion Heydrich sent him to Globocnik in Lublin, in order to ascertain what stage
+occasion Heydrich sent him to Globocnik in [[LOCATION:location_35|Lublin]], in order to ascertain what stage
 had been reached by the latter in his preparations for the exterminations. He relates
-that he travelled to Lublin as ordered, and there saw the extermination installations in
+that he travelled to [[LOCATION:location_35|Lublin]] as ordered, and there saw the extermination installations in
 the process of construction and was informed that the Jews would be executed by
 exhaust gases from a motor (T/37, p. 172). He mentions the date of the conversation
 and the visit in his Statement T/37, pp. 169-170:
@@ -7375,7 +7375,7 @@ outbreak of war. And apparently about two months later, possibly three months la
 at all events it was at the end of summer...when Heydrich summoned me. I presented
 myself to him and he told me... `The Fuehrer has ordered the physical destruction of
 the Jews.'
-"... And then he said to me: `Eichmann, go to Globocnik in Lublin...the Reichsfuehrer
+"... And then he said to me: `Eichmann, go to Globocnik in [[LOCATION:location_35|Lublin]]...the Reichsfuehrer
 has already given Globocnik appropriate instructions, and see how far he has
 progressed in the work he has to do'."
 From the Accused's testimony before us, it appears that his visit to Globocnik took
@@ -7386,12 +7386,12 @@ at the end of summer, in the circumstances he has described, but it was as early
 the beginning of the summer of 1941 that Hitler had issued his order for the physical
 destruction of the Jews.
 The Accused admits that he was present at the gathering of men of the Operations
-Units which took place in Berlin on the eve of the war against Russia, i.e., in June
+Units which took place in [[LOCATION:location_1|Berlin]] on the eve of the war against [[LOCATION:location_10|Russia]], i.e., in June
 1941, but in his evidence he denied that the men of the Operations Units received
 information there as to what their duties would be and stated that the discussion
 revolved only around organizational questions (Session 102, Vol, IV, pp. xxxx10-11).
-But this evidence is contradicted by Walter Blume's statement, in the trial of
-Ohlendorf and others (Trial No. 9 of the additional trials at Nuremberg). Blume, who
+But this evidence is contradicted by [[PERSON:person_511|Walter Blume]]'s statement, in the trial of
+Ohlendorf and others (Trial No. 9 of the additional trials at [[LOCATION:location_39|Nuremberg]]). Blume, who
 was commander of one of the Operations Units, declares (T/306, p. 3) that he was
 present at that gathering, and that there Heydrich spoke about the task of the
 Operations Units in regard to the extermination of the Jews.
@@ -7406,7 +7406,7 @@ order, which was given there to the men of the Operations Units:
 "You are absolutely right, Mr. Superintendent, certainly something like that was
 mentioned."
 We find further confirmation that the Accused knew already in the summer months of
-1941 that an order had been given for the Final Solution by mass extermination, in
+1941 that an order had been given for the [[EVENT:event_389|Final Solution]] by mass extermination, in
 the following:
 (a) The Accused admitted, when cross-examined by the Attorney General, that he
 received reports of the activities of the Operations Units in the East from the end of
@@ -7416,21 +7416,21 @@ understood nor knew at that time that these activities were being carried out in
 accordance with an order from above for total extermination?
 (b) On 28 August 1941, the Accused writes to the Foreign Ministry that the emigration
 of Jews from the German- occupied territories is to be prevented, "having regard to
-the Final Solution of the European Jewish Question which is now in sight and is at
+the [[EVENT:event_389|Final Solution]] of the European Jewish Question which is now in sight and is at
 present in the preparatory stage" (T/183 - our emphasis). It should be pointed out
 also that precisely during the same period the Accused secretly informs Rademacher
-that the Fuehrer has agreed that the Jews in Germany should be obliged to wear the
+that the Fuehrer has agreed that the Jews in [[LOCATION:location_2|Germany]] should be obliged to wear the
 Jewish Badge (see Section 82 above).
 We have already remarked, when we spoke of an earlier stage, that the rulers
-sometimes also spoke of the Madagascar Plan as "the Final Solution," but in the
+sometimes also spoke of the [[EVENT:event_392|Madagascar Plan]] as "the [[EVENT:event_389|Final Solution]]," but in the
 course of time the significance of this term changed. This gradual change in content,
 while the term itself remained unchanged, was convenient for camouflage purposes
 vis-a-vis all those who were not privy to secret decisions taken from time to time by
 the top leadership.
 Therefore, when the Accused states, for example, in a letter dated 12 March 1941
-(T/697), that the emigration of German Jews from Yugoslavia is not desirable,
-"having regard to the Final Solution of the Jewish Question which is now in sight," it is
-not yet clear what is the Final Solution mentioned there. But when, on 28 August
+(T/697), that the emigration of German Jews from [[LOCATION:location_25|Yugoslavia]] is not desirable,
+"having regard to the [[EVENT:event_389|Final Solution]] of the Jewish Question which is now in sight," it is
+not yet clear what is the [[EVENT:event_389|Final Solution]] mentioned there. But when, on 28 August
 1941, further words are used, to the effect that this solution "is at present in the
 preparatory stage," it is clear that the reference is to the new solution, and this
 solution, though, at that moment, in the preparatory stage, is none other than total
@@ -7443,13 +7443,13 @@ there is to that trickle of emigration which was still being allowed until, in O
 
 (c) In his statement, Hoess says (T/90, p. 1) that Himmler informed him in the
 summer of 1941 (he cannot give the exact date) that Hitler had given an order for the
-Final Solution of the Jewish Question, and that it would be the duty of the SS to carry
+[[EVENT:event_389|Final Solution]] of the Jewish Question, and that it would be the duty of the SS to carry
 it out. It is inconceivable that, at that same time, this matter was not known to the
 Accused, who held the same rank as Hoess and was head of the Section for Jewish
 Affairs in the RSHA.
 (d) Finally, in the letter of appointment, dated 31 July 1941, mentioned above (T/179),
 Goering ordered Heydrich to submit to him, at an early date, a plan for implementing
-the Final Solution, by way of "evacuation," i.e., the extermination of the Jews. It can
+the [[EVENT:event_389|Final Solution]], by way of "evacuation," i.e., the extermination of the Jews. It can
 be assumed with certainty that, immediately upon receipt of this letter, Heydrich
 summoned the official authorized to handle Jewish affairs in the RHSA, i.e., the
 Accused, explained to him that now a turning point had been reached as far as the
@@ -7459,24 +7459,24 @@ from the situation.
 Accused that everything connected with the expulsion of Jews would, in the end, lead
 to their final destruction. We are, therefore, convinced that the Accused gave false
 testimony when he stated that he had sent the first transports from the Reich territory
-to the Lodz Ghetto in October 1941, in order to rescue the Jews from death at the
+to the [[LOCATION:location_81|Lodz]] Ghetto in October 1941, in order to rescue the Jews from death at the
 hands of the Operations Units. To maintain this version, the Accused was even
 prepared to admit that he employed the cunning techniques of horse dealers, in order
-to overcome the opposition of the head of the Lodz district to the entry of additional
+to overcome the opposition of the head of the [[LOCATION:location_81|Lodz]] district to the entry of additional
 Jews into that ghetto, as stated in a cable of protest from the head of the district,
 dated 9 October 1941 (T/220). True - says the Accused in his evidence (Session 78,
 Vol. IV, p. xxxx13) - there is a basis for this complaint, but (so it appears from his
 evidence) any method to ensure that these Jews did not fall into the hands of the
 Operations Units was acceptable.
-The truth is that, at the time of the negotiations regarding these transports to Lodz in
+The truth is that, at the time of the negotiations regarding these transports to [[LOCATION:location_81|Lodz]] in
 the second part of September 1941 (see exhibit T/221), the Accused knew full well
-that the Jews in the Lodz Ghetto would also be exterminated sooner or later,
+that the Jews in the [[LOCATION:location_81|Lodz]] Ghetto would also be exterminated sooner or later,
 because such was the Fuehrer's command. The truth is that the Accused employed
 horse dealers' methods without any lofty intentions.
 165. It is therefore clear that all the Jews dispatched by the Accused and his Section
 to the East for "posting for work," or under any other camouflage term, were
-dispatched to death by him knowingly, whether he sent them after the Wannsee
-Conference or in October 1941 to the Lodz Ghetto. And it makes no difference
+dispatched to death by him knowingly, whether he sent them after the [[LOCATION:location_76|Wannsee]]
+Conference or in October 1941 to the [[LOCATION:location_81|Lodz]] Ghetto. And it makes no difference
 whether they were sent to an extermination camp or to a labour camp. They could be
 done to death immediately in the concentration camp, or also later, after they had
 been employed in one of the labour camps in the East. It makes no difference
@@ -7484,8 +7484,8 @@ whether the forced labourers died as a result of the hard labour or were taken a
 from their place of work to the place of physical extermination. The Accused admitted
 this in his reply to the Attorney General (Session 93, Vol. IV, p. xxxx26):
 "Q. ...When you issued directives T/1399 under your signature, for the deportation of
-Jews to Izbica, near Lublin, there was no obligation to report to Oranienburg, nor to
-the Auschwitz camp, but only to Lublin and to Cracow, because this transport was
+Jews to [[LOCATION:location_291|Izbica]], near [[LOCATION:location_35|Lublin]], there was no obligation to report to [[LOCATION:location_134|Oranienburg]], nor to
+the [[LOCATION:location_286|Auschwitz]] camp, but only to [[LOCATION:location_35|Lublin]] and to Cracow, because this transport was
 going directly to extermination. True?
 
 "A. The contents of the document are correct. This was within the authority of the
@@ -7493,8 +7493,8 @@ State Secretary.
 "Q. I am not asking about authority, I am asking, if this is the way it was signed and
 sealed, were not these people destined for extermination?
 "A. Yes, I do not deny this at all."
-(Group D of the Economic-Administrative Head Office was located in Oranienburg.
-The State Secretary mentioned here is apparently Krueger.)
+(Group D of the [[ORGANIZATION:org_367|Economic-Administrative Head Office]] was located in [[LOCATION:location_134|Oranienburg]].
+The State Secretary mentioned here is apparently [[PERSON:person_474|Krueger]].)
 Later on, on the same page, he corrects himself and replies:
 "Whatever may happen, at any rate I have never denied that, to my sorrow, some of
 the deported Jews were sent to death. This I could not deny."
@@ -7503,26 +7503,26 @@ exclude those who had been put to forced labour before their death. But even if 
 was so, there is no doubt that their final fate was also known to the Accused at the
 time he dispatched them to the East, and it was for that purpose that he sent them
 there.
-As we have stated elsewhere with regard to the deportees to Auschwitz, it was as
+As we have stated elsewhere with regard to the deportees to [[LOCATION:location_286|Auschwitz]], it was as
 persons condemned to death that they reached the gates of the camp.
 166. We shall now discuss the question as to whether the Accused had a part in the
 introduction of the system of killing by gas and the supply of gas. The Accused
 denies that he had any part at all in this.
 As we have already mentioned, when we spoke about Globocnik's extermination
-camps, the system of killing by gas had already been used in Germany before then to
+camps, the system of killing by gas had already been used in [[LOCATION:location_2|Germany]] before then to
 put an end to the lives of mentally sick people (N/94, p. 15), and the order for this
 appears to have been issued from Hitler's office. The unit engaged in this, under the
 guidance of Wirth, was transferred to the East, in order to use the same system
 against the Jews. Until then, it was a question of using motor exhaust gases. As to
 the system of carrying out executions by means of Zyklon B gas (prussic acid), which
-was used at Auschwitz, Hoess states that it was invented by his deputy, Fritzsch,
+was used at [[LOCATION:location_286|Auschwitz]], Hoess states that it was invented by his deputy, Fritzsch,
 who first used it to execute Russian prisoners (T/45, p. 146; T/90, p. 4). There is no
 reason why his statement should not be accepted as accurate.
 The question of finding a "cleaner" and more efficient system for mass executions
 than shooting undoubtedly occupied the attention of the Accused as early as the end
 of the summer or the beginning of the autumn of 1941. This we find from the mention
 he makes in his Statement (T/37) of the impression he gained when he saw an
-Operations Unit in action near Minsk, where he had been sent by Mueller. He states
+Operations Unit in action near [[LOCATION:location_18|Minsk]], where he had been sent by Mueller. He states
 that his reaction to this was:
 "How can this be possible? To shoot like that at a woman and children... The men
 must go out of their minds or they will become sadists - those men of ours." (supra, p.
@@ -7530,19 +7530,19 @@ must go out of their minds or they will become sadists - those men of ours." (su
 
 Again, the date of the visit is in dispute: In his evidence before us, the Accused
 moves this visit to the winter of 1941-1942 (Session 87, Vol. IV, p. xxxx22). At the
-same time, he connects the visit with "the double battle of Minsk and Bialystok" (T/37,
+same time, he connects the visit with "the double battle of [[LOCATION:location_18|Minsk]] and Bialystok" (T/37,
 p. 211), and so does the timetable attached to the Counsel for the Defence's written
 summary. It should be mentioned here that, in his evidence, the Accused was
 confused in saying that he crossed this battlefield on the occasion of his visit to
-Lublin (see Session 87, Vol. IV, p. xxxx20).
+[[LOCATION:location_35|Lublin]] (see Session 87, Vol. IV, p. xxxx20).
 This battle did not take place later than July 1941 (see, for example, T/313, report of
-an Operations Unit from Minsk, dated 13 July 1941). It also stands to reason that, if
+an Operations Unit from [[LOCATION:location_18|Minsk]], dated 13 July 1941). It also stands to reason that, if
 Mueller wanted to receive particulars about the activities of the Operations Units and
-sent the Accused to Minsk for that purpose, he did so at an early stage, and not in
+sent the Accused to [[LOCATION:location_18|Minsk]] for that purpose, he did so at an early stage, and not in
 the winter of 1941-1942. Accordingly, we find that this visit took place in September
 1941 at the latest.
 167. In exhibit T/308, which is connected with the name of Dr. Wetzel, an official of
-the Ministry for the Eastern Occupied Territories, we find the main evidence
+the [[ORGANIZATION:org_334|Ministry for the Eastern Occupied Territories]], we find the main evidence
 implicating the Accused with regard to the introduction of the method of killing by gas
 vans. This collection of documents comprises a handwritten memorandum, a
 typescript of the same memorandum and two drafts of letters to the Reich
@@ -7557,7 +7557,7 @@ the Accused. One of the draft letters does not say any more than the memorandum
 and the typescript, but also mentions the names of Wetzel, Brack and the Accused.
 Thus far, we still do not know the details of the discussion which took place among
 the three of them, but the second draft, dated 25 October 1941 (which was also
-submitted at one of the Nuremberg Trials - the Trial of the Doctors, Green Series, Vol.
+submitted at one of the [[LOCATION:location_39|Nuremberg]] Trials - the Trial of the Doctors, Green Series, Vol.
 l, pp. 870-888) states:
 "With reference to my letter of 18 October 1941, I inform you that...Brack, of the
 Fuehrer's Chancellery, agreed to take part in the preparation of the necessary
@@ -7565,19 +7565,19 @@ housing and of the gas apparatus. At present, the apparatus required does not ex
 on a sufficiently large scale and must be manufactured. Since, in Brack's view, the
 manufacture of the apparatus in the Reich will cause greater difficulties than their
 manufacture on the spot, he thinks it would be more effective to send his men,
-especially his chemist, Dr. Kallmeyer, to Riga immediately, to attend there to
+especially his chemist, Dr. Kallmeyer, to [[LOCATION:location_16|Riga]] immediately, to attend there to
 everything necessary...
 "May I point out that Sturmbannfuehrer Eichmann, the Referent for Jewish Affairs in
 the RSHA, has agreed to this procedure. According to Sturmbannfuehrer Eichmann,
-Jewish camps are about to be set up in Riga and Minsk. Perhaps Jews may also be
+Jewish camps are about to be set up in [[LOCATION:location_16|Riga]] and [[LOCATION:location_18|Minsk]]. Perhaps Jews may also be
 brought to these camps from the territory of the Old Reich. At present Jews are being
-evacuated from the Old Reich and brought to Lodz, but also to other camps, so that
+evacuated from the Old Reich and brought to [[LOCATION:location_81|Lodz]], but also to other camps, so that
 they can arrive at a later date for posting to work in the East, insofar as they are fit for
 
 work. As things stand, there is no reason why those Jews who are not fit for work
 should not be liquidated by means of Brack's apparatus. In this way, there will not be
 any incidents, such as occurred - according to a report submitted to me - when Jews
-were executed by shooting in Vilna. We cannot allow such incidents, especially in
+were executed by shooting in [[LOCATION:location_171|Vilna]]. We cannot allow such incidents, especially in
 light of the fact that the executions by shooting were carried out in public. But those
 who are fit for work must be deported to the East for the labour operation. Naturally,
 Jews who are fit for work must be separated from the other men and women. I
@@ -7628,37 +7628,37 @@ dispatch of an additional van in July 1942.
 Therefore, we find that the Accused took part in exchanging the system of execution
 by shooting for execution by means of gas vans.
 168. We have before us the following material, proving the Accused's part in the
-introduction of the system of killing by Zyklon B at Auschwitz, and in the supply of this
-gas to Auschwitz:
+introduction of the system of killing by Zyklon B at [[LOCATION:location_286|Auschwitz]], and in the supply of this
+gas to [[LOCATION:location_286|Auschwitz]]:
 (a) In his autobiographical notes (T/90), Hoess describes his conversations with the
-Accused on the preparations for mass extermination operations at Auschwitz and,
-inter alia, he mentions a conversation in Berlin at the end of November 1941 (supra,
+Accused on the preparations for mass extermination operations at [[LOCATION:location_286|Auschwitz]] and,
+inter alia, he mentions a conversation in [[LOCATION:location_1|Berlin]] at the end of November 1941 (supra,
 p. 4). They spoke about various matters, but
 "I could not secure information about the date the operation was to begin. Eichmann
 had not yet managed to obtain suitable gas."
 Later, Hoess' deputy came across Zyklon B gas and used it to execute Russian
 prisoners, as mentioned above. And Hoess continued (supra, p. 5):
-"When Eichmann visited [Auschwitz] again, I told him about this use of Zyklon B and
+"When Eichmann visited [[[LOCATION:location_286|Auschwitz]]] again, I told him about this use of Zyklon B and
 we decided to introduce this gas in future for the mass exterminations."
 (b) When Superintendent Less showed these excerpts to the Accused (T/37, p. 287),
 the latter reacted with a vigorous denial but continued:
 "All the time, this comes back to the gas. I never had anything to do with gas. The
 first time that I heard anything at all about gas in my Section was when I was in
-Hungary. Then Guenther ordered gas for himself somehow, this I do know, and I also
+[[LOCATION:location_24|Hungary]]. Then Guenther ordered gas for himself somehow, this I do know, and I also
 said to Guenther, I say: `What on earth have you got to do with gas, man? We do not
 have anything to do with gas. It is not my concern.'"
 The Accused emphasizes that at the time of this incident it was not he who was in
-charge of the Section, because of his absence from Berlin. Superintendent Less
+charge of the Section, because of his absence from [[LOCATION:location_1|Berlin]]. Superintendent Less
 asked him (apparently because of other material which was in his possession, and
 which we shall mention presently) about March-April 1942, and the Accused
-confirmed that at that time he was in Berlin.
+confirmed that at that time he was in [[LOCATION:location_1|Berlin]].
 (c) Again the Accused returned to the same subject quite spontaneously and said (p.
 933 et seq.):
 "I had a row with Guenther because he, sometime or other - I do not know when, at
-any rate it was during the time that I was away from Berlin, I think - he had begun to
+any rate it was during the time that I was away from [[LOCATION:location_1|Berlin]], I think - he had begun to
 do something in connection with gas." At this point Superintendent Less reminded
 the Accused that he had spoken about this earlier in connection with the Hungarian
-period, and the Accused continues: "It is possible that when I was in Hungary,
+period, and the Accused continues: "It is possible that when I was in [[LOCATION:location_24|Hungary]],
 apparently this was so. Matters of this kind, you see, Guenther never weighed up in
 his mind...why he interfered in matters which were no concern of his...that, altogether
 the Section was not geared for this. For how could I bring this matter now to the head
@@ -7679,12 +7679,12 @@ doubts that this was so.
 From 1941 Gerstein worked in the Medical Technical Service attached to the SS
 Command, and in January 1942 he was appointed Technical Director for Disinfection,
 and during his service he handled highly poisonous gases for disinfectant purposes.
-It appears that the supply of gas to Auschwitz went through him. In the summer of
+It appears that the supply of gas to [[LOCATION:location_286|Auschwitz]] went through him. In the summer of
 1942, on his return from the extermination camps, he met a Swedish diplomat on the
 train and, according to his statement, poured out his heart to him and confessed to
 what he had seen. He also tried to pass information on this subject on to church and
 neutral circles. The Swedish diplomat confirmed that in August 1942 Gerstein gave
-him a detailed report on the extermination procedure at Belzec, and thus this part of
+him a detailed report on the extermination procedure at [[LOCATION:location_154|Belzec]], and thus this part of
 Gerstein's statement received confirmation from a trustworthy source (T/1312).
 According to Gerstein, Guenther ordered 100 kilograms of potassium cyanide from
 him on 8 June 1942 (T/1309, p. 4 of the English document, p. 3 of the German
@@ -7698,7 +7698,7 @@ and in a handwritten document in French he wrote that these quantities had been
 ordered by Guenther.
 (e) Gerstein's documents were submitted to the Accused (T/37, p. 2256), and he
 denied all knowledge of their contents. He admits that at the beginning of 1944 he
-was in Berlin (p. 2260), but emphasizes that he was away from the office very
+was in [[LOCATION:location_1|Berlin]] (p. 2260), but emphasizes that he was away from the office very
 frequently (p. 2268). He mentions the possibility that a special assignment had been
 given to Guenther, though such a matter also should have come to his attention (p.
 2269). However, it is a fact, states the Accused, that not all Guenther's special duties
@@ -7713,15 +7713,15 @@ Globocnik and ordered the material for him (p. 2340). The Accused thought that t
 possibility was more likely, because Mueller would not decide on a matter of this kind
 on his own responsibility but would receive instructions from the head of the Security
 Police, in which case he, the Accused, would have known of it, because during that
-period in 1942 he was not away from Berlin for more than eight days at a time, and
+period in 1942 he was not away from [[LOCATION:location_1|Berlin]] for more than eight days at a time, and
 during such a short period a matter of this nature would not have been completed (pp.
 2246-2347).
 At this stage, the Accused mentions yet another possibility, namely that he had not
 heard about the whole matter from Guenther but only read about it in the literature, in
-the books of Poliakov or Reitlinger (p. 2346, p. 2488). On pp. 935-936, supra, he
+the books of [[PERSON:person_413|Poliakov]] or Reitlinger (p. 2346, p. 2488). On pp. 935-936, supra, he
 even argued that he heard the name Gerstein then for the first time. In his evidence
 before us, he repeated his general denial, but here he already remembers that he
-had heard about Gerstein and his report while he was still in Buenos Aires (Session
+had heard about Gerstein and his report while he was still in [[LOCATION:location_40|Buenos Aires]] (Session
 95, Vol. IV, p. xxxx16).
 169. As already stated, exhibit T/1312, with regard to Gerstein, was submitted to us.
 Though it does not provide corroboration of the contents of Gerstein's statement,
@@ -7731,14 +7731,14 @@ and credibility to this statement of his. We do not doubt the accuracy of his
 statements with regard to Guenther's visit and the requisitions made by the latter.
 In our view, there is also sufficient corroboration of Hoess' statement on his
 discussions with the Accused on the subject of introducing Zyklon B gas for the mass
-execution of Jews at Auschwitz, and also of Gerstein's statement about the supply of
+execution of Jews at [[LOCATION:location_286|Auschwitz]], and also of Gerstein's statement about the supply of
 gas by the Accused's Section. Corroboration of Hoess' statement on this matter can
-be seen in the fact that the Accused visited Auschwitz in the autumn of 1941 (see
+be seen in the fact that the Accused visited [[LOCATION:location_286|Auschwitz]] in the autumn of 1941 (see
 section 143 above), i.e., during the period in which preparations were being made
 there for mass extermination of Jews, and at that time the question of executing by
 gas occupied the Accused, and he also took part in the preparations for execution by
 means of gas vans, as we have seen.
-As for the supply of gas to Auschwitz, we see corroboration in the fact that the
+As for the supply of gas to [[LOCATION:location_286|Auschwitz]], we see corroboration in the fact that the
 Accused made a partial admission, namely that he had heard at the time of
 Guenther's activity in connection with the supply of gas. As we shall make clear
 below, the acts of Guenther - his permanent deputy in charge of Section IVB4 - are
@@ -7746,7 +7746,7 @@ prima facie to be regarded as the acts of the Accused himself, and we do not acc
 the Accused's allegation that he had no connection with this activity and did not know
 about it.
 The Accused admits that, as Section Head, Guenther's activities should have come
-to his knowledge, and he also admits that even had he been away from Berlin
+to his knowledge, and he also admits that even had he been away from [[LOCATION:location_1|Berlin]]
 temporarily, a matter of this kind would not have been concluded prior to his return.
 There remains, therefore, only his assumption that there was some kind of secret
 negotiation between Globocnik and Guenther - so remote a possibility that it cannot
@@ -7760,15 +7760,15 @@ We reject this attempt on the part of the Accused, and consequently, as stated, 
 do not accept his version, with the exception of his statement as mentioned above,
 which in fact lends further weight to our acceptance of the statements by Hoess and
 Gerstein.
-Accordingly we find that Hoess' deputy began to use Zyklon B in Auschwitz for the
+Accordingly we find that Hoess' deputy began to use Zyklon B in [[LOCATION:location_286|Auschwitz]] for the
 execution of Russian prisoners. Hoess informed the Accused of this, and jointly they
-decided to introduce this method for the mass killing of Jews in Auschwitz. Guenther
+decided to introduce this method for the mass killing of Jews in [[LOCATION:location_286|Auschwitz]]. Guenther
 - with the knowledge of the Accused - made an attempt to introduce this system also
 in the other extermination camps, and to that end ordered a quantity of Zyklon B from
 Gerstein in June 1942. But this plan was not implemented, and in the other camps
 the use of motor exhaust gas was continued. In 1944, the Accused's Section ordered
-additional large quantities of Zyklon B for use in Auschwitz, possibly also in other
-places, such as Terezin, where in the end the gas chambers were not put to use.
+additional large quantities of Zyklon B for use in [[LOCATION:location_286|Auschwitz]], possibly also in other
+places, such as [[LOCATION:location_34|Terezin]], where in the end the gas chambers were not put to use.
 We have said that the activities of Guenther, the Accused's deputy, are to be
 attributed prima facie to the Accused. This finding requires further elaboration,
 together with discussion of the Accused's contention that everything he did was not
@@ -7778,7 +7778,7 @@ general subject of the Accused's status within the apparatus of the RSHA.
 170. The Accused has given us a truly amazing portrait of himself during those days.
 He was in charge of a Section in the RSHA, with the SS rank appropriate to the
 grade of "Oberregierungsrat" in the general administrative service and the military
-rank of lieutenant-colonel. Subordinate to him at his office in Berlin were many
+rank of lieutenant-colonel. Subordinate to him at his office in [[LOCATION:location_1|Berlin]] were many
 officials, from low grades right up to the SS ranks appropriate to the grade of
 Regierungsrat in the administrative service and to the military rank of major. In
 addition, he was in control of a group of Advisers on Jewish Affairs who were
@@ -7796,7 +7796,7 @@ In accordance with the evidence before us, let us therefore examine whether this
 in fact, the way in which matters were administered in the Accused's Section and in
 the RSHA as a whole.
 171. The Attorney General has submitted to us the "Joint Administrative Rules for
-Ministries of the Federal Republic (of Western Germany), General Section" (T/1423).
+Ministries of the Federal Republic (of Western [[LOCATION:location_2|Germany]]), General Section" (T/1423).
 
 It is the 1958 edition, but the preface states that the present text is based on that of
 1927, well before the Nazi period. This exhibit was submitted to the Accused in
@@ -7804,10 +7804,10 @@ cross-examination (Session 95, Vol. IV, pp. xxxx21-22), and he did not deny that
 these rules were also in force in the central institutions in the Reich during the Nazi
 period, but with regard to the SS institutions, he added:
 "In the light of the change in the line of command and in the system prevailing in the
-Third Reich, the procedure employed in the Weimar Republic was frequently
+Third Reich, the procedure employed in the [[LOCATION:location_230|Weimar]] Republic was frequently
 changed, because here different degrees of responsibility and command obtained.
 Accordingly, a considerable number of basic orders, which had been valid during the
-Weimar period, were changed."
+[[LOCATION:location_230|Weimar]] period, were changed."
 In paragraph 4 (p. 13) of T/1423, it is stated:
 "The Ministry is divided into departments (Abteilungen) and the department into
 sections (Referate). The basic unit in the organizational structure of the ministry is the
@@ -7865,9 +7865,9 @@ But just as it is impossible to ascribe to the Accused the initiative for a cert
 signed by him, by reference solely to the "first person," so also initiative cannot be
 ascribed to some other person, for example Guenther, when that person signed a
 letter. For example:
-T/1398 is one of the files of the Duesseldorf Gestapo, the contents of which we dealt
-with in an earlier part of this Judgment. The office in Duesseldorf was engaged in
-evacuation to Terezin, and in a letter dated 3 June 1943 (p. 247 of T/1398) sent to
+T/1398 is one of the files of the [[LOCATION:location_80|Duesseldorf]] [[ORGANIZATION:org_344|Gestapo]], the contents of which we dealt
+with in an earlier part of this Judgment. The office in [[LOCATION:location_80|Duesseldorf]] was engaged in
+evacuation to [[LOCATION:location_34|Terezin]], and in a letter dated 3 June 1943 (p. 247 of T/1398) sent to
 Section IVB4, raised the question as to whether certain persons were to be
 evacuated. On p. 252, we find a cable signed by the Accused, and drafted in the first
 person, which contains certain instructions (that the persons in question should not
@@ -7893,7 +7893,7 @@ but then, if some mishap occurred, I would be the one to have to take the
 consequences."
 What, for example, was the origin of the evacuation instructions sent to the various
 authorities? In his Statement T/37, (pp. 906-907), the Accused stated:
-"... I sat at my desk in Berlin, I had instructions from my superiors - in this case there
+"... I sat at my desk in [[LOCATION:location_1|Berlin]], I had instructions from my superiors - in this case there
 were not even any such instructions - I cannot even say from my superiors - because
 when it came to giving orders in principle, Mueller scarcely ever gave any order of his
 own, independently, he never deviated from the orders given by his superiors,
@@ -7903,8 +7903,8 @@ to make suggestions on the basis of their practical experience, because they, ab
 all, could see what action was at all practicable. From these two sources, Section
 IVB4 prepared a report which was later either approved or rejected. The directive
 followed from this procedure.
-In practice, this could mean that a proposal which came in from Paris or from Zoepf
-in The Hague went out fourteen days later to Paris or The Hague in the form of a
+In practice, this could mean that a proposal which came in from [[LOCATION:location_61|Paris]] or from Zoepf
+in [[LOCATION:location_49|The Hague]] went out fourteen days later to [[LOCATION:location_61|Paris]] or [[LOCATION:location_49|The Hague]] in the form of a
 directive approved by the RSHA. This is how things always developed in practice,
 and it was not the case at all that a directive was prepared at the beginning, once
 and for all, and that afterwards action was to be taken in accordance with it and a
@@ -7981,7 +7981,7 @@ known as one of the worst whips, and I must say that the two matched each other
 well. It can be assumed that, had Eichmann been under somebody else's orders, and
 not Mueller's, he would not have had such wide powers as he in fact had...in line with
 his whole attitude, Eichmann did not go beyond the instructions had been given."
-Wisliceny gave evidence at Nuremberg (T/58, p. 2) that special powers had been
+Wisliceny gave evidence at [[LOCATION:location_39|Nuremberg]] (T/58, p. 2) that special powers had been
 given to the Accused by the Head of the Security Police and by Mueller, and he
 continued as follows (p. 8):
 "I know that Eichmann dealt cautiously with all the questions relating to his special
@@ -8003,13 +8003,13 @@ versed in the German language would have difficulty in distinguishing one from t
 other (if indeed any distinction exists). In spite of this semantic hair-splitting,
 Huppenkothen now again confirms that the Accused had "special status" ('besondere
 Stellung') in Department IV (p. 7).
-Morgen, who had judicial duties in the SS, also gave evidence at Nuremberg as a
+Morgen, who had judicial duties in the SS, also gave evidence at [[LOCATION:location_39|Nuremberg]] as a
 witness for the defence on behalf of the SS, and his testimony was submitted to us
 by Counsel for the Defence (N/94). Morgen stated there that, during the Third Reich,
 he had investigated the question of the extermination of the Jews and in mid-1944
 had come upon mention of the Accused's activities. He continues (p. 51):
-"I requested the SS court in Berlin to conduct the investigation against Eichmann on
-the basis of my comments. Therefore the SS court in Berlin submitted an order for
+"I requested the SS court in [[LOCATION:location_1|Berlin]] to conduct the investigation against Eichmann on
+the basis of my comments. Therefore the SS court in [[LOCATION:location_1|Berlin]] submitted an order for
 Eichmann's arrest to Kaltenbrunner as the person competent in judicial matters
 (Gerichtsherr). Dr. Bechmann (apparently the judge who submitted the order to
 Kaltenbrunner) told me that dramatic incidents then took place. Kaltenbrunner
@@ -8041,7 +8041,7 @@ Obergruppenfuehrer. To this the Accused replied:
 now speaking to the State Secret Police and to the Referent of the Secret Police
 Office, Obersturmbannfuehrer Eichmann."
 Here we shall mention again the cable from Veesenmayer (T/1215) in which he
-reports the Accused's opposition to the emigration of Jews from Hungary. What was
+reports the Accused's opposition to the emigration of Jews from [[LOCATION:location_24|Hungary]]. What was
 the meaning of this opposition? The Accused could not reconcile himself to the order,
 which was known to him, of the Fuehrer himself, lest some thousands of Jews might
 escape the general slaughter. Here, is revealed before us not a bureaucratic official,
@@ -8049,7 +8049,7 @@ but a man with a will of his own, who feels his own power to the point that even
 Fuehrer's order no longer represents an unalterable decision for him.
 177. There is no contradiction between this kind of status and the constant anxiety to
 be "covered," to which so many of the above witnesses testified. And if Mueller, the
-head of the Gestapo, one of the key men in the Nazi security network - who sat in his
+head of the [[ORGANIZATION:org_344|Gestapo]], one of the key men in the Nazi security network - who sat in his
 office and was not prominent outside it, but pulled the strings from his office - if he,
 too, took care to be "covered" from above, this tendency is certainly understandable
 in the Accused. When he was already "covered" by an existing instruction, he acted
@@ -8064,9 +8064,9 @@ the Accused and the officials of his Section had a hand. Here we shall mention o
 one case out of many, to illustrate what has been said about the standing of the
 Accused in his Section - this time as seen by an outsider.
 In Holland, Professor Meyers, Professor of Law at the University of Leyden, was
-arrested together with his family and taken to Westerbork camp. His friends mobilized
+arrested together with his family and taken to [[LOCATION:location_214|Westerbork]] camp. His friends mobilized
 support and funds on his behalf, in order to secure permission for him to emigrate to
-Switzerland. This request was refused in letters (T/534, T/535) emanating from the
+[[LOCATION:location_53|Switzerland]]. This request was refused in letters (T/534, T/535) emanating from the
 Accused's Section - one signed by Guenther and the second by the Accused because Professor Meyers was an "intellectual." His friends did not give up hope.
 
 Efforts for the rescue of Professor Meyers were concentrated in the hands of a Dutch
@@ -8081,7 +8081,7 @@ exceptional instances (and in return for the payment of a considerable sum in fo
 currency).
 With the aid of influential persons, including a member of the SS, Mrs. TaalingenDols sought an interview with the Accused, of whom she says in her affidavit:
 "They always hinted to me that he was the supreme chief of Department IV (the
-group of `Jewish Departments') in the RSHA in Berlin). As such they described him to
+group of `Jewish Departments') in the RSHA in [[LOCATION:location_1|Berlin]]). As such they described him to
 me as an important and extremely influential man."
 She was granted an interview in Section IVB4 and on 22 July 1943 visited the
 Section, accompanied by a member of the SS. The Accused was on one of his
@@ -8090,15 +8090,15 @@ was authorized to give a binding reply" (p. 214). Guenther repeated the prohibit
 emigration, emphasizing that of late Himmler had rejected all applications of this kind.
 When the lawyer asked whether Guenther would object to her trying to take a certain
 step in SD quarters in Holland, Guenther replies that "all the activities against the
-Jews are decided in Berlin, and all operations must be subordinate to this" (p. 216).
+Jews are decided in [[LOCATION:location_1|Berlin]], and all operations must be subordinate to this" (p. 216).
 The decision, announced by Guenther on the spot, was:
 "The Reich...is prepared, as a special exception, to prevent the deportation of the
 Meyers family to the East, even though the professor is not yet 65, and up to this age
 all the Jews are evacuated to the East." (p. 217)
 Guenther was asked what would happen to Professor Meyers in the event of a
 general evacuation, and his reply was that in such an event there were two
-possibilities - one of them, his being deportation to Terezin. Counsel for the Defence
-informed us that the professor and his family were in fact sent to Terezin and
+possibilities - one of them, his being deportation to [[LOCATION:location_34|Terezin]]. Counsel for the Defence
+informed us that the professor and his family were in fact sent to [[LOCATION:location_34|Terezin]] and
 survived.
 We shall also quote a statement by the same member of the SS who was present
 during this conversation (p. 218):
@@ -8110,7 +8110,7 @@ From this case we have learned about the powers which existed in regard to
 emigration, and we have also learned that Guenther - and how much more so the
 Accused - had the power to decide upon the exceptional treatment of a specific
 Jewish family. We have learned further that this decision could only be made in
-Section IVB4 in Berlin, and not on the spot, at the office of the Adviser on Jewish
+Section IVB4 in [[LOCATION:location_1|Berlin]], and not on the spot, at the office of the Adviser on Jewish
 Affairs in Holland. Finally, we must point out with what fear and trembling all of them,
 including the SS man, mentioned the name of the Accused, the arbiter of life and
 death.
@@ -8146,16 +8146,16 @@ deportation. At the other end also, attention had to be paid to the "reception" 
 transports at their destinations, so that the deportation machinery should not be
 halted halfway; and it is clear, for example, that the speeding-up of the extermination
 process facilitated the reception of fresh transports at peak periods, such as the
-period of deportations from Hungary to Auschwitz. Thus both the speed and methods
+period of deportations from [[LOCATION:location_24|Hungary]] to [[LOCATION:location_286|Auschwitz]]. Thus both the speed and methods
 of extermination also became part of the field of interest of the Accused and his
 Section.
 The Accused's key position in everything relating to the deportations of the Jews from
 the Reich and the Protectorate stands out from the facts which we have found. This
 is true also of all the European lands in which the Advisers on Jewish Affairs were
-active, and whose steps he used to control from his seat behind the desk in Berlin,
+active, and whose steps he used to control from his seat behind the desk in [[LOCATION:location_1|Berlin]],
 with the aid of modern means of communication and through his frequent journeys to
 the focal points of operations throughout the length and breadth of Europe. We have
-also noted his special activity in Hungary.
+also noted his special activity in [[LOCATION:location_24|Hungary]].
 As to the plundering of the property of the deported Jews, this went side by side with
 the deportation itself and was handled by the Accused's Section, especially through
 its jurists, Suhr and Hunsche. We have quoted the evidence for this in detail above,
@@ -8165,7 +8165,7 @@ and finally the Accused also admits that his Section was involved in the plunder
 2872).
 180. To sum up this section: We reject absolutely the Accused's version that he was
 nothing more than a "small cog" in the extermination machinery. We find that in the
-RSHA, which was the central authority dealing with the Final Solution of the Jewish
+RSHA, which was the central authority dealing with the [[EVENT:event_389|Final Solution]] of the Jewish
 Question, the Accused was at the head of those engaged in carrying out the Final
 Solution. In fulfilling this task, the Accused acted in accordance with general
 directives from his superiors, but there still remained to him wide powers of discretion
@@ -8217,11 +8217,11 @@ Jewish People, in whole or in part.
 As to the periods during which the crimes were committed, the first and second
 counts mention the period 1939-1945 and, from the recital of facts, it appears that the
 reference in these counts is to the period which commenced with the outbreak of the
-Second World War in September 1939. In the third count, the "period of the Nazi
+[[EVENT:event_383|Second World War]] in September 1939. In the third count, the "period of the Nazi
 regime" is mentioned as the period of the commission of the crimes, and in the fourth
 count, the period is "commencing with the year 1942."
 It has been proved that the specific intent to destroy the Jewish People, within the
-terms of Section 1(b), lay at the basis of the plan called "the Final Solution of the
+terms of Section 1(b), lay at the basis of the plan called "the [[EVENT:event_389|Final Solution]] of the
 Jewish Question," from the time in mid-1941, when Hitler gave the order for general
 extermination. The acts of murder and violence against the Jews, committed by the
 Nazi regime and under its influence from that time onwards, were committed without
@@ -8230,32 +8230,32 @@ not only Jews as individuals. Hence, also, the ruthlessness shown even towards l
 children, because those who sought to strike at the roots did not wish the survival of
 the new generation, which would ensure the future and continuity of the Jewish
 People.
-We have found above that information on the plan for the Final Solution reached the
+We have found above that information on the plan for the [[EVENT:event_389|Final Solution]] reached the
 Accused at the beginning of the summer of 1941 (section 163 of the Judgment).
 Further we have seen (sections 163-164) that, at the end of August 1941, the
 Accused sought to prevent the emigration of Jews from German-occupied territories,
-lest these Jews escape the Final Solution "which was now in the preparatory stage,"
+lest these Jews escape the [[EVENT:event_389|Final Solution]] "which was now in the preparatory stage,"
 and that, not later than mid-September 1941, the Accused paid his first visit to
-Globocnik in Lublin, and immediately afterwards took part in discussions about the
-first deportations from the Reich territory to the Lodz Ghetto.
+Globocnik in [[LOCATION:location_35|Lublin]], and immediately afterwards took part in discussions about the
+first deportations from the Reich territory to the [[LOCATION:location_81|Lodz]] Ghetto.
 It may be said that, from the moment he heard of the order for total extermination, the
 Accused did not sit with his arms folded, and that, from then onwards, all his activities
 as Referent for Jewish Affairs in the RSHA were co-ordinated and directed towards
 
-the target of the Final Solution. But since in the evidence before us we have not
+the target of the [[EVENT:event_389|Final Solution]]. But since in the evidence before us we have not
 found positive proof of specific action on the part of the Accused in the interim period
 between June and August 1941, we think it more cautious to find that his activity
-within the framework of the Final Solution commenced in August 1941.
+within the framework of the [[EVENT:event_389|Final Solution]] commenced in August 1941.
 183.The facts which have been demonstrated, showed not only that the Accused
 knew of the intent to destroy the Jewish People, which lay within the plan for the Final
 Solution, but he personally was also permeated with this intent. The very breadth of
 the scope of his activities is evidence of this. Moreover, he prepared the material for
-Heydrich's address at the Wannsee Conference, both the statistical material and the
+Heydrich's address at the [[EVENT:event_387|Wannsee Conference]], both the statistical material and the
 section on the lesson to be learned from history, the lesson which dictated the
 complete extermination of the Jewish People (section 164). We may recall his
 reference to "elements of much greater ethnic value who are more fertile," who must
 not be kept alive (section 116) and his statement on "the important biological
-material...whose emigration to Palestine is not desirable" (section 155). All this also
+material...whose emigration to [[LOCATION:location_57|Palestine]] is not desirable" (section 155). All this also
 bears witness to the aim of biological extermination, directed against the entire
 Jewish People. We shall further quote Hoess' statement about the Accused, solely in
 order to sum up the Accused's attitude on this question, which has in any case been
@@ -8271,12 +8271,12 @@ Solution. In the third count, Section (b), of the indictment, the Attorney Gener
 charges the Accused with causing grave bodily and mental harm to millions of Jews,
 during the entire period of the Nazi regime, with intent to destroy the Jewish People,
 and in the list of acts in section (d), supra, mention is made of mass arrests of Jews
-and their torture in concentration camps, such as Dachau and Buchenwald, and the
+and their torture in concentration camps, such as [[LOCATION:location_32|Dachau]] and [[LOCATION:location_33|Buchenwald]], and the
 organization of mass persecutions on the Crystal Night, the organization of a social
 and economic boycott of Jews, and stigmatizing them as a subhuman racial group,
-and the implementation of the Nuremberg Laws.
+and the implementation of the [[EVENT:event_388|Nuremberg Laws]].
 184. With regard to the period up to the outbreak of war, the acts specified in section
-(d) of the third count were not yet part of the programme for the Final Solution by way
+(d) of the third count were not yet part of the programme for the [[EVENT:event_389|Final Solution]] by way
 of complete physical extermination. Accordingly, we have to consider separately
 each of these series of acts - for example, the events of the Crystal Night. If so, there
 is, in our view, grounds for saying that the mass acts of violence, committed by the
@@ -8290,14 +8290,14 @@ Jews, that the prisoners would be placed there in such living conditions as woul
 cause many of them to die - and this was the purpose of those who sent them there.
 
 But there is no need for us to decide this question finally, because, in our view, it has
-not been proved that, until his transfer to Vienna in 1938, the Accused had already
+not been proved that, until his transfer to [[LOCATION:location_3|Vienna]] in 1938, the Accused had already
 taken an active part in the mass persecutions mentioned in section (d) of the third
 count. We have explained above (in section 62) that up to that date the Accused was
 engaged in intelligence work and not on executive measures. We have also found
 that it has not been proved that the Accused participated in the organization of the
-Crystal Night in Austria (Section 64).
+Crystal Night in [[LOCATION:location_14|Austria]] (Section 64).
 185. With regard to the activity of the Accused in the Central Office for Emigration in
-Vienna, Prague and Berlin, designed to bring about the forced emigration of Jews,
+[[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_1|Berlin]], designed to bring about the forced emigration of Jews,
 we have found that here the Accused exerted pressure and used threats of terror
 (Section 65). Amongst other things, he also threatened to send Jews to a
 concentration camp if emigration were not speeded up as he wanted. We have come
@@ -8311,8 +8311,8 @@ definition of "crime against humanity."
 was engaged in what we have called above the "second stage," that is to say,
 between the beginning of the War and mid-1941, namely the deportations to Nisko,
 the evacuation of Jews from the areas annexed to the Reich in the East (the Warthe
-district, etc.) and from Vienna, the expulsion of the Jews from Stettin, and from
-Baden and the Saar Palatinate (sections 72-75, 77): We have found that these were
+district, etc.) and from [[LOCATION:location_3|Vienna]], the expulsion of the Jews from Stettin, and from
+[[LOCATION:location_185|Baden]] and the Saar Palatinate (sections 72-75, 77): We have found that these were
 organized by the Accused in complete disregard for the health and lives of the
 deported Jews. So, too, it has been proved that many Jews died as a result of the
 expulsions from Nisko, Stettin and the Warthe district. There is no doubt that here,
@@ -8324,8 +8324,8 @@ intentional aim to exterminate which is required for the proof of a crime agains
 Jewish People, and we shall, therefore, deal with these inhuman acts as being
 crimes against humanity.
 187. We must now analyze the legal aspects of the Accused's acts during the third
-stage, namely the stage of the Final Solution.
-The Attorney General argued that the plan for the Final Solution must be regarded as
+stage, namely the stage of the [[EVENT:event_389|Final Solution]].
+The Attorney General argued that the plan for the [[EVENT:event_389|Final Solution]] must be regarded as
 a criminal conspiracy for the carrying out of the countless criminal acts connected
 with the extermination of the Jews within the area of German influence. The Accused
 participated in this criminal conspiracy and, therefore, must be held liable ipso facto
@@ -8386,7 +8386,7 @@ common purpose, dealt with in Section 24, at least the presence of the Accused a
 the commission of the crime.
 189. We are also of the opinion that in general the sections of our law are in
 conformity with the rules of English Common Law, from which they are derived. For
-instance, in the case of Bullock (1955) 1 All E.R. 15, the Court of Appeal in England
+instance, in the case of Bullock (1955) 1 All E.R. 15, the Court of Appeal in [[LOCATION:location_43|England]]
 quotes these words from a previous judgment - R.v. Lomas (1913) 9 Cr. A.R. 220):
 "Mere knowledge that the principal intends to commit a crime does not constitute an
 accessory before the fact."
@@ -8413,11 +8413,11 @@ encouraging the principal offender, whilst the latter carries out his criminal i
 Here, too, we see no deviation from the law embodied in our Sections 23-25.
 190. Although we did not accept the Attorney General's argument as put forward by
 him in his summing up, we are of the opinion that his general approach is correct, viz.
-that all the acts perpetrated during the implementation of the Final Solution of the
+that all the acts perpetrated during the implementation of the [[EVENT:event_389|Final Solution]] of the
 Jewish Question are to be regarded as one single whole, and the Accused's criminal
 responsibility is to be decided upon accordingly. In our opinion, this is to be
 concluded not from the law of criminal conspiracy, but from the very nature of the
-"Final Solution," as being a crime against the Jewish People, in accordance with the
+"[[EVENT:event_389|Final Solution]]," as being a crime against the Jewish People, in accordance with the
 legal definition of that crime.
 Elsewhere in this judgment we have already explained that, when drafting the
 definition of the Crime against the Jewish People, our legislator received his
@@ -8452,14 +8452,14 @@ undetermined numbers, in complete contradistinction to the definitions of the us
 crimes against the body, which are always referred to as attacks upon a person as an
 individual.
 192. There is, of course, no better illustration of what we have said just now than the
-"Final Solution" itself. Here the basis of the crime lay in Hitler's order to achieve the
+"[[EVENT:event_389|Final Solution]]" itself. Here the basis of the crime lay in Hitler's order to achieve the
 physical extermination of the Jews. This was not an order to exterminate the Jews of
-Germany, France, Hungary, Poland, Soviet Russia - each group separately. It was
+[[LOCATION:location_2|Germany]], [[LOCATION:location_30|France]], [[LOCATION:location_24|Hungary]], [[LOCATION:location_5|Poland]], Soviet [[LOCATION:location_10|Russia]] - each group separately. It was
 not an order to exterminate first one million Jews and later another million, and so on;
 but the order was one comprehensive order, and the desire of the main conspirators
 and perpetrators was identical with the wish of the original initiator - general and total.
 Their criminal intention did not renew itself from time to time; it was not limited, for
-instance, to the first deportations to Lodz, Minsk and Riga, so that when these
+instance, to the first deportations to [[LOCATION:location_81|Lodz]], [[LOCATION:location_18|Minsk]] and [[LOCATION:location_16|Riga]], so that when these
 deportations were completed, it had been implemented completely and was renewed
 with the following deportation; but the criminal intent was continuous and embraced
 all activities, until the whole operation had been completed.
@@ -8481,7 +8481,7 @@ extermination campaign was one single comprehensive act, which cannot be divided
 into acts or operations carried out by various people at various times and in different
 places. One team of people accomplished it jointly at all times and in all places.
 194. Hence, everyone who acted in the extermination of Jews, knowing about the
-plan for the Final Solution and its advancement, is to be regarded as an accomplice
+plan for the [[EVENT:event_389|Final Solution]] and its advancement, is to be regarded as an accomplice
 in the annihilation of the millions who were exterminated during the years 1941-1945,
 irrespective of the fact of whether his actions spread over the entire front of the
 extermination, or over only one or more sectors of that front. His responsibility is that
@@ -8495,7 +8495,7 @@ words of our Code (Section 123(1)(a)), each one of them "perpetrated one of the 
 which constitute the crime," and it is not necessary that both be present at the same
 time, while each one commits his part of the offence.
 This is the prevailing rule also in the English Common Law (Macklin, 168 E.R. 1136;
-Glanville Williams, Criminal Law, p. 177), and also in the law of the United States. We
+Glanville Williams, Criminal Law, p. 177), and also in the law of the [[LOCATION:location_68|United States]]. We
 quote from Wharton's Criminal Law, 12th ed., vol. 1, p. 340, para. 255):
 "If part of a crime also be committed in one place and part in another, each person
 concerned in the commission of the offence is liable as principal."
@@ -8504,9 +8504,9 @@ August 1941, he began to be active in the furtherance of the extermination campa
 occupying a central place in it. We saw that the intention of his deeds was the total
 biological extermination of the entire Jewish People. We saw the commencement of
 his actual activities in his letter dated 28 August 1941, wherein he acted to prevent
-the emigration of Jews, since preparations for the Final Solution were being made.
+the emigration of Jews, since preparations for the [[EVENT:event_389|Final Solution]] were being made.
 From a legal point of view, this was an act of aiding, committed in order to facilitate
-the extermination of Jews in accordance with the plan for the Final Solution.
+the extermination of Jews in accordance with the plan for the [[EVENT:event_389|Final Solution]].
 Not later than September 1941, or close to that time, the Accused made his first trip
 to Globocnik on Heydrich's order. Even if this journey was made only in order to gain
 information on what Globocnik was doing, for the Accused's superiors in the RSHA,
@@ -8514,32 +8514,32 @@ this was also an act of aiding, towards the planning of future extermination act
 by the heads of the RSHA. Henceforth, all the Accused's activities in rounding-up the
 Jews and transporting them for extermination, including all the planning and the
 organization required, were directed not only towards an isolated transaction, such as
-the killing at Auschwitz of the Jews deported there by him in a certain transport,
+the killing at [[LOCATION:location_286|Auschwitz]] of the Jews deported there by him in a certain transport,
 immediately or after a time, by way of "extermination through labour," but they were
 done within the general framework expressed concisely in Hitler's order, and detailed
 
-in Heydrich's speech at the Wannsee Conference, as confirmed by all those present
+in Heydrich's speech at the [[EVENT:event_387|Wannsee Conference]], as confirmed by all those present
 there.
 Hence, the Accused will be convicted (if no justification for his acts are found) of the
-general crime of the "Final Solution" in all its forms, as an accomplice to the
+general crime of the "[[EVENT:event_389|Final Solution]]" in all its forms, as an accomplice to the
 commission of the crime, and his conviction will extend to all the many acts forming
 part of that crime, both the acts in which he took an active part in his own sector and
 the acts committed by his accomplices to the crime in other sectors on the same front.
 196. As we see it, the first and second counts of the indictment complement each
-other in describing the activities connected with the Final Solution: The first count
-describes the killing of Jews as a result of the implementation of the Final Solution,
+other in describing the activities connected with the [[EVENT:event_389|Final Solution]]: The first count
+describes the killing of Jews as a result of the implementation of the [[EVENT:event_389|Final Solution]],
 and, therefore, the second count must be limited to those Jews who were subjected
 to conditions of life which were such as to bring about the physical extermination
-through the implementation of the Final Solution, but remained alive.
+through the implementation of the [[EVENT:event_389|Final Solution]], but remained alive.
 We shall, therefore, relate this count, for instance, to those Jews who were deported
-to Auschwitz during the period of the Final Solution, and there put to hard labour, with
+to [[LOCATION:location_286|Auschwitz]] during the period of the [[EVENT:event_389|Final Solution]], and there put to hard labour, with
 the intention of killing them, too, in time, in some way; but who were saved because
 of the advance of the Soviet army. We do not think that the conviction of the second
 count should also include those Jews who were not saved, as if, in their case, there
 were two separate actions: first, subjection to living conditions calculated to bring
 about their physical destruction, and later the physical destruction itself.
 197. We shall not content ourselves with what we have said up till now about the
-Accused's responsibility for actions connected with the Final Solution, but
+Accused's responsibility for actions connected with the [[EVENT:event_389|Final Solution]], but
 alternatively we shall continue and examine his responsibility, assuming, contrary to
 our opinion, that he is responsible only for those actions connected with the Final
 Solution in which he personally participated. The factual basis for this examination is
@@ -8548,7 +8548,7 @@ in the previous sections of this Judgment, and we do not intend to repeat the de
 here. We found that the focus of his activities was within the Reich itself, the
 Protectorate, and in the countries of Europe to the west, north, south, southeast and
 Central Europe.
-During the period of the Final Solution, the Accused acted against the Jews in those
+During the period of the [[EVENT:event_389|Final Solution]], the Accused acted against the Jews in those
 countries in all the various ways which have been described, in order to round them
 up and transport them towards their death in the East. Expressing his activities in
 terms of Section 23 of our Criminal Code Ordinance, we should say that they were
@@ -8578,28 +8578,28 @@ concentration camp, or he who forced them to work there.
 Let us combine the examination of the Accused's criminal responsibility according to
 the alternative assumption we have made above.
 We have found the extent of the measure of his activities in the areas annexed to the
-Reich in the East, the Warthe district, including the Lodz Ghetto, Bialystok, etc.,
+Reich in the East, the Warthe district, including the [[LOCATION:location_81|Lodz]] Ghetto, Bialystok, etc.,
 where he was active in considerable measure (sections 133-134), and have found
-the measure of his activity in the Generalgouvernement area, where the Accused
+the measure of his activity in the [[LOCATION:location_152|Generalgouvernement]] area, where the Accused
 acted concurrently with others (sections 135-137).
 We have described his activity in areas conquered in the East (section 138), and his
-activity in connection with the Operations Units, when he visited Minsk, not later than
+activity in connection with the Operations Units, when he visited [[LOCATION:location_18|Minsk]], not later than
 September 1941, and later on by participating in directing their activities as from the
 spring of 1942 (section 139). As to the camps, we found that the Accused
 encouraged Globocnik to continue the extermination operations in his camps in the
-Lublin area (sections 141-142), and this, too, is an act of abetting, within the meaning
+[[LOCATION:location_35|Lublin]] area (sections 141-142), and this, too, is an act of abetting, within the meaning
 of the last part of Section 23(1)(c).
 We have described the extent of the Accused's activities in what took place in the
-Auschwitz camp (143-146). We have also described his rule over the Terezin Ghetto
-(sections 150-152) and over Bergen-Belsen camp (section 153). We have dwelt upon
+[[LOCATION:location_286|Auschwitz]] camp (143-146). We have also described his rule over the [[LOCATION:location_34|Terezin]] Ghetto
+(sections 150-152) and over [[LOCATION:location_212|Bergen-Belsen]] camp (section 153). We have dwelt upon
 his part in introducing the method of killing by means of gas vans, the introduction of
-the method of killing by Zyklon B gas at Auschwitz and in the supplying of this gas to
+the method of killing by Zyklon B gas at [[LOCATION:location_286|Auschwitz]] and in the supplying of this gas to
 the victims whom he transported from European countries, including the
-Generalgouvernement area (sections 132, 137), to the ghettos, to the Operations
+[[LOCATION:location_152|Generalgouvernement]] area (sections 132, 137), to the ghettos, to the Operations
 Units and to the camps in the East, in order to have them exterminated there,
 whether earlier or later.
 It appears, therefore, that even if we view each sector of the implementation of the
-Final Solution separately, there was not one sector wherein the Accused did not act
+[[EVENT:event_389|Final Solution]] separately, there was not one sector wherein the Accused did not act
 in one way or another, with a varying degree of intensiveness, so that this alternative
 way would also lead us to find him guilty all along the front of extermination activities.
 199. The third count in the indictment refers, as has been mentioned, to the entire
@@ -8627,16 +8627,16 @@ the Jewish People.
 The fourth count speaks of devising measures intended to prevent child-bearing
 among the Jews. The time is limited to the period beginning in the year 1942. In this
 count, the Attorney General apparently did not mean that part of Heydrich's speech
-at the Wannsee Conference where he talked about segregating the sexes during the
+at the [[EVENT:event_387|Wannsee Conference]] where he talked about segregating the sexes during the
 deportation of the Jews to the East. In any case, we do not think that the prevention
-of child-bearing was an explicit part of the Final Solution plan, as put by Heydrich
+of child-bearing was an explicit part of the [[EVENT:event_389|Final Solution]] plan, as put by Heydrich
 before the participants at the conference, although action against the Jews in
-preparation for the Final Solution was in many places accompanied by segregation of
+preparation for the [[EVENT:event_389|Final Solution]] was in many places accompanied by segregation of
 the sexes.
 We shall, therefore, confine ourselves to the concrete matters mentioned in section (c)
-of the fourth count - the Accused's order to prevent child-bearing in Terezin has been
+of the fourth count - the Accused's order to prevent child-bearing in [[LOCATION:location_34|Terezin]] has been
 proved, though it has not been proved that he took part in giving directives for the
-prevention of child-bearing in the Kovno Ghetto (section 159). In connection with the
+prevention of child-bearing in the [[LOCATION:location_17|Kovno]] Ghetto (section 159). In connection with the
 sterilization of the descendants of mixed marriages (Section (c)(3) of the fourth count),
 as stated above, the negotiations conducted with the participation of the Accused did
 not reach a final result, and we do not know if the means there discussed were
@@ -8668,11 +8668,11 @@ with the intent of exterminating the Jewish People also amount, in fact, to the
 persecution of Jews on national, racial, religious and political grounds.
 In addition, the Accused will also be convicted (unless justification for his acts can be
 found) of crime against humanity, instead of crime against the Jewish People, by
-reason of his activities in the Central Offices for Jewish Emigration in Vienna, Prague
-and Berlin until October 1941 (sections 63-66, 80) and by organizing deportations to
+reason of his activities in the Central Offices for Jewish Emigration in [[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]]
+and [[LOCATION:location_1|Berlin]] until October 1941 (sections 63-66, 80) and by organizing deportations to
 Nisko, the evacuation of Jews from territories annexed to the Reich in the East (the
 Warthe district, etc.), the expulsion of the Jews of Stettin and the expulsion of the
-Jews of Baden and the Saar- Palatinate (sections 72-75, 77). It should be pointed out
+Jews of [[LOCATION:location_185|Baden]] and the Saar- Palatinate (sections 72-75, 77). It should be pointed out
 that crimes committed during the first stage, before the outbreak of World War II, also
 come within the definition of crime against humanity, according to Section 1(a)(2),
 which refers to the entire period of Nazi rule, beginning on 30 January 1933 (see
@@ -8688,8 +8688,8 @@ It is to be pointed out that "plunder of public or private property" is especial
 mentioned in the list of acts which come within the definition of war crime. May we
 read into the general concept of "any other inhuman act" something expressly
 mentioned by the legislator in proximity to the same part of the Law?
-203. The courts at Nuremberg were already troubled by the question before us when
-they had to interpret similar provisions in the London Charter and in Control Council
+203. The courts at [[LOCATION:location_39|Nuremberg]] were already troubled by the question before us when
+they had to interpret similar provisions in the [[LOCATION:location_67|London]] Charter and in Control Council
 Law No. 10. In the case of Flick (Green Series, Vol. 6), the court expressed the
 opinion that the plunder of Jewish industrial property on the basis of discriminating
 laws in regard to the confiscation of Jewish property, could not be considered a crime
@@ -8711,7 +8711,7 @@ for the carrying out of this order; participation in the issue of directives for
 confiscation of the property of deported Jews; and the publication of Regulation No.
 11 under the Citizenship Law, in regard to the confiscation of Jewish property upon
 crossing the Reich frontier; and also participation in the realization of the confiscated
-property which fell into the hands of the Germans when the Warsaw Ghetto was
+property which fell into the hands of the Germans when the [[LOCATION:location_93|Warsaw]] Ghetto was
 evacuated. One of the judges dissented, saying (vol. 14, p. 930):
 "It cannot be a crime against humanity, because merely depriving people of their
 property is not such a crime. There must be some maltreatment of the person ..."
@@ -8736,7 +8736,7 @@ defined by the Law as a crime against humanity, or as a result of any of those a
 i.e., murder, extermination, starvation, or deportation of any civilian population, so
 that the plunder is only part of a general process, by way of "Hast thou killed (or
 expelled) and also taken possession?"
-Hence, the plunder of the property of the Jews of Austria and of their institutions,
+Hence, the plunder of the property of the Jews of [[LOCATION:location_14|Austria]] and of their institutions,
 through the Centres for Jewish Emigration - in the organization of which the Accused
 played a leading role - must be regarded as a crime against humanity in which the
 Accused participated, because it was carried out by means of terror against the Jews
@@ -8745,20 +8745,20 @@ the Reich by way of forced emigration, this was an inseparable part of the proce
 
 of expulsion itself (section 64). The same applies to the confiscation of the property of
 the Jews of the Protectorate and of their institutions, through the Central Office for
-Jewish Emigration in Prague, set up and administered by the Accused (section 66),
-as well as in connection with the property of the Jews of Germany and of their
+Jewish Emigration in [[LOCATION:location_4|Prague]], set up and administered by the Accused (section 66),
+as well as in connection with the property of the Jews of [[LOCATION:location_2|Germany]] and of their
 institutions, and from the commencement of operation of the Central Office for Jewish
-Emigration in Berlin in which the Accused was active from the time it was first set up
+Emigration in [[LOCATION:location_1|Berlin]] in which the Accused was active from the time it was first set up
 in 1939 (section 65).
-The methods used in the Centres in Vienna and Prague were duplicated by the
-Accused in Berlin; and in Germany Jews also lived in a state of mass terror. This
+The methods used in the Centres in [[LOCATION:location_3|Vienna]] and [[LOCATION:location_4|Prague]] were duplicated by the
+Accused in [[LOCATION:location_1|Berlin]]; and in [[LOCATION:location_2|Germany]] Jews also lived in a state of mass terror. This
 terror began immediately on Hitler's coming to power and gained intensity as from
 the events of Crystal Night. Under pressure of the threat of continued acts of violence
 and of deportation to concentration camps, the Jews endeavoured to save their lives
 and surrendered their property to the Reich, in exchange for permission to emigrate.
 This, too, applies not only to the private property of individuals, but also to the
 property of Jewish institutions which were made over to the Reich Association of
-Jews in Germany, and upon the liquidation of the Association, this property also was
+Jews in [[LOCATION:location_2|Germany]], and upon the liquidation of the Association, this property also was
 finally lost (section 56).
 205. What has been said applies with even greater force to the Jews who were
 deported during the second stage, like the Jews of areas annexed to the Reich (the
@@ -8768,7 +8768,7 @@ and later, at the final stage, in connection with the property of those deported
 the Reich towards the East, whose property was stolen from them during the
 deportation by the many devices described above, such as the "contributions" to
 Special Account W and money ostensibly paid for the acquisition of housing at
-Terezin (sections 85, 90(c), 91, 96(a)). The same is true of all the Jews of European
+[[LOCATION:location_34|Terezin]] (sections 85, 90(c), 91, 96(a)). The same is true of all the Jews of European
 countries who were expelled from their homes and sent to the East.
 It makes no difference whether the property of these Jews fell into the hands of the
 Germans themselves, or whether it was left in the hands of the satellite governments
@@ -8789,15 +8789,15 @@ to the camps where the acts were committed, with the knowledge that these acts
 would be committed.
 
 206. In the eighth count, the Accused is charged with a war crime, in that during
-World War II in Germany and other Axis states, and in areas occupied by them,
+World War II in [[LOCATION:location_2|Germany]] and other Axis states, and in areas occupied by them,
 together with others, he caused the persecution, deportation and murder of the
-Jewish population of the countries occupied by Germany and by other countries of
+Jewish population of the countries occupied by [[LOCATION:location_2|Germany]] and by other countries of
 the Axis. All acts of persecution, deportation and murder in which the Accused took
 part, as we have found in discussing crimes against the Jewish People and against
 humanity, also constitute war crimes within the meaning of Section 1(a)(3) of the Law,
 as far as they were committed during World War II, and the Jews who were the
 victims of these acts belonged to the population of the countries conquered by
-Germany and by other Axis countries.
+[[LOCATION:location_2|Germany]] and by other Axis countries.
 Hence, unless there is a justification for these acts of his, the Accused will be
 convicted also on the charge of war crimes according to the eighth count.
 Ninth to Twelfth Counts
@@ -8805,19 +8805,19 @@ Ninth to Twelfth Counts
 humanity committed against over half a million Polish civilians. The period is between
 1940 and 1942, and the act - deportation of Poles from their places of residence, with
 intention of settling German families in those places. The methods of deportation are
-described in the indictment as follows: (a) The transfer to Germany and to Germanoccupied areas for the purpose of their employment under conditions of servitude,
-coercion and terror; (b) abandonment in other regions of Poland and Germanoccupied areas in the East; (c) concentration in labour camps under inhumane
-conditions; (d) transfer to Germany for the purpose of "Germanization."
+described in the indictment as follows: (a) The transfer to [[LOCATION:location_2|Germany]] and to Germanoccupied areas for the purpose of their employment under conditions of servitude,
+coercion and terror; (b) abandonment in other regions of [[LOCATION:location_5|Poland]] and Germanoccupied areas in the East; (c) concentration in labour camps under inhumane
+conditions; (d) transfer to [[LOCATION:location_2|Germany]] for the purpose of "Germanization."
 Counsel for the Defence argued that the Poles were not deported, but that they were
 "resettled" in a way which does not constitute a crime. Let us, therefore, examine the
 nature of the activities mentioned in this count of the indictment. Almost all the proof
 is documentary, except the evidence of the Accused and that of the witness Krumey
-(taken in Germany), a number of excerpts from the statement by Hoess, and the
-evidence of Rajewsky at the trial of Hoess in Poland (T/1356).
+(taken in [[LOCATION:location_2|Germany]]), a number of excerpts from the statement by Hoess, and the
+evidence of Rajewsky at the trial of Hoess in [[LOCATION:location_5|Poland]] (T/1356).
 The Accused's activities are connected with two separate waves of deportation of the
 population: (a) The transfer of Poles from the Warthe district to the
-Generalgouvernement area, viz., from West to East; (b) the transfer of Poles from the
-Zamosc district to the West. The first wave began at the end of 1939 and continued
+[[LOCATION:location_152|Generalgouvernement]] area, viz., from West to East; (b) the transfer of Poles from the
+[[LOCATION:location_296|Zamosc district]] to the West. The first wave began at the end of 1939 and continued
 until 1943; the second began at the end of 1942 and continued, as far as we know,
 for a number of months.
 208. We shall now consider first the transfer of the population from the West to the
@@ -8831,7 +8831,7 @@ present at the meeting, and therefore learned not only what was the plan at the 
 
 as far as the Jews were concerned, but also what was in store for the Poles. And this
 is what Heydrich said about the Poles:
-"About the development of former Poland, the trend of thought is that the former
+"About the development of former [[LOCATION:location_5|Poland]], the trend of thought is that the former
 German districts will become German, and, in addition, a foreign language district will
 be set up, with Cracow at its capital... The solution of the Polish problem, as has
 been repeatedly explained, will be carried out by distinguishing between the stratum
@@ -8857,7 +8857,7 @@ especially against the educated class.
 The leadership of this campaign was entrusted to Himmler, as the "Reichsfuehrer for
 the Strengthening of the German people" (T/167). On 30 October 1939, he draws up
 the plan for the period until 1940: All Congress Poles must be evacuated from the
-Danzig - Western Prussia area, and also a certain number of "especially hostile"
+[[LOCATION:location_113|Danzig]] - Western [[LOCATION:location_91|Prussia]] area, and also a certain number of "especially hostile"
 Poles (T/169) from other areas annexed to the Reich. The implementation of the
 evacuation was assigned to the Security Police (N/8), and on 21 December 1939, the
 Accused's activity begins (T/170). Heydrich announces:
@@ -8888,7 +8888,7 @@ messenger at the disposal of each Inspector of the Security Police and the SD, f
 the preparation of the measures to be taken during the deportation."
 (b) The memoranda of conversations held on 22 January 1940 and 23 January 1940
 between the Accused and Seidl, one of the officials of the Centre for the Change of
-Residence in Poznan, also confirm the conclusion that they discussed not only the
+Residence in [[LOCATION:location_105|Poznan]], also confirm the conclusion that they discussed not only the
 timetable of transports, but also the class of deportees (only "Congress Poles").
 (c) At a meeting held on 30 January 1940 (T/166), Heydrich defined the Accused's
 task as the "central direction of deportation duties," and also "to collect figures and
@@ -8900,19 +8900,19 @@ technical execution of the evacuation and the settlement of the Germans who are 
 come in place of the evacuated Poles (T/1407).
 The extent of the expulsions is revealed by the following documents: T/362 shows
 that up to 15 November 1940 nearly 300,000 Polish deportees were transferred into
-the Generalgouvernement area. T/361 shows that, from the beginning of the
+the [[LOCATION:location_152|Generalgouvernement]] area. T/361 shows that, from the beginning of the
 operation until the end of 1943, over 530,000 Poles were deported. This includes the
 period up to the end of 1939, before the Accused began to deal with evacuations,
 and also the year 1943, which is not mentioned in the indictment.
 After subtracting the number of those deported in the years 1939 and 1943 (about
 130,000 persons), the remaining number of Poles, whose deportation the Accused
 organized on behalf of the RSHA, is 400,000. However, it seems that the lists
-attached to exhibit T/361 do not include the Poles evacuated from Eastern Prussia,
-Upper Eastern Silesia and Danzig-Western Prussia. These three zones appear in list
+attached to exhibit T/361 do not include the Poles evacuated from Eastern [[LOCATION:location_91|Prussia]],
+Upper Eastern [[LOCATION:location_103|Silesia]] and [[LOCATION:location_113|Danzig]]-Western [[LOCATION:location_91|Prussia]]. These three zones appear in list
 T/362, with 60,000 Polish deportees (up to 15 November 1940).
 209. As to the second wave: On 12 December 1942, Himmler issued a directive to
-evacuate the Zamosc district and to settle Germans from other regions there (N/26).
-The operation was assigned by Himmler to Krueger, who had to co- operate with the
+evacuate the [[LOCATION:location_296|Zamosc district]] and to settle Germans from other regions there (N/26).
+The operation was assigned by Himmler to [[PERSON:person_474|Krueger]], who had to co- operate with the
 head offices subordinated to Himmler. The Attorney General cross-examined the
 Accused about this operation in Session 98 (Vol. IV), and this time, too, the Accused
 endeavoured to show that his activity was limited to organizing timetables (pp.xxxx 3,
@@ -8924,16 +8924,16 @@ October 1942, signed by Guenther (T/373).
 On 31 October 1942, Mueller submits to Himmler a plan of action bearing the
 reference number of the Accused's Section IVB4a, and Himmler confirms it (T/374).
 According to the plan, the Polish population is to be divided into four groups. One
-group is to be settled, a second is to be brought to Germany for labour purposes, a
+group is to be settled, a second is to be brought to [[LOCATION:location_2|Germany]] for labour purposes, a
 third is to be "Germanized;" as to the fourth group, a distinction is made between
 those under the age of 14 and above the age of 60, and those between the ages of
-14 and 60. Those fit for work from the 14-60 age group are to be taken to Auschwitz,
+14 and 60. Those fit for work from the 14-60 age group are to be taken to [[LOCATION:location_286|Auschwitz]],
 and the aged above the age of 60 are to be taken to "pension villages"
 (Rentendoerfer) (see also T/375). In the order of implementation dated 21 November
 1942 (T/372) - signed, it seems, by Krumey, who worked at the time at the Centre for
 the Change of Residence - the distinction of those fit and those unfit for work in the
 14- 60 age group - classified as group 4 - is unclear, and the report T/382, dated 16
-December 1942, about the transport of 644 Poles to Auschwitz, shows that those
+December 1942, about the transport of 644 Poles to [[LOCATION:location_286|Auschwitz]], shows that those
 unfit for labour were also sent there. In regard to this matter it says:
 "As far as the question of their ability to work is concerned, it has been pointed out
 (by the Deputy Camp Commander) that only Poles able to work are to be sent there,
@@ -8949,11 +8949,11 @@ A cable dated 29 December 1942, sent from the Accused's Section, signed by
 Guenther (T/378), deals with the question of how to treat the clergy. This constitutes
 additional proof that the Accused did not limit himself solely to organizing timetables.
 The witness Rajewsky (T/1356, the second day of the trial, p. 175 of the original)
-gave evidence in the case of Hoess in Poland, and related that Poles from Zamosc
-reached Auschwitz. He, too, mentions the reference number IVB4 366/42 g/1505. On
-p. 189 he testified that the transport of Poles from Zamosc "went to the gas" (as
+gave evidence in the case of Hoess in [[LOCATION:location_5|Poland]], and related that Poles from [[LOCATION:location_175|Zamosc]]
+reached [[LOCATION:location_286|Auschwitz]]. He, too, mentions the reference number IVB4 366/42 g/1505. On
+p. 189 he testified that the transport of Poles from [[LOCATION:location_175|Zamosc]] "went to the gas" (as
 distinguished from transports of other Poles).
-We cannot say how many Poles were evacuated from Zamosc, but it is clear from
+We cannot say how many Poles were evacuated from [[LOCATION:location_175|Zamosc]], but it is clear from
 exhibit T/371 that, in any case, many thousands were deported. From exhibits T/377,
 T/381 and T/382, we learn about the conditions of the transports: Children arrived
 with frozen limbs; after a short journey of twelve hours, a considerable number of
@@ -8973,18 +8973,18 @@ out in an inhuman manner or by means of terror.
 The proof at our disposal is in exhibits T/898-T/901. The Accused reacted to a part of
 these documents in his Statement T/37 (pp. 245 and 3559). The witness Novak
 mentioned the deportation of the Slovenes briefly on p. 5 of his evidence, and the
-settling of the Slovenes in the Lublin area is mentioned in exhibit T/370.
-The beginning of this action is to be found at a meeting held in Marburg
-(Untersteiermark) on 6 May 1941, the invitation to which was sent from the Accused's
+settling of the Slovenes in the [[LOCATION:location_35|Lublin]] area is mentioned in exhibit T/370.
+The beginning of this action is to be found at a meeting held in [[LOCATION:location_36|Marburg]]
+([[LOCATION:location_243|Untersteiermark]]) on 6 May 1941, the invitation to which was sent from the Accused's
 office, signed by Heydrich. We know about deportations on 7 June 1941 and 27
-September 1941 to other localities in Yugoslavia. We do not doubt that these, too,
+September 1941 to other localities in [[LOCATION:location_25|Yugoslavia]]. We do not doubt that these, too,
 were forced deportations, as is evidenced by the use of the word "evacuation" which
 appears in the letter of invitation T/898, and occurs in Novak's evidence and in the
 Accused's Statement.
 This is also shown by the hurried pace of the transports and by the fact that the
 implementation and the provision of escorts were in the hands of the Security Police.
 In October 1942, thousands of Slovenes were still left without a permanent abode,
-and an order was given to settle them in the Lublin district (T/370). This fact provides
+and an order was given to settle them in the [[LOCATION:location_142|Lublin district]] (T/370). This fact provides
 further confirmation of our conclusion that this was an enforced deportation, and not
 a planned and orderly exchange of populations.
 Every act of forced deportation of a civilian population is in itself a crime against
@@ -8998,11 +8998,11 @@ places of concentration, and their transportation to extermination camps for the
 purpose of murdering them.
 In the material placed before us, first mention of the Gypsies appears at a meeting
 held on 21 September 1939 (T/164), at which Heydrich ordered the deportation of
-30,000 Gypsies to Poland. The same order is mentioned again at a meeting held on
+30,000 Gypsies to [[LOCATION:location_5|Poland]]. The same order is mentioned again at a meeting held on
 30 January 1940 (T/166), after the setting up of Section IVD4, headed by the
 Accused; but at the time priority was given to other activities (p. 6). In the documents
 before us, there is no evidence of action against Gypsies, until the deportation of
-5,000 Gypsies to Lodz in the months of October-November 1941 (T/222), in spite of
+5,000 Gypsies to [[LOCATION:location_81|Lodz]] in the months of October-November 1941 (T/222), in spite of
 protests by the local authority (T/221, T/220, T/243).
 
 We have more information on this subject from the declaration made by Friedel on 13
@@ -9015,62 +9015,62 @@ Accused's Section, and for that he bears responsibility.
 But we do not have sufficient proof before us that the Accused dealt also with the
 concentration of Gypsies. In this connection, and also in connection with the general
 supervision of the Gypsies, Friedel and Hoess mention Group V2 of the RSHA, viz.,
-the Criminal Police. Gypsies were exterminated at Auschwitz and at Chelmno (see
+the [[ORGANIZATION:org_338|Criminal Police]]. Gypsies were exterminated at [[LOCATION:location_286|Auschwitz]] and at [[LOCATION:location_168|Chelmno]] (see
 T/1297), but we have no reliable proof before us that the Accused knew that the
-Gypsies transported by his Section to Auschwitz were to be exterminated there.
+Gypsies transported by his Section to [[LOCATION:location_286|Auschwitz]] were to be exterminated there.
 The result is that the Accused's complicity in the commission of a crime against
 humanity has been proved by his participation in the deportation of the Gypsies.
 212. The twelfth count of the indictment charges the Accused with a crime against
-humanity, regarding approximately 100 children, residents of the village of Lidice in
-Czechoslovakia. According to the indictment, the Accused participated in their
-deportation, their transport to Poland, and their murder there.
+humanity, regarding approximately 100 children, residents of the village of [[LOCATION:location_37|Lidice]] in
+[[LOCATION:location_15|Czechoslovakia]]. According to the indictment, the Accused participated in their
+deportation, their transport to [[LOCATION:location_5|Poland]], and their murder there.
 The Accused denied all activity in, or knowledge of, this act, and Counsel for the
 Defence also contends that the murder of the children was not proved. In addition to
 the documentary material, we also have before us in this matter Krumey's evidence,
 Mrs. Freiberg's statement (N/19), and the evidence submitted in the case of Greifelt
 and others (the case against the Head Office for Race and Resettlement, Green
-Series, vol. 4, p. 599; and vol. 5), especially in the evidence of Maria Hanfova (vol. 4,
+Series, vol. 4, p. 599; and vol. 5), especially in the evidence of [[PERSON:person_622|Maria Hanfova]] (vol. 4,
 p. 1033). In connection with this evidence, we mention our Decision No. 48 given on
 24 May 1961 (Session 50, p. 904).
 From all this material, the following picture emerges: After the Nazis had wrought
-their deeds at Lidice, two transports of children from the village were sent to Lodz.
+their deeds at [[LOCATION:location_37|Lidice]], two transports of children from the village were sent to [[LOCATION:location_81|Lodz]].
 The first transport consisted of 91 children (a list of names is attached to exhibit
 T/1091), but in fact only 88 children arrived, for three children had been removed
-from the transport as being "fit for Germanization." While they were in Lodz, an
+from the transport as being "fit for Germanization." While they were in [[LOCATION:location_81|Lodz]], an
 additional seven children out of the remaining 88 were removed for Germanization (a
 list of names, dated 20 June 1942, is attached to the evidence of Krumey). With
-these seven was Maria Hanfova who gave evidence at Nuremberg (in both lists her
+these seven was [[PERSON:person_622|Maria Hanfova]] who gave evidence at [[LOCATION:location_39|Nuremberg]] (in both lists her
 name is given as "Hankova"). The remaining 81 children were put into a camp at
-Lodz, from which they were removed on 2 July 1942.
+[[LOCATION:location_81|Lodz]], from which they were removed on 2 July 1942.
 The Attorney General contends that these 81 children were removed to the East. And,
-indeed, it says on the printed copy of Form T/1095: "To the Generalgouvernement,
+indeed, it says on the printed copy of Form T/1095: "To the [[LOCATION:location_152|Generalgouvernement]],
 81 Czechs." But the photocopy of the original document, which was put before the
 Accused as exhibit T/37(246), leaves a doubt, for there three items are crowded into
 the space intended for the description of those who are "leaving," and the remark "81
-Czechs" does not appear on the line reading "To the Generalgouvernement" but just
+Czechs" does not appear on the line reading "To the [[LOCATION:location_152|Generalgouvernement]]" but just
 above this line. On the strength of this document, it is impossible to establish with
 
 certainty where the children were sent. But on the strength of the document dated 2
 July 1942, also attached to the evidence by Krumey, it can be established that the
-children were handed over to the Lodz Stapo. This document
+children were handed over to the [[LOCATION:location_81|Lodz]] Stapo. This document
 reads as follows: "Confirmation: In accordance with a cable from the Head Office for
 Reich Security, 81 Czech children, who were temporarily lodged in the camp at 41
-Gneisenau Street, were handed over today, 2 July 1942, to the Litzmannstadt
+Gneisenau Street, were handed over today, 2 July 1942, to the [[LOCATION:location_158|Litzmannstadt]]
 Stapo."
 The document is signed by two SS men, the one who handed over the children, and
 the other as the one receiving them.
 We did not learn any more about the fate of these 81 children. Immediately after,
 there is a further transport of 18 children, six of whom are destined for Germanization
 and are immediately transferred to a certain children's home. The remaining children
-were handed over on 25 July 1942 to the Lodz Stapo (exhibit T/1099), and according
+were handed over on 25 July 1942 to the [[LOCATION:location_81|Lodz]] Stapo (exhibit T/1099), and according
 to the confirmation of the delivery and the receipt, in the meantime these twelve
 children were also in the above camp.
-Hence, we are concerned with 93 children handed to the Lodz Stapo, and with 16
+Hence, we are concerned with 93 children handed to the [[LOCATION:location_81|Lodz]] Stapo, and with 16
 children transferred for Germanization. It seems that the indictment refers only to the
 93 children, and in any case it has not been proved that the Accused fulfilled any
 function in connection with the sixteen children who were transferred for
-Germanization. These (or some of them) were at the Puschkau Home near Poznan,
-as transpires from the evidence given by Maria Hanfova at the trial in Nuremberg.
+Germanization. These (or some of them) were at the Puschkau Home near [[LOCATION:location_105|Poznan]],
+as transpires from the evidence given by [[PERSON:person_622|Maria Hanfova]] at the trial in [[LOCATION:location_39|Nuremberg]].
 We are, therefore, convinced that the children whom Mrs. Freiberg mentions in her
 declaration (N/19) are the children intended for Germanization, and are not from
 amongst the other 93 children who, according to the argument of the Attorney
@@ -9086,8 +9086,8 @@ conversation with SS Obersturmbannfuehrer Eichmann").
 Although the instructions given by the Accused's office in connection with the 81
 children are not before us, we have before us the instructions (signed by Guenther) in
 connection with the twelve children (T/1099). It says that the children are to be
-handed over immediately to the Lodz Stapo, "which has received further orders."
-Since, in accordance with these orders, the children were handed over to the Lodz
+handed over immediately to the [[LOCATION:location_81|Lodz]] Stapo, "which has received further orders."
+Since, in accordance with these orders, the children were handed over to the [[LOCATION:location_81|Lodz]]
 Stapo, and since a cable of the RSHA is also mentioned in the first confirmation
 dated 2 July 1942 in connection with the 81 children, the inescapable conclusion is
 that the same orders which were given by the Accused's Section concerning the
@@ -9116,7 +9116,7 @@ above letter, dated 12 June 1942. Krumey's reaction to the letter was that he di
 remember the various letters sent to him on the subject (p. 8), but did not doubt its
 authenticity. But then the contents of the letter are not unequivocal, especially since it
 was not sent by the Accused's Section, but by the Commander of the Security Police
-in Prague, and the question whether, as regards non- Jews, the Commanders of the
+in [[LOCATION:location_4|Prague]], and the question whether, as regards non- Jews, the Commanders of the
 Security Police were subordinate to the Accused's Section is not clear to us.
 As to the term "special treatment" - in the year 1942 this most certainly had only one
 meaning when used in regard to Jews: If in the year 1942 Jews were taken for
@@ -9127,18 +9127,18 @@ assumption that in one of the forms the reference is to killing, in connection w
 Pole who is not "suitable for Germanization."
 But a doubt still persists, especially as, according to the letter of 12 June 1942 cited
 by us above, the children are to be sent to camps for Poles. We know that Poles from
-Zamosc were sent to extermination, but it has not been proved that Poles sent from
-Lodz were similarly treated. Finally: The term "special treatment" was used by
+[[LOCATION:location_175|Zamosc]] were sent to extermination, but it has not been proved that Poles sent from
+[[LOCATION:location_81|Lodz]] were similarly treated. Finally: The term "special treatment" was used by
 Krumey, and he assumed that this is what was in store for the children. The term
 does not appear in cable T/1009 sent by the Accused's Section.
 In conclusion, as regards the Accused, it has been proved only that he participated in
-the expulsion of the 93 children of Lidice from their homeland, and he thus took part
+the expulsion of the 93 children of [[LOCATION:location_37|Lidice]] from their homeland, and he thus took part
 in the commission of a crime against humanity.
 Counts 13-15 of the Indictment
 
 214. In the three last counts of the indictment, counts 13- 15, the Prosecution
 charges the Accused with offences against Section 3 of the Law, viz., membership in
-SS organizations, the SD and the Gestapo, which are, according to the Prosecution's
+SS organizations, the SD and the [[ORGANIZATION:org_344|Gestapo]], which are, according to the Prosecution's
 submission, hostile organizations within the meaning of this Section.
 The Accused's membership in those organizations is not in dispute, but the Defence
 puts forward two arguments:
@@ -9154,14 +9154,14 @@ is not a case of charge without guilt, and the answer to Counsel's two arguments
 be found in the wording of Section 3 itself.
 The definition of "a hostile organization" in Section 3(b)(1) is not self-contained, but
 refers us to findings of the International Military Tribunal. That Tribunal did not merely
-declare that the SS, the SD and the Gestapo were criminal organizations, but it laid
+declare that the SS, the SD and the [[ORGANIZATION:org_344|Gestapo]] were criminal organizations, but it laid
 down additional conditions without which nobody can be found to be liable because
 of his membership in the above-mentioned organizations.
 To quote the decisive findings of the International Military Tribunal:
-(a) In regard to the Gestapo and the SD, the English edition, vol. 22, p. 511 (German
+(a) In regard to the [[ORGANIZATION:org_344|Gestapo]] and the SD, the English edition, vol. 22, p. 511 (German
 edition, vol. 1, p. 301):
 "The Tribunal declares to be criminal within the meaning of the Charter the group
-composed of those members of the Gestapo and the SD holding the positions
+composed of those members of the [[ORGANIZATION:org_344|Gestapo]] and the SD holding the positions
 enumerated in the preceding paragraph who became or remained members of the
 organization with knowledge that it was being used for the commission of acts
 declared criminal by Article 6 of the Charter, or who were personally implicated as
@@ -9178,9 +9178,9 @@ about to base the conviction of the Accused in regard to these counts in the
 indictment. The crime of extermination of the Jews during the War was expressly
 
 declared by the International Military Tribunal also to be a crime within the meaning
-of the London Charter. In the present Judgment we have found that the Accused
+of the [[LOCATION:location_67|London]] Charter. In the present Judgment we have found that the Accused
 personally participated in the commission of this crime, and there is no doubt that he
-did so participate in its commission in his capacity as a member of the Gestapo, the
+did so participate in its commission in his capacity as a member of the [[ORGANIZATION:org_344|Gestapo]], the
 SD and the SS; hence his criminal responsibility as a member of those organizations.
 215. Therefore, our answer to the two arguments by the Defence is: The Prosecution
 did not have to prove the criminal nature of the three organizations as such, because
@@ -9191,7 +9191,7 @@ crimes, as a member of these organizations - and this has been proved.
 The Attorney General mentioned that under Section 13(b) of the Law the offence
 according to Section 3 is prescribed
 after the lapse of twenty years. The decisive time in this case is May 1940, because it
-was in May 1960 that the warrant for the arrest of the Accused was issued in Israel
+was in May 1960 that the warrant for the arrest of the Accused was issued in [[LOCATION:location_38|Israel]]
 for the first time. It has been proved that after May 1940, as a member of the three
 hostile organizations mentioned in the indictment, the Accused took part in the
 commission of crimes. In fact, most of his criminal activities were committed after this
@@ -9212,7 +9212,7 @@ has to pay for his loyalty. The gallows or a decoration - that is the question: 
 which fails will be a common crime. If it succeeds, it will be sanctified" (Session 114,
 Vol. V, p. xxx39.)
 If by these words Counsel for the Defence intended to describe a totalitarian regime,
-based on denial of all law, as was Hitler's regime in Germany, then his words are
+based on denial of all law, as was Hitler's regime in [[LOCATION:location_2|Germany]], then his words are
 indeed apt. Such a rule seeks to turn the citizen into an obedient subject who will
 carry out an order coming from above, be it an order to commit an injustice, to
 oppress or to murder. It is also true that under such a regime the criminal who
@@ -9232,7 +9232,7 @@ of criminal judgment all over the world.
 We have already considered in another chapter of our Judgment the Defence
 argument of "act of state" in international law, and have concluded that this cannot
 avail the Accused. At this point we shall only add that also according to the positive
-laws of the State of Israel, there is no such justification to absolve the Accused from
+laws of the State of [[LOCATION:location_38|Israel]], there is no such justification to absolve the Accused from
 responsibility for the crimes he committed, although they were committed at the
 command of one of the state authorities.
 The personal responsibility of a government official for his acts is the basis of the rule
@@ -9257,8 +9257,8 @@ As the Attorney General said, would that the Jews under the rule of Hitler had b
 granted the status and privileges of prisoners of war. But this "war" took the form of
 deporting helpless people to be slaughtered by citizens of the state in which they
 lived, without any reason save that of gratuitous hatred and without any aim save that
-of their extermination. It is true only that the state of war between Germany and the
-Allies created conditions convenient for the implementation of the "Final Solution," by
+of their extermination. It is true only that the state of war between [[LOCATION:location_2|Germany]] and the
+Allies created conditions convenient for the implementation of the "[[EVENT:event_389|Final Solution]]," by
 enveloping the territory under German rule in a smoke screen, which veiled much of
 what was going on there from the eyes of the world, and made it easier to perpetrate
 the slaughter without outside interference.
@@ -9290,9 +9290,9 @@ consequences of the offence;
 "(b).....
 "However, in the case of an offence under Section 1, the court shall not impose on
 the offender a lighter punishment than imprisonment for a term of ten years."
-In this respect our Law follows Article 8 of the London Charter under which the
-International Military Tribunal at Nuremberg was set up, and Article II4(b) of Law No.
-10 of the Allied Control Council for Germany, under which courts were set up to try
+In this respect our Law follows Article 8 of the [[LOCATION:location_67|London]] Charter under which the
+International Military Tribunal at [[LOCATION:location_39|Nuremberg]] was set up, and Article II4(b) of Law No.
+10 of the Allied Control Council for [[LOCATION:location_2|Germany]], under which courts were set up to try
 subsequent cases against war criminals. They also refuse to accept a plea of
 "superior orders" as exempting from responsibility, but permit the court to consider
 the existence of such an order as grounds for mitigation of the penalty.
@@ -9337,7 +9337,7 @@ rule of law."
 220. Here we shall add that, in civilized countries the rejection of the defence of
 'superior orders' as exempting completely from criminal responsibility, has now
 become general. This was also acknowledged by the General Assembly of the
-United Nations, being one of the principles of the London Charter and of the
+United Nations, being one of the principles of the [[LOCATION:location_67|London]] Charter and of the
 judgment in the case against the Major War Criminals (Resolution of the Plenary
 Session, No. 55, dated 11.12.46). Perhaps it is not a vain hope that the more this
 conviction becomes rooted in the minds of men, the more will they refrain from
@@ -9372,13 +9372,13 @@ Not only the order for physical extermination was manifestly illegal, but also a
 other orders for the persecution of Jews because of their being Jews, even though
 they were styled in the formal language of legislation and subsidiary legislation,
 because these were only a cloak for arbitrary discrimination, contrary to the basic
-principles of law and justice. As was stated by the court at Nuremberg which tried the
+principles of law and justice. As was stated by the court at [[LOCATION:location_39|Nuremberg]] which tried the
 Nazi jurists (Justice Case) (Green Series, vol. 3, p. 1063):
 "...but it is alleged that they participated in carrying out a governmental plan and
 program for the persecution and extermination of Jews and Poles, a plan which
 transcended territorial boundaries as well as the bounds of human decency. Some of
 the defendants took part in the enactment of laws and decrees, the purpose of which
-was the extermination of Poles and Jews in Germany and throughout Europe.
+was the extermination of Poles and Jews in [[LOCATION:location_2|Germany]] and throughout Europe.
 "The overt acts of the several defendants must be seen and understood as deliberate
 contributions towards the effectuation of the policy of the Party and state. The
 discriminatory laws themselves formed the subject matter of war crimes and crimes
@@ -9407,9 +9407,9 @@ statement that he acted according to orders, and that the oath of loyalty which 
 taken as an SS man and an SD man strengthened even further his absolute duty to
 obey any order given to him, he keeps on saying that until a certain time he was
 carrying out his duties willingly and with inner satisfaction. It was thus, he said, as
-long as he was working at the Central Offices for Jewish Emigration in Vienna and
-Prague, for in this he saw work beneficial to both sides - his side and the Jewish side.
-This, too, was his attitude to the Madagascar Plan, on which he laboured so much,
+long as he was working at the Central Offices for Jewish Emigration in [[LOCATION:location_3|Vienna]] and
+[[LOCATION:location_4|Prague]], for in this he saw work beneficial to both sides - his side and the Jewish side.
+This, too, was his attitude to the [[EVENT:event_392|Madagascar Plan]], on which he laboured so much,
 for also this was still a "political solution." But when this plan was also shelved, his
 world crumbled around him and his attitude to his work changed from one extreme to
 the other. He lost interest in his work and decided that in the future he would act as
@@ -9418,7 +9418,7 @@ less clear. From here onwards the picture becomes more and more blurred.
 How does he describe his reaction to the horrifying sights he saw from time to time
 with his own eyes during his visits to the East: the mass slaughter of Jews - men,
 women and babies; the shooting on the brink of the pits; the blood spurting from a
-mass grave; the loading of Jews into the gas vans in Chelmno; the cremation of
+mass grave; the loading of Jews into the gas vans in [[LOCATION:location_168|Chelmno]]; the cremation of
 bodies there; the transport of Jews into the gas chambers? This is what he said,
 quoting his own words to Mueller on his return from such a journey:
 "'Terrible, I tell you, the inferno, this I cannot bear,' I told him. (T/37, 177)
@@ -9429,11 +9429,11 @@ night! I have dreams - I cannot carry on this way, Gruppenfuehrer.'" (218)
 Elsewhere in his Statement to Superintendent Less he explains his desire to be
 transferred to another post, giving as additional reasons his chances for promotion
 and his lack of interest in police work as such from the very beginning, from the time
-of his transfer to Berlin in the year 1939 (T/37, p. 250).
+of his transfer to [[LOCATION:location_1|Berlin]] in the year 1939 (T/37, p. 250).
 And also in his evidence, in answer to the Attorney General (Session 94, Vol. IV, pp.
 xxxx13-14):
 "I referred to him [Mueller] with such a request for the first time and asked not to be
-transferred to Berlin at all, because I wanted to remain where I lived with my family. I
+transferred to [[LOCATION:location_1|Berlin]] at all, because I wanted to remain where I lived with my family. I
 sent in a second urgent request and told him I would not be able to stand this
 physically, after the service trip to the East, the first trip, and later on I applied after
 each trip. Mueller was aware of my state of mind at the time after such a trip."
@@ -9452,18 +9452,18 @@ another task." (Session 94, Vol. IV, pp. xxxx11-12)
 225. But this version - that he asked to be relieved of his post for reasons of
 conscience - is contradicted by the Accused himself. When his Counsel asks him,
 "It does seem that, from the remarks in the reminiscences taken down by Sassen, as
-well as now, you were quite satisfied with the Conference [the Wannsee Conference].
+well as now, you were quite satisfied with the Conference [the [[EVENT:event_387|Wannsee Conference]]].
 Can you express your opinion about this?" (Session 79, Vol. IV, p. xxxx2)
 then his answer is:
 "Yes, but the origin of my satisfaction is to be sought in another direction, not in that
 of Heydrich's satisfaction...
-"And so, after many efforts [to find other solutions], after the Wannsee Conference I
+"And so, after many efforts [to find other solutions], after the [[EVENT:event_387|Wannsee Conference]] I
 could say to myself that, in spite of my wish, and not due to my own preparations,
 through no fault of mine, and having the feeling of a Pontius Pilate washing his hands,
-I could feel that the fault was not mine. But at this Wannsee Conference, the men at
+I could feel that the fault was not mine. But at this [[EVENT:event_387|Wannsee Conference]], the men at
 the top, the elite, the popes of the empire, laid down the line to be followed. And I? I
 had only to obey."
-It should be remembered that even before the Wannsee Conference he had already
+It should be remembered that even before the [[EVENT:event_387|Wannsee Conference]] he had already
 seen what was happening in the East and had begun deporting Reich Jews to the
 slaughter; yet, in spite of this, according to his testimony here, he feels like a Pontius
 Pilate, that is, like a man who could find a way of soothing his conscience. And this,
@@ -9503,14 +9503,14 @@ He could have asked to be transferred to the front; he could have made various
 excuses to get away as others did, or he could have stated openly that his heart was
 not at one with the task assigned to him. In the evidence before us, there is ground
 for this submission.
-For instance, Justice Musmanno stated that in his conversations with Schellenberg,
+For instance, [[PERSON:person_558|Justice Musmanno]] stated that in his conversations with Schellenberg,
 he was told that men were released from Operations Units when it became clear that
 they were incapable of taking part in murder (Session 39, Vol. II, pp. 725). Such a
 case (concerning a man named Jost) is also mentioned in the affidavit of Best, which
 was submitted in the Einsatzgruppen Case (T/687), and in a affidavit made by
 Burmeister about the release of the witness for the Defence, Six, from the Operations
 Units (T/688, pp. 24-26; see also the evidence by Six himself in the present case, p.
-8). Himmler's speech at Poznan also hints that whoever showed signs of abhorrence
+8). Himmler's speech at [[LOCATION:location_105|Poznan]] also hints that whoever showed signs of abhorrence
 at the business of murder could obtain his release (T/1288, p. 151).
 But we do not intend to go into this problem in depth, because, in our opinion, this
 whole discussion is not to the point, since such a problem never troubled the
@@ -9528,7 +9528,7 @@ Jews at every stage.
 227. With this, we reach the heart of our discussion of the inner motives which
 prompted the Accused in his activities. That he was merciless in all his deeds, is
 almost undisputed. One illustration will suffice, in connection with the transaction
-"goods for blood" in Hungary. When asked why he regarded the idea of this
+"goods for blood" in [[LOCATION:location_24|Hungary]]. When asked why he regarded the idea of this
 transaction favourably, he explained that he took this matter up because he felt that
 
 Becher was his rival and had been poaching on his preserves in the matter of Jewish
@@ -9583,11 +9583,11 @@ Socialist who did not hate Jews, is unbelievable.
 Had a man of his kind, a man who stood in the thick of the fight against the Jews first in the field of ideology and afterwards in the actual fight - shown the slightest
 deviation from the anti-Semitic orthodoxy which was demanded from every member
 of the Party, however lowly, he could not have remained there for even one day. The
-heads of the SD and the Gestapo with whom he worked would certainly soon have
+heads of the SD and the [[ORGANIZATION:org_344|Gestapo]] with whom he worked would certainly soon have
 detected any such deviation. But let us quote the words of the Defence witness Six,
-who knew the Accused closely from the time of his work in the SD Head Office, when
+who knew the Accused closely from the time of his work in the [[ORGANIZATION:org_319|SD Head Office]], when
 Six was head of the branch in which the Accused worked. In his evidence taken in
-Germany, he says (p. 6):
+[[LOCATION:location_2|Germany]], he says (p. 6):
 "Eichmann believed wholeheartedly in National Socialism ...I believe that, when in
 doubt, Eichmann invariably acted according to the doctrine of the Party in its most
 extreme interpretation."
@@ -9626,7 +9626,7 @@ clear that mere blind obedience could never have brought him to commit the crime
 which he committed with such efficiency and devotion as he evinced, were it not for
 his zealous belief that he was thereby fulfilling an important national mission. We
 have already seen the Accused's position within the RSHA apparatus, which was a
-key position in the implementation of the Final Solution.
+key position in the implementation of the [[EVENT:event_389|Final Solution]].
 It is true that in matters of principle he received orders from above, and these orders
 decided for him the various stages of implementation. But within this general
 framework he still had much scope left, in working out the details of implementation
@@ -9656,7 +9656,7 @@ his direct superior, Mueller, who said of him: "If we had had fifty Eichmanns, w
 should automatically have won the War" (Session 98, Vol. IV, pp. xxxx17-18; T/1432
 (6)). We do not believe the Accused that this statement referred only to his last
 activities, namely the preparation of his office building in readiness for the Battle of
-Berlin, but that it was a concise evaluation of all his activities carried out under
+[[LOCATION:location_1|Berlin]], but that it was a concise evaluation of all his activities carried out under
 Mueller.
 
 233. There is a great deal of evidence indicative of this attitude of the Accused, in his
@@ -9665,7 +9665,7 @@ No single case brought to our notice, revealed the Accused as showing any sign o
 human feelings in his dealings with Jewish affairs, except when, according to his own
 words, he helped the daughter of his uncle (his stepmother's brother), who was halfJewish, and one more Jewish couple, on whose behalf this same uncle intervened
 (T/37, pp. 114-115). In all his activities the Accused displayed indefatigable energy,
-verging on overeagerness towards advancing the Final Solution, both in his general
+verging on overeagerness towards advancing the [[EVENT:event_389|Final Solution]], both in his general
 decisions and in his treatment of individual cases of Jews who sought to escape
 death.
 Many illustrations of this attitude have already been mentioned in this Judgment, in
@@ -9675,14 +9675,14 @@ this same point.
 applications for the granting of exceptions. He remembers that, when he once
 requested the grant of an exception in a certain case, the Accused described his (von
 Thadden's) approach as "weak-kneed" (knieweich). And in his statement, made in
-defence of the State Secretary, Steengracht, at Nuremberg (exhibit T/584), von
+defence of the State Secretary, Steengracht, at [[LOCATION:location_39|Nuremberg]] (exhibit T/584), von
 Thadden said that in the opinion of the German Foreign Ministry the immediate
-deportation of the Jews of Denmark was impossible for political reasons, but the
+deportation of the Jews of [[LOCATION:location_22|Denmark]] was impossible for political reasons, but the
 Accused 'ironically' informed him that pressure would be brought to bear upon the
 Foreign Ministry to reconsider its attitude.
-And after the failure of the action in Denmark - von Thadden continues - Guenther,
+And after the failure of the action in [[LOCATION:location_22|Denmark]] - von Thadden continues - Guenther,
 the Accused's deputy, told him that this was a case of sabotage, seemingly on the
-part of the German Embassy in Copenhagen, and that the Accused had already
+part of the German Embassy in [[LOCATION:location_102|Copenhagen]], and that the Accused had already
 reported the matter to the Reichsfuehrer (Himmler) and that he, Eichmann, would
 demand the head of the saboteur. (Today, von Thadden claims that he can no longer
 remember the details, but he does not go back on his declaration - p. 13 of his
@@ -9691,18 +9691,18 @@ evidence).
 Accused relinquishes his argument that he acted only out of routine. Here, he
 suddenly turns into a man of initiative, who 'ponders' things and who conceives a farreaching plan entirely on his own (Session 86, Vol. IV, p. xxxx12). This version is not
 worthy of belief, as we have already found above when speaking about the chapter
-on Hungary, but the very description of matters in this light contradicts that of the
+on [[LOCATION:location_24|Hungary]], but the very description of matters in this light contradicts that of the
 colourless figure which the Accused tries to assume. Thus he tells Sassen in a
 passage submitted by his Counsel (N/100):
 "I have always worked one hundred per cent, and above all I have thought over
 matters" (ich habe die Sache durchgedacht) "and when giving orders, I was certainly
 not lukewarm."
 Certainly, he was not lukewarm in giving his orders nor in his deeds, but energetic,
-full of initiative and active to the extreme in his efforts to carry out the Final Solution.
+full of initiative and active to the extreme in his efforts to carry out the [[EVENT:event_389|Final Solution]].
 He appears thus in September 1941, when his advice was "to kill by shooting" the
-thousands of Jews of Belgrade, and continued in this manner until the last days of
+thousands of Jews of [[LOCATION:location_138|Belgrade]], and continued in this manner until the last days of
 
-the Third Reich. The representative of the International Red Cross reports these
+the Third Reich. The representative of the [[ORGANIZATION:org_310|International Red Cross]] reports these
 words as coming from the Accused in April 1945:
 "Concerning the general Jewish problem, Eichmann was of the opinion that Himmler
 was at that moment about to consider humane methods. Eichmann personally did not
@@ -9720,7 +9720,7 @@ because of the attitude of the Accused, who demanded that the Jews from amongst
 the airmen be executed according to Hitler's order, and he refused to budge from this
 position. Koller rescued these Jews by mixing them with thousands of other prisoners
 in the prisoners of war camps, so that it was difficult to identify them.
-237. When carrying out the Final Solution, the Accused resorted to the psychological
+237. When carrying out the [[EVENT:event_389|Final Solution]], the Accused resorted to the psychological
 warfare tactics of misleading and confusing the enemy. In this connection, we shall
 here add only one of many illustrations. At his first meeting with the heads of
 Hungarian Jewry on 31 March 1944, the Accused gives certain instructions
@@ -9735,7 +9735,7 @@ outspoken with him. He will also be frank with us."
 This description, from the book by Munczi Ernoe, was confirmed by the Accused
 himself (Session 103, Vol. III, p. xxxx6; see also the declaration by Dr. Ernoe Petoe T/1157, p. 3).
 This, then, is the frank language used by the Accused, whilst the order for the
-deportation of Hungarian Jewry to Auschwitz is already in his pocket. Such a
+deportation of Hungarian Jewry to [[LOCATION:location_286|Auschwitz]] is already in his pocket. Such a
 measure of viciousness can only be shown by a man who does his criminal job
 wholeheartedly and with all his being.
 238. To conclude this chapter, in which we are concerned with the Accused's attitude
@@ -9745,7 +9745,7 @@ reveal his feelings:
 (a) In answer to a question by the Attorney General during cross-examination about
 an excerpt from the Sassen Document, wherein the pace of deportation from various
 countries is discussed, he stated as follows:
-"I speak of all countries. The same thing happened to us in Slovakia and in France,
+"I speak of all countries. The same thing happened to us in [[LOCATION:location_84|Slovakia]] and in [[LOCATION:location_30|France]],
 although there things began in a very hopeful manner (sehr hoffnungsvoll). The same
 thing happened to us in Holland where, at first, the transports rolled, until one could
 say that it was marvellous (es war eine Pracht). Only later were difficulties heaped
@@ -9758,14 +9758,14 @@ otherwise." (Session 104, Vol. IV, p. xxxx12)
 Thus, "substantially" this attitude of complete identification with his work is correct his joy in deporting Jews to their death. This is not the way in which a person who did
 this horrible work with any inner compunction, or even indifference, would have
 spoken.
-(b) While under arrest in Israel, he wrote in his memoirs what he had told Mueller, his
+(b) While under arrest in [[LOCATION:location_38|Israel]], he wrote in his memoirs what he had told Mueller, his
 superior, at the time:
 "I was considering the subject of `victory.' I said that I believed that in this way we
 must lose the War, since by what right were the Jews killed, whilst hundreds of
 thousands of German scoundrels, criminal and political, were not killed. Such
 wrongdoing will necessarily avenge itself." (T/44, p. 108)
 Therefore, his proposal when speaking to Mueller was to resort to the trusted remedy
-of the Gestapo: "To put 100,000 Germans against the wall." (Session 95, Vol. IV, pp.
+of the [[ORGANIZATION:org_344|Gestapo]]: "To put 100,000 Germans against the wall." (Session 95, Vol. IV, pp.
 xxxx29-30)
 We quote these words here, only to point out the Accused's trend of thought in
 regard to the extermination of the Jews. He had no inner reservations about the act
@@ -9779,12 +9779,12 @@ In his Statement to Superintendent Less, the Accused describes the matter in the
 following way:
 During the last days of the War, the men of his Section were depressed. In order to
 improve their morale, he told them that he was looking forward joyfully to the last
-battle over Berlin, because what he had in mind was, "if death does not find me, I at
+battle over [[LOCATION:location_1|Berlin]], because what he had in mind was, "if death does not find me, I at
 least will seek death," and here he quotes his own words:
 "Millions of German women, children and old people lost their lives in this way, this I
 said to the men and to the soldiers. For five years millions of the enemy attacked
 
-Germany. Millions of enemies were also annihilated, and according to my estimate,
+[[LOCATION:location_2|Germany]]. Millions of enemies were also annihilated, and according to my estimate,
 the War also cost five million Jews. Now all this is over, the Reich is lost. And should
 the end come now, I said, I shall also jump into the pit." (T/37, p. 308)
 And in his evidence before us, in answer to his Counsel (Session 88, Vol. IV, p.
@@ -9809,7 +9809,7 @@ the Jews were considered enemies of the Reich, in the language of the Nazi
 propagandists, which the Accused adopted in its entirety.
 This was not the only occasion on which the Accused voiced such sentiments. The
 witness Grell, who in the year 1944 was in charge of Jewish affairs at the German
-Embassy in Budapest, and who, in this capacity, was in continuous contact with the
+Embassy in [[LOCATION:location_31|Budapest]], and who, in this capacity, was in continuous contact with the
 Accused, says in his evidence in this case (pp. 7-8):
 "At the end of autumn of 1944, Eichmann once told me that the enemy powers
 regarded him as war criminal No. 1, and that he had on his conscience some six
@@ -9818,8 +9818,8 @@ interpreted this statement made by Eichmann as `the more enemies, the greater th
 honour.' I remembered these words only when the American prosecution brought
 them up before me. As far as I was concerned, this statement was part of his effort to
 stress his status or his personality."
-According to the affidavit by Dr. Wilhelm Hoettl (T/157), which served as evidence at
-Nuremberg, the Accused spoke to him in Budapest at the end of August 1944 and
+According to the affidavit by Dr. [[PERSON:person_452|Wilhelm Hoettl]] (T/157), which served as evidence at
+[[LOCATION:location_39|Nuremberg]], the Accused spoke to him in [[LOCATION:location_31|Budapest]] at the end of August 1944 and
 told him as well that,
 "He knows that the United Nations regard him as one of the main war criminals,
 because millions of Jewish lives are on his conscience."
@@ -9831,12 +9831,12 @@ of six million victims, but retreated from his above-mentioned affidavit, saying
 
 Accused did not tell him that he felt guilty of the death of those six million Jews (p.
 61). The gravest version of this statement we find in the affidavit made by Wisliceny
-at Nuremberg on 24 November 1945 (T/56, paragraph 10 of the affidavit):
+at [[LOCATION:location_39|Nuremberg]] on 24 November 1945 (T/56, paragraph 10 of the affidavit):
 "He [the Accused] told me on the occasion of our last meeting in February 1945, at
 which time we were discussing our fates upon losing the War: `I will laugh when I
 jump into the grave, because of the feeling that I killed five million Jews. This gives
 me great satisfaction and gratification'." (See also the evidence of Wisliceny at
-Nuremberg, T/58, p. 22)
+[[LOCATION:location_39|Nuremberg]], T/58, p. 22)
 . Out of caution, let us assume for the benefit of the Accused that he did not at the
 time confess his personal responsibility for the death of five or six million Jews. But
 the fact remains - undisputed in our opinion - that at the end of the War he expressed
@@ -9850,7 +9850,7 @@ murder in which he had been engaged.
 in our opinion, the evaluation given by Hoess, who wrote about the Accused (T/88):
 "Eichmann was a man full of life, always active... He always had new plans and
 always sought innovations and improvements. He never knew rest. He was wholly
-and compulsively obsessed with the Jewish Question and with the `Final Solution'
+and compulsively obsessed with the Jewish Question and with the `[[EVENT:event_389|Final Solution]]'
 which had been ordered" (Von der Judenfrage und der befohlenen "Endloesung" war
 er besessen)..."Eichmann was totally obsessed by his mission and convinced that
 the campaign of extermination was essential in order to rescue the German nation in
@@ -9865,7 +9865,7 @@ matters in every respect.
 the voice of his conscience, as was demanded of him by the regime to which he was
 wholeheartedly devoted, and to which he had sold himself body and soul. Thus far,
 Dr. Grueber's description of the Landsknecht suits the Accused. Thus, he sank from
-one depth to another until, in the implementation of the "Final Solution," he reached
+one depth to another until, in the implementation of the "[[EVENT:event_389|Final Solution]]," he reached
 the nethermost depths. But it is not to be said of him that his mind also ceased to
 function, or that it functioned only out of blind obedience. He believed wholeheartedly
 in the National Socialists' bogus ideology that the Jews were the enemies of the
@@ -9887,7 +9887,7 @@ disputed that in all his activities the Accused always acted together with other
 this is how he was charged in the indictment. We shall not see the complete picture if
 we place the responsibility for the entire extermination campaign upon the Accused
 alone. Above him, there were the men at the top, beginning with Hitler himself - those
-who were the initiators of the Final Solution, and who gave the basic orders which
+who were the initiators of the [[EVENT:event_389|Final Solution]], and who gave the basic orders which
 guided the Accused; and alongside the Accused and his Section, many others were
 active, all of them determined to carry out the Fuehrer's order, each one of them in
 his own particular field of action:
@@ -9903,14 +9903,14 @@ Ministry of Finance and the Reichsbank, which took part in plundering the proper
 the victims; the Fuehrer's Chancellery, which was active in the introduction of the
 method of killing by gas; and also the German Army Command, which tainted itself
 by acting in partnership with the SS in the extermination of the Jews in the East, in
-Greece, and in other countries.
-Not only these, but all the authorities of the Reich and of the National Socialist Party,
+[[LOCATION:location_26|Greece]], and in other countries.
+Not only these, but all the authorities of the Reich and of the [[ORGANIZATION:org_368|National Socialist Party]],
 whose sphere of activity touched upon Jewish affairs - they all competed with one
 another to excel in furthering the common end - the complete extermination of the
 Jews, the enemies of the Reich, by every means in their power, efficiently and
 speedily.
 But all this does not detract from the fact that the Accused's Section in the RSHA
-stood at the very centre of the Final Solution; and the guilt of the others does not
+stood at the very centre of the [[EVENT:event_389|Final Solution]]; and the guilt of the others does not
 lessen by one iota the personal guilt of the Accused.
 243. The Accused's evidence in this case was not truthful evidence, in spite of his
 repeated declarations that he was reconciled to his fate, knowing the gravity of the
@@ -9977,11 +9977,11 @@ have been proved before us.
 (1) We, therefore, convict the Accused, pursuant to the first count of the indictment,
 of a crime against the Jewish People, an offence under Section 1(a)(1) of the Nazis
 and Nazi Collaborators (Punishment) Law 5710-1950, in that during the period from
-August 1941 to May 1945, in Germany, in the territories of the Axis States, in the
-areas which were occupied by Germany and by the Axis States, and in the areas
-which were subject to the authority of Germany and the Axis States, he, together with
+August 1941 to May 1945, in [[LOCATION:location_2|Germany]], in the territories of the Axis States, in the
+areas which were occupied by [[LOCATION:location_2|Germany]] and by the Axis States, and in the areas
+which were subject to the authority of [[LOCATION:location_2|Germany]] and the Axis States, he, together with
 others, caused the deaths of millions of Jews, with the purpose of implementing the
-plan which was known as the "Final Solution of the Jewish Question," with intent to
+plan which was known as the "[[EVENT:event_389|Final Solution]] of the Jewish Question," with intent to
 exterminate the Jewish People.
 We acquit the Accused of a crime against the Jewish People, by reason of the acts
 attributed to him in this count of the indictment during the period until August 1941.
@@ -9994,7 +9994,7 @@ law, in that during the period from August 1941 to May 1945, in the territories 
 areas mentioned in paragraph (1) of the conviction, as set out above, he, together
 with others, subjected millions of Jews to living conditions which were likely to bring
 about their physical destruction, in order to implement the plan which was known as
-the "Final Solution of the Jewish Question," with intent to exterminate the Jewish
+the "[[EVENT:event_389|Final Solution]] of the Jewish Question," with intent to exterminate the Jewish
 People.
 We acquit the Accused of a crime against the Jewish People by reason of the acts
 attributed to him in this count during the period until August 1941.
@@ -10011,7 +10011,7 @@ count during the period until August 1941.
 Jewish People, an offence under Section 1(a)(1) of the above-mentioned Law, in that
 during the years 1943 and 1944 he took measures calculated to prevent births
 among Jews, by directing that births be banned and pregnancies terminated among
-Jewish women in the Terezin Ghetto, with intent to exterminate the Jewish People.
+Jewish women in the [[LOCATION:location_34|Terezin]] Ghetto, with intent to exterminate the Jewish People.
 We acquit the Accused of having committed all other acts mentioned in the fourth
 count of the indictment.
 (5) We convict the Accused, pursuant to the fifth count, of a crime against humanity,
@@ -10023,14 +10023,14 @@ population in those countries and in those areas.
 We also convict the Accused of a crime against humanity, an offence under Section
 1(a)(2) of the above-mentioned Law, in that he, together with others, caused during
 the period from March 1938 to October 1941, the expulsion of Jews from their homes
-in the territories of the Old Reich, Austria and the Protectorate of Bohemia-Moravia,
+in the territories of the Old Reich, [[LOCATION:location_14|Austria]] and the Protectorate of [[LOCATION:location_88|Bohemia]]-[[LOCATION:location_89|Moravia]],
 by way of compulsory emigration through the Central Offices for Jewish Emigration in
-Vienna, Prague and Berlin.
+[[LOCATION:location_3|Vienna]], [[LOCATION:location_4|Prague]] and [[LOCATION:location_1|Berlin]].
 We also convict the Accused of a crime against humanity, an offence under Section
 1(a)(2) of the above-mentioned Law, in that during the period from December 1939 to
 March 1941 he, together with others, caused the deportation of Jews to Nisko and
 the deportation of Jews from areas in the East annexed to the Reich, and from the
-Reich area itself into the German-occupied area in the East and to France.
+Reich area itself into the German-occupied area in the East and to [[LOCATION:location_30|France]].
 (6) We convict the Accused, pursuant to the sixth count, of a crime against humanity,
 an offence under Section 1(a)(2) of the above-mentioned Law, in that, when carrying
 out the activities mentioned in paragraphs 1-5 of the conviction, he persecuted Jews
@@ -10044,8 +10044,8 @@ with the murder, destruction, starvation and deportation of those Jews.
 (8) We convict the Accused, pursuant to the eighth count, of a war crime, an offence
 under Section 1(a)(3) of the above- mentioned Law, in that he performed the acts of
 persecution, expulsion and murder mentioned in the preceding counts, so far as
-these were committed during the Second World War, against Jews from among the
-populations of the countries occupied by Germany and the other countries of the Axis.
+these were committed during the [[EVENT:event_383|Second World War]], against Jews from among the
+populations of the countries occupied by [[LOCATION:location_2|Germany]] and the other countries of the Axis.
 (9) We convict the Accused, pursuant to the ninth count, of a crime against humanity,
 an offence under Section 1(a)(2) of the above-mentioned Law, in that he, together
 
@@ -10057,14 +10057,14 @@ humanity, an offence under Section 1(a)(2) of the above-mentioned Law, in that i
 more than fourteen thousand Slovenes, from their homes.
 (11) We convict the Accused, pursuant to the eleventh count, of a crime against
 humanity, an offence under Section 1(a)(2) of the above-mentioned Law, in that
-during the Second World War, he, together with others, caused the expulsion of a
-civilian population, namely tens of thousands of Gypsies from Germany and Germanoccupied areas, and their transportation to the German-occupied areas in the East.
+during the [[EVENT:event_383|Second World War]], he, together with others, caused the expulsion of a
+civilian population, namely tens of thousands of Gypsies from [[LOCATION:location_2|Germany]] and Germanoccupied areas, and their transportation to the German-occupied areas in the East.
 It has not been proved before us that the Accused knew that the Gypsies were being
 transported to extermination.
 (12) We convict the Accused, pursuant to the twelfth count, of a crime against
 humanity, an offence under Section 1(a)(2) of the above-mentioned Law, in that in
 1942, he, together with others, caused the expulsion of 93 of the children of the
-Czech village of Lidice. It has not been proved before us that the Accused is guilty of
+Czech village of [[LOCATION:location_37|Lidice]]. It has not been proved before us that the Accused is guilty of
 the murder of these children.
 (13) We acquit the Accused of the charges of belonging to hostile organizations,
 under the thirteenth, fourteenth and fifteenth counts, with respect to the period until
@@ -10074,7 +10074,7 @@ an offence under Section 3(a) of the above-mentioned Law, in that he was, as fro
 May 1941, a member of the organization known as Schutzstaffeln der NSDAP (SS),
 which was declared a criminal organization by the International Tribunal which tried
 the Major War Criminals, and in that, as a member of such organization, he took part
-in acts that were declared criminal in Article 6 of the London Charter of 8 August
+in acts that were declared criminal in Article 6 of the [[LOCATION:location_67|London]] Charter of 8 August
 1945.
 (15) We convict the Accused, pursuant to the fourteenth count, of membership of a
 hostile organization, an offence under Section 3(a) of the above-mentioned Law, in
@@ -10082,13 +10082,13 @@ that, as from May 1941, he was a member of the organization known as
 Sicherheitsdienst des Reichsfuehrers-SS (SD) which was declared a criminal
 organization by the International Military Tribunal which tried the Major War Criminals,
 and as a member of such organization he took part in acts declared criminal in Article
-6 of the London Charter of 8 August 1945.
+6 of the [[LOCATION:location_67|London]] Charter of 8 August 1945.
 (16) We convict the Accused, pursuant to the fifteenth count, of membership of a
 hostile organization, an offence under Section 3(a) of the above-mentioned Law, in
 that he was, from May 1940, a member of the organization known as the Geheime
 Staatspolizei, which was declared a criminal organization by the International Military
 Tribunal which tried the Major War Criminals, and as a member of such organization
-took part in acts which were declared criminal in Article 6 of the London Charter of 8
+took part in acts which were declared criminal in Article 6 of the [[LOCATION:location_67|London]] Charter of 8
 August 1945.
 
 

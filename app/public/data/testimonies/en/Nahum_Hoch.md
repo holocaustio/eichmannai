@@ -1,4 +1,4 @@
-# Testimony of Nahum Hoch
+# Testimony of [[PERSON:witness_76|Nahum Hoch]]
 
 **Session:** 71
 
@@ -8,21 +8,21 @@
 
 **Witness:** Nachum Hoch.
 
-**Attorney General:** Mr. Hoch, you live at 49 Ben Yehuda Street, Haifa?
+**Attorney General:** Mr. Hoch, you live at 49 Ben Yehuda Street, [[LOCATION:location_127|Haifa]]?
 
 **Witness Hoch:** Yes.
 
-**Q.**Were you born in Romania?
+**Q.**Were you born in [[LOCATION:location_129|Romania]]?
 
 **A.**Yes.
 
-**Q.**And in 1944, you were deported from Transylvania to Auschwitz?
+**Q.**And in 1944, you were deported from [[LOCATION:location_108|Transylvania]] to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**From the village of Borsa in Transylvania.
+**A.**From the village of Borsa in [[LOCATION:location_108|Transylvania]].
 
-**Presiding Judge:** Did it belong to Transylvania?
+**Presiding Judge:** Did it belong to [[LOCATION:location_108|Transylvania]]?
 
-**Witness Hoch:** Yes. It belonged to Transylvania.
+**Witness Hoch:** Yes. It belonged to [[LOCATION:location_108|Transylvania]].
 ---
 
 **Attorney General:** Your group, together with you, consisted of your father, your mother, your brother, and also three sisters - is that right?
@@ -39,7 +39,7 @@
 
 **Q.**After the selection, they separated you from the other members of your family?
 
-**A.**When we arrived at Birkenau, I was separated from my father - first of all from my mother and the children, and afterwards from my father. My father still managed to put his long raincoat that he had with him on me, so that I should appear to be somewhat older. They directed him to the left and me to the right, amongst those who were left behind to work.
+**A.**When we arrived at [[LOCATION:location_286|Birkenau]], I was separated from my father - first of all from my mother and the children, and afterwards from my father. My father still managed to put his long raincoat that he had with him on me, so that I should appear to be somewhat older. They directed him to the left and me to the right, amongst those who were left behind to work.
 
 **Presiding Judge:** In what year were you born?
 
@@ -55,7 +55,7 @@
 
 **Q.**We have already heard about that from another witness, and we shall not trouble you with this matter. I would ask you to tell us what happened after the Day of Atonement, when you attempted to take an additional ration of food.
 
-**A.**I tried to receive an additional ration of food - I had not yet got it, I merely tried. They put the upper part of my body into an oven - the kind they had at Auschwitz - and they struck me on the lower part of my body with a thick pole - like the poles with which they used to carry the food. They first gave me ten blows. I fainted. They poured water over me. They added another ten blows. Again I fainted, and they poured water over me - until they completed the twenty-fifth blow. Thereafter, I was unable to move. I was left there for a whole day. To this day - I ask the Court's pardon - I have to sit on one side, and I cannot sit on my right side, as a result of these floggings.
+**A.**I tried to receive an additional ration of food - I had not yet got it, I merely tried. They put the upper part of my body into an oven - the kind they had at [[LOCATION:location_286|Auschwitz]] - and they struck me on the lower part of my body with a thick pole - like the poles with which they used to carry the food. They first gave me ten blows. I fainted. They poured water over me. They added another ten blows. Again I fainted, and they poured water over me - until they completed the twenty-fifth blow. Thereafter, I was unable to move. I was left there for a whole day. To this day - I ask the Court's pardon - I have to sit on one side, and I cannot sit on my right side, as a result of these floggings.
 
 **Presiding Judge:** Were any of your bones broken?
 
@@ -69,7 +69,7 @@
 
 **A.**We were taken from what remained of the children's block. We washed ourselves, our clothes were disinfected, and we were returned to the block where we had been that day. The next morning, there was a Lagerappell ( camp roll- call), and as we were standing outside the barracks for the camp roll-call, we were surrounded by SS men with machine guns, and we were taken to Blocks 11 and 13 - or 9 and 11, I don't remember exactly. We were kept inside these blocks for two days without food.
 
-Our situation there was already well known - it was four or five months, roughly, since we had reached Birkenau. With the first transport, when the children were taken, we did not yet know where they were being sent to; we thought they were being taken to work. At the second selection, the destination was already known to us. Since they had been shut in those blocks - 11 and 13 this time - the moment they put us into those huts, which were notorious as a kind of quarantine before going on to the crematorium, we already knew what awaited us.
+Our situation there was already well known - it was four or five months, roughly, since we had reached [[LOCATION:location_286|Birkenau]]. With the first transport, when the children were taken, we did not yet know where they were being sent to; we thought they were being taken to work. At the second selection, the destination was already known to us. Since they had been shut in those blocks - 11 and 13 this time - the moment they put us into those huts, which were notorious as a kind of quarantine before going on to the crematorium, we already knew what awaited us.
 
 On the second day, in the evening, it was the eve of the Simhat Torah, we, ten children, planned some kind of a break out from these huts, even if this break out were to be only for the sake of demonstration. We planned it; in this hut the entrances on both sides were locked.
 
@@ -139,7 +139,7 @@ We reached the entrance door of the inner crematorium room; once again, we stopp
 
 **Witness Hoch:** Yes, he spoke Yiddish. He said: "Singt, chevre, singt!" (Sing, fellows, sing). Some of us were petrified and could not utter a sound, like me; others began to recite the prayer of confession, and yet others actually sang. They took us through a small vestibule and opened a large door and put us into this hall. There was absolute darkness in this hall, apart from the light that entered through the opening by which we had come in. We were inside, they had already closed the door on us, and then, for the first time, I heard crying.
 
-After some time - perhaps a few seconds, perhaps a few minutes - the door was opened again, and we were told to return to the same hall where we had been previously. They directed us to one side of the hall, and then a senior SS officer - today I assume that it was Hoess, but I am not certain of that, since it was the same officer who had first separated us when my father and I reached Birkenau. I am not sure, but it seems to me that it was he.
+After some time - perhaps a few seconds, perhaps a few minutes - the door was opened again, and we were told to return to the same hall where we had been previously. They directed us to one side of the hall, and then a senior SS officer - today I assume that it was Hoess, but I am not certain of that, since it was the same officer who had first separated us when my father and I reached [[LOCATION:location_286|Birkenau]]. I am not sure, but it seems to me that it was he.
 
 **Presiding Judge:** Do you mean to refer to the camp commandant, Hoess?
 
@@ -173,17 +173,17 @@ In this fashion, he chose fifty boys. In the middle of the process of choosing, 
 
 **Q.**All the others were put to death at that time in the gas chambers?
 
-**A.**Yes - I never met any of those boys afterwards. Of the fifty, there are, incidentally, three in Israel - two in Haifa and one in Jaffa, two brothers.
+**A.**Yes - I never met any of those boys afterwards. Of the fifty, there are, incidentally, three in [[LOCATION:location_38|Israel]] - two in [[LOCATION:location_127|Haifa]] and one in [[LOCATION:location_169|Jaffa]], two brothers.
 
 **Presiding Judge:** Where?
 
-**Witness Hoch:** One in Jaffa and two in Haifa.
+**Witness Hoch:** One in [[LOCATION:location_169|Jaffa]] and two in [[LOCATION:location_127|Haifa]].
 
-**Attorney General:** The whole episode is well known in holocaust literature, Your Honour - it is described there.
+**Attorney General:** The whole episode is well known in [[EVENT:event_386|holocaust]] literature, Your Honour - it is described there.
 
 **Presiding Judge:** There are two brothers, you say?
 
-**Witness Hoch:** I was not one of them - the two who are in Haifa are brothers who were chosen at that time, two out of the fifty.
+**Witness Hoch:** I was not one of them - the two who are in [[LOCATION:location_127|Haifa]] are brothers who were chosen at that time, two out of the fifty.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 

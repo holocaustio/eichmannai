@@ -1,4 +1,4 @@
-# Testimony of Noach Zabludowicz
+# Testimony of [[PERSON:witness_101|Noach Zabludowicz]]
 
 **Session:** 21
 
@@ -8,47 +8,47 @@
 
 **A.**Noach Zabludowicz.
 
-**Attorney General:** Do you live in Holon?
+**Attorney General:** Do you live in [[LOCATION:location_155|Holon]]?
 
 **Presiding Judge:** Age and address, please.
 
-**Attorney General:** Yes. You live in Holon, at 14 Rehov Kalischer. You were born in 1919 in Ciechanow, and you work at the Electricity Corporation in Tel Aviv?
+**Attorney General:** Yes. You live in [[LOCATION:location_155|Holon]], at 14 Rehov Kalischer. You were born in 1919 in [[LOCATION:location_156|Ciechanow]], and you work at the Electricity Corporation in [[LOCATION:location_42|Tel Aviv]]?
 
 **Witness Zabludowicz:** Yes.
 
-**Q.**At the outbreak of the Second World War were you in Ciechanow?
+**Q.**At the outbreak of the [[EVENT:event_383|Second World War]] were you in [[LOCATION:location_156|Ciechanow]]?
 
 **A.**Yes.
 
-**Q.**Where is Ciechanow?
+**Q.**Where is [[LOCATION:location_156|Ciechanow]]?
 
-**A.**It is near the border of Eastern Germany, a little more than 30 kilometres away.
+**A.**It is near the border of Eastern [[LOCATION:location_2|Germany]], a little more than 30 kilometres away.
 
-**Q.**Was this annexed to Germany as "Eingegliederte Gebiete" (Incorporated Territories) after the occupation of Poland?
+**Q.**Was this annexed to [[LOCATION:location_2|Germany]] as "Eingegliederte Gebiete" (Incorporated Territories) after the occupation of [[LOCATION:location_5|Poland]]?
 
 **A.**It was "Neue Heimat" (new homeland).
 
-**Q.**Was it annexed to Germany?
+**Q.**Was it annexed to [[LOCATION:location_2|Germany]]?
 
 **A.**Yes.
 
-**Q.**Wasn't it part of the Generalgouvernement?
+**Q.**Wasn't it part of the [[LOCATION:location_152|Generalgouvernement]]?
 
 **A.**No.
 
-**Q.**I understand that after the outbreak of the War and the transfer of people from Ciechanow to Warsaw, you remained in Warsaw until the surrender and thereafter you returned to Ciechanow?
+**Q.**I understand that after the outbreak of the War and the transfer of people from [[LOCATION:location_156|Ciechanow]] to [[LOCATION:location_93|Warsaw]], you remained in [[LOCATION:location_93|Warsaw]] until the surrender and thereafter you returned to [[LOCATION:location_156|Ciechanow]]?
 
 **A.**Yes.
 
 **Q.**Tell us about the way back. Do you remember that the train stopped at one of the stations?
 
-**A.**This was at the station Nasielsk, about 30 kilometres from home. When the train reached the station, the stationmaster came out - he was a German in a brown uniform - of the SS I believe - and ordered all the Jews to leave the train. Not one left - and most of the passengers on the train were Jews. When he turned to us a second and a third time and no one got off, he said that he wanted everyone to leave the train. All alighted from the train and stood there in rows. With me were my father and my two brothers. My mother had already returned some time before in a cart with my small brothers and sisters from Warsaw. Near me stood a woman, a teacher, with a few-months' old baby girl in her arms. Then the station commander turned to the crowd and said: "All Jews are to step out" and no one did so. He came up directly to the woman who was standing near me and asked her, in German: "Are you Jewish?" She answered in Polish that she didn't understand. He didn't ask anything further. He shot the baby. The woman shrieked and then he shot her, too, and said:
+**A.**This was at the station Nasielsk, about 30 kilometres from home. When the train reached the station, the stationmaster came out - he was a German in a brown uniform - of the SS I believe - and ordered all the Jews to leave the train. Not one left - and most of the passengers on the train were Jews. When he turned to us a second and a third time and no one got off, he said that he wanted everyone to leave the train. All alighted from the train and stood there in rows. With me were my father and my two brothers. My mother had already returned some time before in a cart with my small brothers and sisters from [[LOCATION:location_93|Warsaw]]. Near me stood a woman, a teacher, with a few-months' old baby girl in her arms. Then the station commander turned to the crowd and said: "All Jews are to step out" and no one did so. He came up directly to the woman who was standing near me and asked her, in German: "Are you Jewish?" She answered in Polish that she didn't understand. He didn't ask anything further. He shot the baby. The woman shrieked and then he shot her, too, and said:
 
 > "Now, all of you get inside, back into the train."
 
-**Q.**Let us come to the middle of 1940. Did any particular administration come to Ciechanow then?
+**Q.**Let us come to the middle of 1940. Did any particular administration come to [[LOCATION:location_156|Ciechanow]] then?
 
-**A.**A German administration. It was the SS, SD, the Gestapo and the S**A.**
+**A.**A German administration. It was the SS, SD, the [[ORGANIZATION:org_344|Gestapo]] and the S**A.**
 
 **Q.**A civil administration?
 
@@ -71,7 +71,7 @@ When all the Jews had been lined up, the Mayor - the "Buergermeister"came out an
 
 **Q.**What about food? What food did you receive?
 
-**A.**They confiscated all the Jewish bakeries, and one bakery remained for the Jewish public, and then they distributed two hundred grams of bread to each Jew. Jews were forbidden to walk in the street from 7.30 p.m., from the time it became dark. When the Jews were shut off in their homes, the Gestapo men began their brutal treatment. I still remember several of their names: Rosmann, Barsel and others like them, who came late at night... Pardon me, I want to go back for a moment: At that time the Jews were ordered to restrict their area of residence.
+**A.**They confiscated all the Jewish bakeries, and one bakery remained for the Jewish public, and then they distributed two hundred grams of bread to each Jew. Jews were forbidden to walk in the street from 7.30 p.m., from the time it became dark. When the Jews were shut off in their homes, the [[ORGANIZATION:org_344|Gestapo]] men began their brutal treatment. I still remember several of their names: Rosmann, Barsel and others like them, who came late at night... Pardon me, I want to go back for a moment: At that time the Jews were ordered to restrict their area of residence.
 
 With us it was a ghetto, but it was the only ghetto that was not closed although it was a defined area which Jews were forbidden to leave. Anyone found outside this restricted area was shot. At that time they destroyed many of the old houses in the centre of the town; they were mainly Jewish houses and the people whose good homes were taken away had to enter the restricted area.
 
@@ -79,7 +79,7 @@ With us it was a ghetto, but it was the only ghetto that was not closed although
 
 **Witness Zabludowicz:** Of 1940-1941. We took another four families into the apartment in which we lived. The Germans began their cruel treatment. They used to knock on the entrance doors, break down these doors and enter the houses. Inside the rooms people had settled down by making tiers of bunks in each room, right up to the ceiling, at three or four levels, and couples occupied each bed. They used to come into the houses and say:"You up on top - come down; you over there - come down; you down below - get off." Then they would ask the man "Why are you sleeping with this woman?" The reply would be: "This is my wife." The same way they questioned another and a third. And then they would exchange the men and the women and then they would compel them at pistol point to have sexual relations in the presence of the children and all their families; and all kinds of things, and blows and killing.
 
-There was a terrible instance the first time they entered a courtyard in the market street late at night, between 11 and 12, and shouted into the yard: "Hurry up, all Jews are to get out." The men began running. They seized the last five Jews and took them into custody. After several weeks of being detained in prison, the order came from Berlin: Since these Jews had shirked work, they received a death sentence by hanging. They erected a gallows in the centre of the town and hanged them in the presence of all the Jews of the town who were forced to be present. They were left hanging for 24 hours.
+There was a terrible instance the first time they entered a courtyard in the market street late at night, between 11 and 12, and shouted into the yard: "Hurry up, all Jews are to get out." The men began running. They seized the last five Jews and took them into custody. After several weeks of being detained in prison, the order came from [[LOCATION:location_1|Berlin]]: Since these Jews had shirked work, they received a death sentence by hanging. They erected a gallows in the centre of the town and hanged them in the presence of all the Jews of the town who were forced to be present. They were left hanging for 24 hours.
 
 **Q.**They were left hanging for 24 hours?
 
@@ -89,7 +89,7 @@ There was a terrible instance the first time they entered a courtyard in the mar
 
 **A.**For the Reichsdeutscher Kessler.
 
-**Q.**Were there deportations from Ciechanow?
+**Q.**Were there deportations from [[LOCATION:location_156|Ciechanow]]?
 
 **A.**Yes.
 
@@ -103,9 +103,9 @@ There was a terrible instance the first time they entered a courtyard in the mar
 
 **Q.**Where were the Jews deported to?
 
-**A.**To Auschwitz.
+**A.**To [[LOCATION:location_286|Auschwitz]].
 
-**Q.**What was the food situation in Ciechanow - did you have anything to eat?
+**Q.**What was the food situation in [[LOCATION:location_156|Ciechanow]] - did you have anything to eat?
 
 **A.**The food situation was very bad. First of all, Jews were not allowed to walk in the streets. Whoever walked in the street was beaten up. Whoever fell into the hands of the Germans was given blows, whether he removed his hat or not, whether it was a child or an adult, whether it was a woman or a man - everyone got his beating. And the food was issued according to coupons and was very limited and very bad.
 
@@ -163,7 +163,7 @@ Attorney General: Let us leave aside these details. In the end did they find you
 
 **Q.**What happened then?
 
-**A.**At the police station I was arrested and they took me to the Gestapo. At the Gestapo I received a reception like this. It was 12 o'clock. They had all gone to lunch. Only the Commander was present. He read out the charge sheet. He asked:
+**A.**At the police station I was arrested and they took me to the [[ORGANIZATION:org_344|Gestapo]]. At the [[ORGANIZATION:org_344|Gestapo]] I received a reception like this. It was 12 o'clock. They had all gone to lunch. Only the Commander was present. He read out the charge sheet. He asked:
 
 "Wisst Du warum man hat Dir hergebracht?" (Do you know why you have been brought here - (in broken German)) and I said: "Yes, I do, aber das alles ist nicht wahr" - (but all this is not true).
 
@@ -175,9 +175,9 @@ Attorney General: Let us leave aside these details. In the end did they find you
 
 **A.**He said to me "Du Saujude, so frech bist Du noch?" (You Jewish swine, you are still so impertinent?). He went to a cupboard and took out a whip with a plaited lash at the end of which there were pieces of lead and gave me a savage beating over the head. My head swelled and I was oozing blood all over and couldn't see. He said "Du Hund, Du hast eine Vorspeise, aber Du kommst kein Lebendiger davon heraus" (You cur - you have had the hors d'oeuvre but you will not get out of here alive).
 
-Two weeks later I was summoned to an interrogation at the Gestapo. There was a call inside the prison "Open the door." The man in charge inside the prison, one of the prisoners, shouted "Achtung" (Attention) and everybody stood up. Then they called "Zabludowicz, komm mal heraus!" (Zabludowicz, come out). When I approached the door, I asked whether I should get dressed, for I was wearing a shirt without trousers. He said "Nein, Du brauchst Dich nicht anziehen" (No, you don't have to get dressed), and he took me outside. When I came to the corridor, he stopped me. One of the Gestapo men was standing there - I don't remember his title, his rank - and he bound my hands in the most modern way, through the legs, took out a revolver and said: "Pass mal auf, wenn Du erweiterst Dich weiter als drei Schritte, bist Du erschossen" (Take note, if you move more than three paces away, you will be shot).
+Two weeks later I was summoned to an interrogation at the [[ORGANIZATION:org_344|Gestapo]]. There was a call inside the prison "Open the door." The man in charge inside the prison, one of the prisoners, shouted "Achtung" (Attention) and everybody stood up. Then they called "Zabludowicz, komm mal heraus!" (Zabludowicz, come out). When I approached the door, I asked whether I should get dressed, for I was wearing a shirt without trousers. He said "Nein, Du brauchst Dich nicht anziehen" (No, you don't have to get dressed), and he took me outside. When I came to the corridor, he stopped me. One of the [[ORGANIZATION:org_344|Gestapo]] men was standing there - I don't remember his title, his rank - and he bound my hands in the most modern way, through the legs, took out a revolver and said: "Pass mal auf, wenn Du erweiterst Dich weiter als drei Schritte, bist Du erschossen" (Take note, if you move more than three paces away, you will be shot).
 
-That day was market day, it was a Tuesday, I left the prison and they brought me to the Gestapo. I walked all the time with my head facing backwards since I did not know what he meant by three paces. When I reached the Gestapo building, they received me "fairly well," evidently they were already waiting for me, and the first question was "Was, bist Du ein Jude?" (Are you a Jew?). I replied "Yes." They asked "Wo hast Du Dein Schandfleck?" (Where is your badge of shame?).
+That day was market day, it was a Tuesday, I left the prison and they brought me to the [[ORGANIZATION:org_344|Gestapo]]. I walked all the time with my head facing backwards since I did not know what he meant by three paces. When I reached the [[ORGANIZATION:org_344|Gestapo]] building, they received me "fairly well," evidently they were already waiting for me, and the first question was "Was, bist Du ein Jude?" (Are you a Jew?). I replied "Yes." They asked "Wo hast Du Dein Schandfleck?" (Where is your badge of shame?).
 
 Before I could even manage to answer as to what happened inside the prison, I received a "warm" reception. One of the officers came in and said:"Der Mann gehoert heute zu mir" (This man belongs to me today), and he summoned me to his room. He seated me comfortably on a chair. He actually made a "good" impression on me - like the others. He turned to me and said: "Herr Zabludowicz, rauchen Sie bitte?" (Mr. Zabludowicz - please, do you smoke?). I said "No." The first question was that I should tell him of the incident which I caused on Saturday. I told him. I did not omit the smallest detail of what had happened. I told him exactly what had taken place. He asked: "Do you know what the penalty is for that?" I said: "I know." He said: "I am prepared to help you on condition that you will be released from here and go straight home. I know very well that you have not been listening to the radio. But tell me only who listened to the radio and you will go straight home from here."
 
@@ -191,7 +191,7 @@ Before I could even manage to answer as to what happened inside the prison, I re
 
 **Presiding Judge:** In your name?
 
-**A.**In my name, not Noach Zabludowicz but Robert Zabludowicz.
+**A.**In my name, not [[PERSON:witness_101|Noach Zabludowicz]] but Robert Zabludowicz.
 
 **Presiding Judge:** And this was so from 1940 to 1942?
 
@@ -207,11 +207,11 @@ Before I could even manage to answer as to what happened inside the prison, I re
 
 **Presiding Judge:** Now let us return to this interrogation.
 
-**Witness Zabludowicz:** In the interrogation I said to the officer: "Commander, Sir, whatever I did - I did. I beg your pardon twenty thousand times: The whole week I was away. I worked on the route from our village to Tilsit - that is in East Prussia, the last place on the border with Lithuania. I was away the whole week, and on Saturday, at noon, I came home.
+**Witness Zabludowicz:** In the interrogation I said to the officer: "Commander, Sir, whatever I did - I did. I beg your pardon twenty thousand times: The whole week I was away. I worked on the route from our village to Tilsit - that is in East [[LOCATION:location_91|Prussia]], the last place on the border with [[LOCATION:location_7|Lithuania]]. I was away the whole week, and on Saturday, at noon, I came home.
 
 **Q.**What were you hauling there?
 
-**A.**The Germans used to travel between the villages and they took various things. They took all the poultry, removed their heads with an axe, threw them into crates and wrote on them "Maschinenteile, zerbrechlich, nicht umkehren" (Machine parts, fragile, do not turn upside down). They sent these crates to Germany, together with pigs and chickens. And I was the honest person who carried this. I said to this officer:"Whatever I did - I did. I admit this and I am ready to receive my punishment. But as far as the radio is concerned, I am not prepared to tell." And thus it went on from 8 o'clock in the morning...
+**A.**The Germans used to travel between the villages and they took various things. They took all the poultry, removed their heads with an axe, threw them into crates and wrote on them "Maschinenteile, zerbrechlich, nicht umkehren" (Machine parts, fragile, do not turn upside down). They sent these crates to [[LOCATION:location_2|Germany]], together with pigs and chickens. And I was the honest person who carried this. I said to this officer:"Whatever I did - I did. I admit this and I am ready to receive my punishment. But as far as the radio is concerned, I am not prepared to tell." And thus it went on from 8 o'clock in the morning...
 
 **Q.**What was the suggestion, to inform on people...?
 
@@ -237,7 +237,7 @@ There was a semi-circular chair there and it had openings. They told me to lie d
 
 Then they said: "Der Hund hat uns den Stuhl kaputt gemacht" (The dog has broken the chair for us), and they seized the legs, they were round legs made of hard wood, we used to call it "redwood," oak, and they began to beat me on my head with these legs until there were no more pieces of wood left. I fell down and fainted, and then they poured over me a bucket of water that had been standing in the room. I regained consciousness somewhat. The room was full of blood.
 
-It was one o'clock. At one o'clock they looked at their watches and said: "Wir muessen Mittag essen gehen" (We have to go for lunch). There was a man there walking around, his name was Bresler, he used to wander around the streets of the town, and they told him to watch me until they returned.
+It was one o'clock. At one o'clock they looked at their watches and said: "Wir muessen Mittag [[LOCATION:location_117|essen]] gehen" (We have to go for lunch). There was a man there walking around, his name was Bresler, he used to wander around the streets of the town, and they told him to watch me until they returned.
 
 **Q.**Did you ask him to finish you off?
 
@@ -249,12 +249,12 @@ They put the two ends which had clamps on them on my hand. They began to turn a 
 
 And then he said to me "Der Hund hat uns den ganzen Strom aufgefressen!" (The dog has swallowed up our entire current!). Thus they went on knocking me around and beating me savagely until 7:30 in the evening. And then suddenly the interrogating officer looked at his watch and said: "Oh, um Gottes willen, ich muss noch heute die Sara hoeren" (Oh God (suddenly he remembered God) - I still have to question Sara today). Sara was a girl who had also worked for Kessler in the household and the vegetable garden. She was also under arrest. They went to call her. Meanwhile they told me to tidy myself.
 
-And when Sara came into the room, they said to her: "Sag mal bitte, Sara Altaus, was ist Noach Zabludowicz fuer Dir?" (Tell me, Sara Altaus, what is Noach Sabludowicz to you?). She replied" "Mein Kamerad" (My comrade). They said: "Was, So ein Schwein - ein Kamerad?" (What? Such a swine is your comrade?). She didn't understand what it was all about, what was happening. And they continued: "Der Hund hat kein Radio gehoert? Alles - Sara!" (This cur did not listen to the radio? Was it all Sara?). Within myself I thought that they had got the point here and that she would reply:"Not me - it was him." But the hand of God was upon her and she said: "That is not true." She worked only in the vegetable garden, and if they called her on occasion into the house, it was only to clean the utensils and she never went near the room with the radio.
+And when Sara came into the room, they said to her: "Sag mal bitte, Sara Altaus, was ist [[PERSON:witness_101|Noach Zabludowicz]] fuer Dir?" (Tell me, Sara Altaus, what is Noach Sabludowicz to you?). She replied" "Mein Kamerad" (My comrade). They said: "Was, So ein Schwein - ein Kamerad?" (What? Such a swine is your comrade?). She didn't understand what it was all about, what was happening. And they continued: "Der Hund hat kein Radio gehoert? Alles - Sara!" (This cur did not listen to the radio? Was it all Sara?). Within myself I thought that they had got the point here and that she would reply:"Not me - it was him." But the hand of God was upon her and she said: "That is not true." She worked only in the vegetable garden, and if they called her on occasion into the house, it was only to clean the utensils and she never went near the room with the radio.
 
 They took us back to the prison and we remained there for six or seven weeks and they transferred us to a camp for education (Erziehungslager) by means of labour. And I received "Education" from these fine people, and then they took us to Sonsk - this was 8-10 kilometres from the town - and in this place there were only Poles, and we...
 ---
 
-**Attorney General:** Let us leave the camp for a moment. Somebody else will speak about the labour camp. I want you to tell me now about the execution of Jews who were alleged to shirk work. Do you remember the hangings of the Jews in Ciechanow?
+**Attorney General:** Let us leave the camp for a moment. Somebody else will speak about the labour camp. I want you to tell me now about the execution of Jews who were alleged to shirk work. Do you remember the hangings of the Jews in [[LOCATION:location_156|Ciechanow]]?
 
 **Witness Zabludowicz:** Yes. I have already spoken about them.
 
@@ -264,11 +264,11 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **Q.**Were there hangings also in Novidvor?
 
-**A.**Yes, correct, there were the five Jews whom they brought from Ciechanow who were with me in prison, and they brought them from Novidvor to Ciechanow and hanged them.
+**A.**Yes, correct, there were the five Jews whom they brought from [[LOCATION:location_156|Ciechanow]] who were with me in prison, and they brought them from Novidvor to [[LOCATION:location_156|Ciechanow]] and hanged them.
 
 **Q.**Who was in charge of these hangings?
 
-**A.**The Gestapo.
+**A.**The [[ORGANIZATION:org_344|Gestapo]].
 
 **Judge Halevi:** When was this?
 
@@ -282,7 +282,7 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **A.**I don't remember.
 
-**Q.**How long before the deportation to Auschwitz?
+**Q.**How long before the deportation to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**A few months before the deportation, not long before. And there was a final hanging, a few days before the general deportation, there were these three Jews...
 
@@ -306,7 +306,7 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **A.**When we were lined up in rows on the day of the deportation, there was a woman who held a few months' old baby girl in her arms. The baby began to cry, to wail. One of the SS men turned to her and said: "Please give me the child." Naturally she resisted, but he said this in a very kindly way and she, despite herself, handed over the child - in fear. He took the baby in his hands and threw her down with her forehead hitting the road, and the baby died. The mother was not even able to cry out. And there were also instances in those rows where people were accused of allegedly possessing articles of value, and they shot them.
 
-**Q.**How long was the journey to Auschwitz?
+**Q.**How long was the journey to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Two days.
 
@@ -328,7 +328,7 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **Q.**When was this?
 
-**A.**It was at the beginning. I cannot give you the exact date, but there was an instruction from the men of the Selbstschutz, men of the Gestapo: please register all the invalids and cripples. They purported to be making provisions for a sanatorium - they wanted to send these people for recuperation. Whoever recovered - well and good; whoever did not - would remain in the sanatorium. At the outset people weren't suspicious and gave it no thought. People registered, for better or for worse. And on one of those days, they removed several hundred of the Jews, sent them to a place not far from the town, to a forest named Oshislovi, and they were all shot.
+**A.**It was at the beginning. I cannot give you the exact date, but there was an instruction from the men of the Selbstschutz, men of the [[ORGANIZATION:org_344|Gestapo]]: please register all the invalids and cripples. They purported to be making provisions for a sanatorium - they wanted to send these people for recuperation. Whoever recovered - well and good; whoever did not - would remain in the sanatorium. At the outset people weren't suspicious and gave it no thought. People registered, for better or for worse. And on one of those days, they removed several hundred of the Jews, sent them to a place not far from the town, to a forest named Oshislovi, and they were all shot.
 
 **Presiding Judge:** Dr. Servatius, have you any questions to the witness?
 
@@ -362,7 +362,7 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **A.**The Germans?
 
-**Q.**The Gestapo, so you said, demanded this of you.
+**Q.**The [[ORGANIZATION:org_344|Gestapo]], so you said, demanded this of you.
 
 **A.**This was at the time of the interrogation. After my arrest. When I began to work, I said to him: "Mr. Kessler, I cannot work for you." He said: "What's wrong, are you ill?" I said: "I am not ill, as you can see. I am fit and well. But I bear a stain, I am a Jew." And he said: What, you are a Jew! You have found yourself a good German." He went off and within two days arranged a certificate for me.
 
@@ -374,11 +374,11 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **A.**More than that - after some time I received a call-up to the German army, and the Ministry of Transportation apparently requested a deferment on the grounds that I was an essential worker.
 
-**Q.**I don't understand. At that time, in May 1942, it happened that you were under arrest by the Gestapo because you were a Jew, and at the same time they gave you the identity document of a German?
+**Q.**I don't understand. At that time, in May 1942, it happened that you were under arrest by the [[ORGANIZATION:org_344|Gestapo]] because you were a Jew, and at the same time they gave you the identity document of a German?
 
 **A.**I should like to clarify to the Court. Throughout the week I did not wear the badge of a Jew. I always kept with me the certificate that I received from them, and this was my practice. But every week I did a lot for our people, a lot, moving Jews from place to place wherever they were looking for them. There was no mail for Jews and I established contact between ghetto and ghetto. No one knew what was going on 10 to 20 kilometres away, in another place, in the next village. I was a Jew and passed through all the ghettos, I maintained contact between the people, I took people from place to place. Every Saturday, when I was free from this work, I went into the residential areas where the Jews lived. I was living with my "Chief" outside the area restricted to Jews. When I reached the Jewish zone, I wore the Jewish badge. I couldn't move around amongst the Jews without it. I met with friends and gave them a weekly report. I received fresh instructions as to what I had to do. At that time, in 1942 in the month of May, when the incident which I have described occurred, I wore the Jewish badge to which I was not used.
 
-**Q.**Did the men of the Gestapo, during these two years, know that you were a Jew, or did they think and believe that you were a German?
+**Q.**Did the men of the [[ORGANIZATION:org_344|Gestapo]], during these two years, know that you were a Jew, or did they think and believe that you were a German?
 
 **A.**I was a "pure German."
 
@@ -410,51 +410,51 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **Q.**And the case of the baby girl that they threw down? This was in your presence?
 
-**A.**This was in my presence, in the presence of all the people of Ciechanow.
+**A.**This was in my presence, in the presence of all the people of [[LOCATION:location_156|Ciechanow]].
 
-**Judge Raveh:** Do you know how many Jews there were in Ciechanow at the outbreak of the War?
+**Judge Raveh:** Do you know how many Jews there were in [[LOCATION:location_156|Ciechanow]] at the outbreak of the War?
 
 **Witness Zabludowicz:** 6,000 Jews.
 
-**Q.**How many were transferred to Auschwitz?
+**Q.**How many were transferred to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**All of them were transferred to Auschwitz.
+**A.**All of them were transferred to [[LOCATION:location_286|Auschwitz]].
 
 **Q.**The same number?
 
-**A.**The total number went to Auschwitz.
+**A.**The total number went to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**That means that the number remained the same from the outbreak of the War until they were transferred to Auschwitz?
+**Q.**That means that the number remained the same from the outbreak of the War until they were transferred to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I would like to point out that there were many cases of people who were not of our town who joined us, in the same way as some of our people moved to another place. But the number of people who were in Ciechanow during that period was 6,000 Jews. All of them were transferred to Auschwitz.
+**A.**I would like to point out that there were many cases of people who were not of our town who joined us, in the same way as some of our people moved to another place. But the number of people who were in [[LOCATION:location_156|Ciechanow]] during that period was 6,000 Jews. All of them were transferred to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**Perhaps you have an idea, with regard to the people of Ciechanow itself - not those who came from outside - how did their number change from the outbreak of the War until they were taken to Auschwitz?
+**Q.**Perhaps you have an idea, with regard to the people of [[LOCATION:location_156|Ciechanow]] itself - not those who came from outside - how did their number change from the outbreak of the War until they were taken to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**It was approximately the same number all the time.
 
-**Q.**That means that the number of Jews in Ciechanow did not decrease from the outbreak of the War until the transfer to Auschwitz.
+**Q.**That means that the number of Jews in [[LOCATION:location_156|Ciechanow]] did not decrease from the outbreak of the War until the transfer to [[LOCATION:location_286|Auschwitz]].
 
 **A.**What the number was before the beginning of the War - I don't know.
 
 **Q.**You said that at the time of the outbreak of the War there were 6,000 Jews there.
 
-**A.**There were 6,000 at the time of the Holocaust - how many there were when the War broke out - this I do not know. I beg you pardon - I didn't understand the question.
+**A.**There were 6,000 at the time of the [[EVENT:event_386|Holocaust]] - how many there were when the War broke out - this I do not know. I beg you pardon - I didn't understand the question.
 
-**Q.**This means that approximately 6,000 Jews were sent to Auschwitz.
-
-**A.**Yes.
-
-**Q.**After the War, did you meet Jews from Ciechanow?
+**Q.**This means that approximately 6,000 Jews were sent to [[LOCATION:location_286|Auschwitz]].
 
 **A.**Yes.
 
-**Q.**Do you have an idea how many survivors there were from Ciechanow?
+**Q.**After the War, did you meet Jews from [[LOCATION:location_156|Ciechanow]]?
+
+**A.**Yes.
+
+**Q.**Do you have an idea how many survivors there were from [[LOCATION:location_156|Ciechanow]]?
 
 **A.**Yes, actually I know this exactly. There were about 10 girls and about 70-72 men.
 
 **Presiding Judge:** You said that you were in the underground. Perhaps you will tell us briefly about the underground.
 
-**Witness Zabludowicz:** The underground in Ciechanow continued its activity even in the concentration camp. But this is not relevant to the matter before the Court. The underground in Ciechanow took the form of mutual aid to people and we achieved the impossible - in the surroundings there were no places for concealment. Each one of us helped the other. When they moved people to the ghetto of Nove Mesto, where there was sickness, we assisted a great deal by bringing additional supplies of food in whatever way we could. Officially this was mutual aid.
+**Witness Zabludowicz:** The underground in [[LOCATION:location_156|Ciechanow]] continued its activity even in the concentration camp. But this is not relevant to the matter before the Court. The underground in [[LOCATION:location_156|Ciechanow]] took the form of mutual aid to people and we achieved the impossible - in the surroundings there were no places for concealment. Each one of us helped the other. When they moved people to the ghetto of Nove Mesto, where there was sickness, we assisted a great deal by bringing additional supplies of food in whatever way we could. Officially this was mutual aid.
 
 **Q.**Was this only in that town, or was this a more extensive organization?
 
@@ -466,12 +466,12 @@ They took us back to the prison and we remained there for six or seven weeks and
 
 **Presiding Judge:** Many thanks, Mr. Zabudlowicz.
 
-**Attorney General:** I should like to submit to the Court two orders of execution by shooting in Ciechanow. These are our documents Nos. 1254 and 1255. This has already been referred to in the interrogation of the Accused.
+**Attorney General:** I should like to submit to the Court two orders of execution by shooting in [[LOCATION:location_156|Ciechanow]]. These are our documents Nos. 1254 and 1255. This has already been referred to in the interrogation of the Accused.
 
 **Presiding Judge:** This will be T/200 (1254) and T/201 (1255).
 ---
 
-**Attorney General:** Document No. 1254 is a telegram where the matter dealt with is special treatment of Jews. "In accordance with the instruction of the Reichsfuehrer SS and the Chief of the German Police, the special treatment proposed by you must be given to the Jews Selman Lipski, Moshe Bejman, David Cymerman and Abraham Itzkowicz." The telegram is addressed to the Gestapo Centre in Ciechanow, signed by Obersturmbannfuehrer Eichmann.
+**Attorney General:** Document No. 1254 is a telegram where the matter dealt with is special treatment of Jews. "In accordance with the instruction of the Reichsfuehrer SS and the Chief of the German Police, the special treatment proposed by you must be given to the Jews Selman Lipski, Moshe Bejman, David Cymerman and Abraham Itzkowicz." The telegram is addressed to the [[ORGANIZATION:org_344|Gestapo]] Centre in [[LOCATION:location_156|Ciechanow]], signed by Obersturmbannfuehrer Eichmann.
 
 Document No. 1255 again deals with special treatment of the Jews. It is an instruction to execute Szmerek Goldberg, Tasiemka Eliacz, Rafael Braun, Mendel Rubinsztayn, Moszek Lewin, David Bryszkowski and David Zamiadyn. They were to be hanged in the ghetto at Neuhof and in the presence of persons of their race, or in German "in Gegenwart ihrer Rassengenossen aufzuhaengen sind." "Ich bitte um Vollzugsmeldung" (I request you to inform me when the order has been carried out). Signed SS Obersturmbannfuehrer Eichmann.
 
@@ -487,7 +487,7 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 
 **Presiding Judge:** I understand it otherwise - that this was done on the basis of a report of another Department, but it is clear that the instruction was given by the Department of the Accused.
 
-**Attorney General:** With regard to the material which served as the background of these telegrams, we have no knowledge of that. I have already informed the Court of the difficulty we have encountered much more than Defence Counsel, namely that the Central Archives of the Gestapo are not available. In this matter we are dependent on the remnants of the Archives of other bodies, and particularly on the Archives of the Foreign Ministry Office. I do not know what was that report which, in each of the cases, gave rise to the dispatch of the instruction. But the Accused was asked about it, and his reply can be found in the interrogation on pages 3554-3557. After the recess I shall also submit the instruction which served as the internal basis which enabled the giving of orders for executions in the ghetto.
+**Attorney General:** With regard to the material which served as the background of these telegrams, we have no knowledge of that. I have already informed the Court of the difficulty we have encountered much more than Defence Counsel, namely that the Central Archives of the [[ORGANIZATION:org_344|Gestapo]] are not available. In this matter we are dependent on the remnants of the Archives of other bodies, and particularly on the Archives of the Foreign Ministry Office. I do not know what was that report which, in each of the cases, gave rise to the dispatch of the instruction. But the Accused was asked about it, and his reply can be found in the interrogation on pages 3554-3557. After the recess I shall also submit the instruction which served as the internal basis which enabled the giving of orders for executions in the ghetto.
 
 **Presiding Judge:** At all events, if Dr. Servatius were to approach you on a question relating to the documents, would you give him copies of each of the documents before they are submitted here?
 
@@ -511,22 +511,22 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 
 **Presiding Judge:** Where were these documents from? What is their source?
 
-**Attorney General:** The source of the verification I shall give you immediately. This was the Polish Governmental Commission. And, as Your Honour will observe, they are confirmed by that Commission, which was called "The Principal Commission for the Investigation of Hitlerite Crimes in Poland." It was signed by the chairman, the head of the Commission, Janusz Cumkawski.
+**Attorney General:** The source of the verification I shall give you immediately. This was the Polish Governmental Commission. And, as Your Honour will observe, they are confirmed by that Commission, which was called "The Principal Commission for the Investigation of Hitlerite Crimes in [[LOCATION:location_5|Poland]]." It was signed by the chairman, the head of the Commission, Janusz Cumkawski.
 
 **Judge Halevi:** Where did they find this material?
 
-**Attorney General:** his we do not know. We were not permitted to conduct investigations inside Poland. We were told that the Polish authorities would give us all the documents relevant to this trial on their own initiative, and indeed we received a great deal of material, part of which we are using in this case.
+**Attorney General:** his we do not know. We were not permitted to conduct investigations inside [[LOCATION:location_5|Poland]]. We were told that the Polish authorities would give us all the documents relevant to this trial on their own initiative, and indeed we received a great deal of material, part of which we are using in this case.
 
 **Presiding Judge:** Would it be possible, perhaps, to clarify with the Polish authorities if they have that additional material which Dr. Servatius requested?
 
-**Attorney General:** I shall willingly be prepared to write to the Polish Commission.
+**Attorney General:** I shall willingly be prepared to write to the [[ORGANIZATION:org_331|Polish Commission]].
 
 **Presiding Judge:** And now we shall read these documents in their original and in translation.
 
 [Interpreter reads.]
 
 > "Geheime Staatspolizei. Staatspolizeistelle
-> Zichenau/Schroettersburg. Nr. 1719, Berlin 17.4.42
+> Zichenau/Schroettersburg. Nr. 1719, [[LOCATION:location_1|Berlin]] 17.4.42
 > 1508.
 >
 > Betrifft: Sonderbehandlung von Juden. Bezug: Bericht
@@ -540,9 +540,9 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 >
 >
 >
-> "State Secret Police, State Police Post Zichenau
+> "State Secret Police, State Police Post [[LOCATION:location_82|Zichenau]]
 > (Ciechanow)/ Schroettersburg. Received on 17 April
-> 1942, Communication No 1719, Berlin. To State Police
+> 1942, Communication No 1719, [[LOCATION:location_1|Berlin]]. To State Police
 > Zichenau/Schroettersburg. Secret. Subject: Special
 > Treatment of Jews. Reference: Report dated 27.3.42.
 > IIB2 621/42. By order of the Reichsfuehrer SS and Head
@@ -556,8 +556,8 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 >
 >
 > "Geheime Staatspolizei. Staatspolizeistelle
-> Zichenau/Schroettersburg. Nr. 2239. Berlin Nr. 89 138
-> 23.5.42 1715. An die Stapo Zichenau/Schroettersburg.
+> Zichenau/Schroettersburg. Nr. 2239. [[LOCATION:location_1|Berlin]] Nr. 89 138
+> 23.5.42 1715. An die Stapo [[LOCATION:location_157|Zichenau/Schroettersburg]].
 > Geheim. Betrifft: Sonderbehandlung von Juden. Bez.:
 > Bericht von 6.5.42 - IIB2 - 1865/42. Der Reichsfuehrer
 > SS und Chef der deutschen Polizei hat angeordnet, dass
@@ -571,7 +571,7 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 >
 >
 >
-> "State Secret Police, State Police Post Zichenau
+> "State Secret Police, State Police Post [[LOCATION:location_82|Zichenau]]
 > (Ciechanow)/Schroettersburg. Received 23 May 1942. In
 > handwriting IIB2 Communication No 2239. Telegram
 > Berlin. To State Police Post Sichenau/Schroettersburg.
@@ -604,12 +604,12 @@ In principle, I wish further to bring to the Court's notice that these telegrams
 
 **Presiding Judge:** Is there a signature to this document?
 
-**Attorney General:** It is signed by Himmler, Your Honour. It served as a document in Trial 4 at Nuremberg. If it interests the Court, the Accused was questioned on this matter and his reply can be found on pages 2099 to 2104 of his statement.
+**Attorney General:** It is signed by Himmler, Your Honour. It served as a document in Trial 4 at [[LOCATION:location_39|Nuremberg]]. If it interests the Court, the Accused was questioned on this matter and his reply can be found on pages 2099 to 2104 of his statement.
 
 **Presiding Judge:** 6.1.42?
 
 **Attorney General:** Yes 6.1.42.
 
-I shall now call a witness regarding a Nazi labour camp, Dr. Moshe Beisky.
+I shall now call a witness regarding a Nazi labour camp, [[PERSON:witness_102|Dr. Moshe Beisky]].
 
 **Presiding Judge:** Sir, would you please take the oath?

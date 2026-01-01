@@ -1,4 +1,4 @@
-# Testimony of Elisheva Szenes
+# Testimony of [[PERSON:witness_41|Elisheva Szenes]]
 
 **Session:** 53
 
@@ -6,9 +6,9 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Erzsi Elisheva Szenes.
+**Witness:** Erzsi [[PERSON:witness_41|Elisheva Szenes]].
 
-**State Attorney Bach:** Mrs. Szenes, you were born in Slovakia, were you not?
+**State Attorney Bach:** Mrs. Szenes, you were born in [[LOCATION:location_84|Slovakia]], were you not?
 
 **Witness Szenes:** Yes.
 
@@ -20,24 +20,24 @@
 
 **A.**Yes.
 
-**Q.**Perhaps you would tell the Court, when the deportations from Slovakia began, how you succeeded in escaping to Hungary? Please describe, in a general way, the manner of your escape.
+**Q.**Perhaps you would tell the Court, when the deportations from [[LOCATION:location_84|Slovakia]] began, how you succeeded in escaping to [[LOCATION:location_24|Hungary]]? Please describe, in a general way, the manner of your escape.
 
-**A.**In Slovakia, in Michalovce, they first of all arrested the young girls. This severely shocked the families, since they had not believed that they would actually take the girls, the young women and the single women, first. I was also among them. During those days I still managed to escape and to hide. But later on, I nevertheless fell into their hands and I was included in one transport which had already been deported, but at the very last minute I succeeded in getting away from there as well. I should say that, on 5 May, as far as I know, about 3,000 Jews were deported from Michalovce.
+**A.**In [[LOCATION:location_84|Slovakia]], in Michalovce, they first of all arrested the young girls. This severely shocked the families, since they had not believed that they would actually take the girls, the young women and the single women, first. I was also among them. During those days I still managed to escape and to hide. But later on, I nevertheless fell into their hands and I was included in one transport which had already been deported, but at the very last minute I succeeded in getting away from there as well. I should say that, on 5 May, as far as I know, about 3,000 Jews were deported from Michalovce.
 
 **Q.**In what year?
 
-**A.**This was in the month of May 1942. The Jews were deported from Michalovce and later on they sent postcards saying that they had been deported to Lublin. On the postcards it said: "Almost all of them are already in the Hradok." This was the name of the cemetery in Michalovce. It also said: "We have not yet met Wiesner." Wiesner was the baker, hence this meant that they had hardly eaten any bread.
+**A.**This was in the month of May 1942. The Jews were deported from Michalovce and later on they sent postcards saying that they had been deported to [[LOCATION:location_35|Lublin]]. On the postcards it said: "Almost all of them are already in the Hradok." This was the name of the cemetery in Michalovce. It also said: "We have not yet met Wiesner." Wiesner was the baker, hence this meant that they had hardly eaten any bread.
 
-**Q.**Perhaps you would tell us how you managed to reach Hungary?
+**Q.**Perhaps you would tell us how you managed to reach [[LOCATION:location_24|Hungary]]?
 
-**A.**The Hungarian writers sent a cabled application on my behalf to Tiso, the President of the State, requesting that I should not be deported, but they received a negative reply. Thereafter I received advice from the well-known writer Sandor Marai, that I should try to escape to Hungary. I also want to add that the deportations from Slovakia were carried out with absolute brutality. They hurled the girls who were half-fainting on to buses and from there to freight- cars.
+**A.**The Hungarian writers sent a cabled application on my behalf to Tiso, the President of the State, requesting that I should not be deported, but they received a negative reply. Thereafter I received advice from the well-known writer Sandor Marai, that I should try to escape to [[LOCATION:location_24|Hungary]]. I also want to add that the deportations from [[LOCATION:location_84|Slovakia]] were carried out with absolute brutality. They hurled the girls who were half-fainting on to buses and from there to freight- cars.
 ---
 
-**Q.**Mrs. Szenes, would you nevertheless now reply to my specific question - how did you succeed in reaching Hungary?
+**Q.**Mrs. Szenes, would you nevertheless now reply to my specific question - how did you succeed in reaching [[LOCATION:location_24|Hungary]]?
 
-**A.**I crossed the border on foot and managed to reach Budapest. There I subsequently obtained from the Foreign Office, in other words from the government, the right of asylum.
+**A.**I crossed the border on foot and managed to reach [[LOCATION:location_31|Budapest]]. There I subsequently obtained from the [[ORGANIZATION:org_309|Foreign Office]], in other words from the government, the right of asylum.
 
-**Q.**Where were you when the Germans entered Budapest on 19 March 1944?
+**Q.**Where were you when the Germans entered [[LOCATION:location_31|Budapest]] on 19 March 1944?
 
 **A.**I was living in Pension Darday, at No 2 Rothermere Street.
 
@@ -47,7 +47,7 @@
 
 **Q.**Where did they take you at first?
 
-**A.**They took me, together with a few Polish refugees who were also living in the same pension - they took me to Koshot Street, to the Astoria Hotel, the headquarters of the Gestapo.
+**A.**They took me, together with a few Polish refugees who were also living in the same pension - they took me to Koshot Street, to the Astoria Hotel, the headquarters of the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**How many days were you there?
 
@@ -59,11 +59,11 @@
 
 **Q.**Mrs. Szenes, where did they take you?
 
-**A.**Later on - when there were already more of us Jews - they took us to the gaol on Zrinyi Street.
+**A.**Later on - when there were already more of us Jews - they took us to the gaol on [[LOCATION:location_268|Zrinyi Street]].
 
 **Q.**Can you tell the Court what they did to you there?
 
-**A.**Already at the Gestapo headquarters they stood us up against a wall for hours, and they threatened that if we turned our faces they would use their weapons. When I came out of the basement of the Astoria and a van for transporting prisoners was waiting there, I shouted out in the street to passers-by that they should stop since I wanted it to be known that I was still alive. When one of the passers-by stopped, a SS man threatened me with his gun and threw me on to the truck. In the prison on Zrinyi Street, there were 16-18 of us in a cell of two and a half metres.
+**A.**Already at the [[ORGANIZATION:org_344|Gestapo]] headquarters they stood us up against a wall for hours, and they threatened that if we turned our faces they would use their weapons. When I came out of the basement of the Astoria and a van for transporting prisoners was waiting there, I shouted out in the street to passers-by that they should stop since I wanted it to be known that I was still alive. When one of the passers-by stopped, a SS man threatened me with his gun and threw me on to the truck. In the prison on [[LOCATION:location_268|Zrinyi Street]], there were 16-18 of us in a cell of two and a half metres.
 
 **Q.**Do you remember that the SS men acted in a certain way in order to embarrass the women in the presence of the soldiers?
 
@@ -73,45 +73,45 @@
 
 **A.**Yes, in the presence of the soldiers. And if anyone did not undress and did not wash herself in a way that was satisfactory in their opinion, they would throw a bucket of water over her.
 
-**Q.**Mrs. Szenes, in those years, 1943 and 1944, did you already know what was happening to the Jews in Auschwitz?
+**Q.**Mrs. Szenes, in those years, 1943 and 1944, did you already know what was happening to the Jews in [[LOCATION:location_286|Auschwitz]]?
 
-**A.**Yes. I knew. Already in 1943, when I was no longer in Michalovce, a man named Klein-Klinowski, who had a Hungarian passport, and who now lives in Herzlia, moved to Budapest. He brought the news that a member of the Slovakian Guard had brought a letter from Auschwitz for the Blei family.
+**A.**Yes. I knew. Already in 1943, when I was no longer in Michalovce, a man named Klein-Klinowski, who had a Hungarian passport, and who now lives in Herzlia, moved to [[LOCATION:location_31|Budapest]]. He brought the news that a member of the Slovakian Guard had brought a letter from [[LOCATION:location_286|Auschwitz]] for the Blei family.
 
-**Q.**Perhaps we do not need all these names - simply tell the Court what you know, in fact, of what was happening to the Jews in Auschwitz.
+**Q.**Perhaps we do not need all these names - simply tell the Court what you know, in fact, of what was happening to the Jews in [[LOCATION:location_286|Auschwitz]].
 
-**Presiding Judge:** Were you, at that time, already in Budapest?
+**Presiding Judge:** Were you, at that time, already in [[LOCATION:location_31|Budapest]]?
 
 **Witness Szenes:** Yes. It was stated in that letter that gas chambers existed there and that they were taking the girls to houses of prostitution.
 
-**State Attorney Bach:** Did you attempt to tell responsible people in Budapest about these matters?
+**State Attorney Bach:** Did you attempt to tell responsible people in [[LOCATION:location_31|Budapest]] about these matters?
 
-**Witness Szenes:** Yes. I accompanied Klein-Klinowski to Dr. Georg Polgar, who was then in the social welfare department, and I informed him of it. I told him about it since danger again threatened the Jews of Slovakia, and I very much wanted them to be brought en masse to Hungary.
+**Witness Szenes:** Yes. I accompanied Klein-Klinowski to Dr. Georg Polgar, who was then in the social welfare department, and I informed him of it. I told him about it since danger again threatened the Jews of [[LOCATION:location_84|Slovakia]], and I very much wanted them to be brought en masse to [[LOCATION:location_24|Hungary]].
 
 **Q.**Mrs. Szenes, what was the response to this story of yours?
 
 **A.**He said simply: "You are a great poetess and possess a broad imagination."
 
-**Q.**Mrs. Szenes, when did you arrive at the Kistarcsa camp?
+**Q.**Mrs. Szenes, when did you arrive at the [[LOCATION:location_262|Kistarcsa]] camp?
 
-**A.**I also want to relate that they took me from the prison in Zrinyi Street firstly to the Schwabenberg. That was where the Gestapo was situated. There I was seriously tortured. And ultimately they returned me to the prison on Zrinyi Street.
+**A.**I also want to relate that they took me from the prison in [[LOCATION:location_268|Zrinyi Street]] firstly to the Schwabenberg. That was where the [[ORGANIZATION:org_344|Gestapo]] was situated. There I was seriously tortured. And ultimately they returned me to the prison on [[LOCATION:location_268|Zrinyi Street]].
 
-**Q.**Now please tell us when you were transferred to Kistarcsa?
+**Q.**Now please tell us when you were transferred to [[LOCATION:location_262|Kistarcsa]]?
 
-**A.**I do not remember the exact number of days, but I was in the Zrinyi Street prison for about six weeks.
+**A.**I do not remember the exact number of days, but I was in the [[LOCATION:location_268|Zrinyi Street]] prison for about six weeks.
 
 **Q.**What happened at the end of these six weeks?
 
-**A.**First of all, we Jewish women there, at Kistarcsa, were in the hands of the Gestapo.
+**A.**First of all, we Jewish women there, at [[LOCATION:location_262|Kistarcsa]], were in the hands of the [[ORGANIZATION:org_344|Gestapo]].
 
-**Q.**After that you came to Kistarcsa?
+**Q.**After that you came to [[LOCATION:location_262|Kistarcsa]]?
 
-**Presiding Judge:** She has already spoken of what took place in Kistarcsa.
+**Presiding Judge:** She has already spoken of what took place in [[LOCATION:location_262|Kistarcsa]].
 
-**State Attorney Bach:** You were in the hands of the Gestapo. Can you tell the Court when you were put, for the first time, on a deportation train from Kistarcsa?
+**State Attorney Bach:** You were in the hands of the [[ORGANIZATION:org_344|Gestapo]]. Can you tell the Court when you were put, for the first time, on a deportation train from [[LOCATION:location_262|Kistarcsa]]?
 
-**Witness Szenes:** From there they passed us on to the Hungarians, and we were there for a few weeks under their control, until July. Then they apparently knew that a deportation transport was leaving, since they took certain steps. At first they took us to the Kistarcsa Keleti station. We travelled by train to Budapest, but not to the eastern Keleti railway station but to another station, on the outskirts.
+**Witness Szenes:** From there they passed us on to the Hungarians, and we were there for a few weeks under their control, until July. Then they apparently knew that a deportation transport was leaving, since they took certain steps. At first they took us to the [[LOCATION:location_262|Kistarcsa]] Keleti station. We travelled by train to [[LOCATION:location_31|Budapest]], but not to the eastern Keleti railway station but to another station, on the outskirts.
 
-**Q.**How long were you in Budapest?
+**Q.**How long were you in [[LOCATION:location_31|Budapest]]?
 
 **A.**They then put us in a so-called place of detention, and there we already met many women and men who had been transferred there from Roekk-Szilard Street and other places of detention. After that we were taken to the Keleti railway station and were loaded on to railway waggons used for transporting animals. We were about 70 people or perhaps 80 in one waggon. We stood for a very long time at the Keleti railway station. Then, nevertheless, we were sent away. At a later stage, we were held up at a station for a very long time.
 
@@ -119,9 +119,9 @@
 
 **A.**Since we were in railway waggons designed for conveying animals, we did not see, we could not observe what was happening outside, there were no windows. But later on, despite that, when the train began moving, we sensed that the train was now travelling in the opposite direction.
 
-**Q.**Did the train in fact go back, and were you returned to Kistarcsa?
+**Q.**Did the train in fact go back, and were you returned to [[LOCATION:location_262|Kistarcsa]]?
 
-**A.**Yes - we returned and in the evening we reached Kistarcsa. The next morning we heard rumours that we had been sent back on Horthy's orders.
+**A.**Yes - we returned and in the evening we reached [[LOCATION:location_262|Kistarcsa]]. The next morning we heard rumours that we had been sent back on Horthy's orders.
 
 **Q.**Mrs. Szenes - what happened to you a few days later?
 
@@ -145,9 +145,9 @@
 
 **Q.**Mrs. Szenes, where did the train take you to?
 
-**A.**We reached Auschwitz via Slovakia. We crossed the border at Orlova.
+**A.**We reached [[LOCATION:location_286|Auschwitz]] via [[LOCATION:location_84|Slovakia]]. We crossed the border at Orlova.
 
-**Q.**What happened to the people of that transport who arrived at Auschwitz?
+**Q.**What happened to the people of that transport who arrived at [[LOCATION:location_286|Auschwitz]]?
 
 **A.**They went off, group by group, to the right and to the left. I was sent off with the group that was directed to the side of life, and the others, as we know, went to the gas chambers. Mengele was standing there - he indicated to the right or to the left. As he divided up the groups, roughly half by half, in each of the two directions, to the side of life and to the side of the gas chambers - roughly, I cannot say exactly.
 
@@ -159,9 +159,9 @@
 
 **A.**No. I cannot tell you that, since they were transferred to various places.
 
-**Q.**To what place were you transferred from Auschwitz?
+**Q.**To what place were you transferred from [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I was transported as part of a group of 500 people, but within this group there were only a few people left of those who had come from Kistarcsa. They took us to Fallersleben in West Germany, to a factory for war production.
+**A.**I was transported as part of a group of 500 people, but within this group there were only a few people left of those who had come from [[LOCATION:location_262|Kistarcsa]]. They took us to Fallersleben in West [[LOCATION:location_2|Germany]], to a factory for war production.
 
 **Q.**Did you ultimately reach a place called Salzwedel?
 
@@ -177,7 +177,7 @@
 
 **Q.**You mentioned earlier a place called Fallersleben. What happened there to women who gave birth to children?
 
-**A.**In Fallersleben there were two women who gave birth to babies. At the beginning the SS women nursed them fondly, for about four or five days, but afterwards, they took them away together with their mothers. As we learned they brought them subsequently to Bergen-Belsen and to the gas chambers.
+**A.**In Fallersleben there were two women who gave birth to babies. At the beginning the SS women nursed them fondly, for about four or five days, but afterwards, they took them away together with their mothers. As we learned they brought them subsequently to [[LOCATION:location_212|Bergen-Belsen]] and to the gas chambers.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions to the witness?
 
@@ -185,13 +185,13 @@
 
 **Witness Szenes:** Yes. It was some villa.
 
-**Q.**But there were several officers there. The chief of the German Security Police was there, as was the commandant of the Sipo and the SD in Budapest; there was something there called the "Sonderkommando Eichmann" and the German Gestapo was there. Do you remember in which of all these offices you were?
+**Q.**But there were several officers there. The chief of the German Security Police was there, as was the commandant of the Sipo and the SD in [[LOCATION:location_31|Budapest]]; there was something there called the "Sonderkommando Eichmann" and the German [[ORGANIZATION:org_344|Gestapo]] was there. Do you remember in which of all these offices you were?
 
 **A.**I did not meet any Hungarians there. SS men interrogated me, in one of the rooms. Prior to that I was guarded by a soldier of the SS. Then they placed me against a wall for three hours and said to me that if I should turn my face around, they would shoot me and kill me. But notwithstanding that, I could no longer restrain myself, and I turned my face.
 
 **Q.**Madame witness, my question was: Do you remember in which one of the offices you were? You did not see Hungarians. Do you remember in which office of non-Hungarians you were? Yes or no? Either you remember or you do not remember.
 
-**A.**I understand. There were high-ranking officers there, and on the same day Budapest was bombed. The Germans looked at the city through binoculars, and tortured many people there, including both a Jew and a Franciscan monk.
+**A.**I understand. There were high-ranking officers there, and on the same day [[LOCATION:location_31|Budapest]] was bombed. The Germans looked at the city through binoculars, and tortured many people there, including both a Jew and a Franciscan monk.
 
 **Presiding Judge:** The witness did not understand the question. Dr. Servatius referred here to several German offices. Are you able to tell us whether it was in the building of the Sonderkommando Eichmann or of the Commander of the Sipo or in one of the other buildings - yes or no?
 
@@ -205,7 +205,7 @@
 
 **Presiding Judge:** Thank you very much, Mrs. Szenes.
 
-**State Attorney Bach:** One further witness, whose evidence will be brief, Mrs. Margit Reich.
+**State Attorney Bach:** One further witness, whose evidence will be brief, Mrs. [[PERSON:witness_62|Margit Reich]].
 
 **Presiding Judge:** Kindly stand up. Do you speak Hebrew?
 

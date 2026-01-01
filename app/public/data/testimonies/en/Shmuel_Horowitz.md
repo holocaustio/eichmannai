@@ -1,4 +1,4 @@
-# Testimony of Shmuel Horowitz
+# Testimony of [[PERSON:witness_85|Shmuel Horowitz]]
 
 **Session:** 30
 
@@ -8,19 +8,19 @@
 
 **Witness Horowitz:** Yes.
 
-**Q.**Do you live in Holon, 8 Tchernichovski Street?
+**Q.**Do you live in [[LOCATION:location_155|Holon]], 8 Tchernichovski Street?
 
 **A.**Yes.
 
-**Q.**From 1922 you lived in Kolomea in Eastern Galicia, and there, too, you were working as a tailor?
+**Q.**From 1922 you lived in [[LOCATION:location_199|Kolomea]] in [[LOCATION:location_167|Eastern Galicia]], and there, too, you were working as a tailor?
 
 **A.**Yes.
 
-**Q.**When the German army entered Kolomea in 1941 you were ordered to work as a tailor for the local Gestapo?
+**Q.**When the German army entered [[LOCATION:location_199|Kolomea]] in 1941 you were ordered to work as a tailor for the local [[ORGANIZATION:org_344|Gestapo]]?
 
 **A.**Yes.
 
-**Q.**There were several "actions" against the Jews in Kolomea?
+**Q.**There were several "actions" against the Jews in [[LOCATION:location_199|Kolomea]]?
 
 **A.**It happened on the first day, when the SS and the Schutzpolizei came in, on the first night they went to the great synagogue, placed barrels of petrol inside and the whole synagogue collapsed. The whole roof and the windows, everything sank into the ground. On the second day they said that Communists were hiding in the Jewish quarter. They carried out an enormous "action" and took away about two thousand people.
 
@@ -30,41 +30,41 @@
 
 **Q.**What happened to them afterwards?
 
-**A.**They were taken to Szeparowce, a forest about 3 km. from Kolomea, where they were all shot dead.
+**A.**They were taken to Szeparowce, a forest about 3 km. from [[LOCATION:location_199|Kolomea]], where they were all shot dead.
 
 **Q.**This was the first "action." Were there more "actions?"
 
-**A.**Many "actions." Then they came to the Jewish Council and demanded household equipment for themselves, the best stuff, furniture. They should see to it that the most expensive stuff around should be supplied at once. If not, they would kill all the Jews. And the best tailors to be found in Kolomea should be sent too. I was ordered to report with my partner Weiser, of blessed memory, at the Gestapo to work for them.
+**A.**Many "actions." Then they came to the Jewish Council and demanded household equipment for themselves, the best stuff, furniture. They should see to it that the most expensive stuff around should be supplied at once. If not, they would kill all the Jews. And the best tailors to be found in [[LOCATION:location_199|Kolomea]] should be sent too. I was ordered to report with my partner Weiser, of blessed memory, at the [[ORGANIZATION:org_344|Gestapo]] to work for them.
 
 **Q.**Did you work there?
 
-**A.**Yes, I went to the first Gestapo man. His name was Weissmann. I came into his apartment. He went over to the other apartment. I went over to the window.
+**A.**Yes, I went to the first [[ORGANIZATION:org_344|Gestapo]] man. His name was Weissmann. I came into his apartment. He went over to the other apartment. I went over to the window.
 
 **Q.**The details aren't important. How long did you work as a tailor?
 
 **A.**The whole time until the end of 1943.
 
-**Q.**In the meantime, were there "actions" in Kolomea?
+**Q.**In the meantime, were there "actions" in [[LOCATION:location_199|Kolomea]]?
 
 **A.**There were a great many "actions." There were "actions" almost every week. But big "actions" were an exception. Every week there was an "action."
 
 **Q.**What did an "action" look like?
 
-**A.**The ghetto was divided into three sections. The first, the second and the third. From all over the province, they brought them in from the whole area, from the small towns, all were brought to Kolomea, into the ghetto. You would find fifteen to twenty people in one room. It was just awful to see when you came in at night.
+**A.**The ghetto was divided into three sections. The first, the second and the third. From all over the province, they brought them in from the whole area, from the small towns, all were brought to [[LOCATION:location_199|Kolomea]], into the ghetto. You would find fifteen to twenty people in one room. It was just awful to see when you came in at night.
 
 **Q.**In every house?
 
-**A.**In every room, they were lying there like herrings, one next to the other. Then they carried out the first "action." There were three "jarnitzes," three sections. We lived in the first one. Those who worked for the Gestapo got the order to live in the first section, the first "jarnitze."
+**A.**In every room, they were lying there like herrings, one next to the other. Then they carried out the first "action." There were three "jarnitzes," three sections. We lived in the first one. Those who worked for the [[ORGANIZATION:org_344|Gestapo]] got the order to live in the first section, the first "jarnitze."
 
 **Q.**How many people were you in the first section?
 
-**A.**In Kolomea alone there were up to 22,000. And together with those that were brought in, it came to about 60,000 people.
+**A.**In [[LOCATION:location_199|Kolomea]] alone there were up to 22,000. And together with those that were brought in, it came to about 60,000 people.
 
 **Q.**You haven't answered my question. How many lived in your section?
 
 **A.**In a small lane there were up to three thousand persons.
 
-**Q.**Describe to us the "action" now. Don't give us other details - the Court has already heard them from other witnesses. I am asking you to describe to us what did the "actions" look like in Kolomea.
+**Q.**Describe to us the "action" now. Don't give us other details - the Court has already heard them from other witnesses. I am asking you to describe to us what did the "actions" look like in [[LOCATION:location_199|Kolomea]].
 
 **A.**The first "action"...
 
@@ -92,9 +92,9 @@
 
 **A.**There was another case. Kommissar Leideritz, he was the SS Kommissar, ordered the Jewish Council to establish a hospital. "You may arrange a hospital for yourselves, you have certainly got a lot of sick people."
 
-**Q.**How many Jews were there then in Kolomea?
+**Q.**How many Jews were there then in [[LOCATION:location_199|Kolomea]]?
 
-**A.**There could have been about 40,000 people still left, certainly. So a hospital was put up. A lot of people did not want to go in. Everybody knew it was a trick. By then they no longer believed them. Yet women who had no choice, who didn't have husbands, who had nobody, about thirty women went in and lay there sick with two small children. Then one day, Knackendoffel of the Criminal Police, the head of the Department was called Warmann, and Knackendoffel was the representative of the Department. He came to the hospital with his dog, a big black dog. The dog stayed outside. He began shouting at the sick people to go downstairs. So the women had to run downstairs in their nightshirts. As for the two children - he opened the window and tossed them out. And two women were unable to get up. He shot them in their beds. Then he went downstairs and told them to lie on the ground with their faces down and he shot all of them.
+**A.**There could have been about 40,000 people still left, certainly. So a hospital was put up. A lot of people did not want to go in. Everybody knew it was a trick. By then they no longer believed them. Yet women who had no choice, who didn't have husbands, who had nobody, about thirty women went in and lay there sick with two small children. Then one day, Knackendoffel of the [[ORGANIZATION:org_338|Criminal Police]], the head of the Department was called Warmann, and Knackendoffel was the representative of the Department. He came to the hospital with his dog, a big black dog. The dog stayed outside. He began shouting at the sick people to go downstairs. So the women had to run downstairs in their nightshirts. As for the two children - he opened the window and tossed them out. And two women were unable to get up. He shot them in their beds. Then he went downstairs and told them to lie on the ground with their faces down and he shot all of them.
 
 **Q.**Did you see this?
 
@@ -102,11 +102,11 @@
 
 **Q.**What happened to you later? What happened to your son?
 
-**A.**About my son - that was towards the end, what happened to him. I worked for the Gestapo throughout this time. Then came the last "action."
+**A.**About my son - that was towards the end, what happened to him. I worked for the [[ORGANIZATION:org_344|Gestapo]] throughout this time. Then came the last "action."
 
 **Q.**When was that?
 
-**A.**That was in 1943. I happened to go to the Dienststelle (office) for a fitting. The Kommissar had issued an order not to go to private apartments for such fittings but only to the Dienststelle. So I went there to fit a suit on one of them. I looked around. I saw all the Schutzpolizei and Gestapo people, nobody was allowed to leave. Kommissar Leideritz said to me: "You may stay, you can't go home now." About three to four hours later I realized what had taken place, it was the last transport of about 6,000 people who were all taken to the Criminal Police.
+**A.**That was in 1943. I happened to go to the Dienststelle (office) for a fitting. The Kommissar had issued an order not to go to private apartments for such fittings but only to the Dienststelle. So I went there to fit a suit on one of them. I looked around. I saw all the Schutzpolizei and [[ORGANIZATION:org_344|Gestapo]] people, nobody was allowed to leave. Kommissar Leideritz said to me: "You may stay, you can't go home now." About three to four hours later I realized what had taken place, it was the last transport of about 6,000 people who were all taken to the [[ORGANIZATION:org_338|Criminal Police]].
 
 **Q.**What happened to them afterwards? What happened to these 6,000 people?
 
@@ -120,13 +120,13 @@
 
 **A.**He was taken away and shot with the 6,000.
 
-**Q.**Meanwhile, only a few hundred Jews were left in Kolomea?
+**Q.**Meanwhile, only a few hundred Jews were left in [[LOCATION:location_199|Kolomea]]?
 
-**A.**Only a few people were left, including those who had hidden. We continued to work at the Umschlagstelle for the Gestapo. One day Frost appeared. I forget his rank, but I remember his name. I remember all their names.
+**A.**Only a few people were left, including those who had hidden. We continued to work at the Umschlagstelle for the [[ORGANIZATION:org_344|Gestapo]]. One day Frost appeared. I forget his rank, but I remember his name. I remember all their names.
 
 **Q.**What happened?
 
-**A.**He said: "You will remain here, you got a courtyard, a well, and you will go on working." It was a lane off Walawa Street. It was at night. In the morning, at 4 o'clock, the "action" started. They also came to my room - the late Weiser was still alive - and shouted: "Out into the street, out." There was a little child outside, about three years old. I picked it up, wrapped it in a blanket because it was winter, and took it with me. When I went out into Walawa Street, I saw many Jews lying on the ground. Frost said to me: "Hurwitz - at the time my name was Hurwitz and not Horowitz - whose child is this?" I found it in the street, so I took it," I answered. He turned to the group and asked one of the men, "Where do you work?" He answered: "At the Kreishauptmann's place." Then he said to him: "Take the child from Hurwitz, it will be better for him." Then he shouted, "Get up!" They came at us from everywhere with sticks, beat us, and chased us to the Criminal Police building. Whoever was strong outran the others. Everybody tried to get away from the clubs. Those who stayed behind were shot on the spot. At the Criminal Police we were kept in the yard, not inside, lying on the ground. Frost arrived; he was running the "action." He selected thirty people - doctors, pharmacists, two tailors - of various professions.
+**A.**He said: "You will remain here, you got a courtyard, a well, and you will go on working." It was a lane off Walawa Street. It was at night. In the morning, at 4 o'clock, the "action" started. They also came to my room - the late Weiser was still alive - and shouted: "Out into the street, out." There was a little child outside, about three years old. I picked it up, wrapped it in a blanket because it was winter, and took it with me. When I went out into Walawa Street, I saw many Jews lying on the ground. Frost said to me: "Hurwitz - at the time my name was Hurwitz and not Horowitz - whose child is this?" I found it in the street, so I took it," I answered. He turned to the group and asked one of the men, "Where do you work?" He answered: "At the Kreishauptmann's place." Then he said to him: "Take the child from Hurwitz, it will be better for him." Then he shouted, "Get up!" They came at us from everywhere with sticks, beat us, and chased us to the [[ORGANIZATION:org_338|Criminal Police]] building. Whoever was strong outran the others. Everybody tried to get away from the clubs. Those who stayed behind were shot on the spot. At the [[ORGANIZATION:org_338|Criminal Police]] we were kept in the yard, not inside, lying on the ground. Frost arrived; he was running the "action." He selected thirty people - doctors, pharmacists, two tailors - of various professions.
 
 **Q.**Please be brief, Mr. Horowitz, what happened next?
 

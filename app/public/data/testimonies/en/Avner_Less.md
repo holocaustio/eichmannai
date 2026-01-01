@@ -1,4 +1,4 @@
-# Testimony of Avner Less
+# Testimony of [[PERSON:witness_11|Avner Less]]
 
 **Session:** 9
 
@@ -6,7 +6,7 @@
 
 **Attorney General:** Mr. Less, what were your duties in the Police before you were seconded to Bureau 06?
 
-**Witness Less:** I worked at the National Headquarters of the Israel Police in the Economic Department.
+**Witness Less:** I worked at the National Headquarters of the [[LOCATION:location_38|Israel]] Police in the Economic Department.
 
 **Q.**Do you know the Accused?
 
@@ -42,7 +42,7 @@
 
 **Q.**What happened at that meeting?
 
-**A.**Mr. Hofstaedter introduced himself to the Accused, that is to say, he gave his name and his rank in the Israel Police and also asked him whether he remembered him. The Accused answered in the affirmative, and he was then cautioned for the first time on this occasion by Mr. Hofstaedter in German. This whole conversation was conducted in the German language.
+**A.**Mr. Hofstaedter introduced himself to the Accused, that is to say, he gave his name and his rank in the [[LOCATION:location_38|Israel]] Police and also asked him whether he remembered him. The Accused answered in the affirmative, and he was then cautioned for the first time on this occasion by Mr. Hofstaedter in German. This whole conversation was conducted in the German language.
 
 **Q.**Are you familiar with this language, Mr. Less?
 

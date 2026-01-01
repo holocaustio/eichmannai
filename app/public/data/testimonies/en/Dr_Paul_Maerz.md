@@ -1,4 +1,4 @@
-# Testimony of Dr. Paul Maerz
+# Testimony of [[PERSON:witness_23|Dr. Paul Maerz]]
 
 **Session:** 19
 
@@ -10,7 +10,7 @@
 
 **Presiding Judge:** Please reply to Mr. Bar-Or's questions.
 
-**State Attorney Bar-Or:** Dr. Meretz, you graduated in Law from the Universities of Vienna and Prague?
+**State Attorney Bar-Or:** Dr. Meretz, you graduated in Law from the Universities of [[LOCATION:location_3|Vienna]] and [[LOCATION:location_4|Prague]]?
 
 **Witness Meretz:** Yes.
 
@@ -26,27 +26,27 @@
 
 **A.**Yes, it was a special day - the day the Nazis invaded Maehrisch-Ostrau. They arrived on 14 March, in the afternoon, and I left at noon, after I received a phone call from the offices of the Zionist Organization to the effect that the Germans would arrive during the course of that day.
 
-**Q.**You moved to Prague on 14 March 1939?
+**Q.**You moved to [[LOCATION:location_4|Prague]] on 14 March 1939?
 
-**A.**I moved to Prague on 14 March 1939.
+**A.**I moved to [[LOCATION:location_4|Prague]] on 14 March 1939.
 
-**Q.**What did you do in Prague from 14 March 1939?
+**Q.**What did you do in [[LOCATION:location_4|Prague]] from 14 March 1939?
 
-**A.**At that time I was the chairman of the Zionist Organization of Czechoslovakia, and I moved to Prague for a few days. Great confusion prevailed there. On 15 March, in the morning, the Germans entered Prague. I came to Prague on the 15 March and already in the morning we saw that the Palestine Office in Prague was closed. We were then invited to the British Legation in Prague where ten entry permits were available for the Zionist leaders, permits to enter England. Only one or two made use of these permits to enter England. Firstly, we did not want to leave the Jews there, and secondly these permits were phrased in a very, very dangerous manner. It said there "in recognition of your efforts on behalf of the refugees from Germany." If such a permit were to be found on a person, it is clear what would have happened.
+**A.**At that time I was the chairman of the Zionist Organization of [[LOCATION:location_15|Czechoslovakia]], and I moved to [[LOCATION:location_4|Prague]] for a few days. Great confusion prevailed there. On 15 March, in the morning, the Germans entered [[LOCATION:location_4|Prague]]. I came to [[LOCATION:location_4|Prague]] on the 15 March and already in the morning we saw that the [[LOCATION:location_57|Palestine]] Office in [[LOCATION:location_4|Prague]] was closed. We were then invited to the British Legation in [[LOCATION:location_4|Prague]] where ten entry permits were available for the Zionist leaders, permits to enter [[LOCATION:location_43|England]]. Only one or two made use of these permits to enter [[LOCATION:location_43|England]]. Firstly, we did not want to leave the Jews there, and secondly these permits were phrased in a very, very dangerous manner. It said there "in recognition of your efforts on behalf of the refugees from [[LOCATION:location_2|Germany]]." If such a permit were to be found on a person, it is clear what would have happened.
 
 **Q.**Did you come into contact with the Germans immediately?
 
-**A.**It was like this. I was in Prague for several days. I returned to Maehrisch-Ostrau in order to wind up my personal affairs. I was arrested, but this was, in fact, because of extortions on a personal basis, as it turned out later. I spent a day at police headquarters and later found that my office - a lawyer's office - had been closed by the Gestapo, and the office was reopened by a Nazi lawyer who was paid for it. I still managed to remove incriminating documents likely to endanger me. But it was so dangerous that at once, two or three days later, I moved to Prague and took upon myself the supervision and the conduct of affairs in Prague.
+**A.**It was like this. I was in [[LOCATION:location_4|Prague]] for several days. I returned to Maehrisch-Ostrau in order to wind up my personal affairs. I was arrested, but this was, in fact, because of extortions on a personal basis, as it turned out later. I spent a day at police headquarters and later found that my office - a lawyer's office - had been closed by the [[ORGANIZATION:org_344|Gestapo]], and the office was reopened by a Nazi lawyer who was paid for it. I still managed to remove incriminating documents likely to endanger me. But it was so dangerous that at once, two or three days later, I moved to [[LOCATION:location_4|Prague]] and took upon myself the supervision and the conduct of affairs in [[LOCATION:location_4|Prague]].
 
-**Q.**Who were your colleagues in the conduct of the affairs in Prague?
+**Q.**Who were your colleagues in the conduct of the affairs in [[LOCATION:location_4|Prague]]?
 
-**A.**In Prague we organized matters in the following way. There was a Palestine Office there and this office had been closed from the first day.
+**A.**In [[LOCATION:location_4|Prague]] we organized matters in the following way. There was a [[LOCATION:location_57|Palestine]] Office there and this office had been closed from the first day.
 
 **Q.**Who was the director?
 
-**A.**The director of the office was Ya'akov Edelstein. The secretary of the Zionist Organization was Franz Kahn. Apart from them there was also an engineer by the name of Zucker, who ran the internal administration, and there was Dr. Frantisek Friedmann who was our specialist in financial matters. I was the chairman. We immediately abolished our system of committees. It was impossible to operate in that way; these five people constituted a kind of executive and we functioned in conjunction with the other organization, at whose head was Dr. Emil Kafka; he was the president of the Prague Community, and Dr. Frantisek Seidemann was his secretary.
+**A.**The director of the office was [[PERSON:person_463|Ya'akov Edelstein]]. The secretary of the Zionist Organization was [[PERSON:person_464|Franz Kahn]]. Apart from them there was also an engineer by the name of Zucker, who ran the internal administration, and there was Dr. Frantisek Friedmann who was our specialist in financial matters. I was the chairman. We immediately abolished our system of committees. It was impossible to operate in that way; these five people constituted a kind of executive and we functioned in conjunction with the other organization, at whose head was Dr. Emil Kafka; he was the president of the [[LOCATION:location_4|Prague]] Community, and Dr. Frantisek Seidemann was his secretary.
 
-Two or three days after the closure of the office we appeared before the chief official of the Gestapo; in those days that was the Kriminalkommissar (Police Commissioner) Fuchs. He told us that we could continue with our work, we could keep the office open and run it, as of that day, according to his instructions.
+Two or three days after the closure of the office we appeared before the chief official of the [[ORGANIZATION:org_344|Gestapo]]; in those days that was the Kriminalkommissar (Police Commissioner) Fuchs. He told us that we could continue with our work, we could keep the office open and run it, as of that day, according to his instructions.
 
 **Q.**The instructions of Fuchs?
 
@@ -56,46 +56,46 @@ Two or three days after the closure of the office we appeared before the chief o
 
 **A.**I don't know the exact date but it was during the first week after 15 March.
 
-**Q.**Perhaps you can remember something of the period before 14 March - before you moved from Maehrisch-Ostrau to Prague; do you recall the migration of Jews into your town, into Maehrisch-Ostrau?
+**Q.**Perhaps you can remember something of the period before 14 March - before you moved from Maehrisch-Ostrau to [[LOCATION:location_4|Prague]]; do you recall the migration of Jews into your town, into Maehrisch-Ostrau?
 
-**A.**It was not only Maehrisch-Ostrau. The movement began after Munich.
+**A.**It was not only Maehrisch-Ostrau. The movement began after [[LOCATION:location_122|Munich]].
 
 **Q.**When was that?
 
 **A.**Munich was...
 
-**Q.**Not Munich, when did the movement commence?
+**Q.**Not [[LOCATION:location_122|Munich]], when did the movement commence?
 
-**A.**The movement commenced from the day of Munich, on 8 November 1938.
+**A.**The movement commenced from the day of [[LOCATION:location_122|Munich]], on 8 November 1938.
 ---
 
-The Trial of Adolf Eichmann Sessions 19 (Part 2 of 5)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 19 (Part 2 of 5)
 
 ---
 
 **Q.**Did Jews come to your area?
 
-**A.**Jews came in their masses from the Sudeten district. - Mahrisch-Ostrau is close to Silesia - from Troppau, Jaegerndorf, Albrechtsdorf, and all the Jews of that district fled after the annexation of Sudentenland to Germany. They came not only to Maehrisch-Ostrau, but also to other centres, from Karlsbad, Marienbad, Komotay, Teplitz- Schoenau, Aussig, Reichenberg, Leitmevitz, Lubositz and many other places. The Jews there, of whom there were thousands, from the days of Masaryk and Benes, were loyal Czechoslovakian citizens and it was clear that as Czechs and as Jews they were caught in a trap.
+**A.**Jews came in their masses from the Sudeten district. - Mahrisch-Ostrau is close to [[LOCATION:location_103|Silesia]] - from Troppau, Jaegerndorf, Albrechtsdorf, and all the Jews of that district fled after the annexation of Sudentenland to [[LOCATION:location_2|Germany]]. They came not only to Maehrisch-Ostrau, but also to other centres, from Karlsbad, Marienbad, Komotay, Teplitz- Schoenau, Aussig, Reichenberg, Leitmevitz, Lubositz and many other places. The Jews there, of whom there were thousands, from the days of Masaryk and Benes, were loyal Czechoslovakian citizens and it was clear that as Czechs and as Jews they were caught in a trap.
 
-They had no alternative - they came overnight and went over to the Czech zone, and a tragedy began, since despite the fact that according to the treaty between Germany and the new, truncated Czechoslovakia, despite the fact that they had the right of option, they were not given any option, and they were chased from place to place. It was impossible for them to live in the Czechoslovakian zone. At that stage, we already began the operation we called "Czechoslovak Transfer."
+They had no alternative - they came overnight and went over to the Czech zone, and a tragedy began, since despite the fact that according to the treaty between [[LOCATION:location_2|Germany]] and the new, truncated [[LOCATION:location_15|Czechoslovakia]], despite the fact that they had the right of option, they were not given any option, and they were chased from place to place. It was impossible for them to live in the Czechoslovakian zone. At that stage, we already began the operation we called "Czechoslovak Transfer."
 
-**Q.**Yes, we shall come back to that. Let us return now to Prague. You mentioned the Police Commissar Fuchs. Do you remember being summoned to appear before him?
+**Q.**Yes, we shall come back to that. Let us return now to [[LOCATION:location_4|Prague]]. You mentioned the Police Commissar Fuchs. Do you remember being summoned to appear before him?
 
-**A.**That happened several weeks after we began working. And the tragedy, the most tragic factor, was the lack of time at our disposal. It began on 15 March 1939 and on 3 September 1939 came the declaration of war. Thus we had at our disposal only a period of some seven or eight months, and we felt already in March that not only was the danger of war approaching, but also that there was pressure on the part of the Gestapo just to get out, to get all the Jews out, to the extent possible. We then knew that it was only by means of illegal immigration to Palestine that we would be able to solve the problem.
+**A.**That happened several weeks after we began working. And the tragedy, the most tragic factor, was the lack of time at our disposal. It began on 15 March 1939 and on 3 September 1939 came the declaration of war. Thus we had at our disposal only a period of some seven or eight months, and we felt already in March that not only was the danger of war approaching, but also that there was pressure on the part of the [[ORGANIZATION:org_344|Gestapo]] just to get out, to get all the Jews out, to the extent possible. We then knew that it was only by means of illegal immigration to [[LOCATION:location_57|Palestine]] that we would be able to solve the problem.
 
-Our special, tragic situation lay in this, that on the one hand we had obtained from the British part of a loan which they had given to the Czechs for the Czechoslovakian Transfer. We needed help from Palestine - we needed certificates. It was very difficult, owing to the fact that after 11 November 1938, it became necessary to allot the certificates mainly to Germany and Austria, for we were not yet in such a perilous situation and we did not obtain certificates in sufficient numbers. And thirdly, there was nevertheless a need, under pressure from the Gestapo to organize the illegal immigration which we began only at a very late stage.
+Our special, tragic situation lay in this, that on the one hand we had obtained from the British part of a loan which they had given to the Czechs for the Czechoslovakian Transfer. We needed help from [[LOCATION:location_57|Palestine]] - we needed certificates. It was very difficult, owing to the fact that after 11 November 1938, it became necessary to allot the certificates mainly to [[LOCATION:location_2|Germany]] and [[LOCATION:location_14|Austria]], for we were not yet in such a perilous situation and we did not obtain certificates in sufficient numbers. And thirdly, there was nevertheless a need, under pressure from the [[ORGANIZATION:org_344|Gestapo]] to organize the illegal immigration which we began only at a very late stage.
 
-In order to organize illegal immigration on a large scale, we needed money. We did not need Czech money, which we had, but foreign exchange, foreign currency. There was no other possibility but to obtain the foreign currency from the Joint. We were helped mainly by Mr. Joseph Schwartz who at that time had moved to Paris. A conference of the Joint was to take place there, and we wanted to send a delegation to this conference in order to obtain funding for illegal transports.
+In order to organize illegal immigration on a large scale, we needed money. We did not need Czech money, which we had, but foreign exchange, foreign currency. There was no other possibility but to obtain the foreign currency from the Joint. We were helped mainly by Mr. [[PERSON:person_465|Joseph Schwartz]] who at that time had moved to [[LOCATION:location_61|Paris]]. A conference of the Joint was to take place there, and we wanted to send a delegation to this conference in order to obtain funding for illegal transports.
 
-Then Police Commissar Fuchs told Dr. Kafka that we could send three representatives to this conference in Paris. There was a combined meeting of the Jewish Community Council and the Zionist Organization. I presided over this meeting. It was very difficult to select the three delegates. We decided that Dr. Kafka should go on behalf of the community, Dr. Frantisek Friedmann as the financial expert, and I suggested sending Mrs. Marie Schmolka who was an outstanding social worker and a wonderful woman.
+Then Police Commissar Fuchs told Dr. Kafka that we could send three representatives to this conference in [[LOCATION:location_61|Paris]]. There was a combined meeting of the [[ORGANIZATION:org_315|Jewish Community Council]] and the Zionist Organization. I presided over this meeting. It was very difficult to select the three delegates. We decided that Dr. Kafka should go on behalf of the community, Dr. Frantisek Friedmann as the financial expert, and I suggested sending Mrs. [[PERSON:person_466|Marie Schmolka]] who was an outstanding social worker and a wonderful woman.
 
-**Q.**Were these the three who went to Paris?
+**Q.**Were these the three who went to [[LOCATION:location_61|Paris]]?
 
-**A.**No, not all of them went to Paris, only two of them, since Mrs. Schmolka was not allowed to travel.
+**A.**No, not all of them went to [[LOCATION:location_61|Paris]], only two of them, since Mrs. Schmolka was not allowed to travel.
 
 **Q.**Do you know why?
 
-**A.**I know why. I proposed her. After the voting and after a hard struggle we decided that she should go. On the day after this meeting Dr. Kafka went to Police Commissar Fuchs and informed him that Dr. Kafka, Dr. Friedmann and Marie Schmolka would be going. When Fuchs heard that Schmolka was to go, he began shouting and said: How can you do this? Don't you know that she was arrested and spent a month in prison? Then Dr. Kafka did not know what to say. And he started shouting that we were sending a criminal character to Paris so that she could engage in underground activities there.
+**A.**I know why. I proposed her. After the voting and after a hard struggle we decided that she should go. On the day after this meeting Dr. Kafka went to Police Commissar Fuchs and informed him that Dr. Kafka, Dr. Friedmann and [[PERSON:person_466|Marie Schmolka]] would be going. When Fuchs heard that Schmolka was to go, he began shouting and said: How can you do this? Don't you know that she was arrested and spent a month in prison? Then Dr. Kafka did not know what to say. And he started shouting that we were sending a criminal character to [[LOCATION:location_61|Paris]] so that she could engage in underground activities there.
 
 **Q.**Who, ultimately, went in her place?
 
@@ -113,17 +113,17 @@ Then Police Commissar Fuchs told Dr. Kafka that we could send three representati
 
 **State Attorney Bar-Or:** I am sorry, I shall proceed further. When did Fuchs disappear?
 
-**Witness Meretz:** I think it was in July. He disappeared at the time the Jewish Emigration Centre was set up in Prague.
+**Witness Meretz:** I think it was in July. He disappeared at the time the Jewish Emigration Centre was set up in [[LOCATION:location_4|Prague]].
 
-**Q.**Do you remember that one day after Fuchs disappeared Edelstein returned from the Gestapo?
+**Q.**Do you remember that one day after Fuchs disappeared Edelstein returned from the [[ORGANIZATION:org_344|Gestapo]]?
 
 **A.**Yes.
 
 **Q.**What did he relate?
 
-**A.**Edelstein said that now there was going to be a Jewish Emigration Centre in Prague, that Eichmann had come to Prague with his staff. I remember the names: Hans Guenther, Burger, Drechsler, Brunner, Lederer, these I remember.
+**A.**Edelstein said that now there was going to be a Jewish Emigration Centre in [[LOCATION:location_4|Prague]], that Eichmann had come to [[LOCATION:location_4|Prague]] with his staff. I remember the names: [[PERSON:person_467|Hans Guenther]], Burger, Drechsler, Brunner, Lederer, these I remember.
 
-**Q.**Do you remember the establishment of the Jewish Emigration Centre in Prague?
+**Q.**Do you remember the establishment of the Jewish Emigration Centre in [[LOCATION:location_4|Prague]]?
 
 **A.**I remember it well.
 
@@ -133,7 +133,7 @@ Then Police Commissar Fuchs told Dr. Kafka that we could send three representati
 
 **Q.**What was Stresovice?
 
-**A.**It was a suburb of Prague; there, in a villa which had belonged to a Jew, this institution which was the central institution for all migration was set up.
+**A.**It was a suburb of [[LOCATION:location_4|Prague]]; there, in a villa which had belonged to a Jew, this institution which was the central institution for all migration was set up.
 
 **Q.**How was this institution established? Did you see it?
 
@@ -145,9 +145,9 @@ Then Police Commissar Fuchs told Dr. Kafka that we could send three representati
 
 **Q.**Where did he have to bring the application to?
 
-**A.**To the Palestine Office.
+**A.**To the [[LOCATION:location_57|Palestine]] Office.
 
-**Q.**First he was directed to the Palestine Office?
+**Q.**First he was directed to the [[LOCATION:location_57|Palestine]] Office?
 
 **A.**Yes, there it was necessary to obtain, first of all, the promise of a certificate. If he did not have a certificate, there was no chance for him to leave, apart from illegal immigrants who went separately.
 
@@ -159,7 +159,7 @@ Then Police Commissar Fuchs told Dr. Kafka that we could send three representati
 
 **A.**I believe in the autumn of 1939, close to the time when I left.
 
-**Q.**When you completed your duties in the Palestine Office, you were directed to the Jewish Emigration Centre - is that correct?
+**Q.**When you completed your duties in the [[LOCATION:location_57|Palestine]] Office, you were directed to the Jewish Emigration Centre - is that correct?
 
 **A.**Yes.
 
@@ -177,7 +177,7 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Q.**Where there Jews amongst them?
 
-**A.**No, They were Gestapo officials. Those managing the operation were on the first floor.
+**A.**No, They were [[ORGANIZATION:org_344|Gestapo]] officials. Those managing the operation were on the first floor.
 
 **Q.**Who was there?
 
@@ -193,7 +193,7 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Q.**What happened in the end?
 
-**A.**In the end the person went home and only about three or four later weeks did he receive his card. I have such a card at home - I have not brought it with me - which stated: you have to come to receive your Durchlassschein (exit permit). The person would come after that to the Emigration Centre and there he received his Durchlasssschein but sometimes he did not get it, but they told him: You have still to go up to the first floor to Mr. Burger, and this Burger would say: If you want the Durchlassschein bring one hundred thousand crowns, fifty thousand, twenty thousand, as the case might be. The Jew went away, took the money from whatever source he could, obtained a loan - sometimes we helped him from the Palestine Office, and he delivered the money without getting any receipt. This was another additional tax.
+**A.**In the end the person went home and only about three or four later weeks did he receive his card. I have such a card at home - I have not brought it with me - which stated: you have to come to receive your Durchlassschein (exit permit). The person would come after that to the Emigration Centre and there he received his Durchlasssschein but sometimes he did not get it, but they told him: You have still to go up to the first floor to Mr. Burger, and this Burger would say: If you want the Durchlassschein bring one hundred thousand crowns, fifty thousand, twenty thousand, as the case might be. The Jew went away, took the money from whatever source he could, obtained a loan - sometimes we helped him from the [[LOCATION:location_57|Palestine]] Office, and he delivered the money without getting any receipt. This was another additional tax.
 
 **Presiding Judge:** What was the equivalent of a hundred crowns?
 
@@ -209,7 +209,7 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Q.**I would ask you to give them to me. When did you receive them?
 
-**A.**I received them on 23 October 1939 and I left Prague on 15 November 1939.
+**A.**I received them on 23 October 1939 and I left [[LOCATION:location_4|Prague]] on 15 November 1939.
 
 **Q.**I ask permission to submit them to the Court.
 
@@ -219,21 +219,21 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Witness Meretz:** Yes, I remember.
 
-**Q.**You and your colleagues asked the Gestapo to allow you to participate?
+**Q.**You and your colleagues asked the [[ORGANIZATION:org_344|Gestapo]] to allow you to participate?
 
 **A.**Yes, we asked permission to send a large delegation in order to obtain the largest possible number of certificates and also to spur on illegal immigration. At the time we demanded, if I remember correctly, ten delegates. And ten persons went.
 
-**Q.**What was the Gestapo's attitude to the request?
+**Q.**What was the [[ORGANIZATION:org_344|Gestapo]]'s attitude to the request?
 
-**A.**The Gestapo granted it, saying that these people would have to return, and that no one should remain outside the country. If any were to remain outside, the Executive of the Committee would be responsible for them and those desiring to immigrate to Israel were not allowed to take part. For this reason I also was not able to participate in this Congress.
+**A.**The [[ORGANIZATION:org_344|Gestapo]] granted it, saying that these people would have to return, and that no one should remain outside the country. If any were to remain outside, the Executive of the Committee would be responsible for them and those desiring to immigrate to [[LOCATION:location_38|Israel]] were not allowed to take part. For this reason I also was not able to participate in this Congress.
 
-**Q.**Did you report in writing on your activities after you came to Palestine?
+**Q.**Did you report in writing on your activities after you came to [[LOCATION:location_57|Palestine]]?
 
-**A.**Yes, I reported on the activities of the Transfer Committee and on the transfer of 500,000 Pounds Sterling which we forwarded to Palestine within the framework of the Czechoslovak Transfer. I presented a report to the Executive of the Jewish Agency.
+**A.**Yes, I reported on the activities of the Transfer Committee and on the transfer of 500,000 Pounds Sterling which we forwarded to [[LOCATION:location_57|Palestine]] within the framework of the Czechoslovak Transfer. I presented a report to the Executive of the [[ORGANIZATION:org_305|Jewish Agency]].
 
-**Q.**When did you immigrate to Palestine?
+**Q.**When did you immigrate to [[LOCATION:location_57|Palestine]]?
 
-**A.**I left Prague on 15 November 1939 and reached this country on 21 November 1939.
+**A.**I left [[LOCATION:location_4|Prague]] on 15 November 1939 and reached this country on 21 November 1939.
 
 **Presiding Judge:** Did you mention the witness' report?
 
@@ -253,7 +253,7 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Dr. Servatius:** No.
 
-**Judge Halevi:** There is just one point that I did not quite understand. The Jews from the Sudeten zone who fled to the area of Prague and Bohemia were not allowed to exercise the option. Who did not allow them?
+**Judge Halevi:** There is just one point that I did not quite understand. The Jews from the Sudeten zone who fled to the area of [[LOCATION:location_4|Prague]] and [[LOCATION:location_88|Bohemia]] were not allowed to exercise the option. Who did not allow them?
 
 **Witness Meretz:** The Czechs.
 
@@ -267,29 +267,29 @@ After all that, when all these documents were ready, and sometimes this was trul
 
 **Q.**Please do so.
 
-**A.**The position was as follows: When, after all our exertions, we eventually were granted this matter of the transfer, it was not so simple, for following the outbreak of hostilities on 3 September 1939, the English entered the War. Then the British Consulate in Prague was closed down. But to our good fortune, the British consul had issued the certificates before the closing of the consulate. He gave the certificates to me, and they were kept in the safe of the Palestine Office in Prague.
+**A.**The position was as follows: When, after all our exertions, we eventually were granted this matter of the transfer, it was not so simple, for following the outbreak of hostilities on 3 September 1939, the English entered the War. Then the British Consulate in [[LOCATION:location_4|Prague]] was closed down. But to our good fortune, the British consul had issued the certificates before the closing of the consulate. He gave the certificates to me, and they were kept in the safe of the [[LOCATION:location_57|Palestine]] Office in [[LOCATION:location_4|Prague]].
 
-But the certificates did not provide us with British visas, and there was no way of entering Palestine. Our great friend in England to whom in a large measure, we owe not merely our thanks but also our lives, Sir Robert Stafford, Jan Masaryk and Leo Hermann - these three dealt with the transfer. They saw to it that a special British committee operated in Trieste, and in Trieste we obtained the British visa.
+But the certificates did not provide us with British visas, and there was no way of entering [[LOCATION:location_57|Palestine]]. Our great friend in [[LOCATION:location_43|England]] to whom in a large measure, we owe not merely our thanks but also our lives, Sir [[PERSON:person_468|Robert Stafford]], Jan Masaryk and Leo Hermann - these three dealt with the transfer. They saw to it that a special British committee operated in [[LOCATION:location_141|Trieste]], and in [[LOCATION:location_141|Trieste]] we obtained the British visa.
 ---
 
-The Trial of Adolf Eichmann Sessions 91 (Part 3 of 5)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 91 (Part 3 of 5)
 
 ---
 
-**Presiding Judge:** Who was Sir Robert Stafford?
+**Presiding Judge:** Who was Sir [[PERSON:person_468|Robert Stafford]]?
 
-**Witness Meretz:** He was in charge of the British loans. From the loan which Britain gave to Czechoslovakia as compensation for Munich, we received half a million pounds in order to finance immigration to Palestine in general. In order to reach Trieste, an Italian visa was required, and the Italians said: No, since in the "Durchlassungsschein" it said: "No return to the Protectorate." And we did not have a visa for Palestine, and consequently it was quite impossible to enter Italy. We asked Chaim Barlas in Geneva to do all he could to help. He went to Ciano in Rome. It was of no avail. In the end Ciano said that he would only agree if they brought an assurance that if the visa could not be obtained, it would be possible to return to the Protectorate.
+**Witness Meretz:** He was in charge of the British loans. From the loan which Britain gave to [[LOCATION:location_15|Czechoslovakia]] as compensation for [[LOCATION:location_122|Munich]], we received half a million pounds in order to finance immigration to [[LOCATION:location_57|Palestine]] in general. In order to reach [[LOCATION:location_141|Trieste]], an Italian visa was required, and the Italians said: No, since in the "Durchlassungsschein" it said: "No return to the Protectorate." And we did not have a visa for [[LOCATION:location_57|Palestine]], and consequently it was quite impossible to enter [[LOCATION:location_19|Italy]]. We asked Chaim Barlas in [[LOCATION:location_52|Geneva]] to do all he could to help. He went to Ciano in [[LOCATION:location_51|Rome]]. It was of no avail. In the end Ciano said that he would only agree if they brought an assurance that if the visa could not be obtained, it would be possible to return to the Protectorate.
 
 **Presiding Judge:** Ciano - was he the Italian Foreign Minister?
 
-**Witness Meretz:** Yes. Ya'akov Edelstein went to the Gestapo and impressed on them that no Jew would return; if he does not get the Palestine visa, he will do anything, but he will not return to the Protectorate. Then Eichmann issued a directive to give us, on the "Durchlassschein" the semblance of an assurance, so that the Italians could give us the visa. On the strength of that we secured the Italian visa and on the strength of that we were able to depart.
+**Witness Meretz:** Yes. [[PERSON:person_463|Ya'akov Edelstein]] went to the [[ORGANIZATION:org_344|Gestapo]] and impressed on them that no Jew would return; if he does not get the [[LOCATION:location_57|Palestine]] visa, he will do anything, but he will not return to the Protectorate. Then Eichmann issued a directive to give us, on the "Durchlassschein" the semblance of an assurance, so that the Italians could give us the visa. On the strength of that we secured the Italian visa and on the strength of that we were able to depart.
 
 **State Attorney Bar-Or:** Who approached Eichmann in this matter?
 
-**Witness Meretz:** Ya'akov Edelstein, on behalf of the Transfer Committee. He was our liaison with the Gestapo. He was also, subsequently, the "Judenaeltester" in Theresienstadt.
+**Witness Meretz:** [[PERSON:person_463|Ya'akov Edelstein]], on behalf of the Transfer Committee. He was our liaison with the [[ORGANIZATION:org_344|Gestapo]]. He was also, subsequently, the "Judenaeltester" in [[LOCATION:location_124|Theresienstadt]].
 
 **Presiding Judge:** I am certain that you still have much on which to testify.
 
-**Witness Meretz:** Finally, I only want to add that Franz Kahn, Edelstein, Zucker and my brother and his children - all of them were put to death; they died in October 1944, at the last moment.
+**Witness Meretz:** Finally, I only want to add that [[PERSON:person_464|Franz Kahn]], Edelstein, Zucker and my brother and his children - all of them were put to death; they died in October 1944, at the last moment.
 
 **Presiding Judge:** Thank you Dr. Meretz, you have concluded

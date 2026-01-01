@@ -1,4 +1,4 @@
-# Testimony of Michael Podchlewnik
+# Testimony of [[PERSON:witness_64|Michael Podchlewnik]]
 
 **Session:** 65
 
@@ -12,7 +12,7 @@
 
 **A.**I work in a chocolate factory, making chocolate wafers.
 
-**Q.**When the War broke out, you were living in a town named Kolo, correct?
+**Q.**When the War broke out, you were living in a town named [[LOCATION:location_283|Kolo]], correct?
 
 **A.**Yes.
 
@@ -22,17 +22,17 @@
 
 **Q.**Where did they tell you were to go?
 
-**A.**It was said we were being taken to Chelmno for work.
+**A.**It was said we were being taken to [[LOCATION:location_168|Chelmno]] for work.
 
-**Q.**When were you taken to Chelmno?
+**Q.**When were you taken to [[LOCATION:location_168|Chelmno]]?
 
-**A.**They took me to Chelmno late in 1941.
+**A.**They took me to [[LOCATION:location_168|Chelmno]] late in 1941.
 
 **Q.**You alone, or were there other people as well?
 
 **A.**There were thirty of us.
 
-**Q.**Who took you to Chelmno?
+**Q.**Who took you to [[LOCATION:location_168|Chelmno]]?
 
 **A.**The police.
 
@@ -44,21 +44,21 @@
 
 **A.**They were taking healthy people, those selected; there were not many at that time, most had already been deported to the camps. A few strong ones still remained, and all these were taken out of bed at night and brought to the German police.
 
-**Q.**And you were taken to Chelmno?
+**Q.**And you were taken to [[LOCATION:location_168|Chelmno]]?
 
-**A.**To Chelmno.
+**A.**To [[LOCATION:location_168|Chelmno]].
 
 **Q.**Where did they take you to from there?
 
-**A.**They led me into a palace at Chelmno. It was a country estate, and before the War was the mansion.
+**A.**They led me into a palace at [[LOCATION:location_168|Chelmno]]. It was a country estate, and before the War was the mansion.
 
 **Q.**And where did they take you to in that palace?
 
-**A.**They brought us into the yard and put us on a truck. We sat there, and in the back rode SS men with machine guns who brought us straight to Chelmno.
+**A.**They brought us into the yard and put us on a truck. We sat there, and in the back rode SS men with machine guns who brought us straight to [[LOCATION:location_168|Chelmno]].
 
-**Q.**You arrived at Chelmno. Where did you go in Chelmno?
+**Q.**You arrived at [[LOCATION:location_168|Chelmno]]. Where did you go in [[LOCATION:location_168|Chelmno]]?
 
-**A.**As soon as we arrived in Chelmno, we alighted from the truck. Some thirty SS men came up and took up positions on both sides. Then they counted us as we got down from the truck. They opened a door into a house, that place which used to be the palace. In the back there was a cellar, and they led us all into the cellar and locked us in.
+**A.**As soon as we arrived in [[LOCATION:location_168|Chelmno]], we alighted from the truck. Some thirty SS men came up and took up positions on both sides. Then they counted us as we got down from the truck. They opened a door into a house, that place which used to be the palace. In the back there was a cellar, and they led us all into the cellar and locked us in.
 
 **Q.**Was there writing on the walls of this cellar?
 
@@ -196,28 +196,28 @@
 
 **Q.**And you hid with a peasant who helped you? Is that so?
 
-**A.**I was running, but I knew where I was. I knew the forest and the whole area well. I could not help crossing the road. When I was crossing the road, I saw a SS man, about a hundred metres away, and I recognized him. I wanted to run up the hill, but he opened fire from afar. So I ran into the forest on the other side. I did not want to go back to my town. So I came to a peasant's house. It was snowing. I hid there for forty-eight hours. He did not know that I was in the barn. I heard people talking in Polish that two Jews had escaped from Chelmno and they were searching for them.
+**A.**I was running, but I knew where I was. I knew the forest and the whole area well. I could not help crossing the road. When I was crossing the road, I saw a SS man, about a hundred metres away, and I recognized him. I wanted to run up the hill, but he opened fire from afar. So I ran into the forest on the other side. I did not want to go back to my town. So I came to a peasant's house. It was snowing. I hid there for forty-eight hours. He did not know that I was in the barn. I heard people talking in Polish that two Jews had escaped from [[LOCATION:location_168|Chelmno]] and they were searching for them.
 
 **Q.**Later, you met the other person who escaped, whose name was Weiner?
 
 **A.**Yes, I met him later.
 ---
 
-**Q.**But he was killed at Zamosc in 1944?
+**Q.**But he was killed at [[LOCATION:location_175|Zamosc]] in 1944?
 
-**A.**I don't know if this was at Zamosc. I met him when I came to the town of Grabow. I did not meet him later. At Grabow, I suggested that we get away together. But he said he still had family somewhere, he could not.
+**A.**I don't know if this was at [[LOCATION:location_175|Zamosc]]. I met him when I came to the town of Grabow. I did not meet him later. At Grabow, I suggested that we get away together. But he said he still had family somewhere, he could not.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 
 **Dr. Servatius:** I have no questions to the witness.
 
-**Presiding Judge:** In what province in Poland is Chelmno?
+**Presiding Judge:** In what province in [[LOCATION:location_5|Poland]] is [[LOCATION:location_168|Chelmno]]?
 
-**Attorney General:** Near Poznan, Sir.
+**Attorney General:** Near [[LOCATION:location_105|Poznan]], Sir.
 
 **Presiding Judge:** Is it the same as Kulm?
 
-**Attorney General:** Kulmhof.
+**Attorney General:** [[LOCATION:location_290|Kulmhof]].
 
 **Presiding Judge:** In the Warthegau?
 
@@ -225,7 +225,7 @@
 
 **Presiding Judge:** [to witness] Is that so? [to interpreter] Please ask him about that.
 
-**A.**[Answering the interpreter] Chelmno is in the Warthegau, in the province of Poznan.
+**A.**[Answering the interpreter] [[LOCATION:location_168|Chelmno]] is in the Warthegau, in the province of [[LOCATION:location_105|Poznan]].
 
 **Attorney General:** I ask to call Mr. Zurawski.
 

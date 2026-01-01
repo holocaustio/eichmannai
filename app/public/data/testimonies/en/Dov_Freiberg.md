@@ -1,4 +1,4 @@
-# Testimony of Dov Freiberg
+# Testimony of [[PERSON:witness_21|Dov Freiberg]]
 
 **Session:** 64
 
@@ -8,15 +8,15 @@
 
 **Witness Freiberg:** Yes.
 
-**Q.**When the Second World War broke out, you lived in Lodz?
+**Q.**When the [[EVENT:event_383|Second World War]] broke out, you lived in [[LOCATION:location_81|Lodz]]?
 
 **A.**Yes.
 
 **Q.**Your family was starving and, in the case of your mother, there began a condition which was familiar in the ghetto, of swelling up from hunger?
 
-**A.**That was in the Warsaw Ghetto. We ran away from Lodz - after we had been in the Lodz Ghetto for some days, we fled to the Warsaw Ghetto. And we were there, I was there, until 1942. The situation then got much worse, we sold whatever we possessed, and a stage was reached in the house where we had nothing to eat. My grandfather and my grandmother were confined to bed.
+**A.**That was in the [[LOCATION:location_93|Warsaw]] Ghetto. We ran away from [[LOCATION:location_81|Lodz]] - after we had been in the [[LOCATION:location_81|Lodz]] Ghetto for some days, we fled to the [[LOCATION:location_93|Warsaw]] Ghetto. And we were there, I was there, until 1942. The situation then got much worse, we sold whatever we possessed, and a stage was reached in the house where we had nothing to eat. My grandfather and my grandmother were confined to bed.
 
-My mother - in order to give us something to eat - hardly ate, and then the bloated condition began. And then she urged me, since I was one of the weaker children, to escape from the Warsaw Ghetto, to flee to the Lublin district, where relatives of ours lived - a more distant family.
+My mother - in order to give us something to eat - hardly ate, and then the bloated condition began. And then she urged me, since I was one of the weaker children, to escape from the [[LOCATION:location_93|Warsaw]] Ghetto, to flee to the [[LOCATION:location_142|Lublin district]], where relatives of ours lived - a more distant family.
 
 **Q.**And so you escaped to a townlet?
 
@@ -66,15 +66,15 @@ My mother - in order to give us something to eat - hardly ate, and then the bloa
 
 **Q.**What was it that the people did not believe?
 
-**A.**That there was any extermination at all. They knew that there were killings, we had previously been present at many situations, but total extermination - this they did not believe under any circumstances. Even when they were in the congested freight cars, the people were glad that they were not traveling in the direction of Lublin, the location of the Majdanek camp, which was regarded as a hard labour camp in those times, but that they were travelling towards the east. The "east" in those days meant, as rumour had it, that they were going to the Ukraine for agricultural work.
+**A.**That there was any extermination at all. They knew that there were killings, we had previously been present at many situations, but total extermination - this they did not believe under any circumstances. Even when they were in the congested freight cars, the people were glad that they were not traveling in the direction of [[LOCATION:location_35|Lublin]], the location of the [[LOCATION:location_281|Majdanek]] camp, which was regarded as a hard labour camp in those times, but that they were travelling towards the east. The "east" in those days meant, as rumour had it, that they were going to the [[LOCATION:location_12|Ukraine]] for agricultural work.
 
 **Q.**When was this?
 
-**A.**This was in May, 1942. I remember a case where a Jew came to this townlet where we were and said to us: "Don't believe it; people are not being taken to the Ukraine, but to Belzec, where they are put to death." I don't remember what they wanted to do to this Jew, they would not believe him, they thought this man had come to create panic, and that what he was saying was not possible.
+**A.**This was in May, 1942. I remember a case where a Jew came to this townlet where we were and said to us: "Don't believe it; people are not being taken to the [[LOCATION:location_12|Ukraine]], but to [[LOCATION:location_154|Belzec]], where they are put to death." I don't remember what they wanted to do to this Jew, they would not believe him, they thought this man had come to create panic, and that what he was saying was not possible.
 
 **Judge Halevi:** He came to the townlet?
 
-**Witness Freiberg:** Yes, into the townlet. And inside the camp, we were already a few hundred metres away from the gas chambers and, nevertheless, in the course of two weeks, or perhaps more, the Germans still managed to deceive even us. They said that in two or three weeks' time we would be reunited with our families. But we saw their personal effects, the following morning we were working with them. They maintained that they distributed other clothes, and that from Camp No. 3 trains were departing to the Ukraine.
+**Witness Freiberg:** Yes, into the townlet. And inside the camp, we were already a few hundred metres away from the gas chambers and, nevertheless, in the course of two weeks, or perhaps more, the Germans still managed to deceive even us. They said that in two or three weeks' time we would be reunited with our families. But we saw their personal effects, the following morning we were working with them. They maintained that they distributed other clothes, and that from Camp No. 3 trains were departing to the [[LOCATION:location_12|Ukraine]].
 
 **Attorney General:** Were there three camps in Sobibor?
 
@@ -96,19 +96,19 @@ My mother - in order to give us something to eat - hardly ate, and then the bloa
 
 **A.**The number remaining at the time was about a hundred to a hundred and fifty, something like that.
 
-**Q.**Was it then that you met for the first time the SS Unterscharfuehrer Paul?
+**Q.**Was it then that you met for the first time the SS [[PERSON:person_687|Unterscharfuehrer Paul]]?
 
 **A.**Yes. On that day, we were at work all day. We worked in groups. I was then working on removing from the courtyard the personal effects of the people who had undressed there. After they left the courtyard, we had to take away their belongings and arrange them in heaps. That was where I worked. Our people worked in all sorts of places, but in every place, after we returned, the maltreatment by the Germans was awful. Right from the first day, people were killed, shot, set on by a dog called Beri.
 
 **Q.**Whose dog was it?
 
-**A.**At first, the dog belonged to an SS man of Camp 3 who was called "Beider" (bathhouse attendant), because he was in charge of the bathhouses, the gas chambers. Afterwards, the dog was passed on to Unterscharfuehrer Paul, one of the greatest sadists in the camp. He used to call the dog and say: "Beri, my man, grab that dog - Beri, you are acting in my place." Generally speaking, very few of the people who were mauled by the dog remained alive, since the Germans could not stand injured persons, sick persons. I was bitten twice by that dog - I still bear the marks on my body. By chance - and everything was a matter of chance - I remained alive.
+**A.**At first, the dog belonged to an SS man of Camp 3 who was called "Beider" (bathhouse attendant), because he was in charge of the bathhouses, the gas chambers. Afterwards, the dog was passed on to [[PERSON:person_687|Unterscharfuehrer Paul]], one of the greatest sadists in the camp. He used to call the dog and say: "Beri, my man, grab that dog - Beri, you are acting in my place." Generally speaking, very few of the people who were mauled by the dog remained alive, since the Germans could not stand injured persons, sick persons. I was bitten twice by that dog - I still bear the marks on my body. By chance - and everything was a matter of chance - I remained alive.
 
 There was one other dog, but he was less powerful. The dog "Beri" I am talking about was the size of a large calf, and if he got hold of a man, that man was helpless. The dog would attack him, and he had to submit to it. There were latrines there. After work, people were afraid to sit there. The dog was very well trained; if he came to any place, he would finish off anyone who was there.
 
 **Q.**Let us get back to your first day in the camp. So Paul came there, right?
 
-**A.**In the evening, after everyone had returned from their work, they lined us up for an Appell, a roll-call. Then Wagner came. While he was with us, he rose in rank very rapidly. At first, he was an Unterscharfuehrer, and, if I am not mistaken, he ended up as Oberscharfuehrer. He came along and told us the tale that people were going to the Ukraine: "and you, if you work, will do well; if not - you will be put to death."
+**A.**In the evening, after everyone had returned from their work, they lined us up for an Appell, a roll-call. Then Wagner came. While he was with us, he rose in rank very rapidly. At first, he was an Unterscharfuehrer, and, if I am not mistaken, he ended up as Oberscharfuehrer. He came along and told us the tale that people were going to the [[LOCATION:location_12|Ukraine]]: "and you, if you work, will do well; if not - you will be put to death."
 
 After that, Paul came up to us and asked: "Who is sick? Who is tired? Anyone not wanting to work should fall out." There were several cases of people who stepped out. Most of them understood the hint, and the others also understood the hint, but they were tired of living. Not all of them stepped out. He would come up and say: "You, it's enough for you, why do you want to work? You can live well. Fall out." He would choose the people. There was a long time when he used to do the same thing every evening, choosing ten to twelve persons.
 
@@ -141,11 +141,11 @@ There was a Ukrainian SS man by the name of Taras, and he used to tell him: "Tar
 
 **Q.**What was the method of dealing with these people, from the moment they arrived at Sobibor, at the railway station?
 
-**A.**In 1942, in the middle of the year 1942, transports arrived from Poland; others came from Czechoslovakia, from Slovakia, Austria and Germany. Most of these people did not know or suspect anything but were incredulous. The treatment was like this: They arrived, the freight cars were brought in, the people were taken off rapidly and made to run to this place where they separated the men, women and children. That was a kind of half-way station. The people were put into a closed-in yard.
+**A.**In 1942, in the middle of the year 1942, transports arrived from [[LOCATION:location_5|Poland]]; others came from [[LOCATION:location_15|Czechoslovakia]], from [[LOCATION:location_84|Slovakia]], [[LOCATION:location_14|Austria]] and [[LOCATION:location_2|Germany]]. Most of these people did not know or suspect anything but were incredulous. The treatment was like this: They arrived, the freight cars were brought in, the people were taken off rapidly and made to run to this place where they separated the men, women and children. That was a kind of half-way station. The people were put into a closed-in yard.
 
 The entire path lay between barbed wire fences, and, on the way, there were signs "To the Showers." Inside the yard, there were also large signs "To the Showers," and there were also signs "To the Cash Desk." The cash desk stood in a corner. There was a door there, and that was where the people assembled.
 
-Then Oberscharfuehrer Michel would appear, whom we called "the preacher," and he addressed the people. His speeches were usually adapted to each transport. But, at that time, he would repeat the same story about what would happen there. They were going to the Ukraine where they would establish farms, they would have to work - work hard. And sometimes people used to ask questions: "What is going to happen to the women?" And he would reply: "If they want to live under better conditions, they, too, will have to work." After that, he would add: "You have to get undressed, but you must leave your belongings in order - we don't have much time - so that when you come out of the showers, it will not take long."
+Then [[PERSON:person_688|Oberscharfuehrer Michel]] would appear, whom we called "the preacher," and he addressed the people. His speeches were usually adapted to each transport. But, at that time, he would repeat the same story about what would happen there. They were going to the [[LOCATION:location_12|Ukraine]] where they would establish farms, they would have to work - work hard. And sometimes people used to ask questions: "What is going to happen to the women?" And he would reply: "If they want to live under better conditions, they, too, will have to work." After that, he would add: "You have to get undressed, but you must leave your belongings in order - we don't have much time - so that when you come out of the showers, it will not take long."
 
 The people believed him. They undressed, they arranged their possessions: money, gold and securities - these they handed over at the cash desk. In most cases, people handed over their money, but, at any rate, there were also some who buried the money and the gold in the sand - there was sand there - or in all sorts of corners, in the hope that on their return they would have some money. And then they walked through this narrow door, passing between two barbed wire fences, for a distance of three hundred metres.
 
@@ -257,7 +257,7 @@ That night, I decided to end my life. I took a belt, I tried again - yes and no.
 
 **A.**We simply did not know what was happening. It is quite indescribable. Everyone awaited death. And, when another transport arrived, of course we sat there and wept, all of us. We did not talk about food or anything.
 
-But, later on, there were cases where people...to some extent, we became accustomed to it. We acquired another way of thinking. We saw what was going on, but thought the whole world was being destroyed. We saw that transports were arriving in all kinds of ways, the people were well dressed, as if they had gone on a visit somewhere, people from France and Holland, from all sorts of countries, and all this went on, day after day, day after day. We became used to the nature of the internal regime. In some way, we became accustomed to it. To some extent, we got used to the way of life.
+But, later on, there were cases where people...to some extent, we became accustomed to it. We acquired another way of thinking. We saw what was going on, but thought the whole world was being destroyed. We saw that transports were arriving in all kinds of ways, the people were well dressed, as if they had gone on a visit somewhere, people from [[LOCATION:location_30|France]] and Holland, from all sorts of countries, and all this went on, day after day, day after day. We became used to the nature of the internal regime. In some way, we became accustomed to it. To some extent, we got used to the way of life.
 
 I must also point out that new victims were always arriving. These suffered more than those who were called old-timers. In certain cases, the old-timers obtained particular jobs. I also received such a job, afterwards. I worked as a cleaner of the living quarters of the Ukrainians.
 
@@ -283,7 +283,7 @@ It was like this, on the one hand. On the other hand, we began thinking of a pos
 
 **Q.**Perhaps you would recite to us one or two typical verses from these songs that you were obliged to sing?
 
-**A.**"Oh, gib uns Moses wieder. Zu Deine Glaubensbrueder soll sich das Wasser wieder teilen, stellen auf Wassersaeulen, fest stellen wie eine Felsenwand; dass in die schmale Rinne die ganze Judenschaft drinne. Mach die Klappe zu, und alle Voelker haben Ruhe. Jerusalem, Halleluja, Amen." (Oh, send Moses back to us. Let the waters again part for the members of your faith and erect columns of water, firm as a rock, so that in the narrow channel the whole of Jewry is inside. Close the hatch, and all the nations shall have peace. Jerusalem, Hallelujah, Amen.)
+**A.**"Oh, gib uns Moses wieder. Zu Deine Glaubensbrueder soll sich das Wasser wieder teilen, stellen auf Wassersaeulen, fest stellen wie eine Felsenwand; dass in die schmale Rinne die ganze Judenschaft drinne. Mach die Klappe zu, und alle Voelker haben Ruhe. [[LOCATION:location_44|Jerusalem]], Halleluja, Amen." (Oh, send Moses back to us. Let the waters again part for the members of your faith and erect columns of water, firm as a rock, so that in the narrow channel the whole of Jewry is inside. Close the hatch, and all the nations shall have peace. [[LOCATION:location_44|Jerusalem]], Hallelujah, Amen.)
 
 This was accompanied by movements, raising the hands, bending the knees, with all kinds of grimacing. It lasted three to four hours.
 
@@ -293,14 +293,14 @@ This was accompanied by movements, raising the hands, bending the knees, with al
 
 **Q.**Repeat one verse to us.
 
-**A.**The final part ended as follows: "Von Israel abstamme ich. Die Ehrlichkeit verdamme ich. Zwei sind wie eins. Dann esse ich nicht vom Schwein. Ich bin eich Jude, will ein Jude sein." (I am of Jewish stock. I damn honesty. Two are like one. I don't eat pork. I am a Jew, I want to be a Jew.)
+**A.**The final part ended as follows: "Von [[LOCATION:location_38|Israel]] abstamme ich. Die Ehrlichkeit verdamme ich. Zwei sind wie eins. Dann esse ich nicht vom Schwein. Ich bin eich Jude, will ein Jude sein." (I am of Jewish stock. I damn honesty. Two are like one. I don't eat pork. I am a Jew, I want to be a Jew.)
 ---
 
 **Q.**Did they also inflict terrible maltreatment on you, the team of workers?
 
 **A.**It is simply difficult to describe. It can be said that it is hard for me to believe it today. I can talk about one of the many days that passed. We were then working in the sorting camp. We began sorting out the piles that had been heaped up in the course of time. We finished taking out personal belongings from one shed. Paul was then our commander. It so happened that, between the rafters and the roof, a torn umbrella had been left behind. He sent one of our boys to climb up and bring the umbrella down. It was at a height of seven to eight metres - these were large sheds. The lad climbed up through the rafters, moving along on his hands, he was not agile enough and fell down, breaking his limbs. Because he had fallen, he received twenty-five floggings, and Beri dealt with him.
 
-This appealed to Paul, and he went and called other Germans. I remember Oberscharfuehrer Michel, Schteufel and others. He called out to them: "I have discovered parachutists amongst the Jews. Do you want to see? They burst out laughing, and he began sending up people, one after the other, to go on to the rafters. I went over it twice - I was fairly agile; and whoever fell - these were older people, or they fell out of fear - fell to the ground. When they fell to the ground, they were given murderous blows, and the dog bit them incessantly. In the midst of all this, Paul began running around, went into an ecstasy; when anyone was bitten, he put a bullet into him on the spot. All of those working there went through this "game".
+This appealed to Paul, and he went and called other Germans. I remember [[PERSON:person_688|Oberscharfuehrer Michel]], Schteufel and others. He called out to them: "I have discovered parachutists amongst the Jews. Do you want to see? They burst out laughing, and he began sending up people, one after the other, to go on to the rafters. I went over it twice - I was fairly agile; and whoever fell - these were older people, or they fell out of fear - fell to the ground. When they fell to the ground, they were given murderous blows, and the dog bit them incessantly. In the midst of all this, Paul began running around, went into an ecstasy; when anyone was bitten, he put a bullet into him on the spot. All of those working there went through this "game".
 
 After that someone invented something else. There were many mice there. When the personal effects were piled up, there were a lot of mice. An order was given: Five men were to go outside, the rest were to catch mice. Everyone had to catch two mice; whoever failed to do so would be put to death. It was not difficult to catch them. We caught mice. They tied up the bottoms of the trousers of the five men, and we had to fill them with mice. The men were ordered to stand at attention. They could not stand that. They wriggled this way and that way and were given murderous blows. There was loud laughter on the part of the Germans.
 
@@ -384,7 +384,7 @@ Later on, there was a transport of a complete hospital - I think it was from Hol
 
 **A.**This was a transport, the like of which we had never seen before. The freight cars were broken. We saw the freight cars standing outside. There were perhaps hundreds, perhaps thousands, of SS men, Ukrainians, who accompanied this train. The freight cars were broken. Inside the people were half dead, half alive. The people were naked. The dead, the living - all together, the injured...it was something terrible. They began bringing these people into the yard where people were being undressed. There was screaming there, people resisted. They resisted, they would not move from place to place. They put up resistance to everything.
 
-The Germans then increased the number of guards. They were all armed with machine guns. They were firing all the time. Under the pressure of the shooting, some fell, some walked on. Part of them were brought into the yard. Then Oberscharfuehrer Michel shouted, "Silence!"; he shouted loudly, "Silence!". He succeeded, people quietened somewhat. He said to them: "I know very well that you want to die, but that will not help you. You have got to work once more." He said that in a very determined voice.
+The Germans then increased the number of guards. They were all armed with machine guns. They were firing all the time. Under the pressure of the shooting, some fell, some walked on. Part of them were brought into the yard. Then [[PERSON:person_688|Oberscharfuehrer Michel]] shouted, "Silence!"; he shouted loudly, "Silence!". He succeeded, people quietened somewhat. He said to them: "I know very well that you want to die, but that will not help you. You have got to work once more." He said that in a very determined voice.
 
 To some extent, perhaps, his trick worked. Some people started walking. They undressed. This worked, perhaps, for a few minutes only, and then the screaming reached the heavens. And the Germans killed more people on the way than they brought to the gas chambers.
 
@@ -487,7 +487,7 @@ Then an order was given to the entire block to move to Camp 3 - the block number
 
 **Q.**We won't talk about that. In this way, you were saved. How many remained alive after the War of the three hundred who escaped?
 
-**A.**We met after the War in Lublin, all those who fled, and all of them were in the district - there were some thirty odd persons.
+**A.**We met after the War in [[LOCATION:location_35|Lublin]], all those who fled, and all of them were in the district - there were some thirty odd persons.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions to the witness?
 
@@ -605,13 +605,13 @@ Then an order was given to the entire block to move to Camp 3 - the block number
 
 **Q.**Did you want to add something? If it is something important.
 
-**A.**Yes, I wanted to describe a transport from Majdanek. This was something special.
+**A.**Yes, I wanted to describe a transport from [[LOCATION:location_281|Majdanek]]. This was something special.
 
 **Attorney General:** This was a transport that reached the camp, all of them virtually skeletons. If the Court will allow the witness, it should only take a minute.
 
 **Presiding Judge:** Very well, you may add this.
 
-**Witness Freiberg:** Once a transport arrived from Majdanek. They were human skeletons, dressed in striped clothes. On that day, there had apparently been some breakdown in the gas chambers, and they spent the night with us, sleeping in the yard. They were people to whom nothing mattered at all. When they were struck - they did not shout, they merely moaned. We received an order to distribute food to them. We went to give them food, and then they expended their last ounce of energy. They were lying, one on top of the other, they rose up together, whoever was able to, they trod on each other, in order to obtain their piece of bread, and it became almost impossible to distribute the food to them.
+**Witness Freiberg:** Once a transport arrived from [[LOCATION:location_281|Majdanek]]. They were human skeletons, dressed in striped clothes. On that day, there had apparently been some breakdown in the gas chambers, and they spent the night with us, sleeping in the yard. They were people to whom nothing mattered at all. When they were struck - they did not shout, they merely moaned. We received an order to distribute food to them. We went to give them food, and then they expended their last ounce of energy. They were lying, one on top of the other, they rose up together, whoever was able to, they trod on each other, in order to obtain their piece of bread, and it became almost impossible to distribute the food to them.
 
 The next morning, they were taken to the gas chambers. And in the yard, where they had been, several hundred dead were left behind during the night. There were even some who were not dead, and some who were dragged along. Then Untersturmfuehrer Fraenzel came and selected twenty men - I was one of them - and said to us: "Don't be afraid - you have to undress completely and carry the bodies that have remained in the yard to the carts." This was a distance of 150-200 metres. It is hard to describe what feelings this evoked to carry the corpses on our naked bodies. The Germans urged us on all the time with blows. Everything was done at the double. We could not hold a man. We had to drag him by the legs.
 

@@ -261,7 +261,7 @@ export function AIAssistantChat() {
         {messages.map((message) => (
           <div
             key={message.id}
-            className={`flex ${message.role === 'user' ? 'justify-end' : 'justify-start'}`}
+            className={`flex flex-col ${message.role === 'user' ? 'items-end' : 'items-start'}`}
           >
             <div
               className={`max-w-[85%] rounded-2xl px-4 py-3 ${
@@ -276,6 +276,25 @@ export function AIAssistantChat() {
                 <div className="text-sm prose-sm">{parseMarkdown(message.content)}</div>
               )}
             </div>
+            {/* Follow-up questions */}
+            {message.role === 'assistant' && message.followUpQuestions && message.followUpQuestions.length > 0 && (
+              <div className="flex flex-wrap gap-2 mt-2 max-w-[85%]">
+                {message.followUpQuestions.map((question, idx) => (
+                  <button
+                    key={idx}
+                    onClick={() => {
+                      if (!isLoading) {
+                        sendMessage(question);
+                      }
+                    }}
+                    disabled={isLoading}
+                    className="text-xs px-3 py-1.5 rounded-full bg-stone-800 border border-stone-700 text-stone-400 hover:text-amber-400 hover:border-amber-600/50 transition-all duration-200 text-left disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {question}
+                  </button>
+                ))}
+              </div>
+            )}
           </div>
         ))}
 

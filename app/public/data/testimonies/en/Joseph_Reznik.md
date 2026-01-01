@@ -1,4 +1,4 @@
-# Testimony of Joseph Reznik
+# Testimony of [[PERSON:witness_56|Joseph Reznik]]
 
 **Session:** 64
 
@@ -8,7 +8,7 @@
 
 **Witness**: Reznik, Joseph.
 
-**Attorney General:** You live in Tel Aviv, Ibn Gabirol Street 94?
+**Attorney General:** You live in [[LOCATION:location_42|Tel Aviv]], Ibn Gabirol Street 94?
 
 **Witness Reznik:** Yes.
 
@@ -16,11 +16,11 @@
 
 **A.**Yes.
 
-**Q.**When the Second World War broke out, you were in the Polish army. You were taken prisoner by the Germans, were taken through all kinds of prisoner camps, and finally were brought to the notorious camp at No. 7 Lipowa Street in Lublin.
+**Q.**When the [[EVENT:event_383|Second World War]] broke out, you were in the Polish army. You were taken prisoner by the Germans, were taken through all kinds of prisoner camps, and finally were brought to the notorious camp at No. 7 Lipowa Street in [[LOCATION:location_35|Lublin]].
 
 **A.**Yes.
 
-**Q.**Then you were put to work, together with other Jewish prisoners of war, to erect the Majdanek camp. Correct?
+**Q.**Then you were put to work, together with other Jewish prisoners of war, to erect the [[LOCATION:location_281|Majdanek]] camp. Correct?
 
 **A.**Yes.
 
@@ -28,7 +28,7 @@
 
 **A.**That was in 1942. They took us, two hundred and forty men - we had also been there in 1941 - in order to erect the camp.
 
-**Q.**When were you employed in building the Majdanek camp?
+**Q.**When were you employed in building the [[LOCATION:location_281|Majdanek]] camp?
 
 **A.**They started building the camp in 1941.
 
@@ -52,11 +52,11 @@
 
 **A.**It was called the "death camp" because there were large trenches which had been dug, and we called it the "death field."
 
-**Q.**When were you transferred to live at Majdanek?
+**Q.**When were you transferred to live at [[LOCATION:location_281|Majdanek]]?
 
-**A.**I was at Majdanek for the first time in 1941, as a labourer, a prisoner of war. Later I was there in 1942 for a few weeks. I was fortunate. Our Scharfuehrer Schramm and the Sturmfuehrer Morfinkel came back, and took us back for labour at Lipowa 7. Only us, the prisoners of war.
+**A.**I was at [[LOCATION:location_281|Majdanek]] for the first time in 1941, as a labourer, a prisoner of war. Later I was there in 1942 for a few weeks. I was fortunate. Our Scharfuehrer Schramm and the Sturmfuehrer Morfinkel came back, and took us back for labour at [[LOCATION:location_282|Lipowa 7]]. Only us, the prisoners of war.
 
-**Q.**When you were at Majdanek, before they returned you to Lipowa 7, did they kill people there?
+**Q.**When you were at [[LOCATION:location_281|Majdanek]], before they returned you to [[LOCATION:location_282|Lipowa 7]], did they kill people there?
 
 **A.**Yes.
 
@@ -66,17 +66,17 @@
 
 **Q.**And in 1942?
 
-**A.**In 1942 there were already more fields, and from time to time labour gangs were sent to work in Lublin. Then more people were shot.
+**A.**In 1942 there were already more fields, and from time to time labour gangs were sent to work in [[LOCATION:location_35|Lublin]]. Then more people were shot.
 
 **Q.**You saw people there from various countries? From which countries?
 
-**A.**In 1941 I saw in Majdanek Russian prisoners of war.
+**A.**In 1941 I saw in [[LOCATION:location_281|Majdanek]] Russian prisoners of war.
 
 **Q.**Were they Jews or non-Jews?
 
 **A.**They were high-ranking officers, both Jewish and non- Jewish. The Russian Red Cross was there before them. But this was for the Russian prisoners of war. They were maltreated there.
 
-**Q.**After that, they brought you back to Majdanek again. Right?
+**Q.**After that, they brought you back to [[LOCATION:location_281|Majdanek]] again. Right?
 
 **A.**Yes.
 
@@ -84,17 +84,17 @@
 
 **A.**This was on 3 November 1943.
 
-**Q.**Were you the only one who was then brought to Majdanek?
+**Q.**Were you the only one who was then brought to [[LOCATION:location_281|Majdanek]]?
 
-**A.**No. At that time, there came to Lublin from all the camps in the vicinity units of the SS, extermination squads they were called. They came from Cracow.
+**A.**No. At that time, there came to [[LOCATION:location_35|Lublin]] from all the camps in the vicinity units of the SS, extermination squads they were called. They came from Cracow.
 
 **Q.**And they were taking Jews. From which localities?
 
-**A.**From Lublin, from Lipowa 7, and from all the surroundings of Lublin, from all the camps, and the remnants of Jews who were in Majdan-Tatarski, near Lublin.
+**A.**From [[LOCATION:location_35|Lublin]], from [[LOCATION:location_282|Lipowa 7]], and from all the surroundings of [[LOCATION:location_35|Lublin]], from all the camps, and the remnants of Jews who were in Majdan-Tatarski, near [[LOCATION:location_35|Lublin]].
 
 **Q.**Where did they take them to?
 
-**A.**All were brought to the same camp, the fifth field in Majdanek.
+**A.**All were brought to the same camp, the fifth field in [[LOCATION:location_281|Majdanek]].
 
 **Q.**What did they do with all these people on the 2nd and 3rd of November, 1943?
 
@@ -138,7 +138,7 @@
 
 **Q.**What kind of work did they take you to?
 
-**A.**On that day we were taken out to work. We were made to stand in line by that officer, and he came out and said: "As of today, you are no longer considered to be prisoners of war, you are Jewish prisoners, and you no longer have any right to live." This is what he said to us. After that, we were put on buses. Where exactly we were going, we did not know, since the buses were closed. They gave us new clothes, new tools, and we were on our way. We did not know where to. In the end, they told us that we had been brought to the Chelm forest. The forest was called Borki.
+**A.**On that day we were taken out to work. We were made to stand in line by that officer, and he came out and said: "As of today, you are no longer considered to be prisoners of war, you are Jewish prisoners, and you no longer have any right to live." This is what he said to us. After that, we were put on buses. Where exactly we were going, we did not know, since the buses were closed. They gave us new clothes, new tools, and we were on our way. We did not know where to. In the end, they told us that we had been brought to the [[LOCATION:location_151|Chelm]] forest. The forest was called Borki.
 
 **Q.**What were you told to do in the Borki forest?
 
@@ -243,7 +243,7 @@
 
 **Presiding Judge:** What happened to the others?
 
-**Witness Reznik:** The others - four people saved themselves together with me. Two others are here in Israel, and one is in America.
+**Witness Reznik:** The others - four people saved themselves together with me. Two others are here in [[LOCATION:location_38|Israel]], and one is in America.
 
 After the War, I went to the Russo-Polish Prosecutor's Office together with a companion of mine who is here in this country, and gave them a description of what happened there. We travelled with the Polish Prosecutor's men to that forest. We had written a testament in Russian, in Polish and in Yiddish, and that testament we buried inside a bottle like this [shows an ordinary bottle]. When I came there with the entire Russo-Polish Prosecutor's Office to find it, we came upon a place where there was concrete, big blocks of concrete. So we understood right away that the others did not manage to escape, because we had drawn lots who should go first and who should go later, and it appears that the concrete was poured so as to prevent them from getting out.
 

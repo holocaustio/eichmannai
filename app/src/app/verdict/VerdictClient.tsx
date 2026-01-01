@@ -2,11 +2,17 @@
 
 import { useEffect, useState } from 'react';
 import { useAIAssistant } from '../components/AIAssistant';
+import { parseEntityMarkers } from '../components/EntityLink';
 
 interface ParsedSection {
   type: 'heading' | 'paragraph' | 'major-heading';
   content: string;
   number?: string;
+}
+
+// Helper to render text with entity links
+function renderTextWithEntities(text: string, key: string) {
+  return parseEntityMarkers(text, key);
 }
 
 export default function VerdictClient() {
@@ -46,8 +52,8 @@ export default function VerdictClient() {
     const lines = text.split('\n');
     const sections: ParsedSection[] = [];
     
-    // Find where the body starts
-    const bodyStartIndex = lines.findIndex(l => l.includes('Adolf Eichmann has been brought'));
+    // Find where the body starts - look for "has been brought" to handle entity markers
+    const bodyStartIndex = lines.findIndex(l => l.includes('has been brought to trial'));
     if (bodyStartIndex === -1) return sections;
     
     // Join all lines from body start into one string, preserving line breaks
@@ -128,7 +134,7 @@ export default function VerdictClient() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+        <div className="max-w-4xl mx-auto text-center relative z-10 pt-32 pb-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
           <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">December 11-12, 1961</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             The Judgment
@@ -196,7 +202,7 @@ export default function VerdictClient() {
               if (section.type === 'major-heading') {
                 return (
                   <h2 key={idx} className="font-serif text-2xl text-stone-100 mt-16 mb-8 text-center">
-                    {section.content}
+                    {renderTextWithEntities(section.content, `mh-${idx}`)}
                   </h2>
                 );
               }
@@ -214,7 +220,7 @@ export default function VerdictClient() {
               // Paragraph
               return (
                 <p key={idx} className="text-stone-400 leading-relaxed text-lg">
-                  {section.content}
+                  {renderTextWithEntities(section.content, `p-${idx}`)}
                 </p>
               );
             })}

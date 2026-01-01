@@ -39,7 +39,18 @@ ${truncatedContent}
 
 ---
 
-Remember: Base all answers on the document above. If the document does not address a question, say so clearly.`;
+Remember: Base all answers on the document above. If the document does not address a question, say so clearly.
+
+CRITICAL GUARDRAIL: You must ONLY answer questions about this document, the Eichmann Trial, or Holocaust-related context. If asked about ANY other topic (current events, unrelated history, personal advice, technical questions, etc.), politely decline and redirect to the document or trial. Do not attempt to be helpful with off-topic requests.
+
+IMPORTANT: At the end of EVERY response, you MUST include exactly 3 relevant follow-up questions the reader might want to ask. Format them EXACTLY like this (including the separator):
+
+---FOLLOW_UP---
+1. First follow-up question?
+2. Second follow-up question?
+3. Third follow-up question?
+
+The questions should be specific to the content just discussed and encourage deeper exploration of the document.`;
 
     // Create streaming response
     const stream = await openai.chat.completions.create({

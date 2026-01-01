@@ -1,4 +1,4 @@
-# Testimony of Dr. Mordehai Chen
+# Testimony of [[PERSON:witness_47|Dr. Mordehai Chen]]
 
 **Session:** 71
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your name?
 
-**Witness:** Mordechai Chen.
+**Witness:** [[PERSON:person_720|Mordechai Chen]].
 
 **Presiding Judge:** Doctor?
 
@@ -18,17 +18,17 @@
 
 **Q.**Where do you work?
 
-**A.**In the Tel Aviv Municipal Hospital.
+**A.**In the [[LOCATION:location_42|Tel Aviv]] Municipal Hospital.
 
 **Q.**What are your duties there?
 
 **A.**I am the director of anaesthetic services.
 
-**Q.**During the Second World War you were in the British army, you served as a doctor, and, at the end of the War, you held the rank of Captain?
+**Q.**During the [[EVENT:event_383|Second World War]] you were in the British army, you served as a doctor, and, at the end of the War, you held the rank of Captain?
 
 **A.**That is correct.
 
-**Q.**Some days after the Bergen-Belsen camp was liberated, you requested permission to visit it?
+**Q.**Some days after the [[LOCATION:location_212|Bergen-Belsen]] camp was liberated, you requested permission to visit it?
 
 **A.**Yes.
 
@@ -38,7 +38,7 @@
 
 **Q.**On your way, you met a B. B. C. photographer?
 
-**A.**I met him there - in Bergen-Belsen itself.
+**A.**I met him there - in [[LOCATION:location_212|Bergen-Belsen]] itself.
 
 **Q.**Did you talk to him?
 
@@ -60,7 +60,7 @@
 
 **A.**Yes.
 
-**Q.**Do they depict the situation as you saw it with your own eyes at the time, in Bergen-Belsen?
+**Q.**Do they depict the situation as you saw it with your own eyes at the time, in [[LOCATION:location_212|Bergen-Belsen]]?
 
 **A.**Yes - what we saw that day.
 
@@ -78,7 +78,7 @@
 
 [Shows the witness a photograph.]
 
-**A.**This is a heap of unburied bodies which we saw amongst the trees at Bergen-Belsen.
+**A.**This is a heap of unburied bodies which we saw amongst the trees at [[LOCATION:location_212|Bergen-Belsen]].
 
 **Presiding Judge:** This will be marked T/1347.
 

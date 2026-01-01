@@ -1,4 +1,4 @@
-# Testimony of Yitzhak Nehama
+# Testimony of [[PERSON:witness_94|Yitzhak Nehama]]
 
 **Session:** 47
 
@@ -8,7 +8,7 @@
 
 **State Attorney Bar-Or:** Where were you born, Mr. Nechama?
 
-**Witness Nechama:** In Salonika, in 1910. I am 50 years old.
+**Witness Nechama:** In [[LOCATION:location_101|Salonika]], in 1910. I am 50 years old.
 
 **Q.**Were you in the Greek Army, Mr. Nechama?
 
@@ -16,11 +16,11 @@
 
 **Q.**When were you recruited?
 
-**A.**I was recruited just in time for the war with Italy, on 24 October 1939.
+**A.**I was recruited just in time for the war with [[LOCATION:location_19|Italy]], on 24 October 1939.
 
 **Q.**Which front were you at?
 
-**A.**I was on the Tepelenee front, if you know this area in Albania.
+**A.**I was on the Tepelenee front, if you know this area in [[LOCATION:location_107|Albania]].
 
 **Q.**What was your state of health when you were released?
 
@@ -42,7 +42,7 @@
 
 **A.**I walked for 28 days. This is easily said, but hard to do. When I arrived at home I was exhausted. While I was on my way home we had trouble with the Greeks all the time - they wanted to take us for work, to help them and be forced to work for 24 hours. I had to work, I had no choice. So when I arrived at home my situation was very bad.
 
-**Q.**After the 28-day march, were the Germans already in Salonika?
+**Q.**After the 28-day march, were the Germans already in [[LOCATION:location_101|Salonika]]?
 
 **A.**They were already there and when I came home I was told that our radio had already been handed over. I had a very good radio.
 
@@ -56,7 +56,7 @@
 
 **Q.**Did other things also have to be handed over in those days?
 
-**A.**Every day there was something new. Next one had to hand in the pianos; most Jews owned pianos and every Jew had to give up his piano. Then the telephones. Jews were forbidden to use the telephone. It had to be handed over to the Company. One day three trucks arrived and took the complete library of holy books which we had in the Community, books from before the time the Jews left Spain. Our Rabbis cried so much when they took those books, I remember it to this day. I recall the tears of these learned men who said: Nothing matters to us, only these books.
+**A.**Every day there was something new. Next one had to hand in the pianos; most Jews owned pianos and every Jew had to give up his piano. Then the telephones. Jews were forbidden to use the telephone. It had to be handed over to the Company. One day three trucks arrived and took the complete library of holy books which we had in the Community, books from before the time the Jews left [[LOCATION:location_92|Spain]]. Our Rabbis cried so much when they took those books, I remember it to this day. I recall the tears of these learned men who said: Nothing matters to us, only these books.
 
 **Q.**Mr. Nechama, you were in the army, are you familiar with uniforms?
 
@@ -64,7 +64,7 @@
 
 **Q.**You were able to recognize uniforms. These people who took the books, or those who occupied themselves with the delivery of the pianos and all the things you mentioned - how were they dressed?
 
-**A.**That was the Gestapo.
+**A.**That was the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**What does that mean?
 
@@ -82,7 +82,7 @@
 
 **A.**That is hard to say. At that time I was a complete stranger.
 
-**Q.**Were there German Army personnel walking around in Salonika?
+**Q.**Were there German Army personnel walking around in [[LOCATION:location_101|Salonika]]?
 
 **A.**Of course.
 
@@ -106,15 +106,15 @@
 
 **A.**No in a Greek quarter.
 
-**Q.**Tell the Court what happened to the Jewish businesses in Salonika in those days.
+**Q.**Tell the Court what happened to the Jewish businesses in [[LOCATION:location_101|Salonika]] in those days.
 
-**A.**I shall tell you, there were troubles for the Jews every day. They would come and take merchandise without paying, without anything. In Salonika there were very rich Jewish businessmen, one can definitely call them rich, one can call them millionaires. There was a shop for glassware there - they took the very last glass.
+**A.**I shall tell you, there were troubles for the Jews every day. They would come and take merchandise without paying, without anything. In [[LOCATION:location_101|Salonika]] there were very rich Jewish businessmen, one can definitely call them rich, one can call them millionaires. There was a shop for glassware there - they took the very last glass.
 
 **Q.**They took things and did not pay?
 
 **A.**They did not pay. There were shops, iron warehouses - they took all the iron and did not pay anything. Perhaps they "bluffed," giving out chits as they did for the radios. They gave us slips of paper which were not worth anything.
 
-**Q.**What can you tell the Court about the concentration of Jews in certain quarters in Salonika?
+**Q.**What can you tell the Court about the concentration of Jews in certain quarters in [[LOCATION:location_101|Salonika]]?
 
 **A.**We had a very hard life. We had difficulties in every way...
 
@@ -315,7 +315,7 @@ This will be marked T/974.
 
 **State Attorney Bar-Or:** Mr. Nechama, what happened after these gymnastics?
 
-**Witness Nechama:** I will tell you, they took me and beat me and organized all kinds of exercises and after that there were more beatings and more. And then I was taken to a doctor. If I were in Salonika now I could bring the doctor; he is alive and well; it is Dr. Kopers.
+**Witness Nechama:** I will tell you, they took me and beat me and organized all kinds of exercises and after that there were more beatings and more. And then I was taken to a doctor. If I were in [[LOCATION:location_101|Salonika]] now I could bring the doctor; he is alive and well; it is Dr. Kopers.
 
 **Q.**What happened?
 
@@ -375,7 +375,7 @@ This will be marked T/974.
 
 **Q.**Where?
 
-**A.**In Greece. I had to do quarrying there and preparatory work for an aerodrome.
+**A.**In [[LOCATION:location_26|Greece]]. I had to do quarrying there and preparatory work for an aerodrome.
 
 **Q.**Could you give that name again?
 
@@ -393,7 +393,7 @@ This will be marked T/974.
 
 **A.**I worked there for three weeks and there was no food. We had a hundred grams of bread every 24 hours and one litre of soup made of sour cabbage. Everybody had dysentery, and everybody's legs were swollen. It was impossible to work. And if you could not work, you were beaten. We had a foreman, a Croat, curse him - if he is alive!
 
-**Q.**After these three weeks you returned to Salonika?
+**Q.**After these three weeks you returned to [[LOCATION:location_101|Salonika]]?
 
 **A.**We did not return because we had many casualties; many people had died. So the women went to our Community, they cried and caused an uproar there. And the heads of the Community decided to buy off the work of the Jews. They paid about 10,000 dollars for it. If you want to know exactly, this was 2 1/2 billion drachmas.
 
@@ -410,21 +410,21 @@ This will be marked T/974.
 
 **A.**To the Commandant's office.
 
-**Q.**And after this payment you were freed and returned to Salonika??
+**Q.**And after this payment you were freed and returned to [[LOCATION:location_101|Salonika]]??
 
 **A.**Yes.
 
-**Q.**And you remained in Salonika?
+**Q.**And you remained in [[LOCATION:location_101|Salonika]]?
 
 **A.**But there were still problems. There were young men, blessed be their memory, and among them was my brother... The partisans appeared on the scene and they wanted to take their revenge on the Germans. And who were the victims? - the Jews. So the Germans decided to put Jewish guards in places where the railway had to pass. Every 20 kilometers there had to be a guard manned by young Jews, who were replaced every 24 hours. And they let it be known that if, heaven forbid, something were to happen along the railway line they would kill the entire Jewish guard. Imagine under what conditions the Jews lived then! The partisans knew about this and they refrained from doing anything.
 
-**Q.**Were you in Salonika at that time?
+**Q.**Were you in [[LOCATION:location_101|Salonika]] at that time?
 
-**A.**I was in Salonika. I am telling you things which I know.
+**A.**I was in [[LOCATION:location_101|Salonika]]. I am telling you things which I know.
 
-**Q.**Until when did you remain in Salonika?
+**Q.**Until when did you remain in [[LOCATION:location_101|Salonika]]?
 
-**A.**I remained in Salonika until 26 April 1943.
+**A.**I remained in [[LOCATION:location_101|Salonika]] until 26 April 1943.
 
 **Q.**And what happened then?
 
@@ -436,11 +436,11 @@ This will be marked T/974.
 
 **Q.**In Greek and German?
 
-**A.**In Greek and German. And any German soldier could walk into the shop and take whatever he wanted without saying a thing. Next they announced that the Jews had to be put into a ghetto. But there were 60,000 Jews in Greece and it was difficult to put them all into a ghetto. So what did they do? They employed special engineers to prepare plans for constructing ghettos, and they put up six ghettos. Those people whom they could not crowd into the ghettos were ordered to leave their homes and move into some shed or wherever, only they had to be in the ghetto.
+**A.**In Greek and German. And any German soldier could walk into the shop and take whatever he wanted without saying a thing. Next they announced that the Jews had to be put into a ghetto. But there were 60,000 Jews in [[LOCATION:location_26|Greece]] and it was difficult to put them all into a ghetto. So what did they do? They employed special engineers to prepare plans for constructing ghettos, and they put up six ghettos. Those people whom they could not crowd into the ghettos were ordered to leave their homes and move into some shed or wherever, only they had to be in the ghetto.
 
 **Q.**But not in their home?
 
-**A.**Not at home; the homes were taken over by the Germans. I have to mention an important event prior to that: There was a Rabbi Gaon of blessed memory in Salonika, who lived on the ground floor of a house occupied by Germans, and on the third floor of that house there lived a German General. Suddenly one day, at 5.30 in the morning, he sent a soldier to call the Rabbi upstairs. An hour and a half later the children downstairs heard a noise. What happened? Father has not come down? When they opened the door they found the Rabbi lying on the floor unconscious, and with no hair. His hair and beard had been shorn off. And this was such a disgrace for him, that he wanted to live no longer.
+**A.**Not at home; the homes were taken over by the Germans. I have to mention an important event prior to that: There was a Rabbi Gaon of blessed memory in [[LOCATION:location_101|Salonika]], who lived on the ground floor of a house occupied by Germans, and on the third floor of that house there lived a German General. Suddenly one day, at 5.30 in the morning, he sent a soldier to call the Rabbi upstairs. An hour and a half later the children downstairs heard a noise. What happened? Father has not come down? When they opened the door they found the Rabbi lying on the floor unconscious, and with no hair. His hair and beard had been shorn off. And this was such a disgrace for him, that he wanted to live no longer.
 
 **Q.**Now we shall perhaps come to April 1943. What happened then?
 
@@ -454,19 +454,19 @@ This will be marked T/974.
 
 **State Attorney Bar-Or:** To you, Mr. Nechama.
 
-**Witness Nechama:** I remained in my home in Salonika because in my house there was typhoid, the neighbour upstairs had typhoid and the building had been put in quarantine. The Germans had heard about the quarantine and kept kilometers away. They were afraid and did not come to me. The quarantine was to be for 21 days. Meanwhile there were no Jews left in Salonika. They were all gone, partly on transports and partly to "Baron Hirsch," which was the centre, the ghetto.
+**Witness Nechama:** I remained in my home in [[LOCATION:location_101|Salonika]] because in my house there was typhoid, the neighbour upstairs had typhoid and the building had been put in quarantine. The Germans had heard about the quarantine and kept kilometers away. They were afraid and did not come to me. The quarantine was to be for 21 days. Meanwhile there were no Jews left in [[LOCATION:location_101|Salonika]]. They were all gone, partly on transports and partly to "Baron Hirsch," which was the centre, the ghetto.
 
 **Q.**They had to be collected there?
 
-**A.**Yes. I was sure that my house in Salonika would be spared, and I made all kinds of plans to escape. I had a brother-in-law living outside Salonika and he made all the preparations so that I would be able to stay with him.
+**A.**Yes. I was sure that my house in [[LOCATION:location_101|Salonika]] would be spared, and I made all kinds of plans to escape. I had a brother-in-law living outside [[LOCATION:location_101|Salonika]] and he made all the preparations so that I would be able to stay with him.
 
 **Presiding Judge:** Were you a bachelor?
 
-**Witness Nechama:** No, I was married - I had a plan how to escape the next day. At 6 o'clock in the morning they came from the Gestapo with a list and said: In half an hour you have to be ready to go to "Baron Hirsch." So I called the Police Commander in my district and he started to argue.
+**Witness Nechama:** No, I was married - I had a plan how to escape the next day. At 6 o'clock in the morning they came from the [[ORGANIZATION:org_344|Gestapo]] with a list and said: In half an hour you have to be ready to go to "Baron Hirsch." So I called the Police Commander in my district and he started to argue.
 
 **Presiding Judge:** Was he Greek?
 
-**Witness Nechama:** Yes, Greek. He started to argue with the Gestapo Doctor. At that time I did not know German at all, but he knew it well. There was quite a serious discussion, but then he said: Itzchak, nothing can be done, you have to go.
+**Witness Nechama:** Yes, Greek. He started to argue with the [[ORGANIZATION:org_344|Gestapo]] Doctor. At that time I did not know German at all, but he knew it well. There was quite a serious discussion, but then he said: Itzchak, nothing can be done, you have to go.
 
 **State Attorney Bar-Or:** Did you go?
 
@@ -478,7 +478,7 @@ This will be marked T/974.
 
 **Q.**How long did you stay there?
 
-**A.**Only 24 hours, one night. Then (we had to go) to an office where we were told that we would have to change all our money and that we would get zlotys "because you are going to Poland to a place named Beserko." I do not remember exactly, near Sosnowiec. They said this was in Cracow. They told us that we had to hand over our money and receive zlotys
+**A.**Only 24 hours, one night. Then (we had to go) to an office where we were told that we would have to change all our money and that we would get zlotys "because you are going to [[LOCATION:location_5|Poland]] to a place named Beserko." I do not remember exactly, near Sosnowiec. They said this was in Cracow. They told us that we had to hand over our money and receive zlotys
 
 "and you will be in communities, the Greeks separately, like a Jewish state it will be there." I said to myself: It is no good dying, we shall live there. If I had known the conditions in which I would live I would rather have died on the spot, I would not have lived at all.
 
@@ -492,11 +492,11 @@ This will be marked T/974.
 
 **Q.**Where did you get you? Where did the train go to?
 
-**A.**To Auschwitz.
+**A.**To [[LOCATION:location_286|Auschwitz]].
 
-**Q.**How long did you remain in Auschwitz?
+**Q.**How long did you remain in [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I stayed 38 days in Auschwitz.
+**A.**I stayed 38 days in [[LOCATION:location_286|Auschwitz]].
 
 **Q.**And from there you were sent to work?
 
@@ -520,7 +520,7 @@ This will be marked T/974.
 
 **Presiding Judge:** Where is this?
 
-**Witness Nechama:** It must be in the neighbourhood of Vienna.
+**Witness Nechama:** It must be in the neighbourhood of [[LOCATION:location_3|Vienna]].
 
 **State Attorney Bar-Or:** When was this?
 
@@ -528,33 +528,33 @@ This will be marked T/974.
 
 **Q.**Where were you released?
 
-**A.**I was released in Wels near Vienna on 4 March 1945.
+**A.**I was released in Wels near [[LOCATION:location_3|Vienna]] on 4 March 1945.
 
-**Presiding Judge:** That is to say, you were outside of Greece for two years?
+**Presiding Judge:** That is to say, you were outside of [[LOCATION:location_26|Greece]] for two years?
 
 **Witness Nechama:** Exactly.
 
-**State Attorney Bar-Or:** When you arrived at Auschwitz and climbed down from the train - what happened? Not what happened the next day, but what happened when you actually left the train? How many of you were from Salonika?
+**State Attorney Bar-Or:** When you arrived at [[LOCATION:location_286|Auschwitz]] and climbed down from the train - what happened? Not what happened the next day, but what happened when you actually left the train? How many of you were from [[LOCATION:location_101|Salonika]]?
 
 **Witness Nechama:** We were exactly 78. That was the smallest number. The situation was terrible. Imagine, men and women, young men and girls, how could they live in such conditions. We had been told we were going to Cracow, take with you what you want. Some people took umbrellas because it snows there and rains, so one needs an umbrella. There was so much baggage that one could not move. We did not sleep at all.
 
-**Q.**When you climbed down from the train in Auschwitz - what happened?
+**Q.**When you climbed down from the train in [[LOCATION:location_286|Auschwitz]] - what happened?
 
 **A.**I shall tell you. I was one of the first to climb down. When I came down I saw immediately people wearing pyjamas. I was lucky they were French and I understand French quite well. I said to them: "What is going to happen here?" "You will find out later," they replied. "Alright, explain!" "It is forbidden to explain now!" I did not even manage to see my wife. The beating went on, the crying, father looking for son...
 
-**Q.**Did you know the people who came with you from Salonika to Auschwitz?
+**Q.**Did you know the people who came with you from [[LOCATION:location_101|Salonika]] to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Certainly.
 
 **Q.**As far as you know, are there others still alive, and how many?
 
-**A.**I'll tell you, 56,000 Jews left Salonika on the transports and only 1,950 of them returned.
+**A.**I'll tell you, 56,000 Jews left [[LOCATION:location_101|Salonika]] on the transports and only 1,950 of them returned.
 
 **Presiding Judge:** How many of those who went with you and whom you knew returned?
 
 **Witness Nechama:** I can tell you exactly: Four live here.
 
-**Q.**In Israel?
+**Q.**In [[LOCATION:location_38|Israel]]?
 
 **A.**Yes. Three live in America. Altogether there must be ten.
 
@@ -574,7 +574,7 @@ This will be marked T/974.
 
 **Dr. Servatius:** No, I have no questions to the witness. I just wanted to explain, with reference to the pictures, that there is no SS man here, these are German soldiers and it seems that some wearing foreign uniforms are also among them. But that I cannot explain exactly from this (from the pictures).
 
-**Judge Halevi:** Were you sent to Auschwitz together with your wife and your family?
+**Judge Halevi:** Were you sent to [[LOCATION:location_286|Auschwitz]] together with your wife and your family?
 
 **Witness Nechama:** Only with my wife, since my parents had left before me. I told you that I should have escaped. My parents had already left two weeks before me.
 
@@ -584,23 +584,23 @@ This will be marked T/974.
 
 **Presiding Judge:** Thank you very much, Mr. Nechama, you have completed your evidence.
 
-**State Attorney Bar-Or:** With the permission of the Court, we shall continue with the documents concerning Greece. I now come to Wisliceny's attempt to penetrate also into the area occupied by the Italians. That is our document No. 1007. It is a report by Hencke of the Foreign Ministry dated 3 June 1943. He transmits to the Staatssekretaer (Secretary of State) at the Foreign Ministry a complaint from the Italian Embassy which was again raised in the context we know already.
+**State Attorney Bar-Or:** With the permission of the Court, we shall continue with the documents concerning [[LOCATION:location_26|Greece]]. I now come to Wisliceny's attempt to penetrate also into the area occupied by the Italians. That is our document No. 1007. It is a report by Hencke of the Foreign Ministry dated 3 June 1943. He transmits to the Staatssekretaer (Secretary of State) at the Foreign Ministry a complaint from the [[ORGANIZATION:org_340|Italian Embassy]] which was again raised in the context we know already.
 
-In the process of rounding up the Jews of Salonika, Jews who are not Greek citizens are also being seized. Here this concerns Italian citizens. The Italians insist on maintaining their prestige. In spite of the Italian interventions with the German authorities in Salonika the competent military commander had informed the Italian Consul General on 21 May that, to his regret, and an official promise not withstanding, a certain family of Italian* {*Should be Greek nationality, but vide Exh. T/985 for particulars.} nationality had been deported on the most recent train which left for Poland.
+In the process of rounding up the Jews of [[LOCATION:location_101|Salonika]], Jews who are not Greek citizens are also being seized. Here this concerns Italian citizens. The Italians insist on maintaining their prestige. In spite of the Italian interventions with the German authorities in [[LOCATION:location_101|Salonika]] the competent military commander had informed the Italian Consul General on 21 May that, to his regret, and an official promise not withstanding, a certain family of Italian* {*Should be Greek nationality, but vide Exh. T/985 for particulars.} nationality had been deported on the most recent train which left for [[LOCATION:location_5|Poland]].
 
 **Presiding Judge:** This document will be marked T/985.
 
-**State Attorney Bar-Or:** Our document No. 1008 is a letter by von Thadden, who has asked Secretary Lanza of the Italian Embassy to visit him in order to receive explanations about this Wisliceny affair. Lanza has called and it turns out that the Italians have complaints about the intrusion of Wisliceny into the area occupied by Italy, against which he protests energetically. This can be seen in particular in the passage which appears in the attached translation on page 2 under letter "a" and which speaks about the Accused. The Accused saw this document and it was marked T/37(276). He speaks about it on page 3341ff. of his Statement and what is important for us appears on page 3344, where he says: "Von Thadden puts things into my mouth which I would never have done."
+**State Attorney Bar-Or:** Our document No. 1008 is a letter by von Thadden, who has asked Secretary Lanza of the [[ORGANIZATION:org_340|Italian Embassy]] to visit him in order to receive explanations about this Wisliceny affair. Lanza has called and it turns out that the Italians have complaints about the intrusion of Wisliceny into the area occupied by [[LOCATION:location_19|Italy]], against which he protests energetically. This can be seen in particular in the passage which appears in the attached translation on page 2 under letter "a" and which speaks about the Accused. The Accused saw this document and it was marked T/37(276). He speaks about it on page 3341ff. of his Statement and what is important for us appears on page 3344, where he says: "Von Thadden puts things into my mouth which I would never have done."
 
 The Accused maintains that von Thadden reports here about things which are complete fabrication. However, in the same breath, he gives Wisliceny, his subordinate, a testimonial of good conduct in no uncertain terms.
 
 **Presiding Judge:** This document will be marked T/986.
 
-**State Attorney Bar-Or:** Our document No. 1009 is a complex one. It was sent by the Foreign Ministry to the Italian Embassy in Berlin on 24 June 1943, again about the same subject, about Wisliceny. The Foreign Ministry rejects the Italian protests and copies of its reply are sent to the Accused and to the German Consul General in Salonika.
+**State Attorney Bar-Or:** Our document No. 1009 is a complex one. It was sent by the Foreign Ministry to the [[ORGANIZATION:org_340|Italian Embassy]] in [[LOCATION:location_1|Berlin]] on 24 June 1943, again about the same subject, about Wisliceny. The Foreign Ministry rejects the Italian protests and copies of its reply are sent to the Accused and to the German Consul General in [[LOCATION:location_101|Salonika]].
 
 **Presiding Judge:** This document will be marked T/987.
 
-**State Attorney Bar-Or:** Our document No. 1010. Von Thadden sends an urgent letter to the Accused about the negotiations with the Spanish Government concerning Spanish Jews in Salonika. There was a possibility that Spain might grant them permission to return to Spain. This concerns about 600 Jews and the matter has in fact been turned over to Eichmann, as can be inferred from the marginal remark dated 26.7.1943.
+**State Attorney Bar-Or:** Our document No. 1010. Von Thadden sends an urgent letter to the Accused about the negotiations with the Spanish Government concerning Spanish Jews in [[LOCATION:location_101|Salonika]]. There was a possibility that [[LOCATION:location_92|Spain]] might grant them permission to return to [[LOCATION:location_92|Spain]]. This concerns about 600 Jews and the matter has in fact been turned over to Eichmann, as can be inferred from the marginal remark dated 26.7.1943.
 ---
 
 **Presiding Judge:** What marginal remark?
@@ -617,13 +617,13 @@ The Accused maintains that von Thadden reports here about things which are compl
 
 **Presiding Judge:** This document will be marked T/988.
 
-**State Attorney Bar-Or:** The Foreign Ministry gives its consent to the transfer of these 600 Spanish Jews to Bergen- Belsen.
+**State Attorney Bar-Or:** The Foreign Ministry gives its consent to the transfer of these 600 Spanish Jews to [[LOCATION:location_212|Bergen]]- [[LOCATION:location_212|Belsen]].
 
-Document No. 682, a letter from Bergmann to Rome, about the acquisition of Italian citizenship by Jews of various other nationalities. He quotes the text of a communication from the Head of the Security Police and the Security Service about the experience gathered in this field by the Commander of the Wehrmacht Salonika-Aegeis. While pointing to the case of Salonika, he asks that Italian nationality acquired by Jews be cancelled retroactively because, if it is not cancelled retroactively, it will not be possible to deport these Jews.
+Document No. 682, a letter from Bergmann to [[LOCATION:location_51|Rome]], about the acquisition of Italian citizenship by Jews of various other nationalities. He quotes the text of a communication from the Head of the Security Police and the Security Service about the experience gathered in this field by the Commander of the [[ORGANIZATION:org_328|Wehrmacht]] [[LOCATION:location_101|Salonika]]-Aegeis. While pointing to the case of [[LOCATION:location_101|Salonika]], he asks that Italian nationality acquired by Jews be cancelled retroactively because, if it is not cancelled retroactively, it will not be possible to deport these Jews.
 
 **Presiding Judge:** This document will be marked T/989.
 
-**State Attorney Bar-Or:** Document No. 683, a letter from Mackensen, the German Ambassador in Rome, dated 13 March 1943 about a communication from the Italian Foreign Ministry concerning the treatment of the Jews in the Greek areas occupied by Italy. The communication says that these Jews in the Italian-occupied area will be treated exactly as set out in paragraphs (1),(2) (3).
+**State Attorney Bar-Or:** Document No. 683, a letter from Mackensen, the German Ambassador in [[LOCATION:location_51|Rome]], dated 13 March 1943 about a communication from the Italian Foreign Ministry concerning the treatment of the Jews in the Greek areas occupied by [[LOCATION:location_19|Italy]]. The communication says that these Jews in the Italian-occupied area will be treated exactly as set out in paragraphs (1),(2) (3).
 
 **Presiding Judge:** This document will be marked T/990.
 
@@ -633,7 +633,7 @@ Document No. 682, a letter from Bergmann to Rome, about the acquisition of Itali
 
 **State Attorney Bar-Or:** The Foreign Ministry reports about the views of the "Reich Leadership SS (Reichsfuehrung-SS), Obersturmbannfuehrer Eichmann," which are quoted in detail in this document.
 
-Document No. 235 is a solemn declaration by Dieter Wisliceny, one of the many declarations which he wrote during his prolonged detention. This declaration, Honourable Judges, deals in fact mainly with his activities in Greece, about which we now have detailed information from the documents. It was written in Bratislava on 27 June 1947. Dieter Wisliceny's signature on the declaration has been authenticated by Mr. Hagag in a declaration which has been submitted.
+Document No. 235 is a solemn declaration by [[PERSON:person_436|Dieter Wisliceny]], one of the many declarations which he wrote during his prolonged detention. This declaration, Honourable Judges, deals in fact mainly with his activities in [[LOCATION:location_26|Greece]], about which we now have detailed information from the documents. It was written in [[LOCATION:location_73|Bratislava]] on 27 June 1947. [[PERSON:person_436|Dieter Wisliceny]]'s signature on the declaration has been authenticated by Mr. Hagag in a declaration which has been submitted.
 
 **Dr. Servatius:** I just wanted to point out to the Court that, in the last paragraph, Wisliceny again tries to gain the sympathy of the interrogators because there is also an exact description of Dr. Merten, so that he can be found.
 
@@ -647,17 +647,17 @@ We accept the declaration by Wisliceny in evidence (see Decision No. 7).
 
 This document is marked T/992.
 
-**State Attorney Bar-Or:** On the first page Wisliceny relates that Eichmann informed him that Rolf Guenther, his permanent deputy, went to Salonika by plane in order to discuss the question of the local branch office of the Accused with the Military Government. He mentions Merten as the person with whom he was in touch and also Chief Rabbi Dr. Koretz, with whom he will be dealing in the course of his work in Salonika. Eichmann told him that he would in fact be responsible for this work. From the declaration it is clearly evident that Wisliceny was not pleased with this and when a second man from the Section of the Accused joins him (i.e. Brunner), he does not know that Wisliceny is actually in charge of the branch office in Salonika.
+**State Attorney Bar-Or:** On the first page Wisliceny relates that Eichmann informed him that [[PERSON:person_446|Rolf Guenther]], his permanent deputy, went to [[LOCATION:location_101|Salonika]] by plane in order to discuss the question of the local branch office of the Accused with the Military Government. He mentions Merten as the person with whom he was in touch and also Chief Rabbi Dr. Koretz, with whom he will be dealing in the course of his work in [[LOCATION:location_101|Salonika]]. Eichmann told him that he would in fact be responsible for this work. From the declaration it is clearly evident that Wisliceny was not pleased with this and when a second man from the Section of the Accused joins him (i.e. Brunner), he does not know that Wisliceny is actually in charge of the branch office in [[LOCATION:location_101|Salonika]].
 
 Then he speaks about the fact that there was an epidemic and that he did not want to go on with the deportations. He cabled Eichmann and asked for a postponement. The reply came from Eichmann, but this time not to Wisliceny, but to Brunner, and in the telegram to Brunner Eichmann orders the immediate, definite implementation of the expulsion in spite of the epidemic conditions among the Jewish population.
 
-In the end he says that he returned to Bratislava and briefly describes the chain of events after the defeat of the Italians in the southern area and the arrival of the Germans there.
+In the end he says that he returned to [[LOCATION:location_73|Bratislava]] and briefly describes the chain of events after the defeat of the Italians in the southern area and the arrival of the Germans there.
 
-Document No. 421 was shown to the Accused and marked T/37(141), and he speaks about it on page 1846 of his Statement. It is a letter dated 28 July 1943 from von Thadden to the Accused. It refers to what we have already seen, to the proposal of the Foreign Ministry for the transfer, or rather the exemption, of the so-called Spanish Jews from the deportation and their transfer to Bergen- Belsen.
+Document No. 421 was shown to the Accused and marked T/37(141), and he speaks about it on page 1846 of his Statement. It is a letter dated 28 July 1943 from von Thadden to the Accused. It refers to what we have already seen, to the proposal of the Foreign Ministry for the transfer, or rather the exemption, of the so-called Spanish Jews from the deportation and their transfer to [[LOCATION:location_212|Bergen]]- [[LOCATION:location_212|Belsen]].
 
 **Presiding Judge:** This document will be marked T/993.
 
-**State Attorney Bar-Or:** This action is carried out, these Jews are transferred to Bergen-Belsen. There remains the question of the property of the Jews and we find a report about this in a Verbalnote (note verbale), our document No. 345. This was also shown to the Accused and was marked T/37(144). Wisliceny reports about the seizure of all the foreign currency from the Spanish Jews before they were sent to Bergen-Belsen and his report is annexed to the document, to the Verbalnote of the Foreign Ministry. 22,300,000 drachmas were seized.
+**State Attorney Bar-Or:** This action is carried out, these Jews are transferred to [[LOCATION:location_212|Bergen-Belsen]]. There remains the question of the property of the Jews and we find a report about this in a Verbalnote (note verbale), our document No. 345. This was also shown to the Accused and was marked T/37(144). Wisliceny reports about the seizure of all the foreign currency from the Spanish Jews before they were sent to [[LOCATION:location_212|Bergen-Belsen]] and his report is annexed to the document, to the Verbalnote of the Foreign Ministry. 22,300,000 drachmas were seized.
 
 **Presiding Judge:** What was the value of the drachma?
 
@@ -665,39 +665,39 @@ Document No. 421 was shown to the Accused and marked T/37(141), and he speaks ab
 
 **Presiding Judge:** This document will be marked T/994.
 
-**State Attorney Bar-Or:** Document No. 1022, a letter from Guenther to von Thadden dated 14 September 1943 concerning a Jewish woman of Greek nationality who was sent to the Birkenau work camp in the course of the evacuation from Greece. Her emigration to Switzerland, which is requested here, is out of the question.
+**State Attorney Bar-Or:** Document No. 1022, a letter from Guenther to von Thadden dated 14 September 1943 concerning a Jewish woman of Greek nationality who was sent to the [[LOCATION:location_286|Birkenau]] work camp in the course of the evacuation from [[LOCATION:location_26|Greece]]. Her emigration to [[LOCATION:location_53|Switzerland]], which is requested here, is out of the question.
 
 **Presiding Judge:** I think the name...
 
-**State Attorney Bar-Or:** This is why we included the document. We know the name. This was the same Jewish representative of the Red Cross who was arrested in the course of the operations of the branch office in Salonika. A document about that case is before the Court. This is the wife of that representative of the Red Cross.
+**State Attorney Bar-Or:** This is why we included the document. We know the name. This was the same Jewish representative of the Red Cross who was arrested in the course of the operations of the branch office in [[LOCATION:location_101|Salonika]]. A document about that case is before the Court. This is the wife of that representative of the Red Cross.
 
 **Presiding Judge:** This document will be marked T/995.
 
-**State Attorney Bar-Or:** Document No. 176 was before the Accused and is marked T/37(97). It is a letter from Neubacher in Athens to the Foreign Ministry dated 27 November 1943. In the end von Thadden passes the matter on to Eichmann on 2 December 1943. Neubacher asks that it be suggested to the Head of the Security Police and the Security Service to postpone the deportation of the Jews who are concentrated in Athens. This concerns an operation which was begun after the Germans entered Athens in the wake of the defeat of Badoglio.
+**State Attorney Bar-Or:** Document No. 176 was before the Accused and is marked T/37(97). It is a letter from Neubacher in [[LOCATION:location_87|Athens]] to the Foreign Ministry dated 27 November 1943. In the end von Thadden passes the matter on to Eichmann on 2 December 1943. Neubacher asks that it be suggested to the Head of the Security Police and the Security Service to postpone the deportation of the Jews who are concentrated in [[LOCATION:location_87|Athens]]. This concerns an operation which was begun after the Germans entered [[LOCATION:location_87|Athens]] in the wake of the defeat of Badoglio.
 
-**Presiding Judge:** Badoglio's defeat or his rise to power in Italy?
+**Presiding Judge:** Badoglio's defeat or his rise to power in [[LOCATION:location_19|Italy]]?
 
-**State Attorney Bar-Or:** After the replacement of the Italians in Athens by the German Army, which moved from north to south. We see here that most of the Jews, about 8,000, who are for the time being under Italian authority, have either fled - with help from the local population - or gone into hiding so that they can no longer be seized. Neubacher asks that immediate directions be sent to him to Belgrade and to the Higher SS and Police Officer in Athens. The Accused refers to this on page 1346ff. of his Statement.
+**State Attorney Bar-Or:** After the replacement of the Italians in [[LOCATION:location_87|Athens]] by the German Army, which moved from north to south. We see here that most of the Jews, about 8,000, who are for the time being under Italian authority, have either fled - with help from the local population - or gone into hiding so that they can no longer be seized. Neubacher asks that immediate directions be sent to him to [[LOCATION:location_138|Belgrade]] and to the Higher SS and Police Officer in [[LOCATION:location_87|Athens]]. The Accused refers to this on page 1346ff. of his Statement.
 
 **Presiding Judge:** This document will be marked T/996.
 
-**State Attorney Bar-Or:** I go on to document No. 520, a letter from Guenther, IVB4, to von Thadden, dated 2 March 1944. He informs him that Jews of foreign nationality residing in Greece have not received demands from the Police to return to their homelands. This again concerns those who are eligible for repartriation to their home countries, or what is here referred to as "their so-called home- countries," via the holding camp Bergen-Belsen.
+**State Attorney Bar-Or:** I go on to document No. 520, a letter from Guenther, IVB4, to von Thadden, dated 2 March 1944. He informs him that Jews of foreign nationality residing in [[LOCATION:location_26|Greece]] have not received demands from the Police to return to their homelands. This again concerns those who are eligible for repartriation to their home countries, or what is here referred to as "their so-called home- countries," via the holding camp [[LOCATION:location_212|Bergen-Belsen]].
 
 **Presiding Judge:** This will be marked T/997.
 
-**State Attorney Bar-Or:** I go on to document No. 346, a letter by von Thadden to the Accused dated 11 October 1944: "The Foreign Ministry has received a letter from the High Command of the Armed Forces concerning the financing of transports of Jews from Greece." The Foreign Ministry does not know what to do about the matter, but it assumes that the financing of the Jewish transports from Greece will be arranged by the office of the Accused.
+**State Attorney Bar-Or:** I go on to document No. 346, a letter by von Thadden to the Accused dated 11 October 1944: "The Foreign Ministry has received a letter from the High Command of the Armed Forces concerning the financing of transports of Jews from [[LOCATION:location_26|Greece]]." The Foreign Ministry does not know what to do about the matter, but it assumes that the financing of the Jewish transports from [[LOCATION:location_26|Greece]] will be arranged by the office of the Accused.
 
 **Presiding Judge:** The document will be marked T/998.
 
-**State Attorney Bar-Or:** And now the last document on the Greek chapter, document No. 1263. Here I ask for a decision by the Honourable Court under Section 15 of the Law. We are dealing with a sworn declaration which was before the Nuremberg Court and was given the marking NOKW, 1715, Kommando der Wehrmacht, a sworn declaration by a German soldier named Erwin Lenz. The declaration is dated 10 May 1947 and describes the activities of the Army, with the help of police units, designed to rid the Greek island of Rhodes and those around it of Jews; this was the end of the German presence there, i.e., during the months of June, July 1944.
+**State Attorney Bar-Or:** And now the last document on the Greek chapter, document No. 1263. Here I ask for a decision by the Honourable Court under Section 15 of the Law. We are dealing with a sworn declaration which was before the [[LOCATION:location_39|Nuremberg]] Court and was given the marking NOKW, 1715, Kommando der [[ORGANIZATION:org_328|Wehrmacht]], a sworn declaration by a German soldier named [[PERSON:person_602|Erwin Lenz]]. The declaration is dated 10 May 1947 and describes the activities of the Army, with the help of police units, designed to rid the Greek island of Rhodes and those around it of Jews; this was the end of the German presence there, i.e., during the months of June, July 1944.
 
-This is actually the only source we have among our documents which shows how it happened that these Jews were also arrested and that most of them perished, some in the sea when their boat sank and others in the gas chambers of Auschwitz, where they finally ended up.
+This is actually the only source we have among our documents which shows how it happened that these Jews were also arrested and that most of them perished, some in the sea when their boat sank and others in the gas chambers of [[LOCATION:location_286|Auschwitz]], where they finally ended up.
 
 The Accused is of course not mentioned here. This soldier only knows what he saw with his own eyes at the time of his service in the Army.
 
 **Presiding Judge:** Is this an ordinary soldier?
 
-**State Attorney Bar-Or:** Yes - although he says that on 30 November 1937 he was sentenced to two and three quarter years in the penitentiary for anti-nationalsocialist activities. It may be assumed therefore that, during the War also, he did not exactly sympathize with the doings of the Gestapo and the SS. He himself served with the German Army in Rhodes and he describes his personal experiences, mainly about the commando of Oberst (Colonel) Weissenburg,* {*The reference should be to Lieutenant-General Kleemann.} who was in charge of the German headquarters in Rhodes. I ask you to accept this sworn declaration as evidence.
+**State Attorney Bar-Or:** Yes - although he says that on 30 November 1937 he was sentenced to two and three quarter years in the penitentiary for anti-nationalsocialist activities. It may be assumed therefore that, during the War also, he did not exactly sympathize with the doings of the [[ORGANIZATION:org_344|Gestapo]] and the SS. He himself served with the German Army in Rhodes and he describes his personal experiences, mainly about the commando of Oberst (Colonel) Weissenburg,* {*The reference should be to Lieutenant-General Kleemann.} who was in charge of the German headquarters in Rhodes. I ask you to accept this sworn declaration as evidence.
 
 **Presiding Judge:** Do you have any information about Lenz?
 
@@ -707,11 +707,11 @@ The Accused is of course not mentioned here. This soldier only knows what he saw
 
 **Dr. Servatius:** I read this declaration once, but I do not have it with me because it is not on my list. I should recommend to try first of all to find this man. If his last address is apparent from the document it should not be difficult to find him through the excellent German registration system.
 
-**State Attorney Bar-Or:** In 1947 his address was: Erwin Lenz, Berlin-Zehlendorf, Hirschsteig 7. It may be possible to reach him through the population register. I have no doubt that it is.
+**State Attorney Bar-Or:** In 1947 his address was: [[PERSON:person_602|Erwin Lenz]], [[LOCATION:location_1|Berlin]]-Zehlendorf, Hirschsteig 7. It may be possible to reach him through the population register. I have no doubt that it is.
 
 **Presiding Judge:** If that is so, Mr. Bar-Or, try and find him and then we shall see what can be done with this document.
 
-**State Attorney Bar-Or:** If he is alive, I have no doubt that he can be found. The question is whether the Court will prefer to see him here, because it is quite possible that we shall be ready to bring him here. He is not a war criminal. We know that he was taken prisoner by the British and was detained in a prison camp in Cairo. In the end he was released. He was only brought to Nuremberg in order to give evidence about the activities of the Army, against Army personnel. The question is whether to bring him here.
+**State Attorney Bar-Or:** If he is alive, I have no doubt that he can be found. The question is whether the Court will prefer to see him here, because it is quite possible that we shall be ready to bring him here. He is not a war criminal. We know that he was taken prisoner by the British and was detained in a prison camp in [[LOCATION:location_131|Cairo]]. In the end he was released. He was only brought to [[LOCATION:location_39|Nuremberg]] in order to give evidence about the activities of the Army, against Army personnel. The question is whether to bring him here.
 
 **Presiding Judge:** The question is whether it is worth while.
 
@@ -719,7 +719,7 @@ The Accused is of course not mentioned here. This soldier only knows what he saw
 
 **Presiding Judge:** Dr. Servatius.
 
-**Dr. Servatius:** Perhaps the witness will come forward in response to press reports - even before we look for him. And for me it would be sufficient if he were briefly examined in Germany, so that he need not come here. He does not seem to me to have all that much importance for the case.
+**Dr. Servatius:** Perhaps the witness will come forward in response to press reports - even before we look for him. And for me it would be sufficient if he were briefly examined in [[LOCATION:location_2|Germany]], so that he need not come here. He does not seem to me to have all that much importance for the case.
 
 **State Attorney Bar-Or:** For us it would be sufficient if we could find him and if he could be interrogated about the truth of his declaration.
 
@@ -727,11 +727,11 @@ The Accused is of course not mentioned here. This soldier only knows what he saw
 
 **Presiding Judge:** At any rate, you will first of all find out whether he can be located and then we shall revert to the matter.
 
-**State Attorney Bar-Or:** We shall do so. And this brings the chapter of Greece to its end.
+**State Attorney Bar-Or:** We shall do so. And this brings the chapter of [[LOCATION:location_26|Greece]] to its end.
 
 **Dr. Servatius:** I agree to the acceptance of the document, subject to the option to cross-examine the witness, if he will be found.
 
-**State Attorney Bar-Or:** If so, Your Honour, I suggest that it be accepted now. I take it upon myself to make every effort, so that the man will be found. As soon as I succeed, I shall inform the Court, as well as the Counsel for the Defence, so that he may decide if he wishes to call him for examination in Germany or not.
+**State Attorney Bar-Or:** If so, Your Honour, I suggest that it be accepted now. I take it upon myself to make every effort, so that the man will be found. As soon as I succeed, I shall inform the Court, as well as the Counsel for the Defence, so that he may decide if he wishes to call him for examination in [[LOCATION:location_2|Germany]] or not.
 
 **Presiding Judge:**
 

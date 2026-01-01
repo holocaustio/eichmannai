@@ -1,4 +1,4 @@
-# Testimony of Mordeichai Eliezer Greenspan
+# Testimony of [[PERSON:witness_66|Mordeichai Eliezer Greenspan]]
 
 **Session:** 14
 
@@ -22,13 +22,13 @@
 
 **Q.**When did you see him last?
 
-**A.**I saw him last in 1936, when he left for Frankfurt, in nineteen thirty five, when he left for Frankfurt to go and study in a Yeshiva [Talmudic College].
+**A.**I saw him last in 1936, when he left for [[LOCATION:location_98|Frankfurt]], in nineteen thirty five, when he left for [[LOCATION:location_98|Frankfurt]] to go and study in a Yeshiva [Talmudic College].
 
 **Q.**Yes, and once he had finished his studies in the Yeshiva?
 
-**Presiding Judge:** Where did he go to Frankfurt from? From Hanover?
+**Presiding Judge:** Where did he go to [[LOCATION:location_98|Frankfurt]] from? From [[LOCATION:location_115|Hanover]]?
 
-**Witness M. Grynszpan:** From Hanover he moved to Frankfurt.
+**Witness M. Grynszpan:** From [[LOCATION:location_115|Hanover]] he moved to [[LOCATION:location_98|Frankfurt]].
 
 **State Attorney Bar-Or:** And from there?
 
@@ -40,15 +40,15 @@
 
 **Q.**Where to?
 
-**A.**To France, at the request of my uncle who lived in France.
+**A.**To [[LOCATION:location_30|France]], at the request of my uncle who lived in [[LOCATION:location_30|France]].
 
 **Q.**Do you know where he lived?
 
-**A.**In Paris
+**A.**In [[LOCATION:location_61|Paris]]
 
-**Q.**And he went to Paris?
+**Q.**And he went to [[LOCATION:location_61|Paris]]?
 
-**A.**He went to Paris.
+**A.**He went to [[LOCATION:location_61|Paris]].
 
 **Q.**And you haven't seen him since then?
 
@@ -58,9 +58,9 @@
 
 **A.**We received the last letter...we received it... approximately, that was in Sbenszyn before the War.
 
-**Q.**He wrote to you from Paris to Sbenszyn?
+**Q.**He wrote to you from [[LOCATION:location_61|Paris]] to Sbenszyn?
 
-**A.**From Paris to Sbenszyn. We moved to Radomsko a fortnight before the War and got no more letters. We wrote to him that we had moved to Radomsko, and then the War started and we immediately left Radomsko. Because when the Germans entered Radomsko they immediately looked for the Grynszpans; they knew very well that we were in Radomsko.
+**A.**From [[LOCATION:location_61|Paris]] to Sbenszyn. We moved to Radomsko a fortnight before the War and got no more letters. We wrote to him that we had moved to Radomsko, and then the War started and we immediately left Radomsko. Because when the Germans entered Radomsko they immediately looked for the Grynszpans; they knew very well that we were in Radomsko.
 
 **Q.**One moment. Those letters you received up to a fortnight before the outbreak of the War, about August, 1939...
 
@@ -68,7 +68,7 @@
 
 **Q.**... August 1939, where did they come from?
 
-**A.**When the Germans came into Poland, we had lots of letters and many documents.
+**A.**When the Germans came into [[LOCATION:location_5|Poland]], we had lots of letters and many documents.
 
 **Q.**No, no, you did not understand my question. I am asking about letters you received from Hirsch.
 
@@ -82,11 +82,11 @@
 
 **Q.**The prison - where?
 
-**A.**In Paris. Fresnes. I have a letter here with, with...
+**A.**In [[LOCATION:location_61|Paris]]. Fresnes. I have a letter here with, with...
 
 **Q.**Please, show it.
 
-**A.**And it is written to here, to a cousin of his here, who lived in Israel; here there are three, four letters.
+**A.**And it is written to here, to a cousin of his here, who lived in [[LOCATION:location_38|Israel]]; here there are three, four letters.
 
 **Q.**Do you know his handwriting, Hirsch's?
 
@@ -121,13 +121,13 @@
 **Interpreter:** "Dear Leo, I hope you have received my letter. How is it you have not written to me about Lena? Has she got married yet? I very much enjoyed reading your letter. I should be so glad if you were to send me a picture of yourself. How are you? My life in prison is very monotonous. I hope that French justice will understand me and act accordingly. From your sister I have received a few letters; unfortunately I am unable to reply as I have lost her address; please do let me have it. Nothing else is new. Regards and kisses from your cousin Hershel."
 ---
 
-The Trial of Adolf Eichmann Sessions 14 (Part 5 of 7)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 14 (Part 5 of 7)
 
 ---
 
 **State Attorney Bar-Or:** One more question, Mr. Grynszpan. After this correspondence, the letters you were receiving from Hershel, stopped: did you make any efforts, did you try, during the War - and after the War - to find him, to get in touch with him?
 
-**Witness M. Grynszpan:** When I crossed the border from Poland to Russia, that was in Bialystok. I wrote a letter...
+**Witness M. Grynszpan:** When I crossed the border from [[LOCATION:location_5|Poland]] to [[LOCATION:location_10|Russia]], that was in Bialystok. I wrote a letter...
 
 **Presiding Judge:** When was that?
 
@@ -159,11 +159,11 @@ The Trial of Adolf Eichmann Sessions 14 (Part 5 of 7)
 
 **Q.**And afterwards?
 
-**A.**And afterwards the Germans were already in France. And I did not wish to write any more, so that no letter of mine should fall into the hands of the Germans, that I was at all in touch with my brother. And I did not write any more. At the end of the war...
+**A.**And afterwards the Germans were already in [[LOCATION:location_30|France]]. And I did not wish to write any more, so that no letter of mine should fall into the hands of the Germans, that I was at all in touch with my brother. And I did not write any more. At the end of the war...
 
 **Presiding Judge:** Where were you then, in Bialystok?
 
-**Witness M. Grynszpan:** No, I had moved to Central Russia. I was in the Russian Army. At the end of the War I found my parents in Astrakhan, in Russia. They had been there all the time. I had also left them when I went into the Red Army. I got back to Poland. Immediately my task was to look for Hershel. I wrote to all the agencies that looked for missing relatives; and I received negative replies. I met in Paris - afterwards I went to Paris - there I met his lawyer, Fraenkel, Dr. Fraenkel...
+**Witness M. Grynszpan:** No, I had moved to Central [[LOCATION:location_10|Russia]]. I was in the Russian Army. At the end of the War I found my parents in Astrakhan, in [[LOCATION:location_10|Russia]]. They had been there all the time. I had also left them when I went into the Red Army. I got back to [[LOCATION:location_5|Poland]]. Immediately my task was to look for Hershel. I wrote to all the agencies that looked for missing relatives; and I received negative replies. I met in [[LOCATION:location_61|Paris]] - afterwards I went to [[LOCATION:location_61|Paris]] - there I met his lawyer, Fraenkel, Dr. Fraenkel...
 
 **State Attorney Bar-Or:** May I, Mr. Grynszpan? I do not wish to overburden the Court with too much detail. My question was: did you succeed in finding any indication, any clue...?
 

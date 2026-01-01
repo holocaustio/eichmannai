@@ -1,4 +1,4 @@
-# Testimony of Shalom Chulawski
+# Testimony of [[PERSON:witness_83|Shalom Chulawski]]
 
 **Session:** 73
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Shalom Cholawski.
+**Witness:** [[PERSON:person_726|Shalom Cholawski]].
 
 **Presiding Judge:** I want to explain to you, right at the beginning of your evidence, that we have allowed you to testify, but that it must be clear that it is quite impossible, within the ambit of your evidence, to unfold in its entirety the episode which, I understand, you are about to describe. This must be clear to you.
 
@@ -14,7 +14,7 @@
 
 **Witness Cholawski:** Yes.
 
-**Q.**Upon the outbreak of the Second World War, you lived at home with your parents in Nesvizh in Belorussia?
+**Q.**Upon the outbreak of the [[EVENT:event_383|Second World War]], you lived at home with your parents in Nesvizh in [[LOCATION:location_11|Belorussia]]?
 
 **A.**Correct.
 
@@ -52,7 +52,7 @@
 
 **Q.**What did you do in order to remove other Jews from the ghetto to the forest?
 
-**A.**We wrote letters to the ghettos in the vicinity. This was in the summer of 1942, when a great holocaust swept through Belorussia and the Ukraine, and the largest ghettos and a few small ones were left only as embers after a fire. We established contact with the nearby ghettos; we wrote letters to them; we sent a special emissary to one of the nearby ghettos, but he fell in the approaches to the ghetto - he did not manage to reach it. Not many Jews came out. One must understand that there were many obstacles, at the time, in the way of Jews wanting to reach the forest. In the first place, the collective responsibility which was most depressing.
+**A.**We wrote letters to the ghettos in the vicinity. This was in the summer of 1942, when a great [[EVENT:event_386|holocaust]] swept through [[LOCATION:location_11|Belorussia]] and the [[LOCATION:location_12|Ukraine]], and the largest ghettos and a few small ones were left only as embers after a fire. We established contact with the nearby ghettos; we wrote letters to them; we sent a special emissary to one of the nearby ghettos, but he fell in the approaches to the ghetto - he did not manage to reach it. Not many Jews came out. One must understand that there were many obstacles, at the time, in the way of Jews wanting to reach the forest. In the first place, the collective responsibility which was most depressing.
 
 **Q.**What do you mean by "collective responsibility"?
 
@@ -169,7 +169,7 @@ Generally, we used to follow in the tracks of the Germans. We provoked them into
 
 **Q.**Where were they concentrated?
 
-**A.**There were great feelings of rejoicing in the forest, when they returned from important operations. The large centres of the Jewish partisans began roughly from Kovno along the whole length of the large forest areas, the length of East Polesye, to Galicia in the south. It stretched from Kovno, the forests of Vilna, the forests of Naliboki, and of Lipiczany, of Polesye, and of Northern Volhynia. These were the places where the family camps and the Jewish fighters were concentrated.
+**A.**There were great feelings of rejoicing in the forest, when they returned from important operations. The large centres of the Jewish partisans began roughly from [[LOCATION:location_17|Kovno]] along the whole length of the large forest areas, the length of East Polesye, to [[LOCATION:location_83|Galicia]] in the south. It stretched from [[LOCATION:location_17|Kovno]], the forests of [[LOCATION:location_171|Vilna]], the forests of Naliboki, and of Lipiczany, of Polesye, and of Northern Volhynia. These were the places where the family camps and the Jewish fighters were concentrated.
 
 **Q.**After that, was there also military contact with an army headquarters, the headquarters of a brigade of partisans - you were subject to military discipline?
 

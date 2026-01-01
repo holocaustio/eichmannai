@@ -1,4 +1,4 @@
-# Testimony of Abraham Hadjaj
+# Testimony of [[PERSON:witness_14|Abraham Hadjaj]]
 
 **Session:** 74
 
@@ -8,7 +8,7 @@
 
 **Witness:** Avraham Hagag.
 
-**Attorney General:** You are an officer in the Criminal Identification Department - Investigation Division - at the National Headquarters of the Israel Police?
+**Attorney General:** You are an officer in the Criminal Identification Department - Investigation Division - at the National Headquarters of the [[LOCATION:location_38|Israel]] Police?
 
 **Witness Hagag:** Yes, Your Honours.
 
@@ -28,7 +28,7 @@ Your Honours, amongst the documents I am holding is one that was given the numbe
 
 **Attorney General:** Do you have the number of Bureau 06?
 
-**Superintendent Hagag:** No. 1036. Your Honours, this document is a photocopy of two pages of a diary, a Turkish "Agenda", of 1944. In these two pages the names are written in Latin characters, and opposite each name there is a remark in Arabic. In the section relating to 9 November, a Thursday, the name of Eichmann is written in Latin characters, and above it there are two lines of Arabic writing. I have deciphered the Arabic writing after comparing the characteristics of the handwriting of Hajj Amin al-Husseini, and according to these characteristics it was possible to decipher the Arabic writing above it in this manner.
+**Superintendent Hagag:** No. 1036. Your Honours, this document is a photocopy of two pages of a diary, a Turkish "Agenda", of 1944. In these two pages the names are written in Latin characters, and opposite each name there is a remark in Arabic. In the section relating to 9 November, a Thursday, the name of Eichmann is written in Latin characters, and above it there are two lines of Arabic writing. I have deciphered the Arabic writing after comparing the characteristics of the handwriting of [[PERSON:person_680|Hajj Amin al-Husseini]], and according to these characteristics it was possible to decipher the Arabic writing above it in this manner.
 
 **Presiding Judge:** Perhaps, now, you would care to approach us - this applies to you gentlemen also, if you so wish.
 
@@ -36,7 +36,7 @@ Your Honours, amongst the documents I am holding is one that was given the numbe
 
 **Presiding Judge:** As you please - whoever wishes to approach us, may do so.
 
-**Witness Hagag:** our Honours, the first words are "fairus nadira jiddan." The translation is "a very rare diamond." In the second line: "Wa-Kheir Mukhlis lil-Arab" - "The best redeemer for the Arabs." Below it says: ""Dagobert von Mikusch," once in Latin characters and once in Arabic. It says 70 years, and there is also a remark in Arabic "to send greetings to him." Above that it says "Major Osterhof, Hotel Imperial." It says in Arabic "On the subject of Derna in its entirety."
+**Witness Hagag:** our Honours, the first words are "fairus [[PERSON:person_727|nadira jiddan]]." The translation is "a very rare diamond." In the second line: "Wa-Kheir Mukhlis lil-Arab" - "The best redeemer for the Arabs." Below it says: ""[[PERSON:person_728|Dagobert von Mikusch]]," once in Latin characters and once in Arabic. It says 70 years, and there is also a remark in Arabic "to send greetings to him." Above that it says "Major Osterhof, Hotel Imperial." It says in Arabic "On the subject of Derna in its entirety."
 
 **Presiding Judge:** What is "Derna"?
 
@@ -58,7 +58,7 @@ Therefore it cannot be "Farouk." "Fairusa" is a sapphire, a diamond, a precious 
 
 **Q.**Here there are some letters.
 
-**A.**No. These are the points of ""Mukhlis". Here there is a "Hamza". Your Honours, I have seen in the handwriting of Hajj Amin al-Husseini that he also embellishes his handwriting as in ornamental writing - sometimes marks are made above or below.
+**A.**No. These are the points of ""Mukhlis". Here there is a "Hamza". Your Honours, I have seen in the handwriting of [[PERSON:person_680|Hajj Amin al-Husseini]] that he also embellishes his handwriting as in ornamental writing - sometimes marks are made above or below.
 
 **Q.**As in the Koran?
 
@@ -88,7 +88,7 @@ The enlargement made of the diary will be marked T/1394.
 
 **Attorney General:** Mr. Hagag, now, so that all of us may understand, what are the words in Arabic appearing above the word "Eichmann" written in Latin characters?
 
-**Witness Hagag:** Your Honours, as we have deciphered it, relying on the regular characteristics of the handwriting of Hajj Amin al-Husseini, I have interpreted this writing to be "fairus nadira jiddan" and "Kheir mukhlis lil-arab" - a very rare diamond and the best redeemer for the Arabs.
+**Witness Hagag:** Your Honours, as we have deciphered it, relying on the regular characteristics of the handwriting of [[PERSON:person_680|Hajj Amin al-Husseini]], I have interpreted this writing to be "fairus [[PERSON:person_727|nadira jiddan]]" and "Kheir mukhlis lil-arab" - a very rare diamond and the best redeemer for the Arabs.
 
 **Q.**A very rare diamond and the best redeemer for the Arabs, and underneath that - in Latin characters - Eichmann.
 
@@ -130,9 +130,9 @@ The enlargement made of the diary will be marked T/1394.
 
 **A.**This is document No. 1307, Exhibit T/1273. The translation is "the plan for cleaning up the Jews and confiscation of their property in Tripoli before the evacuation."
 
-**Presiding Judge:** There was something else there about bombing the enterprises in Haifa. Were you able to read anything there?
+**Presiding Judge:** There was something else there about bombing the enterprises in [[LOCATION:location_127|Haifa]]. Were you able to read anything there?
 
-**Witness Hagag:** Yes, Your Honour, that is another document, in document No. 1305, Exhibit T/1268. The translation is: "The bombing of Tel Aviv and the Dead Sea and Rutenberg and Haifa, and the war industries there."
+**Witness Hagag:** Yes, Your Honour, that is another document, in document No. 1305, Exhibit T/1268. The translation is: "The bombing of [[LOCATION:location_42|Tel Aviv]] and the Dead Sea and Rutenberg and [[LOCATION:location_127|Haifa]], and the war industries there."
 
 **Attorney General:** Thank you.
 
@@ -140,7 +140,7 @@ The enlargement made of the diary will be marked T/1394.
 
 **Dr. Servatius:** Sir, with regard to document T/1267, where Eichmann's name appears, are you able to determine whether that is the handwriting of Husseini or of someone else?
 
-**Witness Hagag:** Hour Honour, I was not given comparative material written by Hajj Amin in Latin characters which would enable me to determine whether the name "Eichmann" was written by Hajj Amin al-Husseini or by someone else.
+**Witness Hagag:** Hour Honour, I was not given comparative material written by Hajj Amin in Latin characters which would enable me to determine whether the name "Eichmann" was written by [[PERSON:person_680|Hajj Amin al-Husseini]] or by someone else.
 
 **Q.**Are the entries in Latin characters in that diary, namely those of 10 November, in the same handwriting as the name "Eichmann"?
 

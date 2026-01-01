@@ -1,4 +1,4 @@
-# Testimony of Witzlaw Diamant
+# Testimony of [[PERSON:witness_87|Witzlaw Diamant]]
 
 **Session:** 45
 
@@ -16,19 +16,19 @@
 
 **Witness Diamant:** Yes.
 
-**Q.**You were born in Czechoslovakia?
+**Q.**You were born in [[LOCATION:location_15|Czechoslovakia]]?
 
 **A.**Yes.
 
-**Q.**Were you in Prague in 1939 at the outbreak of the War?
+**Q.**Were you in [[LOCATION:location_4|Prague]] in 1939 at the outbreak of the War?
 
 **A.**Yes.
 
-**Q.**On 14 December 1941, you were sent from Prague to Theresienstadt on one of the first transports?
+**Q.**On 14 December 1941, you were sent from [[LOCATION:location_4|Prague]] to [[LOCATION:location_124|Theresienstadt]] on one of the first transports?
 
 **A.**Yes.
 
-**Q.**What was your trade before you came to Theresienstadt?
+**Q.**What was your trade before you came to [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Electrician.
 
@@ -36,11 +36,11 @@
 
 **A.**Yes.
 
-**Q.**Did you remain in Theresienstadt until its liberation by the Red Cross?
+**Q.**Did you remain in [[LOCATION:location_124|Theresienstadt]] until its liberation by the Red Cross?
 
 **A.**Yes. And later the Soviets came.
 
-**Q.**Where was your place of work in Theresienstadt?
+**Q.**Where was your place of work in [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Where the Council of Elders was, in the barracks, and all around were the workshops.
 
@@ -50,13 +50,13 @@
 
 **Q.**What can you tell the Court about what happened between the two of you in connection with certain documents?
 
-**A.**I worked there as an electrical technician, where the Council of Elders was. It was a barracks of the dragoons before, and it had a lock-up for soldiers. I turned the lock-up into a workshop for myself, and in the Registry I had a friend who wrote down everything, all orders which came from the Commandant's office, people who were sent on, people who died, and the copies, which were of course kept secret, he gave to me, and I kept them in my workshop in a certain inaccessible place. Before the end of the War, he came to me and saidthat it may well be that they will be discovered, and that I should give them up. They were hidden in the dragoon barracks behind a rafter, so that after the War this friend was able to hand over the copies to the Czech Government.
+**A.**I worked there as an electrical technician, where the Council of Elders was. It was a barracks of the dragoons before, and it had a lock-up for soldiers. I turned the lock-up into a workshop for myself, and in the Registry I had a friend who wrote down everything, all orders which came from the Commandant's office, people who were sent on, people who died, and the copies, which were of course kept secret, he gave to me, and I kept them in my workshop in a certain inaccessible place. Before the end of the War, he came to me and saidthat it may well be that they will be discovered, and that I should give them up. They were hidden in the dragoon barracks behind a rafter, so that after the War this friend was able to hand over the copies to the [[ORGANIZATION:org_353|Czech Government]].
 
-**Q.**In connection with what you have just told us, do you perhaps know how many persons were in Theresienstadt camp in the autumn of 1944?
+**Q.**In connection with what you have just told us, do you perhaps know how many persons were in [[LOCATION:location_245|Theresienstadt camp]] in the autumn of 1944?
 
 **A.**About 35,000.
 
-**Q.**In September-October 1944, something happened in Theresienstadt and you had a part in it. Perhaps you will tell the Court about it?
+**Q.**In September-October 1944, something happened in [[LOCATION:location_124|Theresienstadt]] and you had a part in it. Perhaps you will tell the Court about it?
 
 **A.**In the autumn, a day or two before Rosh Hashana 1944, an order came, and it was said that Eichmann had also arrived, and he made all of us who were there stand at attention, as we had been taught at school to stand before the teacher. There were several other SS men, people from the administration were also present, and they ordered us to appear, each of us was given a slip, and we had to stand in line.
 
@@ -88,7 +88,7 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **Q.**Did you see anybody whom you recognized immediately?
 
-**A.**Yes, there was Rahm, he was the Camp Commandant, and there was one from the technical administration, a certain Mr. Sever, an engineer, a Jew from Prague. He was also there.
+**A.**Yes, there was Rahm, he was the Camp Commandant, and there was one from the technical administration, a certain Mr. Sever, an engineer, a Jew from [[LOCATION:location_4|Prague]]. He was also there.
 
 **Q.**Was Sever one of the Jewish Elders in the ghetto?
 
@@ -168,7 +168,7 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **Q.**What did you know? What was the reason?
 
-**A.**The purpose was to deport the people from Theresienstadt to Auschwitz, because immediately after everybody had been registered, they were all taken into a barracks and then immediately sent on in (railway) carriages.
+**A.**The purpose was to deport the people from [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Auschwitz]], because immediately after everybody had been registered, they were all taken into a barracks and then immediately sent on in (railway) carriages.
 
 **Q.**Was this the first time that this happened?
 
@@ -176,7 +176,7 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **Q.**What did Sever tell you, that he knew what had been written down concerning you?
 
-**A.**He told me: "You will go on living," and his two brothers were with me and they were sent to Auschwitz. "And my brothers will not live." I asked him: "'How do you know this?," and he replied: "You have a round sign and my brothers have a cross."
+**A.**He told me: "You will go on living," and his two brothers were with me and they were sent to [[LOCATION:location_286|Auschwitz]]. "And my brothers will not live." I asked him: "'How do you know this?," and he replied: "You have a round sign and my brothers have a cross."
 
 **Q.**Are you quite certain that Sever was present at the commission?
 
@@ -191,7 +191,7 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **A.**I cannot say this with certainty, but it was between 21,000 and 24,000 who were sent off; I am not certain today. I was more or less in the middle of those who were brought before the commission.
 
-**Q.**Do you remember, from the lists of your friend Pollack, how many Jews were left in Theresienstadt after these deportations?
+**Q.**Do you remember, from the lists of your friend Pollack, how many Jews were left in [[LOCATION:location_124|Theresienstadt]] after these deportations?
 
 **A.**A little over 11,000.
 
@@ -211,7 +211,7 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **A.**I was there only once, but the people who went up to the commission said that he was there. But, of course, I do not know this.
 
-**Q.**Do you stand by your testimony that it was certainly Eichmann, if you are told that Eichmann was in Hungary at that time?
+**Q.**Do you stand by your testimony that it was certainly Eichmann, if you are told that Eichmann was in [[LOCATION:location_24|Hungary]] at that time?
 
 **A.**He did not introduce himself, of course; people said so. Those who were upstairs at the commission told me that this was Eichmann.
 
@@ -225,27 +225,27 @@ At about 9 o'clock, an SS man appeared with another ghetto guard looking for "th
 
 **Witness Diamant:** Yes.
 
-**Q.**And when did he tell you that the transports were going to Auschwitz?
+**Q.**And when did he tell you that the transports were going to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**This was no secret at all. Everybody knew this at the time. And besides, I was in the workshop, wasn't I. There was a young man there whom I had already known in the army. He told me that the trains were going to Auschwitz or to Birkenau. The people from the railway, who were not Jews, they told him that. And there, in Auschwitz, these people were to be killed by gassing - that was said.
+**A.**This was no secret at all. Everybody knew this at the time. And besides, I was in the workshop, wasn't I. There was a young man there whom I had already known in the army. He told me that the trains were going to [[LOCATION:location_286|Auschwitz]] or to [[LOCATION:location_286|Birkenau]]. The people from the railway, who were not Jews, they told him that. And there, in [[LOCATION:location_286|Auschwitz]], these people were to be killed by gassing - that was said.
 
-May I add something more? I knew it because my mother-in- law and my father-in-law were sent to Auschwitz. And I still have the postcard which I received from my late father- in-law from Auschwitz, where he tells me that he arrived there. I did not get this postcard in the mail; the Germans used to bring these postcards to Theresienstadt and to distribute them there. This was in the summer of 1944.
+May I add something more? I knew it because my mother-in- law and my father-in-law were sent to [[LOCATION:location_286|Auschwitz]]. And I still have the postcard which I received from my late father- in-law from [[LOCATION:location_286|Auschwitz]], where he tells me that he arrived there. I did not get this postcard in the mail; the Germans used to bring these postcards to [[LOCATION:location_124|Theresienstadt]] and to distribute them there. This was in the summer of 1944.
 
 **Q.**Did you say that there had already been deportations before?
 
-**A.**I was there from 14 December 1941, and the first transport left Theresienstadt for the East, as it was called, on 9 January. I still remember this exactly, because I had a friend who told me. I do not remember the others exactly, but there were transports again and again.
+**A.**I was there from 14 December 1941, and the first transport left [[LOCATION:location_124|Theresienstadt]] for the East, as it was called, on 9 January. I still remember this exactly, because I had a friend who told me. I do not remember the others exactly, but there were transports again and again.
 
 **Q.**Was this on 9 January 1942?
 
 **A.**Yes.
 
-**Q.**When did you know that this went to Auschwitz?
+**Q.**When did you know that this went to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**Later on. This friend told me about it for the first time. He was a Christian, a Czech nationalist, and he told me that the transports go to Lithuania and Latvia, and that there the people are shot. He had connections with the railway workers, and these railway workers were in touch with the other railway workers who were all against the Germans, and from them I heard about the matter.
+**A.**Later on. This friend told me about it for the first time. He was a Christian, a Czech nationalist, and he told me that the transports go to [[LOCATION:location_7|Lithuania]] and [[LOCATION:location_8|Latvia]], and that there the people are shot. He had connections with the railway workers, and these railway workers were in touch with the other railway workers who were all against the Germans, and from them I heard about the matter.
 
-And then, later - I do not remember exactly when - it was said that the transports were bound for Birkenau and Auschwitz, and that there the people were gassed, etc. I told this to the people who were with me, and they did not believe me. I also told it to the members of the Jewish Council of Elders, and they, too, did not believe me.
+And then, later - I do not remember exactly when - it was said that the transports were bound for [[LOCATION:location_286|Birkenau]] and [[LOCATION:location_286|Auschwitz]], and that there the people were gassed, etc. I told this to the people who were with me, and they did not believe me. I also told it to the members of the Jewish Council of Elders, and they, too, did not believe me.
 
-**Q.**But Sever was a member of the Council of Elders, and he told you that his two brothers were being sent to Auschwitz and that they would not live; if so, he did believe it, he knew.
+**Q.**But Sever was a member of the Council of Elders, and he told you that his two brothers were being sent to [[LOCATION:location_286|Auschwitz]] and that they would not live; if so, he did believe it, he knew.
 
 **A.**That was in 1944. By that time it was already an open secret. By that time everybody knew it. Earlier on nobody knew this, we did not know a thing.
 

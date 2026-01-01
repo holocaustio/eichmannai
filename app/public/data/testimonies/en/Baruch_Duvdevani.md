@@ -1,14 +1,14 @@
-# Testimony of Baruch Duvdevani
+# Testimony of [[PERSON:witness_18|Baruch Duvdevani]]
 
 **Session:** 26
 
 ---
 
-**Presiding Judge:** Is your name Baruch Duvdevani?
+**Presiding Judge:** Is your name [[PERSON:witness_18|Baruch Duvdevani]]?
 
 **Witness:** Yes.
 
-Attorney General: Do you work in the Immigration Department of the Jewish Agency?
+Attorney General: Do you work in the Immigration Department of the [[ORGANIZATION:org_305|Jewish Agency]]?
 
 **Witness Duvdevani:** Yes.
 
@@ -22,11 +22,11 @@ Attorney General: Do you work in the Immigration Department of the Jewish Agency
 
 **Q.**Tell us how the manuscript of the sermons came to be in your possession, and how you contributed to the publication of the book?
 
-**A.**In the War years the disciples of Rabbi Kalunimus Shapiro requested that if I should go abroad at the end of the Holocaust, I should inquire whether he had survived and if his writings had remained. When I travelled after the War on a mission for the Jewish Agency to the Camps, I decided to inquire as to his fate, and I found out what had happened to him during the years in the ghetto. I didn't manage to discover if any of his writings had remained. In 1956, I went to Poland on a mission for the State [of Israel] and I continued to inquire as to what had happened to these writings, if they still existed.
+**A.**In the War years the disciples of Rabbi Kalunimus Shapiro requested that if I should go abroad at the end of the [[EVENT:event_386|Holocaust]], I should inquire whether he had survived and if his writings had remained. When I travelled after the War on a mission for the [[ORGANIZATION:org_305|Jewish Agency]] to the Camps, I decided to inquire as to his fate, and I found out what had happened to him during the years in the ghetto. I didn't manage to discover if any of his writings had remained. In 1956, I went to [[LOCATION:location_5|Poland]] on a mission for the State [of [[LOCATION:location_38|Israel]]] and I continued to inquire as to what had happened to these writings, if they still existed.
 
-Day after day I went to the ruins in Warsaw, where buildings had been destroyed and new ones erected; I visited the Jewish Historical Institute and did not manage to find anything. One day a Pole brought me a milk jar and in it there were manuscripts which he found in a ditch in Genzia Street in Warsaw. This was a jar which Dr. Emanuel Ringelblum had left there. I began to look through the writings and did not find anything of significance.
+Day after day I went to the ruins in [[LOCATION:location_93|Warsaw]], where buildings had been destroyed and new ones erected; I visited the [[ORGANIZATION:org_332|Jewish Historical Institute]] and did not manage to find anything. One day a Pole brought me a milk jar and in it there were manuscripts which he found in a ditch in Genzia Street in [[LOCATION:location_93|Warsaw]]. This was a jar which Dr. [[PERSON:person_501|Emanuel Ringelblum]] had left there. I began to look through the writings and did not find anything of significance.
 
-The staff of the Jewish Historical Institute helped me but to no avail. One day, when I had decided to search further, suddenly they brought me a will which had been found amongst these documents, of Rabbi Kalunimus Shapiro in favour of his brother in the Land of Israel, the late Rabbi Yeshayahu Shapiro and two other disciples who are living today in Israel. When I noticed the date, which was four months before the Warsaw Ghetto revolt, I became very excited and began reading. And I saw that he had put into the jar books which he had written during the War years. This did not give me rest, and within a day or two I found, inside this jar, the manuscript of this book.
+The staff of the [[ORGANIZATION:org_332|Jewish Historical Institute]] helped me but to no avail. One day, when I had decided to search further, suddenly they brought me a will which had been found amongst these documents, of Rabbi Kalunimus Shapiro in favour of his brother in the Land of [[LOCATION:location_38|Israel]], the late Rabbi Yeshayahu Shapiro and two other disciples who are living today in [[LOCATION:location_38|Israel]]. When I noticed the date, which was four months before the [[LOCATION:location_93|Warsaw]] Ghetto revolt, I became very excited and began reading. And I saw that he had put into the jar books which he had written during the War years. This did not give me rest, and within a day or two I found, inside this jar, the manuscript of this book.
 
 **Attorney General:** I submit the book, and I would request the Court to allow me to return it to the witness so that he may read a number of passages from it.
 
@@ -44,7 +44,7 @@ The staff of the Jewish Historical Institute helped me but to no avail. One day,
 
 **A.**In his synagogue and also in the Schultz factory where he was compelled to work as a tailor. He used to stand together with the other workers and whisper to them words of the Torah and words of encouragement.
 
-**Q.**As you ascertained, he found his death in Trawniki in Lublin?
+**Q.**As you ascertained, he found his death in Trawniki in [[LOCATION:location_35|Lublin]]?
 
 **A.**Yes.
 
@@ -53,7 +53,7 @@ The staff of the Jewish Historical Institute helped me but to no avail. One day,
 Witness Duvdevani [reads]
 
 > "And who is the man who will not be saddened when he sees
-> the woes of Israel both physically and spiritually, and who
+> the woes of [[LOCATION:location_38|Israel]] both physically and spiritually, and who
 > is the man whose heart will not be pained when he beholds
 > that there are no religious schools, and no Yeshivah, no
 > place for the Torah, and no group of those learning the
@@ -107,9 +107,9 @@ Witness Duvdevani [reads]
 
 > "But the unprecedented calamities and
 > the evil and unnatural deaths that these awful murderers
-> invented for us, the House of Israel, at the end of 5702, to
+> invented for us, the House of [[LOCATION:location_38|Israel]], at the end of 5702, to
 > my knowledge in the sayings of our sages of blessed memory,
-> and in Israel's history generally, had no parallel at all,
+> and in [[LOCATION:location_38|Israel]]'s history generally, had no parallel at all,
 > and may the Almighty have mercy on us and save us from their
 > hands in the twinkling of an eye. Friday, eve of the holy
 > Sabbath, 18 Kislev 5703 (1943)."
@@ -117,7 +117,7 @@ Witness Duvdevani [reads]
 
 ****Attorney General:** **Please read from page 140 at the bottom - the Sabbath day of Hanukka.
 
-**A.**"As we know from the Rabbi - may his righteous and holy memory be blessed" (this was evidently his father) "that therefore even the lowly man in Israel is ready to sacrifice himself to the Almighty at a time of trial." And afterwards, at the end, he writes: "Therefore, even if everyone had paid heed, that it was not because we had robbed or committed evil to any man that we were being persecuted, only because we were the sons of Israel, closely attached to our Heavenly Father and to His Law for which He is to be blessed and it is not enough for them, our adversaries merely to quench the Divine spark that is in our midst, they wish to destroy both the body and the soul of the Jewish individual - then on the contrary, verily, our faith and our dedication to Him and His Law would be strengthened."
+**A.**"As we know from the Rabbi - may his righteous and holy memory be blessed" (this was evidently his father) "that therefore even the lowly man in [[LOCATION:location_38|Israel]] is ready to sacrifice himself to the Almighty at a time of trial." And afterwards, at the end, he writes: "Therefore, even if everyone had paid heed, that it was not because we had robbed or committed evil to any man that we were being persecuted, only because we were the sons of [[LOCATION:location_38|Israel]], closely attached to our Heavenly Father and to His Law for which He is to be blessed and it is not enough for them, our adversaries merely to quench the Divine spark that is in our midst, they wish to destroy both the body and the soul of the Jewish individual - then on the contrary, verily, our faith and our dedication to Him and His Law would be strengthened."
 
 **Attorney General:** Please turn to page 169, that is to the portion of the law "Zkhor" - "Remember that which Amalek did unto you." Please read what is written there in large letters.
 
@@ -137,18 +137,18 @@ Witness Duvdevani [reads]
 **Witness Duvdevani**[reads]
 
 > "Israel's eternity in this world also depends only upon
-> her sons. Therefore, it was the babes of Israel that
-> the first hater of Israel, Pharaoh, attacked. 'Every
+> her sons. Therefore, it was the babes of [[LOCATION:location_38|Israel]] that
+> the first hater of [[LOCATION:location_38|Israel]], Pharaoh, attacked. 'Every
 > son that is born ye shall cast into the river.' And
 > thus it was always with the cruelty of the enemies of
 > Israel, they have been especially cruel towards the
-> children of Israel, whether - Heaven forbid - in
+> children of [[LOCATION:location_38|Israel]], whether - Heaven forbid - in
 > killing them or forcing them to renounce God, as is
 > known from the evil decrees hundreds of years ago,
 > Heaven forfend - and as we now see also, to our deep
 > sorrow, that far in excess of all the acts of cruelty
 > and the terrible murders that were perpetrated upon us,
-> the House of Israel, were the murders and the acts of
+> the House of [[LOCATION:location_38|Israel]], were the murders and the acts of
 > cruelty perpetrated on our sons, daughters and the
 > little ones. Woe to us for what happened to us."
 
@@ -162,7 +162,7 @@ Witness Duvdevani [reads]
 > Torah, and this is the reward' a voice answered from
 > Heaven 'If I hear another sound I shall turn the world
 > into water.' And now innocent children, pure angels,
-> also older ones, the martyrs of Israel, are being
+> also older ones, the martyrs of [[LOCATION:location_38|Israel]], are being
 > killed and slaughtered simply because they are Jews,
 > who are greater than angels, who fill the entire
 > universe with their cries and the world does not turn

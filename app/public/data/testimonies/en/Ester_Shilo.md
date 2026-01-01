@@ -1,4 +1,4 @@
-# Testimony of Ester Shilo
+# Testimony of [[PERSON:witness_104|Ester Shilo]]
 
 **Session:** 24
 
@@ -16,7 +16,7 @@
 
 **A.**Correct.
 
-**Q.**You were then living in Lodz?
+**Q.**You were then living in [[LOCATION:location_81|Lodz]]?
 
 **A.**Correct.
 
@@ -26,7 +26,7 @@
 
 **Q.**I beg your pardon. Were you the only member of the family who remained alive?
 
-**A.**I survived, and after the War I found my brother. We met after I had returned from the concentration camps, to the same place, to Lodz, to see whether we could, perhaps, find some other members of the family.
+**A.**I survived, and after the War I found my brother. We met after I had returned from the concentration camps, to the same place, to [[LOCATION:location_81|Lodz]], to see whether we could, perhaps, find some other members of the family.
 
 **Q.**Kindly answer my questions. Your parents and your other brother perished?
 
@@ -50,7 +50,7 @@
 
 **Q.**In what year was this?
 
-**A.**This was roughly a short time before the last deportation in which my family and I were sent to Auschwitz.
+**A.**This was roughly a short time before the last deportation in which my family and I were sent to [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Was this in 1943 or 1944?
 
@@ -60,7 +60,7 @@
 
 **A.**Correct.
 
-**Q.**The pictures of Bialik and Herzl here - was this the memorial meeting for the 20th and 21st of Tamuz?* {*1The anniversaries of Theodor Herzl and Haim Nahman Bialik according to the Jewish calendar.}
+**Q.**The pictures of Bialik and Herzl here - was this the memorial meeting for the 20th and 21st of Tamuz?* {*1The anniversaries of [[PERSON:person_491|Theodor Herzl]] and Haim Nahman Bialik according to the Jewish calendar.}
 
 **A.**Correct.
 

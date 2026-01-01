@@ -1,4 +1,4 @@
-# Testimony of Abraham Karassik
+# Testimony of [[PERSON:witness_15|Abraham Karassik]]
 
 **Session:** 28
 
@@ -8,7 +8,7 @@
 
 **A.**Avraham Karasik.
 
-**Attorney General:** Do you live in Rehovot, at 196 Rehov Herzl?
+**Attorney General:** Do you live in [[LOCATION:location_159|Rehovot]], at 196 Rehov Herzl?
 
 **A.**Yes.
 
@@ -16,11 +16,11 @@
 
 **A.**Yes.
 
-**Q.**At the outbreak of the Second World War, were you living in Bialystok?
+**Q.**At the outbreak of the [[EVENT:event_383|Second World War]], were you living in Bialystok?
 
 **A.**Correct.
 
-**Q.**When was Bialystok occupied after the outbreak of the war between Germany and Soviet Russia?
+**Q.**When was Bialystok occupied after the outbreak of the war between [[LOCATION:location_2|Germany]] and Soviet [[LOCATION:location_10|Russia]]?
 
 **A.**On 27 June 1941.
 
@@ -48,13 +48,13 @@
 
 **A.**They were shot there.
 
-**Q.**In the administrative sense was the Bialystok district incorporated in East Prussia?
+**Q.**In the administrative sense was the Bialystok district incorporated in East [[LOCATION:location_91|Prussia]]?
 
 **A.**Exactly.
 
-**Q.**It was not incorporated in the Generalgouvernement?
+**Q.**It was not incorporated in the [[LOCATION:location_152|Generalgouvernement]]?
 
-**A.**No, no. All the instructions that came later concerning matters of work and matters of liquidation emanated from Koenigsberg.
+**A.**No, no. All the instructions that came later concerning matters of work and matters of liquidation emanated from [[LOCATION:location_146|Koenigsberg]].
 
 **Q.**When was the ghetto in Bialystok set up?
 
@@ -74,7 +74,7 @@
 
 **Q.**What enterprises?
 
-**A.**The enterprises worked for the Wehrmacht. They made all kinds of things there, ranging from carts and waggons to uniforms and shoes.
+**A.**The enterprises worked for the [[ORGANIZATION:org_328|Wehrmacht]]. They made all kinds of things there, ranging from carts and waggons to uniforms and shoes.
 
 **Q.**How did people go out to work? Was it at their choice? Was each one able to go according to his own free will?
 
@@ -102,7 +102,7 @@
 
 **Q.**They were taken, first of all, to the barracks of the Tenth Battalion, and after that?
 
-**A.**After that, they were taken to Treblinka, according to what we learned subsequently.
+**A.**After that, they were taken to [[LOCATION:location_173|Treblinka]], according to what we learned subsequently.
 
 **Q.**What happened on 4 February 1943?
 
@@ -116,15 +116,15 @@ There were instances of resistance - amongst them the wonderful and well-known c
 
 **Q.**Who was the commander of the operation?
 
-**A.**The commander of the operation was Friedel,* {* Fritz Gustav Friedel (Gestapo) [Tenenbaum - Underground]} whom we knew, who was in charge of the ghetto on behalf of the authorities.
+**A.**The commander of the operation was Friedel,* {* Fritz Gustav Friedel ([[ORGANIZATION:org_344|Gestapo]]) [Tenenbaum - Underground]} whom we knew, who was in charge of the ghetto on behalf of the authorities.
 
 **Q.**This Friedel was subsequently brought to trial and executed in accordance with the sentence of a Polish court?
 
-**A.**Yes. And there was another man, Inspector Magel, and another, who they said came from Koenigsberg, by the name of Guenther. This is what people said; I myself did not know him, for he was not a regular visitor to the ghetto, but they spoke of him.
+**A.**Yes. And there was another man, Inspector Magel, and another, who they said came from [[LOCATION:location_146|Koenigsberg]], by the name of Guenther. This is what people said; I myself did not know him, for he was not a regular visitor to the ghetto, but they spoke of him.
 
 **Q.**Did they talk about the fact that Guenther came there?
 
-**A.**They said that a man from East Prussia had come especially to carry out the "action" in Bialystok. I would like to point out especially that, at the time the "action" was carried out, the Schutzpolizei, which guarded the ghetto all the time, was not allowed to come into the ghetto on that day, while the "action" was being carried out. The ghetto was guarded by a commando which had come specially for the liquidation.
+**A.**They said that a man from East [[LOCATION:location_91|Prussia]] had come especially to carry out the "action" in Bialystok. I would like to point out especially that, at the time the "action" was carried out, the Schutzpolizei, which guarded the ghetto all the time, was not allowed to come into the ghetto on that day, while the "action" was being carried out. The ghetto was guarded by a commando which had come specially for the liquidation.
 
 **Q.**What did Friedel tell the Judenrat?
 
@@ -279,7 +279,7 @@ There were instances of resistance - amongst them the wonderful and well-known c
 
 **Attorney General:** Where to?
 
-**A.**To Treblinka.
+**A.**To [[LOCATION:location_173|Treblinka]].
 
 **Q.**Very few of you remained at the end?
 
@@ -381,7 +381,7 @@ In May, I don't remember the date exactly, Friedel came once again - he was the 
 
 **Attorney General:** Where did you go to?
 
-**A.**When the doors were opened, we saw that we were in the courtyard of the Gestapo on Siemkiewiczo Street. There we underwent an additional search, and they took away from us all the things that remained from the gaol - pencil stubs, shoelaces.
+**A.**When the doors were opened, we saw that we were in the courtyard of the [[ORGANIZATION:org_344|Gestapo]] on Siemkiewiczo Street. There we underwent an additional search, and they took away from us all the things that remained from the gaol - pencil stubs, shoelaces.
 
 **Q.**What place did they take you to?
 
@@ -400,7 +400,7 @@ In May, I don't remember the date exactly, Friedel came once again - he was the 
 **A.**Those who accompanied us.
 ---
 
-The Trial of Adolf Eichmann Session 28 (Part 3 of7 )
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Session 28 (Part 3 of7 )
 
 ---
 
@@ -486,7 +486,7 @@ The Trial of Adolf Eichmann Session 28 (Part 3 of7 )
 
 **Attorney General:** In course of time did you get to know what the unit was called?
 
-**Witness Karasik:** No, they called it Sonderkommando. They pointed out all the time that on the last pyre we, too, would go up, for the secret was not allowed to be known. This is what the German gendarmerie said. We came to Grodno...
+**Witness Karasik:** No, they called it Sonderkommando. They pointed out all the time that on the last pyre we, too, would go up, for the secret was not allowed to be known. This is what the German gendarmerie said. We came to [[LOCATION:location_188|Grodno]]...
 
 **Q.**Not so fast. The next day you carried on with the same work?
 
@@ -528,15 +528,15 @@ The Trial of Adolf Eichmann Session 28 (Part 3 of7 )
 
 **Judge Halevi:** Was all this in the region of Bialystok?
 
-**Witness Karasik:** Bialystok, Augustov, Grodno.
+**Witness Karasik:** Bialystok, Augustov, [[LOCATION:location_188|Grodno]].
 
-**Attorney General:** Afterwards you reached the environs of East Prussia?
+**Attorney General:** Afterwards you reached the environs of East [[LOCATION:location_91|Prussia]]?
 
-**Witness Karasik:** Yes. Our place there was in the courtyard of the Gestapo in Grodno. From there we would go out into the countryside around Lida, in the Grodno area. We dug near an ancient citadel and there we found bodies with gold rings on their fingers. Evidently these were not Jews, but people who had been seized in the street and put to death.
+**Witness Karasik:** Yes. Our place there was in the courtyard of the [[ORGANIZATION:org_344|Gestapo]] in [[LOCATION:location_188|Grodno]]. From there we would go out into the countryside around [[LOCATION:location_189|Lida]], in the [[LOCATION:location_188|Grodno]] area. We dug near an ancient citadel and there we found bodies with gold rings on their fingers. Evidently these were not Jews, but people who had been seized in the street and put to death.
 
-**Presiding Judge:** Was this on Polish territory or in East Prussia?
+**Presiding Judge:** Was this on Polish territory or in East [[LOCATION:location_91|Prussia]]?
 
-**Witness Karasik:** I cannot state this exactly. On one occasion we saw the post marking the border. On this border post there was the sign of Prussia.
+**Witness Karasik:** I cannot state this exactly. On one occasion we saw the post marking the border. On this border post there was the sign of [[LOCATION:location_91|Prussia]].
 
 **Attorney General:** Did you find the bodies of children?
 
@@ -556,7 +556,7 @@ The Trial of Adolf Eichmann Session 28 (Part 3 of7 )
 
 **Attorney General:** And you had to burn them?
 
-**Witness Karasik:** Yes, we had to burn them. And they further told us to take off their clothes - whatever we needed. But, of course, no one touched them. I witnessed this spectacle, and if I may describe it - it would be worthwhile doing so. At the time that they brought the truck - the truck was closed, it was the same truck that conveyed us to work and carried hundreds and thousands of people to their death - naturally in the driver's cabin sat Haman, the driver and another Gestapowitz (Gestapo man); they opened the doors and the persons started coming out. Evidently they were not expecting this kind of thing. Then Haman took a submachine gun and began firing at the people. They were taken unawares by the shots and began shouting and begging for mercy, but further bullets put an end to their convulsions. This Haman approached them and with his fingernails grabbed the flesh of a young woman whose dress had lifted somewhat.
+**Witness Karasik:** Yes, we had to burn them. And they further told us to take off their clothes - whatever we needed. But, of course, no one touched them. I witnessed this spectacle, and if I may describe it - it would be worthwhile doing so. At the time that they brought the truck - the truck was closed, it was the same truck that conveyed us to work and carried hundreds and thousands of people to their death - naturally in the driver's cabin sat Haman, the driver and another Gestapowitz ([[ORGANIZATION:org_344|Gestapo]] man); they opened the doors and the persons started coming out. Evidently they were not expecting this kind of thing. Then Haman took a submachine gun and began firing at the people. They were taken unawares by the shots and began shouting and begging for mercy, but further bullets put an end to their convulsions. This Haman approached them and with his fingernails grabbed the flesh of a young woman whose dress had lifted somewhat.
 
 **Presiding Judge:** Were they women or men?
 
@@ -572,7 +572,7 @@ The Trial of Adolf Eichmann Session 28 (Part 3 of7 )
 
 **Q.**Mothers?
 
-**A.**Yes. There was one case where we unearthed a grave in the vicinity of Lida. The grave was close to what had once been a village. At that time it was no longer a village but chimney stacks which stood on the site of the village. In this grave there were only women and children; there were no men there at all. Afterwards we learned, according to what the Germans said, that the men had escaped to the partisans, to the forest. When we discovered this grave, we saw on top one woman who lay there with a baby in her arm and a little girl at her side and a baby on her back, bound to her with cloth. It was a shocking picture. And this "Boxer" began to cry, tears welled up in his eyes, but the rest of his comrades started mocking him...
+**A.**Yes. There was one case where we unearthed a grave in the vicinity of [[LOCATION:location_189|Lida]]. The grave was close to what had once been a village. At that time it was no longer a village but chimney stacks which stood on the site of the village. In this grave there were only women and children; there were no men there at all. Afterwards we learned, according to what the Germans said, that the men had escaped to the partisans, to the forest. When we discovered this grave, we saw on top one woman who lay there with a baby in her arm and a little girl at her side and a baby on her back, bound to her with cloth. It was a shocking picture. And this "Boxer" began to cry, tears welled up in his eyes, but the rest of his comrades started mocking him...
 
 **Q.**Which comrades?
 
@@ -641,11 +641,11 @@ Do you, to this day, have a scar of this injury?
 
 **Witness Karasik :** We do not know - this was at night, on the last night.
 
-**Attorney General:** You were drafted into the Soviet army, and you also took part in battles in Czechoslovakia?
+**Attorney General:** You were drafted into the Soviet army, and you also took part in battles in [[LOCATION:location_15|Czechoslovakia]]?
 
 **Witness Karasik :** Yes, thanks to an acquaintance, the director of the hospital where I was.
 
-**Q.**At the end of 1945 you were released from the Soviet army and in 1947 you immigrated to Palestine, you were exiled to Cyprus, and in 1949 you immigrated to the State of Israel?
+**Q.**At the end of 1945 you were released from the Soviet army and in 1947 you immigrated to [[LOCATION:location_57|Palestine]], you were exiled to [[LOCATION:location_190|Cyprus]], and in 1949 you immigrated to the State of [[LOCATION:location_38|Israel]]?
 
 **A.**Correct.
 
@@ -655,11 +655,11 @@ Do you, to this day, have a scar of this injury?
 
 **Presiding Judge:** Thank you very much, Mr Karasik, you have completed your evidence.
 
-**Attorney General:** I shall now submit a number of documents relating to matters concerning Bialystok. The first is our document No. 192. The date is 16 December 1942. This is an instruction mentioning 45,000 Jews. The date of dispatch is 11 November 1943. 30,000 of them were from the district of Bialystok and the rest from other districts. At the end of the cable it is stated that, owing to practical considerations the general guidelines would apply to these Jews, during their classification on their arrival at Auschwitz, and at least 10,000-15,000 would have to be a labour force. The cable was sent from Department IVB4 and signed by Mueller.
+**Attorney General:** I shall now submit a number of documents relating to matters concerning Bialystok. The first is our document No. 192. The date is 16 December 1942. This is an instruction mentioning 45,000 Jews. The date of dispatch is 11 November 1943. 30,000 of them were from the district of Bialystok and the rest from other districts. At the end of the cable it is stated that, owing to practical considerations the general guidelines would apply to these Jews, during their classification on their arrival at [[LOCATION:location_286|Auschwitz]], and at least 10,000-15,000 would have to be a labour force. The cable was sent from Department IVB4 and signed by Mueller.
 
-**Judge Halevi:** What did you say about Auschwitz?
+**Judge Halevi:** What did you say about [[LOCATION:location_286|Auschwitz]]?
 
-**Attorney General:** This was a transport to Auschwitz and a classification for work. It refers to the deportations from Bialystok.
+**Attorney General:** This was a transport to [[LOCATION:location_286|Auschwitz]] and a classification for work. It refers to the deportations from Bialystok.
 
 **Presiding Judge:** This document will be T/292.
 
@@ -669,30 +669,30 @@ Do you, to this day, have a scar of this injury?
 
 **Attorney General:** Yes. In February 1943, and in consequence of this visit 10,000 Jews were deported from there. On page 4 it says that "the evacuation did not pass off quietly. There was shooting on both sides and both sides sustained killed and wounded. I also know that Globocnik brought in an armoured car in order to break the Jewish resistance." On page 21 of the original, it says: "Approximately in the second half of October, 1942, an additional order of the R. S. H. A. came into effect in the form of a 'secret Reich matter' - I have not read this order either - which ordered the evacuation of the Jews from the district of Bialystok."
 
-There is a reference to Guenther on page 22: "At the beginning of February 1943, Sturmbannfuehrer Guenther of the R. S. H. A. called on Dr Altenloh. Guenther explained that he had instructions from the R. S. H. A. to carry out an investigation in the Bialystok Ghetto in order to discover a sabotage organization, and also an organization for counterfeiting money and an organization for the forging of passports. Nothing at all concerning organizations of such a kind was known to the Bialystok command. Undoubtedly their aim was to obtain in this way a partial evacuation of the Jews and found it necessary to disengage Dr Altenloh from that, because of his stand in favour of the maintenance of the ghetto. I know nothing about the success of Guenther's investigation. He arrested and deported, on his own, about 10,000 Jews and nobody knew where to. In the ghetto there was great unrest."
+There is a reference to Guenther on page 22: "At the beginning of February 1943, [[PERSON:person_484|Sturmbannfuehrer Guenther]] of the R. S. H. A. called on [[PERSON:person_509|Dr Altenloh]]. Guenther explained that he had instructions from the R. S. H. A. to carry out an investigation in the Bialystok Ghetto in order to discover a sabotage organization, and also an organization for counterfeiting money and an organization for the forging of passports. Nothing at all concerning organizations of such a kind was known to the Bialystok command. Undoubtedly their aim was to obtain in this way a partial evacuation of the Jews and found it necessary to disengage [[PERSON:person_509|Dr Altenloh]] from that, because of his stand in favour of the maintenance of the ghetto. I know nothing about the success of Guenther's investigation. He arrested and deported, on his own, about 10,000 Jews and nobody knew where to. In the ghetto there was great unrest."
 
 On page 16 Friedel writes, in the upper part of the page, that in February 1943:
 
 > "Ob aus Bialystok im Februar 1943 durch den
 > Sturmbannfuehrer
-> Guenther Juden nach Treblinka geschickt worden sind, weiss
+> Guenther Juden nach [[LOCATION:location_173|Treblinka]] geschickt worden sind, weiss
 > ich nicht, da Guenther die Transporte selbst abgefertigt
 > hat. Die Moeglichkeit besteht aber." (I do not know
 > whether in February 1943 Jews were sent from Bialystok to
-> Treblinka by Sturmbannfuehrer Guenther, since Guenther
+> Treblinka by [[PERSON:person_484|Sturmbannfuehrer Guenther]], since Guenther
 > himself was dealing with the transports. However, that is
 > possible).
 
 **Presiding Judge:** This will be T/293.
 
-**Attorney General:** And now, I shall submit a number of documents relating to another subject, before we hear the following witness, who will give evidence about the Kovno Ghetto. The first document is our No. 1193. These are the minutes of a meeting on 10 October 1941. Participating in it were Heydrich and other SS officers, amongst them Eichmann and Guenther. The subject was - the solution of the Jewish question.
+**Attorney General:** And now, I shall submit a number of documents relating to another subject, before we hear the following witness, who will give evidence about the [[LOCATION:location_17|Kovno]] Ghetto. The first document is our No. 1193. These are the minutes of a meeting on 10 October 1941. Participating in it were Heydrich and other SS officers, amongst them Eichmann and Guenther. The subject was - the solution of the Jewish question.
 
 **Presiding Judge:** Where did this meeting take place?
 
-**Attorney General:** In Prague. We shall come back to this document when we talk about Theresienstadt, for this is a basic document. But for purposes of the matters which are about to be produced now, I would draw the Court's attention to what is stated on page 3: "Now, during the coming weeks, we must evacuate the 5000 Jews from Prague, SS Brigadefuehrer Nebe and Rasch are ready to absorb Jews also into the camps for communist prisoners in the operational area. They have already started this operation, according to the report of SS Sturmbannfuehrer Eichmann."
+**Attorney General:** In [[LOCATION:location_4|Prague]]. We shall come back to this document when we talk about [[LOCATION:location_124|Theresienstadt]], for this is a basic document. But for purposes of the matters which are about to be produced now, I would draw the Court's attention to what is stated on page 3: "Now, during the coming weeks, we must evacuate the 5000 Jews from [[LOCATION:location_4|Prague]], SS Brigadefuehrer [[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]] are ready to absorb Jews also into the camps for communist prisoners in the operational area. They have already started this operation, according to the report of SS Sturmbannfuehrer Eichmann."
 
-Nebe and Rasch were the commanders of the Einsatzgruppen 3B and C which were engaged at that time in killing Jews. And Eichmann, as we contend, when he proposed at that meeting to send Jews to Nebe and Rasch, knew very well that he was sending them to certain death at the hands of the Einsatzgruppen.
+[[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]] were the commanders of the Einsatzgruppen 3B and C which were engaged at that time in killing Jews. And Eichmann, as we contend, when he proposed at that meeting to send Jews to [[PERSON:person_510|Nebe]] and [[PERSON:person_476|Rasch]], knew very well that he was sending them to certain death at the hands of the Einsatzgruppen.
 
 **Presiding Judge:** This will be T/294.
 
-**Attorney General:** Now I shall call the witness Dr. Aharon Peretz.
+**Attorney General:** Now I shall call the witness [[PERSON:witness_37|Dr. Aharon Peretz]].

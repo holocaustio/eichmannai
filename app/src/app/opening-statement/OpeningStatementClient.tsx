@@ -2,8 +2,17 @@
 
 import { useEffect, useState } from 'react';
 import { useAIAssistant } from '../components/AIAssistant';
+import { parseEntityMarkers } from '../components/EntityLink';
 
 type Language = 'en' | 'he';
+
+// Helper to render text with entity links (only for English)
+function renderTextWithEntities(text: string, isEnglish: boolean, key: string) {
+  if (!isEnglish) {
+    return text;
+  }
+  return parseEntityMarkers(text, key);
+}
 
 export default function OpeningStatementClient() {
   const [content, setContent] = useState<string>('');
@@ -68,7 +77,7 @@ export default function OpeningStatementClient() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+        <div className="max-w-4xl mx-auto text-center relative z-10 pt-32 pb-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
           <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">April 17-18, 1961 • Sessions 6-8</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             The Opening Statement
@@ -161,6 +170,7 @@ export default function OpeningStatementClient() {
           >
             {bodyLines.map((line, idx) => {
               const trimmed = line.trim();
+              const isEnglish = language === 'en';
               if (!trimmed) return null;
               
               // Section headers (## in markdown)
@@ -168,7 +178,7 @@ export default function OpeningStatementClient() {
                 const headerText = trimmed.replace('## ', '');
                 return (
                   <h2 key={idx} className="text-2xl text-stone-200 mt-16 mb-8 border-b border-stone-800 pb-4 first:mt-0">
-                    {headerText}
+                    {renderTextWithEntities(headerText, isEnglish, `h-${idx}`)}
                   </h2>
                 );
               }
@@ -186,18 +196,20 @@ export default function OpeningStatementClient() {
               
               // Blockquotes
               if (trimmed.startsWith('> ')) {
+                const quoteText = trimmed.replace(/^>\s*/, '').replace(/^\*/, '').replace(/\*$/, '');
                 return (
                   <blockquote key={idx} className={`border-${language === 'he' ? 'r' : 'l'}-4 border-amber-700 ${language === 'he' ? 'pr-6' : 'pl-6'} py-2 text-stone-300 italic`}>
-                    {trimmed.replace(/^>\s*/, '').replace(/^\*/, '').replace(/\*$/, '')}
+                    {renderTextWithEntities(quoteText, isEnglish, `q-${idx}`)}
                   </blockquote>
                 );
               }
               
               // Bold text (already in **)
               if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
+                const boldText = trimmed.replace(/\*\*/g, '');
                 return (
                   <p key={idx} className="text-stone-300 font-medium">
-                    {trimmed.replace(/\*\*/g, '')}
+                    {renderTextWithEntities(boldText, isEnglish, `b-${idx}`)}
                   </p>
                 );
               }
@@ -209,9 +221,10 @@ export default function OpeningStatementClient() {
               
               // End markers
               if (trimmed.startsWith('*סוף') || trimmed.startsWith('*End')) {
+                const endText = trimmed.replace(/^\*/, '').replace(/\*$/, '');
                 return (
                   <p key={idx} className="text-stone-600 text-center italic mt-16">
-                    {trimmed.replace(/^\*/, '').replace(/\*$/, '')}
+                    {renderTextWithEntities(endText, isEnglish, `e-${idx}`)}
                   </p>
                 );
               }
@@ -219,7 +232,7 @@ export default function OpeningStatementClient() {
               // Regular paragraphs
               return (
                 <p key={idx} className="text-stone-400 leading-relaxed text-lg">
-                  {trimmed}
+                  {renderTextWithEntities(trimmed, isEnglish, `p-${idx}`)}
                 </p>
               );
             })}

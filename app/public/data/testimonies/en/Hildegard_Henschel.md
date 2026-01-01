@@ -1,4 +1,4 @@
-# Testimony of Hildegard Henschel
+# Testimony of [[PERSON:witness_52|Hildegard Henschel]]
 
 **Session:** 37
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Hildegard Henschel.
+**Witness:** [[PERSON:witness_52|Hildegard Henschel]].
 
 **Q.**Where do you live?
 
@@ -14,11 +14,11 @@
 
 **Presiding Judge:** Please answer Mr. Bar-Or's questions.
 
-****State Attorney Bar-Or:** **Mrs. Henschel, you are the widow of the late Moritz Henschel, are you not?
+****State Attorney Bar-Or:** **Mrs. Henschel, you are the widow of the late [[PERSON:person_549|Moritz Henschel]], are you not?
 
 **Witness Henschel:** Yes.
 
-**Q.**You lived in Berlin?
+**Q.**You lived in [[LOCATION:location_1|Berlin]]?
 
 **A.**Yes.
 
@@ -26,11 +26,11 @@
 
 **A.**Since I was born.
 
-**Q.**Till when did you remain in Berlin?
+**Q.**Till when did you remain in [[LOCATION:location_1|Berlin]]?
 
 **A.**Till 16 June 1943.
 
-**Q.**What were the public functions which your husband fulfilled in the Jewish life of Berlin?
+**Q.**What were the public functions which your husband fulfilled in the Jewish life of [[LOCATION:location_1|Berlin]]?
 
 **A.**My husband was an advocate at the Kammergericht (Superior Court) and notary.
 
@@ -56,9 +56,9 @@
 
 **Q.**What happened on this Yom Kippur?
 
-**A.**During the morning sermon by Rabbi Dr. Leo Baeck in the synagogue in the Joachimstrasse, my husband was called to the telephone to speak to the Gestapo and was told to go there at once.
+**A.**During the morning sermon by Rabbi Dr. [[PERSON:person_429|Leo Baeck]] in the synagogue in the Joachimstrasse, my husband was called to the telephone to speak to the [[ORGANIZATION:org_344|Gestapo]] and was told to go there at once.
 
-**Q.**Who was the man at the Gestapo who was in charge of Jewish community affairs?
+**Q.**Who was the man at the [[ORGANIZATION:org_344|Gestapo]] who was in charge of Jewish community affairs?
 
 **A.**It was a man called Pruefer.
 
@@ -72,7 +72,7 @@
 
 **Q.**What was he told there?
 
-**A.**He was not alone there; the deputy president of the Community, Philip Kotzover, and Dr. Martha Mosse were called in at the same time, and all three were told that the partial evacuation of Berlin would begin in a few weeks' time.
+**A.**He was not alone there; the deputy president of the Community, Philip Kotzover, and Dr. Martha Mosse were called in at the same time, and all three were told that the partial evacuation of [[LOCATION:location_1|Berlin]] would begin in a few weeks' time.
 
 **Q.**What can you tell the Court about the evacuation of Jewish homes?
 
@@ -82,15 +82,15 @@
 
 **A.**At that time - yes.
 
-**Q.**Do you remember the opening of a Sammellager (assembly camp) in Levetzowstrasse?
+**Q.**Do you remember the opening of a Sammellager (assembly camp) in [[LOCATION:location_196|Levetzowstrasse]]?
 
-**A.**Yes. The first Sammellager to which Jews were taken before the evacuation was the synagogue in Levetzowstrasse, which was transformed into an assembly camp in 1941, shortly after the Succot holiday (the Feast of Tabernacles).
+**A.**Yes. The first Sammellager to which Jews were taken before the evacuation was the synagogue in [[LOCATION:location_196|Levetzowstrasse]], which was transformed into an assembly camp in 1941, shortly after the Succot holiday (the Feast of Tabernacles).
 
 **Q.**Mrs. Henschel, what was the purpose of this camp? What were its special characteristics?
 
-**A.**The synagogue was not transformed somehow; the Jews who were concentrated in order to be taken to camps later were housed there: The healthy and the younger ones had to spend the night on the chairs, for the children there were separate rooms with mattresses, and also for the aged and the sick. There were separate kitchens for grown-ups, for children, and for the Gestapo officials. And there was also a first aid station which was very well equipped by the Community.
+**A.**The synagogue was not transformed somehow; the Jews who were concentrated in order to be taken to camps later were housed there: The healthy and the younger ones had to spend the night on the chairs, for the children there were separate rooms with mattresses, and also for the aged and the sick. There were separate kitchens for grown-ups, for children, and for the [[ORGANIZATION:org_344|Gestapo]] officials. And there was also a first aid station which was very well equipped by the Community.
 
-**Q.**All this in Levetzowstrasse?
+**Q.**All this in [[LOCATION:location_196|Levetzowstrasse]]?
 
 **A.**Yes.
 
@@ -104,31 +104,31 @@
 
 **Q.**Mrs. Henschel, we have come to 15 October 1941. What happened?
 
-**A.**That was the day before the first transport to Litzmannstadt.
+**A.**That was the day before the first transport to [[LOCATION:location_158|Litzmannstadt]].
 
 **Q.**How was this put in motion?
 
-**A.**The Jews who had been concentrated in Levetzowstrasse were brought out, the sick and the aged were loaded onto Gestapo lorries - some open, some covered - and all those who were fit to walk were made to go on foot through the streets of Berlin.
+**A.**The Jews who had been concentrated in [[LOCATION:location_196|Levetzowstrasse]] were brought out, the sick and the aged were loaded onto [[ORGANIZATION:org_344|Gestapo]] lorries - some open, some covered - and all those who were fit to walk were made to go on foot through the streets of [[LOCATION:location_1|Berlin]].
 
 **Q.**Were people allowed some time to prepare for the deportation?
 
-**A.**It was like this: During the delay given for vacating the dwellings, orders to report at Levetzowstrasse were already sent out, and the rumour circulated already about a week before.
+**A.**It was like this: During the delay given for vacating the dwellings, orders to report at [[LOCATION:location_196|Levetzowstrasse]] were already sent out, and the rumour circulated already about a week before.
 
 **Q.**At the time of this transport, what did you know then, in October 1941, about earlier evacuations?
 
-**A.**There was the first deportation from Stettin, then Schneidemuehl...
+**A.**There was the first deportation from Stettin, then [[LOCATION:location_163|Schneidemuehl]]...
 
 **Q.**When was that?
 
-**A.**That was in the summer, but I do not remember exactly. Then Gurs.
+**A.**That was in the summer, but I do not remember exactly. Then [[LOCATION:location_221|Gurs]].
 
-**Q.**Gurs was a camp in the Pyrenees, in France, wasn't it?
+**Q.**Gurs was a camp in the Pyrenees, in [[LOCATION:location_30|France]], wasn't it?
 
 **A.**Yes.
 
-**Q.**Who were the Jews who were sent to Gurs?
+**Q.**Who were the Jews who were sent to [[LOCATION:location_221|Gurs]]?
 
-**A.**Mostly Jews from the province of Baden.
+**A.**Mostly Jews from the province of [[LOCATION:location_185|Baden]].
 
 **Q.**Mrs. Henschel, what was the mood in this October of 1941? Did anything special happen in the town?
 
@@ -145,7 +145,7 @@
 
 **Q.**What can you tell the Court about suicide attempts?
 
-**A.**The suicides began immediately before the first transport to Litzmannstadt and increased very rapidly. People took Veronal, in part also cyanide, but more Veronal, because cyanide was much more difficult to get hold of.
+**A.**The suicides began immediately before the first transport to [[LOCATION:location_158|Litzmannstadt]] and increased very rapidly. People took Veronal, in part also cyanide, but more Veronal, because cyanide was much more difficult to get hold of.
 
 **Q.**Cases of suicide came to your notice, didn't they?
 
@@ -163,7 +163,7 @@
 
 **A.**There were about 1,200.
 
-**Q.**And this was among the Jews of Berlin alone?
+**Q.**And this was among the Jews of [[LOCATION:location_1|Berlin]] alone?
 
 **A.**Yes.
 
@@ -177,17 +177,17 @@
 
 **Q.**What can you tell the Court about objects which had to pass through the "Schleuse" (sluice)?
 
-**A.**The Schleuse was the point where anything people had in their luggage, for which the Gestapo officials had a liking, was taken away. There was, for example, a Commissar Stubs in the Burgstrasse, whose speciality it was to pick out all bottles of Eau de Cologne, toilet water, and alcoholic perfumes, and to drink the contents on the spot.
+**A.**The Schleuse was the point where anything people had in their luggage, for which the [[ORGANIZATION:org_344|Gestapo]] officials had a liking, was taken away. There was, for example, a Commissar Stubs in the [[LOCATION:location_223|Burgstrasse]], whose speciality it was to pick out all bottles of Eau de [[LOCATION:location_135|Cologne]], toilet water, and alcoholic perfumes, and to drink the contents on the spot.
 
 **Q.**Was there a guard unit at the place?
 
-**A.**Yes, there were Jewish orderlies who kept order, and there were also policemen and Gestapo officials.
+**A.**Yes, there were Jewish orderlies who kept order, and there were also policemen and [[ORGANIZATION:org_344|Gestapo]] officials.
 
 **Q.**When the transport was ready - where was it taken?
 
 **A.**This we did not know.
 
-**Q.**Within Berlin - where were you taken?
+**Q.**Within [[LOCATION:location_1|Berlin]] - where were you taken?
 
 **A.**the first transports started from the Grunewald railway station. And the later ones - ours as well - left from the goods station at Puttlitzstrasse.
 
@@ -215,11 +215,11 @@
 
 **Witness Henschel:** I cannot say exactly, but there was a limit which had to do with the age of 60.
 
-**Q.**Mrs. Henschel, do you remember the last general transport which left for Lisbon?
+**Q.**Mrs. Henschel, do you remember the last general transport which left for [[LOCATION:location_224|Lisbon]]?
 
-**Witness Henschel:** Yes. It left about 24 hours before the first transport to Litzmannstadt.
+**Witness Henschel:** Yes. It left about 24 hours before the first transport to [[LOCATION:location_158|Litzmannstadt]].
 
-**Q.**When the United States entered the war against Germany - was there any emigration after that?
+**Q.**When the [[LOCATION:location_68|United States]] entered the war against [[LOCATION:location_2|Germany]] - was there any emigration after that?
 
 **A.**No.
 
@@ -229,7 +229,7 @@
 
 **Q.**What were they told?
 
-**A.**They were told that three or four transports would go to Riga, and there an organization similar to the kibbutz in Palestine would be established.
+**A.**They were told that three or four transports would go to [[LOCATION:location_16|Riga]], and there an organization similar to the kibbutz in [[LOCATION:location_57|Palestine]] would be established.
 
 **Q.**Did three or four such transports really leave in the end?
 
@@ -237,7 +237,7 @@
 
 **Q.**Did you try to remain in postal contact with the deportees?
 
-**A.**The postal connection with Litzmannstadt functioned during the first few weeks. It was also possible to send small amounts of money, but very soon the postal orders, for instance, were returned, marked "moved to unknown address."
+**A.**The postal connection with [[LOCATION:location_158|Litzmannstadt]] functioned during the first few weeks. It was also possible to send small amounts of money, but very soon the postal orders, for instance, were returned, marked "moved to unknown address."
 
 **Q.**Were you, in those years, in connection, perhaps secret connection, with the railway employees?
 
@@ -245,17 +245,17 @@
 
 **Q.**Did you sometimes hear from them about the destination of the trains which carried these transports?
 
-**A.**Yes. For instance the transport to Minsk, about which we never heard that it reached its destination.
+**A.**Yes. For instance the transport to [[LOCATION:location_18|Minsk]], about which we never heard that it reached its destination.
 
-**Q.**Let us now return to the question of the transports in Berlin itself. How were the people for each transport chosen, how was the transport organized? You had a card index of the Jews of Berlin, didn't you?
+**Q.**Let us now return to the question of the transports in [[LOCATION:location_1|Berlin]] itself. How were the people for each transport chosen, how was the transport organized? You had a card index of the Jews of [[LOCATION:location_1|Berlin]], didn't you?
 
 **A.**Yes, the so-called Community Register.
 
-**Q.**Was this kept only at the Kultusgemeinde or also at the Gestapo, or only at the Gestapo? Where was it?
+**Q.**Was this kept only at the Kultusgemeinde or also at the [[ORGANIZATION:org_344|Gestapo]], or only at the [[ORGANIZATION:org_344|Gestapo]]? Where was it?
 
-**A.**We knew that the Gestapo had an identical card index, a corresponding card index.
+**A.**We knew that the [[ORGANIZATION:org_344|Gestapo]] had an identical card index, a corresponding card index.
 
-**Q.**When you speak of the Gestapo, do you mean the Gestapoleitstelle Berlin?
+**Q.**When you speak of the [[ORGANIZATION:org_344|Gestapo]], do you mean the Gestapoleitstelle [[LOCATION:location_1|Berlin]]?
 
 **A.**Yes.
 
@@ -265,7 +265,7 @@
 
 **Q.**Was this attitude taken by these places of employment helpful at first?
 
-**A.**It was effective until an agreement between the military authorities and the Gestapo was reached, and the military authorities agreed to give up their claim to the Jews.
+**A.**It was effective until an agreement between the military authorities and the [[ORGANIZATION:org_344|Gestapo]] was reached, and the military authorities agreed to give up their claim to the Jews.
 
 **Q.**You said that you worked in the Jewish hospital at that time. What do you know about patients being abducted to these transports?
 
@@ -281,13 +281,13 @@
 
 **Q.**Perhaps you remember 13 January, it was a Sunday, I think. It was freezing cold. Do you remember it?
 
-**A.**Yes, I remember it exactly, because I took earwarmers for my husband to his office, as he had to go to the station. It was unusually cold for Berlin, and the Jewish Community did what it could in order to provide the people at the station with food, with hot drinks, with all kinds of things. But the people were loaded onto the train, partly into open goods carriages, partly into closed ones. Thus several people fell seriously ill, and two employees of the Community, who had been busy at the station for a long time, died as a result.
+**A.**Yes, I remember it exactly, because I took earwarmers for my husband to his office, as he had to go to the station. It was unusually cold for [[LOCATION:location_1|Berlin]], and the Jewish Community did what it could in order to provide the people at the station with food, with hot drinks, with all kinds of things. But the people were loaded onto the train, partly into open goods carriages, partly into closed ones. Thus several people fell seriously ill, and two employees of the Community, who had been busy at the station for a long time, died as a result.
 
 **Q.**You did not go to the station with your husband?
 
 **A.**No, that was forbidden.
 
-**Q.**Mrs. Henschel, when did the first train leave for Theresienstadt?
+**Q.**Mrs. Henschel, when did the first train leave for [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**At the beginning of June, 1942.
 
@@ -303,13 +303,13 @@
 
 **A.**Yes.
 
-**Q.**Can you tell the Court something about special conditions in connection with the property of persons who were to be deported to Theresienstadt?
+**Q.**Can you tell the Court something about special conditions in connection with the property of persons who were to be deported to [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**Yes. For deportation to Theresienstadt, there was later a different assembly camp in the Grosse Hamburgerstrasse. There were offices there which dealt with the property of people who were about to be deported. One had to sign two forms there, if I am not mistaken. One form - a purchase agreement for a home. After a person had taken this step, he was given a second form in which he was notified that all his property was confiscated. And this he also had to acknowledge by signing the document.
+**A.**Yes. For deportation to [[LOCATION:location_124|Theresienstadt]], there was later a different assembly camp in the Grosse Hamburgerstrasse. There were offices there which dealt with the property of people who were about to be deported. One had to sign two forms there, if I am not mistaken. One form - a purchase agreement for a home. After a person had taken this step, he was given a second form in which he was notified that all his property was confiscated. And this he also had to acknowledge by signing the document.
 
 **Q.**Do you remember what it said? What was the purpose of the purchase agreement?
 
-**A.**In this home purchase agreement, the Theresienstadt camp was described as a home for the elderly, an old age home. In order to acquire the right to live there in one's old age, one had to pay, to make over a certain sum, the rest of one's property, to the State.
+**A.**In this home purchase agreement, the [[LOCATION:location_245|Theresienstadt camp]] was described as a home for the elderly, an old age home. In order to acquire the right to live there in one's old age, one had to pay, to make over a certain sum, the rest of one's property, to the State.
 
 **Q.**Do you remember that a comprehensive declaration had to be given about the property of every individual?
 
@@ -317,7 +317,7 @@
 
 **Q.**Do you remember approximately within what time these declarations had to be given, approximately when this was?
 
-**A.**I went through this in connection with my own deportation, and it was used as from the first Theresienstadt transport.
+**A.**I went through this in connection with my own deportation, and it was used as from the first [[LOCATION:location_124|Theresienstadt]] transport.
 
 **Q.**I now show you a document entitled "Vermoegenserklaerung" (Property Declaration). Please look at it and tell the Court whether you can identify it.
 
@@ -341,27 +341,27 @@
 
 **Presiding Judge:** The property declaration form will be marked T/650.
 
-**State Attorney Bar-Or:** Your husband was ordered to appear at Burgstrasse on 19 October 1942, wasn't he? Again before the same Pruefer?
+**State Attorney Bar-Or:** Your husband was ordered to appear at [[LOCATION:location_223|Burgstrasse]] on 19 October 1942, wasn't he? Again before the same Pruefer?
 
 **Witness Henschel:** : Yes.
 
 **Q.**Did he leave anything on his desk?
 
-**A.**Yes. Since it was dangerous to talk about such things on the telephone, he used to leave his watch, his wedding ring, his wallet, and any important documents behind on his desk, even when he was only called to Kurfuerstenstrasse. It was enough for the secretary to say that he had been gone for several hours, and all his things were on the desk - and I knew he had taken into account that he might not return.
+**A.**Yes. Since it was dangerous to talk about such things on the telephone, he used to leave his watch, his wedding ring, his wallet, and any important documents behind on his desk, even when he was only called to [[LOCATION:location_126|Kurfuerstenstrasse]]. It was enough for the secretary to say that he had been gone for several hours, and all his things were on the desk - and I knew he had taken into account that he might not return.
 
-**Q.**When you say "Kurfuerstenstrasse" - which office do you mean?
+**Q.**When you say "[[LOCATION:location_126|Kurfuerstenstrasse]]" - which office do you mean?
 
-**A.**I mean Eichmann's office, Kurfuerstenstrasse 116.
+**A.**I mean Eichmann's office, [[LOCATION:location_126|Kurfuerstenstrasse]] 116.
 
 **Q.**Do you remember the roll call of the employees of the Jewish Community on 20 October 1942?
 
-**A.**Yes. My husband was told to assemble all the staff of the Community in one room, if possible and to present them to Mr. - I do not remember his title - Guenther. This could, of course, not be done fully, as it was not possible to leave a hospital without nurses or medical personnel. Therefore, everywhere in the Community, in all offices, emergency services were left behind. Each head of unit presented the members of his staff and mentioned their names. And the officials, the Gestapo officials, did the selecting: This way, that way.
+**A.**Yes. My husband was told to assemble all the staff of the Community in one room, if possible and to present them to Mr. - I do not remember his title - Guenther. This could, of course, not be done fully, as it was not possible to leave a hospital without nurses or medical personnel. Therefore, everywhere in the Community, in all offices, emergency services were left behind. Each head of unit presented the members of his staff and mentioned their names. And the officials, the [[ORGANIZATION:org_344|Gestapo]] officials, did the selecting: This way, that way.
 
 **Q.**What does 'this way, that way' mean?
 
 **A.**One side was deported, the other side could still remain.
 
-**Q.**Were these Gestapo officials?
+**Q.**Were these [[ORGANIZATION:org_344|Gestapo]] officials?
 
 **A.**This is hard to remember because...
 ---
@@ -398,37 +398,37 @@
 
 **A.**Their families were put on a transport to the East at the same time.
 
-**Q.**Do you remember the name Brunner from Vienna?
+**Q.**Do you remember the name Brunner from [[LOCATION:location_3|Vienna]]?
 
 **A.**Yes.
 
 **Q.**In what connection?
 
-**A.**When it became clear to the authorities that the evacuation was not proceeding with the desired speed, they brought Brunner from Vienna, since he had achieved there, through fast work, what the authorities also wanted to achieve in Berlin.
+**A.**When it became clear to the authorities that the evacuation was not proceeding with the desired speed, they brought Brunner from [[LOCATION:location_3|Vienna]], since he had achieved there, through fast work, what the authorities also wanted to achieve in [[LOCATION:location_1|Berlin]].
 
 **Presiding Judge:** Who used this expression?
 
-**Witness Henschel:** This was talked about. The whole of Berlin talked about it. He brought with him the notorious Judenpolizei (Jews Police).
+**Witness Henschel:** This was talked about. The whole of [[LOCATION:location_1|Berlin]] talked about it. He brought with him the notorious Judenpolizei (Jews Police).
 
 **State Attorney Bar-Or:** Where did these Jupo people end up?
 
-**Witness Henschel:** They were also deported to the camps later on, and I remember some of them in Theresienstadt; they were cruelly massacred by the other Jews there after the liberation.
+**Witness Henschel:** They were also deported to the camps later on, and I remember some of them in [[LOCATION:location_124|Theresienstadt]]; they were cruelly massacred by the other Jews there after the liberation.
 
 **Q.**Those people who came with Brunner - which town did they come from?
 
-**A.**They came from Austria, whether all of them were from Vienna, that I cannot tell.
+**A.**They came from [[LOCATION:location_14|Austria]], whether all of them were from [[LOCATION:location_3|Vienna]], that I cannot tell.
 
 **Q.**Did the methods really change after the arrival of Brunner?
 
-**A.**They changed radically, because the SS in Berlin did not fully cooperate in the evacuation of the Jewish homes.
+**A.**They changed radically, because the SS in [[LOCATION:location_1|Berlin]] did not fully cooperate in the evacuation of the Jewish homes.
 
 **Q.**Do you know anything about arrests in the streets, about round-ups?
 
 **A.**Yes. In order to speed up his work, Brunner began to comb the streets in broad daylight and to arrest persons wearing the Star. Only employees of the Community were exempt, as they were, after all, still needed. They were designated in such a way that the arresting policemen knew: This person must not be touched. The Star was worn here, on the left, and on the left forearm an armband made of red ticking cloth marked with a number and stamped with the Jewish Community stamp. They had a yellow permit, the size of a postcard, which had to be shown in the tramway or the bus together with the Jewish identity card. And these people were, in fact, not arrested.
 
-**Presiding Judge:** Who is this Brunner, is that Alois Brunner?
+**Presiding Judge:** Who is this Brunner, is that [[PERSON:person_461|Alois Brunner]]?
 
-**State Attorney Bar-Or:** No, this is his brother. He is no longer alive; he was sentenced in Vienna.
+**State Attorney Bar-Or:** No, this is his brother. He is no longer alive; he was sentenced in [[LOCATION:location_3|Vienna]].
 
 [To the witness] What happened with the cases of suicide? Did Brunner's appearance influence the number of suicides?
 
@@ -444,7 +444,7 @@
 
 **Q.**Deported.
 
-**A.**Oh, yes, that was Dr. Eppstein. He did not have a post in the Community but in the Reichsorganisation; Rabbi Dr. Baeck, Philip Kotzover, the Deputy President of the Community, with three children, the youngest of whom was ten weeks old.
+**A.**Oh, yes, that was Dr. [[LOCATION:location_125|Eppstein]]. He did not have a post in the Community but in the Reichsorganisation; Rabbi Dr. Baeck, Philip Kotzover, the Deputy President of the Community, with three children, the youngest of whom was ten weeks old.
 
 **Q.**Philip Kotzover was deported together with his children, wasn't he?
 
@@ -460,11 +460,11 @@
 
 **Q.**What is the meaning of "Clou Operation?"
 
-**A.**"Clou" was an amusement hall, an enormous concert house and amusement hall in Berlin which could hold several thousand people, and which was not in use at that time.
+**A.**"Clou" was an amusement hall, an enormous concert house and amusement hall in [[LOCATION:location_1|Berlin]] which could hold several thousand people, and which was not in use at that time.
 
 **Q.**Please tell the Court details about the events of that day, 27 February.
 
-**A.**The events began already the day before when my husband was ordered to the Gestapo and told to assemble several sets of equipment for small offices, and also a large contingent of medical personnel.
+**A.**The events began already the day before when my husband was ordered to the [[ORGANIZATION:org_344|Gestapo]] and told to assemble several sets of equipment for small offices, and also a large contingent of medical personnel.
 
 **Q.**Office equipment - people or furniture?
 
@@ -504,7 +504,7 @@
 
 **Q.**Where did these people finally end up?
 
-**A.**Insofar as they were not entitled to go to Theresienstadt or were married to Aryans - in the East.
+**A.**Insofar as they were not entitled to go to [[LOCATION:location_124|Theresienstadt]] or were married to Aryans - in the East.
 
 **Q.**This was in March 1943, wasn't it?
 
@@ -516,7 +516,7 @@
 
 **Q.**Please tell us in brief what happened.
 
-**A.**After the majority of the Jews of Berlin had been deported in February, there was no longer a need for so many officials, and in March two large transports of Community employees were recruited, one of which went to the East, and the other to Theresienstadt.
+**A.**After the majority of the Jews of [[LOCATION:location_1|Berlin]] had been deported in February, there was no longer a need for so many officials, and in March two large transports of Community employees were recruited, one of which went to the East, and the other to [[LOCATION:location_124|Theresienstadt]].
 
 **Presiding Judge:** How many Community employees were there before these transports?
 
@@ -530,7 +530,7 @@
 
 **Witness Henschel:** On 10 June 1943, at 10 o'clock in the morning, an SS man came to my husband's office at Oranienburgerstrasse 10 and told him he was under arrest since the Jewish Community had ceased to exist.
 
-**Q.**When were you sent to Theresienstadt?
+**Q.**When were you sent to [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**On 16 June 1943, we were taken from the Grosshamburger assembly camp to the Puttlitzstrasse station.
 
@@ -542,45 +542,45 @@
 
 **A.**No, very few of our transport survived.
 
-**Q.**Did those who went with you remain in Theresienstadt?
+**Q.**Did those who went with you remain in [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**No, the majority were deported to the East, e.g., in October 1944 alone - 18,000 persons.
 
-**Presiding Judge:** When you and your husband went - were these the last Jews of Berlin?
+**Presiding Judge:** When you and your husband went - were these the last Jews of [[LOCATION:location_1|Berlin]]?
 
 **Witness Henschel:** No.
 
 **Q.**Who stayed behind?
 
-**A.**When we had been in Theresienstadt for two or three months, another full Jewish transport arrived, and then, much later, in 1944, the mixed couples also came.
+**A.**When we had been in [[LOCATION:location_124|Theresienstadt]] for two or three months, another full Jewish transport arrived, and then, much later, in 1944, the mixed couples also came.
 
 **Presiding Judge:** Dr. Servatius, do you have questions?
 
 **Dr. Servatius:** I have no questions.
 
-**Presiding Judge:** I did not quite understand what you told us about the lack of cooperation on the part of the SS people in Berlin. Would you perhaps explain what you meant by this?
+**Presiding Judge:** I did not quite understand what you told us about the lack of cooperation on the part of the SS people in [[LOCATION:location_1|Berlin]]. Would you perhaps explain what you meant by this?
 
-**Witness Henschel:** To put it simply, the SS in Berlin did not show the same exceptional cruelty as the Viennese.
+**Witness Henschel:** To put it simply, the SS in [[LOCATION:location_1|Berlin]] did not show the same exceptional cruelty as the Viennese.
 
-**Judge Halevi:** You mentioned the deportation of 18,000 Jews from Theresienstadt in October 1944.
+**Judge Halevi:** You mentioned the deportation of 18,000 Jews from [[LOCATION:location_124|Theresienstadt]] in October 1944.
 
 **Witness Henschel:** Yes. This was spread over three weeks approximately. These were the so-called "voluntary" work transports.
 
 **Q.**Where were they sent?
 
-**A.**Without a doubt to Auschwitz, all of them.
+**A.**Without a doubt to [[LOCATION:location_286|Auschwitz]], all of them.
 
-**Q.**I read in the lecture by your late husband, which was presented here, also about 18,000 Jews, and I understood that, in October 1944, 18,000 people arrived in Theresienstadt, so that it became so crowded.
+**Q.**I read in the lecture by your late husband, which was presented here, also about 18,000 Jews, and I understood that, in October 1944, 18,000 people arrived in [[LOCATION:location_124|Theresienstadt]], so that it became so crowded.
 
-**A.**That was much later. On 15 April 1945, many thousands arrived in Theresienstadt from other camps which had been liberated.
+**A.**That was much later. On 15 April 1945, many thousands arrived in [[LOCATION:location_124|Theresienstadt]] from other camps which had been liberated.
 
-**Q.**Your husband also mentioned that gas chambers were built in Theresienstadt.
+**Q.**Your husband also mentioned that gas chambers were built in [[LOCATION:location_124|Theresienstadt]].
 
 **A.**Yes.
 
 **Q.**Do you also know about this?
 
-**A.**Yes. At the time it was not known to me, but there were people in Theresienstadt who knew about it. They were inmates of Theresienstadt who had to build them. That was on the so-called Bastei (bastion).
+**A.**Yes. At the time it was not known to me, but there were people in [[LOCATION:location_124|Theresienstadt]] who knew about it. They were inmates of [[LOCATION:location_124|Theresienstadt]] who had to build them. That was on the so-called Bastei (bastion).
 
 **Q.**When did they build this?
 

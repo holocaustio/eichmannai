@@ -1,4 +1,4 @@
-# Testimony of Eliyahu Rosenberg
+# Testimony of [[PERSON:witness_42|Eliyahu Rosenberg]]
 
 **Session:** 66
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Eliahu Rosenberg.
+**Witness:** [[PERSON:person_697|Eliahu Rosenberg]].
 
 **Attorney General:** You are a storeman by profession?
 
@@ -14,21 +14,21 @@
 
 **Q.**Where do you work?
 
-**A.**At Jaffa port.
+**A.**At [[LOCATION:location_169|Jaffa]] port.
 
 **Presiding Judge:** How old are you now?
 
 **Witness Rosenberg:** Thirty-five.
 
-**Attorney General:** Until 1942, you were in Warsaw?
+**Attorney General:** Until 1942, you were in [[LOCATION:location_93|Warsaw]]?
 
 **Witness Rosenberg:** Yes.
 
-**Q.**And on 11 July 1942, you were deported to Treblinka?
+**Q.**And on 11 July 1942, you were deported to [[LOCATION:location_173|Treblinka]]?
 
 **A.**It was in the summer.
 
-**Q.**When you reached the railway station at Treblinka, in the midst of the great confusion, did a Jew come up to you and say something to you?
+**Q.**When you reached the railway station at [[LOCATION:location_173|Treblinka]], in the midst of the great confusion, did a Jew come up to you and say something to you?
 
 **A.**He did not say it to me, but to his friend, an acquaintance of his, in Yiddish: "Moshe, chap a besem un rateve sich!" (Moshe, grab a broom and save yourself!)
 
@@ -46,7 +46,7 @@
 
 **Q.**Were your mother and three sisters in the same transport?
 
-**A.**Yes, Sir. When we alighted from the freight cars amidst the shouting, they transferred my mother and my sisters to the left-hand side. I managed to exchange one word with my mother: "If you reach any place, write a letter to a Pole named Kowalski in Warsaw, and I shall also send a letter to you, and in this way we shall know where we are."
+**A.**Yes, Sir. When we alighted from the freight cars amidst the shouting, they transferred my mother and my sisters to the left-hand side. I managed to exchange one word with my mother: "If you reach any place, write a letter to a Pole named Kowalski in [[LOCATION:location_93|Warsaw]], and I shall also send a letter to you, and in this way we shall know where we are."
 
 **Q.**You thought you would meet again?
 
@@ -60,13 +60,13 @@
 
 **A.**No, Sir. I got to know that they were in a particular grave.
 
-**Q.**Where were they buried - in Treblinka?
+**Q.**Where were they buried - in [[LOCATION:location_173|Treblinka]]?
 
 **A.**Yes.
 
 **Q.**What happened to the group which you joined?
 
-**A.**When Kurt Franz chose the working party of thirty men, when he finished this selection, he began to shout and ask: "Who came in here without permission?" Naturally, none of these men knew who the extra one was. I was then saved from certain death. He made a sign to the Ukrainian standing by his side, I don't know what it was, but they began chasing us towards the first camp. Inside the first camp, they told us to throw down the parcels we had with us, and we began sorting the parcels, an enormous heap of parcels: shoes separately, clothing separately, children's wear separately, gold separately, and all kinds of articles separately. And I worked in this way the whole day.
+**A.**When [[PERSON:person_696|Kurt Franz]] chose the working party of thirty men, when he finished this selection, he began to shout and ask: "Who came in here without permission?" Naturally, none of these men knew who the extra one was. I was then saved from certain death. He made a sign to the Ukrainian standing by his side, I don't know what it was, but they began chasing us towards the first camp. Inside the first camp, they told us to throw down the parcels we had with us, and we began sorting the parcels, an enormous heap of parcels: shoes separately, clothing separately, children's wear separately, gold separately, and all kinds of articles separately. And I worked in this way the whole day.
 
 **Q.**And the next day?
 
@@ -78,15 +78,15 @@
 
 **Q.**Please look behind you, Mr. Rosenberg, are you able to identify what this picture is?
 
-**A.**That is the Treblinka camp.
+**A.**That is the [[LOCATION:location_173|Treblinka]] camp.
 
-**Q.**Please be good enough to approach the picture. You say this is the Treblinka camp. Which way did they take you to the camouflaged gate? Will you please point to it?
+**Q.**Please be good enough to approach the picture. You say this is the [[LOCATION:location_173|Treblinka]] camp. Which way did they take you to the camouflaged gate? Will you please point to it?
 
 **A.**[Points] The gate was here, at this place, camouflaged with pine branches. We reached this point. When they opened the gate, we went in, here. All of us were automatically in a state of shock, for we saw a pile of corpses. And the German Matthias began shouting to this group - "An die Tragen" (to the stretchers). We did not understand what was going on. We began running around the bodies. The Germans and the Ukrainians who were present there hit us. We did not know what we were supposed to do.
 
 The Jews who worked on removing the bodies said to us: "Take hold of the stretchers and put a body on each." We seized a stretcher, another person and I, I don't know what his name was, we went up to this pile, and we took a body away on a stretcher. We walked to the graves at this spot - 150 to 200 metres to the grave, and we threw the bodies down below.
 
-**Q.**Please show us where you lived in Treblinka 2 subsequently.
+**Q.**Please show us where you lived in [[LOCATION:location_173|Treblinka]] 2 subsequently.
 
 **A.**In this hut [points to the hut between the building containing the gas chambers and the watch tower].
 
@@ -154,7 +154,7 @@ When they shut them in, we were standing on the outside. We only heard cries of 
 
 **Attorney General:** Please return to the witness stand, Mr. Rosenberg.
 
-During the time you were in Treblinka, did a transport arrive every day?
+During the time you were in [[LOCATION:location_173|Treblinka]], did a transport arrive every day?
 
 **Witness Rosenberg:** In 1942, a transport arrived every day, until the winter of 1943. Then the daily transports stopped, and they used to arrive once in two or three days.
 
@@ -166,7 +166,7 @@ During the time you were in Treblinka, did a transport arrive every day?
 
 **A.**All of them.
 
-**Q.**Did the people who arrived at Treblinka remain there overnight, or were they exterminated the same day?
+**Q.**Did the people who arrived at [[LOCATION:location_173|Treblinka]] remain there overnight, or were they exterminated the same day?
 
 **A.**They were exterminated the same day. And when a large transport arrived, they put them into the gas chambers, and we took them out the next morning. They did not remain alive until the following morning.
 
@@ -178,9 +178,9 @@ During the time you were in Treblinka, did a transport arrive every day?
 
 **A.**At night.
 
-**Attorney General:** Where did the people who were exterminated in Treblinka come from?
+**Attorney General:** Where did the people who were exterminated in [[LOCATION:location_173|Treblinka]] come from?
 
-**Witness Rosenberg:** At the beginning, they came from Poland, from Warsaw, Czestochowa, from the small towns. Afterwards from almost the whole of Europe - they came from Belgium, Germany, Austria, Czechoslovakia, Holland and Serbia.
+**Witness Rosenberg:** At the beginning, they came from [[LOCATION:location_5|Poland]], from [[LOCATION:location_93|Warsaw]], [[LOCATION:location_160|Czestochowa]], from the small towns. Afterwards from almost the whole of Europe - they came from [[LOCATION:location_21|Belgium]], [[LOCATION:location_2|Germany]], [[LOCATION:location_14|Austria]], [[LOCATION:location_15|Czechoslovakia]], Holland and [[LOCATION:location_109|Serbia]].
 
 **Q.**How do you know that?
 

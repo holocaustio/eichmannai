@@ -9,6 +9,34 @@ interface Message {
   id: string;
   role: 'user' | 'assistant';
   content: string;
+  followUpQuestions?: string[];
+}
+
+// Helper function to parse follow-up questions from AI response
+function parseFollowUpQuestions(content: string): { cleanContent: string; followUpQuestions: string[] } {
+  const separator = '---FOLLOW_UP---';
+  const separatorIndex = content.indexOf(separator);
+  
+  if (separatorIndex === -1) {
+    return { cleanContent: content, followUpQuestions: [] };
+  }
+  
+  const cleanContent = content.slice(0, separatorIndex).trim();
+  const followUpSection = content.slice(separatorIndex + separator.length).trim();
+  
+  // Parse numbered questions (1. Question?, 2. Question?, 3. Question?)
+  const questionMatches = followUpSection.match(/^\d+\.\s*(.+?)(?=\n\d+\.|$)/gm);
+  
+  if (!questionMatches) {
+    return { cleanContent, followUpQuestions: [] };
+  }
+  
+  const followUpQuestions = questionMatches
+    .map(q => q.replace(/^\d+\.\s*/, '').trim())
+    .filter(q => q.length > 0)
+    .slice(0, 3); // Ensure max 3 questions
+  
+  return { cleanContent, followUpQuestions };
 }
 
 interface AIAssistantContextValue {
@@ -41,6 +69,32 @@ export function useAIAssistant() {
   return context;
 }
 
+// Guardrails section to append to all prompts
+const GUARDRAILS = `
+
+---
+
+SCOPE LIMITATION - CRITICAL:
+
+You may ONLY answer questions that are:
+1. Directly about the content of the document you are helping the reader understand
+2. Related to the Eichmann Trial (participants, procedures, historical context, legal aspects)
+3. About the Holocaust as relevant context for understanding the trial and testimonies
+
+You must REFUSE to answer questions about:
+- Topics unrelated to the Eichmann trial or Holocaust
+- Current events, modern politics, or contemporary issues
+- Personal advice, opinions, or recommendations
+- Other historical events not connected to this trial
+- General knowledge questions unrelated to the document or trial
+- Technical help, coding, math, or any non-trial topics
+- Comparisons to other trials, events, or figures outside the scope
+
+If asked an off-topic question, respond with:
+"I'm here to help you understand this document and the Eichmann Trial. I can only answer questions about the content you're reading or the trial itself. Is there something about the document or the trial I can help you with?"
+
+Do NOT attempt to be helpful by answering off-topic questions. Stay strictly within scope.`;
+
 // System prompts for each context type
 const SYSTEM_PROMPTS: Record<string, string> = {
   'opening-statement': `You are a historical guide assisting a reader who is viewing the opening statement of the Eichmann Trial.
@@ -70,7 +124,7 @@ When answering follow up questions, always:
 - Quote sparingly and only when essential
 - Indicate uncertainty if the transcript does not provide a clear answer
 
-Format your responses in clear markdown. Keep it concise.`,
+Format your responses in clear markdown. Keep it concise.${GUARDRAILS}`,
 
   'testimony': `You are a historical guide assisting a reader who is viewing the testimony of a witness in the Eichmann Trial.
 
@@ -100,7 +154,7 @@ When answering questions:
 - Quote sparingly and only when essential
 - State clearly when the testimony does not address a question
 
-Format your responses in clear markdown. Keep it concise.`,
+Format your responses in clear markdown. Keep it concise.${GUARDRAILS}`,
 
   'verdict': `You are a historical guide assisting a reader who is viewing the verdict and judgment of the Eichmann Trial.
 
@@ -129,7 +183,7 @@ When answering follow up questions:
 - Give brief, focused answers
 - Indicate when the document is silent on an issue
 
-Format your responses in clear markdown. Keep it concise.`
+Format your responses in clear markdown. Keep it concise.${GUARDRAILS}`
 };
 
 const INITIAL_PROMPTS: Record<string, string> = {
@@ -243,10 +297,14 @@ export function AIAssistantProvider({ children }: AIAssistantProviderProps) {
         }
       }
 
+      // Parse follow-up questions from the response
+      const { cleanContent, followUpQuestions } = parseFollowUpQuestions(fullContent);
+      
       const assistantMsg: Message = {
         id: generateId(),
         role: 'assistant',
-        content: fullContent
+        content: cleanContent,
+        followUpQuestions
       };
 
       setMessages(prev => [...prev, assistantMsg]);

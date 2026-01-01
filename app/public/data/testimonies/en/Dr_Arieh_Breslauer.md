@@ -1,4 +1,4 @@
-# Testimony of Dr. Arieh Breslauer
+# Testimony of [[PERSON:witness_27|Dr. Arieh Breslauer]]
 
 **Session:** 61
 
@@ -8,21 +8,21 @@
 
 **Witness:** Arye Zvi Breszlauer.
 
-**State Attorney Bach:** Mr. Breszlauer, you were born in Hungary?
+**State Attorney Bach:** Mr. Breszlauer, you were born in [[LOCATION:location_24|Hungary]]?
 
-**Witness Breszlauer:** I was born in a place which, until 1918, belonged to Hungary. I was born in a small village, Vysni Ridniczi, a small village in the vicinity of Michalovce.
+**Witness Breszlauer:** I was born in a place which, until 1918, belonged to [[LOCATION:location_24|Hungary]]. I was born in a small village, Vysni Ridniczi, a small village in the vicinity of Michalovce.
 
-**Presiding Judge:** Is that in Slovakia?
+**Presiding Judge:** Is that in [[LOCATION:location_84|Slovakia]]?
 
-**Witness Breszlauer:** In Eastern Slovakia.
+**Witness Breszlauer:** In Eastern [[LOCATION:location_84|Slovakia]].
 
-**State Attorney Bach:** Were you also in Hungary at the time of the German occupation in 1944?
+**State Attorney Bach:** Were you also in [[LOCATION:location_24|Hungary]] at the time of the German occupation in 1944?
 
-**Witness Breszlauer:** At the time of the German occupation of Hungary, I was in Budapest.
+**Witness Breszlauer:** At the time of the German occupation of [[LOCATION:location_24|Hungary]], I was in [[LOCATION:location_31|Budapest]].
 
-**Q.**Did you, at that time, take part in a particular activity with the assistance of foreign legations for the purpose of rescuing the Jews of Hungary?
+**Q.**Did you, at that time, take part in a particular activity with the assistance of foreign legations for the purpose of rescuing the Jews of [[LOCATION:location_24|Hungary]]?
 
-**A.**At that time, in 1944, I did not participate in any activity. I was in hiding in Budapest for certain reasons. At that time, there was also no possibility of taking action. After the occupation, the centre of activity was Sip Street. That was where the Judenrat, as they called it, the Jewish Council, was located. There I wanted to get involved in work, to do something, and to find out what they were doing generally. There was great confusion there, and I worked in a department which dealt with Jews in the border areas. There was talk there that certain people would receive papers stamped by the Germans which would enable them to visit various areas. I had previously been a public functionary in Carpatho-Russia. I was a lawyer in the small town of Uzhgorod in Carpatho-Russia. I was promised that I would get a document enabling me to visit there. This took time. On 23 May, I was arrested and imprisoned and was brought to the State Police on the Schwabenberg. May I continue?
+**A.**At that time, in 1944, I did not participate in any activity. I was in hiding in [[LOCATION:location_31|Budapest]] for certain reasons. At that time, there was also no possibility of taking action. After the occupation, the centre of activity was Sip Street. That was where the Judenrat, as they called it, the Jewish Council, was located. There I wanted to get involved in work, to do something, and to find out what they were doing generally. There was great confusion there, and I worked in a department which dealt with Jews in the border areas. There was talk there that certain people would receive papers stamped by the Germans which would enable them to visit various areas. I had previously been a public functionary in [[LOCATION:location_270|Carpatho-Russia]]. I was a lawyer in the small town of [[LOCATION:location_269|Uzhgorod]] in [[LOCATION:location_270|Carpatho-Russia]]. I was promised that I would get a document enabling me to visit there. This took time. On 23 May, I was arrested and imprisoned and was brought to the State Police on the Schwabenberg. May I continue?
 
 **Presiding Judge:** Please answer Mr. Bach's question. That will be more helpful.
 
@@ -33,17 +33,17 @@
 
 **Q.**Until when were you imprisoned?
 
-**A.**Until 5 July. I was detained for about seven weeks - I was imprisoned in the gaol for political prisoners. On 5 July I was brought to the police in Budapest for interrogation. I was handed over for further examination. On 6 July, I fell ill. I had an internal haemorrhage. At that time, it was the Feast of Peter and Paul. I was brought to the prison for young people. I was brought there without papers and without documents. I was there for some days. There were some more Jews there. They were in a bad way. They were seriously ill. On the 7th or the 8th of July, all the Jews were taken away from there for deportation. I remained there as the only one in the hospital. Since I was not released by the police and it was a holiday, and I did not bring any papers with me, and the documents had not been brought, I remained there. I saw that it was a dangerous place. Jews did not remain there. That was the period when there were the last deportations from Budapest, from the environs of Budapest.
+**A.**Until 5 July. I was detained for about seven weeks - I was imprisoned in the gaol for political prisoners. On 5 July I was brought to the police in [[LOCATION:location_31|Budapest]] for interrogation. I was handed over for further examination. On 6 July, I fell ill. I had an internal haemorrhage. At that time, it was the Feast of Peter and Paul. I was brought to the prison for young people. I was brought there without papers and without documents. I was there for some days. There were some more Jews there. They were in a bad way. They were seriously ill. On the 7th or the 8th of July, all the Jews were taken away from there for deportation. I remained there as the only one in the hospital. Since I was not released by the police and it was a holiday, and I did not bring any papers with me, and the documents had not been brought, I remained there. I saw that it was a dangerous place. Jews did not remain there. That was the period when there were the last deportations from [[LOCATION:location_31|Budapest]], from the environs of [[LOCATION:location_31|Budapest]].
 
-I got in touch with the director of the Palestine Office, Krausz, and asked him for help. With his assistance, I was moved from that place to the hospital of the Jewish Community at 9 Bethlen Square. I was there for a long time. My condition was serious. I suffered another internal haemorrhage. From that place, too, Jews were taken away for deportation. I remained there. With the aid of Moshe Krausz, I obtained a certificate from there, stating that I was employed in the Swiss legation.
+I got in touch with the director of the [[LOCATION:location_57|Palestine]] Office, Krausz, and asked him for help. With his assistance, I was moved from that place to the hospital of the Jewish Community at 9 Bethlen Square. I was there for a long time. My condition was serious. I suffered another internal haemorrhage. From that place, too, Jews were taken away for deportation. I remained there. With the aid of [[PERSON:person_648|Moshe Krausz]], I obtained a certificate from there, stating that I was employed in the Swiss legation.
 
-**Q.**Was Moshe Krausz the person whom you mentioned previously
+**Q.**Was [[PERSON:person_648|Moshe Krausz]] the person whom you mentioned previously
 
 **A.**Yes. I was there for almost a month and a half, and I began feeling that in this place Jews were being attended to in some way. Someone from the Wallenberg group visited me there.
 
 **Q.**Perhaps you would tell the Court who this Wallenberg was?
 
-**A.**He was perhaps the only man who had great influence in Budapest. He had been sent there by the King of Sweden. I met him on several occasions, and also carried out some joint activities with him. I was together with him on the road to the Austrian border. He was the person who achieved perhaps the greatest amount of rescue activities. At that time, there was a large rescue operation. But he was the man who took the initiative, gave us the strength, who gave a personal example. He was the complete opposite of everything taking place in Budapest.
+**A.**He was perhaps the only man who had great influence in [[LOCATION:location_31|Budapest]]. He had been sent there by the King of [[LOCATION:location_144|Sweden]]. I met him on several occasions, and also carried out some joint activities with him. I was together with him on the road to the Austrian border. He was the person who achieved perhaps the greatest amount of rescue activities. At that time, there was a large rescue operation. But he was the man who took the initiative, gave us the strength, who gave a personal example. He was the complete opposite of everything taking place in [[LOCATION:location_31|Budapest]].
 
 **Presiding Judge:** I hear that you are a lawyer and you understand these matters. Please do not give us general evaluations. Mr. Bach was not referring to that. You know what we require.
 
@@ -63,7 +63,7 @@ I got in touch with the director of the Palestine Office, Krausz, and asked him 
 
 **A.**That was at a later stage.
 
-**Q.**Was that the "Schutzpaesse" issued by the Swedish Government?
+**Q.**Was that the "Schutzpaesse" issued by the [[ORGANIZATION:org_346|Swedish Government]]?
 
 **A.**Yes, but I did not use it.
 
@@ -83,23 +83,23 @@ I got in touch with the director of the Palestine Office, Krausz, and asked him 
 
 Dr. Breszlauer, perhaps we can make more systematic progress. I asked you at the outset when you yourself began your activities within the framework of the legation.
 
-**Witness Breszlauer:** I began operating within the rescue framework - I was still living in the hospital, but they allowed me to go out already at the beginning of August. In August I received an identity card, on the strength of which I could move around freely in the streets of Budapest. At first I went from there every day, I did not have an apartment. I went from the hospital to a place which afterwards became known as the "Glass House," at 29 Vadasz Street,* {*There was an organization there which already at that time was engaged in work for Aliyah, but later this was the centre.} for the rescue of Jews. There I worked in this framework.
+**Witness Breszlauer:** I began operating within the rescue framework - I was still living in the hospital, but they allowed me to go out already at the beginning of August. In August I received an identity card, on the strength of which I could move around freely in the streets of [[LOCATION:location_31|Budapest]]. At first I went from there every day, I did not have an apartment. I went from the hospital to a place which afterwards became known as the "Glass House," at 29 Vadasz Street,* {*There was an organization there which already at that time was engaged in work for Aliyah, but later this was the centre.} for the rescue of Jews. There I worked in this framework.
 
 **Q.**Please tell the Court what this "Glass House" was, to whom did it belong, who managed it, and who protected this building?
 
-**A.**The handling of British affairs, of Palestine affairs, passed to the Swiss embassy and, with the approval of the Swiss ambassador, Jaeger, and with the active assistance of Lutz, Mr. Moshe Krausz set up an organization. This organization was stationed in the "Glass House." It was a two-storied building. This was a place with extra- territorial status; there were officials there of all political parties, and they began dealing with the problem of Aliyah. From one point of view, it was an important place, for every person who received confirmation that he had a passport and that he was able to immigrate to Palestine - there were then instructions that such a person should not be sent out of the country. Several thousand people had already, at that time, received certificates to the effect that they appeared on collective passports for immigration into Palestine via Switzerland. They were held up by the Hungarian authorities in Budapest and were not allowed to move from Budapest.
+**A.**The handling of British affairs, of [[LOCATION:location_57|Palestine]] affairs, passed to the Swiss embassy and, with the approval of the Swiss ambassador, Jaeger, and with the active assistance of Lutz, Mr. [[PERSON:person_648|Moshe Krausz]] set up an organization. This organization was stationed in the "Glass House." It was a two-storied building. This was a place with extra- territorial status; there were officials there of all political parties, and they began dealing with the problem of Aliyah. From one point of view, it was an important place, for every person who received confirmation that he had a passport and that he was able to immigrate to [[LOCATION:location_57|Palestine]] - there were then instructions that such a person should not be sent out of the country. Several thousand people had already, at that time, received certificates to the effect that they appeared on collective passports for immigration into [[LOCATION:location_57|Palestine]] via [[LOCATION:location_53|Switzerland]]. They were held up by the Hungarian authorities in [[LOCATION:location_31|Budapest]] and were not allowed to move from [[LOCATION:location_31|Budapest]].
 
-**Q.**Dr. Breszlauer, you said that Mr. Moshe Krausz was the director of this department. How many people worked in this department under his direction?
+**Q.**Dr. Breszlauer, you said that Mr. [[PERSON:person_648|Moshe Krausz]] was the director of this department. How many people worked in this department under his direction?
 
 **A.**It varied. At first there were some sixty to eighty officials there - they belonged to all the parties, from the left to the extreme right. After that, this house was converted into a larger dwelling place, into a shelter. In the end, 3,000 to 3,500 Jews were given shelter in this building. Thereafter, we obtained another building - it was no longer possible to work there, the congestion was terrible. In that building, at a later stage, there were more than 3,000 persons. At this particular period, more than eighty officials worked there, and their number increased gradually. If anyone was released and was able to leave the framework of the labour camp - for labour of young people - and went there, he had some positive link with the Jews, and he remained there as an official and was supplied with documents enabling him to remain there.
 
 **Q.**You mentioned Lutz - who was he?
 
-**A.**He was the consul. He was in charge, on behalf of the Swiss embassy, of attending to the problems of Palestine and those of rescuing Jews.
+**A.**He was the consul. He was in charge, on behalf of the Swiss embassy, of attending to the problems of [[LOCATION:location_57|Palestine]] and those of rescuing Jews.
 
 **Q.**And the activities which you mentioned were carried out under his protection?
 
-**A.**Under his protection, as organized by Moshe Krausz.
+**A.**Under his protection, as organized by [[PERSON:person_648|Moshe Krausz]].
 
 **Q.**Is this a copy of the certificate you mentioned previously, which was in your possession? [Shows a document to the witness]. This is a document which was submitted to the Accused and was given the number T/37(216).
 
@@ -115,7 +115,7 @@ Dr. Breszlauer, perhaps we can make more systematic progress. I asked you at the
 
 **State Attorney Bach:** Dr. Breszlauer, are you able to estimate how many Jews were rescued thanks to the activities of that department which you described?
 
-**Witness Breszlauer:** To my knowledge - some tens of thousands. The majority of the Jews of Budapest were saved under this arrangement, which was set up at the time by the director of the Palestine office.
+**Witness Breszlauer:** To my knowledge - some tens of thousands. The majority of the Jews of [[LOCATION:location_31|Budapest]] were saved under this arrangement, which was set up at the time by the director of the [[LOCATION:location_57|Palestine]] office.
 
 **Q.**You wanted to say something about Wallenberg's activities. Can you tell us how Wallenberg went about saving Jews?
 
@@ -129,11 +129,11 @@ Dr. Breszlauer, perhaps we can make more systematic progress. I asked you at the
 
 **A.**The situation changed radically on 15 October, the day the Hungarian Regent wanted to surrender. At that time, the radio was in the hands of the Germans. May I be permitted, Your Honours, to say a few words about the position as it was prior to this? The Jews were concentrated in marked Jewish houses, but these houses were in different parts of the city. However, the general atmosphere was more reassuring. There was a feeling in the air that the situation was about to change. Some of the Hungarians were looking for an alibi and a possibility to be of help. We were relieved of the necessity of wearing the yellow badge. It was also possible to go outside.
 
-At first, Jews were allowed to be outside for three hours, after that also for six hours. But they were not very strict about it. On 16 October, the first thing that happened was a total curfew imposed on Jewish houses. For five days they were not permitted to go outside, to leave the houses. On the sixth day, they were allowed to go outside for two hours, in order to do their shopping. Throughout all that period, Jews were kidnapped, taken from their homes, forced to walk in the street with upraised arms to various places. In the main, they were taken to the brick factory in Buda.
+At first, Jews were allowed to be outside for three hours, after that also for six hours. But they were not very strict about it. On 16 October, the first thing that happened was a total curfew imposed on Jewish houses. For five days they were not permitted to go outside, to leave the houses. On the sixth day, they were allowed to go outside for two hours, in order to do their shopping. Throughout all that period, Jews were kidnapped, taken from their homes, forced to walk in the street with upraised arms to various places. In the main, they were taken to the brick factory in [[LOCATION:location_271|Buda]].
 
 **Q.**Who did this?
 
-**A.**Some were Germans, but a large part were Nyilas.* {* Nyilas: A member or follower of the Arrow Cross Party} When Szalasi rose to power, he issued a general pardon to political prisoners, and a substantial number of these people were given arms and took a decisive part in the events which occurred after 15 October.
+**A.**Some were Germans, but a large part were Nyilas.* {* Nyilas: A member or follower of the [[ORGANIZATION:org_366|Arrow Cross]] Party} When Szalasi rose to power, he issued a general pardon to political prisoners, and a substantial number of these people were given arms and took a decisive part in the events which occurred after 15 October.
 
 **Presiding Judge:** What political prisoners were these?
 
@@ -173,30 +173,30 @@ Then the people came in their masses. They got to know on the 23rd that the depa
 
 **State Attorney Bach:** How many documents were issued by your department?
 
-**Witness Breszlauer:** A total of between 70,000 and 80,000 of these Swiss letters of protection. And let me explain to whom they were issued. There were young Jews from the Ukraine and Russia who were brought back at the time of the retreat of the German army; they came to Budapest and said: "This morning, they are going to take us to western Germany." They told us there was one chance of being rescued - and that was if they would bring letters of protection. They came en masse. I must admit that Hungarian officers from these battalions helped them to present themselves at the Swiss consulate. And, without exception, whoever appeared there received his protective certificate.
+**Witness Breszlauer:** A total of between 70,000 and 80,000 of these Swiss letters of protection. And let me explain to whom they were issued. There were young Jews from the [[LOCATION:location_12|Ukraine]] and [[LOCATION:location_10|Russia]] who were brought back at the time of the retreat of the German army; they came to [[LOCATION:location_31|Budapest]] and said: "This morning, they are going to take us to western [[LOCATION:location_2|Germany]]." They told us there was one chance of being rescued - and that was if they would bring letters of protection. They came en masse. I must admit that Hungarian officers from these battalions helped them to present themselves at the Swiss consulate. And, without exception, whoever appeared there received his protective certificate.
 ---
 
 **Q.**When were you given a particular task in regard to that foot march to which you referred?
 
-**A.**Krausz informed me on 22 November, that on the same day we would be meeting with Mr. Wallenberg, in Mr. Wallenberg's office. There would be present - and he mentioned the name to me - a Hungarian officer who had a very important post at that time, and he would supply details. We did not know exactly where these people were going to be taken to, on foot. On the same day, 22 November, we had a meeting with Wallenberg. There were representatives of the embassies - he himself was there in his personal capacity - there were representatives of the Portuguese and Spanish embassies; they were also involved in rescue activity, they dealt with converted Jews, with Jewish Christians. Krausz and I were there on behalf of the Swiss embassy. We listened there to a report from the officer, his name was Major Batizfalvy; he was a Hungarian officer, and he gave particulars of the dreadful situation of the thousands of marchers from Budapest, and especially those from the brick factory, on the road to Hegyeshalom. At first, they went along the main thoroughfares, the main road, and thereafter on side roads. Conditions were very bad - hundreds, thousands, were falling by the wayside. They were not being given food - they were in an awful state - they were being treated very badly. He, Batizfalvy, had received from Ferenczy, who was the liaison officer between the Germans and the Hungarians, four protective letters to enable members of the embassies to proceed along the road, in order to give help to, and to bring back mainly those who possessed our letters of protection. He told us that they were being taken along the road to Hegyeshalom, and there they were going to be handed over to the Germans. There was a large group at Hegyeshalom. The situation as he described it was very bad. He said that he would give us these letters of protection.
+**A.**Krausz informed me on 22 November, that on the same day we would be meeting with Mr. Wallenberg, in Mr. Wallenberg's office. There would be present - and he mentioned the name to me - a Hungarian officer who had a very important post at that time, and he would supply details. We did not know exactly where these people were going to be taken to, on foot. On the same day, 22 November, we had a meeting with Wallenberg. There were representatives of the embassies - he himself was there in his personal capacity - there were representatives of the Portuguese and Spanish embassies; they were also involved in rescue activity, they dealt with converted Jews, with Jewish Christians. Krausz and I were there on behalf of the Swiss embassy. We listened there to a report from the officer, his name was Major Batizfalvy; he was a Hungarian officer, and he gave particulars of the dreadful situation of the thousands of marchers from [[LOCATION:location_31|Budapest]], and especially those from the brick factory, on the road to [[LOCATION:location_267|Hegyeshalom]]. At first, they went along the main thoroughfares, the main road, and thereafter on side roads. Conditions were very bad - hundreds, thousands, were falling by the wayside. They were not being given food - they were in an awful state - they were being treated very badly. He, Batizfalvy, had received from Ferenczy, who was the liaison officer between the Germans and the Hungarians, four protective letters to enable members of the embassies to proceed along the road, in order to give help to, and to bring back mainly those who possessed our letters of protection. He told us that they were being taken along the road to [[LOCATION:location_267|Hegyeshalom]], and there they were going to be handed over to the Germans. There was a large group at [[LOCATION:location_267|Hegyeshalom]]. The situation as he described it was very bad. He said that he would give us these letters of protection.
 
 **Presiding Judge:** Who said that?
 
-**Witness Breszlauer:** Batizfalvy. He said that, so that we might be safe on the road and that no harm would befall us. We would be given the opportunity of attending to our people and of bringing them back - those who had letters of protection. That was on 22 November. On the 23rd, we made certain preparations. We, the members of the Swiss embassy, knew that there were only a few there with these letters of protection, since all their papers had been taken away from them. We knew that there were only a few such people. We knew that they had been subjected to a thorough body search before they were sent off from the brick factory, and that everything had been taken from them. We deliberated what we should do, in what way we could help. I took with me a rubber stamp of the Swiss consulate. I took blank letters of protection, a typewriter, and I left on the 23rd, accompanied by Kluger and a Jewish driver, Pollack. We left by night. We departed from Budapest at 3.30 in the morning. Early in the morning we reached Hegyeshalom.
+**Witness Breszlauer:** Batizfalvy. He said that, so that we might be safe on the road and that no harm would befall us. We would be given the opportunity of attending to our people and of bringing them back - those who had letters of protection. That was on 22 November. On the 23rd, we made certain preparations. We, the members of the Swiss embassy, knew that there were only a few there with these letters of protection, since all their papers had been taken away from them. We knew that there were only a few such people. We knew that they had been subjected to a thorough body search before they were sent off from the brick factory, and that everything had been taken from them. We deliberated what we should do, in what way we could help. I took with me a rubber stamp of the Swiss consulate. I took blank letters of protection, a typewriter, and I left on the 23rd, accompanied by Kluger and a Jewish driver, Pollack. We left by night. We departed from [[LOCATION:location_31|Budapest]] at 3.30 in the morning. Early in the morning we reached [[LOCATION:location_267|Hegyeshalom]].
 
 **State Attorney Bach:** Did you see Jews on the road?
 
 **Witness Breszlauer:** We did not see them on the road. It was night. By then they were not walking along the main roads, they were on the side roads. Apart from that, most of the groups walking were given a chance to rest at night. On the journey there, I did not come across any persons walking.
 
-**Q.**So you saw the marchers only at Hegyeshalom?
+**Q.**So you saw the marchers only at [[LOCATION:location_267|Hegyeshalom]]?
 
 **A.**Yes.
 
-**Q.**What did you see at Hegyeshalom?
+**Q.**What did you see at [[LOCATION:location_267|Hegyeshalom]]?
 
-**A.**I arrived at Hegyeshalom. I found the people in a state - I was accustomed to unpleasant sights, but it was a picture...there was a large farmyard there, with a big barn into which the people had been confined - thousands of them. There were also smaller sheds for drying tobacco. There were also some people there.
+**A.**I arrived at [[LOCATION:location_267|Hegyeshalom]]. I found the people in a state - I was accustomed to unpleasant sights, but it was a picture...there was a large farmyard there, with a big barn into which the people had been confined - thousands of them. There were also smaller sheds for drying tobacco. There were also some people there.
 
-But the majority of the people, several thousands, were in this huge barn. They were under strict guard. I could see them - through holes in the wood, through chinks in the boards. There were also small holes. I saw faces of people who had made their way for 200-220 kilometres without food. There was the fear of death in their countenances. They were in a horrible state, without any hygienic conditions. They performed their bodily functions inside the barn. There were women and men there. I could only hear shouts of "Help!" They thought that people had come from the embassy, they believed that they were able to save them all, and they began shouting. I saw they were in an awful state. They were hungry and thirsty. I am not capable of describing the situation in which I saw these people. That was the position. There were people there whose names were familiar. There was a well-known veteran actor - I don't remember his name - lawyers, scientists, scholars, persons from all walks of life. They searched, first of all, for well-known people in Budapest, removed them from their homes and took them along this road.
+But the majority of the people, several thousands, were in this huge barn. They were under strict guard. I could see them - through holes in the wood, through chinks in the boards. There were also small holes. I saw faces of people who had made their way for 200-220 kilometres without food. There was the fear of death in their countenances. They were in a horrible state, without any hygienic conditions. They performed their bodily functions inside the barn. There were women and men there. I could only hear shouts of "Help!" They thought that people had come from the embassy, they believed that they were able to save them all, and they began shouting. I saw they were in an awful state. They were hungry and thirsty. I am not capable of describing the situation in which I saw these people. That was the position. There were people there whose names were familiar. There was a well-known veteran actor - I don't remember his name - lawyers, scientists, scholars, persons from all walks of life. They searched, first of all, for well-known people in [[LOCATION:location_31|Budapest]], removed them from their homes and took them along this road.
 
 **Presiding Judge:** How many people were there?
 
@@ -220,7 +220,7 @@ But the majority of the people, several thousands, were in this huge barn. They 
 
 **Q.**In your investigation - I understand that you submitted a report - did you ascertain how many people, in all, took part in this march?
 
-**A.**According to my estimate, there were more than fifty thousand persons in all. There were not yet so many there, but I made enquiries later, for it still continued afterwards. I also learned from the people there that the Germans only wanted to receive persons who were fit for work. But the Hungarians wanted to hand over all of them. I tried to ascertain where these were. I learned that there was an abandoned building in a forest near Hegyeshalom - apparently it had once been a hunting lodge. It had several rooms, and there I found these people. They were waiting for their death. They received no treatment, no medicaments, no attention, hardly any food. Here and there, they were given a little cold soup.
+**A.**According to my estimate, there were more than fifty thousand persons in all. There were not yet so many there, but I made enquiries later, for it still continued afterwards. I also learned from the people there that the Germans only wanted to receive persons who were fit for work. But the Hungarians wanted to hand over all of them. I tried to ascertain where these were. I learned that there was an abandoned building in a forest near [[LOCATION:location_267|Hegyeshalom]] - apparently it had once been a hunting lodge. It had several rooms, and there I found these people. They were waiting for their death. They received no treatment, no medicaments, no attention, hardly any food. Here and there, they were given a little cold soup.
 
 Anyone who had money received some water for his money, sometimes some bad coffee. I saw a dead man there, in the hall; I say dying people. There were people who were still able to speak, who shouted: Help! I was not there for a long time. The persons in charge got to know that I was there. They were armed with bayonets, with rifles: "How did you dare come here?" I showed them their authorizing documents. They told me that if I did not get out of there within one minute, they would shoot me. I left the place.
 
@@ -230,7 +230,7 @@ Anyone who had money received some water for his money, sometimes some bad coffe
 
 **Q.**Was the guarding of the Jews on the road in the hands of the Hungarians?
 
-**A.**The guarding of the Jews on the road was in the hands of the Hungarians. In Hegyeshalom, I saw several Germans. I was there during lunch, and I heard their conversation and their stories. I did not speak.
+**A.**The guarding of the Jews on the road was in the hands of the Hungarians. In [[LOCATION:location_267|Hegyeshalom]], I saw several Germans. I was there during lunch, and I heard their conversation and their stories. I did not speak.
 
 **Presiding Judge:** What Germans? In uniform?
 
@@ -238,21 +238,21 @@ Anyone who had money received some water for his money, sometimes some bad coffe
 
 **Q.**In what uniforms?
 
-**A.**Of the Gestapo, the SS, the SD.
+**A.**Of the [[ORGANIZATION:org_344|Gestapo]], the SS, the SD.
 
-**State Attorney Bach:** How long were you in Hegyeshalom?
+**State Attorney Bach:** How long were you in [[LOCATION:location_267|Hegyeshalom]]?
 
-**Witness Breszlauer:** I left Budapest on the 23rd and returned on the 27th.
+**Witness Breszlauer:** I left [[LOCATION:location_31|Budapest]] on the 23rd and returned on the 27th.
 
 **Q.**Did you also see anything on the way back?
 
-**A.**On the way back, I saw a fairly large group, consisting of several hundred people; I noticed that most of them were elderly people, women, pregnant women, people who were not capable of working. I thought that these were some of those who had been returned. I wanted to join them. I asked where they were bound for? Budapest. I said: "I want to join them - I will walk with them." They would not allow me to do so. On the fourth day, when I was in Budapest, I was told: "The validity of your documents has expired." I sent several hundred persons back. On the first day, I remember, it was close to one hundred, and the same on the second day, and on the third - then they came to me and said: "The documents that you received, which gave you the right to move around freely, are no longer valid; you will have to return immediately and report to the Ministry of the Interior."
+**A.**On the way back, I saw a fairly large group, consisting of several hundred people; I noticed that most of them were elderly people, women, pregnant women, people who were not capable of working. I thought that these were some of those who had been returned. I wanted to join them. I asked where they were bound for? [[LOCATION:location_31|Budapest]]. I said: "I want to join them - I will walk with them." They would not allow me to do so. On the fourth day, when I was in [[LOCATION:location_31|Budapest]], I was told: "The validity of your documents has expired." I sent several hundred persons back. On the first day, I remember, it was close to one hundred, and the same on the second day, and on the third - then they came to me and said: "The documents that you received, which gave you the right to move around freely, are no longer valid; you will have to return immediately and report to the [[ORGANIZATION:org_301|Ministry of the Interior]]."
 
-On my way back, I came across that group of several hundred persons. I wanted to join them. They would not allow me to speak to them. I followed up my enquiries in Budapest, I went from place to place, I wanted to know where these people had disappeared to. Afterwards I learned from some source that these people were brought to the Danube where they were shot; they were killed and thrown into the river Danube.
+On my way back, I came across that group of several hundred persons. I wanted to join them. They would not allow me to speak to them. I followed up my enquiries in [[LOCATION:location_31|Budapest]], I went from place to place, I wanted to know where these people had disappeared to. Afterwards I learned from some source that these people were brought to the [[LOCATION:location_110|Danube]] where they were shot; they were killed and thrown into the river [[LOCATION:location_110|Danube]].
 
 **Q.**Did you put in a report afterwards?
 
-**A.**Yes. The following day, I sent a report - I gave it to Krausz, and he forwarded it to the Swiss consulate, and they sent it to Switzerland.
+**A.**Yes. The following day, I sent a report - I gave it to Krausz, and he forwarded it to the Swiss consulate, and they sent it to [[LOCATION:location_53|Switzerland]].
 
 **Q.**I have here a copy of the minutes of that meeting of 22 November and of your report. Please examine this document and tell us whether this is your report and the minutes of that meeting.
 
@@ -290,13 +290,13 @@ On my way back, I came across that group of several hundred persons. I wanted to
 
 **State Attorney Bach:** After you handed in your report, were you able to do anything to help these people?
 
-**Witness Breszlauer:** I brought back several hundred people at the time. Wallenberg also had several people returned. It was easier for him - he had an exact list of the people, and he was able to look for them. I was unable to look for them in this way. But I returned several hundred people. After some days had passed, I found them at the railway station. They were sent back to Budapest.
+**Witness Breszlauer:** I brought back several hundred people at the time. Wallenberg also had several people returned. It was easier for him - he had an exact list of the people, and he was able to look for them. I was unable to look for them in this way. But I returned several hundred people. After some days had passed, I found them at the railway station. They were sent back to [[LOCATION:location_31|Budapest]].
 
 **Q.**Do you have any idea how many of these people died on the way?
 
 **A.**The number was very large. Those who were weak were shot on the road. I spoke of a number of people who came back. There was a young woman there who had come with her parents. Her parents were unable to walk; they were shot on the road, and she remained on the road, alone. The number of people who died was great, both on the way, as well as there. On the one night I was there, I think about thirty-six people - or some such number - died in the huge barn.
 
-The mortality rate was high. The people were weak, they had become enfeebled from the way and from lack of attention. Many of them, also, were shot. The journey was a long one. There was a group of people there who had been sent from Bor. They were young people. About four thousand were working there. A large part of them could not bear the conditions any longer. They came from Yugoslavia on foot. I looked for them, since I had many acquaintances amongst them - I looked for them later, but I did not see them. A great number of these were killed.
+The mortality rate was high. The people were weak, they had become enfeebled from the way and from lack of attention. Many of them, also, were shot. The journey was a long one. There was a group of people there who had been sent from Bor. They were young people. About four thousand were working there. A large part of them could not bear the conditions any longer. They came from [[LOCATION:location_25|Yugoslavia]] on foot. I looked for them, since I had many acquaintances amongst them - I looked for them later, but I did not see them. A great number of these were killed.
 
 **Presiding Judge:** You say that the distance was 220 kilometres?
 
@@ -321,7 +321,7 @@ The mortality rate was high. The people were weak, they had become enfeebled fro
 **A.**Yes.
 ---
 
-**Q.**It says here that ten thousand have already been handed over to the Germans, six to seven thousand are to be delivered into the hands of the Germans, and the remaining six to seven thousand were shot to death by members of the Hungarian Arrow Cross, and the others perished as a result of the hardships and exhaustion. If this is the case, these people were shot by the Arrow Cross?
+**Q.**It says here that ten thousand have already been handed over to the Germans, six to seven thousand are to be delivered into the hands of the Germans, and the remaining six to seven thousand were shot to death by members of the Hungarian [[ORGANIZATION:org_366|Arrow Cross]], and the others perished as a result of the hardships and exhaustion. If this is the case, these people were shot by the [[ORGANIZATION:org_366|Arrow Cross]]?
 
 **Presiding Judge:** He said: "By the Hungarians." I don't know whether this was translated.
 
@@ -353,7 +353,7 @@ The mortality rate was high. The people were weak, they had become enfeebled fro
 
 **Dr. Servatius:** On page seven, in the middle of the page.
 
-Witness, you conclude your report (on page 11) with the sentence: "The present objective of the Hungarian Government is, undoubtedly, the complete extermination of the Jews." Is this statement correct?
+Witness, you conclude your report (on page 11) with the sentence: "The present objective of the [[ORGANIZATION:org_329|Hungarian Government]] is, undoubtedly, the complete extermination of the Jews." Is this statement correct?
 
 **Witness Breszlauer:** I was referring to the Szalasi government. As far as I was aware, this was their objective.
 
@@ -367,7 +367,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**To my knowledge, as far as I understood the situation at the time, the Szalasi government served as the most appropriate instrument during this period for German aims.
 
-**Q.**And immediately after that, you add: "Only by means of contact and agreement with the Germans will it be possible to avoid the final deportation of the Jews of Budapest, along the lines of deportation from the provincial and district towns."
+**Q.**And immediately after that, you add: "Only by means of contact and agreement with the Germans will it be possible to avoid the final deportation of the Jews of [[LOCATION:location_31|Budapest]], along the lines of deportation from the provincial and district towns."
 
 **A.**Yes.
 
@@ -391,7 +391,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**Until 25 November, as far as I remember, there were houses which were marked as Jewish houses.
 
-**Q.**That is to say, where the Jews of Budapest were assembled, so that they could be concentrated there.
+**Q.**That is to say, where the Jews of [[LOCATION:location_31|Budapest]] were assembled, so that they could be concentrated there.
 
 **A.**Yes.
 
@@ -437,7 +437,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **Q.**And those who were taken for other work requirements - where were they taken to?
 
-**A.**I went there on a particular day - I found two hundred doctors there, only doctors. They took them from the brick factory for work in the vicinity of Budapest.
+**A.**I went there on a particular day - I found two hundred doctors there, only doctors. They took them from the brick factory for work in the vicinity of [[LOCATION:location_31|Budapest]].
 
 **Q.**For this march, did they take people from the brick factory only, or from other places also?
 
@@ -459,7 +459,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**The month of October. And then they began seizing these people off the streets. They found people walking around without the badge, people were required to produce documents.
 
-**Q.**I am not sure you understood my question. My question was whether on the eve of the march, before that operation began, all the Jews of Budapest were concentrated in these marked houses, or in points of concentration, such as the brick factory and the Tattersall, or whether there was still a substantial number of Jews who were living - let's say - in private homes?
+**Q.**I am not sure you understood my question. My question was whether on the eve of the march, before that operation began, all the Jews of [[LOCATION:location_31|Budapest]] were concentrated in these marked houses, or in points of concentration, such as the brick factory and the Tattersall, or whether there was still a substantial number of Jews who were living - let's say - in private homes?
 
 **A.**A very small number. There were some people who were in hiding who had not gone into the houses, but their number was small. Most of them were concentrated in these houses.
 
@@ -483,7 +483,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**In buildings of the Swiss consulate - these were seventy large buildings, and afterwards another six were added for us - there was great congestion, and according to our estimate there were about twenty-five to thirty thousand people.
 
-**Judge Halevi:** Dr. Breszlauer, until when did you remain in Budapest?
+**Judge Halevi:** Dr. Breszlauer, until when did you remain in [[LOCATION:location_31|Budapest]]?
 
 **Witness Breszlauer:** Until the end, until the liberation.
 
@@ -499,13 +499,13 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**The Russians were approaching...
 
-**Q.**Not from the direction of Vienna, but from the East.
+**Q.**Not from the direction of [[LOCATION:location_3|Vienna]], but from the East.
 
 **A.**But they had already also crossed this road, where exactly I don't know, but I do know that this was the cause of the march being stopped in December, more or less by the end of December.
 
 **Q.**How long did the Szalasi government remain in power?
 
-**A.**At the end of December or the beginning of January, the government left and went to Vienna.
+**A.**At the end of December or the beginning of January, the government left and went to [[LOCATION:location_3|Vienna]].
 
 **Q.**And who was in charge?
 
@@ -513,7 +513,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **Q.**Who exercised the power of government?
 
-**A.**There were Seconds-in-Command and Acting Holders of Office. In Budapest, there was an officer who had become a senior officer. I don't remember his name for the moment. He remained behind and ruled Budapest after Szalasi's departure.
+**A.**There were Seconds-in-Command and Acting Holders of Office. In [[LOCATION:location_31|Budapest]], there was an officer who had become a senior officer. I don't remember his name for the moment. He remained behind and ruled [[LOCATION:location_31|Budapest]] after Szalasi's departure.
 
 **Q.**Are you referring to a Hungarian?
 
@@ -531,32 +531,32 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**No, I had none. This group which operated within the organization set up by Krausz, as far as I knew, also had no contact with the Germans.
 
-**Q.**You spoke about Wisliceny and said that at the Hegyeshalom border he refused to accept sick people, or what were the categories he refused?
+**Q.**You spoke about Wisliceny and said that at the [[LOCATION:location_267|Hegyeshalom]] border he refused to accept sick people, or what were the categories he refused?
 
 **A.**Persons who were not fit for work.
 
-**Q.**He refused to transfer them to the German side, but there were no arrangements there for returning them to Budapest?
+**Q.**He refused to transfer them to the German side, but there were no arrangements there for returning them to [[LOCATION:location_31|Budapest]]?
 
 **A.**There were no arrangements, and they were not sent back. But on this point I must make a correction. The dispute between the Hungarians and the Germans was: Who was going to do away with these people, and where would it be done?
 
 **Q.**How did you know that?
 
-**A.**When I got back to Budapest, I searched in particular for these people. And these were a large group whom I met near Komarom. I wanted to know where these people had disappeared to. I went to the Jewish houses, I went everywhere and failed to find a single one of these people - I could not find even one of them who had been returned. And I learned later also from Batizfalvy that they had been done away with. There were several people with whom I was in contact, and they all told me that there had been this argument as to who should do away with them.
+**A.**When I got back to [[LOCATION:location_31|Budapest]], I searched in particular for these people. And these were a large group whom I met near Komarom. I wanted to know where these people had disappeared to. I went to the Jewish houses, I went everywhere and failed to find a single one of these people - I could not find even one of them who had been returned. And I learned later also from Batizfalvy that they had been done away with. There were several people with whom I was in contact, and they all told me that there had been this argument as to who should do away with them.
 
-**Q.**Who sent back those persons to whom you issued certificates at Hegyeshalom?
+**Q.**Who sent back those persons to whom you issued certificates at [[LOCATION:location_267|Hegyeshalom]]?
 
-**A.**They came to Budapest by rail.
+**A.**They came to [[LOCATION:location_31|Budapest]] by rail.
 ---
 
 **Q.**Did the railway line still exist?
 
 **A.**On 28 November - yes, yes.
 
-**Q.**Were you aware of any reason why the sick and those unfit for labour were not returned to Budapest by that rail route?
+**Q.**Were you aware of any reason why the sick and those unfit for labour were not returned to [[LOCATION:location_31|Budapest]] by that rail route?
 
-**A.**They did not want to send them back, they wanted to do away with them. I remembered that there was a small wood there, where the sick were, but I learned that there were a number of such places where they collected such people and let them die. A certain group was sent back - they were put to death on the way. They did not get back to Budapest, and I did not learn of anyone who had returned. After the liberation, I remained in Budapest for several months. I searched for these people, but they had not been sent back.
+**A.**They did not want to send them back, they wanted to do away with them. I remembered that there was a small wood there, where the sick were, but I learned that there were a number of such places where they collected such people and let them die. A certain group was sent back - they were put to death on the way. They did not get back to [[LOCATION:location_31|Budapest]], and I did not learn of anyone who had returned. After the liberation, I remained in [[LOCATION:location_31|Budapest]] for several months. I searched for these people, but they had not been sent back.
 
-**Q.**You said to my colleague that, shortly after that, the Jews in Budapest were separated. In other words, there were houses for protected persons separately, protective houses, and, separately, unprotected houses. Is that correct?
+**Q.**You said to my colleague that, shortly after that, the Jews in [[LOCATION:location_31|Budapest]] were separated. In other words, there were houses for protected persons separately, protective houses, and, separately, unprotected houses. Is that correct?
 
 **A.**Yes.
 
@@ -606,7 +606,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **Q.**Do you know what happened to Wallenberg?
 
-**A.**At the time of the liberation, when the Russians reached Buda, Wallenberg crossed over to Buda; he came back, took his suitcases and disappeared.
+**A.**At the time of the liberation, when the Russians reached [[LOCATION:location_271|Buda]], Wallenberg crossed over to [[LOCATION:location_271|Buda]]; he came back, took his suitcases and disappeared.
 
 **Q.**Did Lutz remain to the end?
 
@@ -616,7 +616,7 @@ Witness, you conclude your report (on page 11) with the sentence: "The present o
 
 **A.**Komoly disappeared one day. He was taken from a certain hotel and disappeared. There were many abductions such as these. Also man of the people in our extra-territorial area were seized once they left it, and they disappeared. The person who handed over the "Glass House," Arthur Weiss, was abducted when he went out, and disappeared.
 
-**Q.**Do you know anything about the mobilization of Jews for the defence of Budapest against the Russians?
+**Q.**Do you know anything about the mobilization of Jews for the defence of [[LOCATION:location_31|Budapest]] against the Russians?
 
 **A.**No.
 

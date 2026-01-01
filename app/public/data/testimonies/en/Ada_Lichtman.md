@@ -1,4 +1,4 @@
-# Testimony of Ada Lichtman
+# Testimony of [[PERSON:witness_2|Ada Lichtman]]
 
 **Session:** 20
 
@@ -6,15 +6,15 @@
 
 **Presiding Judge:** What is your name?
 
-**Witness:** Ada Lichtman.
+**Witness:** [[PERSON:witness_2|Ada Lichtman]].
 
 **Presiding Judge:** And what is it in Yiddish?
 
 **Witness Lichtman:** Ethel.
 
-**Attorney General:** Prior to the outbreak of the Second World War you were living in the town of Wieliczka in Poland, is that correct?
+**Attorney General:** Prior to the outbreak of the [[EVENT:event_383|Second World War]] you were living in the town of [[LOCATION:location_148|Wieliczka]] in [[LOCATION:location_5|Poland]], is that correct?
 
-**Witness Lichtman:** Yes. In Cracow and in Wieliczka. These places are near one another, it is a distance of 14 kilometres from Cracow. I was studying and working in Cracow.
+**Witness Lichtman:** Yes. In Cracow and in [[LOCATION:location_148|Wieliczka]]. These places are near one another, it is a distance of 14 kilometres from Cracow. I was studying and working in Cracow.
 
 **Attorney General:** Does the Court wish me to put the questions in Yiddish?
 
@@ -24,11 +24,11 @@
 
 **Presiding Judge:** Perhaps it should be right indeed to ask in Yiddish, for her to understand directly.
 
-**Attorney General:** [Continues the examination of the witness in Yiddish.] Where were you when the Second World War broke out?
+**Attorney General:** [Continues the examination of the witness in Yiddish.] Where were you when the [[EVENT:event_383|Second World War]] broke out?
 
-**Witness Lichtman:** In those days I was in Wieliczka.
+**Witness Lichtman:** In those days I was in [[LOCATION:location_148|Wieliczka]].
 
-**Q.**What happened in the first days after the Germans entered Wieliczka?
+**Q.**What happened in the first days after the Germans entered [[LOCATION:location_148|Wieliczka]]?
 
 **A.**From the very first days the Germans were rounding up people for labour, especially men, they beat them up, they ordered them to clean up the marketplace, to pick up the trash with their hands.
 
@@ -36,7 +36,7 @@
 
 **A.**Jewish men. They ordered them to strip naked. And behind each man stood a German soldier with a bayonet on his rifle, and the Jewish men were forced to run with pails, and when a Jew stopped the bayonet would hit him in his back, so that almost all the men came home with blood running from them, and my father was one of them.
 
-**Q.**Can you remember what happened in Wieliczka on the 12th of September 1939?
+**Q.**Can you remember what happened in [[LOCATION:location_148|Wieliczka]] on the 12th of September 1939?
 
 **A.**Yes. The soldiers stationed there at the beginning left the marketplace, and suddenly a large truck arrived. Frum that truck jumped out some eleven soldiers, in uniform, with steel helmets.
 
@@ -54,7 +54,7 @@
 
 **Q.**And your father too?
 
-**A.**And my father too. And all of them were lined up in the marketplace of Wieliczka. They were told to fold their hands behind their neck, and there was also, behind the truck, a passenger car with two officers.
+**A.**And my father too. And all of them were lined up in the marketplace of [[LOCATION:location_148|Wieliczka]]. They were told to fold their hands behind their neck, and there was also, behind the truck, a passenger car with two officers.
 
 **Q.**How many Jewish men were taken?
 
@@ -108,13 +108,13 @@
 
 **A.**On the morrow, the next day.
 
-**Q.**And thereafter they took you to work in Wieliczka?
+**Q.**And thereafter they took you to work in [[LOCATION:location_148|Wieliczka]]?
 
 **A.**Yes.
 
 **Q.**What kind of work did you do?
 
-**A.**Sweeping the streets. Mostly sweeping the streets in Wieliczka.
+**A.**Sweeping the streets. Mostly sweeping the streets in [[LOCATION:location_148|Wieliczka]].
 
 **Q.**How did you do this?
 
@@ -156,7 +156,7 @@
 
 **A.**Jews' Councils were organized everywhere.
 
-**Q.**After that you moved to Mielec? When?
+**Q.**After that you moved to [[LOCATION:location_149|Mielec]]? When?
 
 **A.**That was in winter.
 
@@ -166,17 +166,17 @@
 
 **Q.**Can you remember what happened there at the synagogue?
 
-**A.**They gathered Jewish men, mainly older men, from their homes. They drove them all together into the great synagogue of Mielec, and there almost all the Jews were slaughtered and shot, and those who jumped out of the windows were shot at the wall.
+**A.**They gathered Jewish men, mainly older men, from their homes. They drove them all together into the great synagogue of [[LOCATION:location_149|Mielec]], and there almost all the Jews were slaughtered and shot, and those who jumped out of the windows were shot at the wall.
 
 **Q.**The Jews who had beards, what did they do to them?
 
 **A.**A motorcycle with a sidecar could sometimes come through and they used to catch Jews with beards, or they used to drag them out of their homes for shaving, and they used to shave off half their beards or the entire beard with bits of the flesh.
 
-**Q.**In 1941 was there talk of rendering Mielec judenrein? What did the Jews do to avert the doom?
+**Q.**In 1941 was there talk of rendering [[LOCATION:location_149|Mielec]] judenrein? What did the Jews do to avert the doom?
 
 **A.**Jews were saying that a forced payment had been imposed on the Jews, and then it would be possible to stay in our homes.
 
-**Q.**Did they let you stay in Mielec?
+**Q.**Did they let you stay in [[LOCATION:location_149|Mielec]]?
 
 **A.**No.
 
@@ -184,7 +184,7 @@
 
 **A.**First we had to give up whatever we had, the jewellery, coffee and furs, and they said we could stay. Before dawn next day military units, black-clad and green-clad, surrounded us and chased us out of our homes into the marketplace and assembled us there. Those people unable to run out at once, those who were sick, were shot on the spot or in bed.
 
-Then they lined us up, all those who remained, in the marketplace. After that they selected young men, they put them on one side and women and children and parents they put in a line, on both sides went soldiers with ropes, clad in black and in green, and we Jews all were in the middle. That was how they drove us. Anyone who let anything drop they killed on the spot. With whips, with clubs, they were beating and shooting. This was how we went some distance from Mielec.
+Then they lined us up, all those who remained, in the marketplace. After that they selected young men, they put them on one side and women and children and parents they put in a line, on both sides went soldiers with ropes, clad in black and in green, and we Jews all were in the middle. That was how they drove us. Anyone who let anything drop they killed on the spot. With whips, with clubs, they were beating and shooting. This was how we went some distance from [[LOCATION:location_149|Mielec]].
 
 Outside the town there was a sort of factory of Polish airplanes called Berdychow. We arrived there at dusk, it was cold, snow, piled high. They crowded us all into the hangars, they didn't let anyone go out. Anyone who went out for a physiological need they shot dead.
 

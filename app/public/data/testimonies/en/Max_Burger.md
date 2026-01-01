@@ -1,4 +1,4 @@
-# Testimony of Max Burger
+# Testimony of [[PERSON:witness_63|Max Burger]]
 
 **Session:** 19
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Max Burger.
+**Witness:** [[PERSON:witness_63|Max Burger]].
 
 **State Attorney Bar-Or:** You were born in Moravska Ostrava?
 
@@ -26,9 +26,9 @@
 
 **State Attorney Bar-Or:** Just a minute, Mr. Burger, what was your function in the Jewish community of Moravska Ostrava in those days?
 
-**Witness Burger:** Voluntary worker in the Community. On the 1 September 1939, the day the War broke out, Jews were arrested at random on the streets, some of them imprisoned and some loaded on trucks and deported in the direction of the Polish front; towards the middle of September all the Jews of Ostrava were ordered to report to the Gestapo in alphabetical order, and there they were registered.
+**Witness Burger:** Voluntary worker in the Community. On the 1 September 1939, the day the War broke out, Jews were arrested at random on the streets, some of them imprisoned and some loaded on trucks and deported in the direction of the Polish front; towards the middle of September all the Jews of Ostrava were ordered to report to the [[ORGANIZATION:org_344|Gestapo]] in alphabetical order, and there they were registered.
 
-**Q.**Do you remember who was in charge of this Gestapo office?
+**Q.**Do you remember who was in charge of this [[ORGANIZATION:org_344|Gestapo]] office?
 
 **A.**Klein.
 
@@ -42,24 +42,24 @@
 
 **Q.**When he appeared in uniform which one did he wear?
 
-**A.**The grey one of the SD. At the time of registration we were made to hand over wireless sets, jewellery, and, in addition, Klein, at his own estimate, imposed a money contribution on everyone. Early in October, or towards the end of September, we were summoned to the Gestapo, i.e. the head of the Community, Salo Kramer, together with two or three office-holders, one of whom was Professor Emil Eisner, if I remember rightly. At first we were informed there that the Accused had come to Ostrova with orders concerning us.
+**A.**The grey one of the SD. At the time of registration we were made to hand over wireless sets, jewellery, and, in addition, Klein, at his own estimate, imposed a money contribution on everyone. Early in October, or towards the end of September, we were summoned to the [[ORGANIZATION:org_344|Gestapo]], i.e. the head of the Community, [[PERSON:person_469|Salo Kramer]], together with two or three office-holders, one of whom was Professor [[PERSON:person_470|Emil Eisner]], if I remember rightly. At first we were informed there that the Accused had come to Ostrova with orders concerning us.
 
 **Q.**When did you hear of the Accused for the first time?
 
-**A.**In September 1939, when we were told that Eichmann, whose headquarters were in Vienna, was the plenipotentiary for the so-called Buerckellaender.* {*Buerckel was the Reich Commissar for Reunion (of Austria with Germany)}
+**A.**In September 1939, when we were told that Eichmann, whose headquarters were in [[LOCATION:location_3|Vienna]], was the plenipotentiary for the so-called Buerckellaender.* {*Buerckel was the Reich Commissar for Reunion (of [[LOCATION:location_14|Austria]] with [[LOCATION:location_2|Germany]])}
 
 Thereupon a correction was made, saying it was not the Accused.
 
-**Dr. Servatius:** I wish to explain that this was the Gauleiter of Vienna to the best of my knowledge.
+**Dr. Servatius:** I wish to explain that this was the Gauleiter of [[LOCATION:location_3|Vienna]] to the best of my knowledge.
 ---
 
-The Trial of Adolf Eichmann Sessions 19 (Part 4 of 5)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 19 (Part 4 of 5)
 
 ---
 
-**Witness Burger:** Then we were told that the man in question was Guenther, assistant to the Accused. We were informed that 1,000 Jews were going to be moved to a camp and all preparations were to be taken accordingly. As a first step we were told to draw up lists in alphabetical order and by occupation. Then we were made to see to it that building material, tools provisions and medicines were available for 1,000 people. Part of these provisions and materials were confiscated from Jewish shops or were bought with money withdrawn from accounts of Jews on Gestapo instructions. Preparation of these lists necessitated so much work that we were compelled to work at night too.
+**Witness Burger:** Then we were told that the man in question was Guenther, assistant to the Accused. We were informed that 1,000 Jews were going to be moved to a camp and all preparations were to be taken accordingly. As a first step we were told to draw up lists in alphabetical order and by occupation. Then we were made to see to it that building material, tools provisions and medicines were available for 1,000 people. Part of these provisions and materials were confiscated from Jewish shops or were bought with money withdrawn from accounts of Jews on [[ORGANIZATION:org_344|Gestapo]] instructions. Preparation of these lists necessitated so much work that we were compelled to work at night too.
 
-I remember that one night Guenther came to the office of the Community with several SS officers and voiced his dissatisfaction with the working process; he threatened us that if we did not speed up preparations his people would carry them out. Then he threatened us that 1,000 Jews would be sent to a camp in Poland, and that Salo Kramer and his staff would be sent to a concentration camp. A few days before 17 October, the Community was instructed to send a circular to all males aged 18-70, ordering them to report for "Assentierung" at the riding school of Moravska Ostrava on 17 October. "Assentierung" was the instruction given to us, but at that time we were still unaware what "Assentierung" meant.
+I remember that one night Guenther came to the office of the Community with several SS officers and voiced his dissatisfaction with the working process; he threatened us that if we did not speed up preparations his people would carry them out. Then he threatened us that 1,000 Jews would be sent to a camp in [[LOCATION:location_5|Poland]], and that [[PERSON:person_469|Salo Kramer]] and his staff would be sent to a concentration camp. A few days before 17 October, the Community was instructed to send a circular to all males aged 18-70, ordering them to report for "Assentierung" at the riding school of Moravska Ostrava on 17 October. "Assentierung" was the instruction given to us, but at that time we were still unaware what "Assentierung" meant.
 
 **State Attorney Bar-Or:** What do you mean by "Assentierung"?
 
@@ -73,7 +73,7 @@ On the morning of 17 October over 1,000 Jews assembled in the riding school; SD 
 
 **Q.**Had any people been put in charge of the transport?
 
-**A.**On behalf of the Community a sort of transport leader team was chosen. The team was headed by Prof. Emil Eisner. For each railway carriage a man was assigned to keep order in the carriage.
+**A.**On behalf of the Community a sort of transport leader team was chosen. The team was headed by Prof. [[PERSON:person_470|Emil Eisner]]. For each railway carriage a man was assigned to keep order in the carriage.
 
 **Q.**Were you one of the transport leaders?
 
@@ -85,7 +85,7 @@ On the morning of 17 October over 1,000 Jews assembled in the riding school; SD 
 
 **Q.**How many Jews?
 
-**A.**1,000 Jews from Moravska Ostrava. The first station we reached was Cracow. I wish to add that we did not get any more water from the early morning of the 17th; when the people of Cracow wanted to offer us water they were chased away with lashes of the whip by the SD. For the first and last time the so-called transport leaders became active in Cracow; that was by instructing us to collect the money from each individual Jew, as well as all identifying documents. The money and the documents were handed over to the Gestapo.
+**A.**1,000 Jews from Moravska Ostrava. The first station we reached was Cracow. I wish to add that we did not get any more water from the early morning of the 17th; when the people of Cracow wanted to offer us water they were chased away with lashes of the whip by the SD. For the first and last time the so-called transport leaders became active in Cracow; that was by instructing us to collect the money from each individual Jew, as well as all identifying documents. The money and the documents were handed over to the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**Did the people receive anything in exchange for the money they handed over?
 
@@ -97,13 +97,13 @@ On the morning of 17 October over 1,000 Jews assembled in the riding school; SD 
 
 **State Attorney Bar-Or:** That was where?
 
-**Witness Max Burger:** Nisko is situated on this side of the San, along the route of Cracow-Rzeszow to Lublin.
+**Witness [[PERSON:witness_63|Max Burger]]:** Nisko is situated on this side of the San, along the route of Cracow-Rzeszow to [[LOCATION:location_35|Lublin]].
 
-In Nisko we were instructed that those in charge of the carriages, and master builders and engineers - were to get off the train. Since the carriages were sealed we had to get out through the windows. At Nisko railway station a group of SS officers waited for us; one of them delivered an address, which I can render not word for word, but in its general sense. I wish to add that upon Eichmann's directive Jacob Edelstein, Dr. Murmelstein, Storfer, Gruen, Richard, Israel Friedmann went with the transport. Edelstein came from Prague, Jacob Israel Friedmann was in Prague at that time, the others came from Vienna. The address was something like this:
+In Nisko we were instructed that those in charge of the carriages, and master builders and engineers - were to get off the train. Since the carriages were sealed we had to get out through the windows. At Nisko railway station a group of SS officers waited for us; one of them delivered an address, which I can render not word for word, but in its general sense. I wish to add that upon Eichmann's directive Jacob Edelstein, Dr. Murmelstein, Storfer, Gruen, Richard, [[LOCATION:location_38|Israel]] Friedmann went with the transport. Edelstein came from [[LOCATION:location_4|Prague]], Jacob [[LOCATION:location_38|Israel]] Friedmann was in [[LOCATION:location_4|Prague]] at that time, the others came from [[LOCATION:location_3|Vienna]]. The address was something like this:
 
 "About 7 to 8 km from here, across the San, the Fuehrer has promised the Jews a new homeland. There are no flats and no houses; if you carry out the construction you will have a roof over your head. There is no water. Wells in the whole area are infested; cholera, dysentery and typhoid are rampant. If you start digging and find water, then you will have water."
 
-As we subsequently learned from Edelstein and Jacob Israel Friedmann, the address was delivered by Adolf Eichmann. He was waiting for us at the railway station. After the address instructions were given to open the carriages and let the Jews out. Then they inquired who is old, who feels weak, who feels ill - those were to step aside. This group had to pick up their belongings, and I joined this group and walked to the new destination.
+As we subsequently learned from Edelstein and Jacob [[LOCATION:location_38|Israel]] Friedmann, the address was delivered by [[PERSON:person_775|Adolf Eichmann]]. He was waiting for us at the railway station. After the address instructions were given to open the carriages and let the Jews out. Then they inquired who is old, who feels weak, who feels ill - those were to step aside. This group had to pick up their belongings, and I joined this group and walked to the new destination.
 
 **Q.**Did you cross the river?
 
@@ -117,15 +117,15 @@ Once we reached the top a group was formed and had to go down and fetch the lugg
 
 **Q.**How many were you there?
 
-**A.**Part of the one thousand people, except for the group which remained below to unload the carts. During the roll- call they asked again who is over 40, who is a business man, who is a lawyer. About 250 people were separated, had to take their luggage and were led out of the camp by the Gestapo. When we asked Post, the camp commander, what was going to happen to these people, he explained that they would live in the vicinity until "you have erected your houses," then they would return. Afterwards we learned from people who remained in the village at Piznica, that they were taken about 6-7 km by the Gestapo, then the Gestapo fired in the air and informed them "if any of you shows up in the vicinity of the camp, he will be shot."
+**A.**Part of the one thousand people, except for the group which remained below to unload the carts. During the roll- call they asked again who is over 40, who is a business man, who is a lawyer. About 250 people were separated, had to take their luggage and were led out of the camp by the [[ORGANIZATION:org_344|Gestapo]]. When we asked Post, the camp commander, what was going to happen to these people, he explained that they would live in the vicinity until "you have erected your houses," then they would return. Afterwards we learned from people who remained in the village at Piznica, that they were taken about 6-7 km by the [[ORGANIZATION:org_344|Gestapo]], then the [[ORGANIZATION:org_344|Gestapo]] fired in the air and informed them "if any of you shows up in the vicinity of the camp, he will be shot."
 
 At that time we started building a barrack for the about 600 remaining Jews. We finished the barracks by evening, the roof was covered with tarred cardboard, and this was the first shelter for the 600 prisoners in Nisko. During the first days Eichmann visited the camp, I myself didn't hear him because my job kept me busy and I had to discuss the layout and buildings in the camp with the camp commander, builders and engineers.
 
-At that time a delegation left for Lublin. To my best recollection the delegation included Murmelstein, Edelstein, Dr. Oskar Singer and some other people and was to report to Gauleiter Globocnik, since we had been told that this area would be our new home where we could settle down.
+At that time a delegation left for [[LOCATION:location_35|Lublin]]. To my best recollection the delegation included Murmelstein, Edelstein, Dr. Oskar Singer and some other people and was to report to Gauleiter Globocnik, since we had been told that this area would be our new home where we could settle down.
 
 **Q.**Did you think that Globocnik was responsible for the administration of the camp?
 
-**A.**No. Globocnik was Gauleiter of the Lublin District.
+**A.**No. Globocnik was Gauleiter of the [[LOCATION:location_142|Lublin District]].
 
 **Q.**And your camp?
 
@@ -133,7 +133,7 @@ At that time a delegation left for Lublin. To my best recollection the delegatio
 
 **Q.**Wasn't the camp in which you were under Globocnik for administrative purposes?
 
-**A.**Upon their return the delegation informed us of Globocnik's astonishment when he heard that the Jews of Czechoslovakia were taken to the district of Lublin, since it was his intention to make the Lublin District "judenrein" (clear of Jews). When asked where to? Globocnik replied: go wherever you want, to Russia, for all I care.
+**A.**Upon their return the delegation informed us of Globocnik's astonishment when he heard that the Jews of [[LOCATION:location_15|Czechoslovakia]] were taken to the district of [[LOCATION:location_35|Lublin]], since it was his intention to make the [[LOCATION:location_142|Lublin District]] "judenrein" (clear of Jews). When asked where to? Globocnik replied: go wherever you want, to [[LOCATION:location_10|Russia]], for all I care.
 
 **Q.**Was this the only delegation dispatched from the camp, or was there another delegation?
 
@@ -141,11 +141,11 @@ At that time a delegation left for Lublin. To my best recollection the delegatio
 
 After some time the group that was separated, Murmelstein, Edelstein and the others, returned.
 
-Shortly afterwards the first transport arrived from Vienna, 1,000 Jews. Of these 1,000 Jews about 150 were admitted to the camp, the remainder was chased away, without their luggage. The luggage remained in the carriages. Some time later, all the belongings of these Viennese Jews were brought to the camp, the luggage was opened by the SS, the luggage also contained women's belongings since it had been intimated, just as in Ostrava, that transports of women would also be dispatched. From that luggage the Germans took for themselves whatever they wanted.
+Shortly afterwards the first transport arrived from [[LOCATION:location_3|Vienna]], 1,000 Jews. Of these 1,000 Jews about 150 were admitted to the camp, the remainder was chased away, without their luggage. The luggage remained in the carriages. Some time later, all the belongings of these Viennese Jews were brought to the camp, the luggage was opened by the SS, the luggage also contained women's belongings since it had been intimated, just as in Ostrava, that transports of women would also be dispatched. From that luggage the Germans took for themselves whatever they wanted.
 
-With this transport our wives in Moravska Ostrava sent us camp-beds and mattresses, as ordered by the Gestapo. A very small number of these beds were placed at our disposal, the rest was requisitioned by the Germans. In order to help those who were not admitted to the camp we endeavoured to establish a support base or a receiving station and urged camp commander Post to permit the erection of an epidemic clinic in the nearby locality. When we received his consent we established a receiving station for all these old Jews; there arrived another transport of 1,000 Jews from Vienna, very old Jews.
+With this transport our wives in Moravska Ostrava sent us camp-beds and mattresses, as ordered by the [[ORGANIZATION:org_344|Gestapo]]. A very small number of these beds were placed at our disposal, the rest was requisitioned by the Germans. In order to help those who were not admitted to the camp we endeavoured to establish a support base or a receiving station and urged camp commander Post to permit the erection of an epidemic clinic in the nearby locality. When we received his consent we established a receiving station for all these old Jews; there arrived another transport of 1,000 Jews from [[LOCATION:location_3|Vienna]], very old Jews.
 
-Then came a transport from Moravska Ostrava, some of them were homeless, stateless, had been imprisoned in Spielberg prison, in the Brno casemates, and some old Ostrava Jews who had tried to escape from Ostrava to Prague.
+Then came a transport from Moravska Ostrava, some of them were homeless, stateless, had been imprisoned in Spielberg prison, in the [[LOCATION:location_143|Brno]] casemates, and some old Ostrava Jews who had tried to escape from Ostrava to [[LOCATION:location_4|Prague]].
 
 **Q.**How low did the temperature fall in the camp at this time?
 
@@ -179,13 +179,13 @@ Then came a transport from Moravska Ostrava, some of them were homeless, statele
 
 **A.**Yes.
 
-**Q.**Were Jews of Czechoslovakia sent there?
+**Q.**Were Jews of [[LOCATION:location_15|Czechoslovakia]] sent there?
 
-**A.**From Czechoslovakia, and stateless people?
+**A.**From [[LOCATION:location_15|Czechoslovakia]], and stateless people?
 
 **Q.**Did you hear anything about the release of Jews from the camp of Sosnowiec?
 
-**A.**Yes we received information to the effect that the entire camp of Sosnowiec had been transferred to Slovakia and that some of the people emigrated illegally from there to Palestine.
+**A.**Yes we received information to the effect that the entire camp of Sosnowiec had been transferred to [[LOCATION:location_84|Slovakia]] and that some of the people emigrated illegally from there to [[LOCATION:location_57|Palestine]].
 
 **Q.**When you heard about that, what did you, the members of the leadership of Nisko do?
 
@@ -193,11 +193,11 @@ Then came a transport from Moravska Ostrava, some of them were homeless, statele
 
 **Q.**Whom did you want to see?
 
-**A.**The Reichsprotektor of Poland.
+**A.**The Reichsprotektor of [[LOCATION:location_5|Poland]].
 
 **Q.**His name?
 
-**A.**Frank. We got the permission. At the same time a delegation of the Jewish community of Ostrava arrived in Cracow in order to submit a joint petition to Frank for permission for transfer of the camp. Like the Sosnowiec camp, to Slovakia.
+**A.**Frank. We got the permission. At the same time a delegation of the Jewish community of Ostrava arrived in Cracow in order to submit a joint petition to Frank for permission for transfer of the camp. Like the Sosnowiec camp, to [[LOCATION:location_84|Slovakia]].
 
 **Q.**What was the result of the delegation to Frank?
 
@@ -217,25 +217,25 @@ Then came a transport from Moravska Ostrava, some of them were homeless, statele
 
 **Q.**What became of the others?
 
-**A.**The others were also chased out of the camp when there was second "Selektion" and before the camp was surrounded by a barbed wire fence, some of them tried to escape to Russia. The border was about 28-30 kilometres away, the new border of occupied Poland.
+**A.**The others were also chased out of the camp when there was second "Selektion" and before the camp was surrounded by a barbed wire fence, some of them tried to escape to [[LOCATION:location_10|Russia]]. The border was about 28-30 kilometres away, the new border of occupied [[LOCATION:location_5|Poland]].
 
 **Q.**How long did you remain in Moravska Ostrava?
 
-**Presiding Judge:** Pardon me, I did not understand that reply. 300 people returned but 1,000 had gone there, so what happened to the remaining 700? Did all of them cross the border into Russia? Or else, why did you mention this? What became of those 700? Did all of them come back?
+**Presiding Judge:** Pardon me, I did not understand that reply. 300 people returned but 1,000 had gone there, so what happened to the remaining 700? Did all of them cross the border into [[LOCATION:location_10|Russia]]? Or else, why did you mention this? What became of those 700? Did all of them come back?
 
-**Witness Burger:** They crossed the new border between Poland and Russia. The Germans caught some of them again in Lemberg at the beginning of the German-Russian war. Part of them were deported to Siberia by the Russians. A small number returned to Czechoslovakia in 1945, with the Czechoslovakia Brigade of the Russian army of liberation.
+**Witness Burger:** They crossed the new border between [[LOCATION:location_5|Poland]] and [[LOCATION:location_10|Russia]]. The Germans caught some of them again in Lemberg at the beginning of the German-Russian war. Part of them were deported to Siberia by the Russians. A small number returned to [[LOCATION:location_15|Czechoslovakia]] in 1945, with the [[LOCATION:location_15|Czechoslovakia]] Brigade of the Russian army of liberation.
 
 **State Attorney Bar-Or:** Until what year did you stay in Moravska Ostrava?
 
 **Witness Burger:** Until September 1942.
 
-**Q.**Then you were transferred to Theresienstadt?
+**Q.**Then you were transferred to [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**I was deported to Theresienstadt.
+**A.**I was deported to [[LOCATION:location_124|Theresienstadt]].
 
-**Q.**Did you remain in Theresienstadt until the end of the War?
+**Q.**Did you remain in [[LOCATION:location_124|Theresienstadt]] until the end of the War?
 
-**A.**No, in October 1944 I was deported to Auschwitz, together with my wife.
+**A.**No, in October 1944 I was deported to [[LOCATION:location_286|Auschwitz]], together with my wife.
 
 **Presiding Judge:** Dr. Servatius, do you wish to question the witness?
 
@@ -252,7 +252,7 @@ Then came a transport from Moravska Ostrava, some of them were homeless, statele
 **A.**No reason was given.
 ---
 
-The Trial of Adolf Eichmann Sessions 19 (Part 5 of 5)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 19 (Part 5 of 5)
 
 ---
 
@@ -262,7 +262,7 @@ The Trial of Adolf Eichmann Sessions 19 (Part 5 of 5)
 
 **Q.**In Nisko. That they had no knowledge of a so-called new homeland for the Jews to be established there, that it was contrary to proper administration in every sense.
 
-**A.**I can only describe my personal impression. We got the impression that in Cracow - that in Cracow they knew nothing at all about a camp having been established in Nisko, that they had learned about the establishment of the camp - of the existence of the camp when Professor Eisler received his visa to Sweden in February 1940 and was released from the camp by order from Berlin. I cannot state this as a fact, but this was the impression we had.
+**A.**I can only describe my personal impression. We got the impression that in Cracow - that in Cracow they knew nothing at all about a camp having been established in Nisko, that they had learned about the establishment of the camp - of the existence of the camp when Professor Eisler received his visa to [[LOCATION:location_144|Sweden]] in February 1940 and was released from the camp by order from [[LOCATION:location_1|Berlin]]. I cannot state this as a fact, but this was the impression we had.
 
 **Q.**I have no further questions to the witness.
 
@@ -274,21 +274,21 @@ The Trial of Adolf Eichmann Sessions 19 (Part 5 of 5)
 
 **A.**The families stayed in Moravska Ostrava. But originally the women, too, were supposed to follow a fortnight later.
 
-**Q.**To Theresienstadt, with the families?
+**Q.**To [[LOCATION:location_124|Theresienstadt]], with the families?
 
 **A.**With the families.
 
-**Q.**And to Auschwitz too?
+**Q.**And to [[LOCATION:location_286|Auschwitz]] too?
 
-**A.**To Auschwitz, it was the same with my wife. She was the only one of the family who remained. All the others had been sent with the transports from Theresienstadt.
+**A.**To [[LOCATION:location_286|Auschwitz]], it was the same with my wife. She was the only one of the family who remained. All the others had been sent with the transports from [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**I don't understand. Your wife, was she the only one to survive or was she the only woman, the only one of the family who survived?
 
 **A.**The only one of the family who survived.
 
-**Q.**Did your wife survive Auschwitz?
+**Q.**Did your wife survive [[LOCATION:location_286|Auschwitz]]?
 
-**A.**From Auschwitz my wife was deported to Mauthausen and remained alive.
+**A.**From [[LOCATION:location_286|Auschwitz]] my wife was deported to Mauthausen and remained alive.
 
 **Judge Raveh:** When you left the camp, was it entirely empty or did people remain there?
 
@@ -320,17 +320,17 @@ The Trial of Adolf Eichmann Sessions 19 (Part 5 of 5)
 
 **Presiding Judge:** Thank you, you have finished your testimony.
 
-**Attorney General:** By leave of the Court, pursuant to my statement of yesterday that the proposal submitted by Counsel for the Defence to send an Israeli judge abroad for the purpose of hearing evidence - that this is connected with considerations of policy and security, I am authorized to inform the Court that in our opinion the existing conventions for granting and receiving legal aid in criminal cases are in accordance with law and practice and there is no need for special arrangements in that respect. The Government does not see that it is necessary or possible to ask foreign states for permission to be granted to an Israel judge to enter their territory and hear evidence given under oath by witnesses in matters bearing on this case.
+**Attorney General:** By leave of the Court, pursuant to my statement of yesterday that the proposal submitted by Counsel for the Defence to send an Israeli judge abroad for the purpose of hearing evidence - that this is connected with considerations of policy and security, I am authorized to inform the Court that in our opinion the existing conventions for granting and receiving legal aid in criminal cases are in accordance with law and practice and there is no need for special arrangements in that respect. The Government does not see that it is necessary or possible to ask foreign states for permission to be granted to an [[LOCATION:location_38|Israel]] judge to enter their territory and hear evidence given under oath by witnesses in matters bearing on this case.
 
 **Presiding Judge:** You maintain that regulations now in force based on law and practice are adequate for this purpose.
 
-**Attorney General:** I state again that my proposal submitted by the defence to invite a witness to give evidence in Jerusalem will be considered on its merits, depending of the circumstances. I also wish to stress again that whenever Counsel for the Defence submits a request for a witness whose testimony is relevant to matters in issue here and who does not wish or cannot come to Israel, I shall consent to such witness giving testimony by sworn affidavit or before a judge, in his country of residence. For this purpose the Government will apply existing arrangements with foreign countries.
+**Attorney General:** I state again that my proposal submitted by the defence to invite a witness to give evidence in [[LOCATION:location_44|Jerusalem]] will be considered on its merits, depending of the circumstances. I also wish to stress again that whenever Counsel for the Defence submits a request for a witness whose testimony is relevant to matters in issue here and who does not wish or cannot come to [[LOCATION:location_38|Israel]], I shall consent to such witness giving testimony by sworn affidavit or before a judge, in his country of residence. For this purpose the Government will apply existing arrangements with foreign countries.
 
-As for sworn declarations which we requested to submit, I ask leave to add a few words. In view of the decision of the Court to act in the light of the practice obtaining at the Nuremberg Trials.
+As for sworn declarations which we requested to submit, I ask leave to add a few words. In view of the decision of the Court to act in the light of the practice obtaining at the [[LOCATION:location_39|Nuremberg]] Trials.
 
 **Presiding Judge:** What are you referring to?
 
-**Attorney General:** I refer to the decision of the Court declaring its readiness to deviate from the rules of evidence in whenever the evidence requested is relative and has probative force. Following this decisive principle, I request the Court to act in line with the procedures of the Nuremberg Military Tribunal and also to the American Military Courts. In Vol. 15 of the Green Series, p. 746 the Court will see that affidavits were submitted and that moreover this practice considerably shortened the proceedings. It was there said that if affidavits had been inadmissible, the Tribunals would have been denied the statements under oath of many important witnesses to the facts.
+**Attorney General:** I refer to the decision of the Court declaring its readiness to deviate from the rules of evidence in whenever the evidence requested is relative and has probative force. Following this decisive principle, I request the Court to act in line with the procedures of the [[LOCATION:location_39|Nuremberg]] Military Tribunal and also to the American Military Courts. In Vol. 15 of the Green Series, p. 746 the Court will see that affidavits were submitted and that moreover this practice considerably shortened the proceedings. It was there said that if affidavits had been inadmissible, the Tribunals would have been denied the statements under oath of many important witnesses to the facts.
 
 **Presiding Judge:** This is a summary of the editor, is it not?
 
@@ -361,7 +361,7 @@ The same is stated on page 764 regarding Pfaffenberger, i.e. cross-examination d
 
 To sum up, I request that the affidavits be admitted as evidence. Should the Court conclude at any stage that it cannot rely on the affidavits, the matter can be reconsidered. It is also possible, as stated by the President of the International Military Tribunal in the same passage on page 747...
 
-**Presiding Judge:** I beg your pardon, Mr. Hausner. What you have just said is not the practice here. If testimony or evidence has once been accepted, then it is accepted. Are you relying on anything relating to this matter which happened at Nuremberg?
+**Presiding Judge:** I beg your pardon, Mr. Hausner. What you have just said is not the practice here. If testimony or evidence has once been accepted, then it is accepted. Are you relying on anything relating to this matter which happened at [[LOCATION:location_39|Nuremberg]]?
 
 **Attorney General:** Of course. I cite again the passage quoting the President of the International Military Tribunal, on page 747:
 
@@ -388,19 +388,19 @@ At the end of the same passage the President of the International Military Court
 
 Therefore I repeat my application to admit the affidavits
 
-**Judge Raveh:** Have you ascertained that also as regards Austria the same procedure is available?
+**Judge Raveh:** Have you ascertained that also as regards [[LOCATION:location_14|Austria]] the same procedure is available?
 
 **Attorney General:** As I have already stated, Your Honour, we have no experience with criminal matters, but from all the information at our disposal, there will be no difficulty in obtaining legal aid from the Austrian Government in the same manner as it is given by us.
 
 **Presiding Judge:** Dr. Servatius, do you wish to add anything?
 
-**Dr. Servatius:** The Nuremberg arrangements were merely measures of expediency in order to avoid protracted proceedings. Most of the witnesses were imprisoned in four different zones; in arranging for their appearance much time would have been lost. This becomes obvious from the fact questionnaires were drawn up and presented to the witnesses who were in prison. It seemed to be an adequate arrangement, provided there were no special grounds to the contrary. In my opinion here there is no such case of emergency and I am convinced that the Court wishes to examine requests with great care and is prepared to do so.
+**Dr. Servatius:** The [[LOCATION:location_39|Nuremberg]] arrangements were merely measures of expediency in order to avoid protracted proceedings. Most of the witnesses were imprisoned in four different zones; in arranging for their appearance much time would have been lost. This becomes obvious from the fact questionnaires were drawn up and presented to the witnesses who were in prison. It seemed to be an adequate arrangement, provided there were no special grounds to the contrary. In my opinion here there is no such case of emergency and I am convinced that the Court wishes to examine requests with great care and is prepared to do so.
 
 I think that judging from what was initially stated by the Attorney General, the matter will not arise in fact, since he has declared his readiness to consider any request when submitted. I do not want a decision in theory, but a decision in every instance. I would request a clarification of one word which he used. He said: "If a witness does not want to appear or is unable to do so". What does his "being able" mean - that he is not permitted to appear and therefore unable to come, or that he is sick or cannot come. On that I would like to have an explanation.
 
 **Presiding Judge:** [to the Attorney General] Are you ready to add anything on this question?
 
-**Attorney General:** Certainly. I shall put it this way: If the witness can by his evidence assist the Court in its final judgment, that it to say if his evidence is relevant, and because for any reason - whether he will not obtain a visa for entering Israel, or because he apprehends that if he should come he will be put on trial, the witness is unable to come or does not wish to come, or even if his inability is due to frailty or old age or he is unable to travel for any reason, then we shall be ready to put in motion arrangements which I mentioned, provided that the evidence has relevancy.
+**Attorney General:** Certainly. I shall put it this way: If the witness can by his evidence assist the Court in its final judgment, that it to say if his evidence is relevant, and because for any reason - whether he will not obtain a visa for entering [[LOCATION:location_38|Israel]], or because he apprehends that if he should come he will be put on trial, the witness is unable to come or does not wish to come, or even if his inability is due to frailty or old age or he is unable to travel for any reason, then we shall be ready to put in motion arrangements which I mentioned, provided that the evidence has relevancy.
 
 **Dr. Servatius:** I have been given to understand that in the first place it depends on the desire of the witnesses if they are unable to come, whether they are ill, or they are not granted a visa.
 
@@ -410,7 +410,7 @@ I think that judging from what was initially stated by the Attorney General, the
 
 **Presiding Judge:** I understand that the arguments on this issue have now been concluded. As I have already announced, we shall give our decision on the matter tomorrow morning.
 
-**State Attorney Bar-Or:** If possible I would like to draw the attention of the Court, after the evidence we have just heard, to a certain passage in the evidence of Wisliceny, which has been admitted in the meantime and marked T/85. This is the report of Wisliceny written in cell 106, in Bratislava. On page 3 of the transcript of T/85 as submitted there are the following sentences: "Eichmann who had shortly before entered on his duties in Berlin, conceived the plan to deport the Jews from the territory of the Reich, from the Protectorate and Austria also to Poland, on the assumption that the Polish territories would sooner or later assume the status of independant statehood. To this end he hastily organised a transit camp in Nisko near the river San and began deporting Jews there from Vienna, Brno and Moravska Ostrava."
+**State Attorney Bar-Or:** If possible I would like to draw the attention of the Court, after the evidence we have just heard, to a certain passage in the evidence of Wisliceny, which has been admitted in the meantime and marked T/85. This is the report of Wisliceny written in cell 106, in [[LOCATION:location_73|Bratislava]]. On page 3 of the transcript of T/85 as submitted there are the following sentences: "Eichmann who had shortly before entered on his duties in [[LOCATION:location_1|Berlin]], conceived the plan to deport the Jews from the territory of the Reich, from the Protectorate and [[LOCATION:location_14|Austria]] also to [[LOCATION:location_5|Poland]], on the assumption that the Polish territories would sooner or later assume the status of independant statehood. To this end he hastily organised a transit camp in Nisko near the river San and began deporting Jews there from [[LOCATION:location_3|Vienna]], [[LOCATION:location_143|Brno]] and Moravska Ostrava."
 
 **Presiding Judge:** If I am not mistaken, the Accused himself mentioned the Nisko camp in his statement.
 
@@ -418,7 +418,7 @@ I think that judging from what was initially stated by the Attorney General, the
 
 **Presiding Judge:** Are we again to hear the testimony of a witness?
 
-**State Attorney Bar-Or:** Before concluding this subject, I have to submit a number of documents bearing on the Protectorate of Bohemia-Moravia and one more witness on the matters of Nisko and Lublin. I suppose that tomorrow, within an hour and a half, all this can be concluded.
+**State Attorney Bar-Or:** Before concluding this subject, I have to submit a number of documents bearing on the Protectorate of [[LOCATION:location_88|Bohemia]]-[[LOCATION:location_89|Moravia]] and one more witness on the matters of Nisko and [[LOCATION:location_35|Lublin]]. I suppose that tomorrow, within an hour and a half, all this can be concluded.
 
 **Presiding Judge:** And afterwards?
 

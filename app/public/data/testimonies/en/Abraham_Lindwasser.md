@@ -1,4 +1,4 @@
-# Testimony of Abraham Lindwasser
+# Testimony of [[PERSON:witness_17|Abraham Lindwasser]]
 
 **Session:** 66
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-Witness: Avraham Lindwasser.
+Witness: [[PERSON:person_698|Avraham Lindwasser]].
 
 **Q.**How old are you now?
 
@@ -20,7 +20,7 @@ Witness: Avraham Lindwasser.
 
 **A.**Yes.
 
-**Q.**On 28 August 1942, you arrived at Treblinka from Warsaw?
+**Q.**On 28 August 1942, you arrived at [[LOCATION:location_173|Treblinka]] from [[LOCATION:location_93|Warsaw]]?
 
 **A.**Correct.
 
@@ -66,7 +66,7 @@ Witness: Avraham Lindwasser.
 
 **Q.**What is it?
 
-**A.**That is the Treblinka camp.
+**A.**That is the [[LOCATION:location_173|Treblinka]] camp.
 
 **Q.**Can you show the Court where, on the photograph, that incident occurred where that man approached you and asked you whether you knew how to distinguish between gold and silver?
 
@@ -80,21 +80,21 @@ Witness: Avraham Lindwasser.
 
 When you came there, did you know what was the place you had arrived at?
 
-**A.**No. I knew it was Treblinka, but we did not know the purpose.
+**A.**No. I knew it was [[LOCATION:location_173|Treblinka]], but we did not know the purpose.
 
-**Q.**Had you heard about Treblinka in Warsaw?
+**Q.**Had you heard about [[LOCATION:location_173|Treblinka]] in [[LOCATION:location_93|Warsaw]]?
 
-**A.**We had heard about Treblinka.
+**A.**We had heard about [[LOCATION:location_173|Treblinka]].
 
-**Q.**Did you know that Jews were being exterminated at Treblinka?
+**Q.**Did you know that Jews were being exterminated at [[LOCATION:location_173|Treblinka]]?
 
 **A.**We did not believe it.
 
 **Q.**You did not believe it. Why?
 
-**A.**Why? This would, perhaps, be difficult to answer. Possibly, it is an individual matter for each person. One simply could not grasp that such a thing was possible - actual extermination. Rumours reached Warsaw that the Germans were sending people out to work. And simply, it was better to cling to this idea.
+**A.**Why? This would, perhaps, be difficult to answer. Possibly, it is an individual matter for each person. One simply could not grasp that such a thing was possible - actual extermination. Rumours reached [[LOCATION:location_93|Warsaw]] that the Germans were sending people out to work. And simply, it was better to cling to this idea.
 
-**Presiding Judge:** What is the distance between Warsaw and Treblinka, approximately?
+**Presiding Judge:** What is the distance between [[LOCATION:location_93|Warsaw]] and [[LOCATION:location_173|Treblinka]], approximately?
 
 **Witness Lindwasser:** About sixty kilometres.
 
@@ -102,7 +102,7 @@ When you came there, did you know what was the place you had arrived at?
 
 **Witness Lindwasser:** Yes, after I was brought into the death camp.
 
-**Q.**Was that Treblinka 1 or 2?
+**Q.**Was that [[LOCATION:location_173|Treblinka]] 1 or 2?
 
 **A.**It was 2.
 
@@ -138,7 +138,7 @@ When you came there, did you know what was the place you had arrived at?
 
 **A.**Yes.
 
-**Q.**And you were doing this work until the outbreak of the revolt in Treblinka?
+**Q.**And you were doing this work until the outbreak of the revolt in [[LOCATION:location_173|Treblinka]]?
 
 **A.**Not exactly. I was occupied in this work for approximately one month, a month and a half, perhaps less, perhaps more, until once I recognized my sister's body.
 
@@ -170,13 +170,13 @@ When you came there, did you know what was the place you had arrived at?
 
 **Witness Lindwasser:** Yes.
 
-**Q.**How much gold from teeth was sent out of Treblinka each week?
+**Q.**How much gold from teeth was sent out of [[LOCATION:location_173|Treblinka]] each week?
 
 **A.**Each week two suitcases were sent off, each of them containing about eight to ten kilograms.
 
 **Q.**Where were they sent to?
 
-**A.**They were delivered again to this Matthias, who was the chief of our camp - in fact, the chief of our barracks, of the building where we lived - and he told us that they were dispatching them to Berlin.
+**A.**They were delivered again to this Matthias, who was the chief of our camp - in fact, the chief of our barracks, of the building where we lived - and he told us that they were dispatching them to [[LOCATION:location_1|Berlin]].
 
 **Q.**Were they gold teeth only?
 
@@ -232,7 +232,7 @@ We passed by the large chambers and, on the way back, I saw a big curtain at the
 
 **Witness Lindwasser:** It was a curtain for the Ark - whether it was precisely from a synagogue, I do not know. But it was of quite large dimensions - it measured three by four metres, something like that.
 
-**Attorney General:** Was there normally contact between you and Treblinka 1?
+**Attorney General:** Was there normally contact between you and [[LOCATION:location_173|Treblinka]] 1?
 
 **A.**Not normally.
 ---

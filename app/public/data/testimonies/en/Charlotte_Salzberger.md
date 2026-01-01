@@ -1,4 +1,4 @@
-# Testimony of Charlotte Salzberger
+# Testimony of [[PERSON:witness_22|Charlotte Salzberger]]
 
 **Session:** 42
 
@@ -6,11 +6,11 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Charlotte Salzberger nee Wreschner.
+**Witness:** [[PERSON:witness_22|Charlotte Salzberger]] nee Wreschner.
 
 **Presiding Judge:** Please answer Mr. Bar-Or's questions.
 
-**State Attorney Bar-Or:** You were born in 1923 in Frankfurt, Germany?
+**State Attorney Bar-Or:** You were born in 1923 in [[LOCATION:location_98|Frankfurt]], [[LOCATION:location_2|Germany]]?
 
 **Witness Salzberger:** Yes.
 
@@ -38,7 +38,7 @@
 
 **A.**There was a law that every person having at least two Jewish grandparents had to say so and thus to identify himself as Jewish.
 
-**Q.**Mrs. Salzberger, I asked you to bring with you an album in which you collected the documents from the time of the Holocaust which you preserved. Kindly look whether there is a Jewish registration form which you were given in Holland.
+**Q.**Mrs. Salzberger, I asked you to bring with you an album in which you collected the documents from the time of the [[EVENT:event_386|Holocaust]] which you preserved. Kindly look whether there is a Jewish registration form which you were given in Holland.
 
 **A.**I have the form.
 
@@ -94,15 +94,15 @@
 
 **Q.**Were you not afraid?
 
-**A.**There were actually three attitudes towards all these events concerning the Jews. Some people - and at that time the orders were actually sent to young persons only, and they were ostensibly for work, for work camps. Many of our schoolmates - we were secondary school pupils at that time - obeyed the order quite naturally. They believed that this was work, they regarded it even as halutziut (pioneering) which they would not shirk and use all kinds of manipulations, in order to be exempted or to postpone the deportation. They did not regard this as something so very bad. Then there was another extreme reaction, which was rooted in the deepest pessimism, in the belief that this was indeed a sentence of death. These people either tried to cross the Dutch border and reach Switzerland or some other neutral country, or they found shelter with Christian families, renounced their identity, disappeared, and cut off all connections with the real world. And then there was a third approach - this was ours perhaps - to try and defer this expulsion, at least temporarily. This approach stemmed from the hope that perhaps the War would end abroad, and that one would somehow be rescued. My own family began already in 1941, through relatives in America as well as in some neutral countries, to try and obtain a foreign nationality.
+**A.**There were actually three attitudes towards all these events concerning the Jews. Some people - and at that time the orders were actually sent to young persons only, and they were ostensibly for work, for work camps. Many of our schoolmates - we were secondary school pupils at that time - obeyed the order quite naturally. They believed that this was work, they regarded it even as halutziut (pioneering) which they would not shirk and use all kinds of manipulations, in order to be exempted or to postpone the deportation. They did not regard this as something so very bad. Then there was another extreme reaction, which was rooted in the deepest pessimism, in the belief that this was indeed a sentence of death. These people either tried to cross the Dutch border and reach [[LOCATION:location_53|Switzerland]] or some other neutral country, or they found shelter with Christian families, renounced their identity, disappeared, and cut off all connections with the real world. And then there was a third approach - this was ours perhaps - to try and defer this expulsion, at least temporarily. This approach stemmed from the hope that perhaps the War would end abroad, and that one would somehow be rescued. My own family began already in 1941, through relatives in America as well as in some neutral countries, to try and obtain a foreign nationality.
 
 **Q.**What was your nationality in 1941?
 
-**A.**We were what is called "stateless"; we were German nationals who had lost their citizenship; we were residents of the Netherlands, but not citizens.
+**A.**We were what is called "stateless"; we were German nationals who had lost their citizenship; we were residents of the [[LOCATION:location_23|Netherlands]], but not citizens.
 
 **Q.**You obtained Ecuadorian citizenship in the end?
 
-**A.**Yes. We received passports from Ecuador.
+**A.**Yes. We received passports from [[LOCATION:location_216|Ecuador]].
 
 **Q.**Perhaps you can also find the passport, Number 50, in the name of Charlotte Sidonie Wreschner. Perhaps you can identify these photographs.
 
@@ -112,17 +112,17 @@
 
 **State Attorney Bar-Or:** Mrs. Salzberger, I also see a Swedish visa in this passport.
 
-**Witness Salzberger:** As shown in the passport, it was issued in Stockholm in January 1942. We received it only at the end of 1942, I believe in October.
+**Witness Salzberger:** As shown in the passport, it was issued in [[LOCATION:location_220|Stockholm]] in January 1942. We received it only at the end of 1942, I believe in October.
 
 **Q.**Through whom?
 
-**A.**Through Berlin, it was apparently held up in Berlin, in the Foreign Ministry in Berlin.
+**A.**Through [[LOCATION:location_1|Berlin]], it was apparently held up in [[LOCATION:location_1|Berlin]], in the Foreign Ministry in [[LOCATION:location_1|Berlin]].
 
 **Q.**And who delivered it to you in Holland, or where was it handed to you in Holland?
 
-**A.**Through the Consulate of Ecuador in the Netherlands. The passport was issued in Stockholm, and we received it with a valid entry visa to Sweden for all the members of my family. But there was no mention at all of exit from Holland. There was no possibility of getting an exit permit from the Germans, except temporarily. We were given what was called "Zurueckstellung" (deferment) of transport - temporary postponement of inclusion in a transport, so that we held out in Amsterdam until the summer of 1943.
+**A.**Through the Consulate of [[LOCATION:location_216|Ecuador]] in the [[LOCATION:location_23|Netherlands]]. The passport was issued in [[LOCATION:location_220|Stockholm]], and we received it with a valid entry visa to [[LOCATION:location_144|Sweden]] for all the members of my family. But there was no mention at all of exit from Holland. There was no possibility of getting an exit permit from the Germans, except temporarily. We were given what was called "Zurueckstellung" (deferment) of transport - temporary postponement of inclusion in a transport, so that we held out in [[LOCATION:location_60|Amsterdam]] until the summer of 1943.
 
-**Q.**I see here the copy of a letter from the Consulate General of Ecuador in Stockholm dated 16 June 1943, which was apparently sent to your mother in Amsterdam. Do you have this letter?
+**Q.**I see here the copy of a letter from the Consulate General of [[LOCATION:location_216|Ecuador]] in [[LOCATION:location_220|Stockholm]] dated 16 June 1943, which was apparently sent to your mother in [[LOCATION:location_60|Amsterdam]]. Do you have this letter?
 
 **A.**Yes.
 
@@ -132,11 +132,11 @@
 
 **Q.**What does it mean?
 
-**A.**In this Ecuadorian passport there was one black spot, and that was the term "apatrida." If you look at the passport, you see that there is a heading on nationality and there it says: "apatrida" - that meant "stateless." We asked the Ecuadorian Consulate in Stockholm for an explanation of the meaning of this term, and whether it meant that we were protected or not protected. We received this letter, which actually affirmed that we were indeed protected.
+**A.**In this Ecuadorian passport there was one black spot, and that was the term "apatrida." If you look at the passport, you see that there is a heading on nationality and there it says: "apatrida" - that meant "stateless." We asked the Ecuadorian Consulate in [[LOCATION:location_220|Stockholm]] for an explanation of the meaning of this term, and whether it meant that we were protected or not protected. We received this letter, which actually affirmed that we were indeed protected.
 
 [The exhibit was marked T/698.]
 
-**Q.**I now pass on to the letter dated 20 October 1943, from the Palestine Office in Geneva to your mother, in which the Palestine Office informed her that a Veteran Certificate bearing a certain number had been issued to her. Can you find this document?
+**Q.**I now pass on to the letter dated 20 October 1943, from the [[LOCATION:location_57|Palestine]] Office in [[LOCATION:location_52|Geneva]] to your mother, in which the [[LOCATION:location_57|Palestine]] Office informed her that a Veteran Certificate bearing a certain number had been issued to her. Can you find this document?
 
 **A.**Yes.
 
@@ -146,23 +146,23 @@
 
 **Presiding Judge:** This will be T/699.
 
-**State Attorney Bar-Or:** This confirmation from Geneva was sent to your mother; it says here: c/o Jewish Council. Did you really receive it through the Jewish Council?
+**State Attorney Bar-Or:** This confirmation from [[LOCATION:location_52|Geneva]] was sent to your mother; it says here: c/o Jewish Council. Did you really receive it through the Jewish Council?
 
 **Witness Salzberger:** Yes.
 
-**Q.**In Amsterdam?
+**Q.**In [[LOCATION:location_60|Amsterdam]]?
 
 **A.**Yes.
 
-**Q.**Does this mean that you tried in two directions, both to Ecuador and to Palestine?
+**Q.**Does this mean that you tried in two directions, both to [[LOCATION:location_216|Ecuador]] and to [[LOCATION:location_57|Palestine]]?
 
 **A.**In all directions.
 
 **Q.**What was your specific hope when you made these applications? What was the use of this letter which you have just shown?
 
-**A.**At that time the Germans let it be known that there was a possibility not to be sent to the camps, which were already known then as extermination camps, the worst camps such as Auschwitz, but to be collected in an exchange camp (Austauschlager), if the Jew concerned had a Certificate.
+**A.**At that time the Germans let it be known that there was a possibility not to be sent to the camps, which were already known then as extermination camps, the worst camps such as [[LOCATION:location_286|Auschwitz]], but to be collected in an exchange camp (Austauschlager), if the Jew concerned had a Certificate.
 
-**Q.**If he could prove that he could enter Palestine?
+**Q.**If he could prove that he could enter [[LOCATION:location_57|Palestine]]?
 
 **A.**Yes.
 
@@ -170,7 +170,7 @@
 
 **A.**We did not ask for these Certificates. We received them through friends of the family abroad.
 
-**Q.**In the end you were transferred to Westerbork Camp?
+**Q.**In the end you were transferred to [[LOCATION:location_214|Westerbork]] Camp?
 
 **A.**Yes.
 
@@ -178,7 +178,7 @@
 
 **A.**My mother, my sister and I were transferred in October 1943, and my brother, his wife and his three small children in July 1943.
 
-**Q.**I see here a work card from Westerbork Camp in the name of Margerete Wreschner. This is a work card in the name of your sister, is it not?
+**Q.**I see here a work card from [[LOCATION:location_214|Westerbork]] Camp in the name of Margerete Wreschner. This is a work card in the name of your sister, is it not?
 
 **A.**Yes.
 
@@ -200,11 +200,11 @@
 
 **A.**16 and 17, something like that.
 
-**Q.**You remained in Westerbork Camp until...?
+**Q.**You remained in [[LOCATION:location_214|Westerbork]] Camp until...?
 
 **A.**Until January 1944.
 
-**Q.**In that month you were transferred to Ravensbrueck in Germany?
+**Q.**In that month you were transferred to Ravensbrueck in [[LOCATION:location_2|Germany]]?
 
 **A.**Yes.
 
@@ -222,30 +222,30 @@
 
 **Q.**Who were "they" who presented it thus?
 
-**A.**The Germans, the SS in Westerbork Camp.
+**A.**The Germans, the SS in [[LOCATION:location_214|Westerbork]] Camp.
 
 **Q.**They described the conditions, the possibilities connected with the transfer? What did they describe?
 
-**A.**They informed us definitely that we would leave Westerbork and they would take us to a better camp, from which there would be a possibility of exchange to a neutral country.
+**A.**They informed us definitely that we would leave [[LOCATION:location_214|Westerbork]] and they would take us to a better camp, from which there would be a possibility of exchange to a neutral country.
 
 **Q.**You were moved to Ravensbrueck in that month, you, your sister and your mother, were you not?
 
-**A.**Yes. Here I should like to point out that, after we received the order for the train which was to take us to Ravensbrueck, we were in high spirits. We thought that this really was the first step towards release to a neutral country. There were Jews who had documents, foreign documents, who had not been in Westerbork, but were still living in freedom, and who volunteered to join that transport; they really came, with their suitcases, and boarded the transport.
+**A.**Yes. Here I should like to point out that, after we received the order for the train which was to take us to Ravensbrueck, we were in high spirits. We thought that this really was the first step towards release to a neutral country. There were Jews who had documents, foreign documents, who had not been in [[LOCATION:location_214|Westerbork]], but were still living in freedom, and who volunteered to join that transport; they really came, with their suitcases, and boarded the transport.
 
-**Judge Halevi:** Where were they in freedom, in Amsterdam?
+**Judge Halevi:** Where were they in freedom, in [[LOCATION:location_60|Amsterdam]]?
 
-**Witness Salzberger:** In Amsterdam, in Holland, living in normal conditions.
+**Witness Salzberger:** In [[LOCATION:location_60|Amsterdam]], in Holland, living in normal conditions.
 
-**State Attorney Bar-Or:** Were there more people who were sent with you from Westerbork to Ravensbrueck?
+**State Attorney Bar-Or:** Were there more people who were sent with you from [[LOCATION:location_214|Westerbork]] to Ravensbrueck?
 
-**Witness Salzberger:** The transport consisted of sixty women and children and was taken to Ravensbrueck Camp in Mecklenburg, near Berlin.
+**Witness Salzberger:** The transport consisted of sixty women and children and was taken to [[LOCATION:location_240|Ravensbrueck Camp]] in [[LOCATION:location_229|Mecklenburg]], near [[LOCATION:location_1|Berlin]].
 ---
 
 **Q.**When you arrived, were your possessions taken away?
 
 **A.**Yes.
 
-**Q.**Do you have a receipt from Ravensbrueck Camp for certain items handed over?
+**Q.**Do you have a receipt from [[LOCATION:location_240|Ravensbrueck Camp]] for certain items handed over?
 
 **A.**Yes.
 
@@ -267,11 +267,11 @@
 
 **A.**Most of the time, but not during the last few months.
 
-**Q.**Mrs. Salzberger, please describe to the Court the living conditions, the work conditions, and everything connected with this, in Ravensbrueck Camp; whom did you see there, who was together with you, the types of prisoners, if you can remember, etc.
+**Q.**Mrs. Salzberger, please describe to the Court the living conditions, the work conditions, and everything connected with this, in [[LOCATION:location_240|Ravensbrueck Camp]]; whom did you see there, who was together with you, the types of prisoners, if you can remember, etc.
 
-**A.**The Women's Concentration Camp Ravensbrueck was a concentration camp along the lines of the classic German model. It was actually called "Schwesterlager" (sister camp) of Buchenwald and Dachau and had been in existence since the early thirties. When we arrived, there were 60,000 women, and no Jews at all. The population consisted of completely different and strange groups. There was a very large contingent of "politicals," women who had been active in the various underground movements in the occupied countries, and also in Germany. There were well-known women bearing famous names, such as Jeanette (Genevieve) de Gaulle; there was Odette Churchill, there was the sister of the then mayor of New York, LaGuardia, and other very well- known women in the various underground movements.
+**A.**The Women's Concentration Camp Ravensbrueck was a concentration camp along the lines of the classic German model. It was actually called "Schwesterlager" (sister camp) of [[LOCATION:location_33|Buchenwald]] and [[LOCATION:location_32|Dachau]] and had been in existence since the early thirties. When we arrived, there were 60,000 women, and no Jews at all. The population consisted of completely different and strange groups. There was a very large contingent of "politicals," women who had been active in the various underground movements in the occupied countries, and also in [[LOCATION:location_2|Germany]]. There were well-known women bearing famous names, such as Jeanette (Genevieve) de Gaulle; there was Odette Churchill, there was the sister of the then mayor of New York, LaGuardia, and other very well- known women in the various underground movements.
 
-Then there was another large group which was completely different: The serious criminals from Germany. The German prisons (Zuchthaeuser) were emptied, and these women were transferred to Ravensbrueck. A third group was called "the Antisocials," mainly prostitutes or women who were not regarded as fit to live in normal society under the German regime. Then there were smaller groups, such as the Jehovah's Witnesses. Each group wore a very clear identification mark: The political women wore a red triangle; the German criminal women a green triangle; the Bibelforscher an orange or pink triangle - I do not remember exactly. And there was another small group, the Mischlinge (of mixed parentage) who had been transferred to Ravensbrueck from Auschwitz; they were children of mixed marriages who had been sent to Auschwitz and from there to Ravensbrueck.
+Then there was another large group which was completely different: The serious criminals from [[LOCATION:location_2|Germany]]. The German prisons (Zuchthaeuser) were emptied, and these women were transferred to Ravensbrueck. A third group was called "the Antisocials," mainly prostitutes or women who were not regarded as fit to live in normal society under the German regime. Then there were smaller groups, such as the Jehovah's Witnesses. Each group wore a very clear identification mark: The political women wore a red triangle; the German criminal women a green triangle; the Bibelforscher an orange or pink triangle - I do not remember exactly. And there was another small group, the Mischlinge (of mixed parentage) who had been transferred to Ravensbrueck from [[LOCATION:location_286|Auschwitz]]; they were children of mixed marriages who had been sent to [[LOCATION:location_286|Auschwitz]] and from there to Ravensbrueck.
 
 **Q.**Did they also wear a special marking?
 
@@ -315,7 +315,7 @@ Then there was another large group which was completely different: The serious c
 
 **State Attorney Bar-Or:** What was the everyday routine during the first months after you arrived there?
 
-**Witness Salzberger:** There was a regime of suffering, of slavery and hunger, the conditions were inhuman, and personal relations were extremely bad. There was a lot of tension between the various groups which the camp management exploited. For example, we were put into a hut of Ukrainians, women from the Ukraine who were very anti- Semitic, and we suffered from this in particular.
+**Witness Salzberger:** There was a regime of suffering, of slavery and hunger, the conditions were inhuman, and personal relations were extremely bad. There was a lot of tension between the various groups which the camp management exploited. For example, we were put into a hut of Ukrainians, women from the [[LOCATION:location_12|Ukraine]] who were very anti- Semitic, and we suffered from this in particular.
 
 The daily routine was as follows: We got up at 3 o'clock in the morning and had to appear for Appell (roll- call) from 4 to 6. At 6 we were taken to work, twelve hours of work at least.
 
@@ -371,7 +371,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**The crimes - according to German concepts - were not defined at all. It could be that someone was not standing properly at roll-call, or that someone was not walking properly on the camp road. It depended on chance.
 
-**Q.**On 25 September 1944, a letter was sent to you to Ravensbrueck by the Palestine Office in Geneva. Can you find this letter here?
+**Q.**On 25 September 1944, a letter was sent to you to Ravensbrueck by the [[LOCATION:location_57|Palestine]] Office in [[LOCATION:location_52|Geneva]]. Can you find this letter here?
 
 **A.**Yes.
 
@@ -403,7 +403,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**Where did they come from?
 
-**A.**They came from Auschwitz, they came from Birkenau, they came from Mauthausen, they came from all the camps vacated before the Russian occupation in the East, and before the Anglo-American occupation in the West.
+**A.**They came from [[LOCATION:location_286|Auschwitz]], they came from [[LOCATION:location_286|Birkenau]], they came from Mauthausen, they came from all the camps vacated before the Russian occupation in the East, and before the Anglo-American occupation in the West.
 
 **Q.**Did you come into contact with these women prisoners? They were women prisoners, were they not, and not men?
 
@@ -411,7 +411,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**Did you have contact both with those from the West and those from the East?
 
-**A.**Yes. Jews also began to arrive, many Jews from Hungary who had gone through Auschwitz and were evacuated from there to the centre of Germany and arrived in Ravensbrueck. It was a situation in which Ravensbrueck Camp could not absorb these people who were in a dreadful state, not even in the open air. Very many of them were hardly alive any more, but they sent them on. Many transports were not accepted and were sent on.
+**A.**Yes. Jews also began to arrive, many Jews from [[LOCATION:location_24|Hungary]] who had gone through [[LOCATION:location_286|Auschwitz]] and were evacuated from there to the centre of [[LOCATION:location_2|Germany]] and arrived in Ravensbrueck. It was a situation in which [[LOCATION:location_240|Ravensbrueck Camp]] could not absorb these people who were in a dreadful state, not even in the open air. Very many of them were hardly alive any more, but they sent them on. Many transports were not accepted and were sent on.
 
 **Q.**Did you speak to these women who came in transports from the East?
 
@@ -421,15 +421,15 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**I received a full picture of all the extermination operations.
 
-**Q.**Both in Auschwitz and in Birkenau?
+**Q.**Both in [[LOCATION:location_286|Auschwitz]] and in [[LOCATION:location_286|Birkenau]]?
 
-**A.**There were people who came from Theresienstadt and who reached Ravensbrueck via Auschwitz.
+**A.**There were people who came from [[LOCATION:location_124|Theresienstadt]] and who reached Ravensbrueck via [[LOCATION:location_286|Auschwitz]].
 
-**Q.**Were there people who came to Ravensbrueck after they were in Theresienstadt, from there to Auschwitz and back to Ravensbrueck?
+**Q.**Were there people who came to Ravensbrueck after they were in [[LOCATION:location_124|Theresienstadt]], from there to [[LOCATION:location_286|Auschwitz]] and back to Ravensbrueck?
 
 **A.**Yes.
 
-**Q.**Did you hear what happened to them, both in Theresienstadt and in Auschwitz?
+**Q.**Did you hear what happened to them, both in [[LOCATION:location_124|Theresienstadt]] and in [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes.
 
@@ -453,7 +453,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**No. The management of Siemens-Halske, which was interested in keeping its work force fit, built, next to the big camp, a small separate camp which housed the worker- prisoners who worked in the factory, and we were transferred there. And we were separated, my sister and I, from my mother, in November 1944.
 
-**Q.**The two sisters went to the small camp to work at Siemens- Halske, and your mother remained at Ravensbrueck Camp?
+**Q.**The two sisters went to the small camp to work at Siemens- Halske, and your mother remained at [[LOCATION:location_240|Ravensbrueck Camp]]?
 
 **A.**Yes.
 
@@ -492,35 +492,35 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Presiding Judge:** What month was this?
 
-**Witness Salzberger:** The end of January, 1945. They dressed us as best they could in the clothes that were there. And they attached three more women to us, to the same transport: A mother and daughter from Turkey, and a single woman whose nationality I do not remember.
+**Witness Salzberger:** The end of January, 1945. They dressed us as best they could in the clothes that were there. And they attached three more women to us, to the same transport: A mother and daughter from [[LOCATION:location_48|Turkey]], and a single woman whose nationality I do not remember.
 
 **State Attorney Bar-Or:** Were they also Jewish?
 
 **Witness Salzberger:** Yes. From the same transport from Holland.
 
-**Q.**From Westerbork?
+**Q.**From [[LOCATION:location_214|Westerbork]]?
 
-**A.**Yes. They put us under the supervision of an SS man and an SS woman, who accompanied us on an ordinary civilian train, first of all to Berlin.
+**A.**Yes. They put us under the supervision of an SS man and an SS woman, who accompanied us on an ordinary civilian train, first of all to [[LOCATION:location_1|Berlin]].
 
 **Q.**In an ordinary passenger carriage?
 
 **A.**Yes.
 
-**Q.**You travelled from Ravensbrueck to Berlin?
+**Q.**You travelled from Ravensbrueck to [[LOCATION:location_1|Berlin]]?
 
-**A.**Yes. In Berlin we changed trains. The railway station was already destroyed. There was already panic. Germans were not allowed to enter the train. There was no room for them. Only soldiers and officers could travel by train. We were put on a train of German officers which went to Prague. We went to Prague on this train in the middle of the night, and the two SS people saw to it that we did not talk to anyone and that no one talked to us. I happened to see the papers in the hands of the SS woman, which she showed to the commander of the train, in order to prove our right to travel. Our names were written there, and also my mother's name.
+**A.**Yes. In [[LOCATION:location_1|Berlin]] we changed trains. The railway station was already destroyed. There was already panic. Germans were not allowed to enter the train. There was no room for them. Only soldiers and officers could travel by train. We were put on a train of German officers which went to [[LOCATION:location_4|Prague]]. We went to [[LOCATION:location_4|Prague]] on this train in the middle of the night, and the two SS people saw to it that we did not talk to anyone and that no one talked to us. I happened to see the papers in the hands of the SS woman, which she showed to the commander of the train, in order to prove our right to travel. Our names were written there, and also my mother's name.
 
 **Q.**Your mother's name, too?
 
-**A.**Yes. It said that we were being sent to Ghetto Theresienstadt, following an order of the Head Office for Reich Security in Berlin.
+**A.**Yes. It said that we were being sent to Ghetto [[LOCATION:location_124|Theresienstadt]], following an order of the Head Office for Reich Security in [[LOCATION:location_1|Berlin]].
 
-**Q.**From Prague you came to Theresienstadt?
+**Q.**From [[LOCATION:location_4|Prague]] you came to [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**We changed trains, and from there we were taken to Theresienstadt.
+**A.**We changed trains, and from there we were taken to [[LOCATION:location_124|Theresienstadt]].
 
-**Q.**What happened when you arrived in Theresienstadt?
+**Q.**What happened when you arrived in [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**We were handed over to the commandant's office in Theresienstadt. Our papers were handed over there. The two SS people disappeared. We were put into a room in an isolated house. All five of us were accommodated there. Outside the door of the room they put a Czech policeman. We were kept in isolation in this room for four weeks.
+**A.**We were handed over to the commandant's office in [[LOCATION:location_124|Theresienstadt]]. Our papers were handed over there. The two SS people disappeared. We were put into a room in an isolated house. All five of us were accommodated there. Outside the door of the room they put a Czech policeman. We were kept in isolation in this room for four weeks.
 
 **Q.**Together? Both of you together?
 
@@ -528,19 +528,19 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**With no contact with anybody else?
 
-**A.**At first we did not understand what was happening. We had been told that we would come to Ghetto Theresienstadt, but in fact we did not enter Ghetto Theresienstadt, because care was taken that there should be no contact with us. We were actually not within the ghetto compound. Food was brought to us; Czech policemen, gendarmes, brought us food and guarded us day and night. We were there for four weeks.
+**A.**At first we did not understand what was happening. We had been told that we would come to Ghetto [[LOCATION:location_124|Theresienstadt]], but in fact we did not enter Ghetto [[LOCATION:location_124|Theresienstadt]], because care was taken that there should be no contact with us. We were actually not within the ghetto compound. Food was brought to us; Czech policemen, gendarmes, brought us food and guarded us day and night. We were there for four weeks.
 
 **Q.**What happened then?
 
-**A.**After the first few days, Rahm, the Commandant of Theresienstadt, paid us a visit, asked how we were, looked at us and asked if we had any requests. He came to visit again after two to three weeks.
+**A.**After the first few days, Rahm, the Commandant of [[LOCATION:location_124|Theresienstadt]], paid us a visit, asked how we were, looked at us and asked if we had any requests. He came to visit again after two to three weeks.
 
 **Q.**The same Rahm?
 
-**A.**The same. We began to be very worried. We thought that there was a change of attitude of some kind, that they would not allow us to enter Theresienstadt. Theresienstadt was regarded as a very good place, comparatively speaking. We could not understand what was the real intention.
+**A.**The same. We began to be very worried. We thought that there was a change of attitude of some kind, that they would not allow us to enter [[LOCATION:location_124|Theresienstadt]]. [[LOCATION:location_124|Theresienstadt]] was regarded as a very good place, comparatively speaking. We could not understand what was the real intention.
 
 **Q.**In what month was that?
 
-**A.**At the beginning of March, 1945. I think it was on 3 March 1945. In that month the policeman told us that he had to take us to the Dienststelle (office) - that is what it was called - in Theresienstadt. He said that at the Dienststelle we would have an interview with some very important people from the SS, among them the Accused.
+**A.**At the beginning of March, 1945. I think it was on 3 March 1945. In that month the policeman told us that he had to take us to the Dienststelle (office) - that is what it was called - in [[LOCATION:location_124|Theresienstadt]]. He said that at the Dienststelle we would have an interview with some very important people from the SS, among them the Accused.
 
 **Q.**Did he mention Eichmann's name?
 
@@ -556,7 +556,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**Do you remember their names?
 
-**A.**First of all, there was Rahm, the Commandant of Theresienstadt.
+**A.**First of all, there was Rahm, the Commandant of [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Did you see him after that, too?
 
@@ -580,11 +580,11 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**You said it was possible to identify the Accused by the manner of his speech. What do you mean?
 
-**A.**Already in Holland we had known who Eichmann was; he was known to use many Jewish and Hebrew expressions. We thought - and that was the accepted story - that he knew Hebrew perfectly, that he was born in Palestine. And in his speech this was immediately evident. He took an interest in all our past, the whole of our background, our experiences, also in Holland. He asked very detailed questions about synagogues, about Zionist matters - we had our certificate, too - about affiliation to the Zionist movement, etc. But the main subject of the interview was an attempt to find out what we knew about the extermination, and whether, in Ravensbrueck, we had come into contact with people who were brought there from Auschwitz, especially those coming from Theresienstadt.
+**A.**Already in Holland we had known who Eichmann was; he was known to use many Jewish and Hebrew expressions. We thought - and that was the accepted story - that he knew Hebrew perfectly, that he was born in [[LOCATION:location_57|Palestine]]. And in his speech this was immediately evident. He took an interest in all our past, the whole of our background, our experiences, also in Holland. He asked very detailed questions about synagogues, about Zionist matters - we had our certificate, too - about affiliation to the Zionist movement, etc. But the main subject of the interview was an attempt to find out what we knew about the extermination, and whether, in Ravensbrueck, we had come into contact with people who were brought there from [[LOCATION:location_286|Auschwitz]], especially those coming from [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**In what way did you answer these questions about what you knew in Ravensbrueck?
 
-**A.**We immediately understood the purpose of the interview. It became clear that we were isolated, that they did not want to allow us to enter the ghetto, out of fear that we might know too much, and that we might talk about it with the inmates of Theresienstadt. We were reserved; we said that in Ravensbrueck we worked in the Siemens-Halske factory, that we were in a separate camp, and that we did not come into contact with the people who were brought to Ravensbrueck. We were very uncommunicative. On the other hand, we did not say that Ravensbrueck was a good place, as it was known that it was a very bad one. Apart from this, my mother's death was mentioned in the interview.
+**A.**We immediately understood the purpose of the interview. It became clear that we were isolated, that they did not want to allow us to enter the ghetto, out of fear that we might know too much, and that we might talk about it with the inmates of [[LOCATION:location_124|Theresienstadt]]. We were reserved; we said that in Ravensbrueck we worked in the Siemens-Halske factory, that we were in a separate camp, and that we did not come into contact with the people who were brought to Ravensbrueck. We were very uncommunicative. On the other hand, we did not say that Ravensbrueck was a good place, as it was known that it was a very bad one. Apart from this, my mother's death was mentioned in the interview.
 
 **Q.**Did he ask about your mother?
 
@@ -620,7 +620,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**Did the Accused also address you as "Sie," politely?
 
-**A.**Yes. He expressed his regret that my mother had died. But the essential meaning of the interview was not so polite. We were told that we would be allowed to come into Ghetto Theresienstadt - "Juedische Selbstverwaltung Theresienstadt" (Jewish Autonomous Administration Theresienstadt) was the term he used. But if we were to say anything about our past experiences in Ravensbrueck, about what we knew, then - and he used a very appropriate expression: "Dann werden Sie durch den Schornstein gehen" (then you will go through the chimney). Next day, we were actually taken into the ghetto.
+**A.**Yes. He expressed his regret that my mother had died. But the essential meaning of the interview was not so polite. We were told that we would be allowed to come into Ghetto [[LOCATION:location_124|Theresienstadt]] - "Juedische Selbstverwaltung [[LOCATION:location_124|Theresienstadt]]" (Jewish Autonomous Administration [[LOCATION:location_124|Theresienstadt]]) was the term he used. But if we were to say anything about our past experiences in Ravensbrueck, about what we knew, then - and he used a very appropriate expression: "Dann werden Sie durch den Schornstein gehen" (then you will go through the chimney). Next day, we were actually taken into the ghetto.
 
 **Q.**Do you have the so-called "Zentralevidenz" (Central Registry) card dated 8 March 1945, in the name of your sister?
 
@@ -658,7 +658,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**Do you have any explanation why you were employed on such privileged work?
 
-**A.**It seems that there was an instruction... I do not know...at any rate, when we came to Theresienstadt, the treatment we were given was very favourable. First of all, it should be stated here that it hardly ever happened that anybody was transferred to Theresienstadt from another camp, certainly not from a concentration camp. And when we arrived, we caused some sensation. There were also many people from Holland there whom we knew.
+**A.**It seems that there was an instruction... I do not know...at any rate, when we came to [[LOCATION:location_124|Theresienstadt]], the treatment we were given was very favourable. First of all, it should be stated here that it hardly ever happened that anybody was transferred to [[LOCATION:location_124|Theresienstadt]] from another camp, certainly not from a concentration camp. And when we arrived, we caused some sensation. There were also many people from Holland there whom we knew.
 
 **Q.**Whom you met again?
 
@@ -674,13 +674,13 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**To whom?
 
-**A.**We talked about our experiences both to the responsible persons there, to the members of the Aeltestenrat (Council of Elders), and to our Dutch acquaintances, among them highly educated, intelligent people. As is well-known, especially intellectuals from Holland were sent to Theresienstadt, among others.
+**A.**We talked about our experiences both to the responsible persons there, to the members of the Aeltestenrat (Council of Elders), and to our Dutch acquaintances, among them highly educated, intelligent people. As is well-known, especially intellectuals from Holland were sent to [[LOCATION:location_124|Theresienstadt]], among others.
 
-**Q.**Mrs. Salzberger, what was the reaction of the people when they heard your stories about Auschwitz, about the extermination campaign in the East and all the rest? What was the reaction of the Theresienstadt people?
+**Q.**Mrs. Salzberger, what was the reaction of the people when they heard your stories about [[LOCATION:location_286|Auschwitz]], about the extermination campaign in the East and all the rest? What was the reaction of the [[LOCATION:location_124|Theresienstadt]] people?
 
-**A.**They did not believe us; they said, in March 1945, that we were out of our minds; they did not believe us. It must be said here that transports from Theresienstadt went to Auschwitz already in 1944. We knew from people whom we met in Ravensbrueck from Auschwitz, or from Theresienstadt via Auschwitz, that people in Theresienstadt still volunteered for these transports in 1944. Wives volunteered to go with their husbands, and so on. And when we told them what was going on, people did not believe us.
+**A.**They did not believe us; they said, in March 1945, that we were out of our minds; they did not believe us. It must be said here that transports from [[LOCATION:location_124|Theresienstadt]] went to [[LOCATION:location_286|Auschwitz]] already in 1944. We knew from people whom we met in Ravensbrueck from [[LOCATION:location_286|Auschwitz]], or from [[LOCATION:location_124|Theresienstadt]] via [[LOCATION:location_286|Auschwitz]], that people in [[LOCATION:location_124|Theresienstadt]] still volunteered for these transports in 1944. Wives volunteered to go with their husbands, and so on. And when we told them what was going on, people did not believe us.
 
-**Q.**Could you please find your savings booklet, No. 77578, which was issued in your name in Theresienstadt?
+**Q.**Could you please find your savings booklet, No. 77578, which was issued in your name in [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Yes.
 
@@ -690,7 +690,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Presiding Judge:** Do not take this as an attempt to rush you.
 
-**State Attorney Bar-Or:** We can continue tomorrow. The witness lives in Jerusalem.
+**State Attorney Bar-Or:** We can continue tomorrow. The witness lives in [[LOCATION:location_44|Jerusalem]].
 
 **Presiding Judge:** But if you want to finish, please (go on).
 
@@ -698,15 +698,15 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Presiding Judge:** The savings booklet will be marked T/705.
 
-**State Attorney Bar-Or:** Did you also receive internal Theresienstadt money?
+**State Attorney Bar-Or:** Did you also receive internal [[LOCATION:location_124|Theresienstadt]] money?
 
 **Witness Salzberger:** We received monthly wages.
 
-**Q.**Did you receive your wages in Theresienstadt money?
+**Q.**Did you receive your wages in [[LOCATION:location_124|Theresienstadt]] money?
 
 **A.**Yes.
 
-**Q.**And did you preserve the banknotes from Theresienstadt?
+**Q.**And did you preserve the banknotes from [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Yes.
 
@@ -735,13 +735,13 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**All this was only on paper?
 
-**A.**Yes. This was typical of Theresienstadt in general.
+**A.**Yes. This was typical of [[LOCATION:location_124|Theresienstadt]] in general.
 
 **Q.**I have two more questions to you. In April 1945, did you hear about a second transport being organized?
 
 **A.**Yes.
 
-**Q.**Did you hear about the first transport that went to Switzerland?
+**Q.**Did you hear about the first transport that went to [[LOCATION:location_53|Switzerland]]?
 
 **A.**Yes.
 
@@ -749,7 +749,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**Yes.
 
-**Q.**The organization of a second transport was begun, ostensibly to Switzerland; when did you hear about it? In April?
+**Q.**The organization of a second transport was begun, ostensibly to [[LOCATION:location_53|Switzerland]]; when did you hear about it? In April?
 
 **A.**In April.
 
@@ -791,17 +791,17 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**The SS.
 
-**Q.**Was it the SS in Theresienstadt which organized the transport?
+**Q.**Was it the SS in [[LOCATION:location_124|Theresienstadt]] which organized the transport?
 
 **A.**Yes.
 
 **Q.**What was the destination of the transport - as you were told? Where was it supposed to go to?
 
-**A.**To Switzerland.
+**A.**To [[LOCATION:location_53|Switzerland]].
 
 **Q.**What happened to this transport in the end, Mrs. Salzberger?
 
-**A.**This transport did not leave. The reason was the intervention of the Red Cross. That week, or some days before the transport was supposed to leave, the representative of the Red Cross, Mr. Dunot, came into the ghetto. He was conspicuous, he aroused attention, he drove about in a white car. There were already many rumours that negotiations between the SS and the International Red Cross were in progress for handing over the ghetto by the SS to the Red Cross. These negotiations ended, I think, after a week or ten days, and the ghetto was handed over to the Red Cross. In return, all the SS were allowed to get away, and they prepared themselves for that very thoroughly for days. They prepared carriages, whole trains full of luggage and equipment, they burned their archives, and a few days later they disappeared.
+**A.**This transport did not leave. The reason was the intervention of the Red Cross. That week, or some days before the transport was supposed to leave, the representative of the Red Cross, Mr. Dunot, came into the ghetto. He was conspicuous, he aroused attention, he drove about in a white car. There were already many rumours that negotiations between the SS and the [[ORGANIZATION:org_310|International Red Cross]] were in progress for handing over the ghetto by the SS to the Red Cross. These negotiations ended, I think, after a week or ten days, and the ghetto was handed over to the Red Cross. In return, all the SS were allowed to get away, and they prepared themselves for that very thoroughly for days. They prepared carriages, whole trains full of luggage and equipment, they burned their archives, and a few days later they disappeared.
 
 **Q.**How do you know about the burning of the archives?
 
@@ -809,15 +809,15 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Q.**And they made off?
 
-**A.**They made off. Afterwards information came from the Red Cross for the first time that this would have been the first transport which was destined for extermination. The necessary installations were also found. The plan seems to have been to destroy Theresienstadt. It should also be mentioned here that during the last month, April, many transports from various camps arrived in Theresienstadt, shocking transports.
+**A.**They made off. Afterwards information came from the Red Cross for the first time that this would have been the first transport which was destined for extermination. The necessary installations were also found. The plan seems to have been to destroy [[LOCATION:location_124|Theresienstadt]]. It should also be mentioned here that during the last month, April, many transports from various camps arrived in [[LOCATION:location_124|Theresienstadt]], shocking transports.
 
 **Q.**Where did they come from?
 
-**A.**They came from Bergen-Belsen and other camps whose names I do not remember, but from very many camps, in shocking, ghastly condition. And in Theresienstadt, where the situation had been very good before, a very serious epidemic broke out. And it turned out that there had been a plan for extermination.
+**A.**They came from [[LOCATION:location_212|Bergen-Belsen]] and other camps whose names I do not remember, but from very many camps, in shocking, ghastly condition. And in [[LOCATION:location_124|Theresienstadt]], where the situation had been very good before, a very serious epidemic broke out. And it turned out that there had been a plan for extermination.
 
-**Presiding Judge:** What situation was good in Theresienstadt?
+**Presiding Judge:** What situation was good in [[LOCATION:location_124|Theresienstadt]]?
 
-**Witness Salzberger:** For us, who came from another concentration camp, the situation in Theresienstadt was so good, it was laughable. There were 6,000 people with Jewish institutions, a comparatively normal form of life, family life, cultural life, an internal Jewish regime. For us this was laughable. Of course, in reality everything was only pretence. Much was pretence. But for those Jews themselves who had been there all the time, this was, in fact, a kind of existence without real foundation, an unreal reality actually, but for them it was real.
+**Witness Salzberger:** For us, who came from another concentration camp, the situation in [[LOCATION:location_124|Theresienstadt]] was so good, it was laughable. There were 6,000 people with Jewish institutions, a comparatively normal form of life, family life, cultural life, an internal Jewish regime. For us this was laughable. Of course, in reality everything was only pretence. Much was pretence. But for those Jews themselves who had been there all the time, this was, in fact, a kind of existence without real foundation, an unreal reality actually, but for them it was real.
 
 **Judge Halevi:** How did it become clear to them that a plan to destroy them all existed?
 
@@ -827,11 +827,11 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **Dr. Servatius:** I have no questions to the witness.
 
-**Judge Halevi:** So, what did you find out? For what purpose were you five women transferred from Ravensbrueck to Theresienstadt under such unusual conditions? What was the purpose?
+**Judge Halevi:** So, what did you find out? For what purpose were you five women transferred from Ravensbrueck to [[LOCATION:location_124|Theresienstadt]] under such unusual conditions? What was the purpose?
 
 **Witness Salzberger:** We do not know, and this riddle has remained a riddle, that at the end of the War they should have treated some individuals in such a strange way. We do not know.
 
-**Q.**And were you not presented to some outside visitors in Theresienstadt, did they not show you to the Red Cross people or others?
+**Q.**And were you not presented to some outside visitors in [[LOCATION:location_124|Theresienstadt]], did they not show you to the Red Cross people or others?
 
 **A.**Not as individuals. True, there was a visit from the Red Cross, at the end of March, I think, and this visit was a special occasion. There was good food, the whole ghetto was given a special festive appearance, so as to make a good impression. But we were not introduced to the Red Cross people as individuals.
 
@@ -843,13 +843,13 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**Not one.
 
-**Q.**Did I understand you correctly to say that the transport to Switzerland was also destined for extermination?
+**Q.**Did I understand you correctly to say that the transport to [[LOCATION:location_53|Switzerland]] was also destined for extermination?
 
 **A.**The last transport - yes.
 
 **Q.**How did you come to know about this?
 
-**A.**There was an official announcement by Dunot, who actually intervened, in order that the transport should not leave Theresienstadt.
+**A.**There was an official announcement by Dunot, who actually intervened, in order that the transport should not leave [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Does this mean that they wanted to destroy both the transport and the ghetto?
 
@@ -867,7 +867,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**He gave up his right to travel on this transport. But another interesting thing must be mentioned: Anybody who asked to be accepted for this transport - once confirmation had been given - could no longer give up his right. And this was in contrast to the earlier Swiss transport, which had left in the beginning of February that year, if I am not mistaken.
 
-**Q.**Did the earlier one reach Switzerland?
+**Q.**Did the earlier one reach [[LOCATION:location_53|Switzerland]]?
 
 **A.**Yes. But at that time people could renounce their right, they could leave the transport before it left.
 
@@ -919,7 +919,7 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**Yes...no, I heard it after the ghetto was handed over to the Red Cross. Before this they did not speak about it.
 
-**Presiding Judge:** You mentioned the word "Sonderbehandlung," still in connection with Ravensbrueck Camp?
+**Presiding Judge:** You mentioned the word "Sonderbehandlung," still in connection with [[LOCATION:location_240|Ravensbrueck Camp]]?
 
 **Witness Salzberger:** Yes.
 
@@ -947,9 +947,9 @@ The daily routine was as follows: We got up at 3 o'clock in the morning and had 
 
 **A.**Yes.
 
-**Q.**Already in Westerbork?
+**Q.**Already in [[LOCATION:location_214|Westerbork]]?
 
-**A.**Yes, even in Amsterdam. When somebody broke a law of any kind, for instance, when somebody disobeyed the curfew for Jews, he would be given Sonderbehandlung. This was even written black on white.
+**A.**Yes, even in [[LOCATION:location_60|Amsterdam]]. When somebody broke a law of any kind, for instance, when somebody disobeyed the curfew for Jews, he would be given Sonderbehandlung. This was even written black on white.
 
 **Q.**And it was known that Sonderbehandlung was death?
 

@@ -303,7 +303,7 @@ export default function ExploreClient() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+        <div className="max-w-4xl mx-auto text-center relative z-10 pt-32 pb-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
           <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">Explore</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             Explore the Trial
@@ -568,6 +568,28 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
   const [isLoading, setIsLoading] = useState(true);
   const [selectedNode, setSelectedNode] = useState<Entity | null>(null);
   const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set(['SESSION', 'LOCATION', 'ORGANIZATION', 'PERSON', 'EVENT', 'DATE', 'WITNESS']));
+  const [isFullscreen, setIsFullscreen] = useState(false);
+
+  // Handle Escape key to exit fullscreen
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isFullscreen) {
+        setIsFullscreen(false);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFullscreen]);
+
+  // Resize network when fullscreen changes
+  useEffect(() => {
+    if (networkRef.current) {
+      // Small delay to let the container resize
+      setTimeout(() => {
+        networkRef.current?.fit();
+      }, 100);
+    }
+  }, [isFullscreen]);
   
   const typeColors: Record<string, { bg: string; border: string }> = {
     'SESSION': { bg: '#eab308', border: '#facc15' },
@@ -781,13 +803,18 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
   }, [nodes]);
 
   return (
-    <div className="relative w-full h-full bg-[#0a0a0f]">
+    <div className={`${isFullscreen ? 'fixed inset-0 z-50' : 'relative w-full h-full'} bg-[#0a0a0f]`}>
+      {/* Fullscreen backdrop */}
+      {isFullscreen && (
+        <div className="absolute inset-0 bg-black/90" onClick={() => setIsFullscreen(false)} />
+      )}
+      
       {/* Graph container */}
-      <div ref={containerRef} className="w-full h-full" />
+      <div ref={containerRef} className="w-full h-full relative z-10" />
       
       {/* Loading overlay */}
       {isLoading && (
-        <div className="absolute inset-0 flex items-center justify-center bg-[#0a0a0f]/80">
+        <div className="absolute inset-0 flex items-center justify-center bg-[#0a0a0f]/80 z-20">
           <div className="text-center">
             <div className="w-10 h-10 border-3 border-stone-700 border-t-indigo-500 rounded-full animate-spin mx-auto mb-4" />
             <p className="text-stone-400">Computing layout...</p>
@@ -796,7 +823,7 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
       )}
       
       {/* Filter chips */}
-      <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-xs">
+      <div className="absolute top-4 left-4 flex flex-wrap gap-2 max-w-xs z-20">
         {Object.entries(typeColors).map(([type, colors]) => {
           const count = typeCounts[type] || 0;
           if (count === 0) return null;
@@ -821,13 +848,37 @@ function GraphVisualization({ nodes, edges }: { nodes: Entity[]; edges: Edge[] }
       </div>
       
       {/* Instructions */}
-      <div className="absolute bottom-4 left-4 text-xs text-stone-500">
+      <div className="absolute bottom-4 left-4 text-xs text-stone-500 z-20">
         Scroll to zoom • Drag to pan • Drag nodes to move • Double-click to view details
+        {isFullscreen && ' • Press ESC to exit'}
       </div>
+      
+      {/* Fullscreen toggle button */}
+      <button
+        onClick={() => setIsFullscreen(!isFullscreen)}
+        className="absolute bottom-4 right-4 z-20 flex items-center gap-2 px-3 py-2 bg-stone-800/90 hover:bg-stone-700 border border-stone-700 rounded-lg text-stone-300 text-sm transition-colors"
+        title={isFullscreen ? 'Exit fullscreen' : 'Enter fullscreen'}
+      >
+        {isFullscreen ? (
+          <>
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+            Exit Fullscreen
+          </>
+        ) : (
+          <>
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4" />
+            </svg>
+            Fullscreen
+          </>
+        )}
+      </button>
       
       {/* Selected node info */}
       {selectedNode && (
-        <div className="absolute top-4 right-4 bg-stone-900/95 border border-stone-700 p-4 max-w-xs rounded-lg">
+        <div className="absolute top-4 right-4 bg-stone-900/95 border border-stone-700 p-4 max-w-xs rounded-lg z-20">
           <p className="text-white font-medium text-lg">{selectedNode.name}</p>
           {selectedNode.variants && selectedNode.variants[0] && (
             <p className="text-stone-400 text-sm mt-1" dir="rtl">{selectedNode.variants[0]}</p>

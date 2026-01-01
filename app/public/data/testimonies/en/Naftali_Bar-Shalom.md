@@ -1,14 +1,14 @@
-# Testimony of Naftali Bar-Shalom
+# Testimony of [[PERSON:witness_75|Naftali Bar-Shalom]]
 
 **Session:** 9
 
 ---
 
-**State Attorney Bach:** You are an officer in the Israel Police?
+**State Attorney Bach:** You are an officer in the [[LOCATION:location_38|Israel]] Police?
 
-**Witness Bar-Shalom:** I am Rav-Pakad in the Israel Police.
+**Witness Bar-Shalom:** I am Rav-Pakad in the [[LOCATION:location_38|Israel]] Police.
 
-**Q.**Did you serve in Bureau 06 in the Israel Police?
+**Q.**Did you serve in Bureau 06 in the [[LOCATION:location_38|Israel]] Police?
 
 **A.**Since 3 June 1960 I have served in Bureau 06 as head of Section 1 - Documentation.
 
@@ -38,11 +38,11 @@
 
 **Q.**Would you be able to tell the Court in which manner and in which way these documents reached Bureau 06?
 
-**A.**At the end of the Second Word War the archives of the German Foreign Ministry were seized almost intact by the Allies. They included documents covering the period from 1870 up to the end of the Second World War. The complete archives were transferred to England and were stored in Whaddon Hall, a place near Oxford. The prosecution in the Nuremberg Trials also obtained documents from this place which it used in these trials.
+**A.**At the end of the Second Word War the archives of the German Foreign Ministry were seized almost intact by the Allies. They included documents covering the period from 1870 up to the end of the [[EVENT:event_383|Second World War]]. The complete archives were transferred to [[LOCATION:location_43|England]] and were stored in Whaddon Hall, a place near Oxford. The prosecution in the [[LOCATION:location_39|Nuremberg]] Trials also obtained documents from this place which it used in these trials.
 
-In 1955, Dr. Verete, a lecturer in diplomatic history at the Hebrew University, was sent to London in order to collect, or to photograph on microfilm documents from these archives relating to the history of the Jewish people. Through the Israel Embassy in London, Dr. Verete approached the British Foreign Office, since the documents were kept under the sponsorship of the British Foreign Office and the American State Department, as The German War Documents Project. This was done through the Library of the British Foreign Office. The concept "library" in this case is very much more extensive, for it contains several departments, not merely a library but also what we would call a research department. They showed Dr. Verete the original index of these archives. He asked for original files in accordance with the index, examined the documents and recorded in notebooks those files and documents which he was interested in photogcopying. He handed a copy of his notebook to the British Foreign Office.
+In 1955, Dr. Verete, a lecturer in diplomatic history at the Hebrew University, was sent to [[LOCATION:location_67|London]] in order to collect, or to photograph on microfilm documents from these archives relating to the history of the Jewish people. Through the [[LOCATION:location_38|Israel]] Embassy in [[LOCATION:location_67|London]], Dr. Verete approached the British [[ORGANIZATION:org_309|Foreign Office]], since the documents were kept under the sponsorship of the British [[ORGANIZATION:org_309|Foreign Office]] and the American State Department, as The German War Documents Project. This was done through the Library of the British [[ORGANIZATION:org_309|Foreign Office]]. The concept "library" in this case is very much more extensive, for it contains several departments, not merely a library but also what we would call a research department. They showed Dr. Verete the original index of these archives. He asked for original files in accordance with the index, examined the documents and recorded in notebooks those files and documents which he was interested in photogcopying. He handed a copy of his notebook to the British [[ORGANIZATION:org_309|Foreign Office]].
 
-Thereafter, at Whaddon Hall, microfilms were prepared by the British Foreign Office and transferred thence to the Israel Embassy in London, which conveyed them by diplomatic mail to Yad Vashem in Jerusalem. Dr. Verete examined them at Yad Vashem in Jerusalem after they were received and found that the microfilms which reached Yad Vashem conformed with what he had ordered.
+Thereafter, at Whaddon Hall, microfilms were prepared by the British [[ORGANIZATION:org_309|Foreign Office]] and transferred thence to the [[LOCATION:location_38|Israel]] Embassy in [[LOCATION:location_67|London]], which conveyed them by diplomatic mail to Yad Vashem in [[LOCATION:location_44|Jerusalem]]. Dr. Verete examined them at Yad Vashem in [[LOCATION:location_44|Jerusalem]] after they were received and found that the microfilms which reached Yad Vashem conformed with what he had ordered.
 
 **Q.**How did the documents subsequently reach Bureau 06 from Yad Vashem?
 
@@ -56,13 +56,13 @@ Thereafter, at Whaddon Hall, microfilms were prepared by the British Foreign Off
 
 **Witness Bar-Shalom:** I spoke to Dr. Kermish, I inquired how the material arrived. I spoke to Dr. Verete. And in the light of these matters, these two gentlemen made affidavits which are in the possession of the Prosecution.
 
-**State Attorney Bach:** At this stage, Your Honours, I would like to request the Court to permit the Prosecution to submit, in corroboration of the evidence of Rav-Pakad Bar- Shalom firstly an affidavit of Dr. Meir Verete, a lecturer in diplomatic history at the Hebrew University of Jerusalem, and thereafter also an affidavit of Dr. Kermish of Yad Vashem. While it is true that from a purely formal point of view the submission of these testimonies of persons who are not giving oral evidence here in Court involves a certain departure from the rules of evidence nevertheless, as I have said, the point is a purely technical one.
+**State Attorney Bach:** At this stage, Your Honours, I would like to request the Court to permit the Prosecution to submit, in corroboration of the evidence of Rav-Pakad Bar- Shalom firstly an affidavit of Dr. [[PERSON:person_407|Meir Verete]], a lecturer in diplomatic history at the Hebrew University of [[LOCATION:location_44|Jerusalem]], and thereafter also an affidavit of Dr. Kermish of Yad Vashem. While it is true that from a purely formal point of view the submission of these testimonies of persons who are not giving oral evidence here in Court involves a certain departure from the rules of evidence nevertheless, as I have said, the point is a purely technical one.
 
 **Presiding Judge:** Are those sworn affidavits?**State Attorney Bach:** These are sworn affidavits on points which are not actually in dispute and which serve to support the evidence of the present witness.
 
 **Presiding Judge:** What is the subject matter of these affidavits, generally speaking?
 
-**State Attorney Bach:** The contents generally speaking tally with the particulars which the witness has just described. Dr. Verete reviews his visit to London, the details of his ordering these files. He actually attaches to his affidavit those very notebooks of which Rav-Pakad Bar-Shalom spoke, and in the light of these notebooks the Court will subsequently be able - if it should admit them as evidence - to examine every single document which will be submitted by the prosecution in the course of the trial and will be able to be satisfied that these documents are in fact those documents the originals of which Dr. Verete saw in London and which reached us in the form of microfilms, as the witness has testified.
+**State Attorney Bach:** The contents generally speaking tally with the particulars which the witness has just described. Dr. Verete reviews his visit to [[LOCATION:location_67|London]], the details of his ordering these files. He actually attaches to his affidavit those very notebooks of which Rav-Pakad Bar-Shalom spoke, and in the light of these notebooks the Court will subsequently be able - if it should admit them as evidence - to examine every single document which will be submitted by the prosecution in the course of the trial and will be able to be satisfied that these documents are in fact those documents the originals of which Dr. Verete saw in [[LOCATION:location_67|London]] and which reached us in the form of microfilms, as the witness has testified.
 
 I should like to explain something to the Court. The Court is not required at this moment, within the framework of the present evidence, to decide whether all the documents which the Prosecution will submit have been properly verified or not. This witness presents all the particulars concerning the various methods of verification, and thereafter, when we submit the documents, we shall naturally be able, in relation to each single document, to rely on those facts on these affidavits which are now being presented, and the Court will then be able to make its decision whether in fact the affidavits and the testimonies are sufficient for verification.
 
@@ -72,21 +72,21 @@ I should like to explain something to the Court. The Court is not required at th
 
 **Presiding Judge:** Have you submitted copies of these affidavits to Dr. Servatius?
 
-**State Attorney Bach:** Yes, we have provided not only copies, but also German translations of all the affidavits. Actually we intend, in the course of the evidence of the present witness, to produce about seventeen affidavits of various witnesses, some of them witnesses who are presently abroad, who participated in one way or another in finding the material, photogcopying it, verifying it, and transferring the material to Israel and so forth. The Court's authority for allowing the admission of such evidence is given under section 15 of the Nazi and Nazi Collaborators (Punishment) Law 5710-1950, and this is the text of the paragraph:
+**State Attorney Bach:** Yes, we have provided not only copies, but also German translations of all the affidavits. Actually we intend, in the course of the evidence of the present witness, to produce about seventeen affidavits of various witnesses, some of them witnesses who are presently abroad, who participated in one way or another in finding the material, photogcopying it, verifying it, and transferring the material to [[LOCATION:location_38|Israel]] and so forth. The Court's authority for allowing the admission of such evidence is given under section 15 of the Nazi and Nazi Collaborators (Punishment) Law 5710-1950, and this is the text of the paragraph:
 
 > "In a trial against an offence under this Law, the Court
 > shall be able to deviate from the rules of evidence, if it
 > is satisfied that this will facilitate the ascertainment of
 > the truth and the just disposition of the case."
 
-In practice, Your Honours, the Israel legislator on this point followed the "Charter of the International Military Tribunal" annexed to the London Agreement, which laid down in article 19 of the Charter - published in Vol. 15 of what we here called the "Trials of War Criminals before the Nuremberg Military Tribunals," the Green Series. In the 15th volume on page 15 it is stated:
+In practice, Your Honours, the [[LOCATION:location_38|Israel]] legislator on this point followed the "Charter of the International Military Tribunal" annexed to the [[LOCATION:location_67|London]] Agreement, which laid down in article 19 of the Charter - published in Vol. 15 of what we here called the "Trials of War Criminals before the [[LOCATION:location_39|Nuremberg]] Military Tribunals," the Green Series. In the 15th volume on page 15 it is stated:
 
 > "The Tribunal shall not be bound by technical rules of
 > evidence. It shall adopt and apply to the greatest possible
 > extent expeditious and non-technical procedure, and shall
 > admit any evidence which it deems to have probative value."
 
-In actual fact, within the context of this provision, a substantial number of declarations and affidavits were accepted otherwise than by means of witnesses themselves appearing in Court at those Nuremberg Trials. Your Honours, the matter of interpretation of this section 15 will arise in the course of this trial, possibly in a more serious manner, in regard to documents the contents of which are intended to prove directly the guilt of the Accused. It seems to me that in the present context I shall be able to shorten my argument, especially as I understand that the Defence does not intend to object to the production of those affidavits.
+In actual fact, within the context of this provision, a substantial number of declarations and affidavits were accepted otherwise than by means of witnesses themselves appearing in Court at those [[LOCATION:location_39|Nuremberg]] Trials. Your Honours, the matter of interpretation of this section 15 will arise in the course of this trial, possibly in a more serious manner, in regard to documents the contents of which are intended to prove directly the guilt of the Accused. It seems to me that in the present context I shall be able to shorten my argument, especially as I understand that the Defence does not intend to object to the production of those affidavits.
 
 I shall also say this: It says here that the Court must be convinced that this will facilitate the ascertainment of the truth and the just disposition of the case. I would especially rely here on the last part of that section. It seems to me that any means which is intended and which is likely to ensure the efficient conduct of the proceedings and to shorten the time needed for them without prejudicing the rights of either side or the requirements of justice towards either side - such a means would be conducive to the just handling of the case.
 
@@ -135,19 +135,19 @@ We give our Decision No. 5
 
 We admit the statements of Dr. Verete and Dr. Kermish and statements of the same type as evidence of the place where the documents mentioned therein originated. We do so in order to facilitate the proceedings, on the basis of our authority under section 15 of the Nazis and Nazi Collaborators (Punishment) Law 5710-1950.
 
-**State Attorney Bach:** With the Court's permission I shall read the affidavit of Dr. Meir Verete:
+**State Attorney Bach:** With the Court's permission I shall read the affidavit of Dr. [[PERSON:person_407|Meir Verete]]:
 
-"I, the undersigned, Dr. Meir Verete, a Lecturer in Diplomatic History at the Hebrew University of Jerusalem, hereby declare as follows:
+"I, the undersigned, Dr. [[PERSON:person_407|Meir Verete]], a Lecturer in Diplomatic History at the Hebrew University of [[LOCATION:location_44|Jerusalem]], hereby declare as follows:
 
-1. During the period between the autumn 1955 and Autumn 1956 I dealt, on behalf of Yad Vashem and in cooperation with the Israel Embassy in London, with the photographing of documents in the archives of the German Foreign Ministry, which were seized by the Allies and stored in Whaddon Hall, which is in England, under the auspices of a joint Institute of the British Foreign Office and the United States Department of State. The name of the Institute is the "Foreign Office/State Department German War Documents Project."
+1. During the period between the autumn 1955 and Autumn 1956 I dealt, on behalf of Yad Vashem and in cooperation with the [[LOCATION:location_38|Israel]] Embassy in [[LOCATION:location_67|London]], with the photographing of documents in the archives of the German Foreign Ministry, which were seized by the Allies and stored in Whaddon Hall, which is in [[LOCATION:location_43|England]], under the auspices of a joint Institute of the British [[ORGANIZATION:org_309|Foreign Office]] and the [[LOCATION:location_68|United States]] Department of State. The name of the Institute is the "[[ORGANIZATION:org_309|Foreign Office]]/State Department German War Documents Project."
 
-2. After receiving permission from the British and American Foreign Offices, I was referred to Miss Johnston, a librarian in the Library of the British Foreign Office. Miss Johnston placed at my disposal the original list of files of the German Foreign Ministry. Out of this list I selected such volumes and files as related to the history of the Jewish people and in accordance with my request these volumes and files were brought to the research rooms of the Library of the British Foreign Office.
+2. After receiving permission from the British and American Foreign Offices, I was referred to Miss Johnston, a librarian in the Library of the British [[ORGANIZATION:org_309|Foreign Office]]. Miss Johnston placed at my disposal the original list of files of the German Foreign Ministry. Out of this list I selected such volumes and files as related to the history of the Jewish people and in accordance with my request these volumes and files were brought to the research rooms of the Library of the British [[ORGANIZATION:org_309|Foreign Office]].
 
 "There I, together with my assistants, sorted out the files and the documents. I recorded in my notebook the files and the documents which I had selected. These notebooks have been produced to me now and I recognize them. I confirmed this fact by means of the initials of my signature on the inside cover.
 
 3. Copies of these lists were made as an order for photographing at the aforementioned institute. The order was conveyed by the aforementioned Miss Johnston.
 
-I am aware that the photographs were made under the supervision of Mr. Stambrook, assistant to the chief of the Archives at Whaddon Hall. The microfilms when ready were transferred in the course of the year 1956 via the Israel Embassy in London to Yad Vashem.
+I am aware that the photographs were made under the supervision of Mr. Stambrook, assistant to the chief of the Archives at Whaddon Hall. The microfilms when ready were transferred in the course of the year 1956 via the [[LOCATION:location_38|Israel]] Embassy in [[LOCATION:location_67|London]] to Yad Vashem.
 
 4. At Yad Vashem I made a general examination of the microfilms in order to satisfy myself that they had been photographed in accordance with my order and I found that the documents which were photographed tallied with the documents which were recorded in the said notebooks.
 
@@ -157,7 +157,7 @@ I submit to the Court the original and two copies of the affidavit and also the 
 
 **Presiding Judge:** And therein there is a list of documents?
 
-**State Attorney Bach:** There is a list of all those documents which tally with the list which was ordered by him in London.
+**State Attorney Bach:** There is a list of all those documents which tally with the list which was ordered by him in [[LOCATION:location_67|London]].
 
 For the sake of an exact record I should like to add that the Prosecution's catalogue number in respect of Dr. Verete's affidavit is 1574. This is the number appearing in the upper right-hand corner in these documents.
 
@@ -181,11 +181,11 @@ I have marked the affidavit as T/6 and will mark these notebooks T/6/1 and T/6/2
 
 The affidavit of Dr. Kermish, No. 1577, repeats many details which have already been included in Dr. Verete's affidavit. Consequently I shall only read those particulars which add to these facts:
 
-"2. These microfilms were transferred by the British Foreign Office to the archives of Yad Vashem through the Israel Embassy in London. They are now stored in the Yad Vashem Archives in Jerusalem.
+"2. These microfilms were transferred by the British [[ORGANIZATION:org_309|Foreign Office]] to the archives of Yad Vashem through the [[LOCATION:location_38|Israel]] Embassy in [[LOCATION:location_67|London]]. They are now stored in the Yad Vashem Archives in [[LOCATION:location_44|Jerusalem]].
 
 3. In the year 1956, when all the microfilms reached our archives, they were given a general examination by Dr. Verete, who found that they tallied with his order.
 
-4. In the period between July 1960 and February 1961, I handed over to Bureau 06 of the Israel Police the microfilms specified in the list attached and confirmed by my initials.
+4. In the period between July 1960 and February 1961, I handed over to Bureau 06 of the [[LOCATION:location_38|Israel]] Police the microfilms specified in the list attached and confirmed by my initials.
 
 5. Also during the aforementioned period enlargements were prepared, in the laboratories of the Yad Vashem archives, of documents from amongst these microfilms. These enlargements were also delivered by me to the Bureau 06."
 
@@ -207,7 +207,7 @@ I also submit the original together with two copies of that affidavit.
 
 **Q.**In this list, in that document which you are holding in your hand, is there any list at all which gives additional corroboration of the affidavits which you have just submitted?
 
-**A.**Yes. It says on the top of the document :"Foreign Ministry State Department - German War Documents Project." Thereafter there is the number of the department of the German Foreign Ministry and the number of the file that it refers to, the number of the picture, and below: "Filmed on behalf of Dr. Meir Verete, delegate of the Government of Israel, and signed "Prepared by Stambrook" with his signature.
+**A.**Yes. It says on the top of the document :"Foreign Ministry State Department - German War Documents Project." Thereafter there is the number of the department of the German Foreign Ministry and the number of the file that it refers to, the number of the picture, and below: "Filmed on behalf of Dr. [[PERSON:person_407|Meir Verete]], delegate of the Government of [[LOCATION:location_38|Israel]], and signed "Prepared by Stambrook" with his signature.
 
 **State Attorney Bach:** With the Court's permission, I should like to submit this document as a specimen.
 
@@ -223,7 +223,7 @@ I also submit the original together with two copies of that affidavit.
 
 **Q.**Do you have in your possession a comprehensive list of all those documents contained in the evidence file of Bureau 06 and that were passed on to the Prosecution, all those documents whose verification is based on the category you have just now mentioned, which originated in the German Foreign Ministry?
 
-**A.**I have such a list, drawn up according to the films - each microfilm separately. At the top of the list there is always the number of the film. Sometimes two films are recorded on the same page - if the space was wider. Thereafter, the first column - this is the serial number of that film. The second column is the catalogue number. The third column is for the number of the picture or the numbers of the pictures in the film of that document - if there were more than one picture there. The fourth column is the number of Yad Vashem - if the Yad Vashem laboratories prepared the enlargement. If this was not done in our laboratories, then they gave a number in their list, and this number appears. In the fifth column is the number of the Prosecution in previous trials, that is to say, mainly in the Nuremberg Trials. And in the last column - confirmation by means of the Accused's signature. (This confirmation does not say that the Accused confirmed the contents of the document but that he had signed on the reverse side of the document, on the back of the document, in fact to confirm that the document had been shown to him at the time of the interrogation.
+**A.**I have such a list, drawn up according to the films - each microfilm separately. At the top of the list there is always the number of the film. Sometimes two films are recorded on the same page - if the space was wider. Thereafter, the first column - this is the serial number of that film. The second column is the catalogue number. The third column is for the number of the picture or the numbers of the pictures in the film of that document - if there were more than one picture there. The fourth column is the number of Yad Vashem - if the Yad Vashem laboratories prepared the enlargement. If this was not done in our laboratories, then they gave a number in their list, and this number appears. In the fifth column is the number of the Prosecution in previous trials, that is to say, mainly in the [[LOCATION:location_39|Nuremberg]] Trials. And in the last column - confirmation by means of the Accused's signature. (This confirmation does not say that the Accused confirmed the contents of the document but that he had signed on the reverse side of the document, on the back of the document, in fact to confirm that the document had been shown to him at the time of the interrogation.
 
 **Presiding Judge:** Does this apply to all the exhibits?
 
@@ -247,9 +247,9 @@ I should also like to mention that all the documents mentioned here have been pa
 
 Mr. Bar-Shalom, what is the second category of verifications to which you referred?
 
-**Witness Bar-Shalom:** These are the documents originating in the trial of the major Nazi war criminals at the International Military Tribunal at Nuremberg. They were published in 42 volumes in what was called the Blue Series in all the official languages in use there; from these we extracted a number of documents of the prosecution and of the defence, and excerpts of the records of the proceedings; we duplicated these by stencil and treated them as if they were documents which we knew to be verified in the Blue Series which was an official publication of the Tribunal's secretariat and in accordance with the Tribunal's instructions. We made copies of passages from these books, from the German edition.
+**Witness Bar-Shalom:** These are the documents originating in the trial of the major Nazi war criminals at the International Military Tribunal at [[LOCATION:location_39|Nuremberg]]. They were published in 42 volumes in what was called the Blue Series in all the official languages in use there; from these we extracted a number of documents of the prosecution and of the defence, and excerpts of the records of the proceedings; we duplicated these by stencil and treated them as if they were documents which we knew to be verified in the Blue Series which was an official publication of the Tribunal's secretariat and in accordance with the Tribunal's instructions. We made copies of passages from these books, from the German edition.
 
-**State Attorney Bach:** On this point I wish to point out that we intend to place at the Court's disposal the total series of 42 volumes of the Nuremberg Trials, not as proof of each individual item of evidence, but we shall make them available to the Court, and whenever we intend to rely on one or other item of evidence appearing in these volumes we shall point this out specifically - and then the Defence would have the opportunity to argue its case regarding the admissibility of such evidence before this Court. [To Mr. Bar-Shalom] Do you have in your possession a list of those excerpts or copies taken from those 42 volumes which were included in the file of 06?
+**State Attorney Bach:** On this point I wish to point out that we intend to place at the Court's disposal the total series of 42 volumes of the [[LOCATION:location_39|Nuremberg]] Trials, not as proof of each individual item of evidence, but we shall make them available to the Court, and whenever we intend to rely on one or other item of evidence appearing in these volumes we shall point this out specifically - and then the Defence would have the opportunity to argue its case regarding the admissibility of such evidence before this Court. [To Mr. Bar-Shalom] Do you have in your possession a list of those excerpts or copies taken from those 42 volumes which were included in the file of 06?
 
 **Witness Bar-Shalom:** I believe this was printed on the last page of this list.
 
@@ -267,7 +267,7 @@ Mr. Bar-Shalom, what is the second category of verifications to which you referr
 
 **Q.**Do you know anything regarding the nature of the documents which served the prosecution in those trials as evidence in those cases?
 
-**A.**At the time of the withdrawal and at the end of the War the Nazi authorities destroyed many archives. Moreover the circumstances of the War contributed to the destruction of archives. There remained only remnants of various archives scattered throughout Germany and the occupied countries. At the end of the War the documentation department of the Allies assembled these documents and from these it prepared the documents for the prosecution. This fact emerges from the affidavits of Major Coogan and of Major Niebergall, which may be found in volume 15 of the Green Series, in other words, in fact, in an official United States publication of these trials.
+**A.**At the time of the withdrawal and at the end of the War the Nazi authorities destroyed many archives. Moreover the circumstances of the War contributed to the destruction of archives. There remained only remnants of various archives scattered throughout [[LOCATION:location_2|Germany]] and the occupied countries. At the end of the War the documentation department of the Allies assembled these documents and from these it prepared the documents for the prosecution. This fact emerges from the affidavits of Major Coogan and of Major Niebergall, which may be found in volume 15 of the Green Series, in other words, in fact, in an official [[LOCATION:location_68|United States]] publication of these trials.
 
 **Q.**Are these actually the copies of those affidavits of Major Coogan and Major Niebergall to which you referred? Hands witness copies of the affidavits.
 
@@ -290,15 +290,15 @@ The witness explains that the particulars which he submitted previously were bas
 
 **State Attorney Bach:** Can you possibly give the Court details relating to the significance of those markings of which we have heard - NO, NG and PS and so on, since these markings appear in each of the documents which you submitted?
 
-**Witness Bar-Shalom:** The documents were gathered, generally, in various series and in various places. The series was always marked by letters, and a document within the series by a serial number. For example, if we say NG 123 this means, the series of the Nazi Government No. 123, and we added our mark according to the order in which the documents were entered into their files. The most common markings in our documents are PS which stands for Paris - Storey.
+**Witness Bar-Shalom:** The documents were gathered, generally, in various series and in various places. The series was always marked by letters, and a document within the series by a serial number. For example, if we say NG 123 this means, the series of the Nazi Government No. 123, and we added our mark according to the order in which the documents were entered into their files. The most common markings in our documents are PS which stands for [[LOCATION:location_61|Paris]] - Storey.
 
 **Q.**What do these words mean?
 
-**A.**They mean that the office was in Paris and that the Director there was Storey. Hence the name PS but at a later stage additional documents were added to that series, even after the office had moved from Paris and Storey was no longer the Director. The letter L. means London. The letters NG mean Nazi Government and NO Nazi Organization. NOKW means Nazi Oberkommando Wehrmacht, NI and NIG mean Nazi Industries and EC Economic Case. These are the main symbols appearing in our file.
+**A.**They mean that the office was in [[LOCATION:location_61|Paris]] and that the Director there was Storey. Hence the name PS but at a later stage additional documents were added to that series, even after the office had moved from [[LOCATION:location_61|Paris]] and Storey was no longer the Director. The letter L. means [[LOCATION:location_67|London]]. The letters NG mean Nazi Government and NO Nazi Organization. NOKW means Nazi Oberkommando [[ORGANIZATION:org_328|Wehrmacht]], NI and NIG mean Nazi Industries and EC Economic Case. These are the main symbols appearing in our file.
 
 **Q.**Those documents of this category which reached Bureau 06 - where did they come from?
 
-**A.**The main place was the State Archives in Nuremberg. Its name was the State Archives of Bavaria (Nuremberg Division). Upon the conclusion of the trials various documents were handed over by the Court, and later on both by the prosecution and the defence, to the State Archives in Nuremberg. I should like to point out first of all that the "Official Record of the International Military Tribunal," and the "Official Records" - to the extent that they were collected - "of the twelve Subsequent Trials" are now kept at the Hague and in the National Archives of the United States located in Alexandria, near Washington.
+**A.**The main place was the State Archives in [[LOCATION:location_39|Nuremberg]]. Its name was the State Archives of [[LOCATION:location_228|Bavaria]] ([[LOCATION:location_39|Nuremberg]] Division). Upon the conclusion of the trials various documents were handed over by the Court, and later on both by the prosecution and the defence, to the State Archives in [[LOCATION:location_39|Nuremberg]]. I should like to point out first of all that the "Official Record of the International Military Tribunal," and the "Official Records" - to the extent that they were collected - "of the twelve Subsequent Trials" are now kept at [[LOCATION:location_49|the Hague]] and in the National Archives of the [[LOCATION:location_68|United States]] located in [[LOCATION:location_69|Alexandria]], near Washington.
 
 **Q.**You said "to the extent that they were collected." Are the records not there in full?
 
@@ -306,9 +306,9 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Q.**In stating this, are you also relying on any declaration which was received by Bureau 06?
 
-**A.**There is a declaration in Bureau 06 of Dr. Kempner, who was the Deputy Chief Counsel of the United States in these trials. He visited Bureau 06, examined the volumes of documents and records that had reached us, and found that they were the same official records that were issued by the Court in these twelve trials in Nuremberg. He likewise confirmed that these were the photostats and the documents that had been transferred to the State Archives in Nuremberg by the Court authorities.
+**A.**There is a declaration in Bureau 06 of Dr. [[PERSON:person_409|Kempner]], who was the Deputy Chief Counsel of the [[LOCATION:location_68|United States]] in these trials. He visited Bureau 06, examined the volumes of documents and records that had reached us, and found that they were the same official records that were issued by the Court in these twelve trials in [[LOCATION:location_39|Nuremberg]]. He likewise confirmed that these were the photostats and the documents that had been transferred to the State Archives in [[LOCATION:location_39|Nuremberg]] by the Court authorities.
 
-**State Attorney Bach:** With the Court's permission I should like to submit as evidence the affidavit of Dr. Kempner on this point. I have the original and the Hebrew translation as well as two copies.
+**State Attorney Bach:** With the Court's permission I should like to submit as evidence the affidavit of Dr. [[PERSON:person_409|Kempner]] on this point. I have the original and the Hebrew translation as well as two copies.
 
 **Presiding Judge:** This document will be T/12.
 
@@ -316,19 +316,19 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Presiding Judge:** Is it necessary for you to read the entire document? Perhaps we can glance at the document - since this would be quicker?
 
-**State Attorney Bach:** As the Court pleases. Actually we have here a corroboration of the facts to which the witness has already testified. [To Bar-Shalom] The affidavit of Dr. Kempner refers to the same stencil which, as you said, he had confirmed were original documents and which served as such documents for the prosecution in Nuremberg. Did you also receive an affidavit in connection with those copies and photostats relating to documents which were kept at the State Archives in Nuremberg?
+**State Attorney Bach:** As the Court pleases. Actually we have here a corroboration of the facts to which the witness has already testified. [To Bar-Shalom] The affidavit of Dr. [[PERSON:person_409|Kempner]] refers to the same stencil which, as you said, he had confirmed were original documents and which served as such documents for the prosecution in [[LOCATION:location_39|Nuremberg]]. Did you also receive an affidavit in connection with those copies and photostats relating to documents which were kept at the State Archives in [[LOCATION:location_39|Nuremberg]]?
 
-**Witness Bar-Shalom:** Mr. Gershon Shapira was sent by Yad Vashem to the State Archives in Nuremberg in order to gather material, and he took photographs there of all the copies and the photostats which had been submitted to Court and had been delivered subsequently to the State Archives in Nuremberg. This is as far as the photostatic copies are concerned. Similarly he obtained from the State Archives in Nuremberg those stencils which we showed to Dr. Kempner, and he brought them to Yad Vashem, and we received them from Yad Vashem.
+**Witness Bar-Shalom:** Mr. Gershon [[PERSON:person_410|Shapira]] was sent by Yad Vashem to the State Archives in [[LOCATION:location_39|Nuremberg]] in order to gather material, and he took photographs there of all the copies and the photostats which had been submitted to Court and had been delivered subsequently to the State Archives in [[LOCATION:location_39|Nuremberg]]. This is as far as the photostatic copies are concerned. Similarly he obtained from the State Archives in [[LOCATION:location_39|Nuremberg]] those stencils which we showed to Dr. [[PERSON:person_409|Kempner]], and he brought them to Yad Vashem, and we received them from Yad Vashem.
 
-**Q.**Did Mr. Shapira also make a statement on this second fact in the affidavit which you saw?
+**Q.**Did Mr. [[PERSON:person_410|Shapira]] also make a statement on this second fact in the affidavit which you saw?
 
 **A.**Yes, he made a statement on both matters in the affidavit.
 
 **Q.**Did he also annex to this affidavit a list of all those files and documents he himself photographed?
 
-**A.**He annexed an original list which he had made at the time in Nuremberg, and he also attached a specimen of a specification list; that is to say a kind of detailed list of the photographs of films.
+**A.**He annexed an original list which he had made at the time in [[LOCATION:location_39|Nuremberg]], and he also attached a specimen of a specification list; that is to say a kind of detailed list of the photographs of films.
 
-**State Attorney Bach:** With the Court's permission I should like to submit this affidavit in evidence at this trial. I should like to add this affidavit bearing our catalogue number - 1521. I should add - I omitted to mention this before - that Dr. Kempner's affidavit bears the catalogue number 1425.
+**State Attorney Bach:** With the Court's permission I should like to submit this affidavit in evidence at this trial. I should like to add this affidavit bearing our catalogue number - 1521. I should add - I omitted to mention this before - that Dr. [[PERSON:person_409|Kempner]]'s affidavit bears the catalogue number 1425.
 
 **Presiding Judge:** There is one matter here which you have not spoken of - the "register card."
 
@@ -360,11 +360,11 @@ The witness explains that the particulars which he submitted previously were bas
 
 **State Attorney Bach:** Mr. Bar-Shalom - do you have before you inclusive lists of those documents which were entered in our catalogue and the verification of which is based on the evidence we have just submitted?
 
-**Witness Bar-Shalom:** I have two lists. The one is the list of those documents which were enlarged from microfilm in which there is, again, a serial number, a catalogue number, the number of the prosecution in Nuremberg and the number of the film, according to the markings of Yad Vashem, and again the identifying mark of each picture which was examined, of each enlargement that was examined. And I marked it with the number of the film on the back of the document in the same way.
+**Witness Bar-Shalom:** I have two lists. The one is the list of those documents which were enlarged from microfilm in which there is, again, a serial number, a catalogue number, the number of the prosecution in [[LOCATION:location_39|Nuremberg]] and the number of the film, according to the markings of Yad Vashem, and again the identifying mark of each picture which was examined, of each enlargement that was examined. And I marked it with the number of the film on the back of the document in the same way.
 
-**Presiding Judge:** Was all this from Nuremberg?
+**Presiding Judge:** Was all this from [[LOCATION:location_39|Nuremberg]]?
 
-**Witness Bar-Shalom:** All this was from Nuremberg. The second list of documents consists of those actually taken from the Defence Document Book or the Prosecution Document Book or the record of the Court in stencil as confirmed by Dr. Kempner and which are kept in our archives here, upstairs.
+**Witness Bar-Shalom:** All this was from [[LOCATION:location_39|Nuremberg]]. The second list of documents consists of those actually taken from the Defence Document Book or the Prosecution Document Book or the record of the Court in stencil as confirmed by Dr. [[PERSON:person_409|Kempner]] and which are kept in our archives here, upstairs.
 
 **State Attorney Bach:** I ask the Court to accept these two lists in evidence.
 
@@ -374,23 +374,23 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Presiding Judge:** The two lists will be marked T/15 and T/16.
 
-**State Attorney Bach:** Did you also order and did you receive a number of documents from the National Archives of the United States in Alexandria near Washington?
+**State Attorney Bach:** Did you also order and did you receive a number of documents from the National Archives of the [[LOCATION:location_68|United States]] in [[LOCATION:location_69|Alexandria]] near Washington?
 
 **Witness Bar-Shalom:** We both ordered and received from the National Archives a number of documents, and these were mainly documents relating to the prosecution such as NG, PS and so forth, which we obtained in several consignments bound in volumes and certified by the head of the Archives. And we also received a copy for work purposes. We keep the bound volumes in a locked cupboard, and have placed in the file the copies for work purposes which I had compared and marked in the same corner with the signs A/1, A/2, A/3 - according to the consignment. We did so since they sent us many volumes and documents bound together, and for purposes of the examination, for the sake of convenience, we were obliged to separate them. We did not use all the bound documents we received in each consignment, nor each of the documents in its entirety, but only such documents as we found to be appropriate. The list is attached.
 
 **State Attorney Bach:** I ask you to accept this list also as an exhibit.
 
-**Presiding Judge:** This is the list of documents from the National Archives of the United States and it is marked T/17.
+**Presiding Judge:** This is the list of documents from the National Archives of the [[LOCATION:location_68|United States]] and it is marked T/17.
 
-**State Attorney Bach:** Mr. Bar-Shalom, I understand this latest list consists of documents which were also exhibited in the twelve trials at Nuremberg. Did you, in addition to this, also receive from the same source, from the National Archives of the United States, further documents?
+**State Attorney Bach:** Mr. Bar-Shalom, I understand this latest list consists of documents which were also exhibited in the twelve trials at [[LOCATION:location_39|Nuremberg]]. Did you, in addition to this, also receive from the same source, from the National Archives of the [[LOCATION:location_68|United States]], further documents?
 
 **Witness Bar-Shalom:** We also received from them documents photographed on four microfilms, with the addition of a statement that the microfilms were prepared specially for us. From these microfilms we extracted a number of documents, in the way I have previously described, and I marked them in the way I have previously described by the symbol Alex 1, Alex 2, Alex 3 in the lower right-hand corner of the enlargements.
 
-**Presiding Judge:** Does Alex stand for Alexandria?
+**Presiding Judge:** Does Alex stand for [[LOCATION:location_69|Alexandria]]?
 
 **Witness Bar-Shalom:** Yes. And this is the list.
 
-**State Attorney Bach:** Before this I should like to submit to the Court the affidavit of Mr. Wayne C. Grover, Archivist of the United States Archives who certifies here the details about which Mr. Bar-Shalom has testified. The document bears our catalogue number 1581.
+**State Attorney Bach:** Before this I should like to submit to the Court the affidavit of Mr. Wayne C. Grover, Archivist of the [[LOCATION:location_68|United States]] Archives who certifies here the details about which Mr. Bar-Shalom has testified. The document bears our catalogue number 1581.
 
 **Presiding Judge:** This is marked T/18.
 
@@ -406,27 +406,27 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Witness Bar-Shalom:** The next category contains documents which we received from various countries and every individual document is certified on the back by the appropriate institution of that country. Consequently there is no need for additional certification. This is the list of the documents.
 
-**State Attorney Bach:** These are lists of documents received from Czechoslovakia, Hungary, Italy, Poland and Yugoslavia and which were included in the material of the Prosecution's evidence, according to the catalogue number appearing on each individual document. I submit this list, also as an exhibit in this trial.
+**State Attorney Bach:** These are lists of documents received from [[LOCATION:location_15|Czechoslovakia]], [[LOCATION:location_24|Hungary]], [[LOCATION:location_19|Italy]], [[LOCATION:location_5|Poland]] and [[LOCATION:location_25|Yugoslavia]] and which were included in the material of the Prosecution's evidence, according to the catalogue number appearing on each individual document. I submit this list, also as an exhibit in this trial.
 
 **Presiding Judge:** The list will be marked T/20, consisting of six pages.
 
-**State Attorney Bach:** Mr. Bar-Shalom - do you have a list of those documents which you received from the Berlin Documentation Center?
+**State Attorney Bach:** Mr. Bar-Shalom - do you have a list of those documents which you received from the [[LOCATION:location_1|Berlin]] Documentation Center?
 
-**Witness Bar-Shalom:** In the Berlin Documentation Center there are the personal files of the SS personnel.
+**Witness Bar-Shalom:** In the [[LOCATION:location_1|Berlin]] Documentation Center there are the personal files of the SS personnel.
 
 **Presiding Judge:** Who manages this Center?
 
-**Witness Bar-Shalom:** The United States authorities. We received from the United States authorities a photocopy of the Accused's personal file. Every photocopy is certified on the back by the Archives. This list is before me. Part of the personal file we did not receive from them, but from Yad Vashem and the source from which these photocopies came is not known to us. These are marked on this list - where there is no certification from the Berlin Documentation Center - those documents which we received from Yad Vashem.
+**Witness Bar-Shalom:** The [[LOCATION:location_68|United States]] authorities. We received from the [[LOCATION:location_68|United States]] authorities a photocopy of the Accused's personal file. Every photocopy is certified on the back by the Archives. This list is before me. Part of the personal file we did not receive from them, but from Yad Vashem and the source from which these photocopies came is not known to us. These are marked on this list - where there is no certification from the [[LOCATION:location_1|Berlin]] Documentation Center - those documents which we received from Yad Vashem.
 
 **Q.**How did this file reach this Center?
 
-**A.**Many of the prosecution and defence documents of the Nuremberg Trials were also there. And the personal file of the Accused also bore a Nuremberg prosecution number - an NO number.
+**A.**Many of the prosecution and defence documents of the [[LOCATION:location_39|Nuremberg]] Trials were also there. And the personal file of the Accused also bore a [[LOCATION:location_39|Nuremberg]] prosecution number - an NO number.
 
 **State Attorney Bach:** I ask the Court to accept this list, also, as evidence.
 
 **Presiding Judge:** The list is marked T/21.
 
-**State Attorney Bach:** At this stage I ask the Court to receive in evidence an additional affidavit of Dr. Joseph Kermish, the head of the Yad Vashem Archives, which includes a list of the original documents delivered to Bureau 06 by the Directorate of Yad Vashem. This list bears the catalogue number 1573.
+**State Attorney Bach:** At this stage I ask the Court to receive in evidence an additional affidavit of Dr. [[PERSON:person_408|Joseph Kermish]], the head of the Yad Vashem Archives, which includes a list of the original documents delivered to Bureau 06 by the Directorate of Yad Vashem. This list bears the catalogue number 1573.
 
 **Presiding Judge:** The list will be marked T/22.
 
@@ -436,7 +436,7 @@ The witness explains that the particulars which he submitted previously were bas
 
 **State Attorney Bach:** Mr. Bar-Shalom, could you perhaps give the Court details about the documents received by Bureau 06 from the Centre de Documentation Juive Contemporaine.
 
-**Witness Bar-Shalom:** The Institution which we call for short Centre sent us original documents and we also used microfilms which were made at the Centre itself for Yad Vashem by Dr. Alsberg. The original documents which reached us accompanied by affidavits of Mr. Billig and Mr. Poliakov of the Centre are those which were received from the French authorities immediately after the World War. The French authorities, at the time, seized the entire archives of the Gestapo in Paris and gave Mr. Poliakov special permission for access to its Jewish section. From there the Centre received some of the documents, in their original form, as a gift, and some of the documents were photographed by the Centre on microfilm or in photostats kept in the Centre.
+**Witness Bar-Shalom:** The Institution which we call for short Centre sent us original documents and we also used microfilms which were made at the Centre itself for Yad Vashem by Dr. [[PERSON:person_411|Alsberg]]. The original documents which reached us accompanied by affidavits of Mr. [[PERSON:person_412|Billig]] and Mr. [[PERSON:person_413|Poliakov]] of the Centre are those which were received from the French authorities immediately after the World War. The French authorities, at the time, seized the entire archives of the [[ORGANIZATION:org_344|Gestapo]] in [[LOCATION:location_61|Paris]] and gave Mr. [[PERSON:person_413|Poliakov]] special permission for access to its Jewish section. From there the Centre received some of the documents, in their original form, as a gift, and some of the documents were photographed by the Centre on microfilm or in photostats kept in the Centre.
 
 **Presiding Judge:** What was this Institution? Who ran it?
 
@@ -446,7 +446,7 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Witness Bar-Shalom:** This is a Jewish institution under Government auspices.
 
-**State Attorney Bach:** Your Honours, I should like to submit the affidavits of Messrs. Billig and Poliakov - these were made in the French language and we have attached a Hebrew translation thereof.
+**State Attorney Bach:** Your Honours, I should like to submit the affidavits of Messrs. [[PERSON:person_412|Billig]] and [[PERSON:person_413|Poliakov]] - these were made in the French language and we have attached a Hebrew translation thereof.
 
 **Presiding Judge:** [After receiving the documents] Is all this one document?
 
@@ -454,15 +454,15 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Presiding Judge:** You spoke of two.
 
-**State Attorney Bach:** This document contains the two affidavits of Mr. Billig and of Mr. Poliakov. And the entire document bears the number 1504.
+**State Attorney Bach:** This document contains the two affidavits of Mr. [[PERSON:person_412|Billig]] and of Mr. [[PERSON:person_413|Poliakov]]. And the entire document bears the number 1504.
 
 **Presiding Judge:** This document is marked T/24.
 
-**State Attorney Bach:** To complete this picture, I should like to submit two additional affidavits - the one of Dr. Avraham Alsberg who in Paris prepared certain microfilms from those documents to which Mr. Poliakov attests, and the second, an affidavit of Dr. Kermish who transferred these films to Bureau 06. The affidavit of Dr. Alsberg bears the number 1554.
+**State Attorney Bach:** To complete this picture, I should like to submit two additional affidavits - the one of Dr. Avraham [[PERSON:person_411|Alsberg]] who in [[LOCATION:location_61|Paris]] prepared certain microfilms from those documents to which Mr. [[PERSON:person_413|Poliakov]] attests, and the second, an affidavit of Dr. Kermish who transferred these films to Bureau 06. The affidavit of Dr. [[PERSON:person_411|Alsberg]] bears the number 1554.
 
 **Presiding Judge:** This document is marked T/25.
 
-**State Attorney Bach:** And the affidavit of Dr. Joseph Kermish which relates to these documents bears the number 1575. This is the solution of our earlier mystery. Some of the previous documents were wrongly marked.
+**State Attorney Bach:** And the affidavit of Dr. [[PERSON:person_408|Joseph Kermish]] which relates to these documents bears the number 1575. This is the solution of our earlier mystery. Some of the previous documents were wrongly marked.
 
 **Presiding Judge:** This document is marked T/26.
 
@@ -470,7 +470,7 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Witness Bar-Shalom:** There are two lists: one of the original documents and one of the photocopies, marked as was indicated previously.
 
-**Presiding Judge:** Does this include everything that came from Paris?
+**Presiding Judge:** Does this include everything that came from [[LOCATION:location_61|Paris]]?
 
 **Witness Bar-Shalom:** Which originated in the 05Centre.
 
@@ -482,14 +482,14 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Witness Bar-Shalom:** These are two different things. The first is a list of the original documents we received.
 
-**State Attorney Bach:** Your Honour, in the affidavit of Mr. Poliakov, there is reference both to the original documents transferred by him to the Israel authorities and also to the microfilms which contained photocopies of the same documents. Accordingly Mr. Bar-Shalom is now submitting two separate lists, a list of original documents and a list of documents which are made up of photocopies.
+**State Attorney Bach:** Your Honour, in the affidavit of Mr. [[PERSON:person_413|Poliakov]], there is reference both to the original documents transferred by him to the [[LOCATION:location_38|Israel]] authorities and also to the microfilms which contained photocopies of the same documents. Accordingly Mr. Bar-Shalom is now submitting two separate lists, a list of original documents and a list of documents which are made up of photocopies.
 
 **Presiding Judge:** The list of original documents is marked T/27. The list of the photographed documents (the microfilm) is marked T/28.
 ---
 
 **State Attorney Bach:** Mr. Bar-Shalom - do you have a list of all those documents which you received from the Rijksinstituut voor Oorlogsdocumentatie?
 
-**Witness Bar-Shalom:** Here is a list of the documents we received from Amsterdam.
+**Witness Bar-Shalom:** Here is a list of the documents we received from [[LOCATION:location_60|Amsterdam]].
 
 **Presiding Judge:** This list is marked T/29.
 
@@ -497,19 +497,19 @@ The witness explains that the particulars which he submitted previously were bas
 
 **Witness Bar-Shalom:** In this list also there are two kinds of documents. One kind are original documents, and the second are photocopies which also were sent by the Director of the Institute, Mr. Sijes, who prepared an expert opinion for us and attached the documents. He made a declaration that he had seen these documents, photocopies of which he was sending us, in their original form.
 
-**Q.**Mr. Bar-Shalom - do you know anything concerning documents which were received from a man by the name of Dr. Loewenherz?
+**Q.**Mr. Bar-Shalom - do you know anything concerning documents which were received from a man by the name of Dr. [[PERSON:person_414|Loewenherz]]?
 
-**A.**Yes. The Vice-Consul of Israel in New York, Mr. Sidon, approached the late Dr. Loewenherz, who had been the head of the Jewish Community in Vienna at the time of the Holocaust. A report which had been called by all the investigators the Loewenherz Report, which had also received a prosecution number in the Nuremberg Trials (PS 3954), was shown to him. But Dr. Loewenherz stated that it was not he who had written the report, but that he had a copy thereof; that the report had been drawn up immediately after the War by the Jewish Community in Vienna, of which he was the head and he confirmed that its contents were correct.
+**A.**Yes. The Vice-Consul of [[LOCATION:location_38|Israel]] in New York, Mr. [[PERSON:person_415|Sidon]], approached the late Dr. [[PERSON:person_414|Loewenherz]], who had been the head of the Jewish Community in [[LOCATION:location_3|Vienna]] at the time of the [[EVENT:event_386|Holocaust]]. A report which had been called by all the investigators the [[PERSON:person_414|Loewenherz]] Report, which had also received a prosecution number in the [[LOCATION:location_39|Nuremberg]] Trials (PS 3954), was shown to him. But Dr. [[PERSON:person_414|Loewenherz]] stated that it was not he who had written the report, but that he had a copy thereof; that the report had been drawn up immediately after the War by the Jewish Community in [[LOCATION:location_3|Vienna]], of which he was the head and he confirmed that its contents were correct.
 
-On the same occasion he handed over to Mr. Sidon three office files containing were copies of a report by Dr. Loewenherz of his contacts with the Nazi authorities during the period of the Holocaust. He explained to Mr. Sidon at that time that he had taken these files from the archives of the Jewish Community in Vienna - had taken them with him to the United States. Mr. Sidon was supposed to come to him the following day in order to take an affidavit from him. But Dr. Loewenherz suffered a severe heart attack and passed away a few days afterwards. These original documents reached us. We photographed them on microfilm and also prepared enlargements. The original documents are also in our possession.
+On the same occasion he handed over to Mr. [[PERSON:person_415|Sidon]] three office files containing were copies of a report by Dr. [[PERSON:person_414|Loewenherz]] of his contacts with the Nazi authorities during the period of the [[EVENT:event_386|Holocaust]]. He explained to Mr. [[PERSON:person_415|Sidon]] at that time that he had taken these files from the archives of the Jewish Community in [[LOCATION:location_3|Vienna]] - had taken them with him to the [[LOCATION:location_68|United States]]. Mr. [[PERSON:person_415|Sidon]] was supposed to come to him the following day in order to take an affidavit from him. But Dr. [[PERSON:person_414|Loewenherz]] suffered a severe heart attack and passed away a few days afterwards. These original documents reached us. We photographed them on microfilm and also prepared enlargements. The original documents are also in our possession.
 
-**Q.**Did you receive an affidavit from Mr. Sidon on the facts you have just described?
+**Q.**Did you receive an affidavit from Mr. [[PERSON:person_415|Sidon]] on the facts you have just described?
 
 **A.**Yes.
 
 **State Attorney Bach:** Your Honours, in view of the fact that this affidavit relates to some of these documents, which we shall submit to the Court when we submit the documents themselves as evidence, I shall content myself for the present with the general explanation which the witness has given.
 
-[To Rav-Pakad Bar-Shalom] Perhaps I would ask you only this: Do you have a list of those documents which I shall call "the documents of Dr. Loewenherz" which came into our possession and which were entered into the catalogue of Prosecution documents?
+[To Rav-Pakad Bar-Shalom] Perhaps I would ask you only this: Do you have a list of those documents which I shall call "the documents of Dr. [[PERSON:person_414|Loewenherz]]" which came into our possession and which were entered into the catalogue of Prosecution documents?
 
 **Witness Bar-Shalom:** Yes - here is the list.
 
@@ -519,23 +519,23 @@ On the same occasion he handed over to Mr. Sidon three office files containing w
 
 **Presiding Judge:** We shall mark them T/30.
 
-**State Attorney Bach:** Do you know anything, Rav-Pakad Bar- Shalom, about documents which were received from Mr. Wahler?
+**State Attorney Bach:** Do you know anything, Rav-Pakad Bar- Shalom, about documents which were received from Mr. [[PERSON:person_416|Wahler]]?
 
-**Witness Bar-Shalom:** Mr. Wahler, who worked with the prosecution at Nuremberg and dealt with documents, sent us via the Israel Consulate in Switzerland, together with an affidavit, ten volumes and other documents of what was called by the investigation the "Wuerzburg Gestapo Documents" containing lists of deportees, directives and so on. We extracted from these ten volumes a number of documents which are in a list here, according to volumes, and according to the number of the page in the volume. These are also photocopies. Mr. Wahler confirms that he dealt with the originals and that these were the photocopies which he retained in his possession.
+**Witness Bar-Shalom:** Mr. [[PERSON:person_416|Wahler]], who worked with the prosecution at [[LOCATION:location_39|Nuremberg]] and dealt with documents, sent us via the [[LOCATION:location_38|Israel]] Consulate in [[LOCATION:location_53|Switzerland]], together with an affidavit, ten volumes and other documents of what was called by the investigation the "[[LOCATION:location_70|Wuerzburg]] [[ORGANIZATION:org_344|Gestapo]] Documents" containing lists of deportees, directives and so on. We extracted from these ten volumes a number of documents which are in a list here, according to volumes, and according to the number of the page in the volume. These are also photocopies. Mr. [[PERSON:person_416|Wahler]] confirms that he dealt with the originals and that these were the photocopies which he retained in his possession.
 
-**State Attorney Bach:** I wish to submit the affidavit of Mr. Wahler.
+**State Attorney Bach:** I wish to submit the affidavit of Mr. [[PERSON:person_416|Wahler]].
 
-**Presiding Judge:** How did the documents reach Dr. Wahler from Wuerzburg? Through whom?
+**Presiding Judge:** How did the documents reach Dr. [[PERSON:person_416|Wahler]] from [[LOCATION:location_70|Wuerzburg]]? Through whom?
 
 **State Attorney Bach:** Perhaps it would be useful if I were to quote from the affidavit itself:
 
-"I, Isaac E. Wahler, formerly Research Analyst at the International Nuremberg Military Tribunal (February 1947 - October 1948), knowing that I make myself punishable by law if I make a wrong statement under oath, declare hereby:
+"I, Isaac E. [[PERSON:person_416|Wahler]], formerly Research Analyst at the International [[LOCATION:location_39|Nuremberg]] Military Tribunal (February 1947 - October 1948), knowing that I make myself punishable by law if I make a wrong statement under oath, declare hereby:
 
-I myself saw the originals of the photocopies attached hereby and marked "Judendeportierung Wuerzburg 1941-1943 (Band 1-10)"... I declare that these documents are true photocopies of the originals which I have personally seen and which have been prepared under my personal supervision and are true copies of the originals..."
+I myself saw the originals of the photocopies attached hereby and marked "Judendeportierung [[LOCATION:location_70|Wuerzburg]] 1941-1943 (Band 1-10)"... I declare that these documents are true photocopies of the originals which I have personally seen and which have been prepared under my personal supervision and are true copies of the originals..."
 
-It does not emerge clearly from this where he compared these documents with the originals. One can only surmise, of course, that in his capacity of "Research Analyst at the Nuremberg Trials" he had access to these documents.
+It does not emerge clearly from this where he compared these documents with the originals. One can only surmise, of course, that in his capacity of "Research Analyst at the [[LOCATION:location_39|Nuremberg]] Trials" he had access to these documents.
 
-The affidavit of Mr. Wahler bears our catalogue number 1295.
+The affidavit of Mr. [[PERSON:person_416|Wahler]] bears our catalogue number 1295.
 
 **Presiding Judge:** This will be T/31.
 
@@ -551,7 +551,7 @@ The affidavit of Mr. Wahler bears our catalogue number 1295.
 
 **State Attorney Bach:** Are there details of another category of evidence according to the methods of verification?
 
-**Witness Bar-Shalom:** We also received documents from the collection prepared by the United Restitution Organization, known as U. R. O., which deals with questions of reparations from Germany. We took a number of documents from a collection which they had prepared for the purpose of claims from Rumania. We tried to trace the source but did not find the origin of the documents, despite the fact that we managed to secure photostats. For the purpose of verification we found in Yad Vashem one complete file which had come from the German Embassy in Bucharest. This was the file of the "Berater fuer Judenfragen" - the adviser on Jewish affairs; his name was Richter and his signature is there. We compared these signatures with those on the photostats with the aid of a police expert, Mr. Hagag, and he found them to be identical. This is the only verification of these documents.
+**Witness Bar-Shalom:** We also received documents from the collection prepared by the United Restitution Organization, known as U. R. O., which deals with questions of reparations from [[LOCATION:location_2|Germany]]. We took a number of documents from a collection which they had prepared for the purpose of claims from Rumania. We tried to trace the source but did not find the origin of the documents, despite the fact that we managed to secure photostats. For the purpose of verification we found in Yad Vashem one complete file which had come from the German Embassy in [[LOCATION:location_71|Bucharest]]. This was the file of the "Berater fuer Judenfragen" - the adviser on Jewish affairs; his name was [[PERSON:person_417|Richter]] and his signature is there. We compared these signatures with those on the photostats with the aid of a police expert, Mr. Hagag, and he found them to be identical. This is the only verification of these documents.
 
 **Q.**Do you have a list of those documents?
 
@@ -563,7 +563,7 @@ The affidavit of Mr. Wahler bears our catalogue number 1295.
 
 **State Attorney Bach:** Do you know any details concerning a matter of documents that were identified by Mr. Shimon ben Asher Wiesenthal?
 
-**Witness Bar-Shalom:** We received photocopies of photographed documents, from the contents of which we were able to gather that they originated in Vienna and Linz. We approached Mr. Wiesenthal, who is engaged in the investigation of the Holocaust, and who would be able to obtain the sources for us or lead us to those sources. Mr. Wiesenthal stated to us that he himself had seen the original documents in two archives, one in Vienna and the other in Linz, which were in the possession of the American authorities there after the War. We produced the documents to him and he gave us an affidavit on this matter.
+**Witness Bar-Shalom:** We received photocopies of photographed documents, from the contents of which we were able to gather that they originated in [[LOCATION:location_3|Vienna]] and [[LOCATION:location_72|Linz]]. We approached Mr. Wiesenthal, who is engaged in the investigation of the [[EVENT:event_386|Holocaust]], and who would be able to obtain the sources for us or lead us to those sources. Mr. Wiesenthal stated to us that he himself had seen the original documents in two archives, one in [[LOCATION:location_3|Vienna]] and the other in [[LOCATION:location_72|Linz]], which were in the possession of the American authorities there after the War. We produced the documents to him and he gave us an affidavit on this matter.
 
 **State Attorney Bach:** With the Court's permission I should like to submit this affidavit to you. This affidavit bears our number 1572.
 
@@ -579,15 +579,15 @@ The affidavit of Mr. Wahler bears our catalogue number 1295.
 
 **State Attorney Bach:** And now, as the last exhibit, did you receive at Bureau 06 the opinion of a handwriting expert in regard to various documents which were in the possession of the Bureau?
 
-**Witness Bar-Shalom:** We received an opinion of the expert, Mr. Hagag, on the signatures and the handwriting of twelve persons, and they are the signatures and handwriting of the Accused, Knochen, Dannecker, Guenther, Wisliceny, Six, Roethke, Luther, Rademacher, Loewenherz, Richter and von Thadden. Either the Accused identified them or we obtained some other confirmation as to their identity. The handwriting expert made comparisons and gave us his expert opinion.
+**Witness Bar-Shalom:** We received an opinion of the expert, Mr. Hagag, on the signatures and the handwriting of twelve persons, and they are the signatures and handwriting of the Accused, Knochen, Dannecker, Guenther, Wisliceny, Six, Roethke, Luther, Rademacher, [[PERSON:person_414|Loewenherz]], [[PERSON:person_417|Richter]] and von Thadden. Either the Accused identified them or we obtained some other confirmation as to their identity. The handwriting expert made comparisons and gave us his expert opinion.
 
 **Presiding Judge:** In addition to this did the Accused confirm these signatures to be correct?
 
 **Witness Bar-Shalom:** Not all of them. He confirmed some of them, of those persons who were better known to him.
 
-**State Attorney Bach:** Mr. Hagag, the handwriting expert, confirms that a number of documents which were shown to him and each of which, let us suppose, bears the signatures of Richter, Dannecker, Roethke etc. - that all the documents were signed by that person. This in fact is the evidence of Mr. Hagag. Later on, we shall request the Court to admit in evidence the Accused's statement to the police, in which he states that certain documents were shown to him. If the Accused, for example, identified even one document only, the signature of one of his subordinates, such as Roethke or Dannecker, and Mr. Hagag confirms that this document was signed by that person as in twenty other documents, we would then be able to ask the Court to conclude that the remaining documents were verified by the linking of two such testimonies together. But I believe that it will be proved to the Court, when we begin submitting documents that most of the documents are verified in more than one way. If we take, for example, that same Roethke, who was mentioned by the witness, a document such as that was brought to us by Mr. Poliakov together with a certificate that this document was a certified copy of a document which was found among the Gestapo copies in Paris, this would be one way of verification.
+**State Attorney Bach:** Mr. Hagag, the handwriting expert, confirms that a number of documents which were shown to him and each of which, let us suppose, bears the signatures of [[PERSON:person_417|Richter]], Dannecker, Roethke etc. - that all the documents were signed by that person. This in fact is the evidence of Mr. Hagag. Later on, we shall request the Court to admit in evidence the Accused's statement to the police, in which he states that certain documents were shown to him. If the Accused, for example, identified even one document only, the signature of one of his subordinates, such as Roethke or Dannecker, and Mr. Hagag confirms that this document was signed by that person as in twenty other documents, we would then be able to ask the Court to conclude that the remaining documents were verified by the linking of two such testimonies together. But I believe that it will be proved to the Court, when we begin submitting documents that most of the documents are verified in more than one way. If we take, for example, that same Roethke, who was mentioned by the witness, a document such as that was brought to us by Mr. [[PERSON:person_413|Poliakov]] together with a certificate that this document was a certified copy of a document which was found among the [[ORGANIZATION:org_344|Gestapo]] copies in [[LOCATION:location_61|Paris]], this would be one way of verification.
 
-Subsequently the same document was submitted at the Nuremberg Trials and was given, let us say, the number of exhibit RF, and thereafter we would be able to verify it by producing one of the volumes of the Nuremberg Trials. After that the document was also produced to the Accused and he identified the signature of that person. I believe that in this way it will be proved to the Court, from the actual visual picture of those documents, that the authenticity of the overwhelming majority of the documents will have been proved beyond the shadow of doubt. I would further ask the Court to accept in evidence only that collection of confirmations by the handwriting expert, Mr. Hagag.
+Subsequently the same document was submitted at the [[LOCATION:location_39|Nuremberg]] Trials and was given, let us say, the number of exhibit RF, and thereafter we would be able to verify it by producing one of the volumes of the [[LOCATION:location_39|Nuremberg]] Trials. After that the document was also produced to the Accused and he identified the signature of that person. I believe that in this way it will be proved to the Court, from the actual visual picture of those documents, that the authenticity of the overwhelming majority of the documents will have been proved beyond the shadow of doubt. I would further ask the Court to accept in evidence only that collection of confirmations by the handwriting expert, Mr. Hagag.
 
 **Presiding Judge:** This will be T/36. It contains thirteen expert opinions of Mr. Hagag.
 
@@ -597,7 +597,7 @@ Subsequently the same document was submitted at the Nuremberg Trials and was giv
 
 **Q.**I understand that these bulletins have not so far been included in the lists which you have submitted to the Court.
 
-**A.**They have not yet been included in the list I submitted, since we have ordered these documents from Poland, either in their original form or photocopies of the originals, and we have not yet received them.
+**A.**They have not yet been included in the list I submitted, since we have ordered these documents from [[LOCATION:location_5|Poland]], either in their original form or photocopies of the originals, and we have not yet received them.
 
 **State Attorney Bach:** Thank you very much.
 
@@ -623,7 +623,7 @@ Subsequently the same document was submitted at the Nuremberg Trials and was giv
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** My name is Avner Less.
+**Witness:** My name is [[PERSON:witness_11|Avner Less]].
 
 **Presiding Judge:** Your rank?
 

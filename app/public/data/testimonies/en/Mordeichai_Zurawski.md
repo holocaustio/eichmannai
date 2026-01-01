@@ -1,4 +1,4 @@
-# Testimony of Mordeichai Zurawski
+# Testimony of [[PERSON:witness_67|Mordeichai Zurawski]]
 
 **Session:** 65
 
@@ -20,13 +20,13 @@
 
 **A.**Yes.
 
-**Q.**And you remember when the Loddz Ghetto was being evacuated, and Biebow told you that you were going to a labour camp in Leipzig, and everything would be fine there for us?
+**Q.**And you remember when the Loddz Ghetto was being evacuated, and Biebow told you that you were going to a labour camp in [[LOCATION:location_116|Leipzig]], and everything would be fine there for us?
 
-**A.**He said we were going to Leipzig, and: "If you Jews work well, all will be well with you."
+**A.**He said we were going to [[LOCATION:location_116|Leipzig]], and: "If you Jews work well, all will be well with you."
 
 **Q.**And they put you into railway carriages?
 
-**A.**Yes, into freight cars, and we moved in the direction of Kolo.
+**A.**Yes, into freight cars, and we moved in the direction of [[LOCATION:location_283|Kolo]].
 
 **Q.**In the car there was something written in Polish?
 
@@ -46,11 +46,11 @@
 
 **Q.**Where did the train arrive at?
 
-**A.**The train arrived at Kolo.
+**A.**The train arrived at [[LOCATION:location_283|Kolo]].
 
 **Q.**And from there?
 
-**A.**From Kolo they transferred us into smaller waggons which went in the direction of Chelmno.
+**A.**From [[LOCATION:location_283|Kolo]] they transferred us into smaller waggons which went in the direction of [[LOCATION:location_168|Chelmno]].
 
 **Q.**When they took you out of the waggons, a few people were dead already?
 
@@ -58,7 +58,7 @@
 
 **Q.**When you arrived, did you meet Germans?
 
-**A.**When we arrived at Chelmno, we met Germans.
+**A.**When we arrived at [[LOCATION:location_168|Chelmno]], we met Germans.
 
 **Q.**From what unit?
 
@@ -70,7 +70,7 @@
 
 **Q.**Where to?
 
-**A.**Into the camp of Chelmno. From the station, it was some one hundred or two hundred metres. I don't remember exactly.
+**A.**Into the camp of [[LOCATION:location_168|Chelmno]]. From the station, it was some one hundred or two hundred metres. I don't remember exactly.
 
 **Q.**Did they bring you into a palace?
 
@@ -100,7 +100,7 @@
 
 **A.**In one truck, between eighty and a hundred people.
 
-**Q.**And you remained to work at Chelmno?
+**Q.**And you remained to work at [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes.
 
@@ -128,9 +128,9 @@
 
 **A.**They took the bones and burned them. Those that were not burned entirely were pounded like flour, and packed into sacks, and the sacks were carried into the water.
 
-**Q.**How long were you in Chelmno, Mr. Zurawski?
+**Q.**How long were you in [[LOCATION:location_168|Chelmno]], Mr. Zurawski?
 
-**A.**I was in Chelmno, I don't remember exactly, some seven or eight months.
+**A.**I was in [[LOCATION:location_168|Chelmno]], I don't remember exactly, some seven or eight months.
 
 **Q.**Until when?
 
@@ -140,13 +140,13 @@
 
 **A.**While I was there, three transports of one thousand persons each came. Before that, some seven thousand persons had arrived. I heard this from the people who were there before me. All these persons were burned.
 
-**Q.**Where did those people who were killed at Chelmno come from?
+**Q.**Where did those people who were killed at [[LOCATION:location_168|Chelmno]] come from?
 
 **A.**From Loddz, during the time I was there. But there were people from the vicinity of Loddz, not only from Loddz itself.
 
 **Q.**Were there also people whom the Germans told to write letters to their families? Do you remember this?
 
-**A.**Yes. This was when the people came into the doctor's room; a person in a white coat stood there and said: "Write a letter home that you are well here, and that you are going to work to Leipzig."
+**A.**Yes. This was when the people came into the doctor's room; a person in a white coat stood there and said: "Write a letter home that you are well here, and that you are going to work to [[LOCATION:location_116|Leipzig]]."
 
 **Q.**And they would write the letters?
 
@@ -162,13 +162,13 @@
 
 **Q.**They took apart the barracks?
 
-**A.**We took them down. There were about a hundred men who remained for this work and to remove all traces. We took apart the crematoria and took apart the places where it said: "Bathhouse" and "To the Doctor." These were taken apart, and all this was carted off to Kolo, and we were taken away. They dressed us so that one could not tell that we were Jews.
+**A.**We took them down. There were about a hundred men who remained for this work and to remove all traces. We took apart the crematoria and took apart the places where it said: "Bathhouse" and "To the Doctor." These were taken apart, and all this was carted off to [[LOCATION:location_283|Kolo]], and we were taken away. They dressed us so that one could not tell that we were Jews.
 
 **Q.**What happened to the gas vans?
 
-**A.**The gas vans were also taken in the direction of Kolo.
+**A.**The gas vans were also taken in the direction of [[LOCATION:location_283|Kolo]].
 
-**Q.**Do you remember the names of any SS men in Chelmno?
+**Q.**Do you remember the names of any SS men in [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes, Obersturmfuehrer Bothmann.
 
@@ -216,7 +216,7 @@
 
 **A.**I was hit in the leg, but I ran into the forest.
 
-**Q.**There was a time when you worked with the belongings of the people in Chelmno?
+**Q.**There was a time when you worked with the belongings of the people in [[LOCATION:location_168|Chelmno]]?
 
 **A.**Yes, the belongings from the transports.
 
@@ -228,7 +228,7 @@
 
 **Dr. Servatius:** No, I have no question to the witness.
 
-**Judge Halevi:** You arrived at Chelmno in 1944?
+**Judge Halevi:** You arrived at [[LOCATION:location_168|Chelmno]] in 1944?
 
 **Witness Zurawski :** In 1944, approximately in July.
 
@@ -244,7 +244,7 @@
 
 **A.**When they moved away from the place where there were the signs "Bathhouse," "To the Doctor," they drove for about three hundred metres, up to the crematoria, and there they stopped. The bodies were already lifeless. But there were cases when people were still alive there.
 
-**Presiding Judge:** Was any work done in Chelmno which was not connected with exterminating Jews?
+**Presiding Judge:** Was any work done in [[LOCATION:location_168|Chelmno]] which was not connected with exterminating Jews?
 
 **Witness Zurawski :** No.
 

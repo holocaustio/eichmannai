@@ -1,4 +1,4 @@
-# Testimony of Moshe Bahir
+# Testimony of [[PERSON:witness_69|Moshe Bahir]]
 
 **Session:** 65
 
@@ -6,13 +6,13 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Moshe Bahir - my name was originally Shkalek.
+**Witness:** [[PERSON:witness_69|Moshe Bahir]] - my name was originally Shkalek.
 
 **Attorney General:** You live at 8 Rehov El Al, Ramat Gan, and are employed at the Bank Hapoalim in Givatayim?
 
 **Witness Bahir:** Yes, Sir.
 
-**Q.**You were born in the town of Plock, in Poland?
+**Q.**You were born in the town of Plock, in [[LOCATION:location_5|Poland]]?
 
 **A.**Yes.
 
@@ -30,7 +30,7 @@
 
 **Q.**And from there?
 
-**A.**We were there for four days. From there, we were deported to Czestochowa.
+**A.**We were there for four days. From there, we were deported to [[LOCATION:location_160|Czestochowa]].
 
 **Q.**You were there for several months?
 
@@ -40,7 +40,7 @@
 
 **Witness Bahir:** I am now thirty-three, Your Honour.
 
-**Attorney General:** You were transferred to Zamosc and, two weeks later, to a nearby village called Komarow?
+**Attorney General:** You were transferred to [[LOCATION:location_175|Zamosc]] and, two weeks later, to a nearby village called Komarow?
 
 **A.**Yes.
 
@@ -58,9 +58,9 @@
 
 **Q.**But you were also selected?
 
-**A.**I was in the market place, together with my mother and brother. My father was taken away from the market place. I was left there with my mother and brother and other persons who were older than I. I could easily have escaped, because we were not so strictly guarded. My father was also standing there, since he had a card indicating that he was an airport worker. He asked me to run away. I told him I wanted to go with my mother. We did not know where we were being sent to. We left the next day for Zamosc, and, on 18 March, we went from Zamosc to Sobibor.
+**A.**I was in the market place, together with my mother and brother. My father was taken away from the market place. I was left there with my mother and brother and other persons who were older than I. I could easily have escaped, because we were not so strictly guarded. My father was also standing there, since he had a card indicating that he was an airport worker. He asked me to run away. I told him I wanted to go with my mother. We did not know where we were being sent to. We left the next day for [[LOCATION:location_175|Zamosc]], and, on 18 March, we went from [[LOCATION:location_175|Zamosc]] to Sobibor.
 
-**Q.**How long did the journey last from Zamosc to Sobibor?
+**Q.**How long did the journey last from [[LOCATION:location_175|Zamosc]] to Sobibor?
 
 **A.**I reached Sobibor on 20 March 1942, in the afternoon.
 
@@ -126,9 +126,9 @@ At the point when I was already at the exit point of Camp 1, together with the w
 
 **Q.**What was it that you referred to as "Lazarette"?
 
-**A.**It was a pit, not far from the camp - five hundred metres away from the camp and from where we were working. When we were running two hundred metres with the bundles, there was a pit, and when someone was injured or had his sexual organs bitten by the dog Beri, Unterscharfuehrer Paul Grott would say to him: "What happened to you, my poor man? You can't carry on like that. Who did that to you? Come with me to the Lazarette." And he went with him. A few minutes later, we would hear a shot.
+**A.**It was a pit, not far from the camp - five hundred metres away from the camp and from where we were working. When we were running two hundred metres with the bundles, there was a pit, and when someone was injured or had his sexual organs bitten by the dog Beri, [[PERSON:person_687|Unterscharfuehrer Paul]] Grott would say to him: "What happened to you, my poor man? You can't carry on like that. Who did that to you? Come with me to the Lazarette." And he went with him. A few minutes later, we would hear a shot.
 
-He would accompany tens of workers in this way every day. I am referring to men who were selected for work, for they did not choose men for work every day. They selected them when they needed them for work. If, on one day, fifty men were selected for work, the following day they killed eleven men of our group. This was done by Paul Grott, who led them all to the Lazarette.
+He would accompany tens of workers in this way every day. I am referring to men who were selected for work, for they did not choose men for work every day. They selected them when they needed them for work. If, on one day, fifty men were selected for work, the following day they killed eleven men of our group. This was done by [[PERSON:person_689|Paul Grott]], who led them all to the Lazarette.
 
 **Attorney General:** Were those who arrived on the transports also transferred to the Lazarette? Those who arrived on the transports - men, women and children - were they also taken to the Lazarette?
 
@@ -152,7 +152,7 @@ He would accompany tens of workers in this way every day. I am referring to men 
 
 **Q.**You also had another job - polishing boots?
 
-**A.**Yes. That was an additional job. I used to get up an hour and a half before work and, for this reason did not have to attend the morning roll-call. I used to polish the boots of the officers - I and my friend, Joseph Pines.
+**A.**Yes. That was an additional job. I used to get up an hour and a half before work and, for this reason did not have to attend the morning roll-call. I used to polish the boots of the officers - I and my friend, [[PERSON:person_690|Joseph Pines]].
 
 **Q.**On one occasion, did senior German officers arrive at Sobibor when you were polishing boots?
 
@@ -160,7 +160,7 @@ He would accompany tens of workers in this way every day. I am referring to men 
 
 **Q.**Please describe it to us.
 
-**A.**It was in the month of July 1942. I remember this incident well. I remember that two hours before the arrival of the train, my friend, Joseph Pines, and I were called to polish the officers' boots. The officers' quarters were near the platform. At approximately 11.00 or 11.30, two hours after I had been called, I saw a luxury train coming in to Sobibor.
+**A.**It was in the month of July 1942. I remember this incident well. I remember that two hours before the arrival of the train, my friend, [[PERSON:person_690|Joseph Pines]], and I were called to polish the officers' boots. The officers' quarters were near the platform. At approximately 11.00 or 11.30, two hours after I had been called, I saw a luxury train coming in to Sobibor.
 
 **Q.**In what way was this a "luxury" train?
 
@@ -170,15 +170,15 @@ He would accompany tens of workers in this way every day. I am referring to men 
 
 **A.**Sir, I did not know that it was Eichmann, I also did not know that it was Himmler. On that day, the Jews were not at work, and when I came to the camp, I told my comrades what I had seen, and then I was told that the first officer was Himmler, according to his pictures. They did not know Eichmann; I did not know it was Eichmann until after I had left the camp.
 
-In 1945, I was in Lublin. By the time I was in Lublin, half of Poland had already been liberated, in 1944, and I went around all the time with a feeling that I had undergone something which no other Jew had experienced, possibly because I had been a young boy. I had this feeling, and I tried to give vent to my emotions; I tried to unburden my heart to people, one of whom was Dr. Emil Sommerstein. He was the only Jew in the first Polish Government, which had come from Russia. I came to him and told him; I told him a great deal. And he said to me: "In Lublin, there is an Institute of Documentation;*{*The Central Jewish Historical Commission in Lublin whose materials were transferred to Lodz in 1945, and in 1947 became the Jewish Historical Institute in Warsaw} since you remember these officers so well, perhaps you will be able to identify some of the SS officers in Sobibor."
+In 1945, I was in [[LOCATION:location_35|Lublin]]. By the time I was in [[LOCATION:location_35|Lublin]], half of [[LOCATION:location_5|Poland]] had already been liberated, in 1944, and I went around all the time with a feeling that I had undergone something which no other Jew had experienced, possibly because I had been a young boy. I had this feeling, and I tried to give vent to my emotions; I tried to unburden my heart to people, one of whom was Dr. [[PERSON:person_691|Emil Sommerstein]]. He was the only Jew in the first [[ORGANIZATION:org_304|Polish Government]], which had come from [[LOCATION:location_10|Russia]]. I came to him and told him; I told him a great deal. And he said to me: "In [[LOCATION:location_35|Lublin]], there is an Institute of Documentation;*{*The Central Jewish Historical Commission in [[LOCATION:location_35|Lublin]] whose materials were transferred to [[LOCATION:location_81|Lodz]] in 1945, and in 1947 became the [[ORGANIZATION:org_332|Jewish Historical Institute]] in [[LOCATION:location_93|Warsaw]]} since you remember these officers so well, perhaps you will be able to identify some of the SS officers in Sobibor."
 
 I went there and was shown some pictures and, in one of the photographs, I pointed out the men whom I had seen. First of all, I pointed to this man - he was the first, Himmler, and I saw one other; there were four men in the picture I saw - and amongst them I pointed to Eichmann; the man in the Institute of Documentation said that it was Eichmann. He said: "Don't think that Himmler was the only one who dealt with the Jewish question, there were others as well; there was also Heydrich, there was someone else called Eichmann - he was responsible for the transports to all the extermination camps." Then I got to know that that man was called Eichmann; until then I did not know, nor did anyone else know, that he was Eichmann.
 
 **Q.**That man whom you saw in July 1942 - did you see him again in Sobibor?
 
-**A.**I saw him for the second time in 1943 - roughly in the month of February, but then it was not a train that arrived - then the officers arrived by plane - we also knew that. I was then working in the German officers' casino. I worked there for eight months, starting the day after the first visit, for on the day after that first visit, the two Jewish girls who worked in the German casino were killed, and, in their stead, I was chosen to work there, together with my friend, Joseph Pines. From that day, I worked in the casino until March 1943, about one month after the second visit of Himmler and his colleagues.
+**A.**I saw him for the second time in 1943 - roughly in the month of February, but then it was not a train that arrived - then the officers arrived by plane - we also knew that. I was then working in the German officers' casino. I worked there for eight months, starting the day after the first visit, for on the day after that first visit, the two Jewish girls who worked in the German casino were killed, and, in their stead, I was chosen to work there, together with my friend, [[PERSON:person_690|Joseph Pines]]. From that day, I worked in the casino until March 1943, about one month after the second visit of Himmler and his colleagues.
 
-**Q.**Is this Joseph Pines still alive?
+**Q.**Is this [[PERSON:person_690|Joseph Pines]] still alive?
 
 **A.**No, he was killed during the revolt.
 ---
@@ -213,11 +213,11 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **Q.**And when you worked in the casino?
 
-**A.**Yes. On the day of that visit, when he had already returned from Camp 3. He visited only Camp 3, accompanied by Franz Reichleitner, who was camp commander at that time.
+**A.**Yes. On the day of that visit, when he had already returned from Camp 3. He visited only Camp 3, accompanied by [[PERSON:person_692|Franz Reichleitner]], who was camp commander at that time.
 
 **Q.**Where did you see them?
 
-**A.**My immediate superior in the casino, Paul Breidorf, heard from Unterscharfuehrer Beckmann, who had returned from Camp 3, that the visitors were soon coming back from there. He was not even aware that the plane had already landed; as soon as he heard this, he sent me hurriedly to the camp with my friend, Joseph Pines. When I arrived there, the gate was locked, and by the time the Ukrainian guard opened the gate they had already come quite near, two or three metres away, and then I recognized them.
+**A.**My immediate superior in the casino, Paul Breidorf, heard from Unterscharfuehrer Beckmann, who had returned from Camp 3, that the visitors were soon coming back from there. He was not even aware that the plane had already landed; as soon as he heard this, he sent me hurriedly to the camp with my friend, [[PERSON:person_690|Joseph Pines]]. When I arrived there, the gate was locked, and by the time the Ukrainian guard opened the gate they had already come quite near, two or three metres away, and then I recognized them.
 
 **Attorney General:** Mr. Bahir, at what intervals did the transports arrive at Sobibor - roughly, as far as you are able to remember? Did a train arrive every day?
 
@@ -231,7 +231,7 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 [Shows it to the witness.] Can you identify the man in this picture?
 
-**A.**Yes. He was called "Hauptmann" - I remember him well. He was the first commandant, before Franz Reichleitner.
+**A.**Yes. He was called "Hauptmann" - I remember him well. He was the first commandant, before [[PERSON:person_692|Franz Reichleitner]].
 
 **Q.**What was his name?
 
@@ -239,9 +239,9 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 
-**Dr. Servatius:** Witness, you said you recognized Eichmann in a photograph that was shown to you in Lublin. In which office was that? Perhaps it would be possible to obtain the photograph some time today?
+**Dr. Servatius:** Witness, you said you recognized Eichmann in a photograph that was shown to you in [[LOCATION:location_35|Lublin]]. In which office was that? Perhaps it would be possible to obtain the photograph some time today?
 
-**Witness Bahir:** Certainly. I saw the picture at the Institute of Documentation in Lublin and a second time about one and a half or nearly two years afterwards. A book was published in Poland in three languages. The title of the book was We Shall Never Forget - both in English and French. It consists of photographs only, and amongst them there is one on which I recognized Eichmann.
+**Witness Bahir:** Certainly. I saw the picture at the Institute of Documentation in [[LOCATION:location_35|Lublin]] and a second time about one and a half or nearly two years afterwards. A book was published in [[LOCATION:location_5|Poland]] in three languages. The title of the book was We Shall Never Forget - both in English and French. It consists of photographs only, and amongst them there is one on which I recognized Eichmann.
 
 **Q.**Would that be a photograph from the camp at Sobibor?
 
@@ -265,7 +265,7 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **Attorney General:** I have nothing more to ask.
 
-**Judge Raveh:** I believe you said that in Lublin you identified four or five men. Did you say that?
+**Judge Raveh:** I believe you said that in [[LOCATION:location_35|Lublin]] you identified four or five men. Did you say that?
 
 **Witness Bahir:** Correct.
 
@@ -285,7 +285,7 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **Witness Bahir:** I do not understand the question.
 
-**Q.**I only want you to understand this properly. You identified Eichmann only after the event, in Lublin, in the year...?
+**Q.**I only want you to understand this properly. You identified Eichmann only after the event, in [[LOCATION:location_35|Lublin]], in the year...?
 
 **A.**In 1945.
 
@@ -295,7 +295,7 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **Q.**Where is the book to be found?
 
-**A.**Here, in Israel.
+**A.**Here, in [[LOCATION:location_38|Israel]].
 
 **Q.**Can you produce it here?
 
@@ -305,9 +305,9 @@ I went there and was shown some pictures and, in one of the photographs, I point
 
 **A.**Definitely.
 
-**Q.**Is that a copy of the same photograph which you saw in Lublin in 1945?
+**Q.**Is that a copy of the same photograph which you saw in [[LOCATION:location_35|Lublin]] in 1945?
 
-**A.**Yes. It was the same photograph I saw in Lublin in 1945.
+**A.**Yes. It was the same photograph I saw in [[LOCATION:location_35|Lublin]] in 1945.
 
 **Q.**And you then identified Eichmann according to it?
 

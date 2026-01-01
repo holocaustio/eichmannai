@@ -1,4 +1,4 @@
-# Testimony of Rivka Yoselevska
+# Testimony of [[PERSON:witness_82|Rivka Yoselevska]]
 
 **Session:** 30
 
@@ -30,7 +30,7 @@
 
 **Witness Yoselewska:** Yes.
 
-**Q.**And you have a brother named Moshe who was saved and lives in the United States?
+**Q.**And you have a brother named Moshe who was saved and lives in the [[LOCATION:location_68|United States]]?
 
 **A.**Yes.
 
@@ -80,7 +80,7 @@
 
 **Q.**And what did they do with them?
 
-**A.**The rabbi's wife told us. She had ten children. She couldn't run away with them. When we came back she told us that the rabbi had been ordered to take the prayer shawl with him. They drove the Jews into the centre of town and lined them up. They ordered the rabbi to put on his prayer shawl and address the people. As he did so they beat him and told him to dance and to sing, but he refused. A lot more were beaten. They cried: "Shma Yisroel".* {*"Hear, O Israel!" - The supreme affirmation of the unity of God in Jewish thought, signifying the readiness of a person to die for his faith.}
+**A.**The rabbi's wife told us. She had ten children. She couldn't run away with them. When we came back she told us that the rabbi had been ordered to take the prayer shawl with him. They drove the Jews into the centre of town and lined them up. They ordered the rabbi to put on his prayer shawl and address the people. As he did so they beat him and told him to dance and to sing, but he refused. A lot more were beaten. They cried: "Shma Yisroel".* {*"Hear, O [[LOCATION:location_38|Israel]]!" - The supreme affirmation of the unity of God in Jewish thought, signifying the readiness of a person to die for his faith.}
 
 **Q.**What did they do with them?
 
@@ -219,9 +219,9 @@ I got to my feet to see that horrible scene. The screaming was unbearable, the c
 
 **A.**Further off I saw two women standing up. I walked over to them. I didn't know them and they didn't know me. We asked each other for our names. Then they said: "You're alive, too. You also survived?" "What should we do?" At the far end a woman shouted for help with outstretched arms and asked to be saved, to be pulled out from the corpses, she was suffocating.
 
-**Q.**You pulled her out. She was Ita Rosenberg.
+**Q.**You pulled her out. She was [[PERSON:person_520|Ita Rosenberg]].
 
-**A.**We walked up to her, Ita Rosenberg, and pulled her out of the mass of corpses who were pulling and dragging her down and biting her. She asked us to pull harder; we didn't have any strength left.
+**A.**We walked up to her, [[PERSON:person_520|Ita Rosenberg]], and pulled her out of the mass of corpses who were pulling and dragging her down and biting her. She asked us to pull harder; we didn't have any strength left.
 
 **Q.**Please let us be brief, Mrs. Yoselewska. It is difficult to recount and difficult to listen to. Tell us, did you hide?
 

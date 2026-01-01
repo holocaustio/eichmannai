@@ -1,4 +1,4 @@
-# Testimony of Henryk Ross
+# Testimony of [[PERSON:witness_50|Henryk Ross]]
 
 **Session:** 23
 
@@ -6,13 +6,13 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Henryk Ross.
+**Witness:** [[PERSON:witness_50|Henryk Ross]].
 
-**Attorney General:** Do you live in Jaffa, Rehov 402/6?
+**Attorney General:** Do you live in [[LOCATION:location_169|Jaffa]], Rehov 402/6?
 
 **Witness Ross:** Yes.
 
-**Q.**Do you work at Orit Zincography in Tel Aviv?
+**Q.**Do you work at Orit Zincography in [[LOCATION:location_42|Tel Aviv]]?
 
 **A.**Yes.
 
@@ -20,11 +20,11 @@
 
 **A.**Yes. On 1 May 1910.
 
-**Q.**When the Second World War broke out, you were in the Polish army. In November 1939 you moved to Lodz where you resided?
+**Q.**When the [[EVENT:event_383|Second World War]] broke out, you were in the Polish army. In November 1939 you moved to [[LOCATION:location_81|Lodz]] where you resided?
 
 **A.**Yes.
 
-**Q.**The Ghetto at Lodz was established in 1940, is that correct?
+**Q.**The Ghetto at [[LOCATION:location_81|Lodz]] was established in 1940, is that correct?
 
 **A.**Yes. That is correct. The Ghetto was established in 1940. Notices about the Ghetto appeared beforehand, but the Ghetto was closed off on 1 May.
 
@@ -36,23 +36,23 @@
 
 **A.**It was impossible.
 
-**Q.**What food was given to the Jews of Lodz?
+**Q.**What food was given to the Jews of [[LOCATION:location_81|Lodz]]?
 
 **A.**It was precisely this: We received a loaf of bread for eight days. Apart from this there were food rations in small quantities, which were sometimes rotten. Everyone rejoiced at the prospect of potatoes, but finally it became clear that they were all rotten and unfit to eat.
 
 **Q.**What did the people eat?
 
-**A.**Those who worked received an extra ration of soup. The soup consisted of 800 grams of water, 60 grams of potatoes, 3 grams of some cereal and 50-60 grams of what was called in German Kiloriben Here in Israel there is no such thing - I haven't seen it. When there were no potatoes, they added this to the soup.
+**A.**Those who worked received an extra ration of soup. The soup consisted of 800 grams of water, 60 grams of potatoes, 3 grams of some cereal and 50-60 grams of what was called in German Kiloriben Here in [[LOCATION:location_38|Israel]] there is no such thing - I haven't seen it. When there were no potatoes, they added this to the soup.
 
 **Presiding Judge:** Aren't you referring to Kohlrueben or beet?
 
 **A.**Yes, Kohlrueben.
 
-**Attorney General:** By the way, it exists in Israel. You worked before the War as a journalist and photographer, and at the time of the occupation you worked in the statistical department of the Ghetto management?
+**Attorney General:** By the way, it exists in [[LOCATION:location_38|Israel]]. You worked before the War as a journalist and photographer, and at the time of the occupation you worked in the statistical department of the Ghetto management?
 
-**A.**Yes, before the year 1939 - that is to say before the outbreak of the War - I was employed as a photographer for more than ten Polish newspapers in Poland. When the War broke out and I returned from the War, when the Ghetto was established, I was given the post of photographer in the statistical department. I worked there from the year 1940, approximately until August 1944.
+**A.**Yes, before the year 1939 - that is to say before the outbreak of the War - I was employed as a photographer for more than ten Polish newspapers in [[LOCATION:location_5|Poland]]. When the War broke out and I returned from the War, when the Ghetto was established, I was given the post of photographer in the statistical department. I worked there from the year 1940, approximately until August 1944.
 
-**Q.**We shall soon come to your photographs, Mr. Ross. But meanwhile tell us something about the statistics, how many Jews were there in Lodz at the time the Ghetto was set up?
+**Q.**We shall soon come to your photographs, Mr. Ross. But meanwhile tell us something about the statistics, how many Jews were there in [[LOCATION:location_81|Lodz]] at the time the Ghetto was set up?
 
 **Presiding Judge:** When, Mr. Hausner?
 
@@ -66,9 +66,9 @@
 
 **Attorney General:** After this were Jews from other places added to the Ghetto?
 
-**Witness Ross:** Afterwards more Jews arrived who had been transferred from small townlets such as Zdunska Wola, Pabianice, and other townlets. In 1942, Jews who had been expelled from Germany, Czechoslovakia, Luxembourg and Austria were brought into the Ghetto. They numbered 21,000. Most of them consisted of the intelligentsia. Amongst them were also rich people as well as non-Jews, whose forefathers of the third preceding generation only were Jewish.
+**Witness Ross:** Afterwards more Jews arrived who had been transferred from small townlets such as Zdunska Wola, Pabianice, and other townlets. In 1942, Jews who had been expelled from [[LOCATION:location_2|Germany]], [[LOCATION:location_15|Czechoslovakia]], [[LOCATION:location_27|Luxembourg]] and [[LOCATION:location_14|Austria]] were brought into the Ghetto. They numbered 21,000. Most of them consisted of the intelligentsia. Amongst them were also rich people as well as non-Jews, whose forefathers of the third preceding generation only were Jewish.
 
-**Q.**Perhaps you would tell us something about these offspring of mixed marriages who reached the Litzmannstadt Ghetto?
+**Q.**Perhaps you would tell us something about these offspring of mixed marriages who reached the [[LOCATION:location_158|Litzmannstadt]] Ghetto?
 
 **A.**There were women who, according to the German racial law, were pure Aryans, but they came to the ghetto together with their Jewish husbands. According to the German racial law, the fourth generation was already exempted from being in the ghetto - they were pure Germans. There were cases where people did not even know where they were travelling to. And they even had with them children who, already of the fourth generation, were not Jews, so to say cleansed of Jewish blood.
 
@@ -92,7 +92,7 @@ When the neighbours entered in the morning, they saw that all of them had died f
 
 **A.**I worked in the statistical department.
 
-**Q.**Do you know how many people, roughly, died from starvation in Lodz?
+**Q.**Do you know how many people, roughly, died from starvation in [[LOCATION:location_81|Lodz]]?
 
 **A.**More than 120,000 people, approximately, died of starvation.
 

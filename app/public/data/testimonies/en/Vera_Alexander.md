@@ -1,4 +1,4 @@
-# Testimony of Vera Alexander
+# Testimony of [[PERSON:witness_86|Vera Alexander]]
 
 **Session:** 71
 
@@ -6,7 +6,7 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Vera Alexander.
+**Witness:** [[PERSON:witness_86|Vera Alexander]].
 
 **Presiding Judge:** In what language do you wish to testify?
 
@@ -18,11 +18,11 @@
 
 **A.**Yes.
 
-**Q.**You were born in Slovakia?
+**Q.**You were born in [[LOCATION:location_84|Slovakia]]?
 
 **A.**Yes.
 
-**Q.**In 1942, were photographs and accounts of the fate of people deported from Slovakia to Poland published in the newspapers? Do you remember that?
+**Q.**In 1942, were photographs and accounts of the fate of people deported from [[LOCATION:location_84|Slovakia]] to [[LOCATION:location_5|Poland]] published in the newspapers? Do you remember that?
 
 **A.**Yes.
 
@@ -44,11 +44,11 @@
 
 **Q.**Where were you taken, Mrs. Alexander?
 
-**A.**We were transferred from this cellar to Zilina - that was a concentration camp in Slovakia.
+**A.**We were transferred from this cellar to [[LOCATION:location_260|Zilina]] - that was a concentration camp in [[LOCATION:location_84|Slovakia]].
 
 **Q.**Under whose control were you put?
 
-**A.**We were put under the control of the Hlinkova Garda (the Hlinka Guard).
+**A.**We were put under the control of the Hlinkova Garda (the [[ORGANIZATION:org_364|Hlinka Guard]]).
 
 **Q.**Were there Germans there as well?
 
@@ -56,11 +56,11 @@
 
 **Q.**And where were you taken from there?
 
-**A.**From Zilina we were taken, on 8 April 1942, in freight cars, to Auschwitz.
+**A.**From [[LOCATION:location_260|Zilina]] we were taken, on 8 April 1942, in freight cars, to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**What were your feelings when you arrived at Auschwitz, yours and those of your friends who arrived together with you?
+**Q.**What were your feelings when you arrived at [[LOCATION:location_286|Auschwitz]], yours and those of your friends who arrived together with you?
 
-**A.**The moment we reached Auschwitz, we realized that all the pictures and the articles we had seen in the press were not true. From the first moment we heard shouts from SS men. And as we came into the camp, even before we were obliged to undress, in the blocks of Auschwitz we saw women - we were unable to judge whether they were women or men - their heads were shaven. They were making gestures which led us to believe that they were not normal people; they were scratching their heads, they signaled to us with their fingers to their mouths - they scratched their bodies. Some hours later, when we had to remove our clothes and were given Russian uniforms, full of lice, we understood what they were trying to show us. Our heads, too, were shaven, and everything was taken away from us.
+**A.**The moment we reached [[LOCATION:location_286|Auschwitz]], we realized that all the pictures and the articles we had seen in the press were not true. From the first moment we heard shouts from SS men. And as we came into the camp, even before we were obliged to undress, in the blocks of [[LOCATION:location_286|Auschwitz]] we saw women - we were unable to judge whether they were women or men - their heads were shaven. They were making gestures which led us to believe that they were not normal people; they were scratching their heads, they signaled to us with their fingers to their mouths - they scratched their bodies. Some hours later, when we had to remove our clothes and were given Russian uniforms, full of lice, we understood what they were trying to show us. Our heads, too, were shaven, and everything was taken away from us.
 
 **Q.**And what block were you placed in?
 
@@ -86,7 +86,7 @@
 
 **A.**I went out to work with the Landwirtschafts-kommando (agricultural unit).
 
-**Q.**What was the nature of women's work at Auschwitz?
+**Q.**What was the nature of women's work at [[LOCATION:location_286|Auschwitz]]?
 
 **A.**We had to dig beetroot out of the ground, beetroot that had been lying there several years - that the Poles had placed there. It stank. Sometimes we removed one in good condition, and if anyone dared touch it and eat it, that meant death.
 
@@ -114,7 +114,7 @@
 
 **A.**At first, I was Blockaelteste in Block 3 in Camp A; that was the "quarantine block." I don't know why they called it the "quarantine block." The women who entered this block came into contact with all the prisoners. But that is what they called it.
 
-**Q.**Tell me, Mrs. Alexander, how was it possible to be a Blockaelteste in Auschwitz and to maintain the stance of being created in God's image and maintain the image of a human being?
+**Q.**Tell me, Mrs. Alexander, how was it possible to be a Blockaelteste in [[LOCATION:location_286|Auschwitz]] and to maintain the stance of being created in God's image and maintain the image of a human being?
 
 **A.**It was not easy. One needed a lot of tact and much manoeuvering. On the one hand, one had to obey orders and to fulfil them, and, on the other hand, to harm the prisoners as little as possible and to assist them.
 
@@ -124,7 +124,7 @@
 
 **Q.**We have been told that you saved women from being put to death. How did you do that? Tell us of some cases.
 
-**A.**There were cases after a selection, where women were selected for death, and I knew which block they were supposed to enter. I tried, not always successfully, to remove them from the ranks. Sometimes I managed to place girls in a commando which was going out from Auschwitz to work. This was not heroism on my part - it was my duty. I don't remember all the instances, and I don't remember how I did it.
+**A.**There were cases after a selection, where women were selected for death, and I knew which block they were supposed to enter. I tried, not always successfully, to remove them from the ranks. Sometimes I managed to place girls in a commando which was going out from [[LOCATION:location_286|Auschwitz]] to work. This was not heroism on my part - it was my duty. I don't remember all the instances, and I don't remember how I did it.
 
 **Q.**To this day, do you come across women prisoners who were in the block where you were the Blockaelteste?
 
@@ -146,7 +146,7 @@
 
 **A.**Yes, then I also understood why I had been taken away from the Revier.
 
-**Q.**Who treated the women in the hospital at Auschwitz?
+**Q.**Who treated the women in the hospital at [[LOCATION:location_286|Auschwitz]]?
 
 **A.**"Treated" - that was no treatment. We did not receive any medicines. There were Jewish girls there and, from time to time, doctors came in.
 
@@ -176,13 +176,13 @@
 
 **Q.**What did you do in order to avoid carrying out such orders - how did you do it?
 
-**A.**One day, in Camp C, I was handed a whip by our Oberaufseherin (superintendent), Irma Grese. I did not make use of it.
+**A.**One day, in Camp C, I was handed a whip by our Oberaufseherin (superintendent), [[PERSON:person_718|Irma Grese]]. I did not make use of it.
 
 **Q.**How, actually, did you come to be appointed a Blockaelteste?
 
 **A.**One day, I was summoned by the Rapportschreiberin - her name was Katya Singer.
 
-**Q.**Does she now live in Slovakia?
+**Q.**Does she now live in [[LOCATION:location_84|Slovakia]]?
 
 **A.**Yes. She told me that I would have to be Blockaelteste in Block 3. I said that I was not suitable for that. She then pleaded with me to take it on.
 
@@ -232,7 +232,7 @@
 
 **A.**Without stealing them. Beyond that, it was possible to steal something from the stores for them, whether a couple of blankets or a piece of soap, a little more food from the kitchen, some extra clothing from the Bekleidungskammer (clothing store). There were possibilities.
 
-**Q.**We know of two young Slovakian lads who fled from Auschwitz and submitted a report in Slovakia about what was happening there. Did you know either of them?
+**Q.**We know of two young Slovakian lads who fled from [[LOCATION:location_286|Auschwitz]] and submitted a report in [[LOCATION:location_84|Slovakia]] about what was happening there. Did you know either of them?
 
 **A.**I knew them both.
 
@@ -246,11 +246,11 @@
 
 **Q.**What was that second name?
 
-**A.**He is now Dr. Rudolf Vrba.
+**A.**He is now Dr. [[PERSON:person_719|Rudolf Vrba]].
 
 **Judge Halevi:** Is still alive. Where is he?
 
-**Witness Alexander:** Yes, he lives in London. He was here, in Israel, for a year. He worked at the Weizmann Institute.
+**Witness Alexander:** Yes, he lives in [[LOCATION:location_67|London]]. He was here, in [[LOCATION:location_38|Israel]], for a year. He worked at the Weizmann Institute.
 ---
 
 **Attorney General:** Do you remember the notorious Dr. Mengele?
@@ -287,7 +287,7 @@
 
 **Q.**Perhaps you will tell us something about this?
 
-**A.**After leaving the Gypsy camp - the children's block - I again entered Camp A. Sometime later, I was again chosen to be Blockaelteste to the Hungarian women, in the Gypsy camp. There were six blocks. When I received this task, the next day, the Lageraelteste called us - she was a Jewess - and told us that these women did not know anything about what was happening in Auschwitz, and they were not to know. If we were able to remain silent and not tell them - we should do so. I did not remain silent.
+**A.**After leaving the Gypsy camp - the children's block - I again entered Camp A. Sometime later, I was again chosen to be Blockaelteste to the Hungarian women, in the Gypsy camp. There were six blocks. When I received this task, the next day, the Lageraelteste called us - she was a Jewess - and told us that these women did not know anything about what was happening in [[LOCATION:location_286|Auschwitz]], and they were not to know. If we were able to remain silent and not tell them - we should do so. I did not remain silent.
 
 **Q.**What did you tell them?
 
@@ -299,7 +299,7 @@
 
 **Q.**If they were to say that they wanted that?
 
-**A.**Yes. Later on, when the doctor, Dr. Klein, came - he was from Romania, an SS man who spoke Hungarian - one of the women jumped up from her bed and said to him that everything that he had promised them, namely that they were going to a camp where they would not have to work, and where conditions would be easier for them - these words were, evidently not true. She pointed to me and said: "This woman told us a different story." He took me out of the block. Why he did not kill me, I do not know.
+**A.**Yes. Later on, when the doctor, Dr. Klein, came - he was from [[LOCATION:location_129|Romania]], an SS man who spoke Hungarian - one of the women jumped up from her bed and said to him that everything that he had promised them, namely that they were going to a camp where they would not have to work, and where conditions would be easier for them - these words were, evidently not true. She pointed to me and said: "This woman told us a different story." He took me out of the block. Why he did not kill me, I do not know.
 
 **Q.**But you were beaten?
 
@@ -307,7 +307,7 @@
 
 **Q.**Did you see children being taken away to be killed?
 
-**A.**A Hungarian woman with a little girl came into my block - I don't know how. I kept her in the block for several weeks. I don't know how this became known to Irma Grese. One day, SS men, not of our camp, came there, and then they took the child. Subsequently, we learned from men who worked in the Sonderkommando that the little girl had been thrown into the fire.
+**A.**A Hungarian woman with a little girl came into my block - I don't know how. I kept her in the block for several weeks. I don't know how this became known to [[PERSON:person_718|Irma Grese]]. One day, SS men, not of our camp, came there, and then they took the child. Subsequently, we learned from men who worked in the Sonderkommando that the little girl had been thrown into the fire.
 
 **Q.**To keep a child at its mother's side entailed a risk to one's own life? Was it forbidden to do so?
 
@@ -321,11 +321,11 @@ May I approach the witness?
 
 **Attorney General:** What does this picture convey to you? [Shows the witness a picture.]
 
-**Witness Alexander:** Flight from a freight car on the way to Auschwitz.
+**Witness Alexander:** Flight from a freight car on the way to [[LOCATION:location_286|Auschwitz]].
 
 **Q.**What does this picture convey to you? [Shows the witness a picture.]
 
-**A.**This is the entrance to Auschwitz. When they shaved our heads, when we ceased being women altogether.
+**A.**This is the entrance to [[LOCATION:location_286|Auschwitz]]. When they shaved our heads, when we ceased being women altogether.
 
 **Q.**Is that what it looked like?
 
@@ -345,7 +345,7 @@ May I approach the witness?
 
 **Q.**But that happened?
 
-**A.**Yes, when we came to Birkenau.
+**A.**Yes, when we came to [[LOCATION:location_286|Birkenau]].
 
 **Q.**In this way?
 
@@ -487,15 +487,15 @@ May I approach the witness?
 
 **Q.**The hanging of women at roll-calls. Is this what it looked like? [Shows the witness a picture.]
 
-**A.**I once saw how they hanged a woman who had escaped from Auschwitz and was captured.
+**A.**I once saw how they hanged a woman who had escaped from [[LOCATION:location_286|Auschwitz]] and was captured.
 
 **Presiding Judge:** Why are these women not wearing prisoner's clothes? Is this correct?
 
-**Witness Alexander:** This girl who escaped was also not wearing prisoner's clothes. She was in SS uniform, and they caught her and brought her back to Birkenau, where they hanged her.
+**Witness Alexander:** This girl who escaped was also not wearing prisoner's clothes. She was in SS uniform, and they caught her and brought her back to [[LOCATION:location_286|Birkenau]], where they hanged her.
 
-**Attorney General:** And is this the evacuation march from Auschwitz which you also saw? [Shows the witness a picture.]
+**Attorney General:** And is this the evacuation march from [[LOCATION:location_286|Auschwitz]] which you also saw? [Shows the witness a picture.]
 
-**Witness Alexander**I did not take part in the march from Auschwitz. I was in another march, from Breslau to Mauthausen.
+**Witness Alexander**I did not take part in the march from [[LOCATION:location_286|Auschwitz]]. I was in another march, from [[LOCATION:location_100|Breslau]] to Mauthausen.
 
 **Q.**Was this how it looked, roughly?
 
@@ -503,7 +503,7 @@ May I approach the witness?
 
 **Presiding Judge:** Who drew this?
 
-**Attorney General:** We received it from Mr. Dobkin, a member of the Executive of the Jewish Agency. It was given to him as a gift. It was drawn by a woman prisoner.
+**Attorney General:** We received it from Mr. Dobkin, a member of the Executive of the [[ORGANIZATION:org_305|Jewish Agency]]. It was given to him as a gift. It was drawn by a woman prisoner.
 
 **Presiding Judge:** It says here "Sophia Rosenstock."
 

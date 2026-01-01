@@ -2,7 +2,7 @@
   "metadata": {
     "generatedAt": "2025-12-31T14:05:52.241780",
     "totalNodes": 1195,
-    "totalEdges": 5864,
+    "totalEdges": 6299,
     "typeCounts": {
       "PERSON": 496,
       "LOCATION": 298,
@@ -12,7 +12,9 @@
       "TESTIMONY": 108,
       "DATE": 78
     },
-    "source": "consolidate_entities.py (OpenAI)"
+    "source": "consolidate_entities.py (OpenAI)",
+    "semanticEdgesAdded": 435,
+    "lastUpdated": "2026-01-01T10:39:30.896898"
   },
   "nodes": [
     {
@@ -66473,6 +66475,3051 @@
       "source": "session-121",
       "target": "date-1961-12-15",
       "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_5865",
+      "source": "witness_1",
+      "target": "location_7",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5866",
+      "source": "witness_2",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5867",
+      "source": "witness_11",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5868",
+      "source": "witness_21",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5869",
+      "source": "witness_29",
+      "target": "location_7",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5870",
+      "source": "witness_24",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5871",
+      "source": "witness_25",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5872",
+      "source": "witness_28",
+      "target": "location_15",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5873",
+      "source": "witness_30",
+      "target": "location_15",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5874",
+      "source": "witness_23",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5875",
+      "source": "witness_26",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5876",
+      "source": "witness_27",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5877",
+      "source": "witness_7",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5878",
+      "source": "witness_8",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5879",
+      "source": "witness_9",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5880",
+      "source": "witness_10",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5881",
+      "source": "witness_12",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5882",
+      "source": "witness_18",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5883",
+      "source": "witness_35",
+      "target": "witness_42",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5884",
+      "source": "witness_42",
+      "target": "location_173",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_5885",
+      "source": "witness_48",
+      "target": "witness_96",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5886",
+      "source": "witness_50",
+      "target": "location_81",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5887",
+      "source": "witness_55",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5888",
+      "source": "witness_31",
+      "target": "location_30",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5889",
+      "source": "witness_82",
+      "target": "location_173",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5890",
+      "source": "witness_69",
+      "target": "location_124",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5891",
+      "source": "witness_83",
+      "target": "location_173",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5892",
+      "source": "witness_88",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5893",
+      "source": "witness_61",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5894",
+      "source": "witness_62",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5895",
+      "source": "witness_63",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5896",
+      "source": "witness_65",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5897",
+      "source": "witness_66",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5898",
+      "source": "witness_67",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5899",
+      "source": "witness_68",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5900",
+      "source": "witness_96",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5901",
+      "source": "person_397",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5902",
+      "source": "person_403",
+      "target": "location_23",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5903",
+      "source": "person_403",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5904",
+      "source": "person_775",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5905",
+      "source": "person_775",
+      "target": "event_387",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5906",
+      "source": "person_775",
+      "target": "event_389",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5907",
+      "source": "person_775",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5908",
+      "source": "person_397",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5909",
+      "source": "person_775",
+      "target": "location_38",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5910",
+      "source": "witness_95",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5911",
+      "source": "witness_100",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5912",
+      "source": "witness_92",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5913",
+      "source": "witness_93",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5914",
+      "source": "person_405",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5915",
+      "source": "person_405",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5916",
+      "source": "person_419",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5917",
+      "source": "person_419",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5918",
+      "source": "person_420",
+      "target": "org_344",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5919",
+      "source": "person_420",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5920",
+      "source": "person_421",
+      "target": "person_397",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5921",
+      "source": "person_421",
+      "target": "event_390",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5922",
+      "source": "person_775",
+      "target": "location_41",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5923",
+      "source": "person_406",
+      "target": "person_775",
+      "type": "ALIAS_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5924",
+      "source": "person_775",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5925",
+      "source": "person_418",
+      "target": "person_775",
+      "type": "TRACKED_DOWN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5926",
+      "source": "person_425",
+      "target": "location_19",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5927",
+      "source": "person_425",
+      "target": "person_397",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5928",
+      "source": "person_436",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5929",
+      "source": "person_438",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5930",
+      "source": "person_438",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5931",
+      "source": "person_438",
+      "target": "location_3",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5932",
+      "source": "person_461",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5933",
+      "source": "person_461",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5934",
+      "source": "person_448",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5935",
+      "source": "person_449",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5936",
+      "source": "person_447",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5937",
+      "source": "person_451",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5938",
+      "source": "person_452",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5939",
+      "source": "person_453",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5940",
+      "source": "person_454",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5941",
+      "source": "person_439",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5942",
+      "source": "person_439",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5943",
+      "source": "person_462",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5944",
+      "source": "person_462",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5945",
+      "source": "person_478",
+      "target": "org_365",
+      "type": "COMMANDED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5946",
+      "source": "person_492",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5947",
+      "source": "person_478",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5948",
+      "source": "person_482",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5949",
+      "source": "person_489",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5950",
+      "source": "person_478",
+      "target": "org_344",
+      "type": "COMMANDED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5951",
+      "source": "person_467",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5952",
+      "source": "person_503",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5953",
+      "source": "person_503",
+      "target": "location_93",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5954",
+      "source": "person_508",
+      "target": "location_171",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5955",
+      "source": "person_501",
+      "target": "location_93",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5956",
+      "source": "person_517",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5957",
+      "source": "person_516",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5958",
+      "source": "person_515",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5959",
+      "source": "person_526",
+      "target": "location_30",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5960",
+      "source": "person_527",
+      "target": "location_30",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5961",
+      "source": "person_532",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5962",
+      "source": "person_533",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5963",
+      "source": "person_535",
+      "target": "location_23",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5964",
+      "source": "person_542",
+      "target": "location_23",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5965",
+      "source": "person_543",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5966",
+      "source": "person_544",
+      "target": "location_22",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5967",
+      "source": "person_527",
+      "target": "person_526",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5968",
+      "source": "person_543",
+      "target": "person_397",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5969",
+      "source": "person_544",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5970",
+      "source": "person_535",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5971",
+      "source": "person_542",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5972",
+      "source": "person_544",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5973",
+      "source": "person_582",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5974",
+      "source": "person_582",
+      "target": "event_387",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5975",
+      "source": "person_563",
+      "target": "person_582",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_5976",
+      "source": "person_563",
+      "target": "org_348",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5977",
+      "source": "person_563",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5978",
+      "source": "person_559",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5979",
+      "source": "person_576",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5980",
+      "source": "person_775",
+      "target": "location_3",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5981",
+      "source": "person_582",
+      "target": "org_344",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5982",
+      "source": "person_563",
+      "target": "org_344",
+      "type": "COMMANDED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5983",
+      "source": "person_582",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5984",
+      "source": "person_563",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5985",
+      "source": "person_559",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5986",
+      "source": "person_563",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5987",
+      "source": "person_582",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5988",
+      "source": "person_775",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5989",
+      "source": "person_586",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5990",
+      "source": "person_591",
+      "target": "location_34",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5991",
+      "source": "person_591",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_5992",
+      "source": "person_596",
+      "target": "location_85",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5993",
+      "source": "person_596",
+      "target": "location_249",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_5994",
+      "source": "person_597",
+      "target": "location_85",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5995",
+      "source": "person_598",
+      "target": "location_20",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5996",
+      "source": "person_598",
+      "target": "location_20",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_5997",
+      "source": "person_609",
+      "target": "location_129",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_5998",
+      "source": "person_609",
+      "target": "location_129",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_5999",
+      "source": "person_604",
+      "target": "location_129",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6000",
+      "source": "person_604",
+      "target": "person_609",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6001",
+      "source": "person_605",
+      "target": "location_129",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6002",
+      "source": "person_605",
+      "target": "person_609",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6003",
+      "source": "person_606",
+      "target": "location_129",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6004",
+      "source": "person_611",
+      "target": "location_54",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6005",
+      "source": "person_611",
+      "target": "location_129",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_6006",
+      "source": "person_608",
+      "target": "org_360",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6007",
+      "source": "person_641",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6008",
+      "source": "person_641",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6009",
+      "source": "person_641",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6010",
+      "source": "person_642",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6011",
+      "source": "person_643",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6012",
+      "source": "person_623",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6013",
+      "source": "person_623",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6014",
+      "source": "person_623",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6015",
+      "source": "person_626",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6016",
+      "source": "person_635",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6017",
+      "source": "person_636",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6018",
+      "source": "person_640",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6019",
+      "source": "person_629",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6020",
+      "source": "person_616",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6021",
+      "source": "person_617",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6022",
+      "source": "person_656",
+      "target": "location_31",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6023",
+      "source": "person_651",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6024",
+      "source": "person_663",
+      "target": "person_664",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_6025",
+      "source": "person_664",
+      "target": "person_665",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_6026",
+      "source": "person_656",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6027",
+      "source": "person_666",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6028",
+      "source": "person_651",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6029",
+      "source": "person_656",
+      "target": "location_144",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6030",
+      "source": "person_663",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6031",
+      "source": "person_664",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6032",
+      "source": "person_680",
+      "target": "person_775",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_6033",
+      "source": "person_695",
+      "target": "location_173",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_6034",
+      "source": "person_696",
+      "target": "location_173",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_6035",
+      "source": "person_699",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6036",
+      "source": "person_694",
+      "target": "location_154",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_6037",
+      "source": "person_695",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6038",
+      "source": "person_696",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6039",
+      "source": "person_692",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6040",
+      "source": "person_693",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6041",
+      "source": "person_694",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6042",
+      "source": "person_699",
+      "target": "location_154",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_6043",
+      "source": "person_722",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6044",
+      "source": "person_724",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6045",
+      "source": "person_732",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6046",
+      "source": "person_732",
+      "target": "location_19",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6047",
+      "source": "person_725",
+      "target": "location_40",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6048",
+      "source": "person_718",
+      "target": "location_212",
+      "type": "PERPETRATED_AT",
+      "semantic": true
+    },
+    {
+      "id": "edge_6049",
+      "source": "person_732",
+      "target": "person_478",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6050",
+      "source": "person_718",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6051",
+      "source": "person_737",
+      "target": "org_344",
+      "type": "LED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6052",
+      "source": "person_737",
+      "target": "person_775",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6053",
+      "source": "person_740",
+      "target": "location_23",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6054",
+      "source": "person_739",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6055",
+      "source": "person_746",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6056",
+      "source": "person_757",
+      "target": "location_41",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6057",
+      "source": "person_751",
+      "target": "org_365",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6058",
+      "source": "person_738",
+      "target": "location_88",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6059",
+      "source": "person_775",
+      "target": "location_44",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6060",
+      "source": "person_776",
+      "target": "location_44",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6061",
+      "source": "person_777",
+      "target": "location_44",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6062",
+      "source": "person_778",
+      "target": "location_44",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6063",
+      "source": "person_779",
+      "target": "location_44",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6064",
+      "source": "person_780",
+      "target": "location_44",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6065",
+      "source": "org_365",
+      "target": "location_33",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6066",
+      "source": "org_365",
+      "target": "location_32",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6067",
+      "source": "org_365",
+      "target": "location_34",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6068",
+      "source": "org_365",
+      "target": "location_35",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6069",
+      "source": "org_365",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6070",
+      "source": "person_775",
+      "target": "location_39",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6071",
+      "source": "person_775",
+      "target": "location_40",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6072",
+      "source": "person_775",
+      "target": "location_1",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6073",
+      "source": "org_316",
+      "target": "location_3",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6074",
+      "source": "org_303",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6075",
+      "source": "org_312",
+      "target": "location_3",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6076",
+      "source": "org_318",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6077",
+      "source": "org_327",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6078",
+      "source": "org_307",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6079",
+      "source": "org_302",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6080",
+      "source": "org_301",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6081",
+      "source": "org_313",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6082",
+      "source": "org_314",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6083",
+      "source": "org_324",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6084",
+      "source": "org_322",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6085",
+      "source": "org_319",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6086",
+      "source": "org_309",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6087",
+      "source": "org_305",
+      "target": "location_57",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6088",
+      "source": "org_310",
+      "target": "location_53",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6089",
+      "source": "org_317",
+      "target": "location_39",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6090",
+      "source": "org_306",
+      "target": "location_57",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6091",
+      "source": "org_299",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6092",
+      "source": "org_300",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6093",
+      "source": "org_344",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6094",
+      "source": "org_335",
+      "target": "org_344",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6095",
+      "source": "org_355",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6096",
+      "source": "org_329",
+      "target": "location_2",
+      "type": "COLLABORATED_WITH",
+      "semantic": true
+    },
+    {
+      "id": "edge_6097",
+      "source": "org_358",
+      "target": "location_26",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6098",
+      "source": "org_357",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6099",
+      "source": "org_336",
+      "target": "org_358",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6100",
+      "source": "org_337",
+      "target": "location_68",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6101",
+      "source": "org_334",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6102",
+      "source": "org_335",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6103",
+      "source": "org_344",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6104",
+      "source": "org_355",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6105",
+      "source": "org_332",
+      "target": "location_5",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6106",
+      "source": "org_335",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6107",
+      "source": "org_344",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6108",
+      "source": "org_365",
+      "target": "org_380",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6109",
+      "source": "org_365",
+      "target": "org_379",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6110",
+      "source": "org_359",
+      "target": "org_369",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6111",
+      "source": "org_362",
+      "target": "org_380",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6112",
+      "source": "org_366",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6113",
+      "source": "org_364",
+      "target": "location_84",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6114",
+      "source": "org_360",
+      "target": "location_129",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6115",
+      "source": "org_368",
+      "target": "org_380",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6116",
+      "source": "org_376",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6117",
+      "source": "org_363",
+      "target": "location_2",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6118",
+      "source": "org_367",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6119",
+      "source": "org_377",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6120",
+      "source": "org_375",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6121",
+      "source": "org_374",
+      "target": "org_365",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6122",
+      "source": "org_378",
+      "target": "org_380",
+      "type": "SUBORDINATE_TO",
+      "semantic": true
+    },
+    {
+      "id": "edge_6123",
+      "source": "org_381",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6124",
+      "source": "org_382",
+      "target": "location_24",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6125",
+      "source": "org_373",
+      "target": "location_14",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6126",
+      "source": "org_371",
+      "target": "location_38",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6127",
+      "source": "org_370",
+      "target": "location_68",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6128",
+      "source": "person_775",
+      "target": "org_344",
+      "type": "MEMBER_OF",
+      "semantic": true
+    },
+    {
+      "id": "edge_6129",
+      "source": "org_344",
+      "target": "location_14",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6130",
+      "source": "org_344",
+      "target": "location_15",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6131",
+      "source": "org_344",
+      "target": "location_30",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6132",
+      "source": "org_344",
+      "target": "location_23",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6133",
+      "source": "org_344",
+      "target": "location_21",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6134",
+      "source": "org_344",
+      "target": "location_29",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6135",
+      "source": "org_344",
+      "target": "location_22",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6136",
+      "source": "org_344",
+      "target": "location_26",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6137",
+      "source": "org_344",
+      "target": "location_25",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6138",
+      "source": "person_775",
+      "target": "location_31",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6139",
+      "source": "location_38",
+      "target": "location_44",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6140",
+      "source": "location_41",
+      "target": "location_40",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6141",
+      "source": "location_24",
+      "target": "location_31",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6142",
+      "source": "location_2",
+      "target": "location_32",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6143",
+      "source": "location_2",
+      "target": "location_33",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6144",
+      "source": "location_15",
+      "target": "location_34",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6145",
+      "source": "location_5",
+      "target": "location_35",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6146",
+      "source": "location_2",
+      "target": "location_39",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6147",
+      "source": "location_76",
+      "target": "location_1",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6148",
+      "source": "location_75",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6149",
+      "source": "location_81",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6150",
+      "source": "location_73",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6151",
+      "source": "location_72",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6152",
+      "source": "location_78",
+      "target": "location_85",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6153",
+      "source": "location_71",
+      "target": "location_129",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6154",
+      "source": "location_86",
+      "target": "location_20",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6155",
+      "source": "location_87",
+      "target": "location_26",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6156",
+      "source": "location_88",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6157",
+      "source": "location_89",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6158",
+      "source": "location_74",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6159",
+      "source": "location_61",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6160",
+      "source": "location_63",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6161",
+      "source": "location_80",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6162",
+      "source": "location_65",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6163",
+      "source": "location_70",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6164",
+      "source": "location_79",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6165",
+      "source": "location_77",
+      "target": "location_25",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6166",
+      "source": "location_83",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6167",
+      "source": "location_93",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6168",
+      "source": "location_99",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6169",
+      "source": "location_100",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6170",
+      "source": "location_101",
+      "target": "location_26",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6171",
+      "source": "location_102",
+      "target": "location_22",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6172",
+      "source": "location_105",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6173",
+      "source": "location_106",
+      "target": "location_19",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6174",
+      "source": "location_107",
+      "target": "location_25",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6175",
+      "source": "location_109",
+      "target": "location_25",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6176",
+      "source": "location_111",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6177",
+      "source": "location_112",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6178",
+      "source": "location_113",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6179",
+      "source": "location_115",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6180",
+      "source": "location_116",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6181",
+      "source": "location_117",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6182",
+      "source": "location_118",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6183",
+      "source": "location_119",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6184",
+      "source": "location_120",
+      "target": "location_1",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6185",
+      "source": "location_124",
+      "target": "location_34",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6186",
+      "source": "location_124",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6187",
+      "source": "location_134",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6188",
+      "source": "location_142",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6189",
+      "source": "location_146",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6190",
+      "source": "location_146",
+      "target": "location_91",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6191",
+      "source": "location_122",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6192",
+      "source": "location_130",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6193",
+      "source": "location_135",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6194",
+      "source": "location_3",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6195",
+      "source": "location_138",
+      "target": "location_25",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6196",
+      "source": "location_137",
+      "target": "location_25",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6197",
+      "source": "location_141",
+      "target": "location_19",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6198",
+      "source": "location_127",
+      "target": "location_38",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6199",
+      "source": "location_139",
+      "target": "location_48",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6200",
+      "source": "location_136",
+      "target": "location_23",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6201",
+      "source": "location_143",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6202",
+      "source": "location_147",
+      "target": "location_6",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6203",
+      "source": "location_132",
+      "target": "location_68",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6204",
+      "source": "location_154",
+      "target": "location_152",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6205",
+      "source": "location_173",
+      "target": "location_152",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6206",
+      "source": "location_168",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6207",
+      "source": "location_151",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6208",
+      "source": "location_160",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6209",
+      "source": "location_170",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6210",
+      "source": "location_175",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6211",
+      "source": "location_171",
+      "target": "location_7",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6212",
+      "source": "location_172",
+      "target": "location_171",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6213",
+      "source": "location_158",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6214",
+      "source": "location_157",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6215",
+      "source": "location_153",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6216",
+      "source": "location_167",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6217",
+      "source": "location_176",
+      "target": "location_6",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6218",
+      "source": "location_178",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6219",
+      "source": "location_179",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6220",
+      "source": "location_155",
+      "target": "location_38",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6221",
+      "source": "location_159",
+      "target": "location_38",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6222",
+      "source": "location_169",
+      "target": "location_38",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6223",
+      "source": "location_174",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6224",
+      "source": "location_194",
+      "target": "location_8",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6225",
+      "source": "location_195",
+      "target": "location_8",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6226",
+      "source": "location_197",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6227",
+      "source": "location_207",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6228",
+      "source": "location_209",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6229",
+      "source": "location_191",
+      "target": "location_7",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6230",
+      "source": "location_188",
+      "target": "location_11",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6231",
+      "source": "location_189",
+      "target": "location_11",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6232",
+      "source": "location_200",
+      "target": "location_11",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6233",
+      "source": "location_202",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6234",
+      "source": "location_205",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6235",
+      "source": "location_199",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6236",
+      "source": "location_201",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6237",
+      "source": "location_204",
+      "target": "location_6",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6238",
+      "source": "location_181",
+      "target": "location_9",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6239",
+      "source": "location_182",
+      "target": "location_9",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6240",
+      "source": "location_184",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6241",
+      "source": "location_185",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6242",
+      "source": "location_192",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6243",
+      "source": "location_193",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6244",
+      "source": "location_212",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6245",
+      "source": "location_214",
+      "target": "location_23",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6246",
+      "source": "location_221",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6247",
+      "source": "location_240",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6248",
+      "source": "location_211",
+      "target": "location_30",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6249",
+      "source": "location_212",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6250",
+      "source": "location_240",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6251",
+      "source": "location_221",
+      "target": "location_211",
+      "type": "OPERATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6252",
+      "source": "location_214",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6253",
+      "source": "location_245",
+      "target": "location_34",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6254",
+      "source": "location_245",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6255",
+      "source": "location_249",
+      "target": "location_85",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6256",
+      "source": "location_243",
+      "target": "location_250",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6257",
+      "source": "location_265",
+      "target": "location_84",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6258",
+      "source": "location_258",
+      "target": "location_129",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6259",
+      "source": "location_256",
+      "target": "location_129",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6260",
+      "source": "location_241",
+      "target": "location_2",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6261",
+      "source": "location_251",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6262",
+      "source": "location_252",
+      "target": "location_85",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6263",
+      "source": "location_242",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6264",
+      "source": "location_260",
+      "target": "location_84",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6265",
+      "source": "location_261",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6266",
+      "source": "location_262",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6267",
+      "source": "location_263",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6268",
+      "source": "location_264",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6269",
+      "source": "location_266",
+      "target": "location_14",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6270",
+      "source": "location_267",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6271",
+      "source": "location_269",
+      "target": "location_12",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6272",
+      "source": "location_286",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6273",
+      "source": "location_281",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6274",
+      "source": "location_290",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6275",
+      "source": "location_293",
+      "target": "location_15",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6276",
+      "source": "location_280",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6277",
+      "source": "location_295",
+      "target": "location_24",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6278",
+      "source": "location_291",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6279",
+      "source": "location_296",
+      "target": "location_5",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6280",
+      "source": "location_271",
+      "target": "location_31",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6281",
+      "source": "location_276",
+      "target": "location_57",
+      "type": "LOCATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6282",
+      "source": "location_286",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6283",
+      "source": "location_281",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6284",
+      "source": "location_290",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6285",
+      "source": "location_293",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6286",
+      "source": "location_280",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6287",
+      "source": "location_295",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6288",
+      "source": "location_291",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6289",
+      "source": "location_296",
+      "target": "org_365",
+      "type": "ADMINISTERED",
+      "semantic": true
+    },
+    {
+      "id": "edge_6290",
+      "source": "event_387",
+      "target": "event_389",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6291",
+      "source": "event_386",
+      "target": "event_389",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6292",
+      "source": "event_388",
+      "target": "event_386",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6293",
+      "source": "event_390",
+      "target": "event_386",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6294",
+      "source": "event_391",
+      "target": "event_386",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6295",
+      "source": "event_383",
+      "target": "event_386",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6296",
+      "source": "event_387",
+      "target": "event_386",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6297",
+      "source": "event_385",
+      "target": "event_383",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6298",
+      "source": "event_389",
+      "target": "event_391",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
+    },
+    {
+      "id": "edge_6299",
+      "source": "event_387",
+      "target": "event_391",
+      "type": "PARTICIPATED_IN",
+      "semantic": true
     }
   ]
 }

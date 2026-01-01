@@ -1,16 +1,16 @@
-# Testimony of Aviva Flieschman
+# Testimony of [[PERSON:witness_10|Aviva Flieschman]]
 
 **Session:** 61
 
 ---
 
-Witness: Aviva Fleischmann.
+Witness: [[PERSON:person_677|Aviva Fleischmann]].
 
-**State Attorney Bach:** Mrs. Fleischmann, were you born in Budapest?
+**State Attorney Bach:** Mrs. Fleischmann, were you born in [[LOCATION:location_31|Budapest]]?
 
 **Witness Fleischmann:** Yes.
 
-**Q.**What was your occupation in Budapest?
+**Q.**What was your occupation in [[LOCATION:location_31|Budapest]]?
 
 **A.**I worked in a hairdressing salon.
 
@@ -18,15 +18,15 @@ Witness: Aviva Fleischmann.
 
 **A.**Yes. There was a time when we were allowed to be outside from 11 a.m. to 5 p.m. Then I went to work wearing the yellow badge.
 
-**Q.**Do you remember, while you were still working in this hairdressing salon, once seeing a man by the name of Peter Hain?
+**Q.**Do you remember, while you were still working in this hairdressing salon, once seeing a man by the name of [[PERSON:person_659|Peter Hain]]?
 
 **A.**Yes. He was one of our customers - he and his wife.
 
 **Q.**Do you know what his job was?
 
-**A.**We knew that he was working for the Gestapo.
+**A.**We knew that he was working for the [[ORGANIZATION:org_344|Gestapo]].
 
-**Q.**Did you ever hear a conversation in which this Peter Hain mentioned the name of the Accused Eichmann?
+**Q.**Did you ever hear a conversation in which this [[PERSON:person_659|Peter Hain]] mentioned the name of the Accused Eichmann?
 
 **A.**Yes.
 
@@ -38,17 +38,17 @@ Witness: Aviva Fleischmann.
 
 **A.**At that precise moment, I was attending to his hands. I was obliged to wear a jacket over my working-gown; they were not supposed to know that a Jew was employed in that place.
 
-**Q.**What did this Peter Hain say?
+**Q.**What did this [[PERSON:person_659|Peter Hain]] say?
 
 **A.**Then he told his story.
 
 **Presiding Judge:** You were attending to his hands?
 
-**Witness Fleischmann:** Yes, and I was able to listen. He spoke generally about plans regarding the Jews, that they were taking them away for forced labour, and he said that there was now a man here who knew and understood how to handle this, how the Jews should be dealt with. And then he mentioned the name of Adolf Eichmann.
+**Witness Fleischmann:** Yes, and I was able to listen. He spoke generally about plans regarding the Jews, that they were taking them away for forced labour, and he said that there was now a man here who knew and understood how to handle this, how the Jews should be dealt with. And then he mentioned the name of [[PERSON:person_775|Adolf Eichmann]].
 
 **State Attorney Bach:** Was the proprietor of this hairdressing salon a Hungarian or a German?
 
-**Witness Fleischmann:** He was one of those who were called, at that time, "Schwaben" (Swabians), he was from that region close to Austria. But he was a Hungarian national.
+**Witness Fleischmann:** He was one of those who were called, at that time, "Schwaben" (Swabians), he was from that region close to [[LOCATION:location_14|Austria]]. But he was a Hungarian national.
 
 **Q.**Was this the first time you heard Eichmann's name, or had you already known the name?
 
@@ -58,7 +58,7 @@ Witness: Aviva Fleischmann.
 
 **A.**I do not remember exactly in what month. It was after they had already entered Jewish homes. They then shut us in, and after that, until the "Putsch" (coup d'etat) of Szalasi. we were permitted to go outside between the hours of 11 and 5. It was also during this period that I was working.
 
-**Q.**Were you in Budapest all the time until Szalasi's Putsch?
+**Q.**Were you in [[LOCATION:location_31|Budapest]] all the time until Szalasi's Putsch?
 
 **A.**Yes.
 
@@ -76,11 +76,11 @@ Witness: Aviva Fleischmann.
 
 **Q.**When you say "they were taking," "they locked us up," are you referring, at that stage, to Hungarians?
 
-**A.**To those who wore the Arrow Cross.
+**A.**To those who wore the [[ORGANIZATION:org_366|Arrow Cross]].
 
-**Q.**Men of the Arrow Cross. Please tell us about what happened afterwards.
+**Q.**Men of the [[ORGANIZATION:org_366|Arrow Cross]]. Please tell us about what happened afterwards.
 
-**A.**Before the turn came of the house where we were living, they allowed us to go out for two hours for shopping. On 10 November, at six in the morning, men of the Arrow Cross came and ordered everyone inside the house between the ages of 18 and 40 to come down to the courtyard. But actually, it was not limited to people of these ages. Everyone had to come down, for they went up to the apartments, entered them, and checked whether anyone was not hiding there.
+**A.**Before the turn came of the house where we were living, they allowed us to go out for two hours for shopping. On 10 November, at six in the morning, men of the [[ORGANIZATION:org_366|Arrow Cross]] came and ordered everyone inside the house between the ages of 18 and 40 to come down to the courtyard. But actually, it was not limited to people of these ages. Everyone had to come down, for they went up to the apartments, entered them, and checked whether anyone was not hiding there.
 
 **Q.**What happened to your family?
 
@@ -96,15 +96,15 @@ Witness: Aviva Fleischmann.
 
 **Q.**Where was that?
 
-**A.**It was a suburb of Budapest - on the Buda side, the hilly side.
+**A.**It was a suburb of [[LOCATION:location_31|Budapest]] - on the [[LOCATION:location_271|Buda]] side, the hilly side.
 
 **Q.**Now, please tell the Court what happened at that place.
 
 **A.**On the way, we came across several groups who had been taken from the other houses. And along the way there were very many corpses, with, as we could see, yellow badges, which proved that they were Jewish. Blood, which by now had congealed, had flowed from their heads or chests.
 
-**Q.**Was this still within Budapest?
+**Q.**Was this still within [[LOCATION:location_31|Budapest]]?
 
-**A.**Yes, in Budapest, on the road to the brick factory. They put us in there - there were these small cells made of bricks. There was already a tremendous mass of Jews there.
+**A.**Yes, in [[LOCATION:location_31|Budapest]], on the road to the brick factory. They put us in there - there were these small cells made of bricks. There was already a tremendous mass of Jews there.
 
 **Q.**How many, roughly?
 
@@ -129,7 +129,7 @@ Witness: Aviva Fleischmann.
 
 **Q.**What were the conditions there, as regards food and sanitation?
 
-**A.**We were to take food from home. We were told to take food for three days. But we did not eat, for we were unable to do so. We sat there huddled together without moving. These soldiers who wore the Arrow Cross moved around, all the time shooting and throwing hand grenades. They said that in this way they were killing those trying to flee, or warning them.
+**A.**We were to take food from home. We were told to take food for three days. But we did not eat, for we were unable to do so. We sat there huddled together without moving. These soldiers who wore the [[ORGANIZATION:org_366|Arrow Cross]] moved around, all the time shooting and throwing hand grenades. They said that in this way they were killing those trying to flee, or warning them.
 
 **Q.**What happened after that?
 
@@ -249,9 +249,9 @@ Witness: Aviva Fleischmann.
 
 **Q.**Is it close to the Austrian border?
 
-**A.**It is not so far away. We walked from there for two days to Hegyeshalom.
+**A.**It is not so far away. We walked from there for two days to [[LOCATION:location_267|Hegyeshalom]].
 
-**State Attorney Bach:** So then you walked to Hegyeshalom?
+**State Attorney Bach:** So then you walked to [[LOCATION:location_267|Hegyeshalom]]?
 
 **Witness Fleischmann:** Yes. We remained there for a few more days, until they collected some more people. There were a hundred and two of us, exactly, who were led to the border. We wanted to know what would happen to those who were lying there.
 
@@ -259,7 +259,7 @@ Witness: Aviva Fleischmann.
 
 **A.**Who were lying inside the ghetto, completely abandoned, already exhausted, people who did not even want to reply when we spoke to them. We implored them: Let anyone who is able to stand up come with us. They could not even hear us. Then we were told that they would be taken care of.
 
-We arrived at Hegyeshalom. There they put us into a large barn full of straw. There they kept us for two days, completely locked in.
+We arrived at [[LOCATION:location_267|Hegyeshalom]]. There they put us into a large barn full of straw. There they kept us for two days, completely locked in.
 
 **Q.**How many of you were there?
 
@@ -287,7 +287,7 @@ We arrived at Hegyeshalom. There they put us into a large barn full of straw. Th
 
 **Judge Halevi:** Who did not want to?
 
-**Witness Fleischmann:** The German soldiers. They said they had to receive orders. They told the gendarme who was with us to take us back. He said he was not prepared to return the Jews to Budapest, that he wanted to get rid of them. This was actually a day of snowstorms. It was December - 15 or 16 December. We stood on the border from morning to evening; we were freezing from the cold, without food - until they opened the barrier. We were taken across - there was a railway station there - and we were put into two coaches. They gave us one loaf of bread and a bucket of water and locked us in. There we heard - we understood a little German - soldiers saying that they were going to transport us for eighty kilometres. We remained in the coaches for three days. All the time the train went forward and back again.
+**Witness Fleischmann:** The German soldiers. They said they had to receive orders. They told the gendarme who was with us to take us back. He said he was not prepared to return the Jews to [[LOCATION:location_31|Budapest]], that he wanted to get rid of them. This was actually a day of snowstorms. It was December - 15 or 16 December. We stood on the border from morning to evening; we were freezing from the cold, without food - until they opened the barrier. We were taken across - there was a railway station there - and we were put into two coaches. They gave us one loaf of bread and a bucket of water and locked us in. There we heard - we understood a little German - soldiers saying that they were going to transport us for eighty kilometres. We remained in the coaches for three days. All the time the train went forward and back again.
 
 **State Attorney Bach:** Where did you get to?
 
@@ -376,7 +376,7 @@ I came across the husband of a girl friend of mine there. He was a young man, bu
 
 **Q.**Were they all Jews?
 
-**A.**They were all Jews from Hungary.
+**A.**They were all Jews from [[LOCATION:location_24|Hungary]].
 
 **Q.**How many people from this group were left?
 
@@ -392,7 +392,7 @@ I came across the husband of a girl friend of mine there. He was a young man, bu
 
 **Q.**By Russian soldiers?
 
-**A.**By the Russians. And I went back on foot to Budapest. I thought I might find my mother.
+**A.**By the Russians. And I went back on foot to [[LOCATION:location_31|Budapest]]. I thought I might find my mother.
 
 **Q.**Did your father remain alive?
 

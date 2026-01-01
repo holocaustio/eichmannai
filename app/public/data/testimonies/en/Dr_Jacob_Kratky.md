@@ -1,4 +1,4 @@
-# Testimony of Dr. Jacob Kratky
+# Testimony of [[PERSON:witness_34|Dr. Jacob Kratky]]
 
 **Session:** 20
 
@@ -28,7 +28,7 @@
 
 **Presiding Judge:** We have heard about this transport from one of the witnesses, from Mr. Burger.
 
-**Witness Kratky:** I went on this transport, which you have heard about, in the direction of Poland, to Galicia.
+**Witness Kratky:** I went on this transport, which you have heard about, in the direction of [[LOCATION:location_5|Poland]], to [[LOCATION:location_83|Galicia]].
 
 **State Attorney Bar-Or:** Did you have a special duty on this transport?
 
@@ -139,13 +139,13 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Where did you go?
 
-**A.**We walked through the forests towards Lublin. It was about 120-150 kilometres.
+**A.**We walked through the forests towards [[LOCATION:location_35|Lublin]]. It was about 120-150 kilometres.
 
-**Q.**From there to Lublin?
+**Q.**From there to [[LOCATION:location_35|Lublin]]?
 
-**A.**Yes. We spent the night in the house of some peasant - he gave us food, and we walked on and reached Lublin.
+**A.**Yes. We spent the night in the house of some peasant - he gave us food, and we walked on and reached [[LOCATION:location_35|Lublin]].
 
-**Q.**How long did the walk to Lublin take?
+**Q.**How long did the walk to [[LOCATION:location_35|Lublin]] take?
 
 **A.**Two and a half days.
 
@@ -157,28 +157,28 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**In Cracow.
 
-**Q.**So after two and a half days you reached Lublin?
+**Q.**So after two and a half days you reached [[LOCATION:location_35|Lublin]]?
 
 **A.**Yes.
 
 **Q.**What did you do there?
 
-**A.**In Lublin, we didn't know what to do. We were afraid, for we saw many German soldiers there - everywhere.
+**A.**In [[LOCATION:location_35|Lublin]], we didn't know what to do. We were afraid, for we saw many German soldiers there - everywhere.
 
 **Q.**Was that the end of October 1939?
 
-**A.**Yes. We came there and saw many Jews. We asked where the ghetto was - not the ghetto, but where was the quarter of the town where the Jews lived. That was in Levertovska Street, in Lublin. We knocked at the first door on the way and we went into a house in which there was a couple - very nice young people.
+**A.**Yes. We came there and saw many Jews. We asked where the ghetto was - not the ghetto, but where was the quarter of the town where the Jews lived. That was in [[LOCATION:location_145|Levertovska Street]], in [[LOCATION:location_35|Lublin]]. We knocked at the first door on the way and we went into a house in which there was a couple - very nice young people.
 
-**Q.**How long did you remain in Lublin?
+**Q.**How long did you remain in [[LOCATION:location_35|Lublin]]?
 
 **A.**They gave us food and everything and also...
 
-**Q.**How long did you remain in Lublin?
+**Q.**How long did you remain in [[LOCATION:location_35|Lublin]]?
 
 **A.**Three days.
 ---
 
-**Q.**You stayed in Lublin for only three days?
+**Q.**You stayed in [[LOCATION:location_35|Lublin]] for only three days?
 
 **A.**Yes, we wanted to move on, for everyone said that there was no future there and that one had to...
 
@@ -192,7 +192,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Always the same five people?
 
-**A.**Yes. We obtained this small cart for which we paid in cash and a Pole rode with us towards the East, in the direction of Poldowa. On the way between Poldowa and Lublin there was a point on the highway - there was another road at that point and I don't remember where that place was. But suddenly there appeared a Schupo* {*Schupo: Schutzpolizei - a policeman.} and two SS soldiers. We got off from the cart, for they ordered us to get off. They asked whether we had any money. We gave them the money. They asked: Who has any more money? One of the group, who was not to blame for it, had some more money in his pocket. They searched him and found more money in his pocket. They told us to remove our clothes. We got undressed completely. All were made to lie on the ground, and we were given blows for fifteen minutes on end. They passed the stick from one to the other. They struck us and laughed.
+**A.**Yes. We obtained this small cart for which we paid in cash and a Pole rode with us towards the East, in the direction of Poldowa. On the way between Poldowa and [[LOCATION:location_35|Lublin]] there was a point on the highway - there was another road at that point and I don't remember where that place was. But suddenly there appeared a Schupo* {*Schupo: Schutzpolizei - a policeman.} and two SS soldiers. We got off from the cart, for they ordered us to get off. They asked whether we had any money. We gave them the money. They asked: Who has any more money? One of the group, who was not to blame for it, had some more money in his pocket. They searched him and found more money in his pocket. They told us to remove our clothes. We got undressed completely. All were made to lie on the ground, and we were given blows for fifteen minutes on end. They passed the stick from one to the other. They struck us and laughed.
 
 **Q.**After that they left you?
 
@@ -212,7 +212,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**What did you do?
 
-**A.**My friend fainted twice. He was very weak after these beatings. They were very hard blows. It is impossible to describe them in words. We went back to Lublin. It was impossible to go on. We had nothing and we were very weak. We went on the cart which had taken us in that direction, and we reached Lublin. We immediately went to the Jewish hospital at 54 Levertovska Street.
+**A.**My friend fainted twice. He was very weak after these beatings. They were very hard blows. It is impossible to describe them in words. We went back to [[LOCATION:location_35|Lublin]]. It was impossible to go on. We had nothing and we were very weak. We went on the cart which had taken us in that direction, and we reached [[LOCATION:location_35|Lublin]]. We immediately went to the Jewish hospital at 54 [[LOCATION:location_145|Levertovska Street]].
 
 **Q.**How long did you remain there?
 
@@ -226,15 +226,15 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**From Nisko. He came to Nisko to see how the new State was developing.
 
-**Q.**Did he tell you what he was doing in Lublin?
+**Q.**Did he tell you what he was doing in [[LOCATION:location_35|Lublin]]?
 
-**A.**He told me that in Lublin he wanted to see Globocnik, who was the Governor of Lublin. Murmelstein was also there, but he didn't come to the hospital, but to a hotel.
+**A.**He told me that in [[LOCATION:location_35|Lublin]] he wanted to see Globocnik, who was the Governor of [[LOCATION:location_35|Lublin]]. Murmelstein was also there, but he didn't come to the hospital, but to a hotel.
 
-**Q.**What happened in Lublin?
+**Q.**What happened in [[LOCATION:location_35|Lublin]]?
 
-**A.**We remained in Lublin meanwhile.
+**A.**We remained in [[LOCATION:location_35|Lublin]] meanwhile.
 
-**Q.**How long, in the end, did you remain in Lublin?
+**Q.**How long, in the end, did you remain in [[LOCATION:location_35|Lublin]]?
 
 **A.**Until the end.
 
@@ -246,7 +246,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**At the beginning of April.
 
-**Q.**So you remained in Lublin until April 1940?
+**Q.**So you remained in [[LOCATION:location_35|Lublin]] until April 1940?
 
 **A.**Yes.
 
@@ -262,7 +262,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**Yes. We assisted there - both the other doctor, Dr. Tasker, and I.
 
-**Q.**Do you recall, during the period of your work at the hospital in Lublin, when a particular transport of Jews arrived from Germany?
+**Q.**Do you recall, during the period of your work at the hospital in [[LOCATION:location_35|Lublin]], when a particular transport of Jews arrived from [[LOCATION:location_2|Germany]]?
 
 **A.**Yes.
 
@@ -270,7 +270,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**This transport of Jews from Stettin arrived in a very bad condition, and we received them. Some of them were in a very serious state. It was a very difficult winter. It was 25 degrees below zero.
 
-**Q.**Do you remember the month in which the transport reached the hospital in Lublin?
+**Q.**Do you remember the month in which the transport reached the hospital in [[LOCATION:location_35|Lublin]]?
 
 **A.**It could have been roughly at the end of December.
 
@@ -284,7 +284,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Who had frozen to death?
 
-**A.**Both from the cold and also otherwise. I don't know. They were locked in. But we received many people at the hospital, approximately 60 persons; there was no room and they had to lie on the floor and in all kinds of places, and we treated arms and legs that had been frozen. It was a matter of luck that a good friend arrived from Nisko - I think they sent him - Dr. Grossmann, a famous operating surgeon, and he was of great help in this situation. We treated the people.
+**A.**Both from the cold and also otherwise. I don't know. They were locked in. But we received many people at the hospital, approximately 60 persons; there was no room and they had to lie on the floor and in all kinds of places, and we treated arms and legs that had been frozen. It was a matter of luck that a good friend arrived from Nisko - I think they sent him - Dr. [[PERSON:person_472|Grossmann]], a famous operating surgeon, and he was of great help in this situation. We treated the people.
 
 **Q.**You treated these people and you said that you remained at your post in the hospital until the month of April 1940?
 
@@ -292,7 +292,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**At Nisko?
 
-**A.**Yes. People came there. Kramer, too, came there, the brother of Azariah Kramer who was also in the hospital. I spoke to him. People kept coming - this doctor and others.
+**A.**Yes. People came there. [[PERSON:person_471|Kramer]], too, came there, the brother of Azariah [[PERSON:person_471|Kramer]] who was also in the hospital. I spoke to him. People kept coming - this doctor and others.
 
 **Q.**The contact between you and the camp at Nisko continued?
 
@@ -302,13 +302,13 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**Yes.
 
-**Q.**You left Lublin in April 1940, and where did you go to?
+**Q.**You left [[LOCATION:location_35|Lublin]] in April 1940, and where did you go to?
 
 **A.**I went the same way...
 
 **Q.**Alone?
 
-**A.**No, with Dr. Grossmann, Tasker and Frankel, and a few other men who, during that time, had come to Lublin from the camp and who were in contact, all the time...
+**A.**No, with Dr. [[PERSON:person_472|Grossmann]], Tasker and Frankel, and a few other men who, during that time, had come to [[LOCATION:location_35|Lublin]] from the camp and who were in contact, all the time...
 
 **Q.**Where did you go?
 
@@ -318,7 +318,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**No, no, to Nisko. We were told to come back to Nisko, for there was a possibility that the whole camp might be going back to Moravska Ostrava.
 
-**Q.**Is that what you heard in Lublin?
+**Q.**Is that what you heard in [[LOCATION:location_35|Lublin]]?
 
 **A.**Yes.
 
@@ -344,7 +344,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Were all the people you found in the camp on your return from Maehrisch-Ostrau?
 
-**A.**I don't know, but there were also people from Vienna.
+**A.**I don't know, but there were also people from [[LOCATION:location_3|Vienna]].
 
 **Q.**How many were there, in all, when you came back?
 
@@ -356,7 +356,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**When you returned, in April 1940, did you see extensions to the camp?
 
-**A.**We heard that some had actually left for the East, and that some had remained in Lvov, in that direction. We heard afterwards that my brother-in-law had left with that transport; he remained in Kolomyya, and was shot there after the Germans caught him.
+**A.**We heard that some had actually left for the East, and that some had remained in [[LOCATION:location_99|Lvov]], in that direction. We heard afterwards that my brother-in-law had left with that transport; he remained in Kolomyya, and was shot there after the Germans caught him.
 
 **Q.**So ultimately, you returned to Maehrisch-Ostrau already in April?
 
@@ -366,7 +366,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**Until September 1942.
 
-**Q.**When you were transferred to Theresienstadt?
+**Q.**When you were transferred to [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**Yes.
 
@@ -388,7 +388,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Were there restrictions on your movements?
 
-**A.**Yes. It was impossible to leave the town of Maehrisch- Ostrau for Prague.
+**A.**Yes. It was impossible to leave the town of Maehrisch- Ostrau for [[LOCATION:location_4|Prague]].
 
 **Q.**And what about your movements inside the town?
 
@@ -450,7 +450,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Dr. Servatius:** Yes. Moravska Ostrava used to belong in those days to what was called the Protectorate?
 
-**Witness Kratky:** Yes. It was a town in Northern Moravia, and it was in the Protectorate.
+**Witness Kratky:** Yes. It was a town in Northern [[LOCATION:location_89|Moravia]], and it was in the Protectorate.
 
 **Q.**Who was the Protector, the Governor of the Protectorate, there, when this Nisko affair was initiated?
 
@@ -458,7 +458,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**Wasn't Heydrich there already?
 
-**A.**I don't remember whether it was Heydrich first, or Neurath first. Neurath was also in Czechoslovakia. Heydrich was there. I am confused on this.
+**A.**I don't remember whether it was Heydrich first, or Neurath first. Neurath was also in [[LOCATION:location_15|Czechoslovakia]]. Heydrich was there. I am confused on this.
 
 **Presiding Judge:** Very well, one or the other, either Neurath was first, or Heydrich.
 
@@ -469,13 +469,13 @@ Over the years I repeated these words so often to myself that I never forgot the
 **Dr. Servatius:** I have no more questions.
 ---
 
-**Judge Halevi:** On the way from Nisko to Lublin did you come across Poles?
+**Judge Halevi:** On the way from Nisko to [[LOCATION:location_35|Lublin]] did you come across Poles?
 
 **Witness Kratky:** Yes.
 
-**Q.**And they conveyed you by cart, on payment of money, to Lublin, or how was it? Was there a Polish cart driver?
+**Q.**And they conveyed you by cart, on payment of money, to [[LOCATION:location_35|Lublin]], or how was it? Was there a Polish cart driver?
 
-**A.**Yes, a Polish cart driver, from Lublin to the East.
+**A.**Yes, a Polish cart driver, from [[LOCATION:location_35|Lublin]] to the East.
 
 **Q.**You related, previously, that SS took you off the cart and struck you; were you riding on a cart belonging to a Pole, or what was it?
 
@@ -487,15 +487,15 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Q.**I want to ask you how you were treated by the Poles whom you encountered on your way?
 
-**A.**The Pole who took us on his cart was an excellent person, very good. But the Poles who we met us when we stopped in some forest - they suddenly appeared before us - perhaps fifty kilometres along the road to Lublin - suddenly men appeared there and detained us, they wanted to take away our money and watches. We had already decided to give them whatever was possible, it was not worthwhile to start a quarrel with them, we did not know if they had a gun or something. We suddenly heard a cart approaching. They saw the cart and disappeared, and the driver took us.
+**A.**The Pole who took us on his cart was an excellent person, very good. But the Poles who we met us when we stopped in some forest - they suddenly appeared before us - perhaps fifty kilometres along the road to [[LOCATION:location_35|Lublin]] - suddenly men appeared there and detained us, they wanted to take away our money and watches. We had already decided to give them whatever was possible, it was not worthwhile to start a quarrel with them, we did not know if they had a gun or something. We suddenly heard a cart approaching. They saw the cart and disappeared, and the driver took us.
 
-**Q.**Generally speaking, what was the attitude of the Poles to the Jews, when you were in Poland?
+**Q.**Generally speaking, what was the attitude of the Poles to the Jews, when you were in [[LOCATION:location_5|Poland]]?
 
 **A.**I had no contacts with Poles - there was only one who received money from us and travelled to Moravska Ostrava to convey all the news. He also visited people in Moravska Ostrava and also my own family, and at the time also brought things to us. He was all right. I didn't meet many Poles.
 
 **Q.**After that you spent another two years in Moravska Ostrava. What was the attitude of the Czech population to the Jews?
 
-**A.**We did not have any contacts with them. People did not want to have any contact with us. I must say that it was very risky to go out of the house, but not because of the Czechs; there were many Germans there, and I remember one incident: A friend of mine, Goldberger, who was blond and actually looked like an Aryan, went out of his house after 7.30 in the evening and some acquaintance of his from the town saw him; he immediately reported this to the SS, and he was taken off to his death. They seized him right away and took him to Konitzia, Brno, a concentration camp.
+**A.**We did not have any contacts with them. People did not want to have any contact with us. I must say that it was very risky to go out of the house, but not because of the Czechs; there were many Germans there, and I remember one incident: A friend of mine, [[PERSON:person_473|Goldberger]], who was blond and actually looked like an Aryan, went out of his house after 7.30 in the evening and some acquaintance of his from the town saw him; he immediately reported this to the SS, and he was taken off to his death. They seized him right away and took him to Konitzia, [[LOCATION:location_143|Brno]], a concentration camp.
 
 **Q.**His Czech acquaintance betrayed him to the SS?
 
@@ -505,7 +505,7 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **A.**Yes, there were lots of Germans - the centre of Maehrisch- Ostrau was completely German.
 
-**Judge Raveh:** Do you remember how many Jews from Stettin arrived at Lublin?
+**Judge Raveh:** Do you remember how many Jews from Stettin arrived at [[LOCATION:location_35|Lublin]]?
 
 **Witness Kratky:** I don't remember how many, but it was a very long train.
 
@@ -517,13 +517,13 @@ Over the years I repeated these words so often to myself that I never forgot the
 
 **Attorney General:** This brings to an end the evidence of the present stage and, with the permission of the Court, we shall proceed to the next stage. The Prosecution now intends to present thirty-five documents which, we submit, constitute proof of the decision for the physical destruction of the Jews. We also intend to prove the guilt of the Accused in this connection. After submission of the documents we shall present the witnesses. Because of the importance of each of the documents I ask the Court in advance to allow me to draw its attention to several selected passages.
 
-The first document is our No. 983, the minutes of a meeting which took place in Berlin on 21 September 1939 under Heydrich's chairmanship with the participation of a number of high SS officers. Last on the list of participants is Hauptsturmfehrer Eichmann, Juedische Auswanderungszentrale Authentication of the document: It belongs to the Alexandria document and was submitted with the statement of the Accused No. T/37-264.
+The first document is our No. 983, the minutes of a meeting which took place in [[LOCATION:location_1|Berlin]] on 21 September 1939 under Heydrich's chairmanship with the participation of a number of high SS officers. Last on the list of participants is Hauptsturmfehrer Eichmann, Juedische Auswanderungszentrale Authentication of the document: It belongs to the [[LOCATION:location_69|Alexandria]] document and was submitted with the statement of the Accused No. T/37-264.
 
 **Presiding Judge:** This will be T/164.
 
-**Attorney General:** In this document Heydrich is designated C - Chef (Chief). Following a general review of the German plans regarding occupied Poland, Heydrich decrees that the Jews shall be deported to the Gau (district) where alien languages are spoken and will be moved away from the demarcation line approved by the Fuehrer and that this process will take one year.
+**Attorney General:** In this document Heydrich is designated C - Chef (Chief). Following a general review of the German plans regarding occupied [[LOCATION:location_5|Poland]], Heydrich decrees that the Jews shall be deported to the Gau (district) where alien languages are spoken and will be moved away from the demarcation line approved by the Fuehrer and that this process will take one year.
 
-Heydrich says already at the beginning of the meeting that the Jews shall be moved to the towns as fast as possible, that 30,000 Gypsies are to be transferred from the Reich to Poland and that a systematic railway transport of Jews away from the German areas is to begin. I shall read one sentence: "The Jews have to be concentrated in the towns within the Ghetto area in order to provide a better possibility of control and of later deportation. It is of urgent importance that the Jew as smallholder should disappear from the countryside."
+Heydrich says already at the beginning of the meeting that the Jews shall be moved to the towns as fast as possible, that 30,000 Gypsies are to be transferred from the Reich to [[LOCATION:location_5|Poland]] and that a systematic railway transport of Jews away from the German areas is to begin. I shall read one sentence: "The Jews have to be concentrated in the towns within the Ghetto area in order to provide a better possibility of control and of later deportation. It is of urgent importance that the Jew as smallholder should disappear from the countryside."
 
 **Judge Halevi:** What page was that?
 
@@ -539,9 +539,9 @@ Heydrich says already at the beginning of the meeting that the Jews shall be mov
 
 **Presiding Judge:** In the original it is in handwriting. Is this a kind of signature at the end or does it also appear in print?
 
-**Attorney General:** I have it in print. It is true that the document carries no signature but I shall immediately get to the reaction of the Accused regarding this point. We have here one of the American documents which we received from the Alexandria Documentation Centre.
+**Attorney General:** I have it in print. It is true that the document carries no signature but I shall immediately get to the reaction of the Accused regarding this point. We have here one of the American documents which we received from the [[LOCATION:location_69|Alexandria]] Documentation Centre.
 
-**Presiding Judge:** Yes, Alexandria near Washington.
+**Presiding Judge:** Yes, [[LOCATION:location_69|Alexandria]] near Washington.
 
 **Attorney General:** Following this meeting instructions were given to those operational units which existed in 1939 - called "Einsatzgruppen"; and this is a document authenticated as No. P. S. 3363 and submitted to the Court as document T/37 (263). It contains the instructions which were issued on 21 September 1939 following that meeting.
 
@@ -551,19 +551,19 @@ Heydrich says already at the beginning of the meeting that the Jews shall be mov
 
 The measures planned demand thorough preparations, technically as well as economically. It is self-evident that all the tasks on the agenda cannot be determined in detail. The instructions and guidelines which follow also serve to enable the heads of the Einsatzgruppen to use their own practical judgment. The concentration of the Jews from the rural areas in larger towns is to be considered (gilt) as the first condition for the achievement of the final aim. This must be implemented with all possible speed.
 
-There now follow more detailed instructions for implementation in the various areas, how to concentrate the Jews near the railway junctions, instructions regarding the establishments of Councils of Jewish Elders, and, in paragraph 1 it says with reference to the Councils of Elders: The Council will be responsible in the fullest sense for the exact implementation, within the time limit set, of all instructions given or still to be given.
+There now follow more detailed instructions for implementation in the various areas, how to concentrate the Jews near the railway junctions, instructions regarding the establishments of Councils of Jewish Elders, and, in paragraph 1 it says with reference to the [[ORGANIZATION:org_326|Councils of Elders]]: The Council will be responsible in the fullest sense for the exact implementation, within the time limit set, of all instructions given or still to be given.
 
-At the end of paragraph 4 concerning the Councils of Elders: The argument that the Jews played a prominent part in partisan attacks and looting will serve as justification for their concentration in the towns.
+At the end of paragraph 4 concerning the [[ORGANIZATION:org_326|Councils of Elders]]: The argument that the Jews played a prominent part in partisan attacks and looting will serve as justification for their concentration in the towns.
 
 In paragraph 6 of the same passage: There is no objection to the Jews taking their movable possessions, to the extent that it is possible at all.
 
 Paragraph 7 of the passage provides that the Jews who do not obey the order to move to the towns will be granted a short extension in justified cases. They are to be warned that severest punishment will ensue, if they do not keep to this extended time limit.
 
-The following paragraphs deal with the economic liquidation of the Jews, with Aryanization of enterprises and with the seizing of the Jewish economy in Poland.
+The following paragraphs deal with the economic liquidation of the Jews, with Aryanization of enterprises and with the seizing of the Jewish economy in [[LOCATION:location_5|Poland]].
 
 Now, with the permission of the Court, I shall state the following in reply to Counsel for the Defence. The second document from which I have just quoted, was shown to the Accused during his interrogation, before the first, at a time when he did not yet know, at any rate not from us, that we knew the list of participants in the meeting of 21 September.
 
-The Court will see his reaction to the document on page 3141, where he says that this actually clarifies many things for him and that it becomes clear to him that on 21 September 1939 Heydrich actually already planned the whole ghettoization, that he already spoke of the "final solution." He does not know anything about this. And this is what he says on page 3142: "I did not do this... I know nothing about it. When I came everything was already... I found to a certain extent...if I may put it this way...a ready-made structure."
+The Court will see his reaction to the document on page 3141, where he says that this actually clarifies many things for him and that it becomes clear to him that on 21 September 1939 Heydrich actually already planned the whole ghettoization, that he already spoke of the "[[EVENT:event_389|final solution]]." He does not know anything about this. And this is what he says on page 3142: "I did not do this... I know nothing about it. When I came everything was already... I found to a certain extent...if I may put it this way...a ready-made structure."
 
 After this Inspector Less put before him the list of those present at the meeting and the Court will kindly note his stammered reaction on page 3175 and following pages when he says: "Yes, today it is easy to say what can be understood by 'Final Aim.' In those days, what had to be understood as 'Final Aim,' especially if one was not active in the Executive - was of course not to be understood in this way, as for instance the sentence that was thrown at me, so to speak, when I was ordered before Heydrich...yes, yes, of course, this is quite possible," and all the rest of his reactions to this document.
 
@@ -577,7 +577,7 @@ After this Inspector Less put before him the list of those present at the meetin
 
 **Presiding Judge:** The argument was that these instructions were given as a result of a consultation in which the Accused took part.
 
-**Attorney General:** The next document is our No. 468. It was shown to the Accused and you have it as T/37 (121). It is the minutes of a meeting in which Heydrich participated as well as Reichsminister Seyss-Inquart and a long list of officers from which I shall only mention those of importance to us: Krueger, Streckenbach, Rasch, Albromeit, Globocnik, Katzmann, Hahn, Huppenkothen, Best, Mueller, Ohlendorf, Eichmann, Guenther, Dannecker and Rajakowitsch.
+**Attorney General:** The next document is our No. 468. It was shown to the Accused and you have it as T/37 (121). It is the minutes of a meeting in which Heydrich participated as well as Reichsminister Seyss-Inquart and a long list of officers from which I shall only mention those of importance to us: [[PERSON:person_474|Krueger]], [[PERSON:person_475|Streckenbach]], [[PERSON:person_476|Rasch]], Albromeit, Globocnik, [[PERSON:person_477|Katzmann]], Hahn, Huppenkothen, Best, Mueller, Ohlendorf, Eichmann, Guenther, Dannecker and Rajakowitsch.
 
 **Presiding Judge:** This document will be numbered T/166.
 
@@ -587,15 +587,15 @@ After this Inspector Less put before him the list of those present at the meetin
 
 **Attorney General:** Yes. Heydrich said that complaints had been received that at previous evacuations the numbers originally fixed had not been adhered to, but the quota had been exceeded. With the establishment of Department IVD4 for the central direction of the tasks of evacuation those reservations would no longer be relevant.
 
-First priority would be given to the transfer of 40,000 Jews and Poles from the Warthegau to the Generalgouvernement in order to make room for Baltic Germans. On page 6 two mass movements are mentioned: (a) 40,000 Poles and Jews in order to make room for the Baltic Germans; (b) 120,000 Poles for the benefit of the Volhynian Germans. Further on: the transfer of all the Jews from the new Eastern district, and of 30,000 Gypsies from the Reich to the Generalgouvernement should be carried out as the last mass movement.
+First priority would be given to the transfer of 40,000 Jews and Poles from the Warthegau to the [[LOCATION:location_152|Generalgouvernement]] in order to make room for Baltic Germans. On page 6 two mass movements are mentioned: (a) 40,000 Poles and Jews in order to make room for the Baltic Germans; (b) 120,000 Poles for the benefit of the Volhynian Germans. Further on: the transfer of all the Jews from the new Eastern district, and of 30,000 Gypsies from the Reich to the [[LOCATION:location_152|Generalgouvernement]] should be carried out as the last mass movement.
 
 Since it was stipulated that the evacuation of 120,000 Poles would start around March 1940, the clearing of Jews and Gypsies was to cease until the completion of those operations.
 
-Furthermore there was mention of deporting 1,000 Jews from Stettin to the Generalgouvernement in 1940 in order to take over their apartments which were needed for military purposes.
+Furthermore there was mention of deporting 1,000 Jews from Stettin to the [[LOCATION:location_152|Generalgouvernement]] in 1940 in order to take over their apartments which were needed for military purposes.
 
 Seyss-Inquart recapitulated the numbers as follows (page 7): 40,000 Jews and Poles, another 120,000 Poles as well as all the Jews in the new Eastern provinces plus 30,000 Gypsies from the old Reich and the Ostmark (Eastern Border Province) would be transferred. If the Court is interested to know already at this stage - the document is mentioned in the statement of the Accused on page 1566 and following pages.
 
-What is the purpose of all this? In our document 1396 the Court will find an order from Heinrich Himmler addressed to two SS Officers, Weichsel and Hildebrandt, dated 7 November 1939.* {* The document is in fact addressed to SS Gruppenfuehrer Hildebrandt as Higher SS, and Police Leader of the Weichsel (Vistula) District.} The source of authentication is Bulletin No. 12 of the Polish Governmental Committee.
+What is the purpose of all this? In our document 1396 the Court will find an order from [[PERSON:person_478|Heinrich Himmler]] addressed to two SS Officers, Weichsel and Hildebrandt, dated 7 November 1939.* {* The document is in fact addressed to SS Gruppenfuehrer Hildebrandt as Higher SS, and Police Leader of the Weichsel ([[LOCATION:location_162|Vistula]]) District.} The source of authentication is Bulletin No. 12 of the Polish Governmental Committee.
 
 **Presiding Judge:** This document is numbered T/167.
 
@@ -613,17 +613,17 @@ What is the purpose of all this? In our document 1396 the Court will find an ord
 
 **State Attorney Bar-Or:** Yes. Thank you very much.
 
-**Attorney General:** The document is dated 9 November. What are the contents of the document? - Hitler decrees: "The results of Versailles in Europe have been done away with. Therefore the Great German Reich is able to absorb and settle more Germans." And he charges the Reichsfuehrer SS with the following tasks: To bring back these citizens of the German Reich and those persons belonging to the German people ('Volksdeutsche' in the original) from abroad for definite return to the Reich and do away with the harmful influence of foreign sectors of the population, which constitute a danger to the Reich and to the German people.
+**Attorney General:** The document is dated 9 November. What are the contents of the document? - Hitler decrees: "The results of [[LOCATION:location_94|Versailles]] in Europe have been done away with. Therefore the Great German Reich is able to absorb and settle more Germans." And he charges the Reichsfuehrer SS with the following tasks: To bring back these citizens of the German Reich and those persons belonging to the German people ('Volksdeutsche' in the original) from abroad for definite return to the Reich and do away with the harmful influence of foreign sectors of the population, which constitute a danger to the Reich and to the German people.
 
-Wider powers were given to the Reichsfuehrer SS to take the administrative measures necessary for the implementation of these tasks. In the end it says that the Reich Finance Minister will put all the necessary means for the implementation of these activities at the disposal of the Reichsfuehrer. That was the order from Hitler under which the Jewish and Polish populations were uprooted from those areas and transferred to the Generalgouvernement.
+Wider powers were given to the Reichsfuehrer SS to take the administrative measures necessary for the implementation of these tasks. In the end it says that the Reich Finance Minister will put all the necessary means for the implementation of these activities at the disposal of the Reichsfuehrer. That was the order from Hitler under which the Jewish and Polish populations were uprooted from those areas and transferred to the [[LOCATION:location_152|Generalgouvernement]].
 
 Our next document is No. 1397. Its authentication is also to be found in Bulletin No. 12. Its date is 4 November 1939.
 
 **Presiding Judge:** This document will be T/169.
 
-**Attorney General:** It is intended in the first instance for the Head office for Reich Security. Signed by Himmler. Will the Court please note all the many localities to which it was sent: Berlin, Koenigsberg, Breslau, Danzig, Posen Warsaw, and for information to various offices including the Oberkommando der Wehrmacht (High Command of the Army). It opens with Himmler's order that the transfer of the population from the former Polish, now German, areas and of all the Jews ("Alle Juden") has to be carried out in January and February 1940. Responsible: Senior SS and Police Officers. The document was sent to all those to whom it was addressed for information and further action.
+**Attorney General:** It is intended in the first instance for the Head office for Reich Security. Signed by Himmler. Will the Court please note all the many localities to which it was sent: [[LOCATION:location_1|Berlin]], [[LOCATION:location_146|Koenigsberg]], [[LOCATION:location_100|Breslau]], [[LOCATION:location_113|Danzig]], Posen [[LOCATION:location_93|Warsaw]], and for information to various offices including the Oberkommando der [[ORGANIZATION:org_328|Wehrmacht]] (High Command of the Army). It opens with Himmler's order that the transfer of the population from the former Polish, now German, areas and of all the Jews ("Alle Juden") has to be carried out in January and February 1940. Responsible: Senior SS and Police Officers. The document was sent to all those to whom it was addressed for information and further action.
 
-**Attorney General:** Our next document is No. 1398 of 21 December 1939. Will the Court please note the abbreviations at the top. The document originated with the Head of the Security Police and SD. After this there appear a number of letters. The author of the document is Eichmann, although the signature is of Heydrich.
+**Attorney General:** Our next document is No. 1398 of 21 December 1939. Will the Court please note the abbreviations at the top. The document originated with the Head of the [[ORGANIZATION:org_327|Security Police and SD]]. After this there appear a number of letters. The author of the document is Eichmann, although the signature is of Heydrich.
 ---
 
 **Presiding Judge:** What is "Br." Is that known?
@@ -650,19 +650,19 @@ Our next document is No. 1397. Its authentication is also to be found in Bulleti
 
 **Attorney General:** Yes, we can show this to the Court. At that time the task of IVB4 was population removal and transfer of persons. At the same time he did not cease to act as officer in charge of Jewish affairs. That is a different question. We shall also see his other activity. But this was an additional job.
 
-Document 1399 is a minute of a meeting concerning the evacuations. It took place in Danzig on 8 January 1940. SS Hauptsturmfuehrer Eichmann from the Head Office for Reich Security presided.
+Document 1399 is a minute of a meeting concerning the evacuations. It took place in [[LOCATION:location_113|Danzig]] on 8 January 1940. SS Hauptsturmfuehrer Eichmann from the Head Office for Reich Security presided.
 
-**Presiding Judge:** Why do you say Danzig. At the top it says Berlin, does it not?
+**Presiding Judge:** Why do you say [[LOCATION:location_113|Danzig]]. At the top it says [[LOCATION:location_1|Berlin]], does it not?
 
-**Attorney General:** The document is from Danzig, the meeting was in Berlin.
+**Attorney General:** The document is from [[LOCATION:location_113|Danzig]], the meeting was in [[LOCATION:location_1|Berlin]].
 
 **Presiding Judge:** This will be T/171.
 
-**Attorney General:** Authentication- Bulletin 12, document 12. In paragraph 2 of this internal minute Hauptsturmfuehrer Mohr said he had to draw particular attention to the difficulties arising in some cases where the quota of evacuees approved by the Government was exceeded. In one transport during the great cold spell there were 100 cases of death from cold, he said.
+**Attorney General:** Authentication- Bulletin 12, document 12. In paragraph 2 of this internal minute [[PERSON:person_480|Hauptsturmfuehrer Mohr]] said he had to draw particular attention to the difficulties arising in some cases where the quota of evacuees approved by the Government was exceeded. In one transport during the great cold spell there were 100 cases of death from cold, he said.
 
-In paragraph 3 it says: "The experts of Inspectors North East, South East and Warthegau quoted the following figures for the immediate evacuation of Jews: North East - 30,000, South East 120,000-125,000, Warthegau (Lodz) 200,000. In addition Warthegau wants to evacuate 80,000 Poles immediately in order to make room for Volksdeutsche from Galicia and Volhynia. (So far Warthegau has evacuated 87,000 Poles).
+In paragraph 3 it says: "The experts of Inspectors North East, South East and Warthegau quoted the following figures for the immediate evacuation of Jews: North East - 30,000, South East 120,000-125,000, Warthegau ([[LOCATION:location_81|Lodz]]) 200,000. In addition Warthegau wants to evacuate 80,000 Poles immediately in order to make room for Volksdeutsche from [[LOCATION:location_83|Galicia]] and Volhynia. (So far Warthegau has evacuated 87,000 Poles).
 
-At the end of the document, in sub-paragraph 9 it says: "The Commander of the Security Police and SD in Cracow and the RSHA Department IV, SS Hauptsturmfuehrer Eichmann, must be informed by cable of the departure of each transport."
+At the end of the document, in sub-paragraph 9 it says: "The Commander of the [[ORGANIZATION:org_327|Security Police and SD]] in Cracow and the RSHA Department IV, SS Hauptsturmfuehrer Eichmann, must be informed by cable of the departure of each transport."
 
 The last sentence reads: "RSHA, Department IV intends to put at the disposal of the Inspector of the Security Police and the SD one assistant and one orderly each for the preparation of the measures to be taken."
 
@@ -674,40 +674,40 @@ The next document connected with this affair is our No. 1400. This is the minute
 
 **Presiding Judge:** This will be T/172.
 
-**Attorney General:** Under discussion is the fact that in Lodz difficulties were created by the evacuation from Volhynia, that 10 trains arrive daily and 6 additional trains from the Altreich are in preparation. At the end of the second paragraph there is a sentence which I should like to read in German: "Die Juden muessen eben aus Lodz nach Posen gebracht und dort verladen werden" ("Well then, the Jews would have to be taken from Lodz to Posnan and loaded for despatch from there.")
+**Attorney General:** Under discussion is the fact that in [[LOCATION:location_81|Lodz]] difficulties were created by the evacuation from Volhynia, that 10 trains arrive daily and 6 additional trains from the [[LOCATION:location_128|Altreich]] are in preparation. At the end of the second paragraph there is a sentence which I should like to read in German: "Die Juden muessen eben aus [[LOCATION:location_81|Lodz]] nach Posen gebracht und dort verladen werden" ("Well then, the Jews would have to be taken from [[LOCATION:location_81|Lodz]] to Posnan and loaded for despatch from there.")
 
-In the final remark in that document Eichmann announces that there will be an additional consultation on 30 January at 11 a.m. where Heydrich will preside and the District Chiefs from the Generalgouvernement will take part.
+In the final remark in that document Eichmann announces that there will be an additional consultation on 30 January at 11 a.m. where Heydrich will preside and the District Chiefs from the [[LOCATION:location_152|Generalgouvernement]] will take part.
 
-These are the documents concerning the displacement and evacuation from Poland.
+These are the documents concerning the displacement and evacuation from [[LOCATION:location_5|Poland]].
 
-On 24 June 1940 Heydrich wrote to the German Foreign Minister, Joachim von Ribbentrop. This is our document No. 464. It is a short document. Heydrich invokes Goering's order which puts him, Heydrich, in charge of Jewish emigration. That order was contained in a document of January 1939 which was submitted to you yesterday. Heydrich says that since he took over the task, 200,000 Jews had emigrated from the Reich but "the problem as a whole - which is already a matter of 3 1/4 million Jews in the areas under German sovereignty is, therefore, becoming necessary." The document appears under the letterhead IVB4.* {*Actually IVD4)} It is mentioned in the interrogation of the Accused from page 1742 onward.
+On 24 June 1940 Heydrich wrote to the German Foreign Minister, [[PERSON:person_481|Joachim von Ribbentrop]]. This is our document No. 464. It is a short document. Heydrich invokes Goering's order which puts him, Heydrich, in charge of Jewish emigration. That order was contained in a document of January 1939 which was submitted to you yesterday. Heydrich says that since he took over the task, 200,000 Jews had emigrated from the Reich but "the problem as a whole - which is already a matter of 3 1/4 million Jews in the areas under German sovereignty is, therefore, becoming necessary." The document appears under the letterhead IVB4.* {*Actually IVD4)} It is mentioned in the interrogation of the Accused from page 1742 onward.
 
 **Presiding Judge:** This will be T/173. What is "eine territoriale Endloesung" (a final territorial solution) according to your argument?
 
-**Attorney General:** We argue that at that time certain German circles still toyed with the hope of a territorial solution - perhaps: Madagascar, perhaps Guinea, perhaps Nisko, this was not yet clear. There may have been some who knew very well what the intention was, but our argument is that at that time the decision of the final physical destruction had not yet been taken.
+**Attorney General:** We argue that at that time certain German circles still toyed with the hope of a territorial solution - perhaps: [[LOCATION:location_114|Madagascar]], perhaps Guinea, perhaps Nisko, this was not yet clear. There may have been some who knew very well what the intention was, but our argument is that at that time the decision of the final physical destruction had not yet been taken.
 
 **Presiding Judge:** Could we perhaps stop here?
 
 **Attorney General:** Perhaps the next document will bring the chapter of the territoriale Endloesung to an end, as far as the Accused is concerned and I shall not to have to come back to it.
 
-This is a memorandum on the Madagascar Project which Theodor Dannecker from the Department of the Accused wrote to the Foreign Ministry on 15 August 1940. Our document No. 172. I shall not read out the entire programme; it is very long. It is Dannecker's project - and according to our argument Eichmann's project, because Dannecker was subordinate to him; it originated in the RHSA as indicated in the document - to transfer four million Jews to Madagascar over a period of four years under supervision of the SS. Dannecker sees the main advantage of the project in the fact that Madagascar is an island and therefore the Jews would not be able to exercise a harmful influence on anybody else; they would be under the supervision of the SS. And the transfer would of course be carried out at the expense of the Jews. This document was shown to the Accused.
+This is a memorandum on the [[LOCATION:location_114|Madagascar]] Project which [[PERSON:person_482|Theodor Dannecker]] from the Department of the Accused wrote to the Foreign Ministry on 15 August 1940. Our document No. 172. I shall not read out the entire programme; it is very long. It is Dannecker's project - and according to our argument Eichmann's project, because Dannecker was subordinate to him; it originated in the RHSA as indicated in the document - to transfer four million Jews to [[LOCATION:location_114|Madagascar]] over a period of four years under supervision of the SS. Dannecker sees the main advantage of the project in the fact that [[LOCATION:location_114|Madagascar]] is an island and therefore the Jews would not be able to exercise a harmful influence on anybody else; they would be under the supervision of the SS. And the transfer would of course be carried out at the expense of the Jews. This document was shown to the Accused.
 
 **Presiding Judge:** This document will be T/174.
 
-**Attorney General:** Here I should perhaps explain the subject of Adolf Boehm. On pages 806-807 of his statement the Accused speaks of this programme. He further speaks about it on page 790 of the interrogation. But on pages 806-807 the Accused says to Inspector Less that, as is known, he was under the influence of Adolf Boehm's book, he had not yet forgotten it and here was an opportunity to obtain a territory. And I shall read the final sentence of the passage:
+**Attorney General:** Here I should perhaps explain the subject of [[PERSON:person_459|Adolf Boehm]]. On pages 806-807 of his statement the Accused speaks of this programme. He further speaks about it on page 790 of the interrogation. But on pages 806-807 the Accused says to Inspector Less that, as is known, he was under the influence of [[PERSON:person_459|Adolf Boehm]]'s book, he had not yet forgotten it and here was an opportunity to obtain a territory. And I shall read the final sentence of the passage:
 
 > "Here it is possible to hand the area to the Jews and
 > to clear it for settlement."
 
-The Court will remember Rosenberg's speech concerning the Madagascar project, a document already submitted.
+The Court will remember Rosenberg's speech concerning the [[LOCATION:location_114|Madagascar]] project, a document already submitted.
 
-Our next document is No. 1097 and it contains a secret covering letter as well as the arrangement made on the eve of Operation "Barbarossa" between the Security Head Office and the German Army. Signed by von Brauchitsch, it envisages cooperation between the Army and the Security Police in the occupation zone in the USSR. Already on 28 April guidelines were laid down to the effect that security police objectives made participation of the Security Police in the operation necessary.
+Our next document is No. 1097 and it contains a secret covering letter as well as the arrangement made on the eve of Operation "Barbarossa" between the Security Head Office and the German Army. Signed by von Brauchitsch, it envisages cooperation between the Army and the Security Police in the occupation zone in the [[LOCATION:location_147|USSR]]. Already on 28 April guidelines were laid down to the effect that security police objectives made participation of the Security Police in the operation necessary.
 
 **Presiding Judge:** This will be T/175.
 
-**Attorney General:** The participation was made in such a way, as stated on page 2, that the Sonderkommandos were authorized within the framework of their functions to take executive action against the civilian population on their own responsibility. And on page 3 it says that they are to receive their professional guidelines from the Head of the SIPO (Security Police) and the SD. Communication channels were established between the Security Police and the Head Office. The signature is that of von Brauchitsch, the German Commander for the invasion of the USSR.
+**Attorney General:** The participation was made in such a way, as stated on page 2, that the Sonderkommandos were authorized within the framework of their functions to take executive action against the civilian population on their own responsibility. And on page 3 it says that they are to receive their professional guidelines from the Head of the SIPO (Security Police) and the SD. Communication channels were established between the Security Police and the Head Office. The signature is that of von Brauchitsch, the German Commander for the invasion of the [[LOCATION:location_147|USSR]].
 
-The next document is our No. 1091, an order of the Fuehrer dated 17 July 1941. This is already after the outbreak of war. It decrees that, after the civil administration begins to operate in the occupied territories, the Reichsfuehrer SS is authorized to issue orders to the Reichskommissars. In order to ensure police protection a senior SS and Police Commander will be seconded to each Reichskommissar who will be directly subordinate to the Reichskommissar personally. Signed: Adolf Hitler, Keitel, Dr. Lammers. This Erlass (Decree) is known as the "Kommissarerlass" (the Commissars Decree).
+The next document is our No. 1091, an order of the Fuehrer dated 17 July 1941. This is already after the outbreak of war. It decrees that, after the civil administration begins to operate in the occupied territories, the Reichsfuehrer SS is authorized to issue orders to the Reichskommissars. In order to ensure police protection a senior SS and Police Commander will be seconded to each Reichskommissar who will be directly subordinate to the Reichskommissar personally. Signed: [[PERSON:person_397|Adolf Hitler]], Keitel, Dr. Lammers. This Erlass (Decree) is known as the "Kommissarerlass" (the Commissars Decree).
 
 **Presiding Judge:** This will be exhibit T/176.
 
@@ -715,9 +715,9 @@ The next document is our No. 1091, an order of the Fuehrer dated 17 July 1941. T
 
 **Presiding Judge:** It will be T/177.
 
-**Attorney General:** The document comes from Department IV. It prescribes, within the framework of cooperation between the Wehrmacht and the Security Police, that the units shall act independently, within the camp procedures, on the basis of special powers and guidelines given to them.
+**Attorney General:** The document comes from Department IV. It prescribes, within the framework of cooperation between the [[ORGANIZATION:org_328|Wehrmacht]] and the Security Police, that the units shall act independently, within the camp procedures, on the basis of special powers and guidelines given to them.
 
-Firstly, all important office holders in the State and the Party must be located, especially professional revolutionaries, officials of the Comintern, all important party functionaries of the USSR and its affiliated organizations in the central, district and local committees, all People's Commissars and their deputies, all former Politico-Commissars in the Red Army, all Jews.
+Firstly, all important office holders in the State and the Party must be located, especially professional revolutionaries, officials of the Comintern, all important party functionaries of the [[LOCATION:location_147|USSR]] and its affiliated organizations in the central, district and local committees, all People's Commissars and their deputies, all former Politico-Commissars in the Red Army, all Jews.
 
 Further on the document, states that executions - "special treatment" as they are called here - are to be carried out as far as possible in the former Soviet area. What is "special treatment?" The term has been known for a long time, and was also used by the Accused. But we have it black on white in a document as far back as 26 September 1939, No. 410, which we submit herewith and where it says: "Sonderbehandlung" (Execution).
 
@@ -747,7 +747,7 @@ Further on the document, states that executions - "special treatment" as they ar
 > I further instruct you to submit to me as soon as
 > possible an overall draft for the preliminary
 > organizational, practical and material measures towards
-> the implementation of the desired final solution of the
+> the implementation of the desired [[EVENT:event_389|final solution]] of the
 > Jewish question."
 >
 >
@@ -762,15 +762,15 @@ The next document is our No. 890. It contains the first preparations forWannsee.
 
 **Presiding Judge:** There is something very faint here, as if written in pencil, which could be 31.
 
-**Attorney General:** The Court will also notice in the next documents, where Heydrich refers to it, and also in the one I have just submitted, document No. 890, he says that the date is 31 July. Here, right at the beginning of document No. 890, Heydrich's letter to Gruppenfuehrer Hofmann, this is the first invitation to the Wannsee Conference. He mentions Goering's instructions of 31 July. And this is what he says: "On 31 July the Reichsmarschall of the Great German Reich charged me with the task..."
+**Attorney General:** The Court will also notice in the next documents, where Heydrich refers to it, and also in the one I have just submitted, document No. 890, he says that the date is 31 July. Here, right at the beginning of document No. 890, Heydrich's letter to [[PERSON:person_483|Gruppenfuehrer Hofmann]], this is the first invitation to the [[EVENT:event_387|Wannsee Conference]]. He mentions Goering's instructions of 31 July. And this is what he says: "On 31 July the Reichsmarschall of the Great German Reich charged me with the task..."
 
 **Presiding Judge:** This will be T/180.
 
-**Attorney General:** The Court will note that the invitation is for 9 December 1941 to a discussion of matters pertaining to the "final solution" with breakfast following, so it says. The venue is the Office of the International Criminal Police Commission in Berlin. At the end of the letter it says that in accordance with a telephone conversation with Sturmbannfuehrer Guenther the date has been changed. Heydrich writes that he has addressed similar letters to Frank, Meyer, Stuckart and others. We do not know why the Wannsee Conference did not take place on 9 December after all. We assume it was because the war with the USSR started close to that date. Then there was the attack on Pearl Harbour. At any rate, document No. 946 is an invitation, similar to the one I have just submitted, except that that one was addressed to Hofmann, while this is addressed to Luther.
+**Attorney General:** The Court will note that the invitation is for 9 December 1941 to a discussion of matters pertaining to the "[[EVENT:event_389|final solution]]" with breakfast following, so it says. The venue is the Office of the International [[ORGANIZATION:org_338|Criminal Police]] Commission in [[LOCATION:location_1|Berlin]]. At the end of the letter it says that in accordance with a telephone conversation with [[PERSON:person_484|Sturmbannfuehrer Guenther]] the date has been changed. Heydrich writes that he has addressed similar letters to Frank, Meyer, Stuckart and others. We do not know why the [[EVENT:event_387|Wannsee Conference]] did not take place on 9 December after all. We assume it was because the war with the [[LOCATION:location_147|USSR]] started close to that date. Then there was the attack on Pearl Harbour. At any rate, document No. 946 is an invitation, similar to the one I have just submitted, except that that one was addressed to Hofmann, while this is addressed to Luther.
 
 **Presiding Judge:** This document will be T/181.
 
-**Attorney General:** Our next document is No. 1101 and it is a memorandum prepared in Department IVB4 for the Wannsee Conference. I submit it herewith. The subject is "The Final Solution of the Jewish Question." It says that on 28 January SS Obergruppenfuehrer Krueger came to the Chief of the SP and SD in order to discuss the centralized treatment of the Jewish affairs in the Generalgouvernement. From the steps taken recently in this respect it can been seen more and more clearly that the Governor General aims at dealing with the entire Jewish Question himself.
+**Attorney General:** Our next document is No. 1101 and it is a memorandum prepared in Department IVB4 for the [[EVENT:event_387|Wannsee Conference]]. I submit it herewith. The subject is "The [[EVENT:event_389|Final Solution]] of the Jewish Question." It says that on 28 January SS Obergruppenfuehrer [[PERSON:person_474|Krueger]] came to the Chief of the SP and SD in order to discuss the centralized treatment of the Jewish affairs in the [[LOCATION:location_152|Generalgouvernement]]. From the steps taken recently in this respect it can been seen more and more clearly that the Governor General aims at dealing with the entire Jewish Question himself.
 
 **Presiding Judge:** Who signed it?
 
@@ -782,32 +782,32 @@ The next document is our No. 890. It contains the first preparations forWannsee.
 
 **Judge Raveh:** In T/182, 28 January is mentioned as the date. Isn't this an error?
 
-**Attorney General:** No, this was actually in 1941. In the beginning of 1941 there were discussions in the direction of such solutions, but in the meantime Frank dealt with these matters in Poland in his own way. And when there was a decision on the "Final Solution" it was decided that this was to be entirely in the hands of the Reichssicherheitshauptamt. And therefore it was necessary to invite all concerned to a meeting.
+**Attorney General:** No, this was actually in 1941. In the beginning of 1941 there were discussions in the direction of such solutions, but in the meantime Frank dealt with these matters in [[LOCATION:location_5|Poland]] in his own way. And when there was a decision on the "[[EVENT:event_389|Final Solution]]" it was decided that this was to be entirely in the hands of the Reichssicherheitshauptamt. And therefore it was necessary to invite all concerned to a meeting.
 
 **Presiding Judge:** This document will be T/183 (The Minute on the Wishes of the Foreign Ministry).
 
-**Attorney General:** T/183 gives notice of the following wishes: Deportation of the Croatian, Slovak and Rumanian Jews to the East; deportation of all Jews who formerly held German nationality; deportation of all Serbian Jews; deportation of all Jews handed over by the Hungarian Government; influencing the Bulgarian and Hungarian Governments to introduce laws regarding Jews in accordance with the Nuremberg model.
+**Attorney General:** T/183 gives notice of the following wishes: Deportation of the Croatian, Slovak and Rumanian Jews to the East; deportation of all Jews who formerly held German nationality; deportation of all Serbian Jews; deportation of all Jews handed over by the [[ORGANIZATION:org_329|Hungarian Government]]; influencing the Bulgarian and Hungarian Governments to introduce laws regarding Jews in accordance with the [[LOCATION:location_39|Nuremberg]] model.
 
-Our next document is No. 891 and this is already the final invitation to the Wannsee Conference, again addressed to SS Gruppenfuehrer Hofmann. "Lieber Hofmann" Heydrich writes, apologizing for having had to postpone the meeting of 9 December, and adds that since the question to be clarified does not suffer delay, he extends a new invitation, again with breakfast, on 20 January 1942 in Berlin "Am Grossen Wannsee 56-58."
+Our next document is No. 891 and this is already the final invitation to the [[EVENT:event_387|Wannsee Conference]], again addressed to SS [[PERSON:person_483|Gruppenfuehrer Hofmann]]. "Lieber Hofmann" Heydrich writes, apologizing for having had to postpone the meeting of 9 December, and adds that since the question to be clarified does not suffer delay, he extends a new invitation, again with breakfast, on 20 January 1942 in [[LOCATION:location_1|Berlin]] "Am Grossen [[LOCATION:location_76|Wannsee]] 56-58."
 
 **Presiding Judge:** This document will be T/184.
 
-**Attorney General:** The next document, our No. 74, is the Wannsee Protocol. It has already been submitted and marked as T/37 (41). Will the Court kindly note the list of participants from all the important offices concerned.
+**Attorney General:** The next document, our No. 74, is the [[LOCATION:location_76|Wannsee]] Protocol. It has already been submitted and marked as T/37 (41). Will the Court kindly note the list of participants from all the important offices concerned.
 
 **Presiding Judge:** This will be T/185.
 ---
 
-**Attorney General:** Gauleiter Dr. Meyer and Dr. Leibbrandt from the Ministry for the Occupied Eastern Areas; State Secretary Dr. Stuckart from the Ministry of the Interior; State Secretary Dr. Freisler, Minister of Justice; State Secretary Neumann, in charge of the Four Year Plan; State Secretary Dr. Buehler, Office of the Governor General; State Undersecretary Luther, Foreign Ministry; SS Oberfuehrer Klopfer, Party Secretariat; Ministerialdirektor Kritzinger from Hitler's Office, the Reichskanzlei; SS Gruppenfuehrer Hofmann; Head Office for Race and Settlement; SS Gruppenfuehrer Mueller and Obersturmbannfuehrer Eichmann representing the Head Office for Reich Security. And then high officers of the Security Police and the SD.
+**Attorney General:** Gauleiter Dr. Meyer and Dr. Leibbrandt from the Ministry for the Occupied Eastern Areas; State Secretary Dr. Stuckart from the [[ORGANIZATION:org_301|Ministry of the Interior]]; State Secretary Dr. Freisler, Minister of Justice; State Secretary Neumann, in charge of the Four Year Plan; State Secretary Dr. Buehler, Office of the Governor General; State Undersecretary Luther, Foreign Ministry; SS Oberfuehrer Klopfer, [[ORGANIZATION:org_330|Party Secretariat]]; Ministerialdirektor Kritzinger from Hitler's Office, the Reichskanzlei; SS [[PERSON:person_483|Gruppenfuehrer Hofmann]]; Head Office for Race and Settlement; SS Gruppenfuehrer Mueller and Obersturmbannfuehrer Eichmann representing the Head Office for Reich Security. And then high officers of the Security Police and the SD.
 
-At the beginning of the meeting Heydrich reviewed the problems on the agenda. Right at the start he announced that he had been appointed by the Reichsmarschall as the Commissioner in Charge of the final solution of the Jewish question in Europe and pointed out that the meeting had been summoned in order to clarify basic questions. On page 3 it says that "the responsibility for dealing with the final solution of the Jewish question lies with the Reichsfuehrer SS and Head of the German Police (Chief of the Security Police and the SD), without consideration for geographical borders."
+At the beginning of the meeting Heydrich reviewed the problems on the agenda. Right at the start he announced that he had been appointed by the Reichsmarschall as the Commissioner in Charge of the [[EVENT:event_389|final solution]] of the Jewish question in Europe and pointed out that the meeting had been summoned in order to clarify basic questions. On page 3 it says that "the responsibility for dealing with the [[EVENT:event_389|final solution]] of the Jewish question lies with the Reichsfuehrer SS and Head of the German Police (Chief of the Security Police and the SD), without consideration for geographical borders."
 
 Heydrich gave a short survey of the action taken so far against this enemy. The main points comprised: Forcing the Jews out of the various spheres of life of the German people; forcing the Jews out of the land (Lebensraum) inhabited by the German people. In implementing these measures, the speeding up of the emigration of Jews from the Reich area was intensified and tackled systematically as the only possible interim solution. Heydrich goes on to quote emigration figures and adds that the financing of the emigration is done by the Jews or the Jewish political organizations themselves.
 
-Now, instead of emigration, there appears as a further possible solution, after the necessary prior approval by the Fuehrer, the evacuation of the Jews to the East. These operations must however be seen as possible alternatives only, but practical experience would be gathered here which would be of great importance for the coming final solution of the Jewish question. 11,000,000 Jews might be affected in the course of this final solution, their distribution over the various countries being as follows:
+Now, instead of emigration, there appears as a further possible solution, after the necessary prior approval by the Fuehrer, the evacuation of the Jews to the East. These operations must however be seen as possible alternatives only, but practical experience would be gathered here which would be of great importance for the coming [[EVENT:event_389|final solution]] of the Jewish question. 11,000,000 Jews might be affected in the course of this [[EVENT:event_389|final solution]], their distribution over the various countries being as follows:
 
 And then the following paragraph on page 7:
 
-> "In the course of the final solution the Jews are to be
+> "In the course of the [[EVENT:event_389|final solution]] the Jews are to be
 > sent to work assignments in the East under appropriate
 > direction. The Jews who are able to work are taken into
 > these areas as road builders in large work columns, the
@@ -825,7 +825,7 @@ Here I may perhaps be permitted to leave theWannsee Conferencefor a moment and t
 
 **Presiding Judge:** What does he say? I do not remember these words. Did he use these words?
 
-**Attorney General:** This passage precisely. This is the historical experience which Adolf Eichmann had acquired, the man who prepares the Wannsee principles, from reading Kastein's book. He speaks there of "natuerliche Auslese" and for this reason we have submitted the book.
+**Attorney General:** This passage precisely. This is the historical experience which [[PERSON:person_775|Adolf Eichmann]] had acquired, the man who prepares the [[LOCATION:location_76|Wannsee]] principles, from reading Kastein's book. He speaks there of "natuerliche Auslese" and for this reason we have submitted the book.
 
 **Judge Halevi:** Let the Wise be careful in choosing their words.* {*Quotation from Sayings of the Fathers, Mishna, Chap. I, v.11.}
 
@@ -839,7 +839,7 @@ Here I may perhaps be permitted to leave theWannsee Conferencefor a moment and t
 
 **Attorney General:** Of the reasoning.
 
-And here Heydrich goes on to say: "In the course of the practical implementation of the final solution we shall comb Europe from West to East... In the occupied countries and the countries under our influence in Europe. The officer in charge on behalf of the Security Police will act in coordination with a suitable responsible officer from the Foreign Ministry."
+And here Heydrich goes on to say: "In the course of the practical implementation of the [[EVENT:event_389|final solution]] we shall comb Europe from West to East... In the occupied countries and the countries under our influence in Europe. The officer in charge on behalf of the Security Police will act in coordination with a suitable responsible officer from the Foreign Ministry."
 
 There follows a detailed discussion of matters pertaining to mixed marriages and their offspring. The last pages are important for us and I should like to draw attention to them. In the original they are also underlined in several places.
 
@@ -850,7 +850,7 @@ There follows a detailed discussion of matters pertaining to mixed marriages and
 > of transport played no major role and considerations of
 > labour employment would not impede the course of the
 > operation. The Jews have to be removed from the area of
-> the Generalgouvernement as fast as possible because it
+> the [[LOCATION:location_152|Generalgouvernement]] as fast as possible because it
 > was particularly here that the Jew as carrier of
 > epidemics posed a great danger, and, on the other hand,
 > caused constant disorder in the economic structure of
@@ -860,7 +860,7 @@ There follows a detailed discussion of matters pertaining to mixed marriages and
 >
 > This is underlined in the original. State Secretary Dr.
 > Buehler says further that "the solution of the Jewish
-> question in the Generalgouvernement lies, from the
+> question in the [[LOCATION:location_152|Generalgouvernement]] lies, from the
 > point of view of executive authority, in the hands of
 > the Security Police and the SD, whose actions will be
 > assisted by the authorities of the
@@ -868,11 +868,11 @@ There follows a detailed discussion of matters pertaining to mixed marriages and
 > solve the Jewish question in this area as quickly as
 > possible."
 
-And finally the various kind of possible solutions were discussed, and at the same time Gauleiter Dr. Meyer and State Secretary Dr. Buehler held that certain preparatory work had to be undertaken immediately to further the process of the final solution in the regions concerned, but in any case panic must not be spread among the population.
+And finally the various kind of possible solutions were discussed, and at the same time Gauleiter Dr. Meyer and State Secretary Dr. Buehler held that certain preparatory work had to be undertaken immediately to further the process of the [[EVENT:event_389|final solution]] in the regions concerned, but in any case panic must not be spread among the population.
 
 The reaction by the Accused has already been related to you, Your Honours, and I shall not repeat it.
 
-The next document is our No. 841. Heydrich sends the Wannsee Protocol to Luther at the Foreign Ministry: He is glad to say that the basic guidelines for the practical implementation of the final solution of the Jewish question have been adopted with the full consent of all the authorities concerned. He asks the Foreign Ministry to send its specialist for these matters for consultations on the details necessary for the elaboration of the proposal. He says: "I beg to request you to instruct your specialist to get in touch with my competent head of section, SS Obersturmbannfuehrer Eichmann."
+The next document is our No. 841. Heydrich sends the [[LOCATION:location_76|Wannsee]] Protocol to Luther at the Foreign Ministry: He is glad to say that the basic guidelines for the practical implementation of the [[EVENT:event_389|final solution]] of the Jewish question have been adopted with the full consent of all the authorities concerned. He asks the Foreign Ministry to send its specialist for these matters for consultations on the details necessary for the elaboration of the proposal. He says: "I beg to request you to instruct your specialist to get in touch with my competent head of section, SS Obersturmbannfuehrer Eichmann."
 
 **Presiding Judge:** This will be T/186.
 
@@ -900,7 +900,7 @@ The next document is our No. 841. Heydrich sends the Wannsee Protocol to Luther 
 
 **Attorney General:** The Court will kindly permit me at this stage to state only that T/100 is the protocol of a meeting about the sterilization of Jews. This was a discussion of principles dealing with the most efficient method of sterilizing the offspring of mixed marriages. In the end it was decided to have a further discussion. In this protocol the Court will find an exchange of views between the various participants. The meeting took place in Referat IVB4, but Eichmann does not appear among the participants [although] the discussion was held in his Section.
 
-The Court will note that those present were representatives of the Ministries of Propaganda and Justice, Dr. Feldscher from the Ministry of the Interior, Representative of the Reich Chancellery Boley, Dr. Wetzel, whom we shall meet again, Rademacher from the Foreign Office, and others.
+The Court will note that those present were representatives of the Ministries of Propaganda and Justice, Dr. Feldscher from the [[ORGANIZATION:org_301|Ministry of the Interior]], Representative of the Reich Chancellery Boley, Dr. Wetzel, whom we shall meet again, Rademacher from the [[ORGANIZATION:org_309|Foreign Office]], and others.
 
 And now document No. 876. It is a covering letter to the report of the meeting of 6 March 1942 from Department IVB4 signed by Suhr, a subordinate of the Accused, who submits the protocol of the meeting.
 
@@ -918,7 +918,7 @@ And now document No. 876. It is a covering letter to the report of the meeting o
 
 **Presiding Judge:** Oh, this is a covering letter to T/100.
 
-**Attorney General:** In the context of the implementation of the final solution, in the framework of the sterilization programme, the document which bears our No. 1206 was sent out and it is an invitation signed by Suhr to a further meeting in IVB4 on 27 October 1942. You have it already as T/37 (308).
+**Attorney General:** In the context of the implementation of the [[EVENT:event_389|final solution]], in the framework of the sterilization programme, the document which bears our No. 1206 was sent out and it is an invitation signed by Suhr to a further meeting in IVB4 on 27 October 1942. You have it already as T/37 (308).
 
 **Presiding Judge:** This will be T/189.
 
@@ -946,7 +946,7 @@ The next document is No. 829 of the Prosecution documents. Eichmann forwards the
 
 **Presiding Judge:** This document will be marked T/192.
 
-**Judge Halevi:** He mentions here a letter of 2 October 1942, a conclusive opinion concerning the final solution of the Jewish question, an opinion of the Foreign Ministry - will this still be submitted?
+**Judge Halevi:** He mentions here a letter of 2 October 1942, a conclusive opinion concerning the [[EVENT:event_389|final solution]] of the Jewish question, an opinion of the Foreign Ministry - will this still be submitted?
 
 **Attorney General:** This has not yet been submitted, Sir.
 
@@ -987,7 +987,7 @@ What is this? I see that on the document it says "Konzept" (draft).
 **Presiding Judge:** I don't understand. Yes, there is a signature.
 ---
 
-**Attorney General:** In any case, the Court will see that we received this as what is called an NG; the Court will remember that this was one of the exhibits at Nuremberg, NO, 4892, one of the documents of the Prosecution and this was in the "Office of Chief Counsel."
+**Attorney General:** In any case, the Court will see that we received this as what is called an NG; the Court will remember that this was one of the exhibits at [[LOCATION:location_39|Nuremberg]], NO, 4892, one of the documents of the Prosecution and this was in the "Office of Chief Counsel."
 
 **Presiding Judge:** I can only see their thoroughness from the fact that the draft was not preserved and therefore they turned one copy of the letter into the "Konzept."
 
@@ -1015,7 +1015,7 @@ In the document itself the close cooperation with the Head Security Office is me
 
 **Judge Halevi:** Are headings of this kind part of the document or did somebody else sum it up like that?
 
-**Attorney General:** It is a summing up. It is not part of the original document. It is a summary for the Beweisstueck (document of proof) US 218 in Nuremberg. In the document itself, in paragraph 2, the Court will find "Handing over of anti-social elements from judical procedures to the Reichsfuehrer SS for extermination through work."
+**Attorney General:** It is a summing up. It is not part of the original document. It is a summary for the Beweisstueck (document of proof) US 218 in [[LOCATION:location_39|Nuremberg]]. In the document itself, in paragraph 2, the Court will find "Handing over of anti-social elements from judical procedures to the Reichsfuehrer SS for extermination through work."
 
 > "In accordance with the decision by the Reichsminister
 > of Justice...there will be handed over: all security
@@ -1062,7 +1062,7 @@ In the document itself the close cooperation with the Head Security Office is me
 
 **Attorney General:** These are the documents we wanted to bring to the knowledge of the Court at this stage, in order to prove the plot for total annihilation. The means used will be proved for each region separately.
 
-**Attorney General:** With the Court's permission, I shall now call the first witness, Mrs. Ada Lichtman. The first testimonies are meant to prove the period of small-scale terror in the occupied areas in Poland.
+**Attorney General:** With the Court's permission, I shall now call the first witness, Mrs. [[PERSON:witness_2|Ada Lichtman]]. The first testimonies are meant to prove the period of small-scale terror in the occupied areas in [[LOCATION:location_5|Poland]].
 
 **Presiding Judge:** [to witness] Do you speak Hebrew?
 

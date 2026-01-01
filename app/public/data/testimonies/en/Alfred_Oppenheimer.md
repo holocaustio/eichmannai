@@ -1,4 +1,4 @@
-# Testimony of Alfred Oppenheimer
+# Testimony of [[PERSON:witness_9|Alfred Oppenheimer]]
 
 **Session:** 68
 
@@ -6,9 +6,9 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Alfred Oppenheimer.
+**Witness:** [[PERSON:witness_9|Alfred Oppenheimer]].
 
-**Attorney General:** Do you live in Luxembourg?
+**Attorney General:** Do you live in [[LOCATION:location_27|Luxembourg]]?
 
 **Witness Oppenheimer:** Yes.
 
@@ -16,41 +16,41 @@
 
 **A.**Yes.
 
-**Attorney General:** Just by way of explanation, Your Honour. Most of the witness's testimony will focus on the concentration camps. But since we have had no testimony about Luxembourg, I will allow myself to go through this matter briefly with him, in order to complete the picture.
+**Attorney General:** Just by way of explanation, Your Honour. Most of the witness's testimony will focus on the concentration camps. But since we have had no testimony about [[LOCATION:location_27|Luxembourg]], I will allow myself to go through this matter briefly with him, in order to complete the picture.
 
-**Presiding Judge:** We did have something about Luxembourg.
+**Presiding Judge:** We did have something about [[LOCATION:location_27|Luxembourg]].
 
 **Attorney General:** Only documents. But we have a witness, and I would wish briefly to take advantage of this opportunity in order to present several matters.
 
-[To the Witness ]When did the Germans enter Luxembourg?
+[To the Witness ]When did the Germans enter [[LOCATION:location_27|Luxembourg]]?
 
 **Witness Oppenheimer:** On 10 May 1940.
 
 **Q.**Tell the Court briefly about the operations of the Germans, after their arrival, against the Jewish population.
 
-**A.**On 10 May, when the Germans entered Luxembourg, they confiscated above all the contents of the drawing rooms, studies, other furniture and so on. After that radio sets, and then there were various operations, handing things over - everything one had, one was only allowed to keep a pair of shoes - one had to hand over all one's bed linen, personal linen - one was only allowed to keep one shirt and one pair of drawers and one vest, one had to hand everything over, so that it was practically impossible to change one's underclothes. Then we were - we were rounded up, together with refugees, in a monastery - that had space for some 30- 35 people, all of Luxembourg's Jews, little by little, and from there the transports left for Auschwitz, for Theresienstadt, for Poland...
+**A.**On 10 May, when the Germans entered [[LOCATION:location_27|Luxembourg]], they confiscated above all the contents of the drawing rooms, studies, other furniture and so on. After that radio sets, and then there were various operations, handing things over - everything one had, one was only allowed to keep a pair of shoes - one had to hand over all one's bed linen, personal linen - one was only allowed to keep one shirt and one pair of drawers and one vest, one had to hand everything over, so that it was practically impossible to change one's underclothes. Then we were - we were rounded up, together with refugees, in a monastery - that had space for some 30- 35 people, all of [[LOCATION:location_27|Luxembourg]]'s Jews, little by little, and from there the transports left for [[LOCATION:location_286|Auschwitz]], for [[LOCATION:location_124|Theresienstadt]], for [[LOCATION:location_5|Poland]]...
 
 **Q.**What happened to the Jewish community?
 
 **A.**Most of the Jewish community left on 10 May, and at first, till civil government and the civil administration took over - that was in July or August 1940 - things were still relatively peaceful for the Jews and a good proportion of the community was able to leave the country somehow.
 
-**Q.**How many Jews were there in Luxembourg up to the outbreak of the War?
+**Q.**How many Jews were there in [[LOCATION:location_27|Luxembourg]] up to the outbreak of the War?
 
 **A.**There were around 2,000-2,500 local Jews, and there were in addition somewhere between 800 and 2,000 refugees.
 
-**Q.**If I might, Your Honour, digress slightly, I should like to say here that Luxembourg was one of the few countries - the Grand Duchess of Luxembourg and her Government, unlike other countries, opened their doors wide and gave all Jews - all refugees a temporary entry visa, in order to allow them to look in their own time for another home. Luxembourg thus saved the lives of many tens of thousands of Jews, and I should like to make this point here.
+**Q.**If I might, Your Honour, digress slightly, I should like to say here that [[LOCATION:location_27|Luxembourg]] was one of the few countries - the Grand Duchess of [[LOCATION:location_27|Luxembourg]] and her Government, unlike other countries, opened their doors wide and gave all Jews - all refugees a temporary entry visa, in order to allow them to look in their own time for another home. [[LOCATION:location_27|Luxembourg]] thus saved the lives of many tens of thousands of Jews, and I should like to make this point here.
 
 **Presiding Judge:** Very well.
 
-**Attorney General:** The Jewish Consistoire, which ran Jewish life, was disbanded and the Gestapo imposed the task of handling matters and representing the Jews on one Jewish man. Is that correct?
+**Attorney General:** The Jewish Consistoire, which ran Jewish life, was disbanded and the [[ORGANIZATION:org_344|Gestapo]] imposed the task of handling matters and representing the Jews on one Jewish man. Is that correct?
 
-**Witness Oppenheimer:** Yes. The olf Consistoire which still existed of the President and the Community Secretary who were required to deal with the various community affairs, and act as liaison between the Gestapo and us, or between the civil administration and the Jewish community, and on one or two occasions they were summoned to Eichmann in Berlin.
+**Witness Oppenheimer:** Yes. The olf Consistoire which still existed of the President and the Community Secretary who were required to deal with the various community affairs, and act as liaison between the [[ORGANIZATION:org_344|Gestapo]] and us, or between the civil administration and the Jewish community, and on one or two occasions they were summoned to Eichmann in [[LOCATION:location_1|Berlin]].
 
-**Q.**You also carried out a duty which was imposed upon you by the Gestapo?
+**Q.**You also carried out a duty which was imposed upon you by the [[ORGANIZATION:org_344|Gestapo]]?
 
-**A.**I was a member of the community's Consistoire, and after the first transports to Litzmannstadt, of 324 people, the Consistoire was moved to Litzmannstadt. Other members of the community and the Consistoire were permitted to emigrate, with the approval of the civil administration and the Gestapo and then, following the orders of the State Police, as a member of the Consistoire, I was then appointed as liaison between the Gestapo and the community.
+**A.**I was a member of the community's Consistoire, and after the first transports to [[LOCATION:location_158|Litzmannstadt]], of 324 people, the Consistoire was moved to [[LOCATION:location_158|Litzmannstadt]]. Other members of the community and the Consistoire were permitted to emigrate, with the approval of the civil administration and the [[ORGANIZATION:org_344|Gestapo]] and then, following the orders of the State Police, as a member of the Consistoire, I was then appointed as liaison between the [[ORGANIZATION:org_344|Gestapo]] and the community.
 
-**Q.**Between 19 October 1941 and 28 September 1943, 674 Jews were deported from Luxembourg, correct?
+**Q.**Between 19 October 1941 and 28 September 1943, 674 Jews were deported from [[LOCATION:location_27|Luxembourg]], correct?
 
 **A.**Yes.
 
@@ -58,9 +58,9 @@
 
 **A.**Yes.
 
-**Q.**You were first sent to Theresienstadt and from there you were sent to Birkenau-Auschwitz?
+**Q.**You were first sent to [[LOCATION:location_124|Theresienstadt]] and from there you were sent to [[LOCATION:location_286|Birkenau]]-[[LOCATION:location_286|Auschwitz]]?
 
-**A.**I was first deported to Theresienstadt, where my wife died, and then I was deported from Theresienstadt to Auschwitz-Birkenau.
+**A.**I was first deported to [[LOCATION:location_124|Theresienstadt]], where my wife died, and then I was deported from [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Auschwitz-Birkenau]].
 
 **Q.**How long did the journey take?
 
@@ -68,7 +68,7 @@
 
 **Q.**Tell the Court what was horrible about the journey.
 
-**A.**When we boarded the train in Theresienstadt for Birkenau, we did not at the time know where we were going. We only knew that we were being deported. I was particularly adroit, I swung myself into the train through the window, I managed to get a place by the window and... There were two Czechs sitting opposite me, a German, and next to me there were also two people, there were three of us on the bench seat. Before we were loaded into the train, we were told that we were strictly prohibited from opening a window and throwing anything out.
+**A.**When we boarded the train in [[LOCATION:location_124|Theresienstadt]] for [[LOCATION:location_286|Birkenau]], we did not at the time know where we were going. We only knew that we were being deported. I was particularly adroit, I swung myself into the train through the window, I managed to get a place by the window and... There were two Czechs sitting opposite me, a German, and next to me there were also two people, there were three of us on the bench seat. Before we were loaded into the train, we were told that we were strictly prohibited from opening a window and throwing anything out.
 
 And opposite me, the Czech, after about 20 minutes, opened up his food parcel for the journey, a package, and at a certain moment he wanted to open the window, to throw something out. As usual there was an SS man standing in each carriage to supervise things. And then he said, "Which of you opened the window?" Stony silence. Then he said to the old man, the one opposite me, again, "Who opened the window?" And then without waiting for a reply, he took his pistol and put a bullet through the man's head and another through the neck of the man sitting next to him, who had nothing at all to do with it.
 
@@ -78,17 +78,17 @@ And opposite me, the Czech, after about 20 minutes, opened up his food parcel fo
 
 **Judge Halevi:** These three men, the two Czechs and the German, were not Jewish?
 
-**Witness Oppenheim:** They were Jews. They were from Theresienstadt. There were only Jews there.
+**Witness Oppenheim:** They were Jews. They were from [[LOCATION:location_124|Theresienstadt]]. There were only Jews there.
 
 **Presiding Judge:** Did you wish to explain something?
 
 **Witness Oppenheimer:** I sat with my back to the SS man and of the two who had been shot, one died immediately, and the other one lived a little longer, and we were not allowed to help him, we could not do anything for him; he sat there with open, astonished eyes and we had to tie him down so that he didn't fall off, and the other one, who lived for about a quarter of an hour, whimpered in pain and bled and the SS man forbade us to help him.
 
-**Attorney General:** And that is how you arrived at Auschwitz- Birkenau, with these two dead men?
+**Attorney General:** And that is how you arrived at [[LOCATION:location_286|Auschwitz]]- [[LOCATION:location_286|Birkenau]], with these two dead men?
 
-**Witness Oppenheimer:** All the way to Birkenau. We were not allowed to open a window, and it was very hot so that the bodies started to decay, during the 30 or so hours of the transport we were not allowed to answer the call of nature, because there was a terrible stench in the carriage, because of the corpses, sweat and so on, and the SS man took over the toilet and opened the window there and so we couldn't get in there. It was absolutely dreadful.
+**Witness Oppenheimer:** All the way to [[LOCATION:location_286|Birkenau]]. We were not allowed to open a window, and it was very hot so that the bodies started to decay, during the 30 or so hours of the transport we were not allowed to answer the call of nature, because there was a terrible stench in the carriage, because of the corpses, sweat and so on, and the SS man took over the toilet and opened the window there and so we couldn't get in there. It was absolutely dreadful.
 
-**Q.**When did you arrive in Auschwitz?
+**Q.**When did you arrive in [[LOCATION:location_286|Auschwitz]]?
 
 **A.**About two days later, on 5 or 6 October 1944.
 
@@ -98,15 +98,15 @@ And opposite me, the Czech, after about 20 minutes, opened up his food parcel fo
 
 **Q.**You got off the train and then you were met by a Jew and you gave him your watch?
 
-**A.**Yes, we had to get off in a tremendous hurry, we were cursed, had to line up in rows of four, and then a prisoner came up to me and asked if I had money or a watch. We came from Theresienstadt and still had some possessions on us. I also happened to have my watch and without thinking much about it I gave it to him. He said to me: if they ask you, say you are a metalworker or a technician or a mechanic, and if they ask you how old you are, in any case make yourself at least five years younger, and if they ask if you are healthy, say yes, here you must not be sick. I asked him: where in the world are we, and he said: in Auschwitz- Birkenau.
+**A.**Yes, we had to get off in a tremendous hurry, we were cursed, had to line up in rows of four, and then a prisoner came up to me and asked if I had money or a watch. We came from [[LOCATION:location_124|Theresienstadt]] and still had some possessions on us. I also happened to have my watch and without thinking much about it I gave it to him. He said to me: if they ask you, say you are a metalworker or a technician or a mechanic, and if they ask you how old you are, in any case make yourself at least five years younger, and if they ask if you are healthy, say yes, here you must not be sick. I asked him: where in the world are we, and he said: in [[LOCATION:location_286|Auschwitz]]- [[LOCATION:location_286|Birkenau]].
 
-**Q.**And then you went through the Auschwitz-Birkenau selec
+**Q.**And then you went through the [[LOCATION:location_286|Auschwitz-Birkenau]] selec
 
-tion?**A.**Yes. The selection actually took place a little later. In the barracks there was a corner, a table, and we had to stand in line and go up there and an SS man asked each of us about our profession, age and so on. There was a man in front of me, an old acquaintance, with whom I had become friends in Theresienstadt, he was a lawyer, he was about 1.8 metres tall, and he was a champion skier from Czechoslovakia. When asked his profession the man replied "lawyer." And then immediately he pointed to the right. And then it was my turn, and he asked me "profession?" and I replied "precision mechanic." "Age?" - 38 years: at the time I was already 43. And health? - excellent. And then he looked me up and down. I was covered in blood from the man opposite me, who had been shot in the train. I had had nothing to eat or to drink. And then he pointed to the left and I went to the left. And after we were divided up, there were 210 or 240 left out of the 1,200, and the others were taken to be gassed. The second transport went directly to the gas chamber.
+tion?**A.**Yes. The selection actually took place a little later. In the barracks there was a corner, a table, and we had to stand in line and go up there and an SS man asked each of us about our profession, age and so on. There was a man in front of me, an old acquaintance, with whom I had become friends in [[LOCATION:location_124|Theresienstadt]], he was a lawyer, he was about 1.8 metres tall, and he was a champion skier from [[LOCATION:location_15|Czechoslovakia]]. When asked his profession the man replied "lawyer." And then immediately he pointed to the right. And then it was my turn, and he asked me "profession?" and I replied "precision mechanic." "Age?" - 38 years: at the time I was already 43. And health? - excellent. And then he looked me up and down. I was covered in blood from the man opposite me, who had been shot in the train. I had had nothing to eat or to drink. And then he pointed to the left and I went to the left. And after we were divided up, there were 210 or 240 left out of the 1,200, and the others were taken to be gassed. The second transport went directly to the gas chamber.
 
 **Q.**What did they do with you, Mr. Oppenheimer after that?
 
-**A.**After that we had to take our clothes off and we were taken to the showers. There they showered us, all our hair was shaved off from our bodies. And then, while they shouted at us and beat us, we were crammed into a barracks, which reminded me more of a stable for horses. That is where we remained for our first days in Auschwitz-Birkenau.
+**A.**After that we had to take our clothes off and we were taken to the showers. There they showered us, all our hair was shaved off from our bodies. And then, while they shouted at us and beat us, we were crammed into a barracks, which reminded me more of a stable for horses. That is where we remained for our first days in [[LOCATION:location_286|Auschwitz-Birkenau]].
 
 The first days were rather upsetting, it was already October, it was fairly cold. At four o'clock in the morning, we were driven out of the barracks, we had nothing to cover ourselves with, we lay on the concrete floor and we were grateful that we were allowed to get up. In the night it would happen that someone had to get up, and of course he did not manage to find his place again, because we lay so close to one another. And it was always so crammed and there were blows because we were packed in so tightly. And then in the morning we were driven out.
 
@@ -120,13 +120,13 @@ The first days were rather upsetting, it was already October, it was fairly cold
 
 **Presiding Judge:** These clothes will be marked T/1328.
 
-**Attorney General:** Please describe to the Court how the roll- call was held in Auschwitz.
+**Attorney General:** Please describe to the Court how the roll- call was held in [[LOCATION:location_286|Auschwitz]].
 
 **Witness Oppenheimer:** We would stand there, and then they would shout: "Attention, at ease! Attention, at ease! Caps off, caps on! Caps off, caps on!" and if, God forbid, anyone was late in obeying - then the whole group received blows, and we had to act like frogs for half an hour - in other words, kneel on all fours on the ground and hop like a frog, in the rain, in a storm, in the mud, in all conditions. And then there were roll-calls every day, morning and afternoon. If someone developed pimples on his face, he was picked out in the selection, if during the gymnastics someone absolutely had to relieve himself - because we all had bad diarrhoea - because of what we ate or didn't eat, and we were all ill, that was immediately written down and announced in the afternoon or the morning and put in the record - he was immediately selected and finished up in the crematorium.
 
 **Q.**What happened to you, Mr. Oppenheimer?
 
-**Q.**At the concentration camp, the KZ, I had indicated that I was a precision engineer. Every day SS men came from the neighbouring camps, looking for workers: 15 metalworkers for Gross-Rosen, a tailor for Vienna and two cobblers for Gleiwitz. And if they asked for a cobbler, immediately our whole barracks of 500 men - they were all cobblers and they all jumped up. If they were looking for a metalworker, then 500 metalworkers volunteered - they all wanted to get out of Birkenau, they knew that was hell and they knew very well that no one could last here in Birkenau. We knew that there could not be anywhere worse than Birkenau. After all somewhere or other we would die. But we wanted it not to be in Birkenau. One fine day a man came looking for three precision engineers for Gleiwitz. And then I, too, volunteered. Of course - as always.
+**Q.**At the concentration camp, the KZ, I had indicated that I was a precision engineer. Every day SS men came from the neighbouring camps, looking for workers: 15 metalworkers for Gross-Rosen, a tailor for [[LOCATION:location_3|Vienna]] and two cobblers for Gleiwitz. And if they asked for a cobbler, immediately our whole barracks of 500 men - they were all cobblers and they all jumped up. If they were looking for a metalworker, then 500 metalworkers volunteered - they all wanted to get out of [[LOCATION:location_286|Birkenau]], they knew that was hell and they knew very well that no one could last here in [[LOCATION:location_286|Birkenau]]. We knew that there could not be anywhere worse than [[LOCATION:location_286|Birkenau]]. After all somewhere or other we would die. But we wanted it not to be in [[LOCATION:location_286|Birkenau]]. One fine day a man came looking for three precision engineers for Gleiwitz. And then I, too, volunteered. Of course - as always.
 ---
 
 **Presiding Judge:** What was your profession?
@@ -175,7 +175,7 @@ I immediately lost consciousness after this incredible pain, and I don't know ho
 
 **Q.**Are you saying, Mr. Oppenheimer, that at that time the killings by gas stopped?
 
-**A.**I cannot say that, but in any case nothing left Gleiwitz, we were not picked up, although we had been selected as Muselmaenner, not one of all those who were written down left the camp, no lorry came to pick us up, no one else was sent from Gleiwitz to Auschwitz.
+**A.**I cannot say that, but in any case nothing left Gleiwitz, we were not picked up, although we had been selected as Muselmaenner, not one of all those who were written down left the camp, no lorry came to pick us up, no one else was sent from Gleiwitz to [[LOCATION:location_286|Auschwitz]].
 
 The entire group remained intact, then we started to hear the sound of guns, it came nearer and nearer and of course in the camp there were rumours that the Russians were coming, and on 17 January, or 19 January 1945 we were woken up very early in the morning, earlier than usual, we had to turn out for a roll-call and the camp commandant made a speech, saying that we were going to march off. Everyone received a ration of bread and margarine, but we were not allowed to touch it - we were not allowed to eat our ration until noon, because that was our rations for the journey. We had to support each other, but no one was allowed to remain behind, because we shouldn't get any ideas about ever falling alive into the hands of the Russians.
 
@@ -213,7 +213,7 @@ When I was this deep in the mire I felt solid ground beneath my feet. The smell 
 
 **A.**Yes, and it took several more days.
 
-**Q.**Blechhammer was part of the Auschwitz camp?
+**Q.**Blechhammer was part of the [[LOCATION:location_286|Auschwitz]] camp?
 
 **A.**Yes.
 
@@ -223,24 +223,24 @@ When I was this deep in the mire I felt solid ground beneath my feet. The smell 
 
 **Presiding Judge:** Dr. Servatius, do you have any questions?
 
-**Dr. Servatius:** I have a question. Witness, you said that on the journey from Theresienstadt to Auschwitz, this railway journey, that you had nothing to eat, is that correct?
+**Dr. Servatius:** I have a question. Witness, you said that on the journey from [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Auschwitz]], this railway journey, that you had nothing to eat, is that correct?
 
-**Witness Oppenheimer:** No, we had food, we had provisions, I did not say that we had nothing to eat, everyone had received food for the journey from Theresienstadt.
+**Witness Oppenheimer:** No, we had food, we had provisions, I did not say that we had nothing to eat, everyone had received food for the journey from [[LOCATION:location_124|Theresienstadt]].
 
 **Dr. Servatius:** Very well, in that case I misunderstood you. Thank you.
 
 **Witness Oppenheimer:** Perhaps I may be allowed to correct that. Because there was a dead man in the carriage and another who was seriously injured and was dying, none of us had the courage and the energy to open a parcel to eat anything. The dead man and above all the smell of decay and the whimpering of the injured man - this was stronger than any desire to eat.
 
-**Judge Halevi:** Mr. Oppenheimer, were you sent from Theresienstadt to Auschwitz by a commission of SS men?
+**Judge Halevi:** Mr. Oppenheimer, were you sent from [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Auschwitz]] by a commission of SS men?
 
-**Witness Oppenheimer:** From Theresienstadt to Auschwitz? I cannot say. We received our orders that we would be deported from Theresienstadt about a certain time, I received mine on 4 October, as far as I can remember, and my boy - I had a thirteen or fourteen year old boy - he received his orders on the same day as I for the sixth, and my boy - he was gassed in Auschwitz, I found that out on my birthday, on 11 October.
+**Witness Oppenheimer:** From [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Auschwitz]]? I cannot say. We received our orders that we would be deported from [[LOCATION:location_124|Theresienstadt]] about a certain time, I received mine on 4 October, as far as I can remember, and my boy - I had a thirteen or fourteen year old boy - he received his orders on the same day as I for the sixth, and my boy - he was gassed in [[LOCATION:location_286|Auschwitz]], I found that out on my birthday, on 11 October.
 
-**Q.**When did you leave Birkenau?
+**Q.**When did you leave [[LOCATION:location_286|Birkenau]]?
 
-**A.**I was not long in Birkenau, perhaps ten days.
+**A.**I was not long in [[LOCATION:location_286|Birkenau]], perhaps ten days.
 
-**Q.**03While you were in Birkenau, were they still using the gas chambers?
+**Q.**03While you were in [[LOCATION:location_286|Birkenau]], were they still using the gas chambers?
 
-**A.**Oh yes. Of course. Every day selections were held for the gas chambers. My son was evacuated from Theresienstadt to Birkenau on 10 October and was then gassed.
+**A.**Oh yes. Of course. Every day selections were held for the gas chambers. My son was evacuated from [[LOCATION:location_124|Theresienstadt]] to [[LOCATION:location_286|Birkenau]] on 10 October and was then gassed.
 
 **Presiding Judge:** Thank you, Mr. Oppenheimer, that completes your testimony.

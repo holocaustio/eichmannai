@@ -90,7 +90,7 @@ export default function WitnessesClient() {
           }}
         />
         
-        <div className="max-w-4xl mx-auto text-center relative z-10 py-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
+        <div className="max-w-4xl mx-auto text-center relative z-10 pt-32 pb-20" style={{ textShadow: '0 2px 8px rgba(0,0,0,0.5)' }}>
           <p className="text-stone-300 text-xs tracking-[0.3em] uppercase mb-4">The Voices</p>
           <h1 className="font-serif text-4xl md:text-5xl font-light mb-6">
             Witnesses of the Trial

@@ -1,4 +1,4 @@
-# Testimony of Gedalia Ben Zvi
+# Testimony of [[PERSON:witness_46|Gedalia Ben Zvi]]
 
 **Session:** 71
 
@@ -16,46 +16,46 @@
 
 **A.**Yes, a teacher of painting.
 
-**Q.**When the Second World War broke out, you were in Slovakia?
+**Q.**When the [[EVENT:event_383|Second World War]] broke out, you were in [[LOCATION:location_84|Slovakia]]?
 
-**A.**Yes, I was in Bratislava, in Slovakia.
+**A.**Yes, I was in [[LOCATION:location_73|Bratislava]], in [[LOCATION:location_84|Slovakia]].
 
-**Q.**And from there you were deported to Majdanek?
+**Q.**And from there you were deported to [[LOCATION:location_281|Majdanek]]?
 
-**A.**I was taken from there to Majdanek.
+**A.**I was taken from there to [[LOCATION:location_281|Majdanek]].
 ---
 
 **Q.**When was that?
 
 **A.**It was on 25 March 1942.
 
-**Q.**And after two months in Majdanek, you were transferred to Auschwitz?
+**Q.**And after two months in [[LOCATION:location_281|Majdanek]], you were transferred to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I was taken to Auschwitz in a transport that was specially for that purpose.
+**A.**I was taken to [[LOCATION:location_286|Auschwitz]] in a transport that was specially for that purpose.
 
 **Q.**For what reason?
 
-**A.**There was a rumour that workers were needed for a dextrin factory in Germany and, on this pretext, they were looking for experts, men of all sorts of professions, including twenty-five doctors, and about fifty children as apprentices. I was amongst those young people.
+**A.**There was a rumour that workers were needed for a dextrin factory in [[LOCATION:location_2|Germany]] and, on this pretext, they were looking for experts, men of all sorts of professions, including twenty-five doctors, and about fifty children as apprentices. I was amongst those young people.
 
 **Presiding Judge:** How old were you then?
 
 **Witness Ben-Zvi:** I was sixteen.
 
-**Attorney General:** Describe for us how you arrived at Auschwitz.
+**Attorney General:** Describe for us how you arrived at [[LOCATION:location_286|Auschwitz]].
 
-**Witness Ben-Zvi:** After a long journey - I don't know exactly for how many days - inside freight cars, with about forty persons to a car, we reached Birkenau - not Auschwitz, but the railway platform at Birkenau, which I got to know after that - later.
+**Witness Ben-Zvi:** After a long journey - I don't know exactly for how many days - inside freight cars, with about forty persons to a car, we reached [[LOCATION:location_286|Birkenau]] - not [[LOCATION:location_286|Auschwitz]], but the railway platform at [[LOCATION:location_286|Birkenau]], which I got to know after that - later.
 
-**Q.**Perhaps this is the occasion for me to ask you a question, which possibly I have not yet clarified for the Court. What was the difference between Auschwitz and Birkenau?
+**Q.**Perhaps this is the occasion for me to ask you a question, which possibly I have not yet clarified for the Court. What was the difference between [[LOCATION:location_286|Auschwitz]] and [[LOCATION:location_286|Birkenau]]?
 
-**A.**I can explain that briefly. The difference was that the Auschwitz camp, which was called the Stammlager (original camp) was near the town of Auschwitz, and the Birkenau camp was six kilometres away from the Stammlager - in the fields. That was in 1942, at the beginning of its construction, when the barracks which later constituted Birkenau were not yet in existence.
+**A.**I can explain that briefly. The difference was that the [[LOCATION:location_286|Auschwitz]] camp, which was called the Stammlager (original camp) was near the town of [[LOCATION:location_286|Auschwitz]], and the [[LOCATION:location_286|Birkenau]] camp was six kilometres away from the Stammlager - in the fields. That was in 1942, at the beginning of its construction, when the barracks which later constituted [[LOCATION:location_286|Birkenau]] were not yet in existence.
 
-**Q.**And what did Birkenau develop into, subsequently?
+**Q.**And what did [[LOCATION:location_286|Birkenau]] develop into, subsequently?
 
-**A.**In the course of time, Birkenau developed into and became the principal camp, containing most of the people who were at Auschwitz. Compared with Birkenau, Auschwitz was a small camp, containing roughly twenty-four buildings.
+**A.**In the course of time, [[LOCATION:location_286|Birkenau]] developed into and became the principal camp, containing most of the people who were at [[LOCATION:location_286|Auschwitz]]. Compared with [[LOCATION:location_286|Birkenau]], [[LOCATION:location_286|Auschwitz]] was a small camp, containing roughly twenty-four buildings.
 
 **Q.**Where was the crematorium?
 
-**A.**The crematoria - all of them - were in Birkenau, but not in 1942.
+**A.**The crematoria - all of them - were in [[LOCATION:location_286|Birkenau]], but not in 1942.
 
 **Q.**But afterwards?
 
@@ -63,27 +63,27 @@
 
 **Q.**Where were the gas chambers?
 
-**A.**The gas chambers were inside the crematorium buildings in Birkenau.
+**A.**The gas chambers were inside the crematorium buildings in [[LOCATION:location_286|Birkenau]].
 
-**Q.**What were Auschwitz 1, Auschwitz 2 and Auschwitz 3?
+**Q.**What were [[LOCATION:location_286|Auschwitz]] 1, [[LOCATION:location_286|Auschwitz]] 2 and [[LOCATION:location_286|Auschwitz]] 3?
 
-**A.**Auschwitz 1 was the Stammlager, which was divided by a high wall, a stone wall, into camps for men and women. Camp 2 was the women's camp. Later on, they demolished the wall, and all of it became a camp for men. Auschwitz 3 - I don't know what it was called. But I knew Birkenau as well as its divisions.
+**A.**Auschwitz 1 was the Stammlager, which was divided by a high wall, a stone wall, into camps for men and women. Camp 2 was the women's camp. Later on, they demolished the wall, and all of it became a camp for men. [[LOCATION:location_286|Auschwitz]] 3 - I don't know what it was called. But I knew [[LOCATION:location_286|Birkenau]] as well as its divisions.
 
-**Q.**You were in Birkenau?
+**Q.**You were in [[LOCATION:location_286|Birkenau]]?
 
-**A.**Yes. For most of the time, I was in Birkenau.
+**A.**Yes. For most of the time, I was in [[LOCATION:location_286|Birkenau]].
 
-**Q.**What was Birkenau?
+**Q.**What was [[LOCATION:location_286|Birkenau]]?
 
 **A.**Birkenau was a tremendous camp, which stretched over a huge, a large area. They also had there the camps of the SS who guarded the camps; that was the "SS Lager." The Truppen- Lazarett (German field hospital) of the SS was there. I shall refer to it later in connection with a particular matter.
 
-**Q.**Would I be wrong in saying that people generally thought that Auschwitz 2 was Birkenau?
+**Q.**Would I be wrong in saying that people generally thought that [[LOCATION:location_286|Auschwitz]] 2 was [[LOCATION:location_286|Birkenau]]?
 
-**A.**I don't know whether it is possible to describe Birkenau as Auschwitz 2 - at any rate, Birkenau had its name as Birkenau.
+**A.**I don't know whether it is possible to describe [[LOCATION:location_286|Birkenau]] as [[LOCATION:location_286|Auschwitz]] 2 - at any rate, [[LOCATION:location_286|Birkenau]] had its name as [[LOCATION:location_286|Birkenau]].
 
 **Q.**Please continue.
 
-**A.**The camps were divided in the following way: The old camp, which was in existence in my time, at the time when I arrived at the camp, was called - later on, much later on - the Frauenlager (women's camp), from which the men had been removed. It was divided into two: The men were on the right side of the road, and the women were on the left side of the road. On the other side of the road which separated the two camps, they started building the camps of Birkenau, the Pferdestallbaracken (the horse-stable barracks), which were divided in the following way. There was a road which separated the SS camp from the prisoners' camp.
+**A.**The camps were divided in the following way: The old camp, which was in existence in my time, at the time when I arrived at the camp, was called - later on, much later on - the Frauenlager (women's camp), from which the men had been removed. It was divided into two: The men were on the right side of the road, and the women were on the left side of the road. On the other side of the road which separated the two camps, they started building the camps of [[LOCATION:location_286|Birkenau]], the Pferdestallbaracken (the horse-stable barracks), which were divided in the following way. There was a road which separated the SS camp from the prisoners' camp.
 
 After that, there was Camp A, which was called the "Quarantine Camp," to which all people were brought first of all, after the selection. After that, there was Camp B2 - that was a camp for Czechs, for the Czech Jews who arrived there - the Familienlager (the family camp).
 
@@ -117,7 +117,7 @@ Further on, there was the Zigeunerlager, the camp to which the Gypsies were brou
 
 **A.**37017.
 
-**Presiding Judge:** How large, do you estimate, was the whole area of Birkenau?
+**Presiding Judge:** How large, do you estimate, was the whole area of [[LOCATION:location_286|Birkenau]]?
 
 **Witness Ben-Zvi:** I cannot give you an exact evaluation, but from Camp B3 up to the end of the former women's camp it could have been between eight and ten kilometres, and the same in the opposite direction.
 
@@ -175,11 +175,11 @@ Further on, there was the Zigeunerlager, the camp to which the Gypsies were brou
 
 **Q.**Men were not called by their names?
 
-**A.**No, only by number. I forgot to point out that, at the time I came to Birkenau, we received a tattooed inscription on our chest - and only afterwards on the arm.
+**A.**No, only by number. I forgot to point out that, at the time I came to [[LOCATION:location_286|Birkenau]], we received a tattooed inscription on our chest - and only afterwards on the arm.
 
 **Q.**You have tattoo marks both on your chest and on your arm?
 
-**A.**Yes. The next day, we walked for a distance of some six kilometres and were taken to the Stammlager in Auschwitz, the camp on whose gates there was a sign saying "Arbeit macht frei" (work makes you free). As compared with Birkenau, this was a much better equipped camp. After the process of the sauna and disinfection and of an exchange of clothes, we were transferred to block 11, the SK block, the Strafkompanie (the punishment unit).
+**A.**Yes. The next day, we walked for a distance of some six kilometres and were taken to the Stammlager in [[LOCATION:location_286|Auschwitz]], the camp on whose gates there was a sign saying "Arbeit macht frei" (work makes you free). As compared with [[LOCATION:location_286|Birkenau]], this was a much better equipped camp. After the process of the sauna and disinfection and of an exchange of clothes, we were transferred to block 11, the SK block, the Strafkompanie (the punishment unit).
 
 There were Poles in this block, apart from Jews. It was altogether a strange block, a camp within a camp. It was a block which was closed after the roll-call, and it was forbidden to leave it, even to walk into the camp. There was also a scaffold standing there, a gallows, and a wall against which people were shot. There people used to be shot.
 
@@ -199,7 +199,7 @@ In that block that was a special status for Jews, both on the part of the German
 
 **Attorney General:** What was the Bunakommando?
 
-**A.**That was a very large labour detachment that went out every day at three o'clock in the morning to work, to build factories for synthetic rubber, not far from Auschwitz.
+**A.**That was a very large labour detachment that went out every day at three o'clock in the morning to work, to build factories for synthetic rubber, not far from [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Of I. G. Farben?
 
@@ -282,7 +282,7 @@ In that block that was a special status for Jews, both on the part of the German
 
 **A.**This was one of the punishments meted out to them as well, strangely enough, since they usually were not flogged in public.
 
-**Attorney General:** Were there also good Blockaelteste in Auschwitz?
+**Attorney General:** Were there also good Blockaelteste in [[LOCATION:location_286|Auschwitz]]?
 
 **Witness Ben-Zvi:** There were good Blockaelteste, but there were also bad ones. The good Blockaelteste could help, and many did even at personal risk to themselves. They endangered their position and themselves by helping prisoners. They had many opportunities to help and, indeed, many took advantage of that and helped.
 
@@ -290,15 +290,15 @@ In that block that was a special status for Jews, both on the part of the German
 
 **A.**There were also others.
 
-**Q.**What was "Canada" - "Canada", not in the geographical sense, but in its Auschwitz connotation?
+**Q.**What was "[[LOCATION:location_55|Canada]]" - "[[LOCATION:location_55|Canada]]", not in the geographical sense, but in its [[LOCATION:location_286|Auschwitz]] connotation?
 
-**A.**Some time later, when I was still in the Stammlager in Auschwitz, I heard of it from a friend, when it happened that I went by his bed and saw he was eating something which at that time was very rare - a slice of lemon. I asked him where he had obtained it. He told me that there was a Kommando called "Canada", and there, according to him, they had everything, even lemons. I asked him how it was possible to get into that Kommando. He replied that it was a question of luck. Every morning men reported in groups - each one tried to join a Kommando where it would be good for him, at least in the matter of food. So I also tried to join this famous Kommando, which then numbered one hundred men.
+**A.**Some time later, when I was still in the Stammlager in [[LOCATION:location_286|Auschwitz]], I heard of it from a friend, when it happened that I went by his bed and saw he was eating something which at that time was very rare - a slice of lemon. I asked him where he had obtained it. He told me that there was a Kommando called "[[LOCATION:location_55|Canada]]", and there, according to him, they had everything, even lemons. I asked him how it was possible to get into that Kommando. He replied that it was a question of luck. Every morning men reported in groups - each one tried to join a Kommando where it would be good for him, at least in the matter of food. So I also tried to join this famous Kommando, which then numbered one hundred men.
 
-It was then called the Aufraeumungskommando (for removal and cleaning). The Germans gave it the nickname "Canada". This name evidently was applied to it because there was an ample supply there of goods that had been plundered and taken from people who had been dispatched to the gas chambers.
+It was then called the Aufraeumungskommando (for removal and cleaning). The Germans gave it the nickname "[[LOCATION:location_55|Canada]]". This name evidently was applied to it because there was an ample supply there of goods that had been plundered and taken from people who had been dispatched to the gas chambers.
 
 **Q.**What was your work in this Kommando?
 
-**A.**At this time, I was employed in various tasks. At first in the transfer of personal belongings that arrived from the ramp at Birkenau into the Pferdestallbaracken which were used as store rooms, and arranging them inside in heaps. Later on, in opening up the suitcases and removing the contents, and sorting them into their categories - food separately, clothing separately, and the valuable objects were taken afterwards to the SS Lazarette - to SS men.
+**A.**At this time, I was employed in various tasks. At first in the transfer of personal belongings that arrived from the ramp at [[LOCATION:location_286|Birkenau]] into the Pferdestallbaracken which were used as store rooms, and arranging them inside in heaps. Later on, in opening up the suitcases and removing the contents, and sorting them into their categories - food separately, clothing separately, and the valuable objects were taken afterwards to the SS Lazarette - to SS men.
 
 We transferred the clothing once more to similar Pferdestallbaracken, where girls were engaged in sorting them and packing them into parcels and sending them off to the Entwesungskammer (disinfection room).
 
@@ -308,11 +308,11 @@ We transferred the clothing once more to similar Pferdestallbaracken, where girl
 
 **Q.**Did you know that this was the gas used to kill people?
 
-**A.**Yes, we knew, and we even saw how. Later, we got to know that this place where we worked, this famous "Canada", also served as one of the store rooms - although not the main store room - for that gas. How did we know that? Before an operation, before we knew that a transport was due - we knew that from the fact that we saw the commandant of crematorium No. 2, Moll, coming on his motor cycle into our Kommando, into this courtyard which was specially fenced off, and he was followed by a Red Cross vehicle, an ambulance.
+**A.**Yes, we knew, and we even saw how. Later, we got to know that this place where we worked, this famous "[[LOCATION:location_55|Canada]]", also served as one of the store rooms - although not the main store room - for that gas. How did we know that? Before an operation, before we knew that a transport was due - we knew that from the fact that we saw the commandant of crematorium No. 2, Moll, coming on his motor cycle into our Kommando, into this courtyard which was specially fenced off, and he was followed by a Red Cross vehicle, an ambulance.
 
-**Q.**The German Red Cross?
+**Q.**The [[ORGANIZATION:org_352|German Red Cross]]?
 
-**A.**Yes, a German Red Cross truck which, in theory, in time of war, belonged to the International Red Cross. And into this truck the tins of Zyklon B were loaded and transferred to the gas chambers.
+**A.**Yes, a [[ORGANIZATION:org_352|German Red Cross]] truck which, in theory, in time of war, belonged to the [[ORGANIZATION:org_310|International Red Cross]]. And into this truck the tins of Zyklon B were loaded and transferred to the gas chambers.
 
 **Q.**In a truck of the Red Cross?
 
@@ -322,11 +322,11 @@ We transferred the clothing once more to similar Pferdestallbaracken, where girl
 
 **Witness Ben-Zvi:** That means when the people arrived later on.
 
-Continuing with my account of my work, I used to go out at night to receive people arriving at Birkenau by rail, that is to say, when they arrived. This vehicle with the sign of the Red Cross was always waiting there, ready for special cases - if someone put up resistance or went berserk or suffered some attack; in order not to alarm the other people and to maintain order, he was put into the van, and they quietened him. The way in which it was done - this was obvious to us, we knew.
+Continuing with my account of my work, I used to go out at night to receive people arriving at [[LOCATION:location_286|Birkenau]] by rail, that is to say, when they arrived. This vehicle with the sign of the Red Cross was always waiting there, ready for special cases - if someone put up resistance or went berserk or suffered some attack; in order not to alarm the other people and to maintain order, he was put into the van, and they quietened him. The way in which it was done - this was obvious to us, we knew.
 
-**Attorney General:** What quantity of articles of clothing passed through your hands during the time you worked in "Canada"?
+**Attorney General:** What quantity of articles of clothing passed through your hands during the time you worked in "[[LOCATION:location_55|Canada]]"?
 
-**Witness Ben-Zvi:** I cannot tell you exactly, but these quantities were enormous, because we were subsequently occupied in loading the completed packages, cleaned and disinfected, on to the freight cars which conveyed them to Germany. There was a railway siding which came right up to the spot. It was not actually inside the courtyard, but next to it. And every week, we would load about twenty large freight cars with those articles.
+**Witness Ben-Zvi:** I cannot tell you exactly, but these quantities were enormous, because we were subsequently occupied in loading the completed packages, cleaned and disinfected, on to the freight cars which conveyed them to [[LOCATION:location_2|Germany]]. There was a railway siding which came right up to the spot. It was not actually inside the courtyard, but next to it. And every week, we would load about twenty large freight cars with those articles.
 
 **Presiding Judge:** Clothing?
 
@@ -356,11 +356,11 @@ Continuing with my account of my work, I used to go out at night to receive peop
 
 **A.**All that was handled by the girls in those huts. They also unstitched the clothes and found many articles of value in the shoulder pads of the coats, and in all kinds of places where people had sewn in money and other valuable items. This was under the strict supervision of the SS men who were in charge of each hut. As an illustration, there were two or three SS men watching the work in each hut where twenty to thirty prisoners would be working.
 
-**Q.**You and your colleagues also tried to help other prisoners - from the "Canada" camp - and to smuggle articles to them, clothing and so on?
+**Q.**You and your colleagues also tried to help other prisoners - from the "[[LOCATION:location_55|Canada]]" camp - and to smuggle articles to them, clothing and so on?
 
-**A.**The main thing in "Canada", and the desire to join this famed Kommando, was also to bring some articles or other into the camp. Of course, this activity was fraught with much risk, since we never knew where or when we would be searched. It sometimes happened that they did not examine our clothes when we entered the camp, and there were times when we were made to stand absolutely naked, both men and women, while they searched all possible places. We were also told to open wide both our fingers and our toes, and to bend over; they searched everywhere. And if they discovered an object on someone, whether it was something valuable or some worthless item, the individual was cruelly beaten and on more than one occasion taken away to a place which we called the "Political Department", and he vanished completely. We would not see him any more.
+**A.**The main thing in "[[LOCATION:location_55|Canada]]", and the desire to join this famed Kommando, was also to bring some articles or other into the camp. Of course, this activity was fraught with much risk, since we never knew where or when we would be searched. It sometimes happened that they did not examine our clothes when we entered the camp, and there were times when we were made to stand absolutely naked, both men and women, while they searched all possible places. We were also told to open wide both our fingers and our toes, and to bend over; they searched everywhere. And if they discovered an object on someone, whether it was something valuable or some worthless item, the individual was cruelly beaten and on more than one occasion taken away to a place which we called the "Political Department", and he vanished completely. We would not see him any more.
 
-**Q.**And, nevertheless, you managed, and it became a habit, to smuggle out of "Canada" medicines, vitamins, clothing and other articles?
+**Q.**And, nevertheless, you managed, and it became a habit, to smuggle out of "[[LOCATION:location_55|Canada]]" medicines, vitamins, clothing and other articles?
 
 **A.**In the main, these were small items to which we attached great value at the time. These were medicines, vitamins and, amongst other things, also toothpaste, although this was not used to brush teeth, but as a foodstuff, on bread...
 
@@ -374,7 +374,7 @@ Continuing with my account of my work, I used to go out at night to receive peop
 
 **Q.**According to the personal belongings which you sorted that year, from what countries did the owners of those belongings come?
 
-**A.**It was not only according to the belongings. I was also present when the transports arrived from various countries. They came from Poland, they came from Holland, they came from France, they came from Czechoslovakia, they came from Norway, they came from Salonika and from other places.
+**A.**It was not only according to the belongings. I was also present when the transports arrived from various countries. They came from [[LOCATION:location_5|Poland]], they came from Holland, they came from [[LOCATION:location_30|France]], they came from [[LOCATION:location_15|Czechoslovakia]], they came from [[LOCATION:location_29|Norway]], they came from [[LOCATION:location_101|Salonika]] and from other places.
 
 **Q.**From the whole of occupied Europe?
 
@@ -386,11 +386,11 @@ Continuing with my account of my work, I used to go out at night to receive peop
 
 **Q.**Please tell us about it.
 
-**A.**I regret that it was during the period of my work when I was engaged on the night shift. The Germans had divided the Kommando into two parts - there was a night shift and a day shift. The Kommando that went out to work at night had to receive the people who came to Birkenau; the day shift dealt with those tasks which I previously described. I want to tell you about the transport that came from Bedzin, in Poland. We knew that from the people who arrived. This was one of the most horrible transports I can remember.
+**A.**I regret that it was during the period of my work when I was engaged on the night shift. The Germans had divided the Kommando into two parts - there was a night shift and a day shift. The Kommando that went out to work at night had to receive the people who came to [[LOCATION:location_286|Birkenau]]; the day shift dealt with those tasks which I previously described. I want to tell you about the transport that came from Bedzin, in [[LOCATION:location_5|Poland]]. We knew that from the people who arrived. This was one of the most horrible transports I can remember.
 
 **Presiding Judge:** It was not far from there?
 
-**Witness Ben-Zvi:** Yes, it was not far from there. I don't know exactly where, but it was in the Katowice area.
+**Witness Ben-Zvi:** Yes, it was not far from there. I don't know exactly where, but it was in the [[LOCATION:location_178|Katowice]] area.
 ---
 
 **Attorney General:** How did this transport differ from any other?
@@ -419,7 +419,7 @@ And only those who had been trampled on and suffocated inside the freight car it
 
 **Q.**There were more SS men this time than was usual?
 
-**A.**More than on the normal transports, of people who arrived from Holland or Czechoslovakia, where they relied on the naivete of the people coming from their homes.
+**A.**More than on the normal transports, of people who arrived from Holland or [[LOCATION:location_15|Czechoslovakia]], where they relied on the naivete of the people coming from their homes.
 
 **Q.**Please continue.
 
@@ -449,9 +449,9 @@ There was also a case of a boy sitting down in the middle, where all of them wer
 
 **A.**This story came to me from a friend who worked in the Sonderkommando and who was later killed. He told me that before the people went into the gas chambers, an SS man would look at them before they entered and try and see whether anyone had swallowed some object. And he would go up to them and put a chalk mark either on their foreheads or their hands. The people did not understand the significance of this, and it was not possible to erase the mark. Later on, when the Sonderkommando removed the bodies from the other side out of the crematorium - and I saw the gate with my own eyes - those people bearing the chalk marks were moved to a special place, a sort of abattoir built according to all the principles of a butcher's shop, with all the butcher's implements, which were used to carve up these people on the spot, in order to search their stomachs for the valuables they had hidden there - in other words, which they had swallowed - and they extracted very many valuable articles, mainly diamonds, which were easy to swallow.
 
-**Q.**Do you remember the summer of 1944, when the large transport from Hungary arrived?
+**Q.**Do you remember the summer of 1944, when the large transport from [[LOCATION:location_24|Hungary]] arrived?
 
-**A.**Yes, I remember it. By that time, I had already left "Canada", using various subterfuges which were also difficult in those days. In order to raise their temperatures, people took medicine which they obtained from the male nurses in the Revier, and they were transferred to this Revier in Camp F, and, with the aid of friends, they tried to be admitted there. I did not use this method - I very simply vanished from that Kommando, from "Canada", for some days and went out with another Kommando. And at this stage the whole Kommando was transferred to Brzezinski, to that camp, where they were shut up in a camp within a camp in Birkenau.
+**A.**Yes, I remember it. By that time, I had already left "[[LOCATION:location_55|Canada]]", using various subterfuges which were also difficult in those days. In order to raise their temperatures, people took medicine which they obtained from the male nurses in the Revier, and they were transferred to this Revier in Camp F, and, with the aid of friends, they tried to be admitted there. I did not use this method - I very simply vanished from that Kommando, from "[[LOCATION:location_55|Canada]]", for some days and went out with another Kommando. And at this stage the whole Kommando was transferred to Brzezinski, to that camp, where they were shut up in a camp within a camp in [[LOCATION:location_286|Birkenau]].
 
 **Presiding Judge:** You said, "in order to raise their temperatures."
 
@@ -465,15 +465,15 @@ And when we went out to work, we saw them; they were sitting and waiting, and pe
 
 **Attorney General:** What happened at the rear?
 
-**Witness Ben-Zvi:** At the rear, piles and piles of bodies were heaped up in equal numbers, so as to facilitate the counting and to estimate the number of the bodies. In the adjacent forest - I don't know whether one could call it a forest, for the crematorium No. 4 was there - the old system at Birkenau was reintroduced, and they began digging pits and burning the bodies in these pits, and the fire from this could be seen throughout the entire camp - I thought it could be seen, possibly, throughout the country.
+**Witness Ben-Zvi:** At the rear, piles and piles of bodies were heaped up in equal numbers, so as to facilitate the counting and to estimate the number of the bodies. In the adjacent forest - I don't know whether one could call it a forest, for the crematorium No. 4 was there - the old system at [[LOCATION:location_286|Birkenau]] was reintroduced, and they began digging pits and burning the bodies in these pits, and the fire from this could be seen throughout the entire camp - I thought it could be seen, possibly, throughout the country.
 
 **Q.**And the entire camp smelled and breathed the odour of the burned flesh?
 
 **A.**That was so also before that; the smell coming from the four crematoria working at full speed was also sufficient to poison the air.
 
-**Q.**And the whole of Auschwitz breathed this air...?
+**Q.**And the whole of [[LOCATION:location_286|Auschwitz]] breathed this air...?
 
-**A.**The whole of Auschwitz was full of black smoke that issued forth, smoke and fire, these large chimneys belched forth fire and smoke.
+**A.**The whole of [[LOCATION:location_286|Auschwitz]] was full of black smoke that issued forth, smoke and fire, these large chimneys belched forth fire and smoke.
 
 **Q.**You breathed this during all these months?
 
@@ -481,43 +481,43 @@ And when we went out to work, we saw them; they were sitting and waiting, and pe
 
 **Q.**You lost all hope, and you described these days as "The Last Days of Pompeii"?
 
-**A.**Yes. I remember that, when I was lying down in the evening, on this famous Koje (bunk), we said with full conviction, that if the Hungarian Jews had also arrived - those who knew, or we assumed that they knew, about the holocaust, who knew what was going on - if they had come too, then there was no longer any hope for us.
+**A.**Yes. I remember that, when I was lying down in the evening, on this famous Koje (bunk), we said with full conviction, that if the Hungarian Jews had also arrived - those who knew, or we assumed that they knew, about the [[EVENT:event_386|holocaust]], who knew what was going on - if they had come too, then there was no longer any hope for us.
 
-**Q.**Afterwards, you were transferred to Stutthof? When was that?
+**Q.**Afterwards, you were transferred to [[LOCATION:location_197|Stutthof]]? When was that?
 
-**A.**I cannot remember the exact month - it was when the first transports began leaving Auschwitz. I believe it was in September or October, perhaps even later, in 1944.
+**A.**I cannot remember the exact month - it was when the first transports began leaving [[LOCATION:location_286|Auschwitz]]. I believe it was in September or October, perhaps even later, in 1944.
 
-**Q.**Where was Stutthof?
+**Q.**Where was [[LOCATION:location_197|Stutthof]]?
 
-**A.**Stutthof was a camp, as we got to know afterwards, at a distance of about fifty kilometres from Danzig, in Poland.
+**A.**Stutthof was a camp, as we got to know afterwards, at a distance of about fifty kilometres from [[LOCATION:location_113|Danzig]], in [[LOCATION:location_5|Poland]].
 
-**Q.**What was there in Stutthof?
+**Q.**What was there in [[LOCATION:location_197|Stutthof]]?
 
-**A.**I can tell you that, when we were travelling on the way to Stutthof, it seemed strange to us that they were conveying us in open carriages, in regular carriages, and under comparatively comfortable conditions.
+**A.**I can tell you that, when we were travelling on the way to [[LOCATION:location_197|Stutthof]], it seemed strange to us that they were conveying us in open carriages, in regular carriages, and under comparatively comfortable conditions.
 
 **Presiding Judge:** In passenger coaches?
 
-**Witness Ben-Zvi:** Yes. We travelled for a long time through forests, and there were some of us who tried to organize an escape and an attack on our guards, for we were not closely guarded. But all of us hoped again that we were on our way to a better place - we had been told that we were travelling to Germany to work - we also knew that the end was approaching, and again there was hope in our hearts, as happened each time we moved to some place, that indeed it was going to be better.
+**Witness Ben-Zvi:** Yes. We travelled for a long time through forests, and there were some of us who tried to organize an escape and an attack on our guards, for we were not closely guarded. But all of us hoped again that we were on our way to a better place - we had been told that we were travelling to [[LOCATION:location_2|Germany]] to work - we also knew that the end was approaching, and again there was hope in our hearts, as happened each time we moved to some place, that indeed it was going to be better.
 
-Of course, these hopes were dispelled as soon as we reached this camp at Stutthof. We had scarcely alighted from the coaches when we were welcomed by blows from the same Haeftlinge (prisoners) whom we had known from Auschwitz; but there, they looked different, and their clothing was different. Most of them were Germans, not men of the SS - although some SS as well - but Berufsverbrecher (professional criminals), who were largely a type of the real Kapo with a green Winkel (triangle) pointing downwards. There was also a Verbrecher (criminal) who had not yet served his full term of punishment, who still had some period of imprisonment to run - he had the point of the Winkel facing upwards. But perhaps these are details which are no longer important.
+Of course, these hopes were dispelled as soon as we reached this camp at [[LOCATION:location_197|Stutthof]]. We had scarcely alighted from the coaches when we were welcomed by blows from the same Haeftlinge (prisoners) whom we had known from [[LOCATION:location_286|Auschwitz]]; but there, they looked different, and their clothing was different. Most of them were Germans, not men of the SS - although some SS as well - but Berufsverbrecher (professional criminals), who were largely a type of the real Kapo with a green Winkel (triangle) pointing downwards. There was also a Verbrecher (criminal) who had not yet served his full term of punishment, who still had some period of imprisonment to run - he had the point of the Winkel facing upwards. But perhaps these are details which are no longer important.
 
 When we got there, although we were accustomed to all the hardships of the camp, and the evasions and seeking of ways how to exist, we lost our bearings; there we were newcomers. And out of roughly 1000-1500 men, by the time of the registration, which took place three days later, five hundred men were left. These five hundred survivors were taken out to various jobs, difficult tasks, which it is impossible at all to define.
 
-We had to unload ships, barges with gravel and cement, which arrived at a particular branch of a brick factory, not far from Stutthof. And then, in a very bitter frost, in the threadbare clothes we had on our backs, we had to offload these barges, accompanied by threats and beatings. The SS men made fires and warmed themselves not far away. And there were some who tried to come near them - of course, they were shot immediately by the guards.
+We had to unload ships, barges with gravel and cement, which arrived at a particular branch of a brick factory, not far from [[LOCATION:location_197|Stutthof]]. And then, in a very bitter frost, in the threadbare clothes we had on our backs, we had to offload these barges, accompanied by threats and beatings. The SS men made fires and warmed themselves not far away. And there were some who tried to come near them - of course, they were shot immediately by the guards.
 
 There was another trick the Germans used during that period. They would come over to a man who they could see was exhausted and no longer able to lift his shovel; they would say to him: "Why not sit down here sir? Be seated and rest a little." Naturally, this man would freeze on the spot, in the midst of a pool of mud, and he would no longer be capable of getting up. Anyone who did not work - froze.
 
-In that camp, sanitary conditions were also appalling. People died from dysentery, typhus and other diseases, they died daily in tremendous numbers. Opposite us was a women's camp which was not separated from the men's camp by an electrified fence - there they had more primitive external security arrangements than in Auschwitz. We were able to get close and to see what was going on inside this women's camp. And there, in the midst of the snow and the frost, women sat there covered only with a blanket. And, furthermore, the block did not have a roof, it had no roof at all, there was merely a pile of snow. And hence, as they sat there, they froze and died where they were.
+In that camp, sanitary conditions were also appalling. People died from dysentery, typhus and other diseases, they died daily in tremendous numbers. Opposite us was a women's camp which was not separated from the men's camp by an electrified fence - there they had more primitive external security arrangements than in [[LOCATION:location_286|Auschwitz]]. We were able to get close and to see what was going on inside this women's camp. And there, in the midst of the snow and the frost, women sat there covered only with a blanket. And, furthermore, the block did not have a roof, it had no roof at all, there was merely a pile of snow. And hence, as they sat there, they froze and died where they were.
 
 **Q.**And the food?
 
-**A.**The condition of the food was even worse than that in Birkenau in 1942. It was given in such small quantities. The price of food there was quite fabulous; even the best of friends divided up between them very meticulously that thin slice of bread which we were given for the whole day. And, of course, this caused people to become Muselmann and be transferred to the crematorium, which was not far away, fenced in by clusters of reeds which we could see as we went out to work.
+**A.**The condition of the food was even worse than that in [[LOCATION:location_286|Birkenau]] in 1942. It was given in such small quantities. The price of food there was quite fabulous; even the best of friends divided up between them very meticulously that thin slice of bread which we were given for the whole day. And, of course, this caused people to become Muselmann and be transferred to the crematorium, which was not far away, fenced in by clusters of reeds which we could see as we went out to work.
 
-**Q.**In January 1945, you walked with the first marchers from Stutthof towards the West?
+**Q.**In January 1945, you walked with the first marchers from [[LOCATION:location_197|Stutthof]] towards the West?
 
 **A.**At that time, there was already a rumour that they were going to evacuate the camp, owing to the approach of the Russians. And we were all lined up in groups in the courtyard and were told that we had to move to another camp, and owing to lack of transport, we would have to go on foot. We were not given any provisions for the road, we did not get other clothes. And it was a very harsh winter.
 
-We began marching towards Lauenburg. That is what we were told - we had to reach Lauenburg, which was a hundred and fifty kilometres from Stutthof. In this march, which certainly must have been similar to all the marches of this kind, the number of people diminished from day to day. At that time there were severe snow storms, and we did not walk along the open road. That route was reserved for the retreat of the German armies.
+We began marching towards Lauenburg. That is what we were told - we had to reach Lauenburg, which was a hundred and fifty kilometres from [[LOCATION:location_197|Stutthof]]. In this march, which certainly must have been similar to all the marches of this kind, the number of people diminished from day to day. At that time there were severe snow storms, and we did not walk along the open road. That route was reserved for the retreat of the German armies.
 
 We walked on paths in the field, through the fields, sometimes hip-deep in snow. The SS men, who were also not accustomed to these conditions, were very angry, and sometimes they shot people for no reason whatsoever, merely for their entertainment. People who lagged behind were shot and covered up immediately by the snow, which was falling continuously throughout those five days during which I walked with this transport.
 
@@ -527,12 +527,12 @@ One evening, they put us up in a small village, in a church, a wooden church. We
 
 **Presiding Judge:** I don't think there was a large Polish population there at that time.
 
-**Witness Ben-Zvi:** It was a small village, and the villagers came up to the fence and with the consent of the SS who were on guard there, threw slices of bread to the people. Naturally, people pounced upon the bread and ate it - that was the only food which we received throughout that time. This happened towards evening. The light was failing, and snow began falling. The SS men were occupied with their guard duty. I jumped over the low fence which surrounded this church - together with a friend of mine who, as I happened to learn by chance today, is at present in Canada.
+**Witness Ben-Zvi:** It was a small village, and the villagers came up to the fence and with the consent of the SS who were on guard there, threw slices of bread to the people. Naturally, people pounced upon the bread and ate it - that was the only food which we received throughout that time. This happened towards evening. The light was failing, and snow began falling. The SS men were occupied with their guard duty. I jumped over the low fence which surrounded this church - together with a friend of mine who, as I happened to learn by chance today, is at present in [[LOCATION:location_55|Canada]].
 ---
 
-**Q.**The real Canada?
+**Q.**The real [[LOCATION:location_55|Canada]]?
 
-**A.**Yes, the real Canada. I fled together with him. Escape was not easy, for the Germans knew the number of people, even in those difficult times: Whenever we were about to set out in the mornings, they counted us twenty times, and this was risky for us - they knew how many had been killed on the way and how many there ought to be. Order was preserved even on this death march, and searches were conducted throughout the vicinity. A person who escaped did not find it easy to conceal himself. There was a special danger involved in the fact that we had to cross the main road, where the retreating Germans were passing. We lay there in the snow until a large contingent of retreating Germans had passed, and we were able to cross the road. We walked all night until in the end we knocked on the door of the first Polish farmhouse; we wanted to go inside, for we had no alternative - either we would have to freeze outside, or to obtain a little food and to warm ourselves.
+**A.**Yes, the real [[LOCATION:location_55|Canada]]. I fled together with him. Escape was not easy, for the Germans knew the number of people, even in those difficult times: Whenever we were about to set out in the mornings, they counted us twenty times, and this was risky for us - they knew how many had been killed on the way and how many there ought to be. Order was preserved even on this death march, and searches were conducted throughout the vicinity. A person who escaped did not find it easy to conceal himself. There was a special danger involved in the fact that we had to cross the main road, where the retreating Germans were passing. We lay there in the snow until a large contingent of retreating Germans had passed, and we were able to cross the road. We walked all night until in the end we knocked on the door of the first Polish farmhouse; we wanted to go inside, for we had no alternative - either we would have to freeze outside, or to obtain a little food and to warm ourselves.
 
 As it turned out, we were only one kilometre from the point from where we had escaped. This Pole told us he was very sorry, but we would have to leave early the next morning, since he was exposing himself to risk. And in this way we wandered from place to place, from farmyard to farmyard.
 
@@ -544,7 +544,7 @@ I spent the rest of the time, until the Russians arrived, until liberation came,
 
 **Presiding Judge:** Was that in the Polish corridor?
 
-**Witness Ben-Zvi:** It was in Wejherowo, far away from any main road or any other place. It was thirty kilometres from Danzig. Later, I was with the Red Army in Danzig.
+**Witness Ben-Zvi:** It was in Wejherowo, far away from any main road or any other place. It was thirty kilometres from [[LOCATION:location_113|Danzig]]. Later, I was with the Red Army in [[LOCATION:location_113|Danzig]].
 
 **Attorney General:** What was the name of this Pole?
 
@@ -570,7 +570,7 @@ I spent the rest of the time, until the Russians arrived, until liberation came,
 
 **Q.**What was their duty at night?
 
-**A.**Their duty at night was to go to that famous ramp, to collect the personal belongings that the people were ordered to leave near the freight cars - they were not even allowed to take their belongings with them down to the area beyond the slope, and these belongings were loaded on to trucks and conveyed from there to that place called "Canada", where they were sorted, collected, and disinfected.
+**A.**Their duty at night was to go to that famous ramp, to collect the personal belongings that the people were ordered to leave near the freight cars - they were not even allowed to take their belongings with them down to the area beyond the slope, and these belongings were loaded on to trucks and conveyed from there to that place called "[[LOCATION:location_55|Canada]]", where they were sorted, collected, and disinfected.
 
 **Judge Halevi:** Thank you.
 

@@ -1,4 +1,4 @@
-# Testimony of Zyndel Shmuel Grynszpan
+# Testimony of [[PERSON:witness_98|Zyndel Shmuel Grynszpan]]
 
 **Session:** 14
 
@@ -16,17 +16,17 @@
 
 **Witness Grynszpan:** Shmuel.
 
-**Presiding Judge:** Zyndel Shmuel Grynszpan.
+**Presiding Judge:** [[PERSON:witness_98|Zyndel Shmuel Grynszpan]].
 
 **State Attorney Bar-Or:** Sir, when and where were you born?
 
-**Witness Grynszpan:** In 1886, in Radomsko, Poland.
+**Witness Grynszpan:** In 1886, in Radomsko, [[LOCATION:location_5|Poland]].
 
-**Q.**When did you come to Germany?
+**Q.**When did you come to [[LOCATION:location_2|Germany]]?
 
 **A.**In April 1911.
 
-**Q.**When you got to Germany, where you a bachelor, or married?
+**Q.**When you got to [[LOCATION:location_2|Germany]], where you a bachelor, or married?
 
 **A**. Already married.
 
@@ -34,13 +34,13 @@
 
 **A.**In April 1910.
 
-**Q.**Where did you go to in Germany, in 1911?
+**Q.**Where did you go to in [[LOCATION:location_2|Germany]], in 1911?
 
 **A.**Hanover.
 
 **Q.**And you stayed there till...?
 
-**A.**I stayed in Hanover till 1928, till we were expelled from Germany in a barbaric manner. On 27 October 1928. All Polish Jews. To Sbenszyn!
+**A.**I stayed in [[LOCATION:location_115|Hanover]] till 1928, till we were expelled from [[LOCATION:location_2|Germany]] in a barbaric manner. On 27 October 1928. All Polish Jews. To Sbenszyn!
 
 **Q.**Mr. Grynszpan, did you mean 1928 or perhaps another year?
 
@@ -50,7 +50,7 @@
 
 **A.**Correct.
 
-**Q.**How many children were born to you in Hanover?
+**Q.**How many children were born to you in [[LOCATION:location_115|Hanover]]?
 
 **A.**Eight.
 
@@ -59,7 +59,7 @@
 **A.**Four.
 ---
 
-The Trial of Adolf Eichmann Sessions 14 (Part 4 of 7)
+The Trial of [[PERSON:person_775|Adolf Eichmann]] Sessions 14 (Part 4 of 7)
 
 ---
 
@@ -81,31 +81,31 @@ The Trial of Adolf Eichmann Sessions 14 (Part 4 of 7)
 
 **Q.**When was he born, Mordecai Eliezer?
 
-**A.**1919. In Hanover.
+**A.**1919. In [[LOCATION:location_115|Hanover]].
 
 **Q.**And the other one?
 
 **A.**And the other one was born on 21 March 1921.
 
-**Q.**Also in Hanover?
+**Q.**Also in [[LOCATION:location_115|Hanover]]?
 
-**A.**Also in Hanover. All the children were born in Hanover.
+**A.**Also in [[LOCATION:location_115|Hanover]]. All the children were born in [[LOCATION:location_115|Hanover]].
 
 **Q.**What was his name?
 
 **A.**Hirsch Feivel Grynszpan. In German he was called Hermann.
 
-**Q.**Mr. Grynszpan, what was your nationality during all those years you lived in Germany?
+**Q.**Mr. Grynszpan, what was your nationality during all those years you lived in [[LOCATION:location_2|Germany]]?
 
-**A.**When I came to Germany in 1911, I came as a Russian subject. When Poland became a state of its own, I opted for Poland.
+**A.**When I came to [[LOCATION:location_2|Germany]] in 1911, I came as a Russian subject. When [[LOCATION:location_5|Poland]] became a state of its own, I opted for [[LOCATION:location_5|Poland]].
 
 **Q.**In the year 1938, where was your son Hirsch?
 
-**A.**In Paris.
+**A.**In [[LOCATION:location_61|Paris]].
 
-**Q.**When did he come to Paris?
+**Q.**When did he come to [[LOCATION:location_61|Paris]]?
 
-**A.**He came to Paris in '36, in May.
+**A.**He came to [[LOCATION:location_61|Paris]] in '36, in May.
 
 **Q.**Now, tell the Court what happened on 27 October 1938.
 
@@ -141,7 +141,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 4 of 7)
 
 **Q.**And then?
 
-**A.**And then they loaded us on to the police vans, some twenty people in each van, and we were despatched to the railway station; the streets were black with people - "Out with the Jews! To go Palestine!" We were taken by train to Neubenschen, on the German-Polish border, that was six o'clock in the morning, on the Sabbath.
+**A.**And then they loaded us on to the police vans, some twenty people in each van, and we were despatched to the railway station; the streets were black with people - "Out with the Jews! To go [[LOCATION:location_57|Palestine]]!" We were taken by train to Neubenschen, on the German-Polish border, that was six o'clock in the morning, on the Sabbath.
 
 **Q.**Who was with you in the train?
 
@@ -153,7 +153,7 @@ The Trial of Adolf Eichmann Sessions 14 (Part 4 of 7)
 
 **Q.**How did they deal with you, in the train?
 
-**A.**When we came to Neubenschen, it was six o'clock in the morning, and trains arrived from Leipzig, Berlin, Hamburg, Koeln, Duesseldorf and so on - Bielefeld, Essen, Bremen - and we were 12,000 all together.
+**A.**When we came to Neubenschen, it was six o'clock in the morning, and trains arrived from [[LOCATION:location_116|Leipzig]], [[LOCATION:location_1|Berlin]], [[LOCATION:location_63|Hamburg]], Koeln, [[LOCATION:location_80|Duesseldorf]] and so on - Bielefeld, [[LOCATION:location_117|Essen]], [[LOCATION:location_118|Bremen]] - and we were 12,000 all together.
 
 **Q.**When you got there, what day was it?
 
@@ -161,17 +161,17 @@ The Trial of Adolf Eichmann Sessions 14 (Part 4 of 7)
 
 **Q.**Mr. Grynszpan, did you inform anybody about this deportation?
 
-**A.**Yes, when we reached the border, each of us was searched, to see whether any of us had any money with him, one could not have more than ten marks, if anybody had more - he had everything taken away. That was the German law, more than ten marks could not be taken out. The Germans said - you didn't bring in more to Germany than that, so that's what you may take out.
+**A.**Yes, when we reached the border, each of us was searched, to see whether any of us had any money with him, one could not have more than ten marks, if anybody had more - he had everything taken away. That was the German law, more than ten marks could not be taken out. The Germans said - you didn't bring in more to [[LOCATION:location_2|Germany]] than that, so that's what you may take out.
 
 **Q.**And when you reached the frontier, did you inform anybody that you had reached that frontier?
 
-**A.**With whom could one have got in touch? After all, the SS were keeping us "under their protective custody." They told us we would now walk two kilometres to the Russian, that is to the Polish border. So we were on our way to Poland. When we had been going for two kilometres, the SS started whipping us - over the heads - hitting us, those who fell behind - those unable to walk were dragged on the road - blood was flowing on all sides. The bundles we had in our hands were torn away from us and thrown aside. They acted most barbarically; that was the first time I saw the barbarity of the German people.
+**A.**With whom could one have got in touch? After all, the SS were keeping us "under their protective custody." They told us we would now walk two kilometres to the Russian, that is to the Polish border. So we were on our way to [[LOCATION:location_5|Poland]]. When we had been going for two kilometres, the SS started whipping us - over the heads - hitting us, those who fell behind - those unable to walk were dragged on the road - blood was flowing on all sides. The bundles we had in our hands were torn away from us and thrown aside. They acted most barbarically; that was the first time I saw the barbarity of the German people.
 
 **Q.**Please carry on.
 
 **A.**Then we got the order "Laufen, laufen, aber schnell laufen!" I myself got a blow from behind; I fell into a ditch; my son caught me by the hand: "Papa, come along, otherwise you are a dead man!"
 
-Then we got to the border, the Polish border. They let us into Poland, first we got to the [free] open border "the green border" it is called. The women had already got across; they started shooting at the women; the Poles did not understand) - so many people. A General with two officers arrived; they looked at our passports, they saw we were indeed Polish citizens - Ausnahmspaesse (special passports) - we had to be allowed in; so they let us in.
+Then we got to the border, the Polish border. They let us into [[LOCATION:location_5|Poland]], first we got to the [free] open border "the green border" it is called. The women had already got across; they started shooting at the women; the Poles did not understand) - so many people. A General with two officers arrived; they looked at our passports, they saw we were indeed Polish citizens - Ausnahmspaesse (special passports) - we had to be allowed in; so they let us in.
 
 We came into a town of six thousand inhabitants; we were twelve thousand. The rain was beating down; people were falling down, fainting, some fell down with heart attacks. People with their clothes torn off were lying about, being dragged hither and thither, old women, old men, small children. The misery was great. We had no food, we had not taken any food since Thursday, we had not wanted to eat German bread any more and we were starving.
 
@@ -193,7 +193,7 @@ We came into a town of six thousand inhabitants; we were twelve thousand. The ra
 
 **Q.**Yes, and then?
 
-**A.**After that I wrote a letter to France, to my son: "Don't write to Germany any more. We are now in Sbenszyn.
+**A.**After that I wrote a letter to [[LOCATION:location_30|France]], to my son: "Don't write to [[LOCATION:location_2|Germany]] any more. We are now in Sbenszyn.
 
 **Q.**And that son was Hirsch Grynszpan?
 

@@ -1,4 +1,4 @@
-# Testimony of Yacov Friedman
+# Testimony of [[PERSON:witness_90|Yacov Friedman]]
 
 **Session:** 64
 
@@ -8,15 +8,15 @@
 
 **Witness:** Ya'akov Friedman.
 
-**Attorney General:** Mr. Friedman, you live in Tel Aviv at 42 Aminadav Street?
+**Attorney General:** Mr. Friedman, you live in [[LOCATION:location_42|Tel Aviv]] at 42 Aminadav Street?
 
 **Witness Friedman:** Yes.
 
 **Q.**What is your occupation?
 
-**A.**I am a clerk in the Tel Aviv municipality.
+**A.**I am a clerk in the [[LOCATION:location_42|Tel Aviv]] municipality.
 
-**Q.**In 1942, you were in the district of Lublin, and you were regarded as a Polish Aryan - is that correct?
+**Q.**In 1942, you were in the district of [[LOCATION:location_35|Lublin]], and you were regarded as a Polish Aryan - is that correct?
 
 **A.**Yes.
 
@@ -28,15 +28,15 @@
 
 **A.**Yes.
 
-**Q.**And, as a Polish Christian, you were transferred to the camp at Majdanek?
+**Q.**And, as a Polish Christian, you were transferred to the camp at [[LOCATION:location_281|Majdanek]]?
 
 **A.**Yes.
 
-**Q.**When did you arrive at Majdanek?
+**Q.**When did you arrive at [[LOCATION:location_281|Majdanek]]?
 
 **A.**At the end of 1942 - it was September, I believe.
 
-**Q.**Can you describe for us the morning roll-call at Majdanek?
+**Q.**Can you describe for us the morning roll-call at [[LOCATION:location_281|Majdanek]]?
 
 **A.**Yes. A roll-call took place twice daily, in the morning and in the evening. In the morning, all the prisoners had to report and stand in line. At the beginning it was accompanied by orders: "Muetze ab!" and "Muetze auf!" (Muetze ab - remove the cap from one's head; Muetze auf - place the cap on one's head). And this had to be done in rhythm, and if it was not so - the SS would deal out blows.
 
@@ -48,7 +48,7 @@
 
 **A.**It could continue for an hour or more. After that, we were divided up for our assignments.
 
-**Q.**We shall still come across this matter of Muetze ab and Muetze auf - that was practiced at all the camps. You used to go out to work. What tasks did you perform at Majdanek?
+**Q.**We shall still come across this matter of Muetze ab and Muetze auf - that was practiced at all the camps. You used to go out to work. What tasks did you perform at [[LOCATION:location_281|Majdanek]]?
 
 **A.**These were also unproductive tasks, transferring rolls of paper used for covering roofs from warehouse to warehouse. It was also accompanied by blows, such as laufen (run), or schneller (faster). It depended on what kind of guard we encountered. And I also worked on scraping off plaster from bricks. I was also employed in the erection of huts inside the camp.
 
@@ -86,7 +86,7 @@
 
 **A.**The bread ration was one loaf of bread for five men over two days. The loaf of bread weighed about 800 grams.
 
-**Q.**Was there an electrified fence surrounding Majdanek?
+**Q.**Was there an electrified fence surrounding [[LOCATION:location_281|Majdanek]]?
 
 **A.**Yes.
 
@@ -102,7 +102,7 @@
 
 **A.**Yes. It must have been in November - the end of 1943. We were taken out to work. That day, I remained inside the camp. This entire Polish group remained in the camp, and, in fact, all the huts were emptied out. But that did not last very long, for, on the following day, they were again filled with people, but these were not the faces I had previously got to know.
 
-**Q.**Did you see how transports of Jews arrived at Majdanek?
+**Q.**Did you see how transports of Jews arrived at [[LOCATION:location_281|Majdanek]]?
 
 **A.**There were men who were working with us - they were called "Sonderkommando" - and they used to attend to the transports.
 
@@ -118,7 +118,7 @@
 
 **A.**They were ordered to undress and hand over their clothes - it was as if they were undergoing a disinfection by cleaning themselves. They had to enter shower rooms. And, indeed, the gas chambers resembled shower rooms, and, from there dead bodies were brought out.
 
-**Q.**Did you witness the execution of people in Majdanek?
+**Q.**Did you witness the execution of people in [[LOCATION:location_281|Majdanek]]?
 
 **A.**Yes, by hanging.
 
@@ -211,7 +211,7 @@
 
 **A.**Yes.
 
-**Attorney General:** When were you released from Majdanek?
+**Attorney General:** When were you released from [[LOCATION:location_281|Majdanek]]?
 
 **Witness Friedman:** I was freed in 1944, at the beginning of 1944.
 
@@ -221,13 +221,13 @@
 
 **Q.**You were called to the camp command - what did they say to you then?
 
-**A.**They summoned me. At first I thought my end had come. For this was the way, generally speaking, they used to remove people to be hanged, by an announcement over the loudspeaker at the evening roll-call. My number was called out, and I was told to report in front of the office. We stood there for some hours. I had a look at the men who were already there. They were boys, mainly, Polish boys - there was not a Jew amongst them. And then we were taken to a building, which was known in Majdanek as the "Red House." That was the seat of the administration. An SS man came out, speaking Polish; he told us that we were being released, but, first of all, we had to sign that we would not talk about what we had seen there.
+**A.**They summoned me. At first I thought my end had come. For this was the way, generally speaking, they used to remove people to be hanged, by an announcement over the loudspeaker at the evening roll-call. My number was called out, and I was told to report in front of the office. We stood there for some hours. I had a look at the men who were already there. They were boys, mainly, Polish boys - there was not a Jew amongst them. And then we were taken to a building, which was known in [[LOCATION:location_281|Majdanek]] as the "Red House." That was the seat of the administration. An SS man came out, speaking Polish; he told us that we were being released, but, first of all, we had to sign that we would not talk about what we had seen there.
 
 **Presiding Judge:** On what date was that?
 
 **Witness Friedman:** This was in the spring of 1944.
 
-**Attorney General:** Was there any instance where a Jew, who was known to be a Jew, was also released from Majdanek?
+**Attorney General:** Was there any instance where a Jew, who was known to be a Jew, was also released from [[LOCATION:location_281|Majdanek]]?
 
 **Witness Friedman:** No.
 
@@ -243,7 +243,7 @@
 
 **Q.**Who said it was Eichmann?
 
-**A.**I was with a group of Jews from Slovakia. I had a friend who slept next to me. He knew them. He also indicated a further number of names of all the officers he had seen, and amongst them was Eichmann. He was also in the centre. With regard to the remaining officers, it was easy to distinguish that they were less important.
+**A.**I was with a group of Jews from [[LOCATION:location_84|Slovakia]]. I had a friend who slept next to me. He knew them. He also indicated a further number of names of all the officers he had seen, and amongst them was Eichmann. He was also in the centre. With regard to the remaining officers, it was easy to distinguish that they were less important.
 
 **Dr. Servatius:** If that is so, I understand from your remarks that Eichmann walked at the head of that group of officers?
 

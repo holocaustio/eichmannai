@@ -1,4 +1,4 @@
-# Testimony of Dr. Martin Poeldy
+# Testimony of [[PERSON:witness_36|Dr. Martin Poeldy]]
 
 **Session:** 53
 
@@ -12,27 +12,27 @@
 
 **Witness Foeldi:** Yes.
 
-**Q.**You practised as a lawyer in Hungary as well?
+**Q.**You practised as a lawyer in [[LOCATION:location_24|Hungary]] as well?
 
-**A.**For several months, after the Hungarians entered at the end of 1938. I was in Uzhgorod and I was a lawyer there, in Czechoslovakia. Uzhgorod was then part of Czechoslovakia.
+**A.**For several months, after the Hungarians entered at the end of 1938. I was in [[LOCATION:location_269|Uzhgorod]] and I was a lawyer there, in [[LOCATION:location_15|Czechoslovakia]]. [[LOCATION:location_269|Uzhgorod]] was then part of [[LOCATION:location_15|Czechoslovakia]].
 
-**Presiding Judge:** In what part of Czechoslovakia was this?
+**Presiding Judge:** In what part of [[LOCATION:location_15|Czechoslovakia]] was this?
 
-**Witness Foeldi:** In Carpatho-Russia. From November 1938 until April 1939 I practised as a lawyer under the Hungarians.
+**Witness Foeldi:** In [[LOCATION:location_270|Carpatho-Russia]]. From November 1938 until April 1939 I practised as a lawyer under the Hungarians.
 
-**State Attorney Bach:** On 19 March 1944 were you still in Uzhgorod?
+**State Attorney Bach:** On 19 March 1944 were you still in [[LOCATION:location_269|Uzhgorod]]?
 
 **Witness Foeldi:** Yes.
 
-**Q.**Can you tell the Court what was the first thing that happened after the Germans entered Hungary, as far as you experienced it in Uzhgorod?
+**Q.**Can you tell the Court what was the first thing that happened after the Germans entered [[LOCATION:location_24|Hungary]], as far as you experienced it in [[LOCATION:location_269|Uzhgorod]]?
 
-**Presiding Judge:** First of all, all the same, let us have some history. When was this region, Carpatho-Russia, transferred to Hungary?
+**Presiding Judge:** First of all, all the same, let us have some history. When was this region, [[LOCATION:location_270|Carpatho-Russia]], transferred to [[LOCATION:location_24|Hungary]]?
 
-**Witness Foeldi:** In November 1938 - this was the arbitration award that was made in Vienna, and afterwards, a few days later, the Hungarian army entered.
+**Witness Foeldi:** In November 1938 - this was the arbitration award that was made in [[LOCATION:location_3|Vienna]], and afterwards, a few days later, the Hungarian army entered.
 
-**State Attorney Bach:** What occurred after the entry of the Germans into Hungary?
+**State Attorney Bach:** What occurred after the entry of the Germans into [[LOCATION:location_24|Hungary]]?
 
-**Presiding Judge:** Was this arbitration award in Vienna in 1938?
+**Presiding Judge:** Was this arbitration award in [[LOCATION:location_3|Vienna]] in 1938?
 
 **Witness Foeldi:** Yes. I was then, actually in the Czech army, when the arbitration took place, and had been discharged from the army.
 
@@ -42,15 +42,15 @@
 
 **Q.**What happened at the end of March of that year to the local Jews?
 
-**A.**I remember, for example, an incident where the Council received an order to deliver a bed to the Gestapo. The next day there was a complaint by the Gestapo that the bed was not clean, and within 24 hours the Jews of Uzhgorod had to pay one and a half million pengoe, which at that time was worth 7 million Czech crowns.
+**A.**I remember, for example, an incident where the Council received an order to deliver a bed to the [[ORGANIZATION:org_344|Gestapo]]. The next day there was a complaint by the [[ORGANIZATION:org_344|Gestapo]] that the bed was not clean, and within 24 hours the Jews of [[LOCATION:location_269|Uzhgorod]] had to pay one and a half million pengoe, which at that time was worth 7 million Czech crowns.
 
-**Q.**When you say "Gestapo" what are you referring to, exactly: Was there an office of the Gestapo there?
+**Q.**When you say "[[ORGANIZATION:org_344|Gestapo]]" what are you referring to, exactly: Was there an office of the [[ORGANIZATION:org_344|Gestapo]] there?
 
 **A.**I was not active in the community there - these matters I came to know only by hearsay. Afterwards, we, members of the large families, received an order from the Council to pay per family; for example, our family paid 100,000 pengoe.
 
-**Q.**I asked you whether there was an office of the Gestapo - were you referring to the German Gestapo?
+**Q.**I asked you whether there was an office of the [[ORGANIZATION:org_344|Gestapo]] - were you referring to the German [[ORGANIZATION:org_344|Gestapo]]?
 
-**A.**To the German Gestapo.
+**A.**To the German [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**Did they have an office, a bureau or a headquarters? What did they have in that town?
 
@@ -62,7 +62,7 @@
 
 **Q.**Can you perhaps inform the Court, in your own words, what happened, where the ghetto was and what were the conditions there?
 
-**A.**The ghetto was in a brick factory some way out of town, some 2-3 kilometres away. They began in a certain district of Uzhgorod - they started detaining people. We even saw through the window how these people walked along the road to the brick factory. This is what they did, district by district, and then the people were put into that place. The turn of our district came and we, too, were subsequently sent there.
+**A.**The ghetto was in a brick factory some way out of town, some 2-3 kilometres away. They began in a certain district of [[LOCATION:location_269|Uzhgorod]] - they started detaining people. We even saw through the window how these people walked along the road to the brick factory. This is what they did, district by district, and then the people were put into that place. The turn of our district came and we, too, were subsequently sent there.
 
 **Q.**How many Jews were in the ghetto at that time?
 
@@ -91,31 +91,31 @@
 
 **Q.**Are you able to tell the Court something about attempts to mislead the Jews of the town regarding their ultimate fate?
 
-**A.**Yes. When the deportations began, a Gestapo officer said to me - I will use his actual words in German: "Ihr lebt ja hier wie die Schweine, Ihr werdet nach Deutschland ueberfuehrt, wo Ihr in normalen Verhaeltnissen leben werdet mit Euren Familien." (You are indeed living here like pigs; you will be transferred to Germany, and there you will lead a normal life; you will be transferred with your families). And then he said: "Ihr werdet dort arbeiten" (You will work there).
+**A.**Yes. When the deportations began, a [[ORGANIZATION:org_344|Gestapo]] officer said to me - I will use his actual words in German: "Ihr lebt ja hier wie die Schweine, Ihr werdet nach Deutschland ueberfuehrt, wo Ihr in normalen Verhaeltnissen leben werdet mit Euren Familien." (You are indeed living here like pigs; you will be transferred to [[LOCATION:location_2|Germany]], and there you will lead a normal life; you will be transferred with your families). And then he said: "Ihr werdet dort arbeiten" (You will work there).
 
 **Q.**Can you tell the Court about a false order which appeared to show some concern for Jewish education?
 
-**A.**Yes. Once we received a letter from the Gestapo. The Ghetto Committee received the letter through the Council, which stated that it was not good for the children to be wandering about the ghetto area without studying the Torah or receiving an appropriate religious education. Therefore they gave us an order to see to it that the children studied. I was given the letter for my attention. I did not understand - and I was unable to understand - the purpose of the letter.
+**A.**Yes. Once we received a letter from the [[ORGANIZATION:org_344|Gestapo]]. The Ghetto Committee received the letter through the Council, which stated that it was not good for the children to be wandering about the ghetto area without studying the Torah or receiving an appropriate religious education. Therefore they gave us an order to see to it that the children studied. I was given the letter for my attention. I did not understand - and I was unable to understand - the purpose of the letter.
 
 **Presiding Judge:** In what capacity did you receive this letter?
 
-**Witness Foeldi:** I was one of three former officers of the Austro-Hungarian and Czech army, and the three of us were charged with organizing and attending to the fair distribution of food, etc., and also with keeping order, as far as it was in our power. I received this letter and I did not understand the Gestapo's concern for the Jewish education of the children.
+**Witness Foeldi:** I was one of three former officers of the Austro-Hungarian and Czech army, and the three of us were charged with organizing and attending to the fair distribution of food, etc., and also with keeping order, as far as it was in our power. I received this letter and I did not understand the [[ORGANIZATION:org_344|Gestapo]]'s concern for the Jewish education of the children.
 
-But, anyhow, I asked the Rabbis who were in the ghetto to attend a meeting. There I read out the letter. The senior Rabbi suggested that we send our thanks to the Gestapo for its concern and request authority to send a number of men to the synagogue where we could take out the books which would enable us to provide for education and studies. We never received any reply or reaction.
+But, anyhow, I asked the Rabbis who were in the ghetto to attend a meeting. There I read out the letter. The senior Rabbi suggested that we send our thanks to the [[ORGANIZATION:org_344|Gestapo]] for its concern and request authority to send a number of men to the synagogue where we could take out the books which would enable us to provide for education and studies. We never received any reply or reaction.
 
-**State Attorney Bach:** Did you ever see in this place, in Uzhgorod, the officer Marton Zoeldi?
+**State Attorney Bach:** Did you ever see in this place, in [[LOCATION:location_269|Uzhgorod]], the officer Marton Zoeldi?
 
 **Witness Foeldi:** Yes.
 
 **Q.**Perhaps you would tell the Court, who was Marton Zoeldi?
 
-**A.**He was an officer of the Hungarian gendarmerie. In 1942, when there were the riots in Subotica, and it became known throughout the world that 4,000 Jews were killed there, he was the prime mover of this whole operation. Subsequently, when an end was put to this whole campaign in Subotica, he fled to Germany and joined the Gestapo. On one occasion we heard in the Uzhgorod Ghetto that Marton Zoeldi would be coming. I was alone in the office when he walked in and moved around. Suddenly he asked me: "What is your name?" I told him: Martin Foeldi." He gave me a slap in the face and said: "How dare you have such a name when there is a difference of only one letter between my name and yours - my name is Marton Zoeldi and you are Martin Foeldi?" That is how it began. This was the first time my face was slapped since I became an adult.
+**A.**He was an officer of the Hungarian gendarmerie. In 1942, when there were the riots in Subotica, and it became known throughout the world that 4,000 Jews were killed there, he was the prime mover of this whole operation. Subsequently, when an end was put to this whole campaign in Subotica, he fled to [[LOCATION:location_2|Germany]] and joined the [[ORGANIZATION:org_344|Gestapo]]. On one occasion we heard in the [[LOCATION:location_269|Uzhgorod]] Ghetto that Marton Zoeldi would be coming. I was alone in the office when he walked in and moved around. Suddenly he asked me: "What is your name?" I told him: Martin Foeldi." He gave me a slap in the face and said: "How dare you have such a name when there is a difference of only one letter between my name and yours - my name is Marton Zoeldi and you are Martin Foeldi?" That is how it began. This was the first time my face was slapped since I became an adult.
 
 **Q.**How did the presence of Zoeldi affect the manner of the deportations?
 
 **A.**It had an adverse effect. Even prior to this the arrangements were not good, and no deportation was carried out without acts of cruelty. But after he had been there a day or two, everybody was afraid of him, including the officers of the Hungarian Police. We felt that they feared him.
 
-**Q.**Do you know anything about Zoeldi's function within the Gestapo?
+**Q.**Do you know anything about Zoeldi's function within the [[ORGANIZATION:org_344|Gestapo]]?
 
 **A.**No.
 
@@ -127,7 +127,7 @@ But, anyhow, I asked the Rabbis who were in the ghetto to attend a meeting. Ther
 
 **Witness Foeldi:** Yes, but he fled after the riots.
 
-**State Attorney Bach:** He added that he subsequently joined the Gestapo.
+**State Attorney Bach:** He added that he subsequently joined the [[ORGANIZATION:org_344|Gestapo]].
 
 **Presiding Judge:** Was he in uniform?
 
@@ -137,7 +137,7 @@ But, anyhow, I asked the Rabbis who were in the ghetto to attend a meeting. Ther
 
 **A.**In the uniform of the German army.
 
-**State Attorney Bach:** When did the deportations in Uzhgorod begin?
+**State Attorney Bach:** When did the deportations in [[LOCATION:location_269|Uzhgorod]] begin?
 
 **Witness Foeldi:** Approximately on 14 April 1944, or 20 April.
 
@@ -203,19 +203,19 @@ But, anyhow, I asked the Rabbis who were in the ghetto to attend a meeting. Ther
 
 **Q.**Where were you transported to?
 
-**A.**We went via Csap and Kosice. At Kosice we knew that we were on the border between Slovakia and Hungary. And we knew that from that point onwards we would know that if we went to the right after Kosice this would mean that we were going to the east, to Poland. If we continued in a straight line we believed we would remain inside Czechoslovakian territory.
+**A.**We went via Csap and [[LOCATION:location_265|Kosice]]. At [[LOCATION:location_265|Kosice]] we knew that we were on the border between [[LOCATION:location_84|Slovakia]] and [[LOCATION:location_24|Hungary]]. And we knew that from that point onwards we would know that if we went to the right after [[LOCATION:location_265|Kosice]] this would mean that we were going to the east, to [[LOCATION:location_5|Poland]]. If we continued in a straight line we believed we would remain inside Czechoslovakian territory.
 
 **Q.**In fact, where did you go?
 
-**A.**We travelled to Auschwitz via Obysovce-Presov.
+**A.**We travelled to [[LOCATION:location_286|Auschwitz]] via Obysovce-Presov.
 
-**Q.**When you arrived at Auschwitz, did someone in a certain conversation want to tell you what was happening in Auschwitz?
+**Q.**When you arrived at [[LOCATION:location_286|Auschwitz]], did someone in a certain conversation want to tell you what was happening in [[LOCATION:location_286|Auschwitz]]?
 
 **A.**When I arrived?
 
 **A.**Yes, or shortly before that. I am referring to a particular encounter when someone wanted to tell you what was happening there.
 
-**A.**The moment we reached Auschwitz some people came in - we did not know who they were for we had never seen uniforms such as theirs. We were given an order to get down, but quickly, and to leave all our effects and belongings inside the freight-car.
+**A.**The moment we reached [[LOCATION:location_286|Auschwitz]] some people came in - we did not know who they were for we had never seen uniforms such as theirs. We were given an order to get down, but quickly, and to leave all our effects and belongings inside the freight-car.
 
 We alighted and it was in such a hurried manner and at such a fast pace that we did not realize what was happening. They said to us that the men should stand on the right side with children over the age of 14, and the women on the left with the young boys and girls. They, the women began walking while we were still standing, and suddenly they were almost completely out of view.
 
@@ -227,9 +227,9 @@ After that I went on walking to the right and I saw how the boy was running. I w
 
 **A.**I noticed that also amongst the women they made some kind of division. The younger women were walking separately without boys or girls, and the older women walked in a separate group. After the event we heard of a case where "Haeftlinge" (detainees) the old hands, if I may call them that, came along. It happened occasionally that one of them would say to a young woman: "Give the child to granny and you go to work." There were individual instances of this kind - a cousin of mine also handed over her boy and girl to a grandmother and went to work, but she was killed there.
 
-**Q.**Dr. Foeldi, how long were you in Auschwitz?
+**Q.**Dr. Foeldi, how long were you in [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I was in Auschwitz for only ten days.
+**A.**I was in [[LOCATION:location_286|Auschwitz]] for only ten days.
 
 **Q.**While you were there, can you tell the Court something about the postcards which you were obliged to write?
 
@@ -241,7 +241,7 @@ After that I went on walking to the right and I saw how the boy was running. I w
 
 **Q.**What did they tell you to write on this postcard?
 
-**A.**I do not remember it word for word, but it was more or less as follows: "I am at my ease and I am going out to work. I am feeling well." I do not remember the postcard exactly, but I subsequently found in my sister's possession the card I had sent her in Budapest.
+**A.**I do not remember it word for word, but it was more or less as follows: "I am at my ease and I am going out to work. I am feeling well." I do not remember the postcard exactly, but I subsequently found in my sister's possession the card I had sent her in [[LOCATION:location_31|Budapest]].
 
 **Q.**Did they tell you to write the name of the place where you were?
 
@@ -249,11 +249,11 @@ After that I went on walking to the right and I saw how the boy was running. I w
 
 **Q.**You received a postcard from Waldsee. What did you think of that?
 
-**A.**We began searching for the place and found some resort place by that name in Austria.
+**A.**We began searching for the place and found some resort place by that name in [[LOCATION:location_14|Austria]].
 
 **Q.**How did the receipt of these postcards at the time effect you?
 
-**A.**That put our minds at ease. We thought, at any rate, that they were well and, secondly, that this was a wonderful place in Austria - so we thought.
+**A.**That put our minds at ease. We thought, at any rate, that they were well and, secondly, that this was a wonderful place in [[LOCATION:location_14|Austria]] - so we thought.
 
 **Q.**Dr. Foeldi, can you identify this postcard? [Hands a postcard to the witness].
 
@@ -265,7 +265,7 @@ After that I went on walking to the right and I saw how the boy was running. I w
 
 **Q.**And to whom did you send this postcard?
 
-**A.**To my sister in Budapest.
+**A.**To my sister in [[LOCATION:location_31|Budapest]].
 
 **Q.**And afterwards did she return this postcard to you, and is that why you have it in your possession?
 
@@ -286,9 +286,9 @@ What name did you sign?
 **Witness Foeldi:** Word by word.
 ---
 
-**Q.**One further question - my last - Dr. Foeldi. At the time the Jews were being loaded on to the trains at Uzhgorod, did you notice, at the time, Germans of the Gestapo or the SS as well?
+**Q.**One further question - my last - Dr. Foeldi. At the time the Jews were being loaded on to the trains at [[LOCATION:location_269|Uzhgorod]], did you notice, at the time, Germans of the [[ORGANIZATION:org_344|Gestapo]] or the SS as well?
 
-**A.**Yes, they were there at the railway station, between the rails and the station; they were standing and watching and actively participated, I would say. They got hold of one who had not reported, they arrested him in the town and brought him to the railway station, and one of the Gestapo men beat him up.
+**A.**Yes, they were there at the railway station, between the rails and the station; they were standing and watching and actively participated, I would say. They got hold of one who had not reported, they arrested him in the town and brought him to the railway station, and one of the [[ORGANIZATION:org_344|Gestapo]] men beat him up.
 
 **State Attorney Bach:** Thank you very much.
 
@@ -300,7 +300,7 @@ What name did you sign?
 
 **Q.**Did I understand correctly that he was the liaison officer to the Eichmann Kommando?
 
-**A.**I did not say that. What I said was that I got to know subsequently that he fled from the Hungarian gendarmerie and went over to the German army already before the occupation of Hungary.
+**A.**I did not say that. What I said was that I got to know subsequently that he fled from the Hungarian gendarmerie and went over to the German army already before the occupation of [[LOCATION:location_24|Hungary]].
 
 **Q.**Do you know the name Ferenczy?
 
@@ -326,19 +326,19 @@ What name did you sign?
 
 **Judge Halevi:** You said that, as was well-known, 4,000 Jews were killed in Sobotica. Perhaps you would tell us about it briefly, for nevertheless here not everybody knows, in which year and by whom?
 
-**Witness Foeldi:** As far as I know, it was in 1942. The place was a military zone. Acting on their own, the army and members of the gendarmerie initiated an operation, rounded up Jews, killed them and threw them into the Danube.
+**Witness Foeldi:** As far as I know, it was in 1942. The place was a military zone. Acting on their own, the army and members of the gendarmerie initiated an operation, rounded up Jews, killed them and threw them into the [[LOCATION:location_110|Danube]].
 
-**Q.**Was this in Hungary or outside its borders?
+**Q.**Was this in [[LOCATION:location_24|Hungary]] or outside its borders?
 
-**A.**It was within the borders of Hungary, but without the government's knowledge. The government intervened only with difficulty, for they cut all communications with Budapest, the telephone and telegraph lines, and by the time the matter had become known in Budapest, several thousands had already been killed.
+**A.**It was within the borders of [[LOCATION:location_24|Hungary]], but without the government's knowledge. The government intervened only with difficulty, for they cut all communications with [[LOCATION:location_31|Budapest]], the telephone and telegraph lines, and by the time the matter had become known in [[LOCATION:location_31|Budapest]], several thousands had already been killed.
 
 **Q.**Did you say that this Zoeldi took part?
 
 **A.**He was one of the most active and cruel.
 
-**Q.**And after that he fled to Germany, you say?
+**Q.**And after that he fled to [[LOCATION:location_2|Germany]], you say?
 
-**A.**So we heard, for they were looking for him and wanted to bring him to trial. And we heard that he had fled to Germany and joined the service of the Gestapo.
+**A.**So we heard, for they were looking for him and wanted to bring him to trial. And we heard that he had fled to [[LOCATION:location_2|Germany]] and joined the service of the [[ORGANIZATION:org_344|Gestapo]].
 
 **Q.**And you saw him again in the ghetto as an officer of the Hungarian gendarmerie?
 
@@ -352,11 +352,11 @@ What name did you sign?
 
 **A.**Yes. And subsequently, as far as I remember, all of us left together with all the members of the Council on the last transport.
 
-**Presiding Judge:** The dates were not so clear to me. The date you gave for the ghettoization - was that after the occupation of Hungary by the Germans?
+**Presiding Judge:** The dates were not so clear to me. The date you gave for the ghettoization - was that after the occupation of [[LOCATION:location_24|Hungary]] by the Germans?
 
 **Witness Foeldi:** Yes. It was after 19 March 1944.
 
-**Q.**What was the situation, prior to that, in Carpatho- Russia?
+**Q.**What was the situation, prior to that, in [[LOCATION:location_270|Carpatho]]- [[LOCATION:location_10|Russia]]?
 
 **A.**Until that time the position was not bad, relatively, except for a section of the border where they began the evacuation a little earlier, but we did not see anything exceptional in this, since, with the approach of the Russian army, we thought that the citizens - and first and foremost the Jews - were afraid and therefore these people were moved away from the border.
 
@@ -370,7 +370,7 @@ What name did you sign?
 
 **Presiding Judge:** Please make them briefly since, generally speaking, we do not allow this.
 
-**Witness Foeldi:** Yes, I understand the position, but in order to complete the picture, the first question, which, in fact, Your Honour the Presiding Judge, has already asked, relates to the fact that the Russian army was on the border - 100 kilometres from Uzhgorod, and this affected the morale. We listened practically every day to the Czech radio which kept on saying: "Stand firm, we are 100 kilometres away." We thought that the Russians were likely to enter our zone any morning. That is the first remark.
+**Witness Foeldi:** Yes, I understand the position, but in order to complete the picture, the first question, which, in fact, Your Honour the Presiding Judge, has already asked, relates to the fact that the Russian army was on the border - 100 kilometres from [[LOCATION:location_269|Uzhgorod]], and this affected the morale. We listened practically every day to the Czech radio which kept on saying: "Stand firm, we are 100 kilometres away." We thought that the Russians were likely to enter our zone any morning. That is the first remark.
 
 The second remark: Perhaps the question of revolt can be raised.
 

@@ -1,4 +1,4 @@
-# Testimony of Adolf Engelstein
+# Testimony of [[PERSON:witness_3|Adolf Engelstein]]
 
 **Session:** 45
 
@@ -6,13 +6,13 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Adolf Engelstein.
+**Witness:** [[PERSON:witness_3|Adolf Engelstein]].
 
 **State Attorney Bar-Or:** Mr. Engelstein, you were born in 1903?
 
 **Witness Engelstein:** Yes.
 
-**Q.**In Czechoslovakia?
+**Q.**In [[LOCATION:location_15|Czechoslovakia]]?
 
 **A.**Yes. In Stonova, a town near Ostrava.
 
@@ -26,11 +26,11 @@
 
 **Q.**Where were you living at the beginning of the War, from 1939 on?
 
-**A.**In Moravia.
+**A.**In [[LOCATION:location_89|Moravia]].
 
 **Q.**What were you doing there?
 
-**A.**I was a director, an engineer in the construction of a railway in Moravia.
+**A.**I was a director, an engineer in the construction of a railway in [[LOCATION:location_89|Moravia]].
 
 **Q.**Until when did this work continue?
 
@@ -44,7 +44,7 @@
 
 **Witness Engelstein:** That is to say, the company...and I had to work as an unskilled labourer on various jobs in that town.
 
-**State Attorney Bar-Or:** In the end you came to Theresienstadt, did you not?
+**State Attorney Bar-Or:** In the end you came to [[LOCATION:location_124|Theresienstadt]], did you not?
 
 **Witness Engelstein:** Yes.
 
@@ -52,17 +52,17 @@
 
 **A.**That was on 23 January 1943.
 
-**Q.**You remained in Theresienstadt till when?
+**Q.**You remained in [[LOCATION:location_124|Theresienstadt]] till when?
 
-**A.**I remained in Theresienstadt until 1 March 1944.
+**A.**I remained in [[LOCATION:location_124|Theresienstadt]] until 1 March 1944.
 
 **Q.**What work were you employed in during this period?
 
 **A.**All kinds of jobs. First of all, as a new immigrant - this is what they used to say there - also I was employed on all kinds of unskilled jobs. I was an unskilled labourer in the Sanitation Department, I worked in sewerage and other jobs of this kind. After a while, I think it was three months later, I was transferred to the technical department and employed as an engineer. We did not do much building there, but I was occupied designing huts and various small projects.
 
-**Q.**Within the Theresienstadt camp?
+**Q.**Within the [[LOCATION:location_245|Theresienstadt camp]]?
 
-**A.**Yes, within the Theresienstadt camp.
+**A.**Yes, within the [[LOCATION:location_245|Theresienstadt camp]].
 
 **Q.**You remained in this job until 28 February 1944?
 
@@ -70,15 +70,15 @@
 
 **Q.**What happened on that day?
 
-**A.**On that day it was my task to supervise the loading of building materials, huts, and all kinds of things, which were to be sent to Germany with some transport. This is what I heard. By ten o'clock at night I was feeling unwell outside, and I told my colleague that I was going to sleep, and that he should take over the job and supervise these things. At midnight, at 12 o'clock exactly, I received word from the secretary of the technical department that I was to come to his office.
+**A.**On that day it was my task to supervise the loading of building materials, huts, and all kinds of things, which were to be sent to [[LOCATION:location_2|Germany]] with some transport. This is what I heard. By ten o'clock at night I was feeling unwell outside, and I told my colleague that I was going to sleep, and that he should take over the job and supervise these things. At midnight, at 12 o'clock exactly, I received word from the secretary of the technical department that I was to come to his office.
 
 **Q.**Who was this?
 
-**A.**He was a man by the name of Sussmann. There I was told that I was to join a transport - they called it "Sossen" - of 200 people at 7.30 the next morning, going to a new job in Germany.
+**A.**He was a man by the name of Sussmann. There I was told that I was to join a transport - they called it "Sossen" - of 200 people at 7.30 the next morning, going to a new job in [[LOCATION:location_2|Germany]].
 
 **Presiding Judge:** What does "Sossen" mean?
 
-**Witness Engelstein:** That was a name. I do not know whether they called it Sossen with any particular purpose in mind, but later on I learned that this was some village in Germany, south of Berlin.
+**Witness Engelstein:** That was a name. I do not know whether they called it Sossen with any particular purpose in mind, but later on I learned that this was some village in [[LOCATION:location_2|Germany]], south of [[LOCATION:location_1|Berlin]].
 
 **State Attorney Bar-Or:** Close to which town? What is the nearest town?
 
@@ -90,7 +90,7 @@
 
 **Q.**Mr. Engelstein, we have now reached at 1 March 1944. What happened on that day?
 
-**A.**In the morning we reported at the train. We sat in ordinary carriages. There were freight carriages also. I do not know how many. We took sixteen huts with us to Germany which we had dismantled in Theresienstadt. We left about 9 or 10 o'clock in the morning from Theresienstadt for Germany in the direction of Dresden and Frankfurt an der Oder.
+**A.**In the morning we reported at the train. We sat in ordinary carriages. There were freight carriages also. I do not know how many. We took sixteen huts with us to [[LOCATION:location_2|Germany]] which we had dismantled in [[LOCATION:location_124|Theresienstadt]]. We left about 9 or 10 o'clock in the morning from [[LOCATION:location_124|Theresienstadt]] for [[LOCATION:location_2|Germany]] in the direction of [[LOCATION:location_179|Dresden]] and [[LOCATION:location_98|Frankfurt]] an der Oder.
 
 **Q.**Were you accompanied?
 
@@ -102,7 +102,7 @@
 
 **Q.**Did you recognize them, or any one of them?
 
-**A.**I think I recognized one of the SS officers afterwards, when I came back to Theresienstadt; that was Bergel, the deputy of the camp commandant. The other one, I think, was Moes, a short officer, small.
+**A.**I think I recognized one of the SS officers afterwards, when I came back to [[LOCATION:location_124|Theresienstadt]]; that was Bergel, the deputy of the camp commandant. The other one, I think, was Moes, a short officer, small.
 
 **Q.**Not tall?
 
@@ -129,7 +129,7 @@
 
 **Q.**Two hundred people?
 
-**A.**Yes, two hundred people. The next morning we arrived at the last station - Trebenitz - between Berlin and Kuestrin. From there one group walked on foot along the road, and we came to a village by the name of Wulkov which was next to the forest. We entered the forest and immediately began to unload the timber for one hut. I had to give the measurements, the heights, and meanwhile the lorries arrived with the material, the huts and the parts, and we began to work.
+**A.**Yes, two hundred people. The next morning we arrived at the last station - Trebenitz - between [[LOCATION:location_1|Berlin]] and Kuestrin. From there one group walked on foot along the road, and we came to a village by the name of Wulkov which was next to the forest. We entered the forest and immediately began to unload the timber for one hut. I had to give the measurements, the heights, and meanwhile the lorries arrived with the material, the huts and the parts, and we began to work.
 
 **Q.**On the construction of your hut as well?
 
@@ -149,7 +149,7 @@
 
 **Q.**Where did the food come from?
 
-**A.**The food came from Theresienstadt, one railway carriage every two weeks. We were given bread, potatoes, margarine, sugar, sausages and tinned goods. We were given food, and the work proceeded normally. Until one day, I do not remember exactly when, the situation in the camp changed for the worse. Something happened then. I do not know whether it started at that time, or earlier or later. We had three work places during the course of time. If I start with the road which traversed the forest, we worked at first to the right of this road, I do not know which side that was. When we started to work, the place was not fenced in. We were free, there were SS men there.
+**A.**The food came from [[LOCATION:location_124|Theresienstadt]], one railway carriage every two weeks. We were given bread, potatoes, margarine, sugar, sausages and tinned goods. We were given food, and the work proceeded normally. Until one day, I do not remember exactly when, the situation in the camp changed for the worse. Something happened then. I do not know whether it started at that time, or earlier or later. We had three work places during the course of time. If I start with the road which traversed the forest, we worked at first to the right of this road, I do not know which side that was. When we started to work, the place was not fenced in. We were free, there were SS men there.
 
 **Q.**How many men?
 
@@ -161,11 +161,11 @@
 
 **Q.**And at the end?
 
-**A.**At the end there were fifty SS men for 240 or 250 persons. Two Jews escaped at that time from the place, and this was perhaps the reason for the situation getting worse after that. We were beaten, we did not get enough food. At one time we were given food, at another time not. During the first three months we had been allowed to write to our families in Theresienstadt, and we also received letters from there.
+**A.**At the end there were fifty SS men for 240 or 250 persons. Two Jews escaped at that time from the place, and this was perhaps the reason for the situation getting worse after that. We were beaten, we did not get enough food. At one time we were given food, at another time not. During the first three months we had been allowed to write to our families in [[LOCATION:location_124|Theresienstadt]], and we also received letters from there.
 
 **Q.**Were the letters delivered to you?
 
-**A.**During the first three months the letters were delivered to us. After this we wrote, but the letters did not arrive in Theresienstadt at all. They wrote to us, but we did not receive the letters. Stuschke showed us the letters which had arrived for us and said: "Here are the letters, but you will never get them, and you will not see anybody from there." When the huts were up, we built lavatories, sewers, telephone and electricity lines. It became a whole town.
+**A.**During the first three months the letters were delivered to us. After this we wrote, but the letters did not arrive in [[LOCATION:location_124|Theresienstadt]] at all. They wrote to us, but we did not receive the letters. Stuschke showed us the letters which had arrived for us and said: "Here are the letters, but you will never get them, and you will not see anybody from there." When the huts were up, we built lavatories, sewers, telephone and electricity lines. It became a whole town.
 
 **Q.**Perhaps you will tell the Court what was the actual plan, what was supposed to be built, and what was built.
 
@@ -183,19 +183,19 @@ There was one thing from which I myself suffered very much. We had built a water
 
 **Q.**Where were the people sent to?
 
-**A.**Back to Theresienstadt, but we never saw them alive again. That is to say, they went to Theresienstadt with instructions for deportations to the East. For example, Kirschner, the technician, who had been responsible for various jobs, was also sent away, and we did not see him again. This went on all the time. The last big transport was in July-August.
+**A.**Back to [[LOCATION:location_124|Theresienstadt]], but we never saw them alive again. That is to say, they went to [[LOCATION:location_124|Theresienstadt]] with instructions for deportations to the East. For example, Kirschner, the technician, who had been responsible for various jobs, was also sent away, and we did not see him again. This went on all the time. The last big transport was in July-August.
 
 **Q.**Were there only men?
 
 **A.**No. Twenty-five women arrived later.
 
-**Q.**Also from Theresienstadt?
+**Q.**Also from [[LOCATION:location_124|Theresienstadt]]?
 
-**A.**Yes, all from Theresienstadt. And then, in July-August we were about 265 people there, including the women, and 215 of us returned from there. The other 45 were sent to extermination camps directly from this place.
+**A.**Yes, all from [[LOCATION:location_124|Theresienstadt]]. And then, in July-August we were about 265 people there, including the women, and 215 of us returned from there. The other 45 were sent to extermination camps directly from this place.
 
 **Q.**Did you manage in the end to put up the buildings as planned by the Accused?
 
-**A.**We did build them. Then we moved to a location opposite the big forest, and we also put up huts there. On one side there were finished huts, but we saw no movement there, we did not know whether anybody came there from the Berlin office.
+**A.**We did build them. Then we moved to a location opposite the big forest, and we also put up huts there. On one side there were finished huts, but we saw no movement there, we did not know whether anybody came there from the [[LOCATION:location_1|Berlin]] office.
 
 **Q.**What was constructed there, finally? Perhaps you will mention the number of huts, the number of rooms?
 
@@ -217,7 +217,7 @@ There was one thing from which I myself suffered very much. We had built a water
 
 **A.**I assume that in each such hut there might be twelve to fifteen rooms on either side, that is twenty-five to thirty rooms in each hut. In each room - I do not know how they were sitting - there might be two people or four. I assume that some 2,000 persons could be accommodated there in all the huts.
 
-**Q.**Do you remember something special in connection with the women who came from Theresienstadt?
+**Q.**Do you remember something special in connection with the women who came from [[LOCATION:location_124|Theresienstadt]]?
 
 **A.**They worked very hard.
 
@@ -229,7 +229,7 @@ There was one thing from which I myself suffered very much. We had built a water
 
 **A.**For the construction.
 
-**Q.**What happened about the food sent from Theresienstadt during this second period?
+**Q.**What happened about the food sent from [[LOCATION:location_124|Theresienstadt]] during this second period?
 
 **A.**During the second period, when we were on the other side, it was very bad.
 
@@ -239,7 +239,7 @@ There was one thing from which I myself suffered very much. We had built a water
 
 Nevertheless we produced something, and I took it to Stuschke to his office. Scharfuehrer Hanke was there. I showed them what we had done, and he said: "Good, alright." And we discussed what was needed for this, iron for the rings and thick rope. And in the same manner as I am talking now, we talked about how to hang people. Finally he said to me: "Everything is alright, I accept this. Take your carpenters, and by tomorrow at 1.30 I want to see the scaffold." What kind of scaffold was this supposed to be? It was to be built in sections, so that it could be moved from place to place. We did not know exactly what was meant, but an order is an order.
 
-At 6 o'clock in the morning, I took eight carpenters, and we built the sections from the timber that was in the forest. We made the preparations, but I realized that I would not be ready by 1 o'clock. I had to go and report this, otherwise there would be trouble, so I went to Stuschke and told him. He received me well and asked me: "When will you finish?," and I said: "Perhaps at 3 o'clock." We finished and tested the thing, and I went to inform Stuschke. But he did not come and did not look at it, and it was left lying next to our hut. But I cannot forget the feeling we had while we were building it. One of the carpenters who worked with us on the construction then, whom I know here [in Israel]asked me: "Do you remember how we built that scaffold?"
+At 6 o'clock in the morning, I took eight carpenters, and we built the sections from the timber that was in the forest. We made the preparations, but I realized that I would not be ready by 1 o'clock. I had to go and report this, otherwise there would be trouble, so I went to Stuschke and told him. He received me well and asked me: "When will you finish?," and I said: "Perhaps at 3 o'clock." We finished and tested the thing, and I went to inform Stuschke. But he did not come and did not look at it, and it was left lying next to our hut. But I cannot forget the feeling we had while we were building it. One of the carpenters who worked with us on the construction then, whom I know here [in [[LOCATION:location_38|Israel]]]asked me: "Do you remember how we built that scaffold?"
 
 Of all those experiences, this was something special.
 
@@ -247,7 +247,7 @@ Of all those experiences, this was something special.
 
 **A.**Yes, at the end of the year we did not get enough food at all.
 
-**Q.**Did the consignments from Theresienstadt stop?
+**Q.**Did the consignments from [[LOCATION:location_124|Theresienstadt]] stop?
 
 **A.**No, they did not stop.
 
@@ -263,7 +263,7 @@ Of all those experiences, this was something special.
 
 **A.**They told us that this building was for the Fuehrer. This is what they said. When we were walking in the fields, we would sometimes find potatoes. If the SS guards were not looking, we would take them and eat them raw, as they were.
 
-**Q.**Mr. Engelstein, did you return to Theresienstadt about 10 February 1945?
+**Q.**Mr. Engelstein, did you return to [[LOCATION:location_124|Theresienstadt]] about 10 February 1945?
 
 **A.**Already on 1 February we did not leave the huts.
 
@@ -281,7 +281,7 @@ Of all those experiences, this was something special.
 
 **Q.**For how long did you stand there?
 
-**A.**We stood there till 8, 9 o'clock, when the Scharfuehrers came. We did not know what would become of us. We told them: "Euch ist es schon gut, Ihr geht nach Hause. Aber was wird mit uns geschehen?" (For you it is alright, you are going home, but what will become of us?) We thought the road to Theresienstadt was short - this was then our home. At 12 o'clock at night Stuschke came with his assistants. He had with him a gun, a revolver, hand grenades, and I do not know what other equipment. He told us: "We are going on to another job, similar to the one we did here." At midnight we set out on foot and walked the same road back to Trebnitz railway station.
+**A.**We stood there till 8, 9 o'clock, when the Scharfuehrers came. We did not know what would become of us. We told them: "Euch ist es schon gut, Ihr geht nach Hause. Aber was wird mit uns geschehen?" (For you it is alright, you are going home, but what will become of us?) We thought the road to [[LOCATION:location_124|Theresienstadt]] was short - this was then our home. At 12 o'clock at night Stuschke came with his assistants. He had with him a gun, a revolver, hand grenades, and I do not know what other equipment. He told us: "We are going on to another job, similar to the one we did here." At midnight we set out on foot and walked the same road back to Trebnitz railway station.
 
 **Q.**There was no train?
 
@@ -289,21 +289,21 @@ Of all those experiences, this was something special.
 
 **Q.**Did you get on it?
 
-**A.**We got onto covered freight waggons. There were three waggons, on each waggon there were four SS people. We left in the morning, about 6 o'clock, and at 10.15 we had arrived almost at the outskirts of Berlin. At that moment Berlin was being bombed from the air. We stood for about an hour and a quarter and saw everything that was happening there. Later it became known that the railway track had already been smashed by the bombs.
+**A.**We got onto covered freight waggons. There were three waggons, on each waggon there were four SS people. We left in the morning, about 6 o'clock, and at 10.15 we had arrived almost at the outskirts of [[LOCATION:location_1|Berlin]]. At that moment [[LOCATION:location_1|Berlin]] was being bombed from the air. We stood for about an hour and a quarter and saw everything that was happening there. Later it became known that the railway track had already been smashed by the bombs.
 
 **Q.**And it was impossible to go on?
 
-**A.**It was impossible to go further. We turned back. I had not known Berlin before. I had never been in Berlin before the War, but there were workers from Germany and from Vienna who knew the region, and they told us, we are going South through Thuringia, along the River Saale. We passed Merseburg, and further south we came as far as Wuerzburg. This was the fourth day without food, without anything. We did not know what would happen. One man said, there is a concentration camp there. One man said it is good there, another said, it is bad.
+**A.**It was impossible to go further. We turned back. I had not known [[LOCATION:location_1|Berlin]] before. I had never been in [[LOCATION:location_1|Berlin]] before the War, but there were workers from [[LOCATION:location_2|Germany]] and from [[LOCATION:location_3|Vienna]] who knew the region, and they told us, we are going South through Thuringia, along the River Saale. We passed Merseburg, and further south we came as far as [[LOCATION:location_70|Wuerzburg]]. This was the fourth day without food, without anything. We did not know what would happen. One man said, there is a concentration camp there. One man said it is good there, another said, it is bad.
 
-We arrived in Wuerzburg and were taken off the train. Facing us were German soldiers who had also been in freight waggons, they were apparently going north. There, for the first time, I heard the name "Judenjaeger" (Jew hunters) applied to these SS men.
+We arrived in [[LOCATION:location_70|Wuerzburg]] and were taken off the train. Facing us were German soldiers who had also been in freight waggons, they were apparently going north. There, for the first time, I heard the name "Judenjaeger" (Jew hunters) applied to these SS men.
 
 **Q.**Who said that?
 
 **A.**The German soldiers said it about the SS. We were Jews wearing the sign...
 
-**Q.**Were you dressed in the Sossen camp as in the Theresienstadt camp in ordinary clothes with the Jewish sign on your breast?
+**Q.**Were you dressed in the Sossen camp as in the [[LOCATION:location_245|Theresienstadt camp]] in ordinary clothes with the Jewish sign on your breast?
 
-**A.**Yes. We stood there, not knowing what... At that moment there was also a bomb attack on Wuerzburg. Suddenly a freight train came and we boarded it. I do not know who was the first to find out that we are going back to Theresienstadt. We returned via Nuremberg, Pilsen and Prague to Theresienstadt, after nine days.
+**A.**Yes. We stood there, not knowing what... At that moment there was also a bomb attack on [[LOCATION:location_70|Wuerzburg]]. Suddenly a freight train came and we boarded it. I do not know who was the first to find out that we are going back to [[LOCATION:location_124|Theresienstadt]]. We returned via [[LOCATION:location_39|Nuremberg]], Pilsen and [[LOCATION:location_4|Prague]] to [[LOCATION:location_124|Theresienstadt]], after nine days.
 
 **Q.**What day did you arrive?
 
@@ -311,7 +311,7 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**Who interrogated you?
 
-**A.**The SS in Theresienstadt.
+**A.**The SS in [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Do you remember names of interrogators?
 
@@ -332,11 +332,11 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**Why do you mention Heindl?
 
-**A.**When we returned to Theresienstadt we were interrogated.
+**A.**When we returned to [[LOCATION:location_124|Theresienstadt]] we were interrogated.
 
 **Q.**What were you interrogated about?
 
-**A.**Whether we had brought anything from Germany, some newspapers.
+**A.**Whether we had brought anything from [[LOCATION:location_2|Germany]], some newspapers.
 
 **Q.**Did they examine your things?
 
@@ -344,7 +344,7 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Presiding Judge:** You meant "examine,"not "interrogate."
 
-**Witness Engelstein:** Yes, examined. Heindl was in this camp, in Sossen, with the transport. I asked him: "What will happen to us?" He said: "Be calm, you are in a good place here, you do not know what goes on in Theresienstadt." This is what he said.
+**Witness Engelstein:** Yes, examined. Heindl was in this camp, in Sossen, with the transport. I asked him: "What will happen to us?" He said: "Be calm, you are in a good place here, you do not know what goes on in [[LOCATION:location_124|Theresienstadt]]." This is what he said.
 
 **State Attorney Bar-Or:** Did he say this as soon as you arrived?
 
@@ -352,11 +352,11 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**But when did he say it? As soon as you came to the camp?
 
-**A.**No, in the middle of the year, when he brought another transport from Theresienstadt. He said: "You are well off, you do not know what goes on in Theresienstadt."
+**A.**No, in the middle of the year, when he brought another transport from [[LOCATION:location_124|Theresienstadt]]. He said: "You are well off, you do not know what goes on in [[LOCATION:location_124|Theresienstadt]]."
 
 **Q.**What happened at the end of February?
 
-**A.**We were in Theresienstadt.
+**A.**We were in [[LOCATION:location_124|Theresienstadt]].
 
 **Q.**Did you return to your work?
 
@@ -368,7 +368,7 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**You were given new instructions?
 
-**A.**I was instructed to work together with another engineer, Kolischer, and he explained things to me. The first day I was with him he took me to his deputy outside Theresienstadt to a place called the ravelin.
+**A.**I was instructed to work together with another engineer, Kolischer, and he explained things to me. The first day I was with him he took me to his deputy outside [[LOCATION:location_124|Theresienstadt]] to a place called the ravelin.
 
 **Q.**Explain to me now, as an engineer, what the ravelin was.
 
@@ -376,11 +376,11 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**Did you know the place well later on?
 
-**A.**This was from before Theresienstadt. There were still fortifications there. They were long corridors with openings.
+**A.**This was from before [[LOCATION:location_124|Theresienstadt]]. There were still fortifications there. They were long corridors with openings.
 
 **Q.**Was this subterranean?
 
-**A.**It was subterranean on one side. On the other side there was a long, deep trench between Theresienstadt and the ravelin.
+**A.**It was subterranean on one side. On the other side there was a long, deep trench between [[LOCATION:location_124|Theresienstadt]] and the ravelin.
 
 **Q.**A dry trench, without water?
 
@@ -404,7 +404,7 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**Your work had to be the sealing of the embrasures?
 
-**A.**Cleaning all those places, which had been there a hundred years, or hundreds of years, in Theresienstadt - I think Theresienstadt goes back to the eighteenth century - closing all the openings. From the long corridors short corridors branched off at the side. At the entrance there were cells, perhaps offices for the inspector. We tore down everything, all the walls. Only one open place remained, one room that was completely open, and we continued to work thus until the beginning of March.
+**A.**Cleaning all those places, which had been there a hundred years, or hundreds of years, in [[LOCATION:location_124|Theresienstadt]] - I think [[LOCATION:location_124|Theresienstadt]] goes back to the eighteenth century - closing all the openings. From the long corridors short corridors branched off at the side. At the entrance there were cells, perhaps offices for the inspector. We tore down everything, all the walls. Only one open place remained, one room that was completely open, and we continued to work thus until the beginning of March.
 
 **Q.**You said that you had to close these places. How were they to be closed?
 
@@ -448,15 +448,15 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **State Attorney Bar-Or:** Did this go all the way down to the floor of the corridor?
 
-**Witness Engelstein:** Yes. At that time I was living in a stable. The building in which we were housed in Theresienstadt had been a stable before the War.
+**Witness Engelstein:** Yes. At that time I was living in a stable. The building in which we were housed in [[LOCATION:location_124|Theresienstadt]] had been a stable before the War.
 
 **Q.**With whom were you living there?
 
-**A.**With eighty men. Among them there was the engineer Otto Belak, who now lives in Czechoslovakia. He was working with timber products, and he once brought me a drawing for doors which they had to make in the carpentry shop. On this it said expressly "gasdicht" (gas-tight). Then we understood that these were gas chambers.
+**A.**With eighty men. Among them there was the engineer Otto Belak, who now lives in [[LOCATION:location_15|Czechoslovakia]]. He was working with timber products, and he once brought me a drawing for doors which they had to make in the carpentry shop. On this it said expressly "gasdicht" (gas-tight). Then we understood that these were gas chambers.
 
 **Q.**What did you do?
 
-**A.**What did I do? I did not want to get into trouble. When I was in Germany, I saw that the Reich of a Thousand Years was already crumbling, and I wanted to get out of all this. I pretended to be sick and left work.
+**A.**What did I do? I did not want to get into trouble. When I was in [[LOCATION:location_2|Germany]], I saw that the Reich of a Thousand Years was already crumbling, and I wanted to get out of all this. I pretended to be sick and left work.
 
 **Q.**Did you want to leave the job?
 
@@ -464,9 +464,9 @@ We arrived in Wuerzburg and were taken off the train. Facing us were German sold
 
 **Q.**So you pretended to be sick?
 
-**A.**I pretended to be sick. I said I cannot go there any more. It was outdoor work from six in the morning until evening, while I was still there. There were also rumours inside Theresienstadt camp. This was at the end of February, beginning of March. There were rumours among the people, among the detainees, that those were gas chambers. Once, in the middle of the night, people were out in the street. SS Officer Rahm, the Camp Commandant, came with his assistants. I was not present, but I heard about all this. He told them: Be calm, it will not be so bad, etc.
+**A.**I pretended to be sick. I said I cannot go there any more. It was outdoor work from six in the morning until evening, while I was still there. There were also rumours inside [[LOCATION:location_245|Theresienstadt camp]]. This was at the end of February, beginning of March. There were rumours among the people, among the detainees, that those were gas chambers. Once, in the middle of the night, people were out in the street. SS Officer Rahm, the Camp Commandant, came with his assistants. I was not present, but I heard about all this. He told them: Be calm, it will not be so bad, etc.
 
-The next morning he called the head of the technical department to the ravelin, a man named Erich Cohn, who now lives in Prague. Camp Commandant Rahm said that he was the person who had passed on the rumours to the people in the camp that those were gas chambers. He beat him for half an hour. I was present. Some days later, I do not know whether it was a week or a few days - they stopped work in the ravelin altogether.
+The next morning he called the head of the technical department to the ravelin, a man named Erich Cohn, who now lives in [[LOCATION:location_4|Prague]]. Camp Commandant Rahm said that he was the person who had passed on the rumours to the people in the camp that those were gas chambers. He beat him for half an hour. I was present. Some days later, I do not know whether it was a week or a few days - they stopped work in the ravelin altogether.
 
 **Q.**When did they stop it?
 
@@ -480,9 +480,9 @@ The next morning he called the head of the technical department to the ravelin, 
 
 **A.**Yes.
 
-**Q.**Did you remain in Theresienstadt until the end?
+**Q.**Did you remain in [[LOCATION:location_124|Theresienstadt]] until the end?
 
-**A.**Until the end of the war, that is when the Russians arrived in Theresienstadt on the 9th of May. I left the place with my wife on 13 May 1945.
+**A.**Until the end of the war, that is when the Russians arrived in [[LOCATION:location_124|Theresienstadt]] on the 9th of May. I left the place with my wife on 13 May 1945.
 
 **Q.**Do you remember the first visit of a representative of the Red Cross at the end of March or in April 1945?
 
@@ -534,11 +534,11 @@ The next morning he called the head of the technical department to the ravelin, 
 
 **Q.**Were you afraid of something, or was it inconvenient?
 
-**A.**It was inconvenient. Furthermore, we knew that they would not be able to prolong the war and our work in Theresienstadt much longer. We were afraid, I was afraid that if I were to leave Theresienstadt, and if there were a revolution, I would not see my wife again. This is why I was not willing. I tried. I knew that it would not be so easy to get out of the transport, but I tried. However, in the end I went.
+**A.**It was inconvenient. Furthermore, we knew that they would not be able to prolong the war and our work in [[LOCATION:location_124|Theresienstadt]] much longer. We were afraid, I was afraid that if I were to leave [[LOCATION:location_124|Theresienstadt]], and if there were a revolution, I would not see my wife again. This is why I was not willing. I tried. I knew that it would not be so easy to get out of the transport, but I tried. However, in the end I went.
 
 **Q.**Before whom did you object?
 
-**A.**Before the head of the technical department in Theresienstadt, a Jew, not the SS.
+**A.**Before the head of the technical department in [[LOCATION:location_124|Theresienstadt]], a Jew, not the SS.
 
 **Q.**What was said about the earlier transports, where were they going?
 
@@ -582,9 +582,9 @@ The next morning he called the head of the technical department to the ravelin, 
 
 **Q.**When you were included in the Sossen transport, you said that you had no choice, that otherwise you would be sent to the East. Why were you afraid of the East?
 
-**A.**At that time we knew what was going on there, that people were being sent to gas chambers. In September 1943 a transport of 5,000 young Jews from Bohemia was sent off, all of them young people whom we knew. One woman succeeded in sending us a letter to Theresienstadt. She wrote what was happening there, what was going on in Auschwitz. She was in Birkenau.
+**A.**At that time we knew what was going on there, that people were being sent to gas chambers. In September 1943 a transport of 5,000 young Jews from [[LOCATION:location_88|Bohemia]] was sent off, all of them young people whom we knew. One woman succeeded in sending us a letter to [[LOCATION:location_124|Theresienstadt]]. She wrote what was happening there, what was going on in [[LOCATION:location_286|Auschwitz]]. She was in [[LOCATION:location_286|Birkenau]].
 
-All the 5,000 persons - women, men, children, youths - this I learned later from a woman I knew who returned from Auschwitz to Ostrau, those 5,000 Jews were sent to the gas chambers on 7 March 1944.
+All the 5,000 persons - women, men, children, youths - this I learned later from a woman I knew who returned from [[LOCATION:location_286|Auschwitz]] to Ostrau, those 5,000 Jews were sent to the gas chambers on 7 March 1944.
 ---
 
 **Q.**When did you receive this letter?
@@ -597,6 +597,6 @@ All the 5,000 persons - women, men, children, youths - this I learned later from
 
 **Q.**Did you meet your wife in the end?
 
-**A.**My wife remained in Theresienstadt until the end of the War, until I came back.
+**A.**My wife remained in [[LOCATION:location_124|Theresienstadt]] until the end of the War, until I came back.
 
 **Presiding Judge:** Thank you, Mr. Engelstein, you have concluded

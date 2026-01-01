@@ -1,4 +1,4 @@
-# Testimony of Margit Reich
+# Testimony of [[PERSON:witness_62|Margit Reich]]
 
 **Session:** 53
 
@@ -8,25 +8,25 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Margit Reich.
+**Witness:** [[PERSON:witness_62|Margit Reich]].
 
 **Presiding Judge:** Please reply to Mr. Bach.
 
-**State Attorney Bach:** In 1944 were you in Budapest with your husband?
+**State Attorney Bach:** In 1944 were you in [[LOCATION:location_31|Budapest]] with your husband?
 
-**Witness Reich:** Yes, we lived in Budapest.
+**Witness Reich:** Yes, we lived in [[LOCATION:location_31|Budapest]].
 
 **Q.**When was your husband arrested?
 
 **A.**On 29 June 1944.
 
-**Q.**How much later did you learn that he had been transferred to the camp in Kistarcsa?
+**Q.**How much later did you learn that he had been transferred to the camp in [[LOCATION:location_262|Kistarcsa]]?
 
 **A.**I learned about it after we went to the Council.
 
-**Q.**Did you receive a letter from your husband, from Kistarcsa?
+**Q.**Did you receive a letter from your husband, from [[LOCATION:location_262|Kistarcsa]]?
 
-**A.**I did not receive one from Kistarcsa, only when they seized him and took him away - I received one postcard and one letter from him.
+**A.**I did not receive one from [[LOCATION:location_262|Kistarcsa]], only when they seized him and took him away - I received one postcard and one letter from him.
 
 **Q.**After a certain time a postcard reached you which had the appearance of having been thrown out of a train?
 
@@ -34,7 +34,7 @@
 
 **Q.**Where is the original postcard?
 
-**A.**The original of that postcard is in Budapest with my children. But if it should be necessary, I can bring it here.
+**A.**The original of that postcard is in [[LOCATION:location_31|Budapest]] with my children. But if it should be necessary, I can bring it here.
 
 **Q.**I show you a particular photograph. Perhaps you are able to say whether this is a photostat of that postcard?
 
@@ -80,7 +80,7 @@
 
 **Witness Reich:** Yes. I understand.
 
-**State Attorney Bach:** "My dear wife and children. One postcard I have already thrown out of the train. I shall endeavour to write another letter. There is no doubt that we are setting out upon a very long journey. May God help us so that we may meet in joy, for one miracle already happened on the Sabbath. Maybe God will help us again. We were not able to take everything with us. What we have in the railway waggon is a rucksack. The important people are in one waggon, waggon No 60. The destination - Germany. At any rate this is what we know. But, possibly, the German soldiers accompanying us will get off at Kassa. The attitude towards us is tolerable. We are lucky that it is not very hot. If only I knew that no harm would befall you! I shall somehow bear my fate whatever it may be. I do not want to make you sad, but I would want very much to live yet in your midst. May God grant us that we may be allowed to achieve that. My dear children, look after your mother. And you, my dear wife, protect our property. If, with God's help, I should return - I will thank Him for that. If I have an opportunity - I will write. Until then I embrace you from the bottom of my heart, with love, your father. From the freight-car, Thursday, 10.30 approximately."
+**State Attorney Bach:** "My dear wife and children. One postcard I have already thrown out of the train. I shall endeavour to write another letter. There is no doubt that we are setting out upon a very long journey. May God help us so that we may meet in joy, for one miracle already happened on the Sabbath. Maybe God will help us again. We were not able to take everything with us. What we have in the railway waggon is a rucksack. The important people are in one waggon, waggon No 60. The destination - [[LOCATION:location_2|Germany]]. At any rate this is what we know. But, possibly, the German soldiers accompanying us will get off at Kassa. The attitude towards us is tolerable. We are lucky that it is not very hot. If only I knew that no harm would befall you! I shall somehow bear my fate whatever it may be. I do not want to make you sad, but I would want very much to live yet in your midst. May God grant us that we may be allowed to achieve that. My dear children, look after your mother. And you, my dear wife, protect our property. If, with God's help, I should return - I will thank Him for that. If I have an opportunity - I will write. Until then I embrace you from the bottom of my heart, with love, your father. From the freight-car, Thursday, 10.30 approximately."
 
 I would request to submit this document.
 
@@ -96,7 +96,7 @@ What you have previously submitted to us here, contains two letters?
 
 Perhaps, for the sake of completeness the witness can also identify the first letter which we did not read out.
 
-You said that at the beginning you received a letter from your husband, after he had reached Kistarcsa. Perhaps you are able to identify this letter as well?
+You said that at the beginning you received a letter from your husband, after he had reached [[LOCATION:location_262|Kistarcsa]]. Perhaps you are able to identify this letter as well?
 
 **Witness Reich:** Yes. This is the letter.
 

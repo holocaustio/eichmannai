@@ -1,4 +1,4 @@
-# Testimony of Zeev Sapir
+# Testimony of [[PERSON:witness_97|Zeev Sapir]]
 
 **Session:** 53
 
@@ -10,9 +10,9 @@
 
 **State Attorney Bach:** Where were you born, Mr. Sapir?
 
-**Witness Sapir:** I was born in the village of Dobradovo, near the town of Munkacs, in Carpatho-Russia.
+**Witness Sapir:** I was born in the village of Dobradovo, near the town of Munkacs, in [[LOCATION:location_270|Carpatho-Russia]].
 
-**Q.**How old were you when the Germans entered Hungary in March 1944?
+**Q.**How old were you when the Germans entered [[LOCATION:location_24|Hungary]] in March 1944?
 
 **A.**20 years old.
 
@@ -24,9 +24,9 @@
 
 **Witness Sapir:** The Germans occupied our zone on 19 or 20 March 1944, I do not remember the exact day.
 
-**State Attorney Bach:** At that time did your zone belong to Hungary?
+**State Attorney Bach:** At that time did your zone belong to [[LOCATION:location_24|Hungary]]?
 
-**Witness Sapir:** Yes - from 1939 to 1944, that date I mentioned, our zone was annexed to Hungary. I well remember the day on which we were all brought - my family and I and the members of our community, all of us - into the ghetto of Munkacs; it was on 17 April 1944.
+**Witness Sapir:** Yes - from 1939 to 1944, that date I mentioned, our zone was annexed to [[LOCATION:location_24|Hungary]]. I well remember the day on which we were all brought - my family and I and the members of our community, all of us - into the ghetto of Munkacs; it was on 17 April 1944.
 
 **Q.**How many were there in the ghetto?
 
@@ -40,9 +40,9 @@
 
 **A.**One hundred and three souls, including children of all ages.
 
-**Q.**When you were in the ghetto, do you recall an occasion when Adolf Eichmann visited this place?
+**Q.**When you were in the ghetto, do you recall an occasion when [[PERSON:person_775|Adolf Eichmann]] visited this place?
 
-**A.**Yes - one day the Hungarian gendarmerie informed us that one of the SS high command was about to visit us; they also mentioned the name of Adolf Eichmann two weeks before we entered the ghetto - that was at the beginning of April. And when the Hungarian gendarmerie announced the visit of Adolf Eichmann, an order was issued to clean the ghetto area and to do everything necessary to welcome him. To this end an instruction was given - perhaps it would be more correct to say an order - that precisely the older Jews - particularly those over the age of 50 - should be obliged to perform this work. Since I was a young man, I did not participate in this work. But my father did.
+**A.**Yes - one day the Hungarian gendarmerie informed us that one of the SS high command was about to visit us; they also mentioned the name of [[PERSON:person_775|Adolf Eichmann]] two weeks before we entered the ghetto - that was at the beginning of April. And when the Hungarian gendarmerie announced the visit of [[PERSON:person_775|Adolf Eichmann]], an order was issued to clean the ghetto area and to do everything necessary to welcome him. To this end an instruction was given - perhaps it would be more correct to say an order - that precisely the older Jews - particularly those over the age of 50 - should be obliged to perform this work. Since I was a young man, I did not participate in this work. But my father did.
 
 **Q.**How old was your father?
 
@@ -133,7 +133,7 @@
 
 **Q.**Did you have water inside the railway waggon?
 
-**A.**We were not given any. I can well remember a case where we - the young people - tried to prepare some supply of water. We took buckets, went to the nearest pump, although there were no taps there, we went to the nearest pump, and when we carried the water to the waggon, SS men came and poured it out. We were left without any water. If I may be permitted to describe the terrible conditions that prevailed in that waggon in the course of this journey to Auschwitz...?
+**A.**We were not given any. I can well remember a case where we - the young people - tried to prepare some supply of water. We took buckets, went to the nearest pump, although there were no taps there, we went to the nearest pump, and when we carried the water to the waggon, SS men came and poured it out. We were left without any water. If I may be permitted to describe the terrible conditions that prevailed in that waggon in the course of this journey to [[LOCATION:location_286|Auschwitz]]...?
 
 **Presiding Judge:** Yes.
 
@@ -159,7 +159,7 @@ We knew - there had also been an instruction to this effect - that it was forbid
 
 **Q.**So perhaps tell the Court what was that place?
 
-**A.**This place was Auschwitz. Then we at last knew what was in store for us, what our fate was, where we were.
+**A.**This place was [[LOCATION:location_286|Auschwitz]]. Then we at last knew what was in store for us, what our fate was, where we were.
 
 **Q.**You were there together with your parents?
 
@@ -187,19 +187,19 @@ We knew - there had also been an instruction to this effect - that it was forbid
 
 **Q.**Of all the members of this community, how many remained alive?
 
-**A.**Eighteen survived. But I must add that, of these eighteen, six were in the Hungarian labour camp; that is to say, of all those who went to Auschwitz, exactly 10 survived.
+**A.**Eighteen survived. But I must add that, of these eighteen, six were in the Hungarian labour camp; that is to say, of all those who went to [[LOCATION:location_286|Auschwitz]], exactly 10 survived.
 
-**Q.**Where else where you, after Auschwitz?
+**Q.**Where else where you, after [[LOCATION:location_286|Auschwitz]]?
 
-**A.**I was in Auschwitz for two days.
+**A.**I was in [[LOCATION:location_286|Auschwitz]] for two days.
 
 **A.**And after that?
 
-**A.**After that I was transferred to the Jaworzno labour camp, near Auschwitz. In that camp, if I may describe the life...
+**A.**After that I was transferred to the Jaworzno labour camp, near [[LOCATION:location_286|Auschwitz]]. In that camp, if I may describe the life...
 
 **Q.**No - perhaps, you would only tell us this: In the end, did you reach the camp at Gleiwitz?
 
-**A.**Yes. This was on 16 January 1945. When we returned from the mine... I was working in a coal mine, Dachsgrube it was called, it was in Upper Silesia, I was working then on the day shift at the time. Generally we worked in shifts, a day shift, one at night and one in the morning - that is to say, day, night and noontime. But at that time I was working on the morning shift. We got back in the evening. They did not even allow us to wash, nor eat - nothing - there was an order to move, to line up and to move. Where to - we did not know. We left, the entire camp numbering 3,000 people, and went along an unknown road. We walked for 24 hours. It was cold, there was snow, there was no food. On the way people reached total exhaustion and were unable to go on. Those who could not continue were shot, of course. Their bodies remained strewn along the road.
+**A.**Yes. This was on 16 January 1945. When we returned from the mine... I was working in a coal mine, Dachsgrube it was called, it was in Upper [[LOCATION:location_103|Silesia]], I was working then on the day shift at the time. Generally we worked in shifts, a day shift, one at night and one in the morning - that is to say, day, night and noontime. But at that time I was working on the morning shift. We got back in the evening. They did not even allow us to wash, nor eat - nothing - there was an order to move, to line up and to move. Where to - we did not know. We left, the entire camp numbering 3,000 people, and went along an unknown road. We walked for 24 hours. It was cold, there was snow, there was no food. On the way people reached total exhaustion and were unable to go on. Those who could not continue were shot, of course. Their bodies remained strewn along the road.
 
 **Q.**How many were you at the start?
 
@@ -207,7 +207,7 @@ We knew - there had also been an instruction to this effect - that it was forbid
 
 **Q.**How many survived?
 
-**A.**After walking for 24 hours we came to a town called Beuthen, in Upper Silesia. It was already evening and they sat us down at the side of the road, in the snow, and told us to wait. We waited about two hours and after that the commanding officer came to us - it was either the commanding officer or his deputy, I cannot be positively sure about this now - and announced: "Whoever is unable to continue will remain here, and he will be transferred by truck."
+**A.**After walking for 24 hours we came to a town called [[LOCATION:location_119|Beuthen]], in Upper [[LOCATION:location_103|Silesia]]. It was already evening and they sat us down at the side of the road, in the snow, and told us to wait. We waited about two hours and after that the commanding officer came to us - it was either the commanding officer or his deputy, I cannot be positively sure about this now - and announced: "Whoever is unable to continue will remain here, and he will be transferred by truck."
 
 I was amongst those who remained, for I knew that if I went on with this march it would end in my death, I could not carry on with it. And this I knew...although I did not do much thinking then. We remained, about two hundred persons. And we stayed there until morning in that place, at the side of the road, in the snow, the cold, without food. In the morning they came to take us. They put us in some kind of dining room, where the mineworkers of that place used to eat, and we were told to wait. We waited. And after that, they came and took us all out.
 
@@ -255,7 +255,7 @@ But disappointment was not slow in coming. Straightaway, as he finished these wo
 
 Obviously, since I am here, this is a sign that the bullet did not strike me. And in this way I wandered around in that forest for two more days. After that, the Russian army arrived, and in this way I was liberated.
 
-**Q.**I have one last question: When you came to Auschwitz, what was the number that you were given and which appears on your arm?
+**Q.**I have one last question: When you came to [[LOCATION:location_286|Auschwitz]], what was the number that you were given and which appears on your arm?
 
 **A.**A3,800 [Witness shows the tattooed inscription on his left forearm].
 

@@ -1,4 +1,4 @@
-# Testimony of Dr. Bedrich Steiner
+# Testimony of [[PERSON:witness_28|Dr. Bedrich Steiner]]
 
 **Session:** 50
 
@@ -6,21 +6,21 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Dr. Bedrich Steiner.
+**Witness:** [[PERSON:witness_28|Dr. Bedrich Steiner]].
 
-**State Attorney Bach:** Dr. Steiner, are you a native of Slovakia?
+**State Attorney Bach:** Dr. Steiner, are you a native of [[LOCATION:location_84|Slovakia]]?
 
 **Witness Steiner:** Yes, I was born in Nove Mesto nad Vahom.
 
-**Q.**Up until 1939 you were in Prague, practising as a lawyer?
+**Q.**Up until 1939 you were in [[LOCATION:location_4|Prague]], practising as a lawyer?
 
 **A.**Yes.
 
-**Q.**At the end of 1939 you went back to Slovakia?
+**Q.**At the end of 1939 you went back to [[LOCATION:location_84|Slovakia]]?
 
-**A.**In 1939 I went back to Slovakia, having received permission from the Gestapo to do so, in the form of a laisser-passer of the Gestapo, from the Central Office for Jewish Emigration in Cechovice near Prague.
+**A.**In 1939 I went back to [[LOCATION:location_84|Slovakia]], having received permission from the [[ORGANIZATION:org_344|Gestapo]] to do so, in the form of a laisser-passer of the [[ORGANIZATION:org_344|Gestapo]], from the Central Office for Jewish Emigration in Cechovice near [[LOCATION:location_4|Prague]].
 
-**Q.**Did you go through the regular process laid down by the Zentralstelle fuer Juedische Auswanderung in Prague?
+**Q.**Did you go through the regular process laid down by the Zentralstelle fuer Juedische Auswanderung in [[LOCATION:location_4|Prague]]?
 
 **A.**Yes. We had to obtain questionnaires, fill them in and deliver them, each questionnaire consisting of some seventeen pages, with 15-20 questions a page. The questionnaires were divided into twelve parts. We handed them in, and two or three weeks later we had to report back, and then we were told whether or not the laisser-passer was being granted to us. Obtaining the documents was not always a pleasant experience.
 
@@ -32,15 +32,15 @@
 
 **A.**About 60 dollars.
 
-**Q.**Later, when you were in Slovakia, did you work in the Jewish Centre?
+**Q.**Later, when you were in [[LOCATION:location_84|Slovakia]], did you work in the Jewish Centre?
 
-**A.**Yes, I went back to Slovakia. When Czechoslovakia fell apart, I became a Slovak citizen, since my home country at birth was Slovakia.
+**A.**Yes, I went back to [[LOCATION:location_84|Slovakia]]. When [[LOCATION:location_15|Czechoslovakia]] fell apart, I became a Slovak citizen, since my home country at birth was [[LOCATION:location_84|Slovakia]].
 
 **Q.**My question was whether you then worked in the Jewish Centre.
 
 **A.**Yes, afterwards, after a while, I think in June 1940, I began working in the Jewish Centre, where I was asked to take charge of the statistical department.
 
-**Q.**Were you at that time aware of Dieter Wisliceny's role in Bratislava?
+**Q.**Were you at that time aware of [[PERSON:person_436|Dieter Wisliceny]]'s role in [[LOCATION:location_73|Bratislava]]?
 
 **A.**The first time I heard about Eichmann...
 
@@ -50,13 +50,13 @@
 
 **Q.**When did you really first hear about Eichmann?
 
-**A.**I had already heard about Eichmann in Prague, in 1938. Then Jews came back, mainly from Vienna, to Bohemia and Moravia, and told us about the Emigration Office there, and later in Prague.
+**A.**I had already heard about Eichmann in [[LOCATION:location_4|Prague]], in 1938. Then Jews came back, mainly from [[LOCATION:location_3|Vienna]], to [[LOCATION:location_88|Bohemia]] and [[LOCATION:location_89|Moravia]], and told us about the Emigration Office there, and later in [[LOCATION:location_4|Prague]].
 
 **Q.**Did you have any personal contact with Wisliceny?
 
 **A.**No.
 
-**Q.**Dr. Steiner, in the course of your work in the statistical section, did numbers and lists of Jews who had been expelled from Slovakia come into your hands, during that period?
+**Q.**Dr. Steiner, in the course of your work in the statistical section, did numbers and lists of Jews who had been expelled from [[LOCATION:location_84|Slovakia]] come into your hands, during that period?
 
 **A.**Yes, they did.
 
@@ -66,11 +66,11 @@
 
 **Q.**How did you have this opportunity? On what occasion? Please tell the Court.
 
-**A.**After the War an institute was founded, or rather an operation for documentation, in Pressburg, Slovakia, by the Zionist Organization and the Union of Jewish Communities. I was asked to take charge of this operation. We undertook the task of collecting all the statistical data. We applied to various institutions, among them the National Court, the Prosecution, and asked them to put at our disposal all the documents they had relating to the Jews. I think we submitted that request in writing. Our request was approved, and I was able to read all the documents, also during court proceedings, and I was also permitted to photograph the documents.
+**A.**After the War an institute was founded, or rather an operation for documentation, in Pressburg, [[LOCATION:location_84|Slovakia]], by the Zionist Organization and the [[ORGANIZATION:org_347|Union of Jewish Communities]]. I was asked to take charge of this operation. We undertook the task of collecting all the statistical data. We applied to various institutions, among them the National Court, the Prosecution, and asked them to put at our disposal all the documents they had relating to the Jews. I think we submitted that request in writing. Our request was approved, and I was able to read all the documents, also during court proceedings, and I was also permitted to photograph the documents.
 
-I should add that I had the support of a committee which functioned during the operation, administered it, and laid down the guidelines for our work. The committee consisted of Dr. Tibor Kovacs, Dr. Oscar Krasnansky and the architect Andrej Steiner.
+I should add that I had the support of a committee which functioned during the operation, administered it, and laid down the guidelines for our work. The committee consisted of Dr. Tibor Kovacs, Dr. [[PERSON:person_629|Oscar Krasnansky]] and the architect [[PERSON:person_617|Andrej Steiner]].
 
-**Q.**In the course of this work, especially in the contacts with the Czechoslovak State Prosecution, after the War, did you see documents relating to the expulsion of the Jews from Slovakia?
+**Q.**In the course of this work, especially in the contacts with the Czechoslovak State Prosecution, after the War, did you see documents relating to the expulsion of the Jews from [[LOCATION:location_84|Slovakia]]?
 
 **A.**Yes.
 
@@ -80,9 +80,9 @@ I should add that I had the support of a committee which functioned during the o
 
 **Q.**Who was this Dr. Vasek?
 
-**A.**Dr. Vasek was director of Section 14 in the Ministry of the Interior, the section which was primarily charged with the implementation of what was called "The Final Solution of the Jewish Question."
+**A.**Dr. Vasek was director of Section 14 in the [[ORGANIZATION:org_301|Ministry of the Interior]], the section which was primarily charged with the implementation of what was called "The [[EVENT:event_389|Final Solution]] of the Jewish Question."
 
-**Q.**Based on this information, can you tell the Court what were the numbers of Jews deported from Slovakia, first of all in 1942?
+**Q.**Based on this information, can you tell the Court what were the numbers of Jews deported from [[LOCATION:location_84|Slovakia]], first of all in 1942?
 
 **A.**Yes. May I consult lists?
 
@@ -90,11 +90,11 @@ I should add that I had the support of a committee which functioned during the o
 
 **State Attorney Bach:** You may refresh your memory with the help of lists.
 
-**Witness Steiner:** In 1942, a total of 57,837 Jews were deported, by 57 transports, divided as follows: To Auschwitz, 19 transports with 18,746 Jews; to Lublin, four transports with 4501 Jews, and to the Opole area, 34 transports with 34,590 Jews. Each transport contained about 1,000 people.
+**Witness Steiner:** In 1942, a total of 57,837 Jews were deported, by 57 transports, divided as follows: To [[LOCATION:location_286|Auschwitz]], 19 transports with 18,746 Jews; to [[LOCATION:location_35|Lublin]], four transports with 4501 Jews, and to the Opole area, 34 transports with 34,590 Jews. Each transport contained about 1,000 people.
 
 **Q.**Do you know where Opole is?
 
-**A.**I think it is somewhere near Warsaw, south of Warsaw, but I am not sure. There were children among the deportees.
+**A.**I think it is somewhere near [[LOCATION:location_93|Warsaw]], south of [[LOCATION:location_93|Warsaw]], but I am not sure. There were children among the deportees.
 
 **Q.**How many children?
 
@@ -110,31 +110,31 @@ I should add that I had the support of a committee which functioned during the o
 
 **Q.**Do you have the figures for the deportations in 1944?
 
-**A.**Yes, in 1944 and 1945; it began in September and ended by the end of March. In 1944, or rather in 1944-45, 12,306 Jews were deported, in 11 transports, the first five of which with 7,936, and the other six to Sachsenhausen and Terezin - 2,732 to Sachsenhausen and 1,638 to Terezin. The transports were divided up on the way; they included women and men. The women and children were sent to Terezin and the men to Sachsenhausen. That, at any rate, was the case with my transport.
+**A.**Yes, in 1944 and 1945; it began in September and ended by the end of March. In 1944, or rather in 1944-45, 12,306 Jews were deported, in 11 transports, the first five of which with 7,936, and the other six to Sachsenhausen and [[LOCATION:location_34|Terezin]] - 2,732 to Sachsenhausen and 1,638 to [[LOCATION:location_34|Terezin]]. The transports were divided up on the way; they included women and men. The women and children were sent to [[LOCATION:location_34|Terezin]] and the men to Sachsenhausen. That, at any rate, was the case with my transport.
 
-**Q.**Did you say how many went to Auschwitz?
+**Q.**Did you say how many went to [[LOCATION:location_286|Auschwitz]]?
 
-**A.**7,936 went to Auschwitz.
+**A.**7,936 went to [[LOCATION:location_286|Auschwitz]].
 
-**Q.**Do you also have the figures for Jews who were murdered in Slovakia, by German Einsatzgruppen?
+**Q.**Do you also have the figures for Jews who were murdered in [[LOCATION:location_84|Slovakia]], by German Einsatzgruppen?
 
-**A.**After the War about 150 mass graves were found inside Slovakia. It was determined that 12,000-15,000 persons were interred in those graves, amongst them women and children.
+**A.**After the War about 150 mass graves were found inside [[LOCATION:location_84|Slovakia]]. It was determined that 12,000-15,000 persons were interred in those graves, amongst them women and children.
 
 **Presiding Judge:** How many corpses were found, all in all?
 
 **Witness Steiner:** 12,000-15,000. I had the record of all the graves before me, and I tried to estimate how many Jews were among them and arrived at the figure 3,500; this figure, I believe, is the correct one.
 
-**State Attorney Bach:** Dr. Steiner, we have heard that before the War 89,000 Jews lived in Slovakia.
+**State Attorney Bach:** Dr. Steiner, we have heard that before the War 89,000 Jews lived in [[LOCATION:location_84|Slovakia]].
 
 **Witness Steiner:** Yes.
 
-**Q.**How many of the 89,000 Jews of Slovakia were murdered by the Germans during the Holocaust, by total estimate?
+**Q.**How many of the 89,000 Jews of [[LOCATION:location_84|Slovakia]] were murdered by the Germans during the [[EVENT:event_386|Holocaust]], by total estimate?
 
-**A.**As I said, of the first deportations about 300 came back; 57,500 perished; 3,500 are estimated to have been killed in Slovakia; of the 12,000 who were deported in 1944-1945 about 8,000 perished - that is also an estimate. There is one other element that has to be taken into account. In 1942, especially in that year, 7,000-8,000 Jews from Slovakia fled to Hungary; some of these came back and were deported in 1944-1945 (also from Hungary). Of these 7,000-8,000 it is estimated that 2,000 did not come back. The total losses, therefore, add up to about 71,000 from among the 89,000, which means about eight per cent.
+**A.**As I said, of the first deportations about 300 came back; 57,500 perished; 3,500 are estimated to have been killed in [[LOCATION:location_84|Slovakia]]; of the 12,000 who were deported in 1944-1945 about 8,000 perished - that is also an estimate. There is one other element that has to be taken into account. In 1942, especially in that year, 7,000-8,000 Jews from [[LOCATION:location_84|Slovakia]] fled to [[LOCATION:location_24|Hungary]]; some of these came back and were deported in 1944-1945 (also from [[LOCATION:location_24|Hungary]]). Of these 7,000-8,000 it is estimated that 2,000 did not come back. The total losses, therefore, add up to about 71,000 from among the 89,000, which means about eight per cent.
 
-**Q.**Dr. Steiner, can you tell us what is the total sum, the total value of the Jewish property that was plundered in Slovakia?
+**Q.**Dr. Steiner, can you tell us what is the total sum, the total value of the Jewish property that was plundered in [[LOCATION:location_84|Slovakia]]?
 
-**A.**In 1940, a census was carried out by the Government Bureau of Statistics, according to which the total assets owned by the Jews in Slovakia amounted to 4,300 million kronen; that includes economic assets, houses, factories and capital assets, all together.
+**A.**In 1940, a census was carried out by the Government Bureau of Statistics, according to which the total assets owned by the Jews in [[LOCATION:location_84|Slovakia]] amounted to 4,300 million kronen; that includes economic assets, houses, factories and capital assets, all together.
 
 **Presiding Judge:** Have we been told what the value of the Czech krone was?
 ---
@@ -155,9 +155,9 @@ I should add that I had the support of a committee which functioned during the o
 
 **A.**Yes.
 
-**Q.**Dr. Steiner, were you in Slovakia when Wisliceny's trial took place?
+**Q.**Dr. Steiner, were you in [[LOCATION:location_84|Slovakia]] when Wisliceny's trial took place?
 
-**A.**Yes, not only during Wisliceny's trial, but also during most of the war crimes trials held in Slovakia.
+**A.**Yes, not only during Wisliceny's trial, but also during most of the war crimes trials held in [[LOCATION:location_84|Slovakia]].
 
 **A.**What was the judgment passed on Wisliceny?
 
@@ -173,7 +173,7 @@ I should add that I had the support of a committee which functioned during the o
 
 **Q.**Was this the result of your initiative? Did you request to ask him certain questions, and did you receive certain documents?
 
-**A.**As I said, this was part of the documentation operation of that committee. One of our tasks was to collect testimonies from Jews and non-Jews. When Wisliceny was brought to Bratislava, we asked the Prosecutor of the National Court for permission to put questions to Wisliceny, and that is how Wisliceny came to make several statements, which I eventually received, in the original.
+**A.**As I said, this was part of the documentation operation of that committee. One of our tasks was to collect testimonies from Jews and non-Jews. When Wisliceny was brought to [[LOCATION:location_73|Bratislava]], we asked the Prosecutor of the National Court for permission to put questions to Wisliceny, and that is how Wisliceny came to make several statements, which I eventually received, in the original.
 
 **State Attorney Bach:** If possible, I should like to have exhibits T/84, T/89, T/922 and T/1107 shown to the witness. I understand that Mr. Bodenheimer has them ready.
 
@@ -207,9 +207,9 @@ I should add that I had the support of a committee which functioned during the o
 
 **State Attorney Bach:** If you are not sure, say so. Wisliceny's signature is on it, confirming it.
 
-**Witness Steiner:** Is this about Greece? I cannot read it. Yes, yes, it is about Greece.
+**Witness Steiner:** Is this about [[LOCATION:location_26|Greece]]? I cannot read it. Yes, yes, it is about [[LOCATION:location_26|Greece]].
 
-**Q.**Yes. Do you remember receiving his report on his activities in Greece?
+**Q.**Yes. Do you remember receiving his report on his activities in [[LOCATION:location_26|Greece]]?
 
 **A.**Yes, I received this.
 
@@ -221,7 +221,7 @@ I should add that I had the support of a committee which functioned during the o
 
 **Witness Steiner:** Yes, I asked for it and I received it.
 
-**Q.**Dr. Steiner, do you remember that you had in your possession the report of the Budapest Relief and Rescue Committee?
+**Q.**Dr. Steiner, do you remember that you had in your possession the report of the [[LOCATION:location_31|Budapest]] Relief and Rescue Committee?
 
 **A.**Yes, Dr. Kasztner's.
 
@@ -247,7 +247,7 @@ I should add that I had the support of a committee which functioned during the o
 
 **Q.**In what form, in the handwriting or typed?
 
-**A.**Typewritten. We sent one copy to Paris, to the Documentation Centre. The other copies remained with me, at home, in my archive.
+**A.**Typewritten. We sent one copy to [[LOCATION:location_61|Paris]], to the Documentation Centre. The other copies remained with me, at home, in my archive.
 
 **State Attorney Bach:** [hands witness a document] What is the document that I am now handing you?
 
@@ -261,9 +261,9 @@ I should add that I had the support of a committee which functioned during the o
 
 **A.**I looked for it. Maybe it is at my home, but I have not found it.
 
-****Presiding Judge:** **Here in Israel?
+****Presiding Judge:** **Here in [[LOCATION:location_38|Israel]]?
 
-**Witness Steiner:** Here in Israel. Perhaps I turned it over to Yad Vashem, together with other documents, but I am not sure.
+**Witness Steiner:** Here in [[LOCATION:location_38|Israel]]. Perhaps I turned it over to Yad Vashem, together with other documents, but I am not sure.
 
 **State Attorney Bach:** Have you tried to find it, without success?
 
@@ -275,11 +275,11 @@ I should add that I had the support of a committee which functioned during the o
 
 **State Attorney Bach:** Your Honours, I ask to submit this document as evidence. As I have said, my purpose here is not to use it in order to verify or contradict one or the other detail, but, as the Court will see - if it admits the report, the comments, and looks into them - the Court will see that the comments represent important and interesting complements to many of the facts cited in the Kasztner report itself.
 
-For example, Kasztner in his report describes a meeting in which he, Eichmann and Wisliceny took part; we then have Wisliceny's comment to page so-and-so, and Wisliceny says: Yes, Dr. Kasztner does not know what took place afterwards, when Eichmann gave such-and-such orders. So there is no doubt that when we have before us the Kasztner report, and we have already heard explanations from the witness - and will perhaps hear more - concerning these events, it will be very interesting and also important for the Court to know what was the reaction of Wisliceny, who took an active part both in the negotiations and in the actions in Hungary. I therefore request that the Court accept this document as evidence.
+For example, Kasztner in his report describes a meeting in which he, Eichmann and Wisliceny took part; we then have Wisliceny's comment to page so-and-so, and Wisliceny says: Yes, Dr. Kasztner does not know what took place afterwards, when Eichmann gave such-and-such orders. So there is no doubt that when we have before us the Kasztner report, and we have already heard explanations from the witness - and will perhaps hear more - concerning these events, it will be very interesting and also important for the Court to know what was the reaction of Wisliceny, who took an active part both in the negotiations and in the actions in [[LOCATION:location_24|Hungary]]. I therefore request that the Court accept this document as evidence.
 
 ****Presiding Judge:** **Dr. Servatius, do you have any comment?
 
-**State Attorney Bach:** Just one more thing: We have here, for example, also a description of the help that Wisliceny gave to Freudiger, when Freudiger escaped from Germany. On this point, too, evidence was heard from the witness himself, but this, too, is important for the trial. This document was also shown to the Accused, and he testified on it. It received No. T/37(271).
+**State Attorney Bach:** Just one more thing: We have here, for example, also a description of the help that Wisliceny gave to Freudiger, when Freudiger escaped from [[LOCATION:location_2|Germany]]. On this point, too, evidence was heard from the witness himself, but this, too, is important for the trial. This document was also shown to the Accused, and he testified on it. It received No. T/37(271).
 
 **Dr. Servatius:** Witness, when you visited Wisliceny during his interrogation...
 
@@ -297,13 +297,13 @@ This will be marked T/1116.
 
 **State Attorney Bach:** With the Court's permission, I will not now quote from the comments, because they all relate to the Hungarian chapter, and I will refer to them at a later stage. By the way, this is our document No. 901.
 
-Now, Dr. Steiner, do you remember being present when Eng. Andrej Steiner made a certain declaration in which the Mufti of Jerusalem is mentioned?
+Now, Dr. Steiner, do you remember being present when Eng. [[PERSON:person_617|Andrej Steiner]] made a certain declaration in which the Mufti of [[LOCATION:location_44|Jerusalem]] is mentioned?
 
 **Witness Steiner:** Yes.
 
 **Q.**Why were you present on that occasion, do you remember?
 
-**A.**That was a declaration before a notary public - if I remember correctly - given in Bratislava. I was present there as a witness, in order to identify the architect Andrej Steiner.
+**A.**That was a declaration before a notary public - if I remember correctly - given in [[LOCATION:location_73|Bratislava]]. I was present there as a witness, in order to identify the architect [[PERSON:person_617|Andrej Steiner]].
 
 **Q.**Was Steiner on trial?
 
@@ -311,9 +311,9 @@ Now, Dr. Steiner, do you remember being present when Eng. Andrej Steiner made a 
 
 **Q.**Why did he give that declaration?
 
-**A.**This was in 1942 or 1943. At that time Andrej Steiner called on Wisliceny who told him about the children that were to be sent abroad, from Theresienstadt, and said, in Eichmann's name, that this was not going well because the Mufti opposed it.
+**A.**This was in 1942 or 1943. At that time [[PERSON:person_617|Andrej Steiner]] called on Wisliceny who told him about the children that were to be sent abroad, from [[LOCATION:location_124|Theresienstadt]], and said, in Eichmann's name, that this was not going well because the Mufti opposed it.
 
-****Presiding Judge:** **Has Andrej Steiner's name been mentioned here?
+****Presiding Judge:** **Has [[PERSON:person_617|Andrej Steiner]]'s name been mentioned here?
 
 **State Attorney Bach:** Perhaps one of the witnesses mentioned him, I think it was Dr. Abeles. He was one of the people in that shadow cabinet.
 
@@ -323,11 +323,11 @@ Now, Dr. Steiner, do you remember being present when Eng. Andrej Steiner made a 
 
 ****Presiding Judge:** **What was the purpose of that declaration?
 
-**State Attorney Bach:** That does not appear so clearly from the declaration. Maybe for use in the Nuremberg Trials, and maybe as information that the Jewish institutions may have wanted to make use of.
+**State Attorney Bach:** That does not appear so clearly from the declaration. Maybe for use in the [[LOCATION:location_39|Nuremberg]] Trials, and maybe as information that the Jewish institutions may have wanted to make use of.
 
 **Judge Halevi:** What declaration?
 
-**State Attorney Bach:** The declaration itself was made in February 1946. It was later sent to Nuremberg, where it was given to Wisliceny, and below the declaration itself Wisliceny added his own declaration that this was correct, except for two points which he thought not to be accurate.
+**State Attorney Bach:** The declaration itself was made in February 1946. It was later sent to [[LOCATION:location_39|Nuremberg]], where it was given to Wisliceny, and below the declaration itself Wisliceny added his own declaration that this was correct, except for two points which he thought not to be accurate.
 
 ****Presiding Judge:** **Are you using it now as a declaration by Wisliceny?
 
@@ -347,15 +347,15 @@ Now, Dr. Steiner, do you remember being present when Eng. Andrej Steiner made a 
 
 **Judge Halevi:** Is Steiner still alive?
 
-**State Attorney Bach:** Steiner is in the United States.
+**State Attorney Bach:** Steiner is in the [[LOCATION:location_68|United States]].
 
 ****Presiding Judge:** **I now want to know as what you wish to submit this document?
 
 **State Attorney Bach:** I want to submit it as evidence for Wisliceny's statement, and to enable the witness to identify it as the declaration that was signed in his presence, before Wisliceny added his comments to it.
 
-****Presiding Judge:** **Dr. Andrej Steiner?
+****Presiding Judge:** **Dr. [[PERSON:person_617|Andrej Steiner]]?
 
-**Witness Steiner:** Engineer architect Andrej Steiner.
+**Witness Steiner:** Engineer architect [[PERSON:person_617|Andrej Steiner]].
 
 **State Attorney Bach:** May I add, in addition to the point that His Honour, Judge Halevi, made, also important is the fact that from the document we see that Wisliceny does not just accept anything that is submitted to him because he might think that it is perhaps convenient for those who tender a document to him; he does not accept everything; and when he has reservations about a certain detail, he says that that detail is not accurate.
 
@@ -367,14 +367,14 @@ Now, Dr. Steiner, do you remember being present when Eng. Andrej Steiner made a 
 
 Decision No. 52
 
-We accept Wisliceny's comments on Mr. Andrej Steiner's declaration, together with that declaration, on the grounds given in our Decision No. 7.
+We accept Wisliceny's comments on Mr. [[PERSON:person_617|Andrej Steiner]]'s declaration, together with that declaration, on the grounds given in our Decision No. 7.
 ---
 
-**State Attorney Bach:** This is our document No. 281. Mr. Steiner first tells us that Wisliceny described his talks with Eichmann, why Palestine cannot be considered as the destination for emigration: "When I asked him why, he laughed and asked whether I had never heard of the Grand Mufti Husseini. He explained that the Mufti has very close contact and cooperation with Eichmann, and therefore Germany cannot agree to Palestine being the final destination, as this would be a blow to Germany's prestige in the Mufti's eyes."
+**State Attorney Bach:** This is our document No. 281. Mr. Steiner first tells us that Wisliceny described his talks with Eichmann, why [[LOCATION:location_57|Palestine]] cannot be considered as the destination for emigration: "When I asked him why, he laughed and asked whether I had never heard of the Grand Mufti Husseini. He explained that the Mufti has very close contact and cooperation with Eichmann, and therefore [[LOCATION:location_2|Germany]] cannot agree to [[LOCATION:location_57|Palestine]] being the final destination, as this would be a blow to [[LOCATION:location_2|Germany]]'s prestige in the Mufti's eyes."
 
-Then he goes on: "At this further conversation Wisliceny gave me more details about the cooperation between Eichmann and the Mufti. The Mufti is a sworn enemy of the Jews and has always fought for the idea of annihilating the Jews. He sticks to this idea always, also in his talks with Eichmann" - and here we have one of the points about which Wisliceny has reservations - "who, as you know, is a German who was born in Palestine. The Mufti is one of the originators of the systematic destruction of European Jewry by the Germans, and he has become a permanent colleague, partner and adviser to Eichmann and Himmler in the implementation of this programme."
+Then he goes on: "At this further conversation Wisliceny gave me more details about the cooperation between Eichmann and the Mufti. The Mufti is a sworn enemy of the Jews and has always fought for the idea of annihilating the Jews. He sticks to this idea always, also in his talks with Eichmann" - and here we have one of the points about which Wisliceny has reservations - "who, as you know, is a German who was born in [[LOCATION:location_57|Palestine]]. The Mufti is one of the originators of the systematic destruction of European Jewry by the Germans, and he has become a permanent colleague, partner and adviser to Eichmann and Himmler in the implementation of this programme."
 
-Here Wisliceny adds: "I have read these descriptions and find them correct, except for this, that Eichmann was born in Palestine, and that the Mufti was a permanent partner of Himmler's; this is not what I said."
+Here Wisliceny adds: "I have read these descriptions and find them correct, except for this, that Eichmann was born in [[LOCATION:location_57|Palestine]], and that the Mufti was a permanent partner of Himmler's; this is not what I said."
 
 **Presiding Judge:** This will be marked T/1117.
 
@@ -404,11 +404,11 @@ Here Wisliceny adds: "I have read these descriptions and find them correct, exce
 
 **State Attorney Bach:** Dr. Steiner, please open the album at page 41. What are these photographs?
 
-**Witness Steiner:** These are photographs taken during the 1942 deportations. In the top picture one can see that the people have numbers; this was the serial number they were given. In the bottom picture they are going to the train. This may well be how they went to Zilina.
+**Witness Steiner:** These are photographs taken during the 1942 deportations. In the top picture one can see that the people have numbers; this was the serial number they were given. In the bottom picture they are going to the train. This may well be how they went to [[LOCATION:location_260|Zilina]].
 
 **Q.**Please open page 50. Can you identify the persons in the top pictures?
 
-**A.**Yes, they are Dieter Wisliceny and Ludin.
+**A.**Yes, they are [[PERSON:person_436|Dieter Wisliceny]] and Ludin.
 
 **Q.**Open page 52, please. Can you also identify those?
 
@@ -444,7 +444,7 @@ Here Wisliceny adds: "I have read these descriptions and find them correct, exce
 
 **State Attorney Bach:** And page 83?
 
-**Witness Steiner:** On page 83, at the top, one sees Zilina at the time of the 1942 deportations. At the top - I really don't remember - that may very likely be in the vicinity of Svidinik and Stropkov, in Slovakia.
+**Witness Steiner:** On page 83, at the top, one sees [[LOCATION:location_260|Zilina]] at the time of the 1942 deportations. At the top - I really don't remember - that may very likely be in the vicinity of Svidinik and Stropkov, in [[LOCATION:location_84|Slovakia]].
 
 **Q.**And pages 84 and 86?
 
@@ -452,23 +452,23 @@ Here Wisliceny adds: "I have read these descriptions and find them correct, exce
 
 **Q.**Page 96 contains certain statistics.
 
-**A.**Yes. That diagram shows where the transports came from and where they went. But I should add that these figures also include parts of Slovakia that then belonged to Hungary.
+**A.**Yes. That diagram shows where the transports came from and where they went. But I should add that these figures also include parts of [[LOCATION:location_84|Slovakia]] that then belonged to [[LOCATION:location_24|Hungary]].
 
-**Q.**Which were later incorporated into Hungary?
-
-**A.**Yes.
-
-**Q.**And that is the deportation to Hungary?
+**Q.**Which were later incorporated into [[LOCATION:location_24|Hungary]]?
 
 **A.**Yes.
 
-**Q.**The section from page 98 to page 111, are these pictures from Auschwitz?
+**Q.**And that is the deportation to [[LOCATION:location_24|Hungary]]?
 
-**A.**Yes, these are pictures from Auschwitz.
+**A.**Yes.
+
+**Q.**The section from page 98 to page 111, are these pictures from [[LOCATION:location_286|Auschwitz]]?
+
+**A.**Yes, these are pictures from [[LOCATION:location_286|Auschwitz]].
 
 **Q.**How did they come into your possession?
 
-**A.**When we decided to publish this book, I went to the museum in Prague, the "Jewish Museum," and the museum director - Soyka I think his name was - told me that he had original photographs of Auschwitz. These are the photographs. I asked him where these pictures had come from, and he said that they had come from Bodenbach on the Elbe; an SS man who had been living there had fled, and his apartment was handed over to another person - a man or a woman, that I do not remember - and that person had given the photographs to the Jewish Museum.
+**A.**When we decided to publish this book, I went to the museum in [[LOCATION:location_4|Prague]], the "[[ORGANIZATION:org_323|Jewish Museum]]," and the museum director - Soyka I think his name was - told me that he had original photographs of [[LOCATION:location_286|Auschwitz]]. These are the photographs. I asked him where these pictures had come from, and he said that they had come from Bodenbach on the Elbe; an SS man who had been living there had fled, and his apartment was handed over to another person - a man or a woman, that I do not remember - and that person had given the photographs to the [[ORGANIZATION:org_323|Jewish Museum]].
 
 **Q.**And that is how you got these pictures?
 
@@ -476,11 +476,11 @@ Here Wisliceny adds: "I have read these descriptions and find them correct, exce
 
 **Q.**On pages 112 and 113 one can see mass graves of naked women.
 
-**A.**In 1947 we held an exhibition - I think it was that year - and I received these pictures from the "Vojensky Museum," the military museum, in Zizkov, Prague.
+**A.**In 1947 we held an exhibition - I think it was that year - and I received these pictures from the "Vojensky Museum," the military museum, in Zizkov, [[LOCATION:location_4|Prague]].
 
 **Q.**Page 116 contains the photograph of a certain newspaper article. Can you tell the Court what article that is?
 
-**A.**This is an article by Fritz Fiala, who was the Chef- Redakteur (editor-in-chief) of the Grenzbote. In it he describes his visit to Auschwitz, and tells about the Slovak Jews and what they were doing there.
+**A.**This is an article by Fritz Fiala, who was the Chef- Redakteur (editor-in-chief) of the Grenzbote. In it he describes his visit to [[LOCATION:location_286|Auschwitz]], and tells about the Slovak Jews and what they were doing there.
 
 **Q.**I have had a Hebrew translation of the article prepared. With the Court's permission, I wish to submit to the Court this translation of the article. Of course some parts of the article we could not see, these parts being obscured by the picture on the lower section of the page.
 
@@ -493,7 +493,7 @@ Here Wisliceny adds: "I have read these descriptions and find them correct, exce
 > of their nose and leave the rest of their face covered
 > by a thick layer of kohl and rouge."
 
-About Auschwitz he says the following:
+About [[LOCATION:location_286|Auschwitz]] he says the following:
 
 > "When I tell the Jewesses that the enemy's atrocity
 > propaganda claims that the German authorities are
@@ -513,17 +513,17 @@ About Auschwitz he says the following:
 > whom I spoke told me: 'I have to tell you, in all
 > frankness, that it is quite easy for us to reconcile
 > ourselves to our life here; as one who was previously
-> in Palestine, I can definitely say that here we are
+> in [[LOCATION:location_57|Palestine]], I can definitely say that here we are
 > better off, far away from the vicious struggle for
 > survival which I saw there'."
 
 **Presiding Judge:** This will be marked T/1119.
 
-**State Attorney Bach:** Dr. Steiner, at the top of page 122 the Court will see a picture with Abba Kovner, who appeared as a witness in this trial. We did not know of the existence of this picture. One can see on it partisans and soldiers.
+**State Attorney Bach:** Dr. Steiner, at the top of page 122 the Court will see a picture with [[PERSON:person_498|Abba Kovner]], who appeared as a witness in this trial. We did not know of the existence of this picture. One can see on it partisans and soldiers.
 
 **Presiding Judge:** What page are you referring to?
 
-**State Attorney Bach:** I am referring to page 122. In the middle of the upper row you will see Abba Kovner.
+**State Attorney Bach:** I am referring to page 122. In the middle of the upper row you will see [[PERSON:person_498|Abba Kovner]].
 
 **Judge Halevi:** Mr. Bach, perhaps the witness can explain about the article on page 116; there is a photograph shown, alleged to be a photograph of nurses.
 
@@ -531,7 +531,7 @@ About Auschwitz he says the following:
 
 **Judge Halevi:** What does it say below that picture? Perhaps the witness can translate it for us.
 
-**State Attorney Bach:** On the copy that I handed to the Court, the caption below the picture reads as follows: "Jewesses of Slovakia in their new settlement." Dr. Steiner, on page 127, the lower part, there is a document.
+**State Attorney Bach:** On the copy that I handed to the Court, the caption below the picture reads as follows: "Jewesses of [[LOCATION:location_84|Slovakia]] in their new settlement." Dr. Steiner, on page 127, the lower part, there is a document.
 
 **Witness Steiner:** Yes.
 
@@ -541,7 +541,7 @@ About Auschwitz he says the following:
 
 **Q.**Finally, on page 130, what is the list shown there?
 
-**A.**As I have said, after the War 150 mass graves were discovered in Slovakia. One of them was in Kremnica, near Banska Bystrica, where 372 bodies were found; this is a list of the persons who were buried in that mass grave. It gives name, nationality, religion, date of birth, by whom the people were delivered to the firing squad, and the date they were shot, and finally, the length of time spent by that person in the camp.
+**A.**As I have said, after the War 150 mass graves were discovered in [[LOCATION:location_84|Slovakia]]. One of them was in Kremnica, near Banska Bystrica, where 372 bodies were found; this is a list of the persons who were buried in that mass grave. It gives name, nationality, religion, date of birth, by whom the people were delivered to the firing squad, and the date they were shot, and finally, the length of time spent by that person in the camp.
 
 **Q.**The date shown here is the date of execution?
 
@@ -549,7 +549,7 @@ About Auschwitz he says the following:
 
 **Q.**Please look at No. 18 on the list. What does it say after the name?
 
-**A.**It says 17 months. The name given is Goldenerova Noemi.
+**A.**It says 17 months. The name given is [[PERSON:person_630|Goldenerova Noemi]].
 
 **Q.**Who was 17 months old?
 
@@ -593,7 +593,7 @@ About Auschwitz he says the following:
 
 **A.**I never spoke to him.
 
-**Q.**You mention the plunder and looting of the Jewish property in Slovakia. Perhaps you could look at one of the Wisliceny documents submitted to us, look only at the amounts and the estimates; is that correct? I am showing the witness Exhibit T/1085. This includes only movable assets. Do you have any comment on the contents of this document?
+**Q.**You mention the plunder and looting of the Jewish property in [[LOCATION:location_84|Slovakia]]. Perhaps you could look at one of the Wisliceny documents submitted to us, look only at the amounts and the estimates; is that correct? I am showing the witness Exhibit T/1085. This includes only movable assets. Do you have any comment on the contents of this document?
 
 **A.**As regards the sum of 150-200 million, that I would say refers to "Mobilbesitz," that is to say "Kapitalbesitz" (capital assets). It does not include the rest.
 
@@ -607,7 +607,7 @@ About Auschwitz he says the following:
 
 **Q.**What Germans? German nationals?
 
-**A.**It means residents of Slovakia, local residents. For example, in the town where I was born, Nove Mesto nad Vahom, there was a Jew by the name of Reiss, who had a factory; that factory was taken over by Germans who were local residents.
+**A.**It means residents of [[LOCATION:location_84|Slovakia]], local residents. For example, in the town where I was born, Nove Mesto nad Vahom, there was a Jew by the name of Reiss, who had a factory; that factory was taken over by Germans who were local residents.
 
 **Q.**This was sold cheaply, was it?
 

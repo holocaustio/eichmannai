@@ -1,4 +1,4 @@
-# Testimony of Dr. Aharon Beilin
+# Testimony of [[PERSON:witness_26|Dr. Aharon Beilin]]
 
 **Session:** 69
 
@@ -6,9 +6,9 @@
 
 **Presiding Judge:** What is your full name?
 
-**Witness:** Dr. Aharon Beilin.
+**Witness:** [[PERSON:witness_26|Dr. Aharon Beilin]].
 
-**Attorney General:** Dr. Beilin, you live in Tel Aviv, at 33 Louis Marshall Street?
+**Attorney General:** Dr. Beilin, you live in [[LOCATION:location_42|Tel Aviv]], at 33 Louis Marshall Street?
 
 **Witness Beilin:** Yes.
 
@@ -16,13 +16,13 @@
 
 **A.**Yes.
 
-**Q.**In February 1943 you were deported from Bialystok, which at that time was incorporated into the Third Reich, to Auschwitz?
+**Q.**In February 1943 you were deported from Bialystok, which at that time was incorporated into the Third Reich, to [[LOCATION:location_286|Auschwitz]]?
 
 **A.**Yes.
 
 **Q.**How many people were there in this transport, together with you?
 
-**A.**About five thousand. I should like to point out that there were two transports, one following the other. There were ten thousand people at the assembly place; on one train there were five thousand of us, and the next day, the other five thousand arrived on the second train. And they were added to the block where we were, in Auschwitz - in Birkenau.
+**A.**About five thousand. I should like to point out that there were two transports, one following the other. There were ten thousand people at the assembly place; on one train there were five thousand of us, and the next day, the other five thousand arrived on the second train. And they were added to the block where we were, in [[LOCATION:location_286|Auschwitz]] - in [[LOCATION:location_286|Birkenau]].
 
 **Q.**Were they all Jews?
 
@@ -48,7 +48,7 @@
 
 **A.**No.
 
-**Q.**You reached Auschwitz and underwent a selection?.**A.**Yes. The doctor who conducted the selection was Dr. Rohde.
+**Q.**You reached [[LOCATION:location_286|Auschwitz]] and underwent a selection?.**A.**Yes. The doctor who conducted the selection was Dr. Rohde.
 
 **Q.**What unit did he belong to?
 
@@ -56,13 +56,13 @@
 
 **Q.**Where were they sent to?
 
-**A.**They were sent along the road which as I subsequently learned when I was in Auschwitz, led to Birkenau, which was the road leading to the crematorium - but I had a better sign. Three or four hours after I entered the camp, I saw these trucks through the barbed-wire fence - we were then still on the other side of the barbed-wire fence, we had not yet gone inside the camp - I saw these trucks returning with coats, and I saw my mother's coat. I then understood that she was no longer alive.
+**A.**They were sent along the road which as I subsequently learned when I was in [[LOCATION:location_286|Auschwitz]], led to [[LOCATION:location_286|Birkenau]], which was the road leading to the crematorium - but I had a better sign. Three or four hours after I entered the camp, I saw these trucks through the barbed-wire fence - we were then still on the other side of the barbed-wire fence, we had not yet gone inside the camp - I saw these trucks returning with coats, and I saw my mother's coat. I then understood that she was no longer alive.
 
-There is one other matter I want to mention here. When I was with my mother, she said to me - she was an observant Jewess - she said that she would pray for my survival, but, she told me, I would have to promise to take an oath, that was how she put it to me - she said it in Russian so that the SS men should not understand, because there were some of them who understood a little Yiddish - that if I should remain alive, I should go to Palestine. And I promised her, and I kept my promise, I fulfilled this obligation. And I think I owe this observation to all the mothers who were taken before their time and to all the children who were snatched from their mothers for destruction, for annihilation.
+There is one other matter I want to mention here. When I was with my mother, she said to me - she was an observant Jewess - she said that she would pray for my survival, but, she told me, I would have to promise to take an oath, that was how she put it to me - she said it in Russian so that the SS men should not understand, because there were some of them who understood a little Yiddish - that if I should remain alive, I should go to [[LOCATION:location_57|Palestine]]. And I promised her, and I kept my promise, I fulfilled this obligation. And I think I owe this observation to all the mothers who were taken before their time and to all the children who were snatched from their mothers for destruction, for annihilation.
 
 **Q.**What happened to those who were left alive?
 
-**A.**All of us, the one hundred and fifty men - and I amongst them - waited three to four hours in front of the barbed- wire fence. After that we entered the camp and waited there until the evening. We had actually arrived in the morning, and there was frost - it was at the height of winter, in February 1943. And they made us do the famous gymnastics of Auschwitz, the "knee-bend" and "roll." And the guard who accompanied us remained with us until the commander of this division came and said: "I have brought 150 figures from the transport of the RSHA from Bialystok."
+**A.**All of us, the one hundred and fifty men - and I amongst them - waited three to four hours in front of the barbed- wire fence. After that we entered the camp and waited there until the evening. We had actually arrived in the morning, and there was frost - it was at the height of winter, in February 1943. And they made us do the famous gymnastics of [[LOCATION:location_286|Auschwitz]], the "knee-bend" and "roll." And the guard who accompanied us remained with us until the commander of this division came and said: "I have brought 150 figures from the transport of the RSHA from Bialystok."
 
 **Q.**You heard that with your own ears?
 
@@ -72,7 +72,7 @@ There is one other matter I want to mention here. When I was with my mother, she
 
 **A.**Yes. "150 Figuren aus dem RSHA-Abtransport Bialystok."
 
-The block into which we were placed was supposedly a quarantine block. There we came across people who had arrived on another transport from Plonsk and Mlawa. Since at the time of our arrival there were no Jews there from Eastern Europe, only from Western Europe, and since Plonsk, Mlawa and Bialystok had been annexed to the Reich, they brought us there as "Reichsdeutsche Jews." I took advantage of this, later, and I was the only one also who wrote a postcard to the ghetto in Bialystok, and the postcard was received.
+The block into which we were placed was supposedly a quarantine block. There we came across people who had arrived on another transport from [[LOCATION:location_203|Plonsk]] and Mlawa. Since at the time of our arrival there were no Jews there from Eastern Europe, only from Western Europe, and since [[LOCATION:location_203|Plonsk]], Mlawa and Bialystok had been annexed to the Reich, they brought us there as "Reichsdeutsche Jews." I took advantage of this, later, and I was the only one also who wrote a postcard to the ghetto in Bialystok, and the postcard was received.
 
 **Q.**We shall come to the episode of the postcard later. You wrote it to your wife, I understand?
 
@@ -80,11 +80,11 @@ The block into which we were placed was supposedly a quarantine block. There we 
 
 **Q.**We shall come to that. You were transferred to a certain block and there you were divided up according to occupations?
 
-**A.**They had a standard list there, in which as a rule all the prominent functions - as they were called in Auschwitz - were in the hands of "S. Ver. und B. Ver.," that is to say, the Berufsverbrecher und Schwerverbrecher (professional criminals and men guilty of serious crimes). They were Germans who had been in gaol, who had been sentenced to imprisonment, and who had been released for concentration camp duties. They had a prepared list, and classified the new arrivals (der frische Zugang) according to this list into members of the liberal professions, on the one hand, and criminal elements arriving there, on the other hand.
+**A.**They had a standard list there, in which as a rule all the prominent functions - as they were called in [[LOCATION:location_286|Auschwitz]] - were in the hands of "S. Ver. und B. Ver.," that is to say, the Berufsverbrecher und Schwerverbrecher (professional criminals and men guilty of serious crimes). They were Germans who had been in gaol, who had been sentenced to imprisonment, and who had been released for concentration camp duties. They had a prepared list, and classified the new arrivals (der frische Zugang) according to this list into members of the liberal professions, on the one hand, and criminal elements arriving there, on the other hand.
 
 Those who were not members of the liberal professions and who were not criminals were divided equally into two groups. Those who were criminals and were able to prove that they had spent some time in prison, who, for example, had broken into safes or stolen, were given these duties. What were these duties? Distributors of food, room-attendants (Stubendienst) and so on. I did not know about that and I said that I was a doctor - this served to my disadvantage, together with the whole group of teachers, of writers, and actors; apparently there was a whole standard list and we always received the worst tasks, hard labour, for example, cleaning the toilets or carrying food.
 
-Carrying food in Birkenau involved mortal danger, for there was no meal where the Essen-Kommando (the unit for bringing food) reported to the kitchen and where its Rapportfuehrer (the man in charge), whose name was Schillinger, did not kill two or three people with a huge wooden spoon used to stir the food in the pots; he would pull it out and strike people on the head. This work was given to us.
+Carrying food in [[LOCATION:location_286|Birkenau]] involved mortal danger, for there was no meal where the [[LOCATION:location_117|Essen]]-Kommando (the unit for bringing food) reported to the kitchen and where its Rapportfuehrer (the man in charge), whose name was Schillinger, did not kill two or three people with a huge wooden spoon used to stir the food in the pots; he would pull it out and strike people on the head. This work was given to us.
 
 **Q.**How long did you remain in this block?
 
@@ -112,25 +112,25 @@ After the cold shower we were given, and after we were made to run naked, both i
 
 **Witness Beilin:** Yes. That was the famous temperature-taking; in every block there were groups of medical orderlies under the control of the "SDGH" - he was an SS lance-sergeant, the assistant of the SS doctor, and it was under his supervision that temperatures were taken. He himself checked the thermometer reading and supervised the registration, and if anyone had a temperature of over 37.5, and it did not matter whether the temperature was due to a cold or to a throat infection, he was considered as a potential carrier of germs and was put to death the next day by being loaded, together with all those who had been recorded for this the previous day, on to the trucks, naked and wrapped in blankets. And for us this was a sign that they were on their way to the gas chambers.
 
-**Q.**When you came to Auschwitz did you encounter people from various countries?
+**Q.**When you came to [[LOCATION:location_286|Auschwitz]] did you encounter people from various countries?
 
-**A.**Yes. As I said earlier, these were Jews from Western and Central Europe. There were no Jews from Eastern Europe. These Jews were from Czechoslovakia, Holland, from France - all had foreign, not French citizenship, that is to say they were Polish and Romanian Jews who had been brought from France; later on there were Jews from Belgium and from Luxembourg, and amongst them also one German Aryan who said that he was from Luxembourg and that he was a political prisoner.
+**A.**Yes. As I said earlier, these were Jews from Western and Central Europe. There were no Jews from Eastern Europe. These Jews were from [[LOCATION:location_15|Czechoslovakia]], Holland, from [[LOCATION:location_30|France]] - all had foreign, not French citizenship, that is to say they were Polish and Romanian Jews who had been brought from [[LOCATION:location_30|France]]; later on there were Jews from [[LOCATION:location_21|Belgium]] and from [[LOCATION:location_27|Luxembourg]], and amongst them also one German Aryan who said that he was from [[LOCATION:location_27|Luxembourg]] and that he was a political prisoner.
 
-**Q.**Did you also see people from Greece?
+**Q.**Did you also see people from [[LOCATION:location_26|Greece]]?
 
 **A.**Yes, they began arriving in March-April 1943. When the Greek Jews arrived, I saw yellow cheques in their hands; at that time I did not know the value of the drachma, but they came to the veterans - we were the old-timers, as it were - and asked when they would be receiving their money from the bank, for "we deposited our drachmas over there and were given these cheques to be redeemed at the Polish banks to enable us to live here." Obviously our answer was: Nil. This I remember, I remember what the cheques looked like; they were yellow and it said in German: "The Jewish bearer deposited such-and-such a number of drachmas in the bank." And the amount was written both in figures and in words.
 
-**Q.**Were there also Jews from Zagreb?
+**Q.**Were there also Jews from [[LOCATION:location_78|Zagreb]]?
 
-**A.**Yes, there were Jews from Zagreb. I know this from the fact that on this transport a doctor arrived whose name was Bier; he possessed two diplomas - in medicine and in chemistry. One fine day Dr. Bier was taken away as a chemist, and rumour had it - the rumour reached the camp in some way or other - that the chemists were taken to forge Allied banknotes.
+**A.**Yes, there were Jews from [[LOCATION:location_78|Zagreb]]. I know this from the fact that on this transport a doctor arrived whose name was Bier; he possessed two diplomas - in medicine and in chemistry. One fine day Dr. Bier was taken away as a chemist, and rumour had it - the rumour reached the camp in some way or other - that the chemists were taken to forge Allied banknotes.
 
 **Q.**Were there also Soviet prisoners?
 
-**A.**Yes, there were twelve thousand Soviet prisoners, including privates, but there were also officers amongst them, some officers with academic training, despite the fact that in Auschwitz, until the Gypsies were gathered together and exterminated in the gas chambers, Aryans were not generally brought to be gassed, but they died a so-called natural death, from diseases. Of these twelve thousand Russians, many - the majority - died of tuberculosis.
+**A.**Yes, there were twelve thousand Soviet prisoners, including privates, but there were also officers amongst them, some officers with academic training, despite the fact that in [[LOCATION:location_286|Auschwitz]], until the Gypsies were gathered together and exterminated in the gas chambers, Aryans were not generally brought to be gassed, but they died a so-called natural death, from diseases. Of these twelve thousand Russians, many - the majority - died of tuberculosis.
 
-**Q.**Which they contracted in Auschwitz?
+**Q.**Which they contracted in [[LOCATION:location_286|Auschwitz]]?
 
-**A.**In Auschwitz, for most of them were from rural and not from urban populations, and apparently for this reason, owing to the crowding and the starvation, tuberculosis spread amongst them with greater intensity than in the case of an urban population.
+**A.**In [[LOCATION:location_286|Auschwitz]], for most of them were from rural and not from urban populations, and apparently for this reason, owing to the crowding and the starvation, tuberculosis spread amongst them with greater intensity than in the case of an urban population.
 
 **Q.**Were there Germans in charge of the clinic on behalf of the SS?
 
@@ -138,7 +138,7 @@ After the cold shower we were given, and after we were made to run naked, both i
 
 **Q.**Who were they?
 
-**A.**I remember three doctors in the clinic - apart from those who used to come for short periods and then disappear. I remember Dr. Rohde - he was the first to make the selection, also when I reached the camp. There was Dr. Helmersen - again, as it was rumoured, Dr. Helmersen was the son of the police commander of Berlin.
+**A.**I remember three doctors in the clinic - apart from those who used to come for short periods and then disappear. I remember Dr. Rohde - he was the first to make the selection, also when I reached the camp. There was [[PERSON:person_711|Dr. Helmersen]] - again, as it was rumoured, [[PERSON:person_711|Dr. Helmersen]] was the son of the police commander of [[LOCATION:location_1|Berlin]].
 
 **Q.**Let us talk of facts, not rumours.
 
@@ -146,7 +146,7 @@ After the cold shower we were given, and after we were made to run naked, both i
 
 **Q.**What was the fate of the Jewish doctors, including your own?
 
-**A.**Generally speaking, in Auschwitz, in Birkenau, we were not doctors. Our official title was "Pfleger" - male nurses. They said of us: "A Jew is not a doctor, a Jew performs abortions and is a pharmacist, thirsty for poison." We were the Pfleger - and these male nurses did not only administer medical treatment, which was virtually useless since we had neither medicines nor bandages; the bandaging material which we received was made of paper only. Hence if we applied this kind of bandage in the clinic, both because of the discharge from the wound and also for the reason that if, for example, the bandage was on the foot, the patient would immediately put on this shoe and the bandage would disintegrate.
+**A.**Generally speaking, in [[LOCATION:location_286|Auschwitz]], in [[LOCATION:location_286|Birkenau]], we were not doctors. Our official title was "Pfleger" - male nurses. They said of us: "A Jew is not a doctor, a Jew performs abortions and is a pharmacist, thirsty for poison." We were the Pfleger - and these male nurses did not only administer medical treatment, which was virtually useless since we had neither medicines nor bandages; the bandaging material which we received was made of paper only. Hence if we applied this kind of bandage in the clinic, both because of the discharge from the wound and also for the reason that if, for example, the bandage was on the foot, the patient would immediately put on this shoe and the bandage would disintegrate.
 
 **Presiding Judge:** What kind of shoes were they?
 
@@ -167,11 +167,11 @@ After the cold shower we were given, and after we were made to run naked, both i
 
 **Q.**Yes, in the clinic.
 
-**A.**In the clinic, we were about twelve to fifteen doctors, in the B-II-D, that is to say, in the Abschnitt I (Section 1), where I worked in Birkenau.
+**A.**In the clinic, we were about twelve to fifteen doctors, in the B-II-D, that is to say, in the Abschnitt I (Section 1), where I worked in [[LOCATION:location_286|Birkenau]].
 
 **Q.**Did diseases, epidemics, occur? If so, which ones?
 
-**A.**In B-II-D, first of all there was typhus. This plague was never suppressed. There were merely chance fluctuations, as manifested in the decline or increase in the number of those stricken. But this plague, I would say, was endemic - it was never completely eliminated. There were instances of diarrhoea; the diarrhoea was the outcome of undernourishment and of pollution. We could not make any laboratory tests and we were unable to distinguish whether any case of diarrhoea was due to pollution or undernourishment. But opium, which was the most valuable drug in Auschwitz, in Birkenau, since it immediately halted the diarrhoea and enabled the infected patient to absorb some food and liquids - this remedy was not available. It was more costly than life itself - opium, twenty drops of opium.
+**A.**In B-II-D, first of all there was typhus. This plague was never suppressed. There were merely chance fluctuations, as manifested in the decline or increase in the number of those stricken. But this plague, I would say, was endemic - it was never completely eliminated. There were instances of diarrhoea; the diarrhoea was the outcome of undernourishment and of pollution. We could not make any laboratory tests and we were unable to distinguish whether any case of diarrhoea was due to pollution or undernourishment. But opium, which was the most valuable drug in [[LOCATION:location_286|Auschwitz]], in [[LOCATION:location_286|Birkenau]], since it immediately halted the diarrhoea and enabled the infected patient to absorb some food and liquids - this remedy was not available. It was more costly than life itself - opium, twenty drops of opium.
 
 After that there was scabies. Obviously there, too, was a radical cure - rubbing the body twice or three times with this medicament would cause the scabies to disappear, but this medicament, the well-known preparation "Mitigal" made by I. G. Farben, of Bayer, was not obtainable.
 
@@ -187,7 +187,7 @@ After that there was scabies. Obviously there, too, was a radical cure - rubbing
 
 **Attorney General:** A Jew?
 
-**Witness Beilin:** Yes. A Jew. This Doctor was a newcomer. In other words he had just arrived, from Westerbork, I believe, and he asked me: "Tell me, colleague, when will I see my wife and children?" I asked him: "What is the reason for asking this question?" He replied to me: "Those who were on the ramp at Birkenau told me that persons who were fit for work were going to a separate camp, and the women and children were going to a separate camp where they would receive better treatment. Two weeks later there would be a meeting to enable them to be reunited for a certain period with their families." And he asked me when this meeting would take place and how it would be arranged.
+**Witness Beilin:** Yes. A Jew. This Doctor was a newcomer. In other words he had just arrived, from [[LOCATION:location_214|Westerbork]], I believe, and he asked me: "Tell me, colleague, when will I see my wife and children?" I asked him: "What is the reason for asking this question?" He replied to me: "Those who were on the ramp at [[LOCATION:location_286|Birkenau]] told me that persons who were fit for work were going to a separate camp, and the women and children were going to a separate camp where they would receive better treatment. Two weeks later there would be a meeting to enable them to be reunited for a certain period with their families." And he asked me when this meeting would take place and how it would be arranged.
 
 **Q.**And you told him that there would be no meetings with families?
 
@@ -199,7 +199,7 @@ After that there was scabies. Obviously there, too, was a radical cure - rubbing
 
 **Q.**Did he consequently commit suicide?
 
-**A.**I met him by chance about a fortnight later. He called me. I wanted to avoid this encounter - I saw him from a distance. When he approached me it was most unpleasant for me. He said to me: "Colleague - you were right. This is murder." Afterwards I learned from his Dutch friends that he committed suicide by thrusting himself - and this was the typical method in the Birkenau camp - on to the barbed-wire fence with its high tension electrical current.
+**A.**I met him by chance about a fortnight later. He called me. I wanted to avoid this encounter - I saw him from a distance. When he approached me it was most unpleasant for me. He said to me: "Colleague - you were right. This is murder." Afterwards I learned from his Dutch friends that he committed suicide by thrusting himself - and this was the typical method in the [[LOCATION:location_286|Birkenau]] camp - on to the barbed-wire fence with its high tension electrical current.
 
 **Q.**They used to run to the barbed-wire fence?
 
@@ -213,27 +213,27 @@ I must say this here, explicitly. In the "Sauna" when I was still in quarantine 
 
 When I was in the Gypsies' camp - and we shall come to that later on, but there is a link with it here - a poem was smuggled to me. For me that was a sign that a group existed which was still capable of writing poems, an organized, underground group. This poem was in Polish. Only the last verse and the title I retain in my memory. It was a long poem. The title was: "They send us out to work and to death." It referred to the Aussenkommandos (external units) those who went out from the camp to labour, and each time brought back with them dead bodies with the pretext "Auf der Flucht erschossen" (shot while trying to escape).
 
-Your Honours, please forgive me, perhaps I am disgressing from the subject, but I want it to be known, for I myself have never published it and I have never come across this poem in any book that has been published, so far, about the Holocaust. I shall translate this into Hebrew, as it is written in Polish. The title was "To death - people are being deported from the camp, to the field, to the field." (That is the literal translation.)
+Your Honours, please forgive me, perhaps I am disgressing from the subject, but I want it to be known, for I myself have never published it and I have never come across this poem in any book that has been published, so far, about the [[EVENT:event_386|Holocaust]]. I shall translate this into Hebrew, as it is written in Polish. The title was "To death - people are being deported from the camp, to the field, to the field." (That is the literal translation.)
 
-The last verse says the following: "Monsters and Barbarians, so that the world might forget you, we shall remove all traces of you. And on your graves we shall erect a sphinx that will eternally cry out: "Links, Links, Links." Because in the march in Auschwitz, from morning to evening, it was always "Links, zwei, drei, vier, links, zwei, drei, vier, links, links, links" (left, two, three four, left, two, three, four, left, left, left). That was the verse that referred to "links".
+The last verse says the following: "Monsters and Barbarians, so that the world might forget you, we shall remove all traces of you. And on your graves we shall erect a sphinx that will eternally cry out: "Links, Links, Links." Because in the march in [[LOCATION:location_286|Auschwitz]], from morning to evening, it was always "Links, zwei, drei, vier, links, zwei, drei, vier, links, links, links" (left, two, three four, left, two, three, four, left, left, left). That was the verse that referred to "links".
 
 Naturally this poem was exceedingly popular. The Political Department searched and apparently somehow got hold of a copy of this poem and searched for those responsible, but could not find them.
 
 **Presiding Judge:** What was this "Political Department"?
 
-**Witness Beilin:** The Political Department was - I can talk of two commandos. There was the Kommando der politischen Aufnahmeschreiber (The Political Unit for the Registration of Arrivals) - those who carried out the work of tattooing and registration when a new transport arrived at Birkenau. These were prisoners who worked under the supervision of one of the SS. And he was always a non-commissioned officer, an Unteroffizier. The Political Department - not the "Kommando der politischen Aufnahmeschreiber" was the department that kept watch in the camps, searched for communists, for propaganda, and on the pretext of this search they sought out all kinds of victims.
+**Witness Beilin:** The Political Department was - I can talk of two commandos. There was the Kommando der politischen Aufnahmeschreiber (The Political Unit for the Registration of Arrivals) - those who carried out the work of tattooing and registration when a new transport arrived at [[LOCATION:location_286|Birkenau]]. These were prisoners who worked under the supervision of one of the SS. And he was always a non-commissioned officer, an Unteroffizier. The Political Department - not the "Kommando der politischen Aufnahmeschreiber" was the department that kept watch in the camps, searched for communists, for propaganda, and on the pretext of this search they sought out all kinds of victims.
 
 **Q.**That is to say an investigation department?
 
-**A.**Yes. They had female or male clerks, but these clerks were prisoners who did forced labour. I even remember two of the names of people of the Political Department in the Gypsies' camp. There was one whose name was Peter Braut who was born in the Argentine, joined the Nazis and came to Germany. He was of German origin. The other was Hofmann. Hofmann was a German from Belgrade. These two sat in the Gypsies' camp, in the Political Department, and I remember them as if it were today.
+**A.**Yes. They had female or male clerks, but these clerks were prisoners who did forced labour. I even remember two of the names of people of the Political Department in the Gypsies' camp. There was one whose name was Peter Braut who was born in the Argentine, joined the Nazis and came to [[LOCATION:location_2|Germany]]. He was of German origin. The other was Hofmann. Hofmann was a German from [[LOCATION:location_138|Belgrade]]. These two sat in the Gypsies' camp, in the Political Department, and I remember them as if it were today.
 
 **Attorney General:** Dr. Beilin, what was this manifestation of Muselmannn from the medical and psychological point of view?
 
-**Witness Beilin:** "Muselmannn" was a word that originated in Auschwitz. It was the stage...
+**Witness Beilin:** "Muselmannn" was a word that originated in [[LOCATION:location_286|Auschwitz]]. It was the stage...
 
-**Presiding Judge:** I think we have already heard about this from the Kovno Ghetto, if I am not mistaken. Dr. Peretz told us about it, if I remember correctly.
+**Presiding Judge:** I think we have already heard about this from the [[LOCATION:location_17|Kovno]] Ghetto, if I am not mistaken. Dr. Peretz told us about it, if I remember correctly.
 
-**Witness Beilin:** The condition of Muselmannn was the final stage of malnutrition. It is interesting that the first symptom of such a man, when he begins to enter the stage of being a Muselmann - and that is a psychological manifestation - is when he begins to talk about food. There were two things about which prisoners did not talk about amongst themselves in Auschwitz - it was a kind of taboo: the crematorium and food. Food, because as a conditioned reflex, it caused the discharge of oxygen in the stomach and increased the appetite. So one had to exercise self-control and not speak about food.
+**Witness Beilin:** The condition of Muselmannn was the final stage of malnutrition. It is interesting that the first symptom of such a man, when he begins to enter the stage of being a Muselmann - and that is a psychological manifestation - is when he begins to talk about food. There were two things about which prisoners did not talk about amongst themselves in [[LOCATION:location_286|Auschwitz]] - it was a kind of taboo: the crematorium and food. Food, because as a conditioned reflex, it caused the discharge of oxygen in the stomach and increased the appetite. So one had to exercise self-control and not speak about food.
 
 The moment a man lost his self-control and began remembering the good food he used to get at home in better times, this kind of talk was called Muselmann talk. And that was the first stage - we knew that in a day or two he would already be entering the second stage. In other words, there was not such a sharp division - at any rate he would stop reacting, he would stop taking an interest in his surroundings, he would also stop receiving orders and responding to them. His movements would be slow, his face would be like a mask, he would have no control over his bowels. That meant that he would relieve himself wherever he was. He would not even turn himself over from side to side of his own accord. He would lie there.
 
@@ -241,11 +241,11 @@ And in this way he entered the state of being a Muselmann. He was simply a skele
 
 **Attorney General:** when some disease, taking on the form of an epidemic, broke out, what happened to the block?
 
-**Witness Beilin:** That was the famous "Epidemie-Bekaempfung" (Combatting Epidemics) in Birkenau. The SS doctors were not familiar - generally speaking they evidently did not even recognize - the infectious diseases connected with a rash, with eczema. Nor were they always able to diagnose them. For them this rash was either scarlatina or typhus. And the moment it broke out in the block - and there were six to eight hundred men in this block - this determined the fate of the entire block. And this was called the Epidemie- Bekaempfung, that is a campaign, a war against epidemics. And this whole block was put to death, since it was a carrier of potential germs, that is to say the germs together with their potential carriers.
+**Witness Beilin:** That was the famous "Epidemie-Bekaempfung" (Combatting Epidemics) in [[LOCATION:location_286|Birkenau]]. The SS doctors were not familiar - generally speaking they evidently did not even recognize - the infectious diseases connected with a rash, with eczema. Nor were they always able to diagnose them. For them this rash was either scarlatina or typhus. And the moment it broke out in the block - and there were six to eight hundred men in this block - this determined the fate of the entire block. And this was called the Epidemie- Bekaempfung, that is a campaign, a war against epidemics. And this whole block was put to death, since it was a carrier of potential germs, that is to say the germs together with their potential carriers.
 
-**Q.**When did the first Gypsies arrive at Auschwitz?
+**Q.**When did the first Gypsies arrive at [[LOCATION:location_286|Auschwitz]]?
 
-**A.**In September 1944, we, eighteen Jewish doctors were chosen by Dr. Helmersen; thereafter one hundred and eighty Poles were added to our number - amongst them thirty to thirty-five doctors, the remainder were medical orderlies and administrative personnel. We were sent out from B-II-D to an empty camp, the purpose of which we did not know.
+**A.**In September 1944, we, eighteen Jewish doctors were chosen by [[PERSON:person_711|Dr. Helmersen]]; thereafter one hundred and eighty Poles were added to our number - amongst them thirty to thirty-five doctors, the remainder were medical orderlies and administrative personnel. We were sent out from B-II-D to an empty camp, the purpose of which we did not know.
 
 **Q.**In what year was this?
 
@@ -257,19 +257,19 @@ And in this way he entered the state of being a Muselmann. He was simply a skele
 
 **Attorney General:** What country did they come from?
 
-**Witness Beilin:** They came from Czechoslovakia, Poland, Belgium, France and Luxembourg.
+**Witness Beilin:** They came from [[LOCATION:location_15|Czechoslovakia]], [[LOCATION:location_5|Poland]], [[LOCATION:location_21|Belgium]], [[LOCATION:location_30|France]] and [[LOCATION:location_27|Luxembourg]].
 
 **Q.**Germany?
 
-**A.**And Germany. They did not come from Romania or Hungary.
+**A.**And [[LOCATION:location_2|Germany]]. They did not come from [[LOCATION:location_129|Romania]] or [[LOCATION:location_24|Hungary]].
 
 **Presiding Judge:** Why was that? These were actually Gypsy countries?
 
-**Witness Beilin:** There was an explanation for that. I do not know if it was a fact, but the Gypsies themselves said that in Hungary, the Hungarian nobility was very much mixed up with the Gypsies and hence the Hungarian Government did not agree to deport the Gypsies. This was, of course, only a conjecture; I don't know how much truth there was in that.
+**Witness Beilin:** There was an explanation for that. I do not know if it was a fact, but the Gypsies themselves said that in [[LOCATION:location_24|Hungary]], the Hungarian nobility was very much mixed up with the Gypsies and hence the [[ORGANIZATION:org_329|Hungarian Government]] did not agree to deport the Gypsies. This was, of course, only a conjecture; I don't know how much truth there was in that.
 
 **Attorney General:** You were entrusted, together with other doctors, with the medical treatment of the Gypsies?
 
-**Witness Beilin:** Yes. Together with Polish doctors and eighteen Jewish doctors, eight of whom died in the course of time. Amongst them was one woman doctor who now lives in New York, a German Jewess, who was brought from Holland, from Westerbork.
+**Witness Beilin:** Yes. Together with Polish doctors and eighteen Jewish doctors, eight of whom died in the course of time. Amongst them was one woman doctor who now lives in New York, a German Jewess, who was brought from Holland, from [[LOCATION:location_214|Westerbork]].
 ---
 
 **Q.**Amongst the Gypsies there were also some who were brought from German military service - is that correct?
@@ -280,21 +280,21 @@ That was the first patient in the tuberculosis block which was still empty. She 
 
 Six weeks after this I saw this same Gypsy woman - I was working in another block. I heard that I was being called. "Herr Doktor, Herr Doktor" from the top bunk of the block, which had meanwhile been filled to capacity with tuberculosis patients. I looked at her and I saw before me a very emaciated face. I asked: "Do you mean me?" And she replied: "Yes - you don't recognize me - I was your first patient in the tuberculosis block." I remembered the affair and asked her how she felt. In reply she said: "Herr Doktor, this is murder - we did not know that."
 
-**Q.**Were there also Gypsies who arrived from Germany in military uniform?
+**Q.**Were there also Gypsies who arrived from [[LOCATION:location_2|Germany]] in military uniform?
 
 **A.**Yes.
 
 **Q.**How did they get there?
 
-**A.**They came on the same transports; they said they had been registered in the Gypsies' department, the department of registration of Gypsies. This is what they claimed and since they came with all their possessions, they had photographs and pictures - they arrived in uniform. I saw one of them who showed me a photograph of himself participating in the Polish campaign, and said that he had bombed Warsaw. He was in army uniform without signs of rank and without a belt. I also saw lance-sergeants and not only officers. They were embittered and did not know what was happening. One said that he had been so loyal to the German fatherland, to the "great German Reich" and suddenly this was what they were doing to him.
+**A.**They came on the same transports; they said they had been registered in the Gypsies' department, the department of registration of Gypsies. This is what they claimed and since they came with all their possessions, they had photographs and pictures - they arrived in uniform. I saw one of them who showed me a photograph of himself participating in the Polish campaign, and said that he had bombed [[LOCATION:location_93|Warsaw]]. He was in army uniform without signs of rank and without a belt. I also saw lance-sergeants and not only officers. They were embittered and did not know what was happening. One said that he had been so loyal to the German fatherland, to the "great German Reich" and suddenly this was what they were doing to him.
 
-**Q.**How did the Gypsies live in Auschwitz? Were they in a family camp?
+**Q.**How did the Gypsies live in [[LOCATION:location_286|Auschwitz]]? Were they in a family camp?
 
 **A.**Yes.
 
-**Q.**Was that something exceptional in Auschwitz?
+**Q.**Was that something exceptional in [[LOCATION:location_286|Auschwitz]]?
 
-**A.**Yes. After the Czech camp in Theresienstadt, there was this family camp in Auschwitz and that was the last; we actually had a maternity home, where babies were born, and they received their tattoo mark on the day of their birth, on their little arms. A Politischer Aufnahmeschreiber would come under SS supervision and made the tattoo mark. For Gypsies there was a special numbering method with the letter "Z" (for Zigeuner) Z1, Z2, 2000. When they made a tattoo mark on me, I asked: "What is this for? I do not understand." And then they told me: "So that your body can be identified."
+**A.**Yes. After the Czech camp in [[LOCATION:location_124|Theresienstadt]], there was this family camp in [[LOCATION:location_286|Auschwitz]] and that was the last; we actually had a maternity home, where babies were born, and they received their tattoo mark on the day of their birth, on their little arms. A Politischer Aufnahmeschreiber would come under SS supervision and made the tattoo mark. For Gypsies there was a special numbering method with the letter "Z" (for Zigeuner) Z1, Z2, 2000. When they made a tattoo mark on me, I asked: "What is this for? I do not understand." And then they told me: "So that your body can be identified."
 
 **Q.**What was your number?
 
@@ -302,7 +302,7 @@ Six weeks after this I saw this same Gypsy woman - I was working in another bloc
 
 **Q.**What happened to the Gypsies in the camp?
 
-**A.**It was obvious that diseases would break out in the camp. And here I have to dwell on their specific illnesses, illnesses that we did not come across with the "whites". In contrast to the Gypsies in the camp at Birkenau, it was the practice here to have a "camp for the whites" and a "camp for the Gypsies," without any intention of discrimination. There were illnesses that we had not encountered amongst the "whites". The doctors had never seen this in normal times when they practised their profession.
+**A.**It was obvious that diseases would break out in the camp. And here I have to dwell on their specific illnesses, illnesses that we did not come across with the "whites". In contrast to the Gypsies in the camp at [[LOCATION:location_286|Birkenau]], it was the practice here to have a "camp for the whites" and a "camp for the Gypsies," without any intention of discrimination. There were illnesses that we had not encountered amongst the "whites". The doctors had never seen this in normal times when they practised their profession.
 
 **Q.**It would be better to refer to "a camp for others." There is an unpleasant taste to it - let us rather talk of a camp for Gypsies and camps for others, with your permission. There were diseases amongst the Gypsies that you did not come across with other prisoners. What were these diseases?
 
@@ -316,7 +316,7 @@ Six weeks after this I saw this same Gypsy woman - I was working in another bloc
 
 **Witness Beilin:** This was, as it were, experimental work. The second illness was "Noma" - in German it is called "Wasserkrebs". The illness is gangrene. It begins with an inflammation of the mucuous membrane of the cheek and leads to a gangrenous condition of the tissue and perforation of the cheek through which the tongue and teeth are visible. The problem is linked to external undernourishment and it attacks children and young people.
 
-**Attorney General:** Perhaps you would allow me somewhat to guide you. The disease spread among the Gypsies. Mengele suggested to the medical team that they should conduct some scientific research, and was Professor Epstein of Oslo one of them?
+**Attorney General:** Perhaps you would allow me somewhat to guide you. The disease spread among the Gypsies. Mengele suggested to the medical team that they should conduct some scientific research, and was Professor Epstein of [[LOCATION:location_219|Oslo]] one of them?
 
 **Witness Beilin:** Not actually for this illness. He allowed him to chose his subject. He said to him - this is what Prof. Epstein told us - "We are enemies - you will not get out of here. If you will perform scientific work for me and I publish it in my name, you will prolong your own life." And Epstein did not want to do so.
 
@@ -372,7 +372,7 @@ Six weeks after this I saw this same Gypsy woman - I was working in another bloc
 
 **A.**Yes, they were loaded on to the trucks and taken to the gas chambers. The entire camp was emptied out. Thereafter, Hungarian Jews came in their place. While it was still a Gypsy camp, half of its capacity, the second row of blocks, was filled by Hungarian Jews. As soon as all the Gypsies had been liquidated, Hungarian Jews also came to the Krankenbau (the sick ward) for treatment, together with Hungarian doctors - I remember them from Klausenburg - they were very nice people. Those were very traditional Jews, and on the Day of Atonement - I was still with the remnants of the Gypsies' camp - a public prayer meeting took place in the block where they worked.
 
-In Birkenau there was a "Goebbels Calendar." The "Goebbels Calendar" implied that, on every Sabbath day and on every Jewish Festival, the sick ward and also the blocks, the resting blocks, with the Muselmann, who did not go out to work, were emptied out. We had forgotten on the eve of the Day of Atonement - this was the year 1944 - that this was one of the days of the "Goebbels Calendar."
+In [[LOCATION:location_286|Birkenau]] there was a "Goebbels Calendar." The "Goebbels Calendar" implied that, on every Sabbath day and on every Jewish Festival, the sick ward and also the blocks, the resting blocks, with the Muselmann, who did not go out to work, were emptied out. We had forgotten on the eve of the Day of Atonement - this was the year 1944 - that this was one of the days of the "Goebbels Calendar."
 
 **Presiding Judge:** What did that mean?
 
@@ -380,7 +380,7 @@ In Birkenau there was a "Goebbels Calendar." The "Goebbels Calendar" implied tha
 
 This happened in the middle of the Kol Nidrei prayer, when the trucks arrived. I remember the shouts of a youth aged sixteen who was seized. He said something in Hungarian. A Hungarian doctor translated the words into German for me. I remember only that he said "Doctor Baczi" (these words meant "Uncle Doctor" - whenever they used a respectful form of address, they used the word "Baczi"). He said this, not to me, but to the Hungarian doctor. He said to him: "Uncle Doctor, if you meet my father, tell him that I died on the Day of Atonement." When I asked for a translation of these words and he translated them for me, I asked the doctor: "What is the significance of the date?" He told me that, according to Jewish tradition, righteous people died on the Day of Atonement - that was his reply.
 
-**Attorney General:** Dr. Beilin, had you already received information that your wife was in the women's camp in Auschwitz, and that she was very ill and needed medicines?
+**Attorney General:** Dr. Beilin, had you already received information that your wife was in the women's camp in [[LOCATION:location_286|Auschwitz]], and that she was very ill and needed medicines?
 
 **Witness Beilin:** Yes.
 
@@ -390,13 +390,13 @@ This happened in the middle of the Kol Nidrei prayer, when the trucks arrived. I
 
 **Q.**And that some Polish woman through whom you smuggled the injection informed you the following day that your wife had died?
 
-**A.**Yes. That was at Christmas time, the following day, 24 December 1943. Previoiusly a letter from my wife had been smuggled to me. We had not been seized together and she remained in the ghetto for another six months. As I mentioned, I sent a postcard there - I took advantage of the opportunity of its being "the day for writing for all the prisoners except for Polish and Greek Jews." I went to the writing room and asked for a postcard on the grounds that I was a Jew from the Reich. I was given the postcard, since Bialystok had been annexed to the Third Reich. This postcard was received in the ghetto. My wife got to know that I was in Auschwitz. She reached Auschwitz in a somewhat strange way.
+**A.**Yes. That was at Christmas time, the following day, 24 December 1943. Previoiusly a letter from my wife had been smuggled to me. We had not been seized together and she remained in the ghetto for another six months. As I mentioned, I sent a postcard there - I took advantage of the opportunity of its being "the day for writing for all the prisoners except for Polish and Greek Jews." I went to the writing room and asked for a postcard on the grounds that I was a Jew from the Reich. I was given the postcard, since Bialystok had been annexed to the Third Reich. This postcard was received in the ghetto. My wife got to know that I was in [[LOCATION:location_286|Auschwitz]]. She reached [[LOCATION:location_286|Auschwitz]] in a somewhat strange way.
 
-**Q.**She belonged to the escort of 1,200 children from Bialystok who went to Theresienstadt, some of whom were later taken away to be exterminated?
+**Q.**She belonged to the escort of 1,200 children from Bialystok who went to [[LOCATION:location_124|Theresienstadt]], some of whom were later taken away to be exterminated?
 
-**A.**Yes. The escort did not go into Theresienstadt but was brought to Auschwitz. After the children had entered Theresienstadt, when they alighted from the train under guard, on the road leading to the crematorium, Mengele met them and asked the guard: "What group is this?" He whispered something into his ear. This is what my wife wrote in the letter that was smuggled in by one of the doctors who was allowed to move from one camp to the other. He asked: "Are there any doctors here?" There was one doctor who, incidentally, was the founder of the Hebrew gymnasium in Bialystok, Dr. Katznelson. There were a number of female and male nurses. My wife was a pharmacist. He separated this party from the others and sent them back to the camp. That was in August, and my wife died from typhus a few months afterwards, in December 1943.
+**A.**Yes. The escort did not go into [[LOCATION:location_124|Theresienstadt]] but was brought to [[LOCATION:location_286|Auschwitz]]. After the children had entered [[LOCATION:location_124|Theresienstadt]], when they alighted from the train under guard, on the road leading to the crematorium, Mengele met them and asked the guard: "What group is this?" He whispered something into his ear. This is what my wife wrote in the letter that was smuggled in by one of the doctors who was allowed to move from one camp to the other. He asked: "Are there any doctors here?" There was one doctor who, incidentally, was the founder of the Hebrew gymnasium in Bialystok, Dr. Katznelson. There were a number of female and male nurses. My wife was a pharmacist. He separated this party from the others and sent them back to the camp. That was in August, and my wife died from typhus a few months afterwards, in December 1943.
 
-**Q.**Dr. Beilin, what means of disinfection were used in Auschwitz for disinfecting bedding and sheets?
+**Q.**Dr. Beilin, what means of disinfection were used in [[LOCATION:location_286|Auschwitz]] for disinfecting bedding and sheets?
 
 **A.**Zyklon B. Zyklon B was the "blue acid" - cyanide. This cyanide was spread throughout the block after the prisoners had been driven out. They used to close the block hermetically, as far as possible, for the extermination of mice and for disinfection. Even the chimney of the block was covered with a blanket. An SS man would go inside with a gas- mask, and spread the cyanide crystals in all corners. We used to find them afterwards when we entered the block and had to sweep it. The blankets were immersed in a water solution of Zyklon B, and this solution was prepared in rusty bath tubs outside. We had to take these blankets, to remove them from the solution, to load them on to our shoulders and then take them to the block where we had to hang them up for drying.
 
@@ -421,7 +421,7 @@ This happened in the middle of the Kol Nidrei prayer, when the trucks arrived. I
 
 **Witness Beilin:** Yes. But here one cannot see the colours. The tin was painted in gold colour. That is to say, it was given a covering with some material which had the colour of gold or copper. It shone.
 
-**Attorney General:** I submit this book. This is the German translation of the Polish Report on Auschwitz. We did not prepare a Hebrew translation, as we knew there was an official German translation, I shall submit it at this stage and refer to it later.
+**Attorney General:** I submit this book. This is the German translation of the Polish Report on [[LOCATION:location_286|Auschwitz]]. We did not prepare a Hebrew translation, as we knew there was an official German translation, I shall submit it at this stage and refer to it later.
 
 **Witness Beilin:** I would like to draw the Court's attention to the fact that, if this should be produced as evidence, there are two kinds of containers here. One kind which has a folding top is made of cardboard, and the second kind is of tin. I saw the second kind.
 
@@ -455,11 +455,11 @@ This happened in the middle of the Kol Nidrei prayer, when the trucks arrived. I
 
 **Q.**What camp did they come from?
 
-**A.**From Auschwitz 1. And then I heard from them, for the first time, the name of Dr. Schumann. This name was mentioned by them as the one who had performed it on them; at any rate they came to us for treatment and were placed in a special Stube (ward) - it was not a room but part of a block with bunks, and there we tried all the limited standard ointments in our possession, for even in normal times X-ray burns did not generally heal. Some SS doctor used to come together with Dr. Mengele and they would come from time to time and order us to remove the bandages so that they could inspect the condition of the wounds. One day they took them to a truck, wrapped in blankets, and in this way they disappeared.
+**A.**From [[LOCATION:location_286|Auschwitz]] 1. And then I heard from them, for the first time, the name of Dr. Schumann. This name was mentioned by them as the one who had performed it on them; at any rate they came to us for treatment and were placed in a special Stube (ward) - it was not a room but part of a block with bunks, and there we tried all the limited standard ointments in our possession, for even in normal times X-ray burns did not generally heal. Some SS doctor used to come together with Dr. Mengele and they would come from time to time and order us to remove the bandages so that they could inspect the condition of the wounds. One day they took them to a truck, wrapped in blankets, and in this way they disappeared.
 
 **Q.**Where to?
 
-**A.**I don't know, but a naked person on a truck, wrapped in a blanket in Birkenau invariably meant gassing.
+**A.**I don't know, but a naked person on a truck, wrapped in a blanket in [[LOCATION:location_286|Birkenau]] invariably meant gassing.
 
 **Q.**Do you also know about cases of castration?
 
@@ -471,9 +471,9 @@ This happened in the middle of the Kol Nidrei prayer, when the trucks arrived. I
 
 **Q.**What did he do?
 
-**A.**This Schillinger - in all the atrocities that existed in Birkenau he was the limit - he was simply a murderer who killed his victims with his own hands, and in particular, as I have related, when food was distributed; he apparently also took part in the reception of transports to the crematorium, because something happened and it filtered down to us via the Sonderkommando.
+**A.**This Schillinger - in all the atrocities that existed in [[LOCATION:location_286|Birkenau]] he was the limit - he was simply a murderer who killed his victims with his own hands, and in particular, as I have related, when food was distributed; he apparently also took part in the reception of transports to the crematorium, because something happened and it filtered down to us via the Sonderkommando.
 
-I have only to point out that the Sonderkommando was a closed unit with which we had no contact apart from the doctor. The doctor had permission to move around and he came to the clinic to put medicine into his knapsack, and he used to accompany the Sonderkommando each time at its work. And this doctor used to bring us news, and brought us information that Schillinger had been killed by a woman from one of the transports which, according to accounts, was a transport of foreign nationals who had been gathered together in Warsaw, in the Polonia Hotel, and ultimately they came to Auschwitz.
+I have only to point out that the Sonderkommando was a closed unit with which we had no contact apart from the doctor. The doctor had permission to move around and he came to the clinic to put medicine into his knapsack, and he used to accompany the Sonderkommando each time at its work. And this doctor used to bring us news, and brought us information that Schillinger had been killed by a woman from one of the transports which, according to accounts, was a transport of foreign nationals who had been gathered together in [[LOCATION:location_93|Warsaw]], in the Polonia Hotel, and ultimately they came to [[LOCATION:location_286|Auschwitz]].
 
 **Q.**Jews?
 
@@ -510,21 +510,21 @@ I have only to point out that the Sonderkommando was a closed unit with which we
 
 **Q.**Two days later he returned to you?
 
-**A.**Two days later Dr. Globersohn, who had been a doctor in Belgium, a native of Pinsk, who had studied and had his practice in Belgium, was brought to us, poisoned and unconscious. We knew that he had taken an overdose of sleeping-pills and he bore signs of having received blows, terrible signs of hemorrhages and wounds. When they brought him to the camp he was dying - there was no need to strike him - he would have died anyhow. Moll came there and beat him to death saying: "You want to avoid your duties and to die, you Jewish swine (Saujude)?" That was how Gobersohn died.
+**A.**Two days later Dr. Globersohn, who had been a doctor in [[LOCATION:location_21|Belgium]], a native of Pinsk, who had studied and had his practice in [[LOCATION:location_21|Belgium]], was brought to us, poisoned and unconscious. We knew that he had taken an overdose of sleeping-pills and he bore signs of having received blows, terrible signs of hemorrhages and wounds. When they brought him to the camp he was dying - there was no need to strike him - he would have died anyhow. Moll came there and beat him to death saying: "You want to avoid your duties and to die, you Jewish swine (Saujude)?" That was how Gobersohn died.
 
 **Q.**Do you remember what happened in January 1945?
 
-**A.**After the camp was liquidated and after the Hungarians were also no longer there, I was transferred to Section (Abschnitt) F. This was opposite Section E where the Gypsies were. That was the Krankenbau for all the other camps. I worked there until 17 January 1945. I found there many Polish medical colleagues, many friends whom I had first met at university, fellow-students; amongst them there were also some who today are in the Polish Government. On 17 January 1945...we knew that on 11 January the last Russian offensive had begun and they had crossed the Vistula. We thought that we were not far from the Vistula and that we would be liberated, but that was a vain hope. On 17 January 1945 they woke us during the night: "Alle Pfleger antreten" (All medical orderlies are to report). Of course we all reported and immediately they ordered us "Rechts um, Marsch!" (Right turn - march); it was at the height of the winter.
+**A.**After the camp was liquidated and after the Hungarians were also no longer there, I was transferred to Section (Abschnitt) F. This was opposite Section E where the Gypsies were. That was the Krankenbau for all the other camps. I worked there until 17 January 1945. I found there many Polish medical colleagues, many friends whom I had first met at university, fellow-students; amongst them there were also some who today are in the [[ORGANIZATION:org_304|Polish Government]]. On 17 January 1945...we knew that on 11 January the last Russian offensive had begun and they had crossed the [[LOCATION:location_162|Vistula]]. We thought that we were not far from the [[LOCATION:location_162|Vistula]] and that we would be liberated, but that was a vain hope. On 17 January 1945 they woke us during the night: "Alle Pfleger antreten" (All medical orderlies are to report). Of course we all reported and immediately they ordered us "Rechts um, Marsch!" (Right turn - march); it was at the height of the winter.
 
 **Q.**Where were you taken to?
 
-**A.**They led us to the Stammlager (main camp) which was in Birkenau, at a distance of some five to seven kilometres, and that was where I saw Drechsler, the woman supervisor of the women's camp. She also stood there with a SS group, and there they gathered together a group of 15,000 persons. That is to say, there were ten groups of 1,500 each. In each group the proportion of the guard to the group was one in twenty-five, which means that there were 600 SS men in charge of these groups. Along the road where we began walking, the first station was Gleiwitz - we were walking through Lower Silesia. The second station was Ratibor and then we were joined by prisoners who had been evacuated from camps in the vicinity - from Laurahuette, Koenigshuette, Jaworzno, Janina, Czechowitz...
+**A.**They led us to the Stammlager (main camp) which was in [[LOCATION:location_286|Birkenau]], at a distance of some five to seven kilometres, and that was where I saw Drechsler, the woman supervisor of the women's camp. She also stood there with a SS group, and there they gathered together a group of 15,000 persons. That is to say, there were ten groups of 1,500 each. In each group the proportion of the guard to the group was one in twenty-five, which means that there were 600 SS men in charge of these groups. Along the road where we began walking, the first station was Gleiwitz - we were walking through [[LOCATION:location_287|Lower Silesia]]. The second station was Ratibor and then we were joined by prisoners who had been evacuated from camps in the vicinity - from Laurahuette, Koenigshuette, Jaworzno, Janina, Czechowitz...
 
-**Q.**Were all these branches of Auschwitz-Birkenau?
+**Q.**Were all these branches of [[LOCATION:location_286|Auschwitz-Birkenau]]?
 
 **A.**Yes.
 
-**Q.**In your opinion how many people did this complex of Auschwitz-Birkenau contain, with all its satellite camps?
+**Q.**In your opinion how many people did this complex of [[LOCATION:location_286|Auschwitz-Birkenau]] contain, with all its satellite camps?
 
 **A.**In my modest estimate, about 160,000. My calculation is based on the number of groups that were evacuated. In my group there were 25,000 persons, I heard, after the liberation, of other death marches containing 25,000, and the women's camps. In my opinion there ought to have been there - that was also the number generally accepted amongst the prisoners - 160,000 in constant rotation. After all, everything was in transit - transports departed and new ones arrived.
 
@@ -532,9 +532,9 @@ And here began the tragedy of those 25,000 people of whom I was one.
 
 **Q.**Perhaps you could describe it briefly?
 
-**A.**Those who could not walk were shot. That was called a "mercy shot"; a man would leave the ranks, sit down at the edge of the road and he would be given a "mercy shot." In Auschwitz, generally speaking in Birkenau, they were not shot - they said "it is a pity to waste a bullet on a Jew," but on the march - they were shot.
+**A.**Those who could not walk were shot. That was called a "mercy shot"; a man would leave the ranks, sit down at the edge of the road and he would be given a "mercy shot." In [[LOCATION:location_286|Auschwitz]], generally speaking in [[LOCATION:location_286|Birkenau]], they were not shot - they said "it is a pity to waste a bullet on a Jew," but on the march - they were shot.
 
-And we started to count the shots. The column was a long one, 25,000 persons. We could only judge by the number of shots, and we knew that each shot meant a life. There were days when the number of shots reached five hundred and the further we marched, the number of shots increased. We had no strength left, we were without food, we slept in stables and not only in stables. And there were people who had been through all the seven stages of hell and who were on the verge of liberation. On one occasion they put us into a certain bunker in Landeshut in Lower Silesia - today it is called Kamienna Gora in Polish. On the entrance to the bunker it said "Entry forbidden by order of the Police." Since it was almost sunset we did not notice this sign - we did so only on the morning after the tragedy. It was a very long bunker like a labyrinth with lanes leading off to the sides.
+And we started to count the shots. The column was a long one, 25,000 persons. We could only judge by the number of shots, and we knew that each shot meant a life. There were days when the number of shots reached five hundred and the further we marched, the number of shots increased. We had no strength left, we were without food, we slept in stables and not only in stables. And there were people who had been through all the seven stages of hell and who were on the verge of liberation. On one occasion they put us into a certain bunker in Landeshut in [[LOCATION:location_287|Lower Silesia]] - today it is called Kamienna Gora in Polish. On the entrance to the bunker it said "Entry forbidden by order of the Police." Since it was almost sunset we did not notice this sign - we did so only on the morning after the tragedy. It was a very long bunker like a labyrinth with lanes leading off to the sides.
 
 **Presiding Judge:** A bunker for what - against air-raids?
 
@@ -546,7 +546,7 @@ And we started to count the shots. The column was a long one, 25,000 persons. We
 
 **Q.**Did they put all 25,000 in there?
 
-**A.**By then we were only 5,000. And the next morning, when they opened the doors, we removed 1,000 bodies from there. It was truly death by suffocation, in horrible positions, naked, on their knees and with their mouths on the concrete floor, where they tried to breath in air, since the concrete was porous - amongst them there were many doctors. In our transport, when we set out, there were twenty-seven doctors; three of us remained and all of us are in Israel. Very few survived from this entire transport, since we left, along the way, many frozen to death; many were shot and died on the way. This I learned subsequently, for I was separated from this transport in a group of chemists.
+**A.**By then we were only 5,000. And the next morning, when they opened the doors, we removed 1,000 bodies from there. It was truly death by suffocation, in horrible positions, naked, on their knees and with their mouths on the concrete floor, where they tried to breath in air, since the concrete was porous - amongst them there were many doctors. In our transport, when we set out, there were twenty-seven doctors; three of us remained and all of us are in [[LOCATION:location_38|Israel]]. Very few survived from this entire transport, since we left, along the way, many frozen to death; many were shot and died on the way. This I learned subsequently, for I was separated from this transport in a group of chemists.
 
 I saw that if I continued with this transport it would be the end of me, and I decided to get away from this wretched march. At one of the places, the commander of the march called for chemists, and I said that I was a chemist. He asked me: "What is the formula for water?" I replied to him: "H2O," and he said "That's fine - you may go." In this way I became a chemist. The transport commander was Hauptscharfuehrer Schultze and he annihilated these 25,000, he and his men, he and his guards. After we had removed the bodies from this bunker, a police officer arrived and I heard how the police officer, a lieutenant, shouted at the transport commander: "How could you dare put people into a bunker on which it says expressly 'Entry forbidden by order of the Police'?" He said this in great anger. The commander of the march answered him with a smile: "Lieutenant, they are only Jews." And then he said: "I see - that's in order," and he went away.
 ---
@@ -555,21 +555,21 @@ I saw that if I continued with this transport it would be the end of me, and I d
 
 **A.**Yes, for I was dragging bodies and I passed near them while they were talking together. And that was a lie, for it was a mixed transport, there were Poles, Germans, Czechs, not only Jews, but they atoned for all the atrocities with the word "Jews".
 
-And so, I said that I was a chemist, and I went off by train with a group of thirty chemists. At the place where we parted from the transport only about one thousand people still remained alive. This was in Krumholz, near Liebental in Lower Silesia - this place is called Krassnegora in Polish. On the way we dug anti-tank trenches and shelters for the army; this, too, was one of the methods of extermination of this transport, which was without food, without clothing, without sleep. When we arrived on this train, we asked our guard where he was taking the chemists to and he replied: "They are going to Flossenbuerg to forge dollars."
+And so, I said that I was a chemist, and I went off by train with a group of thirty chemists. At the place where we parted from the transport only about one thousand people still remained alive. This was in Krumholz, near Liebental in [[LOCATION:location_287|Lower Silesia]] - this place is called Krassnegora in Polish. On the way we dug anti-tank trenches and shelters for the army; this, too, was one of the methods of extermination of this transport, which was without food, without clothing, without sleep. When we arrived on this train, we asked our guard where he was taking the chemists to and he replied: "They are going to Flossenbuerg to forge dollars."
 
 But he took us off at Reichenau, near Gablonz in the Sudeten area. There was a camp there where no Jew had ever been. It was a small camp of Gross-Rosen, and it had a plant for radio sets. The plant was called "05Goetterland". The whole camp worked for the factory of radio sets. Electricians, technicians and specialists in fine mechanics were working there.
 
 We were the first Jews. Naturally we were full of lice - they had not been taken to a march, they were more or less clean - and we were obliged - all thirty of us - to sleep outside. We were sent away to the Baukolonne (Building Detachment). That was the only hard labour in this camp. We built a villa for the camp commandant, and we had to pave the road. And then something happened to me.
 
-A Czech woman gave me a piece of bread. We returned to the camp. He ordered us to undress. I put the bread on top of my pile of clothes, since I knew that in Birkenau there was no punishment for possessing bread. I did not understand that there was a difference between that bread and this bread: in Birkenau it was "army bread" and here it was "freedom bread." And when he looked at this bread and asked "whom does this belong to?" and when I said that it belonged to me, he said: "Make an injection" (Abspritzen). I stood there, naked, two prisoners held my arms and I did not understand what this was about.
+A Czech woman gave me a piece of bread. We returned to the camp. He ordered us to undress. I put the bread on top of my pile of clothes, since I knew that in [[LOCATION:location_286|Birkenau]] there was no punishment for possessing bread. I did not understand that there was a difference between that bread and this bread: in [[LOCATION:location_286|Birkenau]] it was "army bread" and here it was "freedom bread." And when he looked at this bread and asked "whom does this belong to?" and when I said that it belonged to me, he said: "Make an injection" (Abspritzen). I stood there, naked, two prisoners held my arms and I did not understand what this was about.
 
-In Auschwitz I had heard about this, but I did not know what it was. He ordered them to bring a syringe. But he was told it was not there - it had been given to the SS hospital. He said to me: "Get dressed" and "Forward march." He threw my bread into the refuse bin, it was some kind of refuse pit. When I asked later what was supposed to have happened, it was explained to me that in this camp they used to make a petrol injection into the heart. And this was not done by a doctor but by the SS man himself - his name was Braun.
+In [[LOCATION:location_286|Auschwitz]] I had heard about this, but I did not know what it was. He ordered them to bring a syringe. But he was told it was not there - it had been given to the SS hospital. He said to me: "Get dressed" and "Forward march." He threw my bread into the refuse bin, it was some kind of refuse pit. When I asked later what was supposed to have happened, it was explained to me that in this camp they used to make a petrol injection into the heart. And this was not done by a doctor but by the SS man himself - his name was Braun.
 
 Two or three days before the liberation, we were set free from this camp. We could not walk any further, for the road seemed to be blocked. Meanwhile, of those thirty, who were all Jews, ten remained - twenty had died. Of these ten who survived, six died after the liberation in the municipal hospital in Gablonz, and only four remained alive.
 
-**Attorney General:** Dr. Beilin, of all the twenty-five thousand who left Auschwitz together with you, how many survived after the War?
+**Attorney General:** Dr. Beilin, of all the twenty-five thousand who left [[LOCATION:location_286|Auschwitz]] together with you, how many survived after the War?
 
-**Witness Beilin:** When I left the transport at Krumholz there were one thousand persons. I did not know what happened to them. After the liberation I was told by the doctor who remained with this group until the end - he now lives in Tel Aviv - that one hundred and nine persons survived, and of these one hundred and nine, forty-three died after the liberation.
+**Witness Beilin:** When I left the transport at Krumholz there were one thousand persons. I did not know what happened to them. After the liberation I was told by the doctor who remained with this group until the end - he now lives in [[LOCATION:location_42|Tel Aviv]] - that one hundred and nine persons survived, and of these one hundred and nine, forty-three died after the liberation.
 
 **Attorney General:** What caused their death?
 
@@ -579,7 +579,7 @@ Two or three days before the liberation, we were set free from this camp. We cou
 
 **A.**Yes.
 
-**Q.**Out of the twenty-five thousand who were there when you left Auschwitz-Birkenau?
+**Q.**Out of the twenty-five thousand who were there when you left [[LOCATION:location_286|Auschwitz-Birkenau]]?
 
 **A.**Yes. I only want to add that I lost consciousness. For three days... I was in a state of semi-consciousness. I became a Muselmann. I began to visualize good food and I knew that this was the sign. When I was already in this state of semi-consciousness they did not force me to go out to the building detachment, but I had to scrub the floor of the block.
 
@@ -595,12 +595,12 @@ I knew that he would want to get rid of the witness who had been present at the 
 
 **Dr. Servatius:** I have no questions to the witness.
 
-**Judge Raveh:** Dr. Beilin, I do not know whether I understood you correctly; when you first came to Auschwitz, you did not work as a doctor?
+**Judge Raveh:** Dr. Beilin, I do not know whether I understood you correctly; when you first came to [[LOCATION:location_286|Auschwitz]], you did not work as a doctor?
 
-**Witness Beilin:** No, not in the quarantine and later on, too, I did not work as a doctor. It was a special case if someone was chosen to work as a doctor. The selection of doctors was carried out by the Haeftlings-Oberarzt (the Prisoners' Chief Doctor). He himself was a Polish prisoner whose name was Zangfele. This Roman Zangefele chose me whenever necessary. An interesting point: Since my diploma had been torn up in the "Sauna", when he selected me for the clinic he asked my one question: "Have you encountered spot typhus?" I replied: "Yes." Then he said to me: "You are lying - there was no spot typhus in Poland." He had forgotten that in the meanwhile, the Soviets had been in this part of Poland for two years and they had brought us typhus.
+**Witness Beilin:** No, not in the quarantine and later on, too, I did not work as a doctor. It was a special case if someone was chosen to work as a doctor. The selection of doctors was carried out by the Haeftlings-Oberarzt (the Prisoners' Chief Doctor). He himself was a Polish prisoner whose name was Zangfele. This Roman Zangefele chose me whenever necessary. An interesting point: Since my diploma had been torn up in the "Sauna", when he selected me for the clinic he asked my one question: "Have you encountered spot typhus?" I replied: "Yes." Then he said to me: "You are lying - there was no spot typhus in [[LOCATION:location_5|Poland]]." He had forgotten that in the meanwhile, the Soviets had been in this part of [[LOCATION:location_5|Poland]] for two years and they had brought us typhus.
 
 **Q.**How did he pick you out?
 
-**A.**One has to bear in mind that the mortality rate of doctors was also very high. They were not used to hard labour and if they did not work in their profession they died. They were tortured and died, particularly as the authority over them was in the hands of criminals who especially suppressed the intellectuals - not only the doctors, but doctors as well. Hence, when there were few doctors in Birkenau, an order was issued to all blocks: "All nurses and doctors are to report." And then he made his selection from amongst these.
+**A.**One has to bear in mind that the mortality rate of doctors was also very high. They were not used to hard labour and if they did not work in their profession they died. They were tortured and died, particularly as the authority over them was in the hands of criminals who especially suppressed the intellectuals - not only the doctors, but doctors as well. Hence, when there were few doctors in [[LOCATION:location_286|Birkenau]], an order was issued to all blocks: "All nurses and doctors are to report." And then he made his selection from amongst these.
 
 **Presiding Judge:** Thank you, Dr. Beilin, you have concluded

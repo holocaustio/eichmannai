@@ -1,18 +1,18 @@
-# Testimony of Dr. Moshe Beisky
+# Testimony of [[PERSON:witness_102|Dr. Moshe Beisky]]
 
 **Session:** 21
 
 ---
 
-**Attorney General:** Is your name Dr. Moshe Beisky?
+**Attorney General:** Is your name [[PERSON:witness_102|Dr. Moshe Beisky]]?
 
 **Witness Beisky:** Yes.
 
-**Q.**You are a magistrate in Tel Aviv?
+**Q.**You are a magistrate in [[LOCATION:location_42|Tel Aviv]]?
 
 **A.**Yes.
 
-**Q.**Do you live at 7 Rehov Pinkas, Tel Aviv?
+**Q.**Do you live at 7 Rehov Pinkas, [[LOCATION:location_42|Tel Aviv]]?
 
 **A.**Correct.
 
@@ -20,7 +20,7 @@
 
 **A.**Correct.
 
-**Q.**Dr. Beisky, at the outbreak of the Second World War were you in Cracow?
+**Q.**Dr. Beisky, at the outbreak of the [[EVENT:event_383|Second World War]] were you in Cracow?
 
 **A.**Correct.
 
@@ -34,9 +34,9 @@
 
 **Q.**What was the name of the town?
 
-**A.**Dzialoszyce. I remained in this town until a few days before Rosh Hashana* {* The Jewish New Year in September 1942.} of 1942. I cannot remember the exact date today, but at any rate, it was about a week or ten days before Rosh Hashanah 1942. The period of the War in this village, to describe it briefly, was naturally as in the whole of Poland at that time - it began with the carrying of the armband with the Shield of David, forced labour which at first was only one day a week, afterwards twice a week, and the population were taking turns at hard labour. Already since my arrival in that town, so it seems to me, it was forbidden to go beyond the confines of the town.
+**A.**Dzialoszyce. I remained in this town until a few days before Rosh Hashana* {* The Jewish New Year in September 1942.} of 1942. I cannot remember the exact date today, but at any rate, it was about a week or ten days before Rosh Hashanah 1942. The period of the War in this village, to describe it briefly, was naturally as in the whole of [[LOCATION:location_5|Poland]] at that time - it began with the carrying of the armband with the Shield of David, forced labour which at first was only one day a week, afterwards twice a week, and the population were taking turns at hard labour. Already since my arrival in that town, so it seems to me, it was forbidden to go beyond the confines of the town.
 
-By the way, this was a Jewish town, mainly, even before the War, the population of which doubled or even tripled with the outbreak of the War, for anyone who had a relative in that town - from the larger towns in Silesia, Cracow, Lodz, Litzmannstadt - came to that town. It was forbidden to go beyond the limits of the town.
+By the way, this was a Jewish town, mainly, even before the War, the population of which doubled or even tripled with the outbreak of the War, for anyone who had a relative in that town - from the larger towns in [[LOCATION:location_103|Silesia]], Cracow, [[LOCATION:location_81|Lodz]], [[LOCATION:location_158|Litzmannstadt]] - came to that town. It was forbidden to go beyond the limits of the town.
 
 With great difficulty it was possible, from time to time, to obtain permission to go out. In the evenings it was forbidden to leave the houses. Naturally, if anyone was caught red-handed leaving the village, matters very often ended up with shootings and the killing of people. I am not able, - again because of the passage of time - to remember what was the nunmber of the Jews who were executed in this way.
 
@@ -111,7 +111,7 @@ It turned out afterwards that the dose of poison, in the case of Mrs. Lazar, had
 
 **Q.**Where were they taken to?
 
-**A.**We learned after the War that they were taken to Belzec. The transport of the young people to which I referred, was moved to a camp near Cracow, called Prokocim. On arrival there, we were subjected, first of all, to a thorough search. Naturally, each one had taken with him, to that presumed place of work, as it had been described, whatever he could carry of his most valuable possessions.
+**A.**We learned after the War that they were taken to [[LOCATION:location_154|Belzec]]. The transport of the young people to which I referred, was moved to a camp near Cracow, called Prokocim. On arrival there, we were subjected, first of all, to a thorough search. Naturally, each one had taken with him, to that presumed place of work, as it had been described, whatever he could carry of his most valuable possessions.
 
 **Q.**When you say: a "thorough search," what are you referring to?
 
@@ -201,13 +201,13 @@ I said earlier: "It might be thought that our lot was good." The food in the cam
 
 **Q.**Please continue.
 
-**A.**A group that appeared with food in its possession - and I shall quote a concrete instance - that was a particular group of the Ablade-Kommando a unit that was in charge of the offloading of goods from the railway station - when this group returned and food was found in its possession, the camp commander came up (at that time it was Untersturmfuehrer Amon Goeth) and asked whose food it was. When no one answered, he took a gun from a guardsmen standing next to him and shot a young man whose name was Nachmansohn - his brother lives in Tel Aviv - he shot him.
+**A.**A group that appeared with food in its possession - and I shall quote a concrete instance - that was a particular group of the Ablade-Kommando a unit that was in charge of the offloading of goods from the railway station - when this group returned and food was found in its possession, the camp commander came up (at that time it was [[PERSON:person_485|Untersturmfuehrer Amon Goeth]]) and asked whose food it was. When no one answered, he took a gun from a guardsmen standing next to him and shot a young man whose name was Nachmansohn - his brother lives in [[LOCATION:location_42|Tel Aviv]] - he shot him.
 
-On the same occasion he shot another man, Disler. And then someone had a brilliant idea and said that he had brought the food. Then everyone in the group received 100 lashes. It was a group of 20 men or more. One of the men is living today in Tel Aviv - his name is Mandel, who was wounded in the course of the shooting and remained lying there until the group was taken to the parade ground and there everyone received his "deserts." He himself had to count the blows and if he made an error in the counting, he had to go back to the beginning and start all over again. There was an instance with that group where one of the older men was beaten and cried out a great deal, and after that had to go the camp commandant and to inform him that he had received his punishment and he thanked him for it. When he turned around, he shot him and he, too, was killed.
+On the same occasion he shot another man, Disler. And then someone had a brilliant idea and said that he had brought the food. Then everyone in the group received 100 lashes. It was a group of 20 men or more. One of the men is living today in [[LOCATION:location_42|Tel Aviv]] - his name is Mandel, who was wounded in the course of the shooting and remained lying there until the group was taken to the parade ground and there everyone received his "deserts." He himself had to count the blows and if he made an error in the counting, he had to go back to the beginning and start all over again. There was an instance with that group where one of the older men was beaten and cried out a great deal, and after that had to go the camp commandant and to inform him that he had received his punishment and he thanked him for it. When he turned around, he shot him and he, too, was killed.
 
 **Q.**Was this an order that one had to go and express thanks?
 
-**A.**Yes. Every one was obliged to go and do this, to say "I have received my punishment." There were cases of collective punishment, when someone escaped, for example. I can remember the case of a factory in Bonarku. This was a brick factory which before the War had belonged to a Jew, who is also in Israel today, and a group of people worked there. This group in its entirety - 49 men and one woman - were killed as they returned to the camp. This was still at the beginning of March - a man from one of those working parties which belonged to Strauch, but which were working at another place, escaped. He came from the town where my parents lived, and he escaped. This was the first time the new camp commandant, Amon Goeth, appeared.
+**A.**Yes. Every one was obliged to go and do this, to say "I have received my punishment." There were cases of collective punishment, when someone escaped, for example. I can remember the case of a factory in Bonarku. This was a brick factory which before the War had belonged to a Jew, who is also in [[LOCATION:location_38|Israel]] today, and a group of people worked there. This group in its entirety - 49 men and one woman - were killed as they returned to the camp. This was still at the beginning of March - a man from one of those working parties which belonged to Strauch, but which were working at another place, escaped. He came from the town where my parents lived, and he escaped. This was the first time the new camp commandant, Amon Goeth, appeared.
 
 **Presiding Judge:** What was his name?
 
@@ -224,9 +224,9 @@ On the same occasion he shot another man, Disler. And then someone had a brillia
 
 **Q.**We shall come to the other methods of punishment later. Did something happen in Plaszow in March 1943?
 
-**A.**In the middle of February that same Untersturmfuehrer Amon Goeth arrived and new conditions of life were introduced. The work was also more strenuous. If previously they were satisfied that each one performed his job, and rested afterwards, from then on, from time to time and very frequently, when we returned to the camp, they took us straight from the gate to continue on assignments, the task of dragging parts of huts, stones, building etc. There were cases where, for the whole night - after a normal day's work - the whole camp was engaged in performing additional tasks such as these. And it became clear to us what the reason for this was.
+**A.**In the middle of February that same [[PERSON:person_485|Untersturmfuehrer Amon Goeth]] arrived and new conditions of life were introduced. The work was also more strenuous. If previously they were satisfied that each one performed his job, and rested afterwards, from then on, from time to time and very frequently, when we returned to the camp, they took us straight from the gate to continue on assignments, the task of dragging parts of huts, stones, building etc. There were cases where, for the whole night - after a normal day's work - the whole camp was engaged in performing additional tasks such as these. And it became clear to us what the reason for this was.
 
-On 13 March 1943 - this date I remember well, because it is observed in Israel for memorial ceremonies - the Cracow Ghetto was liquidated. I was not present at its destruction - I only know from the account of all those acquaintances who reached us. It found expression in the fact that some 8,000-10,000 people from the ghetto were brought to us at the camp. There were more that 60,000 persons in the ghetto, if I am not mistaken. 8,000-10,000 living souls were brought as well as over 2,000 corpses, who were shot and killed inside the ghetto.
+On 13 March 1943 - this date I remember well, because it is observed in [[LOCATION:location_38|Israel]] for memorial ceremonies - the [[LOCATION:location_280|Cracow Ghetto]] was liquidated. I was not present at its destruction - I only know from the account of all those acquaintances who reached us. It found expression in the fact that some 8,000-10,000 people from the ghetto were brought to us at the camp. There were more that 60,000 persons in the ghetto, if I am not mistaken. 8,000-10,000 living souls were brought as well as over 2,000 corpses, who were shot and killed inside the ghetto.
 
 **Presiding Judge:** Who brought the dead bodies?
 
@@ -302,7 +302,7 @@ These are, moreover not the only reasons, Your Honours. Anyone today trying to f
 
 These were things, situations, which were completely different. And I will quote one other example, a very classic example: there was a martyr in our camp. All of us were in the situation in which we found ourselves. But let us take Engineer Greenberg, one of the most beloved inmates of the camp who was appointed to plan the construction of the huts. I cannot really remember this man without bruises and without a bandaged head and without wounds. This man on every single day - either they set dogs on him, or he received beatings, 100 lashes or 25, or simply fist blows, because in a particular place the jobs were not performed.
 
-This same man who more than once implored the camp commandant "Goeth - Shoot me," he himself never committed suicide. This is even stranger: but his wife and daughter were in that camp - I think his daughter lives in Jerusalem. His wife and daughter were from time to time thrown into prison in order to frighten him into committing something. It was a fact that this man underwent, in addition to what the inmates of the camp endured - if there are 100 stages of hell and not seven, he went through them all in his lifetime. Ultimately he was killed - he is no longer alive. But it is a fact, that was the situation. Try to explain it today - you will not find the explanation, these were different conditions, something had already befallen Polish Jewry before we reached Plaszow.
+This same man who more than once implored the camp commandant "Goeth - Shoot me," he himself never committed suicide. This is even stranger: but his wife and daughter were in that camp - I think his daughter lives in [[LOCATION:location_44|Jerusalem]]. His wife and daughter were from time to time thrown into prison in order to frighten him into committing something. It was a fact that this man underwent, in addition to what the inmates of the camp endured - if there are 100 stages of hell and not seven, he went through them all in his lifetime. Ultimately he was killed - he is no longer alive. But it is a fact, that was the situation. Try to explain it today - you will not find the explanation, these were different conditions, something had already befallen Polish Jewry before we reached Plaszow.
 
 **Judge Halevi:** You were mistaken in the number when you said the "third year," four years had already passed and you had entered upon the fifth.
 
@@ -316,9 +316,9 @@ Incidentally, if I may be allowed to recall this, the Attorney General asked my 
 
 **Q.**The municipal gasworks in Cracow?
 
-**A.**Yes. Moreover, of the group to which I belonged before the War - Hanoar Hazioni (The Zionist Youth) - a few managed to cross into Slovakia. On two occasions a representative was sent to get me out. Those two are living in Israel today. One was Frederika Maze who lives in Rehovot and the other was Zelig Weil who lives in Haifa. Both of them met me near the gates of the camp and informed me that it had become possible to smuggle a number of people to Slovakia. And some of our comrades, most of whom are today in Israel, succeeded in crossing to Slovakia.
+**A.**Yes. Moreover, of the group to which I belonged before the War - Hanoar Hazioni (The Zionist Youth) - a few managed to cross into [[LOCATION:location_84|Slovakia]]. On two occasions a representative was sent to get me out. Those two are living in [[LOCATION:location_38|Israel]] today. One was Frederika Maze who lives in [[LOCATION:location_159|Rehovot]] and the other was Zelig Weil who lives in [[LOCATION:location_127|Haifa]]. Both of them met me near the gates of the camp and informed me that it had become possible to smuggle a number of people to [[LOCATION:location_84|Slovakia]]. And some of our comrades, most of whom are today in [[LOCATION:location_38|Israel]], succeeded in crossing to [[LOCATION:location_84|Slovakia]].
 
-But it is not a simple matter, when you have 70-80 persons from the same town, amongst them my two brothers, to flee the camp when you know that in the afternoon of the same day the entire group would no longer be alive. And consequently people did not dare to do this so easily, even when the chance existed and even when, at the time, still in 1943, crossing into Slovakia appeared to be a kind of promise of life. And it is a fact - I did not do so. These two people reached Palestine; the one Frederika Maze, managed to get here - at the beginning of 1944 and brought the first tidings.
+But it is not a simple matter, when you have 70-80 persons from the same town, amongst them my two brothers, to flee the camp when you know that in the afternoon of the same day the entire group would no longer be alive. And consequently people did not dare to do this so easily, even when the chance existed and even when, at the time, still in 1943, crossing into [[LOCATION:location_84|Slovakia]] appeared to be a kind of promise of life. And it is a fact - I did not do so. These two people reached [[LOCATION:location_57|Palestine]]; the one Frederika Maze, managed to get here - at the beginning of 1944 and brought the first tidings.
 
 **Q.**You spoke about punishment by standing, what was it?
 
@@ -342,7 +342,7 @@ But it is not a simple matter, when you have 70-80 persons from the same town, a
 
 **Q.**Like a cage?
 
-**A.**I never saw this, but there are surviving witnesses who stood there for 12 hours. I could point, for example, to Mrs. Liss, who lives in Tel Aviv, or several other names of people I know who spent 10-12 hours in a place such as this. It is not possible to describe this as a cage, for in a cage there is some free space, but in this place there was no room for one's hands or for turning around. And when these people emerged from there they were at first completely stupefied from the standing. And there was someone who stood for 24 hours in what was called a "Steh-Bunker" (standing cell).
+**A.**I never saw this, but there are surviving witnesses who stood there for 12 hours. I could point, for example, to Mrs. Liss, who lives in [[LOCATION:location_42|Tel Aviv]], or several other names of people I know who spent 10-12 hours in a place such as this. It is not possible to describe this as a cage, for in a cage there is some free space, but in this place there was no room for one's hands or for turning around. And when these people emerged from there they were at first completely stupefied from the standing. And there was someone who stood for 24 hours in what was called a "Steh-Bunker" (standing cell).
 
 **Q.**Were people hanged by their hands?
 
@@ -350,13 +350,13 @@ But it is not a simple matter, when you have 70-80 persons from the same town, a
 
 **Presiding Judge:** This you did not witness with your own eyes.
 
-**Witness Beisky:** I did not see this, but I saw Liebermann. There was another case, if we are talking about punishments, namely the case of Olmer, whose daughter lives in Jerusalem, and I know her. This Olmer was also brought into the camp because he was living with Aryan papers. Inside this camp there was another prison - a prison within a prison. This was something of a special kind, and actually not many people who once went into this prison came out alive.
+**Witness Beisky:** I did not see this, but I saw Liebermann. There was another case, if we are talking about punishments, namely the case of Olmer, whose daughter lives in [[LOCATION:location_44|Jerusalem]], and I know her. This Olmer was also brought into the camp because he was living with Aryan papers. Inside this camp there was another prison - a prison within a prison. This was something of a special kind, and actually not many people who once went into this prison came out alive.
 
-I know only two in Tel Aviv, namely Advocate Dr. Nathan Stern and his brother Yitzhak Stern. These two I know came out alive from that prison - perhaps one more. Well, that Olmer also was imprisoned there. And, by the way this Olmer came from Miechowitz, that neighbouring town I previously described. He was summoned by the Camp Commandant. The Camp Commandant had two dogs, Ralf and Rolf, and he set the dogs on him. The dogs ate him up alive. Possibly a little breath still remained in him; he shot him and he was killed.
+I know only two in [[LOCATION:location_42|Tel Aviv]], namely Advocate Dr. Nathan Stern and his brother Yitzhak Stern. These two I know came out alive from that prison - perhaps one more. Well, that Olmer also was imprisoned there. And, by the way this Olmer came from Miechowitz, that neighbouring town I previously described. He was summoned by the Camp Commandant. The Camp Commandant had two dogs, Ralf and Rolf, and he set the dogs on him. The dogs ate him up alive. Possibly a little breath still remained in him; he shot him and he was killed.
 
 **Attorney General:** Who was the Commandant?
 
-**A.**Amon Goeth. We are speaking here of Amon Goeth from the beginning of February 1943. Incidentally, I know that a stenographic record of his trial was issued in printed form in Poland, and I know at least of two sources referring to this. It is a book of 500 pages.
+**A.**Amon Goeth. We are speaking here of Amon Goeth from the beginning of February 1943. Incidentally, I know that a stenographic record of his trial was issued in printed form in [[LOCATION:location_5|Poland]], and I know at least of two sources referring to this. It is a book of 500 pages.
 
 **Presiding Judge:** For the present we rely on your testimony, Judge Beisky.
 
@@ -379,7 +379,7 @@ Again, Your Honour, if I may be permitted, the prayer "U- Netanneh Tokef"* {*U-N
 
 **A.**This was in October 1943. Some scores of people worked in the camp office on various tasks. And one day bread was found in someone's possession, bread that was not from the camp (and it could easily be distinguished what bread was not from the camp and what was camp bread, for its quality was such that it was not hard to see the difference). He then conducted a search and found food supplies in the possession of others - butter and other items. Then, if I am not mistaken, ten people were taken out from amongst the camp workers. (At that time people were killed in larger groups, not in the place where they were living, but in a special place which had been set aside and which was higher than any other place in the camp, and there was a valley there so that these occurrences could not be observed there. I shall still have to say a few words about this valley).
 
-The group was brought up to that spot which served as a place for shooting people. Of this group only one woman survived, Henrietta Neuhauser, who lives in Tel Aviv at 5 Smolenskin Street. She was taken out at the last minute - this was a case of a special kind - after all of them had already undressed and the shooting had already begun. At the very last moment she was rescued not from the grasp of death but actually from death itself. She is the mother of two children in Tel Aviv.
+The group was brought up to that spot which served as a place for shooting people. Of this group only one woman survived, Henrietta Neuhauser, who lives in [[LOCATION:location_42|Tel Aviv]] at 5 Smolenskin Street. She was taken out at the last minute - this was a case of a special kind - after all of them had already undressed and the shooting had already begun. At the very last moment she was rescued not from the grasp of death but actually from death itself. She is the mother of two children in [[LOCATION:location_42|Tel Aviv]].
 
 **Q.**What used to happen in the area in front of the kitchen?
 
@@ -391,15 +391,15 @@ The group was brought up to that spot which served as a place for shooting peopl
 
 **Q.**Do you recall the deportation of people from the camp to other places?
 
-**A.**This began already in 1943. The camp was not static. People used to arrive at the camp from ghettos that had been liquidated. I can remember Tarnow, Bochnia, Nowy Sacz, and after that other camps - Shevnia and others.
+**A.**This began already in 1943. The camp was not static. People used to arrive at the camp from ghettos that had been liquidated. I can remember [[LOCATION:location_90|Tarnow]], Bochnia, Nowy Sacz, and after that other camps - Shevnia and others.
 
 **Q.**Did Jews from other countries also pass through Plaszow?
 
-**A.**Yes. this was already in 1944. People were brought from Hungary. That was the most wretched transport that I ever saw. This was in the middle of 1944.
+**A.**Yes. this was already in 1944. People were brought from [[LOCATION:location_24|Hungary]]. That was the most wretched transport that I ever saw. This was in the middle of 1944.
 
 **Q.**Would you give us a brief description of the deportation from the camp?
 
-**A.**I shall describe the deportation in which I participated. The deportation was on 15 October 1944. This was already after we had heard that the Russian front was advancing and that the liquidation of the camp had begun. But the deportation of the camp had begun before this. They sent people to all kinds of labour camps, such as Czestochowa, Gzesinska. I will not mention them all. But from time to time they used to send them to other labour camps. And in their stead people came from other ghettos and other liquidated camps. But beginning from the middle of 1944 deportations started, and it seemed to me that no newcomers would come in their stead any more. Perhaps it would be better to describe the case of the health parade.
+**A.**I shall describe the deportation in which I participated. The deportation was on 15 October 1944. This was already after we had heard that the Russian front was advancing and that the liquidation of the camp had begun. But the deportation of the camp had begun before this. They sent people to all kinds of labour camps, such as [[LOCATION:location_160|Czestochowa]], Gzesinska. I will not mention them all. But from time to time they used to send them to other labour camps. And in their stead people came from other ghettos and other liquidated camps. But beginning from the middle of 1944 deportations started, and it seemed to me that no newcomers would come in their stead any more. Perhaps it would be better to describe the case of the health parade.
 
 **Q.**Yes, the health parade, if you please.
 
@@ -419,7 +419,7 @@ The group was brought up to that spot which served as a place for shooting peopl
 
 **Q.**Were you lined up in your clothes?
 
-**A.**At first in our clothes, but we were all ordered to undress - to be as naked as on the day we were born. The occupants of hut after hut passed in front of a table at which there sat someone who was called a doctor, Dr. Blanke, with the rank of Hauptsturmfuehrer of the SS. Incidentally, as I subsequently learned, both Goeth and Blanke had come to Plaszow from Lublin. It took seconds. Everyone was ordered to go to the right or to the left.
+**A.**At first in our clothes, but we were all ordered to undress - to be as naked as on the day we were born. The occupants of hut after hut passed in front of a table at which there sat someone who was called a doctor, Dr. Blanke, with the rank of Hauptsturmfuehrer of the SS. Incidentally, as I subsequently learned, both Goeth and Blanke had come to Plaszow from [[LOCATION:location_35|Lublin]]. It took seconds. Everyone was ordered to go to the right or to the left.
 
 **Q.**Who gave orders to go to the left?
 
@@ -451,11 +451,11 @@ Your Honours, in 1947 I wrote an article in one of the papers connected with a p
 
 And here, perhaps, I should refer to an incident which is indescribable. There was one boy on his own, aged 12 or 13, who, in a way that people are not aware of - his name was Yishai Schapiro - in a way that was hardly feasible - managed not to be discovered. I do not say that he managed to escape, for I cannot imagine to myself that it was possible to escape, but he succeeded in not being on the parade ground on 14 May, when the transport departed. And, of course, there were searches in the residential huts, in case people had hidden themselves in the upper bunks. And this boy, with his childish instinct, knew that there would be searches, and he evidently understood that the only place where he could hide would be the very large public latrine which was an important place in each camp. They found the boy and he related afterwards how he had jumped into the pit of excrement and remained there until that evening, when they took him out of there; it is difficult for me to say whether it was by chance or his instinct which saved him until after the War. I shall never know this.
 
-**Q.**In the middle of October 1944 you were moved together with approximately 1,200 other persons to the camp of Gross- Rosen in Germany. Is that correct?
+**Q.**In the middle of October 1944 you were moved together with approximately 1,200 other persons to the camp of Gross- Rosen in [[LOCATION:location_2|Germany]]. Is that correct?
 
 **A.**Correct.
 
-**Presiding Judge:** In what part of Germany is Gross-Rosen?
+**Presiding Judge:** In what part of [[LOCATION:location_2|Germany]] is Gross-Rosen?
 
 **Witness Beisky:** In Lower Saxony.
 
@@ -465,13 +465,13 @@ And here, perhaps, I should refer to an incident which is indescribable. There w
 
 **Q.**You were transported like cattle?
 
-**A.**They put us into cattle trucks. I suppose that in each waggon there were certainly 120-130 people. We were closely packed, which didn't allow all of us to sit down on the floor at the same time - only at intervals. We received food provisions for the road, packed for one day. The camp provisions for one day were not adequate provisions for one day. If my memory doesn't fail me, we travelled for three days or about two and a half days, since we halted frequently en route. The distance from Cracow to Silesia is not all that far. We stopped at stations. It was already, evidently, the time of the retreat, and the railway stations were crowded. This is my assumption. At any rate, we stopped many times at different stations.
+**A.**They put us into cattle trucks. I suppose that in each waggon there were certainly 120-130 people. We were closely packed, which didn't allow all of us to sit down on the floor at the same time - only at intervals. We received food provisions for the road, packed for one day. The camp provisions for one day were not adequate provisions for one day. If my memory doesn't fail me, we travelled for three days or about two and a half days, since we halted frequently en route. The distance from Cracow to [[LOCATION:location_103|Silesia]] is not all that far. We stopped at stations. It was already, evidently, the time of the retreat, and the railway stations were crowded. This is my assumption. At any rate, we stopped many times at different stations.
 
 **Q.**We shall pass over the Gross-Rosen episode.
 
 **A.**Perhaps at this point, if the Attorney General will allow me, there is one incident worthwhile recalling. When we reached the Camp at Gross-Rosen, this was in the early evening hours and with everything that had been said to us at the beginning that we were travelling to an arms factory, but when we were sent there, we saw something that did not exist in our camp. This was the smoke from the furnaces. And then it was already clear to us that here were the crematoria.
 
-Faith always remains, but round about dusk - this was on 17 or 18 October - and at that season in Silesia it was already cold - we were all ordered to undress, again naked as the day we were born, we were taken into a place covered with canvas, and we stood, 1,100 or 1,200 people - again I don't remember the exact number - who were in that transport, throughout the night from seven in the evening. I was given back my clothes at noon the following day. But when I say that I received my clothes, I didn't do so in order to say that I covered my body. This was the first sign that in fact we were not going to the crematoria. For when you stood naked the whole night, the first sign that we might possibly be going to a labour camp, as they called it, was the return of the clothes. We spent several days in that camp. This camp, from my point of view, seemed to me to be very much worse than anything that there was at Plaszow. It is simply beyond description.
+Faith always remains, but round about dusk - this was on 17 or 18 October - and at that season in [[LOCATION:location_103|Silesia]] it was already cold - we were all ordered to undress, again naked as the day we were born, we were taken into a place covered with canvas, and we stood, 1,100 or 1,200 people - again I don't remember the exact number - who were in that transport, throughout the night from seven in the evening. I was given back my clothes at noon the following day. But when I say that I received my clothes, I didn't do so in order to say that I covered my body. This was the first sign that in fact we were not going to the crematoria. For when you stood naked the whole night, the first sign that we might possibly be going to a labour camp, as they called it, was the return of the clothes. We spent several days in that camp. This camp, from my point of view, seemed to me to be very much worse than anything that there was at Plaszow. It is simply beyond description.
 
 **Q.**In order to sum up, may we say that in Plaszow the life of each and every Jew was at the mercy of each and every SS man?
 
@@ -499,7 +499,7 @@ And the most horrible thing was that the women were dressed like all of us, with
 
 **Q.**Where were you transferred to from Gross-Rosen?
 
-**A.**To Brinlitz in Czechoslovakia.
+**A.**To Brinlitz in [[LOCATION:location_15|Czechoslovakia]].
 
 **Q.**And you were liberated by the Soviet Army?
 
@@ -515,22 +515,22 @@ And the most horrible thing was that the women were dressed like all of us, with
 
 **Q.**Who came?
 
-**A.**Of the names I am able to recall, there was the Governor General of Poland whose headquarters was in Cracow - he was Frank. There was Krueger, Obersturmbannfuehrer Scharner, who was the SS and Police Leader in Cracow. They used to visit us often. Then we knew that the whole camp was put on the alert, and in preparation, night operations and cleaning operations were carried out.
+**A.**Of the names I am able to recall, there was the Governor General of [[LOCATION:location_5|Poland]] whose headquarters was in Cracow - he was Frank. There was [[PERSON:person_474|Krueger]], Obersturmbannfuehrer Scharner, who was the SS and Police Leader in Cracow. They used to visit us often. Then we knew that the whole camp was put on the alert, and in preparation, night operations and cleaning operations were carried out.
 
-**Q.**Were there also officers from Germany, from Berlin?
+**Q.**Were there also officers from [[LOCATION:location_2|Germany]], from [[LOCATION:location_1|Berlin]]?
 
-**A.**I don't know. I cannot say whether one came from Berlin or another from some other place.
+**A.**I don't know. I cannot say whether one came from [[LOCATION:location_1|Berlin]] or another from some other place.
 
 **Presiding Judge:** Dr. Servatius, do you have any questions for the witness?
 
 **Dr. Servatius:** No questions.
 
-**Judge Halevi:** Who was the Jew who reached Palestine? You said that someone from the camp arrived in Palestine at the beginning of 1944.
+**Judge Halevi:** Who was the Jew who reached [[LOCATION:location_57|Palestine]]? You said that someone from the camp arrived in [[LOCATION:location_57|Palestine]] at the beginning of 1944.
 
-**Witness Beisky:** No, Your Honour, if I may be permitted to correct something which I perhaps did not express accurately, it was a girl who was not from our camp, whose name was Frederika Gozik and whose name today is Frederika Maze, the wife of the principal of a school in Rehovot. She lived all the time with Aryan papers. She was a member of the group with which I was in touch, of Hanoar Hazioni. She managed to cross over and to reach Palestine at the beginning of 1944. I met her subsequently at a kibbutz, for from the time I arrived in the country, we were both members of the same kibbutz.
+**Witness Beisky:** No, Your Honour, if I may be permitted to correct something which I perhaps did not express accurately, it was a girl who was not from our camp, whose name was Frederika Gozik and whose name today is Frederika Maze, the wife of the principal of a school in [[LOCATION:location_159|Rehovot]]. She lived all the time with Aryan papers. She was a member of the group with which I was in touch, of Hanoar Hazioni. She managed to cross over and to reach [[LOCATION:location_57|Palestine]] at the beginning of 1944. I met her subsequently at a kibbutz, for from the time I arrived in the country, we were both members of the same kibbutz.
 
 **Q.**Did she submit a report?
 
-**A.**As far as I know she lectured frequently. She delivered a report on what was known at the time. She had met me in 1943 and at that time the position, even with us, was not yet clear in this way. At any rate, as far as I know, of the group with which I was connected, she was the only one who reached Palestine fairly early. Incidentally, she has written a book on that period, a book which is about to be published by Yad Vashem.
+**A.**As far as I know she lectured frequently. She delivered a report on what was known at the time. She had met me in 1943 and at that time the position, even with us, was not yet clear in this way. At any rate, as far as I know, of the group with which I was connected, she was the only one who reached [[LOCATION:location_57|Palestine]] fairly early. Incidentally, she has written a book on that period, a book which is about to be published by Yad Vashem.
 
 **Presiding Judge:** Thank you, Judge Beisky, you have concluded
