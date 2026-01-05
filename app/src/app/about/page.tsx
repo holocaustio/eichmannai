@@ -55,7 +55,7 @@ export default function AboutPage() {
             </p>
             
             <p>
-              My grandfather, <span className="text-stone-200">Israel Carmel</span>, was one of the witnesses 
+              My grandfather, <a className="text-stone-200 underline hover:text-stone-100 transition" href="https://www.theeichmanntrial.org/witnesses/Israel%20Carmel" target="_blank" rel="noopener noreferrer">Israel Carmel</a>, was one of the witnesses 
               who testified at the Eichmann Trial. He stood in that courtroom in Jerusalem in 1961 and 
               spoke about what he knew.
             </p>
