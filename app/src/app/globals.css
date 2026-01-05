@@ -85,6 +85,16 @@ blockquote::before {
   }
 }
 
+/* Slow pan animation for hero images - reveals head from bottom */
+@keyframes slowPan {
+  0% {
+    object-position: center 60%;
+  }
+  100% {
+    object-position: center 25%;
+  }
+}
+
 /* Loading state */
 .loading {
   opacity: 0.5;
