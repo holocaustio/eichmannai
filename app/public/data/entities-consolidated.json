@@ -1,8 +1,8 @@
 {
   "metadata": {
     "generatedAt": "2025-12-31T14:05:52.241780",
-    "totalNodes": 1195,
-    "totalEdges": 6299,
+    "totalNodes": 1207,
+    "totalEdges": 6318,
     "typeCounts": {
       "PERSON": 496,
       "LOCATION": 298,
@@ -10,11 +10,11 @@
       "EVENT": 10,
       "SESSION": 121,
       "TESTIMONY": 108,
-      "DATE": 78
+      "DATE": 90
     },
     "source": "consolidate_entities.py (OpenAI)",
     "semanticEdgesAdded": 435,
-    "lastUpdated": "2026-01-01T10:39:30.896898"
+    "lastUpdated": "2026-01-20T22:55:24.291399"
   },
   "nodes": [
     {
@@ -152,7 +152,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        52
+        52,
+        53
       ],
       "mentions": 1,
       "image": "/images/witnesses/brodie.jpg",
@@ -206,7 +207,10 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        9
+        9,
+        10,
+        11,
+        12
       ],
       "mentions": 1,
       "image": "/images/witnesses/less.jpg",
@@ -368,7 +372,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        14
+        14,
+        15
       ],
       "mentions": 1,
       "image": "/images/witnesses/cohen.jpg",
@@ -602,7 +607,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        41
+        41,
+        42
       ],
       "mentions": 1,
       "image": "/images/witnesses/grueber.jpg",
@@ -638,7 +644,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        22
+        22,
+        23
       ],
       "mentions": 1,
       "image": "/images/witnesses/wells.jpg",
@@ -872,7 +879,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        58
+        58,
+        59
       ],
       "mentions": 1,
       "image": "/images/witnesses/brand.jpg",
@@ -908,7 +916,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        23
+        23,
+        24
       ],
       "mentions": 1,
       "image": "/images/witnesses/ross.jpg",
@@ -926,7 +935,7 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        62
+        61
       ],
       "mentions": 1,
       "image": "/images/witnesses/zimerman.jpg",
@@ -1070,7 +1079,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        39
+        39,
+        40
       ],
       "mentions": 1,
       "image": "/images/witnesses/musmanno.jpg",
@@ -1106,7 +1116,7 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        62
+        61
       ],
       "mentions": 1,
       "image": "/images/witnesses/gordon.jpg",
@@ -1232,7 +1242,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        16
+        16,
+        17
       ],
       "mentions": 1,
       "image": "/images/witnesses/fleischman.jpg",
@@ -1250,7 +1261,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        65
+        65,
+        66
       ],
       "mentions": 1,
       "image": "/images/witnesses/bahir.jpg",
@@ -1412,7 +1424,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        51
+        51,
+        52
       ],
       "mentions": 1,
       "image": "/images/witnesses/freudiger.jpg",
@@ -1430,7 +1443,9 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        55
+        55,
+        56,
+        57
       ],
       "mentions": 1,
       "image": "/images/witnesses/gilbert.jpg",
@@ -1448,7 +1463,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        12
+        12,
+        13
       ],
       "mentions": 1,
       "image": "/images/witnesses/baron.jpg",
@@ -1682,7 +1698,8 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        68
+        68,
+        69
       ],
       "mentions": 1,
       "image": "/images/witnesses/bacon.jpg",
@@ -1736,7 +1753,9 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        56
+        56,
+        57,
+        59
       ],
       "mentions": 1,
       "image": "/images/witnesses/brand.jpg",
@@ -8893,7 +8912,7 @@
       "type": "SESSION",
       "name": "Session 2",
       "number": 2,
-      "date": "1961-04-17",
+      "date": "1961-04-11",
       "day": "Monday",
       "phase": "Opening",
       "witnessIds": [],
@@ -8981,7 +9000,7 @@
       "type": "SESSION",
       "name": "Session 3",
       "number": 3,
-      "date": "1961-04-18",
+      "date": "1961-04-12",
       "day": "Tuesday",
       "phase": "Opening",
       "witnessIds": [],
@@ -9086,7 +9105,7 @@
       "type": "SESSION",
       "name": "Session 4",
       "number": 4,
-      "date": "1961-04-19",
+      "date": "1961-04-12",
       "day": "Wednesday",
       "phase": "Opening",
       "witnessIds": [],
@@ -9186,7 +9205,7 @@
       "type": "SESSION",
       "name": "Session 5",
       "number": 5,
-      "date": "1961-04-20",
+      "date": "1961-04-14",
       "day": "Thursday",
       "phase": "Opening",
       "witnessIds": [],
@@ -9259,7 +9278,7 @@
       "type": "SESSION",
       "name": "Session 6",
       "number": 6,
-      "date": "1961-04-24",
+      "date": "1961-04-17",
       "day": "Monday",
       "phase": "Opening",
       "witnessIds": [],
@@ -9283,7 +9302,7 @@
       "type": "SESSION",
       "name": "Session 7",
       "number": 7,
-      "date": "1961-04-25",
+      "date": "1961-04-17",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -9298,7 +9317,7 @@
       "type": "SESSION",
       "name": "Session 8",
       "number": 8,
-      "date": "1961-04-25",
+      "date": "1961-04-18",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -9313,7 +9332,7 @@
       "type": "SESSION",
       "name": "Session 9",
       "number": 9,
-      "date": "1961-04-26",
+      "date": "1961-04-18",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -9432,7 +9451,7 @@
       "type": "SESSION",
       "name": "Session 10",
       "number": 10,
-      "date": "1961-04-27",
+      "date": "1961-04-19",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -9529,7 +9548,7 @@
       "type": "SESSION",
       "name": "Session 11",
       "number": 11,
-      "date": "1961-04-28",
+      "date": "1961-04-21",
       "day": "Friday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -9637,7 +9656,7 @@
       "type": "SESSION",
       "name": "Session 12",
       "number": 12,
-      "date": "1961-05-01",
+      "date": "1961-04-24",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -9815,7 +9834,7 @@
       "type": "SESSION",
       "name": "Session 13",
       "number": 13,
-      "date": "1961-05-01",
+      "date": "1961-04-24",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -9964,7 +9983,7 @@
       "type": "SESSION",
       "name": "Session 14",
       "number": 14,
-      "date": "1961-05-02",
+      "date": "1961-04-25",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -10137,7 +10156,7 @@
       "type": "SESSION",
       "name": "Session 15",
       "number": 15,
-      "date": "1961-05-02",
+      "date": "1961-04-25",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -10265,7 +10284,7 @@
       "type": "SESSION",
       "name": "Session 16",
       "number": 16,
-      "date": "1961-05-03",
+      "date": "1961-04-26",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -10448,7 +10467,7 @@
       "type": "SESSION",
       "name": "Session 17",
       "number": 17,
-      "date": "1961-05-03",
+      "date": "1961-04-26",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -10572,7 +10591,7 @@
       "type": "SESSION",
       "name": "Session 18",
       "number": 18,
-      "date": "1961-05-04",
+      "date": "1961-04-27",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -10775,7 +10794,7 @@
       "type": "SESSION",
       "name": "Session 19",
       "number": 19,
-      "date": "1961-05-04",
+      "date": "1961-04-27",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -10913,7 +10932,7 @@
       "type": "SESSION",
       "name": "Session 20",
       "number": 20,
-      "date": "1961-05-08",
+      "date": "1961-04-28",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -11103,7 +11122,7 @@
       "type": "SESSION",
       "name": "Session 21",
       "number": 21,
-      "date": "1961-05-09",
+      "date": "1961-05-01",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -11250,7 +11269,7 @@
       "type": "SESSION",
       "name": "Session 22",
       "number": 22,
-      "date": "1961-05-09",
+      "date": "1961-05-01",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -11328,7 +11347,7 @@
       "type": "SESSION",
       "name": "Session 23",
       "number": 23,
-      "date": "1961-05-10",
+      "date": "1961-05-02",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -12144,7 +12163,7 @@
       "type": "SESSION",
       "name": "Session 29",
       "number": 29,
-      "date": "1961-05-08",
+      "date": "1961-05-05",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -12299,7 +12318,7 @@
       "type": "SESSION",
       "name": "Session 30",
       "number": 30,
-      "date": "1961-05-09",
+      "date": "1961-05-08",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -12474,7 +12493,7 @@
       "type": "SESSION",
       "name": "Session 31",
       "number": 31,
-      "date": "1961-05-10",
+      "date": "1961-05-08",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -12609,7 +12628,7 @@
       "type": "SESSION",
       "name": "Session 32",
       "number": 32,
-      "date": "1961-05-11",
+      "date": "1961-05-09",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -12711,7 +12730,7 @@
       "type": "SESSION",
       "name": "Session 33",
       "number": 33,
-      "date": "1961-05-15",
+      "date": "1961-05-09",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -12837,7 +12856,7 @@
       "type": "SESSION",
       "name": "Session 34",
       "number": 34,
-      "date": "1961-05-16",
+      "date": "1961-05-10",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -12995,7 +13014,7 @@
       "type": "SESSION",
       "name": "Session 35",
       "number": 35,
-      "date": "1961-05-17",
+      "date": "1961-05-10",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13129,7 +13148,7 @@
       "type": "SESSION",
       "name": "Session 36",
       "number": 36,
-      "date": "1961-05-18",
+      "date": "1961-05-11",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13276,7 +13295,7 @@
       "type": "SESSION",
       "name": "Session 37",
       "number": 37,
-      "date": "1961-05-22",
+      "date": "1961-05-11",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13410,7 +13429,7 @@
       "type": "SESSION",
       "name": "Session 38",
       "number": 38,
-      "date": "1961-05-23",
+      "date": "1961-05-12",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13619,7 +13638,7 @@
       "type": "SESSION",
       "name": "Session 39",
       "number": 39,
-      "date": "1961-05-24",
+      "date": "1961-05-12",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13727,7 +13746,7 @@
       "type": "SESSION",
       "name": "Session 40",
       "number": 40,
-      "date": "1961-05-25",
+      "date": "1961-05-15",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -13819,7 +13838,7 @@
       "type": "SESSION",
       "name": "Session 41",
       "number": 41,
-      "date": "1961-05-29",
+      "date": "1961-05-16",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -13956,7 +13975,7 @@
       "type": "SESSION",
       "name": "Session 42",
       "number": 42,
-      "date": "1961-05-30",
+      "date": "1961-05-16",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -14089,7 +14108,7 @@
       "type": "SESSION",
       "name": "Session 43",
       "number": 43,
-      "date": "1961-05-31",
+      "date": "1961-05-17",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -14316,7 +14335,7 @@
       "type": "SESSION",
       "name": "Session 44",
       "number": 44,
-      "date": "1961-06-01",
+      "date": "1961-05-18",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -14479,7 +14498,7 @@
       "type": "SESSION",
       "name": "Session 45",
       "number": 45,
-      "date": "1961-06-05",
+      "date": "1961-05-18",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -14599,7 +14618,7 @@
       "type": "SESSION",
       "name": "Session 46",
       "number": 46,
-      "date": "1961-06-06",
+      "date": "1961-05-18",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -14744,7 +14763,7 @@
       "type": "SESSION",
       "name": "Session 47",
       "number": 47,
-      "date": "1961-06-07",
+      "date": "1961-05-22",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -14914,7 +14933,7 @@
       "type": "SESSION",
       "name": "Session 48",
       "number": 48,
-      "date": "1961-06-08",
+      "date": "1961-05-23",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15067,7 +15086,7 @@
       "type": "SESSION",
       "name": "Session 49",
       "number": 49,
-      "date": "1961-06-12",
+      "date": "1961-05-23",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15197,7 +15216,7 @@
       "type": "SESSION",
       "name": "Session 50",
       "number": 50,
-      "date": "1961-06-13",
+      "date": "1961-05-24",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15402,7 +15421,7 @@
       "type": "SESSION",
       "name": "Session 51",
       "number": 51,
-      "date": "1961-06-14",
+      "date": "1961-05-24",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15574,7 +15593,7 @@
       "type": "SESSION",
       "name": "Session 52",
       "number": 52,
-      "date": "1961-06-15",
+      "date": "1961-05-25",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15725,7 +15744,7 @@
       "type": "SESSION",
       "name": "Session 53",
       "number": 53,
-      "date": "1961-06-19",
+      "date": "1961-05-25",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15823,7 +15842,7 @@
       "type": "SESSION",
       "name": "Session 54",
       "number": 54,
-      "date": "1961-06-20",
+      "date": "1961-05-26",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -15955,7 +15974,7 @@
       "type": "SESSION",
       "name": "Session 55",
       "number": 55,
-      "date": "1961-06-21",
+      "date": "1961-05-29",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16024,7 +16043,7 @@
       "type": "SESSION",
       "name": "Session 56",
       "number": 56,
-      "date": "1961-06-22",
+      "date": "1961-05-29",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16143,7 +16162,7 @@
       "type": "SESSION",
       "name": "Session 57",
       "number": 57,
-      "date": "1961-06-26",
+      "date": "1961-05-30",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -16278,7 +16297,7 @@
       "type": "SESSION",
       "name": "Session 58",
       "number": 58,
-      "date": "1961-06-27",
+      "date": "1961-05-30",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16379,7 +16398,7 @@
       "type": "SESSION",
       "name": "Session 59",
       "number": 59,
-      "date": "1961-06-28",
+      "date": "1961-05-31",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -16495,7 +16514,7 @@
       "type": "SESSION",
       "name": "Session 60",
       "number": 60,
-      "date": "1961-06-29",
+      "date": "1961-05-31",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16644,7 +16663,7 @@
       "type": "SESSION",
       "name": "Session 61",
       "number": 61,
-      "date": "1961-07-03",
+      "date": "1961-06-01",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16788,7 +16807,7 @@
       "type": "SESSION",
       "name": "Session 62",
       "number": 62,
-      "date": "1961-07-04",
+      "date": "1961-06-02",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -16964,7 +16983,7 @@
       "type": "SESSION",
       "name": "Session 63",
       "number": 63,
-      "date": "1961-07-05",
+      "date": "1961-06-02",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17156,7 +17175,7 @@
       "type": "SESSION",
       "name": "Session 64",
       "number": 64,
-      "date": "1961-07-06",
+      "date": "1961-06-05",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17237,7 +17256,7 @@
       "type": "SESSION",
       "name": "Session 65",
       "number": 65,
-      "date": "1961-07-10",
+      "date": "1961-06-05",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17336,7 +17355,7 @@
       "type": "SESSION",
       "name": "Session 66",
       "number": 66,
-      "date": "1961-07-11",
+      "date": "1961-06-06",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17455,7 +17474,7 @@
       "type": "SESSION",
       "name": "Session 67",
       "number": 67,
-      "date": "1961-07-12",
+      "date": "1961-06-06",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17582,7 +17601,7 @@
       "type": "SESSION",
       "name": "Session 68",
       "number": 68,
-      "date": "1961-07-13",
+      "date": "1961-06-07",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17742,7 +17761,7 @@
       "type": "SESSION",
       "name": "Session 69",
       "number": 69,
-      "date": "1961-07-17",
+      "date": "1961-06-07",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17847,7 +17866,7 @@
       "type": "SESSION",
       "name": "Session 70",
       "number": 70,
-      "date": "1961-07-18",
+      "date": "1961-06-08",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -17960,7 +17979,7 @@
       "type": "SESSION",
       "name": "Session 71",
       "number": 71,
-      "date": "1961-07-19",
+      "date": "1961-06-08",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -18068,7 +18087,7 @@
       "type": "SESSION",
       "name": "Session 72",
       "number": 72,
-      "date": "1961-07-20",
+      "date": "1961-06-09",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -18235,7 +18254,7 @@
       "type": "SESSION",
       "name": "Session 73",
       "number": 73,
-      "date": "1961-07-24",
+      "date": "1961-06-12",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -18365,7 +18384,7 @@
       "type": "SESSION",
       "name": "Session 74",
       "number": 74,
-      "date": "1961-07-24",
+      "date": "1961-06-12",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
@@ -18467,7 +18486,7 @@
       "type": "SESSION",
       "name": "Session 75",
       "number": 75,
-      "date": "1961-07-25",
+      "date": "1961-06-12",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -18680,7 +18699,7 @@
       "type": "SESSION",
       "name": "Session 76",
       "number": 76,
-      "date": "1961-07-26",
+      "date": "1961-06-21",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -18828,7 +18847,7 @@
       "type": "SESSION",
       "name": "Session 77",
       "number": 77,
-      "date": "1961-07-27",
+      "date": "1961-06-21",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -18963,7 +18982,7 @@
       "type": "SESSION",
       "name": "Session 78",
       "number": 78,
-      "date": "1961-07-31",
+      "date": "1961-06-21",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19099,7 +19118,7 @@
       "type": "SESSION",
       "name": "Session 79",
       "number": 79,
-      "date": "1961-08-01",
+      "date": "1961-06-26",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19236,7 +19255,7 @@
       "type": "SESSION",
       "name": "Session 80",
       "number": 80,
-      "date": "1961-08-02",
+      "date": "1961-06-26",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19393,7 +19412,7 @@
       "type": "SESSION",
       "name": "Session 81",
       "number": 81,
-      "date": "1961-08-03",
+      "date": "1961-06-28",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19545,7 +19564,7 @@
       "type": "SESSION",
       "name": "Session 82",
       "number": 82,
-      "date": "1961-08-07",
+      "date": "1961-06-28",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19678,7 +19697,7 @@
       "type": "SESSION",
       "name": "Session 83",
       "number": 83,
-      "date": "1961-08-08",
+      "date": "1961-06-28",
       "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -19837,7 +19856,7 @@
       "type": "SESSION",
       "name": "Session 84",
       "number": 84,
-      "date": "1961-08-09",
+      "date": "1961-06-28",
       "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20004,7 +20023,7 @@
       "type": "SESSION",
       "name": "Session 85",
       "number": 85,
-      "date": "1961-08-10",
+      "date": "1961-06-28",
       "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20152,7 +20171,7 @@
       "type": "SESSION",
       "name": "Session 86",
       "number": 86,
-      "date": "1961-08-11",
+      "date": "1961-07-05",
       "day": "Friday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20276,7 +20295,7 @@
       "type": "SESSION",
       "name": "Session 87",
       "number": 87,
-      "date": "1961-08-14",
+      "date": "1961-07-06",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20452,7 +20471,7 @@
       "type": "SESSION",
       "name": "Session 88",
       "number": 88,
-      "date": "1961-08-14",
+      "date": "1961-07-07",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20584,7 +20603,7 @@
       "type": "SESSION",
       "name": "Session 89",
       "number": 89,
-      "date": "1961-08-14",
+      "date": "1961-07-10",
       "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
@@ -20601,7 +20620,7 @@
       "type": "SESSION",
       "name": "Session 90",
       "number": 90,
-      "date": "1961-12-11",
+      "date": "1961-07-10",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -20697,7 +20716,7 @@
       "type": "SESSION",
       "name": "Session 91",
       "number": 91,
-      "date": "1961-12-11",
+      "date": "1961-07-11",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -20828,7 +20847,7 @@
       "type": "SESSION",
       "name": "Session 92",
       "number": 92,
-      "date": "1961-12-11",
+      "date": "1961-07-11",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -20936,7 +20955,7 @@
       "type": "SESSION",
       "name": "Session 93",
       "number": 93,
-      "date": "1961-12-11",
+      "date": "1961-07-12",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21071,7 +21090,7 @@
       "type": "SESSION",
       "name": "Session 94",
       "number": 94,
-      "date": "1961-12-11",
+      "date": "1961-07-12",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21163,7 +21182,7 @@
       "type": "SESSION",
       "name": "Session 95",
       "number": 95,
-      "date": "1961-12-11",
+      "date": "1961-07-13",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21239,7 +21258,7 @@
       "type": "SESSION",
       "name": "Session 96",
       "number": 96,
-      "date": "1961-12-11",
+      "date": "1961-07-13",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21336,7 +21355,7 @@
       "type": "SESSION",
       "name": "Session 97",
       "number": 97,
-      "date": "1961-12-11",
+      "date": "1961-07-14",
       "day": "Monday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21436,7 +21455,7 @@
       "type": "SESSION",
       "name": "Session 98",
       "number": 98,
-      "date": "1961-12-12",
+      "date": "1961-07-17",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21550,7 +21569,7 @@
       "type": "SESSION",
       "name": "Session 99",
       "number": 99,
-      "date": "1961-12-12",
+      "date": "1961-07-17",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21653,7 +21672,7 @@
       "type": "SESSION",
       "name": "Session 100",
       "number": 100,
-      "date": "1961-12-12",
+      "date": "1961-07-18",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21796,7 +21815,7 @@
       "type": "SESSION",
       "name": "Session 101",
       "number": 101,
-      "date": "1961-12-12",
+      "date": "1961-07-18",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -21900,7 +21919,7 @@
       "type": "SESSION",
       "name": "Session 102",
       "number": 102,
-      "date": "1961-12-12",
+      "date": "1961-07-19",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -22009,7 +22028,7 @@
       "type": "SESSION",
       "name": "Session 103",
       "number": 103,
-      "date": "1961-12-12",
+      "date": "1961-07-19",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -22100,7 +22119,7 @@
       "type": "SESSION",
       "name": "Session 104",
       "number": 104,
-      "date": "1961-12-12",
+      "date": "1961-07-20",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -22197,7 +22216,7 @@
       "type": "SESSION",
       "name": "Session 105",
       "number": 105,
-      "date": "1961-12-12",
+      "date": "1961-07-20",
       "day": "Tuesday",
       "phase": "Defense",
       "witnessIds": [],
@@ -22287,7 +22306,7 @@
       "type": "SESSION",
       "name": "Session 106",
       "number": 106,
-      "date": "1961-12-13",
+      "date": "1961-07-21",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -22407,7 +22426,7 @@
       "type": "SESSION",
       "name": "Session 107",
       "number": 107,
-      "date": "1961-12-13",
+      "date": "1961-07-24",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -22536,7 +22555,7 @@
       "type": "SESSION",
       "name": "Session 108",
       "number": 108,
-      "date": "1961-12-13",
+      "date": "1961-07-24",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -22652,7 +22671,7 @@
       "type": "SESSION",
       "name": "Session 109",
       "number": 109,
-      "date": "1961-12-13",
+      "date": "1961-07-25",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -22749,7 +22768,7 @@
       "type": "SESSION",
       "name": "Session 110",
       "number": 110,
-      "date": "1961-12-13",
+      "date": "1961-08-08",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -22936,7 +22955,7 @@
       "type": "SESSION",
       "name": "Session 111",
       "number": 111,
-      "date": "1961-12-13",
+      "date": "1961-08-08",
       "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
@@ -23125,7 +23144,7 @@
       "type": "SESSION",
       "name": "Session 112",
       "number": 112,
-      "date": "1961-12-14",
+      "date": "1961-08-09",
       "day": "Thursday",
       "phase": "Closing Arguments",
       "witnessIds": [],
@@ -23330,7 +23349,7 @@
       "type": "SESSION",
       "name": "Session 113",
       "number": 113,
-      "date": "1961-12-14",
+      "date": "1961-08-10",
       "day": "Thursday",
       "phase": "Closing Arguments",
       "witnessIds": [],
@@ -23518,7 +23537,7 @@
       "type": "SESSION",
       "name": "Session 114",
       "number": 114,
-      "date": "1961-12-14",
+      "date": "1961-08-14",
       "day": "Thursday",
       "phase": "Closing Arguments",
       "witnessIds": [],
@@ -23691,7 +23710,7 @@
       "type": "SESSION",
       "name": "Session 115",
       "number": 115,
-      "date": "1961-12-14",
+      "date": "1961-12-11",
       "day": "Thursday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -23706,7 +23725,7 @@
       "type": "SESSION",
       "name": "Session 116",
       "number": 116,
-      "date": "1961-12-14",
+      "date": "1961-12-11",
       "day": "Thursday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -23721,7 +23740,7 @@
       "type": "SESSION",
       "name": "Session 117",
       "number": 117,
-      "date": "1961-12-14",
+      "date": "1961-11-12",
       "day": "Thursday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -23736,7 +23755,7 @@
       "type": "SESSION",
       "name": "Session 118",
       "number": 118,
-      "date": "1961-12-14",
+      "date": "1961-12-12",
       "day": "Thursday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -23751,7 +23770,7 @@
       "type": "SESSION",
       "name": "Session 119",
       "number": 119,
-      "date": "1961-12-15",
+      "date": "1961-12-12",
       "day": "Friday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -23773,7 +23792,7 @@
       "type": "SESSION",
       "name": "Session 120",
       "number": 120,
-      "date": "1961-12-15",
+      "date": "1961-12-13",
       "day": "Friday",
       "phase": "Judgment",
       "witnessIds": [],
@@ -31289,6 +31308,78 @@
         113
       ],
       "mentions": 72
+    },
+    {
+      "id": "date-1961-04-12",
+      "type": "DATE",
+      "date": "1961-04-12",
+      "name": "1961-04-12"
+    },
+    {
+      "id": "date-1961-04-14",
+      "type": "DATE",
+      "date": "1961-04-14",
+      "name": "1961-04-14"
+    },
+    {
+      "id": "date-1961-04-21",
+      "type": "DATE",
+      "date": "1961-04-21",
+      "name": "1961-04-21"
+    },
+    {
+      "id": "date-1961-05-05",
+      "type": "DATE",
+      "date": "1961-05-05",
+      "name": "1961-05-05"
+    },
+    {
+      "id": "date-1961-05-12",
+      "type": "DATE",
+      "date": "1961-05-12",
+      "name": "1961-05-12"
+    },
+    {
+      "id": "date-1961-05-26",
+      "type": "DATE",
+      "date": "1961-05-26",
+      "name": "1961-05-26"
+    },
+    {
+      "id": "date-1961-06-02",
+      "type": "DATE",
+      "date": "1961-06-02",
+      "name": "1961-06-02"
+    },
+    {
+      "id": "date-1961-06-09",
+      "type": "DATE",
+      "date": "1961-06-09",
+      "name": "1961-06-09"
+    },
+    {
+      "id": "date-1961-07-07",
+      "type": "DATE",
+      "date": "1961-07-07",
+      "name": "1961-07-07"
+    },
+    {
+      "id": "date-1961-07-14",
+      "type": "DATE",
+      "date": "1961-07-14",
+      "name": "1961-07-14"
+    },
+    {
+      "id": "date-1961-07-21",
+      "type": "DATE",
+      "date": "1961-07-21",
+      "name": "1961-07-21"
+    },
+    {
+      "id": "date-1961-11-12",
+      "type": "DATE",
+      "date": "1961-11-12",
+      "name": "1961-11-12"
     }
   ],
   "edges": [
@@ -31335,12 +31426,6 @@
       "type": "TESTIFIED_IN"
     },
     {
-      "id": "edge_8",
-      "source": "witness_8",
-      "target": "session-52",
-      "type": "TESTIFIED_IN"
-    },
-    {
       "id": "edge_9",
       "source": "witness_9",
       "target": "session-68",
@@ -31350,12 +31435,6 @@
       "id": "edge_10",
       "source": "witness_10",
       "target": "session-61",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_11",
-      "source": "witness_11",
-      "target": "session-9",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31404,12 +31483,6 @@
       "id": "edge_19",
       "source": "witness_19",
       "target": "session-26",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_20",
-      "source": "witness_20",
-      "target": "session-14",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31485,21 +31558,9 @@
       "type": "TESTIFIED_IN"
     },
     {
-      "id": "edge_33",
-      "source": "witness_33",
-      "target": "session-41",
-      "type": "TESTIFIED_IN"
-    },
-    {
       "id": "edge_34",
       "source": "witness_34",
       "target": "session-20",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_35",
-      "source": "witness_35",
-      "target": "session-22",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31575,27 +31636,9 @@
       "type": "TESTIFIED_IN"
     },
     {
-      "id": "edge_48",
-      "source": "witness_48",
-      "target": "session-58",
-      "type": "TESTIFIED_IN"
-    },
-    {
       "id": "edge_49",
       "source": "witness_49",
       "target": "session-36",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_50",
-      "source": "witness_50",
-      "target": "session-23",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_51",
-      "source": "witness_51",
-      "target": "session-62",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31641,21 +31684,9 @@
       "type": "TESTIFIED_IN"
     },
     {
-      "id": "edge_59",
-      "source": "witness_59",
-      "target": "session-39",
-      "type": "TESTIFIED_IN"
-    },
-    {
       "id": "edge_60",
       "source": "witness_60",
       "target": "session-66",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_61",
-      "source": "witness_61",
-      "target": "session-62",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31691,18 +31722,6 @@
     {
       "id": "edge_67",
       "source": "witness_67",
-      "target": "session-65",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_68",
-      "source": "witness_68",
-      "target": "session-16",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_69",
-      "source": "witness_69",
       "target": "session-65",
       "type": "TESTIFIED_IN"
     },
@@ -31752,24 +31771,6 @@
       "id": "edge_77",
       "source": "witness_77",
       "target": "session-48",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_78",
-      "source": "witness_78",
-      "target": "session-51",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_79",
-      "source": "witness_79",
-      "target": "session-55",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_80",
-      "source": "witness_80",
-      "target": "session-12",
       "type": "TESTIFIED_IN"
     },
     {
@@ -31845,12 +31846,6 @@
       "type": "TESTIFIED_IN"
     },
     {
-      "id": "edge_93",
-      "source": "witness_93",
-      "target": "session-68",
-      "type": "TESTIFIED_IN"
-    },
-    {
       "id": "edge_94",
       "source": "witness_94",
       "target": "session-47",
@@ -31860,12 +31855,6 @@
       "id": "edge_95",
       "source": "witness_95",
       "target": "session-25",
-      "type": "TESTIFIED_IN"
-    },
-    {
-      "id": "edge_96",
-      "source": "witness_96",
-      "target": "session-56",
       "type": "TESTIFIED_IN"
     },
     {
@@ -65751,732 +65740,6 @@
       "type": "MENTIONED_IN"
     },
     {
-      "id": "edge_5744",
-      "source": "session-1",
-      "target": "date-1961-04-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5745",
-      "source": "session-2",
-      "target": "date-1961-04-17",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5746",
-      "source": "session-3",
-      "target": "date-1961-04-18",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5747",
-      "source": "session-4",
-      "target": "date-1961-04-19",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5748",
-      "source": "session-5",
-      "target": "date-1961-04-20",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5749",
-      "source": "session-6",
-      "target": "date-1961-04-24",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5750",
-      "source": "session-7",
-      "target": "date-1961-04-25",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5751",
-      "source": "session-8",
-      "target": "date-1961-04-25",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5752",
-      "source": "session-9",
-      "target": "date-1961-04-26",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5753",
-      "source": "session-10",
-      "target": "date-1961-04-27",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5754",
-      "source": "session-11",
-      "target": "date-1961-04-28",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5755",
-      "source": "session-12",
-      "target": "date-1961-05-01",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5756",
-      "source": "session-13",
-      "target": "date-1961-05-01",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5757",
-      "source": "session-14",
-      "target": "date-1961-05-02",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5758",
-      "source": "session-15",
-      "target": "date-1961-05-02",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5759",
-      "source": "session-16",
-      "target": "date-1961-05-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5760",
-      "source": "session-17",
-      "target": "date-1961-05-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5761",
-      "source": "session-18",
-      "target": "date-1961-05-04",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5762",
-      "source": "session-19",
-      "target": "date-1961-05-04",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5763",
-      "source": "session-20",
-      "target": "date-1961-05-08",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5764",
-      "source": "session-21",
-      "target": "date-1961-05-09",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5765",
-      "source": "session-22",
-      "target": "date-1961-05-09",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5766",
-      "source": "session-23",
-      "target": "date-1961-05-10",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5767",
-      "source": "session-24",
-      "target": "date-1961-05-02",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5768",
-      "source": "session-25",
-      "target": "date-1961-05-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5769",
-      "source": "session-26",
-      "target": "date-1961-05-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5770",
-      "source": "session-27",
-      "target": "date-1961-05-04",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5771",
-      "source": "session-28",
-      "target": "date-1961-05-04",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5772",
-      "source": "session-29",
-      "target": "date-1961-05-08",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5773",
-      "source": "session-30",
-      "target": "date-1961-05-09",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5774",
-      "source": "session-31",
-      "target": "date-1961-05-10",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5775",
-      "source": "session-32",
-      "target": "date-1961-05-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5776",
-      "source": "session-33",
-      "target": "date-1961-05-15",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5777",
-      "source": "session-34",
-      "target": "date-1961-05-16",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5778",
-      "source": "session-35",
-      "target": "date-1961-05-17",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5779",
-      "source": "session-36",
-      "target": "date-1961-05-18",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5780",
-      "source": "session-37",
-      "target": "date-1961-05-22",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5781",
-      "source": "session-38",
-      "target": "date-1961-05-23",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5782",
-      "source": "session-39",
-      "target": "date-1961-05-24",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5783",
-      "source": "session-40",
-      "target": "date-1961-05-25",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5784",
-      "source": "session-41",
-      "target": "date-1961-05-29",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5785",
-      "source": "session-42",
-      "target": "date-1961-05-30",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5786",
-      "source": "session-43",
-      "target": "date-1961-05-31",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5787",
-      "source": "session-44",
-      "target": "date-1961-06-01",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5788",
-      "source": "session-45",
-      "target": "date-1961-06-05",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5789",
-      "source": "session-46",
-      "target": "date-1961-06-06",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5790",
-      "source": "session-47",
-      "target": "date-1961-06-07",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5791",
-      "source": "session-48",
-      "target": "date-1961-06-08",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5792",
-      "source": "session-49",
-      "target": "date-1961-06-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5793",
-      "source": "session-50",
-      "target": "date-1961-06-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5794",
-      "source": "session-51",
-      "target": "date-1961-06-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5795",
-      "source": "session-52",
-      "target": "date-1961-06-15",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5796",
-      "source": "session-53",
-      "target": "date-1961-06-19",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5797",
-      "source": "session-54",
-      "target": "date-1961-06-20",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5798",
-      "source": "session-55",
-      "target": "date-1961-06-21",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5799",
-      "source": "session-56",
-      "target": "date-1961-06-22",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5800",
-      "source": "session-57",
-      "target": "date-1961-06-26",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5801",
-      "source": "session-58",
-      "target": "date-1961-06-27",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5802",
-      "source": "session-59",
-      "target": "date-1961-06-28",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5803",
-      "source": "session-60",
-      "target": "date-1961-06-29",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5804",
-      "source": "session-61",
-      "target": "date-1961-07-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5805",
-      "source": "session-62",
-      "target": "date-1961-07-04",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5806",
-      "source": "session-63",
-      "target": "date-1961-07-05",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5807",
-      "source": "session-64",
-      "target": "date-1961-07-06",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5808",
-      "source": "session-65",
-      "target": "date-1961-07-10",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5809",
-      "source": "session-66",
-      "target": "date-1961-07-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5810",
-      "source": "session-67",
-      "target": "date-1961-07-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5811",
-      "source": "session-68",
-      "target": "date-1961-07-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5812",
-      "source": "session-69",
-      "target": "date-1961-07-17",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5813",
-      "source": "session-70",
-      "target": "date-1961-07-18",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5814",
-      "source": "session-71",
-      "target": "date-1961-07-19",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5815",
-      "source": "session-72",
-      "target": "date-1961-07-20",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5816",
-      "source": "session-73",
-      "target": "date-1961-07-24",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5817",
-      "source": "session-74",
-      "target": "date-1961-07-24",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5818",
-      "source": "session-75",
-      "target": "date-1961-07-25",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5819",
-      "source": "session-76",
-      "target": "date-1961-07-26",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5820",
-      "source": "session-77",
-      "target": "date-1961-07-27",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5821",
-      "source": "session-78",
-      "target": "date-1961-07-31",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5822",
-      "source": "session-79",
-      "target": "date-1961-08-01",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5823",
-      "source": "session-80",
-      "target": "date-1961-08-02",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5824",
-      "source": "session-81",
-      "target": "date-1961-08-03",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5825",
-      "source": "session-82",
-      "target": "date-1961-08-07",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5826",
-      "source": "session-83",
-      "target": "date-1961-08-08",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5827",
-      "source": "session-84",
-      "target": "date-1961-08-09",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5828",
-      "source": "session-85",
-      "target": "date-1961-08-10",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5829",
-      "source": "session-86",
-      "target": "date-1961-08-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5830",
-      "source": "session-87",
-      "target": "date-1961-08-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5831",
-      "source": "session-88",
-      "target": "date-1961-08-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5832",
-      "source": "session-89",
-      "target": "date-1961-08-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5833",
-      "source": "session-90",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5834",
-      "source": "session-91",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5835",
-      "source": "session-92",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5836",
-      "source": "session-93",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5837",
-      "source": "session-94",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5838",
-      "source": "session-95",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5839",
-      "source": "session-96",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5840",
-      "source": "session-97",
-      "target": "date-1961-12-11",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5841",
-      "source": "session-98",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5842",
-      "source": "session-99",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5843",
-      "source": "session-100",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5844",
-      "source": "session-101",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5845",
-      "source": "session-102",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5846",
-      "source": "session-103",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5847",
-      "source": "session-104",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5848",
-      "source": "session-105",
-      "target": "date-1961-12-12",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5849",
-      "source": "session-106",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5850",
-      "source": "session-107",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5851",
-      "source": "session-108",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5852",
-      "source": "session-109",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5853",
-      "source": "session-110",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5854",
-      "source": "session-111",
-      "target": "date-1961-12-13",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5855",
-      "source": "session-112",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5856",
-      "source": "session-113",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5857",
-      "source": "session-114",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5858",
-      "source": "session-115",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5859",
-      "source": "session-116",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5860",
-      "source": "session-117",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5861",
-      "source": "session-118",
-      "target": "date-1961-12-14",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5862",
-      "source": "session-119",
-      "target": "date-1961-12-15",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5863",
-      "source": "session-120",
-      "target": "date-1961-12-15",
-      "type": "OCCURRED_ON"
-    },
-    {
-      "id": "edge_5864",
-      "source": "session-121",
-      "target": "date-1961-12-15",
-      "type": "OCCURRED_ON"
-    },
-    {
       "id": "edge_5865",
       "source": "witness_1",
       "target": "location_7",
@@ -69520,6 +68783,948 @@
       "target": "event_391",
       "type": "PARTICIPATED_IN",
       "semantic": true
+    },
+    {
+      "id": "edge_6300",
+      "source": "session-1",
+      "target": "date-1961-04-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6301",
+      "source": "session-2",
+      "target": "date-1961-04-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6302",
+      "source": "session-3",
+      "target": "date-1961-04-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6303",
+      "source": "session-4",
+      "target": "date-1961-04-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6304",
+      "source": "session-5",
+      "target": "date-1961-04-14",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6305",
+      "source": "session-6",
+      "target": "date-1961-04-17",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6306",
+      "source": "session-7",
+      "target": "date-1961-04-17",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6307",
+      "source": "session-8",
+      "target": "date-1961-04-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6308",
+      "source": "session-9",
+      "target": "date-1961-04-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6309",
+      "source": "session-10",
+      "target": "date-1961-04-19",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6310",
+      "source": "session-11",
+      "target": "date-1961-04-21",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6311",
+      "source": "session-12",
+      "target": "date-1961-04-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6312",
+      "source": "session-13",
+      "target": "date-1961-04-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6313",
+      "source": "session-14",
+      "target": "date-1961-04-25",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6314",
+      "source": "session-15",
+      "target": "date-1961-04-25",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6315",
+      "source": "session-16",
+      "target": "date-1961-04-26",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6316",
+      "source": "session-17",
+      "target": "date-1961-04-26",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6317",
+      "source": "session-18",
+      "target": "date-1961-04-27",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6318",
+      "source": "session-19",
+      "target": "date-1961-04-27",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6319",
+      "source": "session-20",
+      "target": "date-1961-04-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6320",
+      "source": "session-21",
+      "target": "date-1961-05-01",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6321",
+      "source": "session-22",
+      "target": "date-1961-05-01",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6322",
+      "source": "session-23",
+      "target": "date-1961-05-02",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6323",
+      "source": "session-24",
+      "target": "date-1961-05-02",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6324",
+      "source": "session-25",
+      "target": "date-1961-05-03",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6325",
+      "source": "session-26",
+      "target": "date-1961-05-03",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6326",
+      "source": "session-27",
+      "target": "date-1961-05-04",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6327",
+      "source": "session-28",
+      "target": "date-1961-05-04",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6328",
+      "source": "session-29",
+      "target": "date-1961-05-05",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6329",
+      "source": "session-30",
+      "target": "date-1961-05-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6330",
+      "source": "session-31",
+      "target": "date-1961-05-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6331",
+      "source": "session-32",
+      "target": "date-1961-05-09",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6332",
+      "source": "session-33",
+      "target": "date-1961-05-09",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6333",
+      "source": "session-34",
+      "target": "date-1961-05-10",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6334",
+      "source": "session-35",
+      "target": "date-1961-05-10",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6335",
+      "source": "session-36",
+      "target": "date-1961-05-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6336",
+      "source": "session-37",
+      "target": "date-1961-05-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6337",
+      "source": "session-38",
+      "target": "date-1961-05-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6338",
+      "source": "session-39",
+      "target": "date-1961-05-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6339",
+      "source": "session-40",
+      "target": "date-1961-05-15",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6340",
+      "source": "session-41",
+      "target": "date-1961-05-16",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6341",
+      "source": "session-42",
+      "target": "date-1961-05-16",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6342",
+      "source": "session-43",
+      "target": "date-1961-05-17",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6343",
+      "source": "session-44",
+      "target": "date-1961-05-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6344",
+      "source": "session-45",
+      "target": "date-1961-05-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6345",
+      "source": "session-46",
+      "target": "date-1961-05-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6346",
+      "source": "session-47",
+      "target": "date-1961-05-22",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6347",
+      "source": "session-48",
+      "target": "date-1961-05-23",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6348",
+      "source": "session-49",
+      "target": "date-1961-05-23",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6349",
+      "source": "session-50",
+      "target": "date-1961-05-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6350",
+      "source": "session-51",
+      "target": "date-1961-05-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6351",
+      "source": "session-52",
+      "target": "date-1961-05-25",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6352",
+      "source": "session-53",
+      "target": "date-1961-05-25",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6353",
+      "source": "session-54",
+      "target": "date-1961-05-26",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6354",
+      "source": "session-55",
+      "target": "date-1961-05-29",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6355",
+      "source": "session-56",
+      "target": "date-1961-05-29",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6356",
+      "source": "session-57",
+      "target": "date-1961-05-30",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6357",
+      "source": "session-58",
+      "target": "date-1961-05-30",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6358",
+      "source": "session-59",
+      "target": "date-1961-05-31",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6359",
+      "source": "session-60",
+      "target": "date-1961-05-31",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6360",
+      "source": "session-61",
+      "target": "date-1961-06-01",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6361",
+      "source": "session-62",
+      "target": "date-1961-06-02",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6362",
+      "source": "session-63",
+      "target": "date-1961-06-02",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6363",
+      "source": "session-64",
+      "target": "date-1961-06-05",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6364",
+      "source": "session-65",
+      "target": "date-1961-06-05",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6365",
+      "source": "session-66",
+      "target": "date-1961-06-06",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6366",
+      "source": "session-67",
+      "target": "date-1961-06-06",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6367",
+      "source": "session-68",
+      "target": "date-1961-06-07",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6368",
+      "source": "session-69",
+      "target": "date-1961-06-07",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6369",
+      "source": "session-70",
+      "target": "date-1961-06-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6370",
+      "source": "session-71",
+      "target": "date-1961-06-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6371",
+      "source": "session-72",
+      "target": "date-1961-06-09",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6372",
+      "source": "session-73",
+      "target": "date-1961-06-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6373",
+      "source": "session-74",
+      "target": "date-1961-06-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6374",
+      "source": "session-75",
+      "target": "date-1961-06-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6375",
+      "source": "session-76",
+      "target": "date-1961-06-21",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6376",
+      "source": "session-77",
+      "target": "date-1961-06-21",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6377",
+      "source": "session-78",
+      "target": "date-1961-06-21",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6378",
+      "source": "session-79",
+      "target": "date-1961-06-26",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6379",
+      "source": "session-80",
+      "target": "date-1961-06-26",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6380",
+      "source": "session-81",
+      "target": "date-1961-06-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6381",
+      "source": "session-82",
+      "target": "date-1961-06-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6382",
+      "source": "session-83",
+      "target": "date-1961-06-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6383",
+      "source": "session-84",
+      "target": "date-1961-06-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6384",
+      "source": "session-85",
+      "target": "date-1961-06-28",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6385",
+      "source": "session-86",
+      "target": "date-1961-07-05",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6386",
+      "source": "session-87",
+      "target": "date-1961-07-06",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6387",
+      "source": "session-88",
+      "target": "date-1961-07-07",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6388",
+      "source": "session-89",
+      "target": "date-1961-07-10",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6389",
+      "source": "session-90",
+      "target": "date-1961-07-10",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6390",
+      "source": "session-91",
+      "target": "date-1961-07-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6391",
+      "source": "session-92",
+      "target": "date-1961-07-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6392",
+      "source": "session-93",
+      "target": "date-1961-07-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6393",
+      "source": "session-94",
+      "target": "date-1961-07-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6394",
+      "source": "session-95",
+      "target": "date-1961-07-13",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6395",
+      "source": "session-96",
+      "target": "date-1961-07-13",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6396",
+      "source": "session-97",
+      "target": "date-1961-07-14",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6397",
+      "source": "session-98",
+      "target": "date-1961-07-17",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6398",
+      "source": "session-99",
+      "target": "date-1961-07-17",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6399",
+      "source": "session-100",
+      "target": "date-1961-07-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6400",
+      "source": "session-101",
+      "target": "date-1961-07-18",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6401",
+      "source": "session-102",
+      "target": "date-1961-07-19",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6402",
+      "source": "session-103",
+      "target": "date-1961-07-19",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6403",
+      "source": "session-104",
+      "target": "date-1961-07-20",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6404",
+      "source": "session-105",
+      "target": "date-1961-07-20",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6405",
+      "source": "session-106",
+      "target": "date-1961-07-21",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6406",
+      "source": "session-107",
+      "target": "date-1961-07-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6407",
+      "source": "session-108",
+      "target": "date-1961-07-24",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6408",
+      "source": "session-109",
+      "target": "date-1961-07-25",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6409",
+      "source": "session-110",
+      "target": "date-1961-08-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6410",
+      "source": "session-111",
+      "target": "date-1961-08-08",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6411",
+      "source": "session-112",
+      "target": "date-1961-08-09",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6412",
+      "source": "session-113",
+      "target": "date-1961-08-10",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6413",
+      "source": "session-114",
+      "target": "date-1961-08-14",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6414",
+      "source": "session-115",
+      "target": "date-1961-12-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6415",
+      "source": "session-116",
+      "target": "date-1961-12-11",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6416",
+      "source": "session-117",
+      "target": "date-1961-11-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6417",
+      "source": "session-118",
+      "target": "date-1961-12-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6418",
+      "source": "session-119",
+      "target": "date-1961-12-12",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6419",
+      "source": "session-120",
+      "target": "date-1961-12-13",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6420",
+      "source": "session-121",
+      "target": "date-1961-12-15",
+      "type": "OCCURRED_ON"
+    },
+    {
+      "id": "edge_6421",
+      "source": "witness_8",
+      "target": "session-52",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6422",
+      "source": "witness_8",
+      "target": "session-53",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6423",
+      "source": "witness_11",
+      "target": "session-9",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6424",
+      "source": "witness_11",
+      "target": "session-10",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6425",
+      "source": "witness_11",
+      "target": "session-11",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6426",
+      "source": "witness_11",
+      "target": "session-12",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6427",
+      "source": "witness_20",
+      "target": "session-14",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6428",
+      "source": "witness_20",
+      "target": "session-15",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6429",
+      "source": "witness_35",
+      "target": "session-22",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6430",
+      "source": "witness_35",
+      "target": "session-23",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6431",
+      "source": "witness_33",
+      "target": "session-41",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6432",
+      "source": "witness_33",
+      "target": "session-42",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6433",
+      "source": "witness_48",
+      "target": "session-58",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6434",
+      "source": "witness_48",
+      "target": "session-59",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6435",
+      "source": "witness_50",
+      "target": "session-23",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6436",
+      "source": "witness_50",
+      "target": "session-24",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6437",
+      "source": "witness_51",
+      "target": "session-61",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6438",
+      "source": "witness_59",
+      "target": "session-39",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6439",
+      "source": "witness_59",
+      "target": "session-40",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6440",
+      "source": "witness_61",
+      "target": "session-61",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6441",
+      "source": "witness_68",
+      "target": "session-16",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6442",
+      "source": "witness_68",
+      "target": "session-17",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6443",
+      "source": "witness_69",
+      "target": "session-65",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6444",
+      "source": "witness_69",
+      "target": "session-66",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6445",
+      "source": "witness_78",
+      "target": "session-51",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6446",
+      "source": "witness_78",
+      "target": "session-52",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6447",
+      "source": "witness_79",
+      "target": "session-55",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6448",
+      "source": "witness_79",
+      "target": "session-56",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6449",
+      "source": "witness_79",
+      "target": "session-57",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6450",
+      "source": "witness_80",
+      "target": "session-12",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6451",
+      "source": "witness_80",
+      "target": "session-13",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6452",
+      "source": "witness_93",
+      "target": "session-68",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6453",
+      "source": "witness_93",
+      "target": "session-69",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6454",
+      "source": "witness_96",
+      "target": "session-56",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6455",
+      "source": "witness_96",
+      "target": "session-57",
+      "type": "TESTIFIED_IN"
+    },
+    {
+      "id": "edge_6456",
+      "source": "witness_96",
+      "target": "session-59",
+      "type": "TESTIFIED_IN"
     }
   ]
 }
