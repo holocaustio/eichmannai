@@ -14,9 +14,9 @@
 
 **Q.**You were born in [[LOCATION:location_5|Poland]]?
 
-**A.**Y
+**A.**Yes.
 
-es.**Q.**And you were the author of the books Salamandra, The House of Dolls, The Clock Above the Head and They called Him Piepel?
+**Q.**And you were the author of the books Salamandra, The House of Dolls, The Clock Above the Head and They called Him Piepel?
 
 **A.**Yes.
 
