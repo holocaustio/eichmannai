@@ -352,6 +352,84 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Credits & Contributors */}
+      <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-serif text-3xl font-light mb-8 text-center">Credits & Contributors</h2>
+          <p className="text-stone-400 text-center mb-10">
+            This project was made possible through the generous contributions of researchers, 
+            scholars, and technologists who shared their expertise and knowledge.
+          </p>
+          
+          <div className="space-y-8">
+            {/* Prof. Renana Keydar */}
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium text-lg mb-2">
+                <a 
+                  href="https://renanakeydar.huji.ac.il/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  Prof. Renana Keydar
+                </a>
+              </h3>
+              <p className="text-stone-500 text-sm mb-3">Hebrew University of Jerusalem</p>
+              <p className="text-stone-400 leading-relaxed">
+                For contributing invaluable data and scholarly knowledge from her research on the Eichmann trial. 
+                Her work on computational analysis of survivor testimony provided critical insights for this archive.
+              </p>
+              <a 
+                href="https://www.mohrsiebeck.com/en/article/changing-the-lens-on-survivor-testimony-topic-modeling-the-eichmann-trial-101628jsq-2022-0024/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-block mt-4 text-amber-500 hover:text-amber-400 text-sm transition-colors"
+              >
+                Read her publication: &quot;Changing the Lens on Survivor Testimony&quot; →
+              </a>
+            </div>
+
+            {/* Tamar Shafran */}
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium text-lg mb-2">
+                <a 
+                  href="https://en-digitalhumanities.huji.ac.il/people/tamar-shafran" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  Tamar Shafran
+                </a>
+              </h3>
+              <p className="text-stone-500 text-sm mb-3">Doctoral Candidate, Hebrew University of Jerusalem</p>
+              <p className="text-stone-400 leading-relaxed">
+                For her contributions to the research data and analysis as a doctoral student working 
+                with Prof. Renana Keydar on the Eichmann trial project.
+              </p>
+            </div>
+
+            {/* Shem Magnezi */}
+            <div className="p-6 border border-stone-800 bg-stone-900/50">
+              <h3 className="text-stone-200 font-medium text-lg mb-2">
+                <a 
+                  href="https://x.com/shemag8" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-white transition-colors"
+                >
+                  Shem Magnezi
+                </a>
+              </h3>
+              <p className="text-stone-500 text-sm mb-3">Software Engineer</p>
+              <p className="text-stone-400 leading-relaxed">
+                For his mentorship and guidance on entity extraction and data modeling techniques. 
+                His expertise helped shape the technical foundation of this archive&apos;s data architecture.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Holocaust IO */}
       <section className="py-16 px-6 border-b border-stone-900 bg-stone-900/30">
         <div className="max-w-3xl mx-auto text-center">
