@@ -16,7 +16,6 @@ interface Entity {
   // SESSION entity fields
   number?: number;
   date?: string;
-  day?: string;
   phase?: string;
 }
 
@@ -41,7 +40,6 @@ interface Session {
 interface TimelineSession {
   number: number;
   date: string;
-  day: string;
   hebrewDate: string;
   topics: string[];
   witnesses: string[];
@@ -171,15 +169,15 @@ export default function ExploreClient() {
             return {
               number: session.number || 0,
               date: session.date || '',
-              day: session.day || '',
               hebrewDate: '', // Could be computed if needed
               topics: [],
               witnesses: sessionWitnesses,
               milestone: session.number === 1 ? 'Trial Opens' : 
                          session.number === 6 ? 'Opening Statement begins' :
-                         session.number === 100 ? 'Defense case begins' :
-                         session.number === 112 ? 'Closing arguments begin' :
-                         session.number === 121 ? 'Testimony phase ends' : undefined
+                         session.number === 75 ? 'Eichmann testimony begins' :
+                         session.number === 110 ? 'Closing arguments begin' :
+                         session.number === 115 ? 'Verdict delivered' :
+                         session.number === 121 ? 'Sentencing' : undefined
             };
           });
         
@@ -948,6 +946,12 @@ function TimelineView({
     });
   };
 
+  // Get day of week from date string
+  const getDayOfWeek = (dateStr: string) => {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', { weekday: 'long' });
+  };
+
   // Get phase color
   const getPhaseColor = (phaseId: string) => {
     const colors: Record<string, { bg: string; border: string; text: string }> = {
@@ -1139,7 +1143,7 @@ function TimelineView({
                               {isMilestone && <span className="text-amber-400">★</span>}
                             </div>
                             <div className="text-stone-500 text-sm">
-                              {session.day}, {formatDateShort(session.date)}
+                              {getDayOfWeek(session.date)}, {formatDateShort(session.date)}
                             </div>
                             {session.topics.length > 0 && (
                               <div className="mt-2 text-stone-400 text-sm">

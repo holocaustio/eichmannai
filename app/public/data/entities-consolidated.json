@@ -1,10 +1,10 @@
 {
   "metadata": {
     "generatedAt": "2025-12-31T14:05:52.241780",
-    "totalNodes": 1207,
+    "totalNodes": 1209,
     "totalEdges": 6318,
     "typeCounts": {
-      "PERSON": 496,
+      "PERSON": 498,
       "LOCATION": 298,
       "ORGANIZATION": 84,
       "EVENT": 10,
@@ -14,7 +14,7 @@
     },
     "source": "consolidate_entities.py (OpenAI)",
     "semanticEdgesAdded": 435,
-    "lastUpdated": "2026-01-20T22:55:24.291399"
+    "lastUpdated": "2026-01-24T19:17:39.942Z"
   },
   "nodes": [
     {
@@ -935,7 +935,7 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        61
+        62
       ],
       "mentions": 1,
       "image": "/images/witnesses/zimerman.jpg",
@@ -1116,7 +1116,7 @@
       "isWitness": true,
       "role": "Witness",
       "sessions": [
-        61
+        62
       ],
       "mentions": 1,
       "image": "/images/witnesses/gordon.jpg",
@@ -1978,6 +1978,42 @@
       "testimony": {
         "he": "/data/testimonies/Yacov_Gurfein.md",
         "en": "/data/testimonies/en/Yacov_Gurfein.md"
+      }
+    },
+    {
+      "id": "witness_anonymous_a",
+      "type": "PERSON",
+      "name": "Anonymous Witness A",
+      "hebrewName": "עד א'",
+      "englishName": "Anonymous Witness A",
+      "isWitness": true,
+      "role": "Witness",
+      "sessions": [
+        69
+      ],
+      "mentions": 1,
+      "image": "/images/witnesses/anonymous.jpg",
+      "testimony": {
+        "he": null,
+        "en": null
+      }
+    },
+    {
+      "id": "witness_anonymous_b",
+      "type": "PERSON",
+      "name": "Anonymous Witness B",
+      "hebrewName": "עד ב'",
+      "englishName": "Anonymous Witness B",
+      "isWitness": true,
+      "role": "Witness",
+      "sessions": [
+        69
+      ],
+      "mentions": 1,
+      "image": "/images/witnesses/anonymous.jpg",
+      "testimony": {
+        "he": null,
+        "en": null
       }
     },
     {
@@ -8778,7 +8814,6 @@
       "name": "Session 1",
       "number": 1,
       "date": "1961-04-11",
-      "day": "Tuesday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -8913,7 +8948,6 @@
       "name": "Session 2",
       "number": 2,
       "date": "1961-04-11",
-      "day": "Monday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -9001,7 +9035,6 @@
       "name": "Session 3",
       "number": 3,
       "date": "1961-04-12",
-      "day": "Tuesday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -9106,7 +9139,6 @@
       "name": "Session 4",
       "number": 4,
       "date": "1961-04-12",
-      "day": "Wednesday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -9206,7 +9238,6 @@
       "name": "Session 5",
       "number": 5,
       "date": "1961-04-14",
-      "day": "Thursday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -9279,7 +9310,6 @@
       "name": "Session 6",
       "number": 6,
       "date": "1961-04-17",
-      "day": "Monday",
       "phase": "Opening",
       "witnessIds": [],
       "personIds": [
@@ -9303,7 +9333,6 @@
       "name": "Session 7",
       "number": 7,
       "date": "1961-04-17",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [],
@@ -9318,7 +9347,6 @@
       "name": "Session 8",
       "number": 8,
       "date": "1961-04-18",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [],
@@ -9333,7 +9361,6 @@
       "name": "Session 9",
       "number": 9,
       "date": "1961-04-18",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_11",
@@ -9452,7 +9479,6 @@
       "name": "Session 10",
       "number": 10,
       "date": "1961-04-19",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -9549,7 +9575,6 @@
       "name": "Session 11",
       "number": 11,
       "date": "1961-04-21",
-      "day": "Friday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -9657,7 +9682,6 @@
       "name": "Session 12",
       "number": 12,
       "date": "1961-04-24",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_80"
@@ -9835,7 +9859,6 @@
       "name": "Session 13",
       "number": 13,
       "date": "1961-04-24",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -9984,7 +10007,6 @@
       "name": "Session 14",
       "number": 14,
       "date": "1961-04-25",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_20",
@@ -10157,7 +10179,6 @@
       "name": "Session 15",
       "number": 15,
       "date": "1961-04-25",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_6"
@@ -10285,7 +10306,6 @@
       "name": "Session 16",
       "number": 16,
       "date": "1961-04-26",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_68"
@@ -10468,7 +10488,6 @@
       "name": "Session 17",
       "number": 17,
       "date": "1961-04-26",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_45"
@@ -10592,7 +10611,6 @@
       "name": "Session 18",
       "number": 18,
       "date": "1961-04-27",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -10795,7 +10813,6 @@
       "name": "Session 19",
       "number": 19,
       "date": "1961-04-27",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_23",
@@ -10933,7 +10950,6 @@
       "name": "Session 20",
       "number": 20,
       "date": "1961-04-28",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_2",
@@ -11123,7 +11139,6 @@
       "name": "Session 21",
       "number": 21,
       "date": "1961-05-01",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_99",
@@ -11270,7 +11285,6 @@
       "name": "Session 22",
       "number": 22,
       "date": "1961-05-01",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_35"
@@ -11348,7 +11362,6 @@
       "name": "Session 23",
       "number": 23,
       "date": "1961-05-02",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_50"
@@ -11463,7 +11476,6 @@
       "name": "Session 24",
       "number": 24,
       "date": "1961-05-02",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_58",
@@ -11587,7 +11599,6 @@
       "name": "Session 25",
       "number": 25,
       "date": "1961-05-03",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_95",
@@ -11723,7 +11734,6 @@
       "name": "Session 26",
       "number": 26,
       "date": "1961-05-03",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_18",
@@ -11877,7 +11887,6 @@
       "name": "Session 27",
       "number": 27,
       "date": "1961-05-04",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_1",
@@ -12049,7 +12058,6 @@
       "name": "Session 28",
       "number": 28,
       "date": "1961-05-04",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_15",
@@ -12164,7 +12172,6 @@
       "name": "Session 29",
       "number": 29,
       "date": "1961-05-05",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_12",
@@ -12319,7 +12326,6 @@
       "name": "Session 30",
       "number": 30,
       "date": "1961-05-08",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_73",
@@ -12494,7 +12500,6 @@
       "name": "Session 31",
       "number": 31,
       "date": "1961-05-08",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -12629,7 +12634,6 @@
       "name": "Session 32",
       "number": 32,
       "date": "1961-05-09",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_31"
@@ -12731,7 +12735,6 @@
       "name": "Session 33",
       "number": 33,
       "date": "1961-05-09",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -12857,7 +12860,6 @@
       "name": "Session 34",
       "number": 34,
       "date": "1961-05-10",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_32"
@@ -13015,7 +13017,6 @@
       "name": "Session 35",
       "number": 35,
       "date": "1961-05-10",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_88"
@@ -13149,7 +13150,6 @@
       "name": "Session 36",
       "number": 36,
       "date": "1961-05-11",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_49",
@@ -13296,7 +13296,6 @@
       "name": "Session 37",
       "number": 37,
       "date": "1961-05-11",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_52"
@@ -13430,7 +13429,6 @@
       "name": "Session 38",
       "number": 38,
       "date": "1961-05-12",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_65"
@@ -13638,8 +13636,7 @@
       "type": "SESSION",
       "name": "Session 39",
       "number": 39,
-      "date": "1961-05-12",
-      "day": "Wednesday",
+      "date": "1961-05-15",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_59"
@@ -13747,7 +13744,6 @@
       "name": "Session 40",
       "number": 40,
       "date": "1961-05-15",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -13839,7 +13835,6 @@
       "name": "Session 41",
       "number": 41,
       "date": "1961-05-16",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_33"
@@ -13976,7 +13971,6 @@
       "name": "Session 42",
       "number": 42,
       "date": "1961-05-16",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_22"
@@ -14109,7 +14103,6 @@
       "name": "Session 43",
       "number": 43,
       "date": "1961-05-17",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -14336,7 +14329,6 @@
       "name": "Session 44",
       "number": 44,
       "date": "1961-05-18",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_43"
@@ -14499,7 +14491,6 @@
       "name": "Session 45",
       "number": 45,
       "date": "1961-05-18",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_3",
@@ -14619,7 +14610,6 @@
       "name": "Session 46",
       "number": 46,
       "date": "1961-05-18",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_7",
@@ -14764,7 +14754,6 @@
       "name": "Session 47",
       "number": 47,
       "date": "1961-05-22",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_94"
@@ -14934,7 +14923,6 @@
       "name": "Session 48",
       "number": 48,
       "date": "1961-05-23",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_38",
@@ -15087,7 +15075,6 @@
       "name": "Session 49",
       "number": 49,
       "date": "1961-05-23",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_30"
@@ -15217,7 +15204,6 @@
       "name": "Session 50",
       "number": 50,
       "date": "1961-05-24",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_28"
@@ -15422,7 +15408,6 @@
       "name": "Session 51",
       "number": 51,
       "date": "1961-05-24",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_4",
@@ -15594,7 +15579,6 @@
       "name": "Session 52",
       "number": 52,
       "date": "1961-05-25",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_8"
@@ -15745,7 +15729,6 @@
       "name": "Session 53",
       "number": 53,
       "date": "1961-05-25",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_36",
@@ -15843,7 +15826,6 @@
       "name": "Session 54",
       "number": 54,
       "date": "1961-05-26",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_39",
@@ -15975,7 +15957,6 @@
       "name": "Session 55",
       "number": 55,
       "date": "1961-05-29",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_79"
@@ -16044,7 +16025,6 @@
       "name": "Session 56",
       "number": 56,
       "date": "1961-05-29",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_96"
@@ -16163,7 +16143,6 @@
       "name": "Session 57",
       "number": 57,
       "date": "1961-05-30",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -16298,7 +16277,6 @@
       "name": "Session 58",
       "number": 58,
       "date": "1961-05-30",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_48"
@@ -16399,7 +16377,6 @@
       "name": "Session 59",
       "number": 59,
       "date": "1961-05-31",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -16515,7 +16492,6 @@
       "name": "Session 60",
       "number": 60,
       "date": "1961-05-31",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_70"
@@ -16664,7 +16640,6 @@
       "name": "Session 61",
       "number": 61,
       "date": "1961-06-01",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_10",
@@ -16807,8 +16782,7 @@
       "type": "SESSION",
       "name": "Session 62",
       "number": 62,
-      "date": "1961-06-02",
-      "day": "Tuesday",
+      "date": "1961-06-01",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_51",
@@ -16984,7 +16958,6 @@
       "name": "Session 63",
       "number": 63,
       "date": "1961-06-02",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_13",
@@ -17176,7 +17149,6 @@
       "name": "Session 64",
       "number": 64,
       "date": "1961-06-05",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_21",
@@ -17257,7 +17229,6 @@
       "name": "Session 65",
       "number": 65,
       "date": "1961-06-05",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_64",
@@ -17356,7 +17327,6 @@
       "name": "Session 66",
       "number": 66,
       "date": "1961-06-06",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_17",
@@ -17475,7 +17445,6 @@
       "name": "Session 67",
       "number": 67,
       "date": "1961-06-06",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_24"
@@ -17602,7 +17571,6 @@
       "name": "Session 68",
       "number": 68,
       "date": "1961-06-07",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_9",
@@ -17762,10 +17730,11 @@
       "name": "Session 69",
       "number": 69,
       "date": "1961-06-07",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
-        "witness_26"
+        "witness_26",
+        "witness_anonymous_a",
+        "witness_anonymous_b"
       ],
       "personIds": [
         "person_117",
@@ -17867,7 +17836,6 @@
       "name": "Session 70",
       "number": 70,
       "date": "1961-06-08",
-      "day": "Tuesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_44",
@@ -17980,7 +17948,6 @@
       "name": "Session 71",
       "number": 71,
       "date": "1961-06-08",
-      "day": "Wednesday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_46",
@@ -18088,7 +18055,6 @@
       "name": "Session 72",
       "number": 72,
       "date": "1961-06-09",
-      "day": "Thursday",
       "phase": "Prosecution Evidence",
       "witnessIds": [],
       "personIds": [
@@ -18255,7 +18221,6 @@
       "name": "Session 73",
       "number": 73,
       "date": "1961-06-12",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_5",
@@ -18385,7 +18350,6 @@
       "name": "Session 74",
       "number": 74,
       "date": "1961-06-12",
-      "day": "Monday",
       "phase": "Prosecution Evidence",
       "witnessIds": [
         "witness_14"
@@ -18486,9 +18450,8 @@
       "type": "SESSION",
       "name": "Session 75",
       "number": 75,
-      "date": "1961-06-12",
-      "day": "Tuesday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-20",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_113",
@@ -18700,8 +18663,7 @@
       "name": "Session 76",
       "number": 76,
       "date": "1961-06-21",
-      "day": "Wednesday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -18847,9 +18809,8 @@
       "type": "SESSION",
       "name": "Session 77",
       "number": 77,
-      "date": "1961-06-21",
-      "day": "Thursday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-22",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -18982,9 +18943,8 @@
       "type": "SESSION",
       "name": "Session 78",
       "number": 78,
-      "date": "1961-06-21",
-      "day": "Monday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-23",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -19119,8 +19079,7 @@
       "name": "Session 79",
       "number": 79,
       "date": "1961-06-26",
-      "day": "Tuesday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -19255,9 +19214,8 @@
       "type": "SESSION",
       "name": "Session 80",
       "number": 80,
-      "date": "1961-06-26",
-      "day": "Wednesday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-27",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_147",
@@ -19413,8 +19371,7 @@
       "name": "Session 81",
       "number": 81,
       "date": "1961-06-28",
-      "day": "Thursday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -19564,9 +19521,8 @@
       "type": "SESSION",
       "name": "Session 82",
       "number": 82,
-      "date": "1961-06-28",
-      "day": "Monday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-29",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -19697,9 +19653,8 @@
       "type": "SESSION",
       "name": "Session 83",
       "number": 83,
-      "date": "1961-06-28",
-      "day": "Tuesday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-06-30",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -19856,9 +19811,8 @@
       "type": "SESSION",
       "name": "Session 84",
       "number": 84,
-      "date": "1961-06-28",
-      "day": "Wednesday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-07-03",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_147",
@@ -20023,9 +19977,8 @@
       "type": "SESSION",
       "name": "Session 85",
       "number": 85,
-      "date": "1961-06-28",
-      "day": "Thursday",
-      "phase": "Prosecution Evidence",
+      "date": "1961-07-04",
+      "phase": "Prosecution Rebuttal",
       "witnessIds": [],
       "personIds": [
         "person_110",
@@ -20172,8 +20125,7 @@
       "name": "Session 86",
       "number": 86,
       "date": "1961-07-05",
-      "day": "Friday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_121",
@@ -20296,8 +20248,7 @@
       "name": "Session 87",
       "number": 87,
       "date": "1961-07-06",
-      "day": "Monday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -20472,8 +20423,7 @@
       "name": "Session 88",
       "number": 88,
       "date": "1961-07-07",
-      "day": "Monday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -20604,8 +20554,7 @@
       "name": "Session 89",
       "number": 89,
       "date": "1961-07-10",
-      "day": "Monday",
-      "phase": "Prosecution Evidence",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [],
       "locationIds": [],
@@ -20621,8 +20570,7 @@
       "name": "Session 90",
       "number": 90,
       "date": "1961-07-10",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_126",
@@ -20717,8 +20665,7 @@
       "name": "Session 91",
       "number": 91,
       "date": "1961-07-11",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -20848,8 +20795,7 @@
       "name": "Session 92",
       "number": 92,
       "date": "1961-07-11",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_117",
@@ -20956,8 +20902,7 @@
       "name": "Session 93",
       "number": 93,
       "date": "1961-07-12",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -21091,8 +21036,7 @@
       "name": "Session 94",
       "number": 94,
       "date": "1961-07-12",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_184",
@@ -21183,8 +21127,7 @@
       "name": "Session 95",
       "number": 95,
       "date": "1961-07-13",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -21259,8 +21202,7 @@
       "name": "Session 96",
       "number": 96,
       "date": "1961-07-13",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -21356,8 +21298,7 @@
       "name": "Session 97",
       "number": 97,
       "date": "1961-07-14",
-      "day": "Monday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -21456,8 +21397,7 @@
       "name": "Session 98",
       "number": 98,
       "date": "1961-07-17",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_147",
@@ -21570,8 +21510,7 @@
       "name": "Session 99",
       "number": 99,
       "date": "1961-07-17",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -21673,8 +21612,7 @@
       "name": "Session 100",
       "number": 100,
       "date": "1961-07-18",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -21816,8 +21754,7 @@
       "name": "Session 101",
       "number": 101,
       "date": "1961-07-18",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -21920,8 +21857,7 @@
       "name": "Session 102",
       "number": 102,
       "date": "1961-07-19",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -22029,8 +21965,7 @@
       "name": "Session 103",
       "number": 103,
       "date": "1961-07-19",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -22120,8 +22055,7 @@
       "name": "Session 104",
       "number": 104,
       "date": "1961-07-20",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Cross Examination",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -22217,8 +22151,7 @@
       "name": "Session 105",
       "number": 105,
       "date": "1961-07-20",
-      "day": "Tuesday",
-      "phase": "Defense",
+      "phase": "Redirect Examination",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -22307,8 +22240,7 @@
       "name": "Session 106",
       "number": 106,
       "date": "1961-07-21",
-      "day": "Wednesday",
-      "phase": "Prosecution Rebuttal",
+      "phase": "Judges Questions",
       "witnessIds": [],
       "personIds": [
         "person_129",
@@ -22427,8 +22359,7 @@
       "name": "Session 107",
       "number": 107,
       "date": "1961-07-24",
-      "day": "Wednesday",
-      "phase": "Prosecution Rebuttal",
+      "phase": "Judges Questions",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -22556,7 +22487,6 @@
       "name": "Session 108",
       "number": 108,
       "date": "1961-07-24",
-      "day": "Wednesday",
       "phase": "Prosecution Rebuttal",
       "witnessIds": [],
       "personIds": [
@@ -22672,8 +22602,7 @@
       "name": "Session 109",
       "number": 109,
       "date": "1961-07-25",
-      "day": "Wednesday",
-      "phase": "Prosecution Rebuttal",
+      "phase": "Defense Testimony",
       "witnessIds": [],
       "personIds": [
         "person_171",
@@ -22769,8 +22698,7 @@
       "name": "Session 110",
       "number": 110,
       "date": "1961-08-08",
-      "day": "Wednesday",
-      "phase": "Prosecution Rebuttal",
+      "phase": "Closing Arguments",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -22956,8 +22884,7 @@
       "name": "Session 111",
       "number": 111,
       "date": "1961-08-08",
-      "day": "Wednesday",
-      "phase": "Prosecution Rebuttal",
+      "phase": "Closing Arguments",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -23145,7 +23072,6 @@
       "name": "Session 112",
       "number": 112,
       "date": "1961-08-09",
-      "day": "Thursday",
       "phase": "Closing Arguments",
       "witnessIds": [],
       "personIds": [
@@ -23350,7 +23276,6 @@
       "name": "Session 113",
       "number": 113,
       "date": "1961-08-10",
-      "day": "Thursday",
       "phase": "Closing Arguments",
       "witnessIds": [],
       "personIds": [
@@ -23538,8 +23463,7 @@
       "name": "Session 114",
       "number": 114,
       "date": "1961-08-14",
-      "day": "Thursday",
-      "phase": "Closing Arguments",
+      "phase": "Defense Closing",
       "witnessIds": [],
       "personIds": [
         "person_111",
@@ -23711,8 +23635,7 @@
       "name": "Session 115",
       "number": 115,
       "date": "1961-12-11",
-      "day": "Thursday",
-      "phase": "Judgment",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [],
       "locationIds": [],
@@ -23726,8 +23649,7 @@
       "name": "Session 116",
       "number": 116,
       "date": "1961-12-11",
-      "day": "Thursday",
-      "phase": "Judgment",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [],
       "locationIds": [],
@@ -23740,9 +23662,8 @@
       "type": "SESSION",
       "name": "Session 117",
       "number": 117,
-      "date": "1961-11-12",
-      "day": "Thursday",
-      "phase": "Judgment",
+      "date": "1961-12-11",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [],
       "locationIds": [],
@@ -23756,8 +23677,7 @@
       "name": "Session 118",
       "number": 118,
       "date": "1961-12-12",
-      "day": "Thursday",
-      "phase": "Judgment",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [],
       "locationIds": [],
@@ -23771,8 +23691,7 @@
       "name": "Session 119",
       "number": 119,
       "date": "1961-12-12",
-      "day": "Friday",
-      "phase": "Judgment",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [
         "figure_1723",
@@ -23793,8 +23712,7 @@
       "name": "Session 120",
       "number": 120,
       "date": "1961-12-13",
-      "day": "Friday",
-      "phase": "Judgment",
+      "phase": "Verdict",
       "witnessIds": [],
       "personIds": [
         "person_124",
@@ -23867,8 +23785,7 @@
       "name": "Session 121",
       "number": 121,
       "date": "1961-12-15",
-      "day": "Friday",
-      "phase": "Sentence",
+      "phase": "Sentencing",
       "witnessIds": [],
       "personIds": [
         "person_153",
@@ -24970,7 +24887,6 @@
       "type": "DATE",
       "name": "April 11, 1961",
       "date": "1961-04-11",
-      "day": "Tuesday",
       "year": "1961",
       "month": "04"
     },
@@ -24979,7 +24895,6 @@
       "type": "DATE",
       "name": "April 17, 1961",
       "date": "1961-04-17",
-      "day": "Monday",
       "year": "1961",
       "month": "04"
     },
@@ -24988,7 +24903,6 @@
       "type": "DATE",
       "name": "April 18, 1961",
       "date": "1961-04-18",
-      "day": "Tuesday",
       "year": "1961",
       "month": "04"
     },
@@ -24997,7 +24911,6 @@
       "type": "DATE",
       "name": "April 19, 1961",
       "date": "1961-04-19",
-      "day": "Wednesday",
       "year": "1961",
       "month": "04"
     },
@@ -25006,7 +24919,6 @@
       "type": "DATE",
       "name": "April 20, 1961",
       "date": "1961-04-20",
-      "day": "Thursday",
       "year": "1961",
       "month": "04"
     },
@@ -25015,7 +24927,6 @@
       "type": "DATE",
       "name": "April 24, 1961",
       "date": "1961-04-24",
-      "day": "Monday",
       "year": "1961",
       "month": "04"
     },
@@ -25024,7 +24935,6 @@
       "type": "DATE",
       "name": "April 25, 1961",
       "date": "1961-04-25",
-      "day": "Tuesday",
       "year": "1961",
       "month": "04"
     },
@@ -25033,7 +24943,6 @@
       "type": "DATE",
       "name": "April 26, 1961",
       "date": "1961-04-26",
-      "day": "Wednesday",
       "year": "1961",
       "month": "04"
     },
@@ -25042,7 +24951,6 @@
       "type": "DATE",
       "name": "April 27, 1961",
       "date": "1961-04-27",
-      "day": "Thursday",
       "year": "1961",
       "month": "04"
     },
@@ -25051,7 +24959,6 @@
       "type": "DATE",
       "name": "April 28, 1961",
       "date": "1961-04-28",
-      "day": "Friday",
       "year": "1961",
       "month": "04"
     },
@@ -25060,7 +24967,6 @@
       "type": "DATE",
       "name": "May 01, 1961",
       "date": "1961-05-01",
-      "day": "Monday",
       "year": "1961",
       "month": "05"
     },
@@ -25069,7 +24975,6 @@
       "type": "DATE",
       "name": "May 02, 1961",
       "date": "1961-05-02",
-      "day": "Tuesday",
       "year": "1961",
       "month": "05"
     },
@@ -25078,7 +24983,6 @@
       "type": "DATE",
       "name": "May 03, 1961",
       "date": "1961-05-03",
-      "day": "Wednesday",
       "year": "1961",
       "month": "05"
     },
@@ -25087,7 +24991,6 @@
       "type": "DATE",
       "name": "May 04, 1961",
       "date": "1961-05-04",
-      "day": "Thursday",
       "year": "1961",
       "month": "05"
     },
@@ -25096,7 +24999,6 @@
       "type": "DATE",
       "name": "May 08, 1961",
       "date": "1961-05-08",
-      "day": "Monday",
       "year": "1961",
       "month": "05"
     },
@@ -25105,7 +25007,6 @@
       "type": "DATE",
       "name": "May 09, 1961",
       "date": "1961-05-09",
-      "day": "Tuesday",
       "year": "1961",
       "month": "05"
     },
@@ -25114,7 +25015,6 @@
       "type": "DATE",
       "name": "May 10, 1961",
       "date": "1961-05-10",
-      "day": "Wednesday",
       "year": "1961",
       "month": "05"
     },
@@ -25123,7 +25023,6 @@
       "type": "DATE",
       "name": "May 11, 1961",
       "date": "1961-05-11",
-      "day": "Thursday",
       "year": "1961",
       "month": "05"
     },
@@ -25132,7 +25031,6 @@
       "type": "DATE",
       "name": "May 15, 1961",
       "date": "1961-05-15",
-      "day": "Monday",
       "year": "1961",
       "month": "05"
     },
@@ -25141,7 +25039,6 @@
       "type": "DATE",
       "name": "May 16, 1961",
       "date": "1961-05-16",
-      "day": "Tuesday",
       "year": "1961",
       "month": "05"
     },
@@ -25150,7 +25047,6 @@
       "type": "DATE",
       "name": "May 17, 1961",
       "date": "1961-05-17",
-      "day": "Wednesday",
       "year": "1961",
       "month": "05"
     },
@@ -25159,7 +25055,6 @@
       "type": "DATE",
       "name": "May 18, 1961",
       "date": "1961-05-18",
-      "day": "Thursday",
       "year": "1961",
       "month": "05"
     },
@@ -25168,7 +25063,6 @@
       "type": "DATE",
       "name": "May 22, 1961",
       "date": "1961-05-22",
-      "day": "Monday",
       "year": "1961",
       "month": "05"
     },
@@ -25177,7 +25071,6 @@
       "type": "DATE",
       "name": "May 23, 1961",
       "date": "1961-05-23",
-      "day": "Tuesday",
       "year": "1961",
       "month": "05"
     },
@@ -25186,7 +25079,6 @@
       "type": "DATE",
       "name": "May 24, 1961",
       "date": "1961-05-24",
-      "day": "Wednesday",
       "year": "1961",
       "month": "05"
     },
@@ -25195,7 +25087,6 @@
       "type": "DATE",
       "name": "May 25, 1961",
       "date": "1961-05-25",
-      "day": "Thursday",
       "year": "1961",
       "month": "05"
     },
@@ -25204,7 +25095,6 @@
       "type": "DATE",
       "name": "May 29, 1961",
       "date": "1961-05-29",
-      "day": "Monday",
       "year": "1961",
       "month": "05"
     },
@@ -25213,7 +25103,6 @@
       "type": "DATE",
       "name": "May 30, 1961",
       "date": "1961-05-30",
-      "day": "Tuesday",
       "year": "1961",
       "month": "05"
     },
@@ -25222,7 +25111,6 @@
       "type": "DATE",
       "name": "May 31, 1961",
       "date": "1961-05-31",
-      "day": "Wednesday",
       "year": "1961",
       "month": "05"
     },
@@ -25231,7 +25119,6 @@
       "type": "DATE",
       "name": "June 01, 1961",
       "date": "1961-06-01",
-      "day": "Thursday",
       "year": "1961",
       "month": "06"
     },
@@ -25240,7 +25127,6 @@
       "type": "DATE",
       "name": "June 05, 1961",
       "date": "1961-06-05",
-      "day": "Monday",
       "year": "1961",
       "month": "06"
     },
@@ -25249,7 +25135,6 @@
       "type": "DATE",
       "name": "June 06, 1961",
       "date": "1961-06-06",
-      "day": "Tuesday",
       "year": "1961",
       "month": "06"
     },
@@ -25258,7 +25143,6 @@
       "type": "DATE",
       "name": "June 07, 1961",
       "date": "1961-06-07",
-      "day": "Wednesday",
       "year": "1961",
       "month": "06"
     },
@@ -25267,7 +25151,6 @@
       "type": "DATE",
       "name": "June 08, 1961",
       "date": "1961-06-08",
-      "day": "Thursday",
       "year": "1961",
       "month": "06"
     },
@@ -25276,7 +25159,6 @@
       "type": "DATE",
       "name": "June 12, 1961",
       "date": "1961-06-12",
-      "day": "Monday",
       "year": "1961",
       "month": "06"
     },
@@ -25285,7 +25167,6 @@
       "type": "DATE",
       "name": "June 13, 1961",
       "date": "1961-06-13",
-      "day": "Tuesday",
       "year": "1961",
       "month": "06"
     },
@@ -25294,7 +25175,6 @@
       "type": "DATE",
       "name": "June 14, 1961",
       "date": "1961-06-14",
-      "day": "Wednesday",
       "year": "1961",
       "month": "06"
     },
@@ -25303,7 +25183,6 @@
       "type": "DATE",
       "name": "June 15, 1961",
       "date": "1961-06-15",
-      "day": "Thursday",
       "year": "1961",
       "month": "06"
     },
@@ -25312,7 +25191,6 @@
       "type": "DATE",
       "name": "June 19, 1961",
       "date": "1961-06-19",
-      "day": "Monday",
       "year": "1961",
       "month": "06"
     },
@@ -25321,7 +25199,6 @@
       "type": "DATE",
       "name": "June 20, 1961",
       "date": "1961-06-20",
-      "day": "Tuesday",
       "year": "1961",
       "month": "06"
     },
@@ -25330,7 +25207,6 @@
       "type": "DATE",
       "name": "June 21, 1961",
       "date": "1961-06-21",
-      "day": "Wednesday",
       "year": "1961",
       "month": "06"
     },
@@ -25339,7 +25215,6 @@
       "type": "DATE",
       "name": "June 22, 1961",
       "date": "1961-06-22",
-      "day": "Thursday",
       "year": "1961",
       "month": "06"
     },
@@ -25348,7 +25223,6 @@
       "type": "DATE",
       "name": "June 26, 1961",
       "date": "1961-06-26",
-      "day": "Monday",
       "year": "1961",
       "month": "06"
     },
@@ -25357,7 +25231,6 @@
       "type": "DATE",
       "name": "June 27, 1961",
       "date": "1961-06-27",
-      "day": "Tuesday",
       "year": "1961",
       "month": "06"
     },
@@ -25366,7 +25239,6 @@
       "type": "DATE",
       "name": "June 28, 1961",
       "date": "1961-06-28",
-      "day": "Wednesday",
       "year": "1961",
       "month": "06"
     },
@@ -25375,7 +25247,6 @@
       "type": "DATE",
       "name": "June 29, 1961",
       "date": "1961-06-29",
-      "day": "Thursday",
       "year": "1961",
       "month": "06"
     },
@@ -25384,7 +25255,6 @@
       "type": "DATE",
       "name": "July 03, 1961",
       "date": "1961-07-03",
-      "day": "Monday",
       "year": "1961",
       "month": "07"
     },
@@ -25393,7 +25263,6 @@
       "type": "DATE",
       "name": "July 04, 1961",
       "date": "1961-07-04",
-      "day": "Tuesday",
       "year": "1961",
       "month": "07"
     },
@@ -25402,7 +25271,6 @@
       "type": "DATE",
       "name": "July 05, 1961",
       "date": "1961-07-05",
-      "day": "Wednesday",
       "year": "1961",
       "month": "07"
     },
@@ -25411,7 +25279,6 @@
       "type": "DATE",
       "name": "July 06, 1961",
       "date": "1961-07-06",
-      "day": "Thursday",
       "year": "1961",
       "month": "07"
     },
@@ -25420,7 +25287,6 @@
       "type": "DATE",
       "name": "July 10, 1961",
       "date": "1961-07-10",
-      "day": "Monday",
       "year": "1961",
       "month": "07"
     },
@@ -25429,7 +25295,6 @@
       "type": "DATE",
       "name": "July 11, 1961",
       "date": "1961-07-11",
-      "day": "Tuesday",
       "year": "1961",
       "month": "07"
     },
@@ -25438,7 +25303,6 @@
       "type": "DATE",
       "name": "July 12, 1961",
       "date": "1961-07-12",
-      "day": "Wednesday",
       "year": "1961",
       "month": "07"
     },
@@ -25447,7 +25311,6 @@
       "type": "DATE",
       "name": "July 13, 1961",
       "date": "1961-07-13",
-      "day": "Thursday",
       "year": "1961",
       "month": "07"
     },
@@ -25456,7 +25319,6 @@
       "type": "DATE",
       "name": "July 17, 1961",
       "date": "1961-07-17",
-      "day": "Monday",
       "year": "1961",
       "month": "07"
     },
@@ -25465,7 +25327,6 @@
       "type": "DATE",
       "name": "July 18, 1961",
       "date": "1961-07-18",
-      "day": "Tuesday",
       "year": "1961",
       "month": "07"
     },
@@ -25474,7 +25335,6 @@
       "type": "DATE",
       "name": "July 19, 1961",
       "date": "1961-07-19",
-      "day": "Wednesday",
       "year": "1961",
       "month": "07"
     },
@@ -25483,7 +25343,6 @@
       "type": "DATE",
       "name": "July 20, 1961",
       "date": "1961-07-20",
-      "day": "Thursday",
       "year": "1961",
       "month": "07"
     },
@@ -25492,7 +25351,6 @@
       "type": "DATE",
       "name": "July 24, 1961",
       "date": "1961-07-24",
-      "day": "Monday",
       "year": "1961",
       "month": "07"
     },
@@ -25501,7 +25359,6 @@
       "type": "DATE",
       "name": "July 25, 1961",
       "date": "1961-07-25",
-      "day": "Tuesday",
       "year": "1961",
       "month": "07"
     },
@@ -25510,7 +25367,6 @@
       "type": "DATE",
       "name": "July 26, 1961",
       "date": "1961-07-26",
-      "day": "Wednesday",
       "year": "1961",
       "month": "07"
     },
@@ -25519,7 +25375,6 @@
       "type": "DATE",
       "name": "July 27, 1961",
       "date": "1961-07-27",
-      "day": "Thursday",
       "year": "1961",
       "month": "07"
     },
@@ -25528,7 +25383,6 @@
       "type": "DATE",
       "name": "July 31, 1961",
       "date": "1961-07-31",
-      "day": "Monday",
       "year": "1961",
       "month": "07"
     },
@@ -25537,7 +25391,6 @@
       "type": "DATE",
       "name": "August 01, 1961",
       "date": "1961-08-01",
-      "day": "Tuesday",
       "year": "1961",
       "month": "08"
     },
@@ -25546,7 +25399,6 @@
       "type": "DATE",
       "name": "August 02, 1961",
       "date": "1961-08-02",
-      "day": "Wednesday",
       "year": "1961",
       "month": "08"
     },
@@ -25555,7 +25407,6 @@
       "type": "DATE",
       "name": "August 03, 1961",
       "date": "1961-08-03",
-      "day": "Thursday",
       "year": "1961",
       "month": "08"
     },
@@ -25564,7 +25415,6 @@
       "type": "DATE",
       "name": "August 07, 1961",
       "date": "1961-08-07",
-      "day": "Monday",
       "year": "1961",
       "month": "08"
     },
@@ -25573,7 +25423,6 @@
       "type": "DATE",
       "name": "August 08, 1961",
       "date": "1961-08-08",
-      "day": "Tuesday",
       "year": "1961",
       "month": "08"
     },
@@ -25582,7 +25431,6 @@
       "type": "DATE",
       "name": "August 09, 1961",
       "date": "1961-08-09",
-      "day": "Wednesday",
       "year": "1961",
       "month": "08"
     },
@@ -25591,7 +25439,6 @@
       "type": "DATE",
       "name": "August 10, 1961",
       "date": "1961-08-10",
-      "day": "Thursday",
       "year": "1961",
       "month": "08"
     },
@@ -25600,7 +25447,6 @@
       "type": "DATE",
       "name": "August 11, 1961",
       "date": "1961-08-11",
-      "day": "Friday",
       "year": "1961",
       "month": "08"
     },
@@ -25609,7 +25455,6 @@
       "type": "DATE",
       "name": "August 14, 1961",
       "date": "1961-08-14",
-      "day": "Monday",
       "year": "1961",
       "month": "08"
     },
@@ -25618,7 +25463,6 @@
       "type": "DATE",
       "name": "December 11, 1961",
       "date": "1961-12-11",
-      "day": "Monday",
       "year": "1961",
       "month": "12"
     },
@@ -25627,7 +25471,6 @@
       "type": "DATE",
       "name": "December 12, 1961",
       "date": "1961-12-12",
-      "day": "Tuesday",
       "year": "1961",
       "month": "12"
     },
@@ -25636,7 +25479,6 @@
       "type": "DATE",
       "name": "December 13, 1961",
       "date": "1961-12-13",
-      "day": "Wednesday",
       "year": "1961",
       "month": "12"
     },
@@ -25645,7 +25487,6 @@
       "type": "DATE",
       "name": "December 14, 1961",
       "date": "1961-12-14",
-      "day": "Thursday",
       "year": "1961",
       "month": "12"
     },
@@ -25654,7 +25495,6 @@
       "type": "DATE",
       "name": "December 15, 1961",
       "date": "1961-12-15",
-      "day": "Friday",
       "year": "1961",
       "month": "12"
     },
