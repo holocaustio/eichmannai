@@ -1,0 +1,28 @@
+// Embeds static assets in the worker bundle (npm run deploy:embedded).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "eichmannai",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": [
+    "nodejs_compat",
+    "global_fetch_strictly_public"
+  ],
+  "vars": {
+    "NEXT_PUBLIC_SITE_URL": "https://theeichmanntrial.org",
+    "OPENAI_MODEL": "gpt-5-nano-2025-08-07",
+    "OPENAI_MODEL_ASSISTANT": "gpt-5.1"
+  },
+  "main": "cf-worker.mjs",
+  "rules": [
+    {
+      "type": "Data",
+      "globs": [
+        "**/*.bin"
+      ],
+      "fallthrough": false
+    }
+  ],
+  "images": {
+    "binding": "IMAGES"
+  }
+}

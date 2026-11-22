@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { readFileSync, existsSync } from 'fs';
+import { readFileSync, existsSync, preloadFiles } from '@/lib/bundled-fs';
 import { join } from 'path';
 import OpenAI from 'openai';
 
@@ -384,6 +384,12 @@ export async function POST(request: NextRequest) {
     
     // Only consider Vol files (these have the actual transcripts)
     const volSources = (witness.sources || []).filter(s => s.file.startsWith('Vol'));
+
+    // Load this witness's transcript files (static assets) before the sync reads below.
+    await preloadFiles([
+      ...(witness.sources || []).map(s => join(OCR_DIR, s.file)),
+      join(OCR_DIR, 'Vol1_p15291.txt'),
+    ]);
     
     // Find a source with testimony end marker (מר X, סיימת את עדותך)
     for (const source of volSources) {

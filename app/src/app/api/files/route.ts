@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { readdir, readFile, stat } from 'fs/promises';
+import { readdir, readFile, stat } from '@/lib/bundled-fs';
 import { join } from 'path';
 
 const OCR_DIR = join(process.cwd(), '..', 'downloads', 'pdf', 'OCR_clean');
