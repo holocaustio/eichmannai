@@ -9,7 +9,7 @@
     "lint": "eslint",
     "prebuild": "node scripts/gen-bundled-data.mjs",
     "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy:embedded": "opennextjs-cloudflare build && node scripts/embed-assets.mjs && wrangler deploy -c wrangler.embedded.jsonc"
+    "deploy:embedded": "opennextjs-cloudflare build && opennextjs-cloudflare populateCache remote -c wrangler.embedded.jsonc && node scripts/embed-assets.mjs && wrangler deploy -c wrangler.embedded.jsonc"
   },
   "dependencies": {
     "next": "^16.4.6",

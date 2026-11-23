@@ -32,5 +32,5 @@ files.forEach((file, i) => {
   const type = TYPES[extname(file).toLowerCase()] || 'application/octet-stream';
   entries += `  ${JSON.stringify('/' + rel.split('\\').join('/'))}: [a${i}, ${JSON.stringify(type)}],\n`;
 });
-writeFileSync('.open-next/embedded-assets.mjs', `${imports}\nexport const ASSET_MAP = {\n${entries}};\n`);
+writeFileSync('.open-next/embedded-assets.mjs', `${imports}\nexport const BUILD_VERSION = ${JSON.stringify(String(Date.now()))};\nexport const ASSET_MAP = {\n${entries}};\n`);
 console.log(`Embedded ${files.length} assets`);
